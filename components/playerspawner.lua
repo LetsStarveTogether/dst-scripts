@@ -85,7 +85,6 @@ local function PlayerRemove(player, deletesession, migrationdata, readytoremove)
             player.migration = migrationdata ~= nil and {
                 worldid = TheShard:GetShardId(),
                 portalid = migrationdata.portalid,
-                sessionid = TheWorld.meta.session_identifier,
             } or nil
             SerializeUserSession(player)
         end
@@ -213,6 +212,16 @@ inst:ListenForEvent("ms_playerdespawnandmigrate", OnPlayerDespawnAndMigrate)
 inst:ListenForEvent("ms_setspawnmode", OnSetSpawnMode)
 inst:ListenForEvent("ms_registerspawnpoint", OnRegisterSpawnPoint)
 inst:ListenForEvent("ms_registermigrationportal", OnRegisterMigrationPortal)
+
+--------------------------------------------------------------------------
+--[[ Deinitialization ]]
+--------------------------------------------------------------------------
+
+function self:OnRemoveEntity()
+    while #ShardPortals > 0 do
+        table.remove(ShardPortals)
+    end
+end
 
 --------------------------------------------------------------------------
 

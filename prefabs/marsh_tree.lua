@@ -1,7 +1,6 @@
 local assets =
 {
     Asset("ANIM", "anim/tree_marsh.zip"),
-	Asset("MINIMAP_IMAGE", "marshtree"),
 }
 
 local prefabs =
@@ -40,8 +39,8 @@ local function set_stump(inst)
 end
 
 local function dig_up_stump(inst, chopper)
-    inst:Remove()
     inst.components.lootdropper:SpawnLootPrefab("log")
+    inst:Remove()
 end
 
 local function chop_down_tree(inst, chopper)
@@ -190,4 +189,4 @@ local function fn()
     return inst
 end
 
-return Prefab("marsh_tree", fn, assets)
+return Prefab("marsh/objects/marsh_tree", fn, assets)
