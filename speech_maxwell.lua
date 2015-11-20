@@ -326,12 +326,6 @@ return {
 			GENERIC = "Moderately tough, but flammable.",
 			BURNT = "Not tough, nor flammable.",
 		},
-		WARDROBE = 
-		{
-			GENERIC = "Fashion without function.",
-            BURNING = "Oops.",
-			BURNT = "I'm sufficiently dapper without it.",
-		},
 		WARG = "The alpha!",
 		WATERMELON = "It's mostly water. Fibrous, sweet water.",
 		WATERMELON_COOKED = "Grillermelon.",
@@ -345,7 +339,7 @@ return {
 		ICESTAFF = "Cool staff.",
 		WAXWELLJOURNAL = "I'm so sorry Charlie.",
 		WORMLIGHT = "What a neat trick.",
-		WORMLIGHT = "This one isn't very good.",
+		WORMLIGHT_LESSER = "This one isn't very good.",
 		WORM =
 		{
 		    PLANT = "You aren't fooling me, plant.",
