@@ -23,7 +23,6 @@ local function makeassetlist(buildname)
     return
     {
         Asset("ANIM", "anim/"..buildname..".zip"),
-		Asset("MINIMAP_IMAGE", "relic"),
     }
 end
 
@@ -31,9 +30,6 @@ local function OnDeath(inst)
     local fx = SpawnPrefab("collapse_small")
     fx.Transform:SetPosition(inst.Transform:GetWorldPosition())
     fx:SetMaterial(inst.smashsound or "pot")
-    --V2C: why play anim if we're removing?
-    --     or did u want to remove after anim ends?
-    --inst.AnimState:PlayAnimation("broken")
     inst.components.lootdropper:DropLoot()
     inst:Remove()
 end
@@ -90,7 +86,7 @@ local function OnSave(inst, data)
     end
 end
 
-local function makefn(name, asset, smashsound, rubble, tag)
+local function makefn(name, asset, smashsound, rubble)
     return function()
         local inst = CreateEntity()
 
@@ -111,10 +107,7 @@ local function makefn(name, asset, smashsound, rubble, tag)
         inst:AddTag("cavedweller")
         inst:AddTag("smashable")
         inst:AddTag("object")
-
-        if tag ~= nil then
-            inst:AddTag(tag)
-        end
+        inst:AddTag(smashsound == "rock" and "stone" or "clay")
 
         --Sneak these into pristine state for optimization
         inst:AddTag("_named")
@@ -139,6 +132,7 @@ local function makefn(name, asset, smashsound, rubble, tag)
         inst.components.combat.onhitfn = OnHit
 
         inst:AddComponent("health")
+        inst.components.health.nofadeout = true
         inst.components.health.canmurder = false
         inst.components.health:SetMaxHealth(GetRandomWithVariance(90, 20))
 
@@ -210,11 +204,11 @@ local function makefn(name, asset, smashsound, rubble, tag)
 end
 
 local function item(name, sound)
-    return Prefab(name, makefn(name, name, sound, false), makeassetlist(name), prefabs)
+    return Prefab("cave/objects/smashables/"..name, makefn(name, name, sound, false), makeassetlist(name), prefabs)
 end
 
 local function rubble(name, assetname, sound, rubble)
-    return Prefab(name, makefn(name, assetname, sound, rubble), makeassetlist(assetname), prefabs)
+    return Prefab("cave/objects/smashables/"..name, makefn(name, assetname, sound, rubble), makeassetlist(assetname), prefabs)
 end
 
 return item("ruins_plate"),

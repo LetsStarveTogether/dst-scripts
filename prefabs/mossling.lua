@@ -132,6 +132,9 @@ local function fn()
     inst:AddTag("mossling")
     inst:AddTag("animal")
 
+    --herdmember (from herdmember component) added to pristine state for optimization
+    inst:AddTag("herdmember")
+
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then
@@ -218,4 +221,4 @@ local function fn()
     return inst
 end
 
-return Prefab("mossling", fn, assets, prefabs)
+return Prefab("common/monsters/mossling", fn, assets, prefabs)

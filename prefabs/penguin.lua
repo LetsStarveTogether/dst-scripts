@@ -11,7 +11,6 @@ local prefabs =
     "drumstick",
     "feather_crow",
     "bird_egg",
-    "teamleader",
 }
 
 local brain = require "brains/penguinbrain"
@@ -266,6 +265,9 @@ local function fn()
     inst:AddTag("animal")
     inst:AddTag("smallcreature")
 
+    --herdmember (from herdmember component) added to pristine state for optimization
+    inst:AddTag("herdmember")
+
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then
@@ -357,4 +359,4 @@ local function fn()
     return inst
 end
 
-return Prefab("penguin", fn, assets, prefabs)
+return Prefab("forest/animals/penguin", fn, assets, prefabs)

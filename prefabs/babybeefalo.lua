@@ -122,6 +122,9 @@ local function fn()
     inst:AddTag("baby")
     inst:AddTag("animal")
 
+    --herdmember (from herdmember component) added to pristine state for optimization
+    inst:AddTag("herdmember")
+
     MakeCharacterPhysics(inst, 100, .75)
 
     inst.entity:SetPristine()
@@ -183,4 +186,4 @@ local function fn()
     return inst
 end
 
-return Prefab("babybeefalo", fn, assets, prefabs)
+return Prefab("forest/animals/babybeefalo", fn, assets, prefabs)

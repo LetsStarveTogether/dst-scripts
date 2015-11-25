@@ -11,8 +11,7 @@ local prefabs =
 {
     "meat",
     "lightninggoathorn",
-    "goatmilk",
-    "lightninggoatherd",
+    "goatmilk"
 }
 
 local brain = require("brains/lightninggoatbrain")
@@ -180,6 +179,9 @@ local function fn()
     inst:AddTag("animal")
     inst:AddTag("lightningrod")
 
+    --herdmember (from herdmember component) added to pristine state for optimization
+    inst:AddTag("herdmember")
+
     inst.Light:Enable(false)
     inst.Light:SetRadius(.85)
     inst.Light:SetFalloff(0.5)
@@ -257,4 +259,4 @@ local function fn()
     return inst
 end
 
-return Prefab("lightninggoat", fn, assets, prefabs)
+return Prefab("common/monsters/lightninggoat", fn, assets, prefabs)
