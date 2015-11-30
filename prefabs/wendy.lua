@@ -2,8 +2,9 @@ local MakePlayerCharacter = require("prefabs/player_common")
 
 local assets =
 {
-    Asset("SCRIPT", "scripts/prefabs/player_common.lua"),
+    Asset("ANIM", "anim/wendy.zip"),
 	Asset("SOUND", "sound/wendy.fsb"),
+
     Asset("ANIM", "anim/ghost_wendyplayer_build.zip"),
 }
 
@@ -38,6 +39,9 @@ local function OnLoad(inst, data)
     if data.abigail ~= nil and inst.abigail == nil then
         local abigail = SpawnSaveRecord(data.abigail)
         if abigail ~= nil then
+            if inst.migrationpets ~= nil then
+                table.insert(inst.migrationpets, abigail)
+            end
             abigail.SoundEmitter:PlaySound("dontstarve/common/ghost_spawn")
             abigail:LinkToPlayer(inst)
         end
