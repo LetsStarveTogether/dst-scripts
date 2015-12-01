@@ -121,7 +121,9 @@ end
 local function OnDestroyOther(inst, other)
     if other:IsValid() and other.components.workable ~= nil and other.components.workable:CanBeWorked() then
         SpawnPrefab("collapse_small").Transform:SetPosition(other.Transform:GetWorldPosition())
-        other.components.lootdropper:SetLoot({})
+        if other.components.lootdropper ~= nil then
+            other.components.lootdropper:SetLoot({})
+        end
         other.components.workable:Destroy(inst)
     end
 end
@@ -506,4 +508,4 @@ local function fn()
 	return inst
 end
 
-return Prefab("bearger", fn, assets, prefabs)
+return Prefab("common/monsters/bearger", fn, assets, prefabs)

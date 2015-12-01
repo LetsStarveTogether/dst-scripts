@@ -217,7 +217,7 @@ local states=
         end,
 
         timeline =
-        {
+        {                
             TimeEvent(15*FRAMES, function(inst) 
                 if inst.sg.statemem.target ~= nil and inst.sg.statemem.target:IsValid() then
                     inst:FacePoint(inst.sg.statemem.target.Transform:GetWorldPosition())
@@ -235,7 +235,7 @@ local states=
             end)
         },
 
-        events =
+        events = 
         {
             EventHandler("animqueueover", function(inst) inst.sg:GoToState("idle") end)
         },
@@ -295,10 +295,17 @@ local states=
                 inst.Physics:SetMotorVel(x,15+math.random()*5,-2 + math.random()*4)
             end
         end,
-        
-        timeline=
+
+        timeline =
         {
-            TimeEvent(2, function(inst) inst.components.homeseeker.home.components.childspawner:GoHome(inst) end)
+            TimeEvent(2, function(inst)
+                if inst.components.homeseeker ~= nil then
+                    inst.components.homeseeker.home.components.childspawner:GoHome(inst)
+                else
+                    --V2C: Debug spawned?
+                    inst:Remove()
+                end
+            end),
         }
     },
 

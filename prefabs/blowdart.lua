@@ -216,11 +216,14 @@ local function walrus()
     inst.components.projectile:SetHoming(false)
     inst.components.projectile:SetOnMissFn(inst.Remove)
     inst.components.projectile:SetLaunchOffset(Vector3(3, 2, 0))
+    --Increase hitdist (default=1) to account for launch offset height
+    --math.sqrt(1 * 1 + 2 * 2)
+    inst.components.projectile:SetHitDist(math.sqrt(5))
 
     return inst
 end
 
-return Prefab("blowdart_sleep", sleep, assets, prefabs),
-       Prefab("blowdart_fire", fire, assets, prefabs),
-       Prefab("blowdart_pipe", pipe, assets, prefabs),
-       Prefab("blowdart_walrus", walrus, assets, prefabs)
+return Prefab("common/inventory/blowdart_sleep", sleep, assets, prefabs),
+       Prefab("common/inventory/blowdart_fire", fire, assets, prefabs),
+       Prefab("common/inventory/blowdart_pipe", pipe, assets, prefabs),
+       Prefab("common/inventory/blowdart_walrus", walrus, assets, prefabs)
