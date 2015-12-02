@@ -21,7 +21,6 @@ local OptionsScreen = require "screens/optionsscreen"
 local MorgueScreen = require "screens/morguescreen"
 local ServerListingScreen = require "screens/serverlistingscreen"
 local ServerCreationScreen = require "screens/servercreationscreen"
-local SkinsScreen = require "screens/skinsscreen"
 
 local TEMPLATES = require "widgets/templates"
 
@@ -34,7 +33,7 @@ local bottom_offset = 60
 
 local titleX = lcol-35
 local menuX = lcol-30
-local menuY = -240 -- Use -265 when the "game wizard" option is added
+local menuY = -220
 
 SHOW_DST_DEBUG_HOST_JOIN = false
 SHOW_DEBUG_UNLOCK_RESET = false
@@ -235,6 +234,8 @@ function MultiplayerMainScreen:DoInit( )
     self.countdown:Hide()
     self.wilson:Hide()
     self.wilson2:Hide()
+    self.shadow1:Hide()
+    self.shadow2:Hide()
 
     self.fg.character_root:SetCanFadeAlpha(false)
 
@@ -275,6 +276,12 @@ function MultiplayerMainScreen:DoInit( )
 
 	self:UpdateMOTD()
 	--self:UpdateCountdown()
+    --V2C: Show puppets because we're skipping UpdateCountdown
+    self.wilson:Show()
+    self.wilson2:Show()
+    self.shadow1:Show()
+    self.shadow2:Show()
+    ----------------------------------------------------------
 
 	self.filter_settings = nil
 
@@ -315,16 +322,6 @@ end
 
 function MultiplayerMainScreen:OnGameWizardButton()
     -- needs implementation...
-end
-
-function MultiplayerMainScreen:OnSkinsButton()
-	self.last_focus_widget = TheFrontEnd:GetFocusWidget()
-    self.menu:Disable()
-    self.leaving = true
-    TheFrontEnd:Fade(false, SCREEN_FADE_TIME, function()
-        TheFrontEnd:PushScreen(SkinsScreen(Profile))
-        TheFrontEnd:Fade(true, SCREEN_FADE_TIME)
-    end)
 end
 
 function MultiplayerMainScreen:OnBrowseServersButton()	
@@ -504,8 +501,7 @@ function MultiplayerMainScreen:MakeMainMenu()
 	
     local browse_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.BROWSE, function() self:OnBrowseServersButton() end, STRINGS.UI.MAINSCREEN.TOOLTIP_BROWSE)
     local host_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.CREATE, function() self:OnCreateServerButton() end, STRINGS.UI.MAINSCREEN.TOOLTIP_HOST)
-    --local wizard_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.GAMEWIZARD, function() self:OnGameWizardButton() end, STRINGS.UI.MAINSCREEN.TOOLTIP_WIZARD)
-    local skins_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.SKINS, function() self:OnSkinsButton() end, STRINGS.UI.MAINSCREEN.TOOLTIP_SKINS)
+    -- local wizard_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.GAMEWIZARD, function() self:OnGameWizardButton() end, STRINGS.UI.MAINSCREEN.TOOLTIP_WIZARD)
     local history_button = MakeMainMenuButton(STRINGS.UI.MORGUESCREEN.HISTORY, function() self:OnHistoryButton() end, STRINGS.UI.MAINSCREEN.TOOLTIP_HISTORY)
     local options_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.OPTIONS, function() self:Settings() end, STRINGS.UI.MAINSCREEN.TOOLTIP_OPTIONS)
     local quit_button = MakeMainMenuButton(STRINGS.UI.MAINSCREEN.QUIT, function() self:Quit() end, STRINGS.UI.MAINSCREEN.TOOLTIP_QUIT)
@@ -517,8 +513,7 @@ function MultiplayerMainScreen:MakeMainMenu()
             {widget = mods_button},
             {widget = history_button},
             {widget = options_button},
-            --{widget = wizard_button},   
-            {widget = skins_button},        
+            -- {widget = wizard_button},
             {widget = host_button},
             {widget = browse_button},
         }
@@ -527,8 +522,7 @@ function MultiplayerMainScreen:MakeMainMenu()
             {widget = quit_button},
             {widget = history_button},
             {widget = options_button},
-            --{widget = wizard_button},
-            {widget = skins_button},
+            -- {widget = wizard_button},
             {widget = host_button},
             {widget = browse_button},
         }
@@ -836,10 +830,14 @@ function MultiplayerMainScreen:SetCountdown(str, cache)
 		    self.countdown:Show()
 		    self.wilson:Hide()
 		    self.wilson2:Hide()
+            self.shadow1:Hide()
+            self.shadow2:Hide()
 	    else
 			self.countdown:Hide()
 		    self.wilson:Show()
 		    self.wilson2:Show()
+            self.shadow1:Show()
+            self.shadow2:Show()
 		end
 	end	
 end
