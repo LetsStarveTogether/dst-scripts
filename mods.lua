@@ -1,6 +1,7 @@
 require "class"
 require "modutil"
 require "prefabs"
+local ModWarningScreen = require "screens/modwarningscreen"
 
 MOD_API_VERSION = 10
 
@@ -499,7 +500,7 @@ function ModWrangler:RegisterPrefabs()
 
 		print("Mod: "..ModInfoname(mod.modname), "  Registering default mod prefab")
 
-		RegisterPrefabs( Prefab("modbaseprefabs/MOD_"..mod.modname, nil, mod.Assets, prefabnames) )
+		RegisterPrefabs( Prefab("MOD_"..mod.modname, nil, mod.Assets, prefabnames) )
 
 		local modname = "MOD_"..mod.modname
 		TheSim:LoadPrefabs({modname})
@@ -584,7 +585,7 @@ function ModWrangler:SetPostEnv()
 	--if (#self.enabledmods > 0)  and TheSim:ShouldWarnModsLoaded() then
 		if not DISABLE_MOD_WARNING and IsInFrontEnd() then
 			TheFrontEnd:PushScreen(
-				ScriptErrorScreen(
+				ModWarningScreen(
 					STRINGS.UI.MAINSCREEN.MODTITLE, 
 					moddetail,
 					{
@@ -601,7 +602,7 @@ function ModWrangler:SetPostEnv()
 		end
 	elseif KnownModIndex:WasLoadBad() then
 		TheFrontEnd:PushScreen(
-			ScriptErrorScreen(
+			ModWarningScreen(
 				STRINGS.UI.MAINSCREEN.MODSBADTITLE, 
 				STRINGS.UI.MAINSCREEN.MODSBADLOAD,
 				{
@@ -678,6 +679,21 @@ function ModWrangler:GetVoteCommands()
 		end
 	end
 	return commands
+end
+
+function ModWrangler:IsModCharacterClothingSymbolExcluded( name, symbol )
+	local commands = {}
+	for i,modname in ipairs(self.enabledmods) do
+		local mod = self:GetMod(modname)
+		if mod.clothing_exclude and mod.clothing_exclude[name] then
+			for _,excluded_sym in pairs(mod.clothing_exclude[name]) do
+				if excluded_sym == symbol then
+					return true
+				end
+			end
+		end
+	end
+	return false
 end
 
 function ModVersionOutOfDate( mod_name )
