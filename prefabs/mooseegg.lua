@@ -16,11 +16,8 @@ local function InitEgg(inst)
 end
 
 local function OnSummonMoose(inst, guardian)
-    local pt = guardian:GetPosition()
-    pt.y = 20
-    pt.x = pt.x + math.random()
-    pt.z = pt.z + math.random()
-    guardian.Transform:SetPosition(pt:Get())
+    local x, y, z = guardian.Transform:GetWorldPosition()
+    guardian.Transform:SetPosition(x + math.random(), 20, z + math.random())
     guardian.sg:GoToState("glide")
 end
 
@@ -232,5 +229,5 @@ local function nesting_ground_fn()
     return inst
 end
 
-return Prefab( "mooseegg", fn, assets, prefabs),
-    Prefab("moose_nesting_ground", nesting_ground_fn, nesting_ground_assets)
+return Prefab( "common/objects/mooseegg", fn, assets, prefabs),
+    Prefab("common/objects/moose_nesting_ground", nesting_ground_fn, nesting_ground_assets)

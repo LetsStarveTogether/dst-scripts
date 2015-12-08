@@ -13,7 +13,6 @@ local assets =
 {
     Asset("ANIM", "anim/tentacle_pillar.zip"),
     Asset("SOUND", "sound/tentacle.fsb"),
-	Asset("MINIMAP_IMAGE", "tentapillar"),
 }
 
 SetSharedLootTable("tentacle_pillar",
@@ -338,7 +337,7 @@ local function fn()
 
     --------------------
     inst:AddComponent("teleporter")
-    inst.components.teleporter:SetEnabled(false) -- this turns off sending, not recieving
+    inst.components.teleporter:SetEnabled(false) -- this turns off sending, not receiving
     inst.components.teleporter.onActivateByOther = OnActivateByOther
     inst.components.teleporter.offset = 0
     inst:ListenForEvent("doneteleporting", OnDoneTeleporting)
@@ -356,4 +355,4 @@ local function fn()
 
     return inst
 end
-return Prefab("tentacle_pillar", fn, assets, prefabs)
+return Prefab("cave/monsters/tentacle_pillar", fn, assets, prefabs)

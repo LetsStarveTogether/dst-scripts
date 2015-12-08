@@ -176,19 +176,6 @@ AddGameDebugKey(KEY_R, function()
     end 
 end)
 
-AddGameDebugKey(KEY_I, function()
-	if TheInput:IsKeyDown(KEY_CTRL) and TheInput:IsKeyDown(KEY_SHIFT) then
-		TheInventory:Debug_DropAllGifts()
-		return true
-    elseif TheInput:IsKeyDown(KEY_CTRL) then
-        TheInventory:Debug_ForceHeartbeatGift("")
-        return true
-    elseif TheInput:IsKeyDown(KEY_SHIFT) then
-        c_spawn("researchlab")
-        return true
-    end
-end)
-
 AddGameDebugKey(KEY_F4, function()
     -- Spawn a ready-made base!
     local pos = TheInput:GetWorldPosition()
@@ -751,8 +738,8 @@ end)
 
 AddGameDebugKey(KEY_S, function()
     if TheInput:IsKeyDown(KEY_CTRL) then
-        TheWorld:PushEvent("save")
-        return true         
+        TheWorld:PushEvent("ms_save")
+        return true
     end
 end)
 

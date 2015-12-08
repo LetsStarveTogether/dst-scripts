@@ -1,5 +1,4 @@
 local PopupDialogScreen = require "screens/popupdialog"
-local ScriptErrorScreen = require "screens/scripterrorscreen"
 local BigPopupDialogScreen = require "screens/bigpopupdialog"
 local WorldGenScreen = require "screens/worldgenscreen"
 
@@ -69,14 +68,11 @@ function RegisterPrefabs(...)
     for i, prefab in ipairs({...}) do
         --print ("Register " .. tostring(prefab))
 		-- allow mod-relative asset paths
-			
 		for i,asset in ipairs(prefab.assets) do
-			if asset.type ~= "INV_IMAGE" and asset.type ~= "MINIMAP_IMAGE" then
-				local resolvedpath = resolvefilepath(asset.file)
-				assert(resolvedpath, "Could not find "..asset.file.." required by "..prefab.name)
-				TheSim:OnAssetPathResolve(asset.file, resolvedpath)			
-				asset.file = resolvedpath
-			end
+			local resolvedpath = resolvefilepath(asset.file)
+			assert(resolvedpath, "Could not find "..asset.file.." required by "..prefab.name)
+			TheSim:OnAssetPathResolve(asset.file, resolvedpath)			
+			asset.file = resolvedpath
 		end
         modprefabinitfns[prefab.name] = ModManager:GetPostInitFns("PrefabPostInit", prefab.name)
         Prefabs[prefab.name] = prefab
@@ -190,16 +186,17 @@ local renames =
     feather = "feather_crow",
 }
 
-function SpawnPrefab(name, skin, skin_id, creator)	
+function SpawnPrefab(name)	
     name = string.sub(name, string.find(name, "[^/]*$"))      
     name = renames[name] or name
-    local guid = TheSim:SpawnPrefab(name, skin, skin_id, creator)
+    local guid = TheSim:SpawnPrefab(name)
     return Ents[guid]
 end
 
 function SpawnSaveRecord(saved, newents)
-    --print(string.format("~~~~~~~~~~~~~~~~~~~~~SpawnSaveRecord [%s, %s, %s]", tostring(saved.id), tostring(saved.prefab), tostring(saved.data)))
-    local inst = SpawnPrefab(saved.prefab, saved.skinname, saved.skin_id)
+    --print(string.format("SpawnSaveRecord [%s, %s, %s]", tostring(saved.id), tostring(saved.prefab), tostring(saved.data)))
+    
+    local inst = SpawnPrefab(saved.prefab)
     
     if inst then
 		inst.Transform:SetPosition(saved.x or 0, saved.y or 0, saved.z or 0)
@@ -207,7 +204,6 @@ function SpawnSaveRecord(saved, newents)
 	        --print(string.format("SpawnSaveRecord [%s, %s] FAILED - entity invalid", tostring(saved.id), saved.prefab))
 			return nil
 		end
-
         if newents then
             
             --this is kind of weird, but we can't use non-saved ids because they might collide
@@ -297,11 +293,6 @@ function PushEntityEvent(guid, event, data)
     if inst then
         inst:PushEvent(event, data)
     end
-end
-
-function GetEntityDisplayName(guid)
-    local inst = Ents[guid]
-    return inst ~= nil and inst:GetDisplayName() or ""
 end
 
 ------TIME FUNCTIONS
@@ -694,6 +685,12 @@ function LoadFonts()
 	for k,v in pairs(FONTS) do
 		TheSim:LoadFont(v.filename, v.alias)
 	end
+
+	for k,v in pairs(FONTS) do
+		if v.fallback and v.fallback ~= "" then
+			TheSim:SetupFontFallbacks(v.alias, v.fallback)
+		end
+	end
 end
 
 function UnloadFonts()
@@ -798,10 +795,6 @@ function Check_Mods()
 	    KnownModIndex:EndStartupSequence(nil) -- no callback, this doesn't need to block and we don't need the results
 	end
 
-	--If we collected a non-fatal error during startup, display it now!
-	for i,err in ipairs(PendingErrors) do
-		DisplayError(err)
-	end
 end
 
 --------------------------
@@ -870,7 +863,6 @@ function JapaneseOnPS4()
 end
 
 function StartNextInstance(in_params, send_stats)
-
 	if TheNet:GetIsServer() then
 		NotifyLoadingState( LoadingStates.Loading )
 	end
@@ -966,17 +958,10 @@ function Shutdown()
 	TheSim:Quit()
 end
 
-PendingErrors = {}
-
 function DisplayError(error)
-	if not TheFrontEnd then
-		print("Error error! We tried displaying an error but TheFrontEnd isn't ready yet...")
-		table.insert(PendingErrors, error)
-		return
-	end
 
     SetPause(true,"DisplayError")
-    if TheFrontEnd:IsDisplayingError() then
+    if global_error_widget ~= nil then
         return nil
     end
 
@@ -990,8 +975,7 @@ function DisplayError(error)
             modnamesstr = modnamesstr.."\""..KnownModIndex:GetModFancyName(modname).."\" "
         end
 
-        TheFrontEnd:DisplayError(
-            ScriptErrorScreen(
+        SetGlobalErrorWidget(
                 STRINGS.UI.MAINSCREEN.MODFAILTITLE, 
                 error,
                 {
@@ -1008,10 +992,9 @@ function DisplayError(error)
                 ANCHOR_LEFT,
                 STRINGS.UI.MAINSCREEN.SCRIPTERRORMODWARNING..modnamesstr,
                 20
-                ))
+                )
     else
-        TheFrontEnd:DisplayError(
-            ScriptErrorScreen(
+        SetGlobalErrorWidget(
                 STRINGS.UI.MAINSCREEN.MODFAILTITLE, 
                 error,
                 {
@@ -1021,7 +1004,7 @@ function DisplayError(error)
                 ANCHOR_LEFT,
                 nil,
                 20
-                ))
+                )
     end
 end
 
@@ -1245,29 +1228,14 @@ function OnFocusGained()
 	end
 end
 
-local function OnUserPickedCharacter(char, skin_base, clothing_body, clothing_hand, clothing_legs)
+local function OnUserPickedCharacter(char, skin)
     local function doSpawn()
         TheFrontEnd:PopScreen()
-        TheNet:SendSpawnRequestToServer(char, skin_base, clothing_body, clothing_hand, clothing_legs)
+        TheNet:SendSpawnRequestToServer(char, skin)
     end
 
     TheFrontEnd:Fade(false, 1, doSpawn, nil, nil, "white")
 end
--- TEMP DEBUG DIABU
-Debug_Select = OnUserPickedCharacter
-
-Debug_DieRevive = function()
-    ConsoleCommandPlayer().components.health:SetPercent(0)
-    ConsoleCommandPlayer():DoTaskInTime(2, function()
-        ConsoleCommandPlayer():PushEvent("respawnfromghost")
-        ConsoleCommandPlayer().components.hunger:SetPercent(1)
-        ConsoleCommandPlayer().components.health:SetPercent(1)
-        ConsoleCommandPlayer().components.sanity:SetPercent(1)
-    end)
-end
-
-
--- 
 
 function ResumeRequestLoadComplete(success)
     --If successful then don't do anything, game will automatically

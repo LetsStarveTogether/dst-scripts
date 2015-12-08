@@ -6,7 +6,6 @@ require "saveindex"
 require "map/extents"
 require "perfutil"
 require "maputil"
-require "constants"
 
 -- globals
 chestfunctions = require("scenarios/chestfunctions")
@@ -29,6 +28,14 @@ global_loading_widget = LoadingWidget(Settings.load_screen_image)
 global_loading_widget:SetHAnchor(ANCHOR_LEFT)
 global_loading_widget:SetVAnchor(ANCHOR_BOTTOM)
 
+global_error_widget = nil
+ScriptErrorWidget = require "widgets/scripterrorwidget"
+function SetGlobalErrorWidget(...)
+    if global_error_widget == nil then -- only first error!
+        global_error_widget = ScriptErrorWidget(...)
+    end
+end
+
 cancel_tip = nil
 if not TheNet:IsDedicated() then
     CancelTip = require "widgets/canceltipwidget"
@@ -50,6 +57,11 @@ LOADED_CHARACTER = nil
 
 TheSim:SetRenderPassDefaultEffect( RENDERPASS.BLOOM, "shaders/anim_bloom.ksh" )
 TheSim:SetErosionTexture( "images/erosion.tex" )
+
+BACKEND_PREFABS = {"hud", "forest", "cave", "maxwell", "fire", "character_fire", "shatter"}
+FRONTEND_PREFABS = {"frontend"}
+RECIPE_PREFABS = {}
+
 
 function ForceAuthenticationDialog()
 	if not InGamePlay() then
@@ -637,7 +649,7 @@ local function DoInitGame(savedata, profile)
      	end
     end
 
-	if not TheFrontEnd:IsDisplayingError() then
+	if global_error_widget == nil then
 	    --clear the player stats, so that it doesn't count items "acquired" from the save file
 	    GetProfileStats(true)
 

@@ -45,7 +45,10 @@ local function fn()
     MakeSmallBurnable(inst)
     MakeSmallPropagator(inst)
 
+    inst:AddComponent("hauntable")
+    inst.components.hauntable:SetHauntValue(TUNING.HAUNT_TINY)
+
     return inst
 end
 
-return Prefab("carrot_planted", fn, assets)
+return Prefab("common/inventory/carrot_planted", fn, assets)
