@@ -96,7 +96,7 @@ function Text:SetTruncatedString(str, maxwidth, maxchars, ellipses)
         ellipses = ellipses and "..." or ""
     end
     if maxchars ~= nil and utf8strlen(str) > maxchars then
-        str = utf8substr(0, maxchars)
+        str = utf8substr(str, 0, maxchars)
         self.inst.TextWidget:SetString(str..ellipses)
     else
         self.inst.TextWidget:SetString(str)
