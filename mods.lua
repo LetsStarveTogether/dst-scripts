@@ -284,12 +284,21 @@ function ModWrangler:LoadServerModsFile()
 	
 	local filename = "../mods/dedicated_server_mods_setup.lua"
 	local fn = kleiloadlua( filename )
-	if fn ~= nil then	
-		if type(fn)=="string" then
-			error("Error loading dedicated_server_mods_setup.lua:\n"..fn)
+	if fn ~= nil then
+		local mods_err_fn = function(err)
+			print("########################################################")
+			print("#ERROR: Failure to load dedicated_server_mods_setup.lua:", err)
+			print("#Shutting down")
+			print("########################################################")
+			Shutdown()
 		end
-		setfenv(fn, env)
-		fn()
+			
+		if type(fn)=="string" then
+			mods_err_fn(fn)
+		else
+			setfenv(fn, env)
+			xpcall( fn, mods_err_fn )
+		end
 	end
 	
 	TheNet:DownloadServerMods()
