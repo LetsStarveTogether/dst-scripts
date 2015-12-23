@@ -257,6 +257,9 @@ STRINGS=
         ATTUNE = "Attune",
         MIGRATE = "Travel via",
         REMOTERESURRECT = "Resurrect",
+        MOUNT = "Mount",
+        DISMOUNT = "Dismount",
+        SADDLE = "Saddle",
     },
 
 	-- PC controls get hex ranges EE90xx to EE9Fxx
@@ -482,6 +485,7 @@ STRINGS=
         PITCHFORK = "Pitchfork",
         GOLDENPITCHFORK = "Snazzy Pitchfork",
         BEEFALO = "Beefalo",
+        BEEFALO_DOMESTIC = "Domesticated Beefalo",
         BABYBEEFALO = "Baby Beefalo",
         BERRYBUSH = "Berry Bush",
         BERRYBUSH2 = "Berry Bush",
@@ -496,6 +500,7 @@ STRINGS=
         SLOW_FARMPLOT = "Basic Farm",
         FAST_FARMPLOT = "Improved Farm",
         FIRE = "Fire",
+        HOUNDFIRE = "Fire",
         COLDFIRE = "Endothermic Fire",
         COLDFIREPIT = "Endothermic Fire Pit",
         FIREPIT = "Fire Pit",
@@ -671,6 +676,8 @@ STRINGS=
         STATUEMAXWELL = "Maxwell Statue",
         MAXWELLLIGHT = "Maxwell's Light",
         MAXWELLKEY = "Shadow Key",
+        SADDLE_BASIC = "Saddle",
+        SADDLE_WAR = "War Saddle",
         
         TELEPORTATO_RING = "Ring thing",
         TELEPORTATO_BOX = "Box thing",
@@ -1014,6 +1021,9 @@ STRINGS=
         EYEBRELLAHAT = "Eyebrella",
         FEATHERFAN = "Luxury Fan",
         MINIFAN = "Whirly Fan",
+        WHIP = "Tail o' Three Cats",
+        SADDLE_BASIC = "Saddle",
+        SADDLE_WAR = "War Saddle",
 
         REVIVER = "Telltale Heart",
         SHADOWMETEOR = "Meteor",
@@ -1219,6 +1229,9 @@ STRINGS=
         EYEBRELLAHAT = "An eye on the sky keeps you dry.",
         FEATHERFAN = "Luxuriously soft, luxuriously large.",
         MINIFAN = "You have to run to create a breeze!",
+        WHIP = "Dish out some constructive feeback.",
+        SADDLE_BASIC = "Lets you sit on animals. In theory.",
+        SADDLE_WAR = "A throne for the boss of the battlefield.",
 
         BELL = "This isn't just any bell.",
 
@@ -3063,8 +3076,9 @@ STRINGS.UI =
     	SORRY = "Sorry",
     	OFFLINE = "Your collection is not available offline.",
     	NEW = "NEW",
-    	TRADE = "Trade",
+    	TRADE = "Trade Inn",
     	BACK = "Back",
+    	TRADE_TOOLTIP = "Trade your unwanted items for something new! -- (Not yet available)"
 	},
 
 	TRADESCREEN = 

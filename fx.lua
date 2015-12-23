@@ -428,6 +428,14 @@ local fx =
         anim = "attune_ghost_in",
         sound = "dontstarve/ghost/ghost_haunt",
     },
+    {
+        name = "beefalo_transform_fx",
+        bank = "beefalo_fx",
+        build = "beefalo_fx",
+        anim = "transform",
+        --#TODO: this one
+        sound = "dontstarve/ghost/ghost_haunt",
+    },
 }
 
 if ACCOMPLISHMENTS_ENABLED then

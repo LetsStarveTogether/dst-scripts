@@ -625,6 +625,15 @@ function Widget:SetHoverText(text, params)
             if not self.hovertext then
                 self.hovertext = self:AddChild(Text(params.font or NEWFONT_OUTLINE, params.size or 28, text))
                 self.hovertext:SetClickable(false)
+
+                if params.region_h ~= nil or params.region_w ~= nil then 
+                	self.hovertext:SetRegionSize(params.region_w or 1000, params.region_h or 40)
+                end
+
+                if params.wordwrap ~= nil then 
+                	--print("Enabling word wrap", params.wordwrap)
+                	self.hovertext:EnableWordWrap(params.wordwrap)
+                end
             else
                 self.hovertext:SetString(text)
             end

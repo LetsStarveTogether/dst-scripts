@@ -55,7 +55,6 @@ if JapaneseOnPS4() then
     font_size = 35 * 0.75;
 end
 
-local VALID_CHARS = [[ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;[]\@!#$%&()'*+-/=?^_{|}~"]] --'
 local STRING_MAX_LENGTH = 254 -- http://tools.ietf.org/html/rfc5321#section-4.5.3.1
 
 local hover_text_params = { font = NEWFONT, size = 20, offset_x = -4, offset_y = 45, colour = {0,0,0,1} }
@@ -1732,7 +1731,6 @@ function ServerListingScreen:MakeFiltersPanel(filter_data)
     searchbox.textbox:SetHAlign(ANCHOR_LEFT)
     searchbox.textbox:SetFocusedImage( searchbox.outline, "images/textboxes.xml", "textbox2_small_grey.tex", "textbox2_small_gold.tex", "textbox2_small_gold_greyfill.tex" )
     searchbox.textbox:SetTextLengthLimit( STRING_MAX_LENGTH )
-    searchbox.textbox:SetCharacterFilter( VALID_CHARS )
     searchbox.gobutton = searchbox:AddChild(ImageButton("images/lobbyscreen.xml", "button_send.tex", "button_send_over.tex", "button_send_down.tex", "button_send_down.tex", "button_send_down.tex", {.15, .15}, {0,0}))
     searchbox.gobutton:SetPosition(-(total_width/2)+search_label_width+spacing+search_box_width+spacing+(search_button_width/2), 0)
     searchbox.gobutton:SetScale(.8)

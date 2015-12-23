@@ -131,7 +131,9 @@ end
 function Writeable:OnUpdate(dt)
     if self.writer == nil then
         self.inst:StopUpdatingComponent(self)
-    elseif not (self.writer:IsNear(self.inst, 3) and
+    elseif (self.writer.components.rider ~= nil and
+            self.writer.components.rider:IsRiding())
+        or not (self.writer:IsNear(self.inst, 3) and
                 CanEntitySeeTarget(self.writer, self.inst)) then
         self:EndWriting()
     end

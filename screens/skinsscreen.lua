@@ -148,31 +148,17 @@ function SkinsScreen:DoInit( )
 	
 	TheInputProxy:SetCursorVisible(true)
 
-	--self.bg = self:AddChild(TEMPLATES.AnimatedPortalBackground())
-   	
-	
 	-- FIXED ROOT
     self.fixed_root = self:AddChild(Widget("root"))
     self.fixed_root:SetVAnchor(ANCHOR_MIDDLE)
     self.fixed_root:SetHAnchor(ANCHOR_MIDDLE)
     self.fixed_root:SetScaleMode(SCALEMODE_PROPORTIONAL)
 
-  	--self.fg = self.fixed_root:AddChild(TEMPLATES.AnimatedPortalForeground())
-
-
-
  	-- Cover most of the normal backgrounds with a really big paper texture
     self.panel_bg = self.fixed_root:AddChild(Image("images/options_bg.xml", "options_panel_bg.tex"))
     self.panel_bg:SetScale(1.1, 1.2)
     self.panel_bg:SetPosition(0, 0)
-
-    -- Add tab buttons 
-    -- TODO: add trade tab and make buttons functional
-    -- self.loadout_button = self.fixed_root:AddChild(TEMPLATES.TabButton(-RESOLUTION_X*.45, RESOLUTION_Y*.325, STRINGS.UI.SKINSSCREEN.LOADOUT, function()  end))
-    --self.loadout_button:Disable()
-    
-    --self.trade_button = self.fixed_root:AddChild(TEMPLATES.TabButton(-RESOLUTION_X*.35, RESOLUTION_Y*.325, STRINGS.UI.SKINSSCREEN.TRADE, function()  end))
-    
+ 
     self.chest = self.fixed_root:AddChild(UIAnim())
     self.chest:GetAnimState():SetBuild("chest_bg") 
     self.chest:GetAnimState():SetBank("chest_bg") 
@@ -187,6 +173,16 @@ function SkinsScreen:DoInit( )
     						end))
    		self.loadout_button:SetPosition(475, -300)
    	end
+
+   	self.trade_button = self.fixed_root:AddChild(ImageButton("images/tradescreen.xml", "trade_buttonactive.tex", "trade_buttonactive_hover.tex", "trade_button_disabled.tex", "trade_button_pressed.tex"))
+   	self.trade_button:SetOnClick(function() 
+   								-- TODO: open the trade screen
+   								end)
+   	self.trade_button:SetScale(1.05)
+   	self.trade_button:SetPosition(475, -170)
+   	self.trade_button:Disable()
+   	self.trade_button:SetHoverText(STRINGS.UI.SKINSSCREEN.TRADE_TOOLTIP, { font = NEWFONT_OUTLINE, size = 24, offset_x = 0, offset_y = 140, colour = {1,1,1,1}, wordwrap = true, region_h = 85, region_w = 215})
+
 
     local collection_name = self.profile:GetCollectionName() or (TheNet:GetLocalUserName()..STRINGS.UI.SKINSSCREEN.TITLE)
     local VALID_CHARS = [[ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;[]\@!#$%&()'*+-/=?^_{|}~"<>]]
@@ -233,10 +229,6 @@ function SkinsScreen:DoInit( )
   	end
 
     self.details_panel:Hide()
-
-	--focus moving
-    --self.exit_button:SetFocusChangeDir(MOVE_UP, self.play_button)
-
 end
 
 function SkinsScreen:SetFocusColumn( itemimage )

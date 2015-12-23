@@ -3,7 +3,7 @@ local UIAnim = require "widgets/uianim"
 
 require "components/skinner"
 
-local emotes_to_choose = { "emoteXL_waving1", "emoteXL_waving2" } --"emoteXL_waving3" --currently broken on the shoulder during the wave
+local emotes_to_choose = { "emoteXL_waving1", "emoteXL_waving2", "emoteXL_waving3" }
 local emote_min_time = 6
 local emote_max_time = 12
 
@@ -13,7 +13,7 @@ local change_emotes =
 	base = { "emote_hat" },
 	body = { "emote_strikepose" },
 	hand = { "emote_hands" },
-	legs = { "emote_strikepose", "emote_feet" },
+	legs = { "emote_pants" },
 	feet = { "emote_feet" },
 }
 

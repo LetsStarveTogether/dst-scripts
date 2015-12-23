@@ -95,7 +95,7 @@ local function fn()
     inst.components.weapon:SetOnAttack(onattack)
     inst.components.weapon:SetElectric()
 
-    -- inst.components.weapon:SetAttackCallback(
+    -- inst.components.weapon:SetOnAttack(
     --     function(attacker, target)
     --         if target.components.burnable then
     --             if math.random() < TUNING.TORCH_ATTACK_IGNITE_PERCENT*target.components.burnable.flammability then

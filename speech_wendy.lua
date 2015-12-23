@@ -1,4 +1,15 @@
 return {
+	ACTIONFAIL =
+	{
+        BUILD =
+        {
+            MOUNTED = "I can't place that from this lofty position.",
+        },
+        MOUNT =
+        {
+            INUSE = "I'll have to be quicker to the saddle next time.",
+        },
+	},
 	ACTIONFAIL_GENERIC = "I can't do anything right.",
 	ANNOUNCE_ADVENTUREFAIL = "Not all deaths are alike.",
 	ANNOUNCE_BOOMERANG = "Ow! That was karma.",
@@ -561,6 +572,11 @@ return {
 			GENERIC = "What demented thoughts must lie behind those eyes.",
 			NAKED = "His nakedness is now on display.",
 			SLEEPING = "What nightmares he must be having.",
+            --Domesticated states:
+            DOMESTICATED = "I wonder if it misses it's old family?",
+            ORNERY = "The world has wronged you.",
+            RIDER = "Together we can venture far.",
+            PUDGY = "More of the world is within than without.",
 		},
 		BEEFALOHAT = "I shall cover my head.",
 		BEEFALOWOOL = "Somewhere, a beefalo is naked and cold.",
@@ -1001,6 +1017,8 @@ return {
         ROOK = "A Rook? Or is it a Castle?",
 		ROPE = "That would be the easy way out of this place.",
 		ROTTENEGG = "The way of all things.",
+        SADDLE_BASIC = "As if the beast wasn't already carrying a burden...",
+        SADDLE_WAR = "Oh how we bend creatures to our ill intent.",
 		SANITYROCK =
 		{
 			ACTIVE = "It's calling to me.",
@@ -1172,6 +1190,7 @@ return {
 		WARG = "A true bastion of evil.",
 		WASPHIVE = "They hide in their fortress of hate.",
 		WETGOOP = "A miserable mess, just like life.",
+        WHIP = "It only provides the illusion of control.",
 		WINTERHAT = "It helps stave off the encroaching cold.",
 		REVIVER = "Choices matter.",
 		WORMHOLE =

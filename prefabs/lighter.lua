@@ -133,7 +133,7 @@ local function fn()
 
     inst:AddComponent("weapon")
     inst.components.weapon:SetDamage(TUNING.LIGHTER_DAMAGE)
-    inst.components.weapon:SetAttackCallback(onattack)
+    inst.components.weapon:SetOnAttack(onattack)
 
     -----------------------------------
     inst:AddComponent("lighter")

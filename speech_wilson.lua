@@ -1,6 +1,10 @@
 return {
 	ACTIONFAIL =
 	{
+        BUILD =
+        {
+            MOUNTED = "I can't place that from way up here.",
+        },
 		SHAVE =
 		{
 			AWAKEBEEFALO = "I'm not going to try that while he's awake.",
@@ -59,9 +63,19 @@ return {
         {
             NOHEALTH = "I don't feel well enough.",
         },
+        MOUNT =
+        {
+            TARGETINCOMBAT = "There's too much anger for me to try!",
+            INUSE = "Someone beat me to the saddle!",
+        },
+        SADDLE =
+        {
+            TARGETINCOMBAT = "It won't let me do that while it's angry.",
+        },
 	},
 	ACTIONFAIL_GENERIC = "I can't do that.",
 	ANNOUNCE_ADVENTUREFAIL = "That didn't go well. I'll have to try again.",
+    ANNOUNCE_MOUNT_LOWHEALTH = "This beast seems to be wounded.",
 	ANNOUNCE_BEES = "BEEEEEEEEEEEEES!!!!",
 	ANNOUNCE_BOOMERANG = "Ow! I should try to catch that!",
 	ANNOUNCE_CHARLIE = "What was that?!",
@@ -525,6 +539,11 @@ return {
 			GENERIC = "It's a beefalo!",
 			NAKED = "Aww, he's so sad.",
 			SLEEPING = "These guys are really heavy sleepers.",
+            --Domesticated states:
+            DOMESTICATED = "This one is slightly less smelly than the others.",
+            ORNERY = "It looks deeply angry.",
+            RIDER = "This fellow appears quite rideable.",
+            PUDGY = "Hmmm, there maybe too too much food inside it.",
 		},
 		BEEFALOHAT = "What a nice hat.",
 		BEEFALOWOOL = "It smells like beefalo tears.",
@@ -1177,6 +1196,8 @@ return {
         ROOK = "Storm the castle!",
 		ROPE = "Some short lengths of rope.",
 		ROTTENEGG = "Ew! It stinks!",
+        SADDLE_BASIC = "Should let me mount some smelly animal.",
+        SADDLE_WAR = "The only problem is the saddle sores.",
 		SANITYROCK =
 		{
 			ACTIVE = "That's a CRAZY looking rock!",
@@ -1399,6 +1420,7 @@ return {
 		WATERMELON_COOKED = "Juicy and warm.",
 		WATERMELONHAT = "Let the juice run down your face.",
 		WETGOOP = "I cooked it myself!",
+        WHIP = "Nothing like loud noises to help keep the peace.",
 		WINTERHAT = "It'll be good for when winter comes.",
 		WINTEROMETER = 
 		{

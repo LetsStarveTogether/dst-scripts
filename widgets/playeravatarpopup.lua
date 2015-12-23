@@ -86,9 +86,11 @@ function PlayerAvatarPopup:SetPlayer(player_name, data, show_net_profile)
         self.portrait:SetScale(.37)
         self.portrait:SetPosition(right_column, portrait_height)
 
-        self.character_name = self.proot:AddChild(Image("images/names_"..character..".xml", character..".tex"))
-        self.character_name:SetScale(.15)
-        self.character_name:SetPosition(right_column + 5, portrait_height + 115)
+        if softresolvefilepath("images/names_"..character..".xml") then
+            self.character_name = self.proot:AddChild(Image("images/names_"..character..".xml", character..".tex"))
+            self.character_name:SetScale(.15)
+            self.character_name:SetPosition(right_column + 5, portrait_height + 115)
+        end
 
         local widget_height = 75
         local body_offset = 10
@@ -182,6 +184,11 @@ function PlayerAvatarPopup:SetPlayer(player_name, data, show_net_profile)
         end
     end
 
+    if not TheInput:ControllerAttached() then
+        self.close_button = self.proot:AddChild(TEMPLATES.SmallButton(STRINGS.UI.PLAYER_AVATAR.CLOSE, 26, .5, function() self:Close() end))
+        self.close_button:SetPosition(0, -269)
+    end
+
     self:UpdateData(data)
 end
 
@@ -189,7 +196,7 @@ function PlayerAvatarPopup:UpdateData(data)
     if self.title ~= nil then
         if data.colour ~= nil then
             self.title:SetColour(unpack(data.colour))
-        else 
+        else
             self.title:SetColour(1, 1, 1, 1)
         end
     end
@@ -212,9 +219,20 @@ function PlayerAvatarPopup:UpdateData(data)
 
     if self.portrait ~= nil then
         if data.base_skin ~= nil then
-            self.portrait:SetTexture("bigportraits/"..data.base_skin..".xml", data.base_skin.."_oval.tex", self.currentcharacter.."_none.tex")
-        else
+            if softresolvefilepath("bigportraits/"..data.base_skin..".xml") then
+                self.portrait:SetTexture("bigportraits/"..data.base_skin..".xml", data.base_skin.."_oval.tex", self.currentcharacter.."_none.tex")
+                self.portrait:SetPosition(94, 170)
+            else
+                -- Shouldn't actually be possible:
+                self.portrait:SetTexture("bigportraits/"..self.currentcharacter..".xml", self.currentcharacter..".tex")
+                self.portrait:SetPosition(94, 180)
+            end
+        elseif softresolvefilepath("bigportraits/"..self.currentcharacter.."_none.xml") then 
             self.portrait:SetTexture("bigportraits/"..self.currentcharacter.."_none.xml", self.currentcharacter.."_none_oval.tex")
+            self.portrait:SetPosition(94, 170)
+        else
+            self.portrait:SetTexture("bigportraits/"..self.currentcharacter..".xml", self.currentcharacter..".tex")
+            self.portrait:SetPosition(94, 180)
         end
     end
 
@@ -433,8 +451,12 @@ function PlayerAvatarPopup:UpdateEquipWidgetForSlot(image_group, slot, equipdata
         else
             name = "default"
         end
+    else
+		if softresolvefilepath("images/inventoryimages/"..name..".xml") ~= nil then
+			atlas = "images/inventoryimages/"..name..".xml"
+		end
     end
-    image_group._image:SetTexture(atlas, name..".tex", default)
+    image_group._image:SetTexture(atlas, name..".tex", default)		
 end
 
 return PlayerAvatarPopup

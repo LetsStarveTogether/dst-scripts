@@ -110,6 +110,18 @@ function TextEdit:OnTextInput(text)
 		end
 	end
 	
+	if self.invalidchars then
+		if string.find( self.invalidchars, text, 1, true) then
+			return
+		end
+	end
+	
+	-- Note: even though text is in utf8, only testing the first bit is enough based on the current exclusion list
+	local invalid_chars = string.char(8, 10, 13, 27)
+	if string.find( invalid_chars, text, 1, true) then
+		return
+	end
+	
 	self.inst.TextEditWidget:OnTextInput(text)
 end
 
@@ -316,6 +328,10 @@ end
 
 function TextEdit:SetCharacterFilter(validchars)
 	self.validchars = validchars
+end
+
+function TextEdit:SetInvalidCharacterFilter(invalidchars)
+	self.invalidchars = invalidchars
 end
 
 -- Unlike GetString() which returns the string stored in the displayed text widget

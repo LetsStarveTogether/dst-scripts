@@ -107,11 +107,6 @@ end
 
 local function common_init(inst)
     inst:AddTag("valkyrie")
-
-    inst.components.talker.font = Profile:IsWathgrithrFontEnabled() and TALKINGFONT_WATHGRITHR or TALKINGFONT
-    inst:ListenForEvent("continuefrompause", function()
-        inst.components.talker.font = Profile:IsWathgrithrFontEnabled() and TALKINGFONT_WATHGRITHR or TALKINGFONT
-    end, TheWorld)
 end
 
 local function master_init(inst)

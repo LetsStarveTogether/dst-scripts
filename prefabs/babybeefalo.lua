@@ -52,10 +52,10 @@ end
 
 local function Grow(inst)
     if inst.components.sleeper:IsAsleep() then
-        inst.hairGrowthPending = true
+        inst.growUpPending = true
         inst.sg:GoToState("wake")
     else
-        inst.sg:GoToState("hair_growth")
+        inst.sg:GoToState("grow_up")
     end
 end
 
@@ -88,7 +88,7 @@ local function SetFullyGrown(inst)
     local grown = SpawnPrefab("beefalo")
     grown.Transform:SetPosition(inst.Transform:GetWorldPosition() )
     grown.Transform:SetRotation(inst.Transform:GetRotation() )
-    grown.sg:GoToState("hair_growth_pop")
+    grown.sg:GoToState("grow_up_pop")
     inst:Remove()
 end
 

@@ -326,9 +326,15 @@ function Builder:MakeRecipe(recipe, pt, rot, skin, onsuccess)
     return false
 end
 
-function Builder:DoBuild(recname, pt, rotation, skin )
+function Builder:DoBuild(recname, pt, rotation, skin)
     local recipe = GetValidRecipe(recname)
     if recipe ~= nil and (self:IsBuildBuffered(recname) or self:CanBuild(recname)) then
+        if recipe.placer ~= nil and
+            self.inst.components.rider ~= nil and
+            self.inst.components.rider:IsRiding() then
+            return false, "MOUNTED"
+        end
+
         local wetlevel = self.buffered_builds[recname]
         if wetlevel ~= nil then
             self.buffered_builds[recname] = nil

@@ -523,7 +523,7 @@ local function OnSetOwner(inst)
             EnableMovementPrediction(inst, true)
             inst:AddComponent("playeractionpicker")
             inst:AddComponent("playercontroller")
-            inst.components.playeractionpicker.actionfilter = CheckGhostActionFilter
+            inst.components.playeractionpicker:PushActionFilter( CheckGhostActionFilter )
         end
     elseif inst.components.playercontroller ~= nil then
         inst:RemoveComponent("playeractionpicker")
@@ -1154,6 +1154,8 @@ local function OnDespawn(inst)
     inst:OnWakeUp()
     --
 
+    inst.components.rider:ActualDismount()
+
     inst.components.inventory:DropEverythingWithTag("irreplaceable")
     inst.components.leader:RemoveAllFollowers()
 
@@ -1329,6 +1331,7 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         Asset("ANIM", "anim/player_actions_bugnet.zip"),
         Asset("ANIM", "anim/player_actions_fishing.zip"),
         Asset("ANIM", "anim/player_actions_boomerang.zip"),
+        Asset("ANIM", "anim/player_actions_whip.zip"),
         Asset("ANIM", "anim/player_bush_hat.zip"),
         Asset("ANIM", "anim/player_attacks.zip"),
         Asset("ANIM", "anim/player_idles.zip"),
@@ -1380,35 +1383,29 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         Asset("IMAGE", "images/colour_cubes/ghost_cc.tex"),
         Asset("IMAGE", "images/colour_cubes/mole_vision_on_cc.tex"),
         Asset("IMAGE", "images/colour_cubes/mole_vision_off_cc.tex"),
-        
-        Asset("INV_IMAGE", "skull_"..name ),
-        
-        Asset("INV_IMAGE", "decrease_health"),
-		Asset("INV_IMAGE", "decrease_hunger"),
-		Asset("INV_IMAGE", "decrease_sanity"),
-		
-		Asset("INV_IMAGE", "half_health"),
-		Asset("INV_IMAGE", "half_hunger"),
-		Asset("INV_IMAGE", "half_sanity"),
-		
-		Asset("INV_IMAGE", "health_down"),		
-		Asset("INV_IMAGE", "hunger_down"),		
-		Asset("INV_IMAGE", "sanity_down"),
-		
-		Asset("INV_IMAGE", "health_max"),
-		Asset("INV_IMAGE", "hunger_max"),
-		Asset("INV_IMAGE", "sanity_max"),
 
-		Asset("INV_IMAGE", "unknown_head"),
-		Asset("INV_IMAGE", "unknown_hand"),
-		Asset("INV_IMAGE", "unknown_body"),
+        Asset("ANIM", "anim/player_mount.zip"),
+        Asset("ANIM", "anim/player_mount_travel.zip"),
+        Asset("ANIM", "anim/player_mount_actions.zip"),
+        Asset("ANIM", "anim/player_mount_actions_item.zip"),
+        Asset("ANIM", "anim/player_mount_unique_actions.zip"),
+        Asset("ANIM", "anim/player_mount_blowdart.zip"),
+        Asset("ANIM", "anim/player_mount_shock.zip"),
+        Asset("ANIM", "anim/player_mount_frozen.zip"),
+        Asset("ANIM", "anim/player_mount_groggy.zip"),
+        Asset("ANIM", "anim/player_mount_hit_darkness.zip"),
+        Asset("ANIM", "anim/player_mount_emotes.zip"),
+        Asset("ANIM", "anim/player_mount_emotes_dance0.zip"),
+        Asset("ANIM", "anim/player_mount_emotesxl.zip"),
 
+        Asset("INV_IMAGE", "skull_"..name),
     }
-	local clothing_assets = require("clothing_assets")
-	for _,clothing_asset in pairs( clothing_assets ) do
-		table.insert( assets, clothing_asset )
-	end
-	
+
+    local clothing_assets = require("clothing_assets")
+    for _, clothing_asset in pairs(clothing_assets) do
+        table.insert(assets, clothing_asset)
+    end
+
     local prefabs =
     {
         "brokentool",
@@ -1497,6 +1494,7 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         --Additional effects symbols for hit_darkness animation
         inst.AnimState:AddOverrideBuild("player_hit_darkness")
         inst.AnimState:AddOverrideBuild("player_receive_gift")
+        inst.AnimState:AddOverrideBuild("player_actions_uniqueitem")
 
         inst.DynamicShadow:SetSize(1.3, .6)
 
@@ -1568,6 +1566,7 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         inst:AddTag("_combat")
         inst:AddTag("_moisture")
         inst:AddTag("_sheltered")
+        inst:AddTag("_rider")
 
         inst.userid = ""
 
@@ -1587,6 +1586,7 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         inst:RemoveTag("_combat")
         inst:RemoveTag("_moisture")
         inst:RemoveTag("_sheltered")
+        inst:RemoveTag("_rider")
 
         if inst.ghostenabled then
             inst.Network:RemoveUserFlag(USERFLAGS.IS_GHOST)
@@ -1677,7 +1677,9 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         inst:AddComponent("eater")
         inst:AddComponent("leader")
         inst:AddComponent("frostybreather")
+        inst.components.frostybreather:SetOffset(0.3, 1.15, 0)
         inst:AddComponent("age")
+        inst:AddComponent("rider")
 
         inst:AddComponent("grue")
         inst.components.grue:SetSounds("dontstarve/charlie/warn","dontstarve/charlie/attack")

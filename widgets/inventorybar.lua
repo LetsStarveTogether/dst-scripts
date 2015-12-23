@@ -198,12 +198,16 @@ function Inv:Rebuild()
     end
 
     local image_name = "self_inspect_"..self.owner.prefab..".tex" 
+	local atlas_name = "images/hud.xml"
+	if softresolvefilepath("images/avatars/self_inspect_"..self.owner.prefab..".xml") ~= nil then
+		atlas_name = "images/avatars/self_inspect_"..self.owner.prefab..".xml"
+	end
 
     if not self.controller_build then
         self.bg:SetScale(1.22, 1, 1)
         self.bgcover:SetScale(1.22, 1, 1)
 
-        self.inspectcontrol = self.root:AddChild(TEMPLATES.IconButton("images/hud.xml", image_name, STRINGS.UI.HUD.INSPECT_SELF, false, false, function() self.owner.HUD:InspectSelf() end, {size = 40}, "self_inspect_mod.tex"))
+        self.inspectcontrol = self.root:AddChild(TEMPLATES.IconButton(atlas_name, image_name, STRINGS.UI.HUD.INSPECT_SELF, false, false, function() self.owner.HUD:InspectSelf() end, {size = 40}, "self_inspect_mod.tex"))
         self.inspectcontrol.icon:SetScale(.7)
         self.inspectcontrol.icon:SetPosition(-4, 6)
         self.inspectcontrol:SetScale(1.25)

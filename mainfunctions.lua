@@ -17,9 +17,9 @@ function SavePersistentString(name, data, encode, callback)
                 callback()
             end
         end
-        TheSim:SetPersistentString(name, data, encode, cb)
+        TheSim:SetPersistentString(name, data, encode or false, cb)
     else
-        TheSim:SetPersistentString(name, data, encode, callback)
+        TheSim:SetPersistentString(name, data, encode or false, callback)
     end
 end
 

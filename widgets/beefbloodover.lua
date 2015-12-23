@@ -1,13 +1,13 @@
 local Widget = require "widgets/widget"
 local Image = require "widgets/image"
 
-local BloodOver =  Class(Widget, function(self, owner)
+local BeefBloodOver =  Class(Widget, function(self, owner)
     self.owner = owner
-    Widget._ctor(self, "BloodOver")
+    Widget._ctor(self, "BeefBloodOver")
 
     self:SetClickable(false)
 
-    self.bg = self:AddChild(Image("images/fx.xml", "blood_over.tex"))
+    self.bg = self:AddChild(Image("images/fx3.xml", "beefblood_over.tex"))
     self.bg:SetVRegPoint(ANCHOR_MIDDLE)
     self.bg:SetHRegPoint(ANCHOR_MIDDLE)
     self.bg:SetVAnchor(ANCHOR_MIDDLE)
@@ -22,37 +22,28 @@ local BloodOver =  Class(Widget, function(self, owner)
     self.time_since_pulse = 0 
     self.pulse_period = 1
 
-    local function _Flash() self:Flash() end
     local function _UpdateState() self:UpdateState() end
 
-    self.inst:ListenForEvent("badaura", _Flash, owner)
     self.inst:ListenForEvent("attacked", function(owner, data)
-        if not data.redirected then
+        if data.redirected then
             self:Flash()
         end
     end, owner)
-    self.inst:ListenForEvent("damaged", _Flash, owner) -- same as attacked, but for non-combat situations like making a telltale heart
-    self.inst:ListenForEvent("startstarving", _UpdateState, owner)
-    self.inst:ListenForEvent("stopstarving", _UpdateState, owner)
-    self.inst:ListenForEvent("startfreezing", _UpdateState, owner)
-    self.inst:ListenForEvent("stopfreezing", _UpdateState, owner)
-    self.inst:ListenForEvent("startoverheating", _UpdateState, owner)
-    self.inst:ListenForEvent("stopoverheating", _UpdateState, owner)
+    self.inst:ListenForEvent("mounthurt", _UpdateState, owner) --hp low
+
     self.inst:DoTaskInTime(0, _UpdateState)
 end)
 
-function BloodOver:UpdateState()
-    if (self.owner.IsFreezing ~= nil and self.owner:IsFreezing()) or
-        (self.owner.IsOverheating ~= nil and self.owner:IsOverheating()) or
-        (self.owner.replica.hunger ~= nil and self.owner.replica.hunger:IsStarving()) or
-        (self.owner.IsBeaverStarving ~= nil and self.owner:IsBeaverStarving()) then
+function BeefBloodOver:UpdateState()
+    local rider = self.owner.replica.rider
+    if rider ~= nil and rider:IsMountHurt() then
         self:TurnOn()
     else
         self:TurnOff()
     end
 end
 
-function BloodOver:TurnOn()
+function BeefBloodOver:TurnOn()
     --TheInputProxy:AddVibration(VIBRATION_BLOOD_FLASH, .2, .7, true)
     self:StartUpdating()
     self.base_level = .5
@@ -60,13 +51,13 @@ function BloodOver:TurnOn()
     self.time_since_pulse = 0
 end
 
-function BloodOver:TurnOff()
+function BeefBloodOver:TurnOff()
     self.base_level = 0
     self.k = 5
     --self:OnUpdate(0)
 end
 
-function BloodOver:OnUpdate(dt)
+function BeefBloodOver:OnUpdate(dt)
     -- ignore 0 interval
     -- ignore abnormally large intervals as they will destabilize the math in here
     if dt <= 0 or dt > 0.1 then
@@ -101,11 +92,11 @@ function BloodOver:OnUpdate(dt)
     end
 end
 
-function BloodOver:Flash()
+function BeefBloodOver:Flash()
     TheInputProxy:AddVibration(VIBRATION_BLOOD_FLASH, .2, .7, false)
     self:StartUpdating()
     self.level = 1
     self.k = 1.33
 end
 
-return BloodOver
+return BeefBloodOver

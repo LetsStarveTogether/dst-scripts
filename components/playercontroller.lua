@@ -585,9 +585,19 @@ function PlayerController:DoControllerAltActionButton()
     end
 
     local lmb, act = self:GetGroundUseAction()
-    local obj = act == nil and self:GetControllerTarget() or nil
-    if obj ~= nil then
-        lmb, act = self:GetSceneItemControllerAction(obj)
+    local obj = nil
+    if act == nil then
+        obj = self:GetControllerTarget()
+        if obj ~= nil then
+            lmb, act = self:GetSceneItemControllerAction(obj)
+        end
+        if act == nil then
+            local rider = self.inst.replica.rider
+            if rider ~= nil and rider:IsRiding() then
+                obj = self.inst
+                act = BufferedAction(obj, obj, ACTIONS.DISMOUNT)
+            end
+        end
     end
 
     if act == nil then
@@ -846,7 +856,7 @@ function PlayerController:RotRight()
 end
 
 function PlayerController:GetHoverTextOverride()
-    return self.player_recipe ~= nil and (STRINGS.UI.HUD.BUILD.." "..(STRINGS.NAMES[string.upper(self.placer_recipe.name)] or STRINGS.UI.HUD.HERE)) or nil
+    return self.placer_recipe ~= nil and (STRINGS.UI.HUD.BUILD.." "..(STRINGS.NAMES[string.upper(self.placer_recipe.name)] or STRINGS.UI.HUD.HERE)) or nil
 end
 
 function PlayerController:CancelPlacement()

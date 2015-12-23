@@ -145,6 +145,8 @@ local Controls = Class(Widget, function(self, owner)
 
     self.votedialog = self:AddChild(VoteDialog())
 
+    self.dismounthintdelay = 0
+
     self:SetHUDSize()
 
     self:StartUpdating()
@@ -240,7 +242,6 @@ function Controls:SetHUDSize(  )
 end
 
 function Controls:OnUpdate(dt)
-
     if PerformingRestart then
         self.playeractionhint:SetTarget(nil)
         self.playeractionhint_itemhighlight:SetTarget(nil)
@@ -265,24 +266,23 @@ function Controls:OnUpdate(dt)
         end
     end
 
-    if false and self.demotimer then
+    --[[if false and self.demotimer then
         if IsGamePurchased() then
             self.demotimer:Kill()
             self.demotimer = nil
         end
-    end
+    end]]
 
     local shownItemIndex = nil
     local itemInActions = false     -- the item is either shown through the actionhint or the groundaction
 
     if controller_mode and not (self.inv.open or self.crafttabs.controllercraftingopen) and self.owner:IsActionsVisible() then
-
         local ground_l, ground_r = self.owner.components.playercontroller:GetGroundUseAction()
         local ground_cmds = {}
-        if self.owner.components.playercontroller.deployplacer or self.owner.components.playercontroller.placer then
+        if self.owner.components.playercontroller.deployplacer ~= nil or self.owner.components.playercontroller.placer ~= nil then
             local placer = self.terraformplacer
 
-            if self.owner.components.playercontroller.deployplacer then
+            if self.owner.components.playercontroller.deployplacer ~= nil then
                 self.groundactionhint:Show()
                 self.groundactionhint:SetTarget(self.owner.components.playercontroller.deployplacer)
 
@@ -297,7 +297,7 @@ function Controls:OnUpdate(dt)
                     self.groundactionhint.text:SetString("")
                 end
 
-            elseif self.owner.components.playercontroller.placer then
+            elseif self.owner.components.playercontroller.placer ~= nil then
                 self.groundactionhint:Show()
                 self.groundactionhint:SetTarget(self.owner)
                 self.groundactionhint.text:SetString(TheInput:GetLocalizedControl(controller_id, CONTROL_CONTROLLER_ACTION) .. " " .. STRINGS.UI.HUD.BUILD.."\n" .. TheInput:GetLocalizedControl(controller_id, CONTROL_CONTROLLER_ALTACTION) .. " " .. STRINGS.UI.HUD.CANCEL.."\n")    
@@ -337,7 +337,7 @@ function Controls:OnUpdate(dt)
                 table.insert(cmds, TheInput:GetLocalizedControl(controller_id, CONTROL_CONTROLLER_ATTACK) .. " " .. STRINGS.UI.HUD.ATTACK)
                 attack_shown = true
             end
-            if self.owner.CanExamine == nil or self.owner:CanExamine() then
+            if (self.owner.CanExamine == nil or self.owner:CanExamine()) and controller_target:HasTag("inspectable") then
                 table.insert(cmds, TheInput:GetLocalizedControl(controller_id, CONTROL_INSPECT) .. " " .. STRINGS.UI.HUD.INSPECT)
             end
             if l ~= nil then
@@ -348,6 +348,13 @@ function Controls:OnUpdate(dt)
             end
 
             textblock:SetString(table.concat(cmds, "\n"))
+        elseif not self.groundactionhint.shown
+            and self.dismounthintdelay <= 0
+            and self.owner.replica.rider ~= nil
+            and self.owner.replica.rider:IsRiding() then
+            self.playeractionhint.text:SetString(TheInput:GetLocalizedControl(controller_id, CONTROL_CONTROLLER_ALTACTION).." "..STRINGS.ACTIONS.DISMOUNT)
+            self.playeractionhint:Show()
+            self.playeractionhint:SetTarget(self.owner)
         else
             self.playeractionhint:Hide()
             self.playeractionhint:SetTarget(nil)
@@ -370,6 +377,12 @@ function Controls:OnUpdate(dt)
 
         self.groundactionhint:Hide()
         self.groundactionhint:SetTarget(nil)
+    end
+
+    if not self.owner:HasTag("idle") then
+        self.dismounthintdelay = .5
+    elseif self.dismounthintdelay > 0 then
+        self.dismounthintdelay = self.dismounthintdelay - dt
     end
 
     --default offsets   

@@ -29,6 +29,7 @@ local function fn()
 
     inst.entity:AddTransform()
     inst.entity:AddNetwork()
+    inst.entity:AddSoundEmitter() -- used by the whip
 
     --Dedicated server does not need to spawn the local fx
     if not TheNet:IsDedicated() then
@@ -37,7 +38,7 @@ local function fn()
         inst:DoTaskInTime(0, PlayImpactAnim)
     end
 
-    inst.Transform:SetTwoFaced()
+    inst.Transform:SetFourFaced()
 
     inst:AddTag("FX")
 

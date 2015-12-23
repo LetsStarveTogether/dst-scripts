@@ -45,6 +45,7 @@ local BEAVERVISION_COLOURCUBES =
 local BEAVER_DIET =
 {
     FOODTYPE.WOOD,
+    FOODTYPE.ROUGHAGE,
 }
 
 local BEAVER_LMB_ACTIONS =
@@ -408,6 +409,7 @@ local function onbecamehuman(inst)
     inst.components.health:SetAbsorptionAmount(0)
     inst.components.sanity.custom_rate_fn = nil
     inst.components.eater:SetDiet({ FOODGROUP.WOODIE }, { FOODGROUP.WOODIE })
+    inst.components.eater:SetAbsorptionModifiers(1,1,1)
     inst.components.pinnable.canbepinned = true
     inst.components.hunger:Resume()
     inst.components.temperature.inherentinsulation = 0
@@ -453,6 +455,7 @@ local function onbecamebeaver(inst)
     inst.components.health:SetAbsorptionAmount(TUNING.BEAVER_ABSORPTION)
     inst.components.sanity.custom_rate_fn = beaversanityfn
     inst.components.eater:SetDiet(BEAVER_DIET, BEAVER_DIET)
+    inst.components.eater:SetAbsorptionModifiers(0,0,0)
     inst.components.pinnable.canbepinned = false
     inst.components.hunger:Pause()
     inst.components.temperature.inherentinsulation = TUNING.INSULATION_LARGE

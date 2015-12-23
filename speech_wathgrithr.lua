@@ -1,6 +1,10 @@
 return {
 	ACTIONFAIL =
 	{
+        BUILD =
+        {
+            MOUNTED = "I must dismount from my mighty steed first.",
+        },
 		SHAVE =
 		{
 			AWAKEBEEFALO = "Let him sleep. Then I'll prune him.",
@@ -12,6 +16,10 @@ return {
 			GENERIC = "It's packed full.",
 			NOTALLOWED = "That's not a good spot for this.",
 		},
+        MOUNT =
+        {
+            INUSE = "I'll need to be faster than that in battle!",
+        },
 	},
 	ACTIONFAIL_GENERIC = "It can't be done.",
 	ANNOUNCE_ADVENTUREFAIL = "Back to the Otherworld, victory shall be mine!",
@@ -355,6 +363,11 @@ return {
 			GENERIC = "Ancient woollen beasts!",
 			NAKED = "Are you cold without your wools?",
 			SLEEPING = "Sounds like Aunt Hilda.",
+            --Domesticated states:
+            DOMESTICATED = "The critter has finally learned its role.",
+            ORNERY = "The noble steed of a mighty warrior!",
+            RIDER = "What's your inspiration?",
+            PUDGY = "I bet you're a baritone.",
 		},
 		BEEFALOHAT = "This is going to look good on me, I can tell.",
 		BEEFALOWOOL = "I do love woolly things.",
@@ -1002,6 +1015,8 @@ return {
         ROOK = "Chaaaarge!",
 		ROPE = "Strong enough to bind the sails of my longship.",
 		ROTTENEGG = "Ruined for eating, but primed for battle.",
+        SADDLE_BASIC = "Now I must find a faithful steed.",
+        SADDLE_WAR = "I ride to victory or death!",
 		SANITYROCK =
 		{
 			ACTIVE = "I do not think I can best this rock in combat.",
@@ -1217,6 +1232,7 @@ return {
 		WATERMELON_COOKED = "Warm and red, but it doesn't flow.",
 		WATERMELONHAT = "It's almost like wearing a pelt.",
 		WETGOOP = "Slop.",
+        WHIP = "Wow, this has some great special effects!",
 		WINTERHAT = "Warm, but not suitable for combat.",
 		WINTEROMETER = 
 		{

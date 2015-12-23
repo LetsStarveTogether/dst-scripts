@@ -58,6 +58,8 @@ end
 
 local prefabs =
 {
+    "sounddebugicon",
+
     "minimap",
     "evergreen",
     "evergreen_normal",
@@ -177,6 +179,8 @@ local prefabs =
     "inventoryitem_classified",
     "writeable_classified",
     "container_classified",
+
+    "dummytarget",
 }
 
 --------------------------------------------------------------------------

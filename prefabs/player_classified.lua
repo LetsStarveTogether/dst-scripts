@@ -65,13 +65,14 @@ end
 
 local function OnAttacked(parent, data)
     parent.player_classified.attackedpulseevent:push()
-    parent.player_classified.isattackedbydanger:set(data ~= nil
-                                                and data.attacker ~= nil
-                                                and not (data.attacker:HasTag("shadow")
-                                                         or data.attacker:HasTag("thorny")
-                                                         or data.attacker:HasTag("smolder")
-                                                        )
-                                                )
+    parent.player_classified.isattackedbydanger:set(
+        data ~= nil and
+        data.attacker ~= nil and
+        not (data.attacker:HasTag("shadow") or
+            data.attacker:HasTag("thorny") or
+            data.attacker:HasTag("smolder"))
+    )
+    parent.player_classified.isattackredirected:set(data ~= nil and data.redirected ~= nil)
 end
 
 local function OnBuildSuccess(parent)
@@ -150,7 +151,7 @@ local function OnEntityReplicated(inst)
         print("Unable to initialize classified data for player")
     else
         inst._parent:AttachClassified(inst)
-        for i, v in ipairs({ "builder", "combat", "health", "hunger", "sanity" }) do
+        for i, v in ipairs({ "builder", "combat", "health", "hunger", "rider", "sanity" }) do
             if inst._parent.replica[v] ~= nil then
                 inst._parent.replica[v]:AttachClassified(inst)
             end
@@ -192,7 +193,7 @@ end
 
 local function OnAttackedPulseEvent(inst)
     if inst._parent ~= nil then
-        inst._parent:PushEvent("attacked", { isattackedbydanger = inst.isattackedbydanger:value() })
+        inst._parent:PushEvent("attacked", { isattackedbydanger = inst.isattackedbydanger:value(), redirected = inst.isattackredirected:value() })
     end
 end
 
@@ -541,6 +542,12 @@ local function OnGiftsDirty(inst)
     end
 end
 
+local function OnMountHurtDirty(inst)
+    if inst._parent ~= nil and inst._parent.HUD ~= nil then
+        inst._parent:PushEvent("mounthurt", { hurt = inst.isridermounthurt:value() })
+    end
+end
+
 local function DoSnapCamera()
     TheCamera:Snap()
 end
@@ -698,6 +705,7 @@ local function RegisterNetListeners(inst)
     inst:ListenForEvent("builder.learnrecipe", OnLearnRecipeEvent)
     inst:ListenForEvent("repair.repair", OnRepairEvent)
     inst:ListenForEvent("giftsdirty", OnGiftsDirty)
+    inst:ListenForEvent("ismounthurtdirty", OnMountHurtDirty)
     inst:ListenForEvent("playercameradirty", OnPlayerCameraDirty)
     inst:ListenForEvent("playercamerasnap", OnPlayerCameraSnap)
     inst:ListenForEvent("playerfadedirty", OnPlayerFadeDirty)
@@ -705,6 +713,7 @@ local function RegisterNetListeners(inst)
     inst:ListenForEvent("leader.makefriend", OnMakeFriendEvent)
     inst:ListenForEvent("morguedirty", OnMorgueDirty)
     OnGiftsDirty(inst)
+    OnMountHurtDirty(inst)
     OnGhostModeDirty(inst)
     OnPlayerHUDDirty(inst)
     OnPlayerCameraDirty(inst)
@@ -848,11 +857,20 @@ local function fn()
     inst.minattackperiod = net_float(inst.GUID, "combat.minattackperiod")
     inst.attackedpulseevent = net_event(inst.GUID, "combat.attackedpulse")
     inst.isattackedbydanger = net_bool(inst.GUID, "combat.isattackedbydanger")
+    inst.isattackredirected = net_bool(inst.GUID, "combat.isattackredirected")
     inst.canattack:set(true)
     inst.minattackperiod:set(4)
 
     --Leader variables
     inst.makefriendevent = net_event(inst.GUID, "leader.makefriend")
+
+    --Rider variables
+    inst.ridermount = net_entity(inst.GUID, "rider.mount")
+    inst.ridersaddle = net_entity(inst.GUID, "rider.saddle")
+    inst.isridermounthurt = net_bool(inst.GUID, "rider.mounthurt", "ismounthurtdirty")
+    inst.riderrunspeed = net_float(inst.GUID, "rider.runspeed")
+    inst.riderfasteronroad = net_bool(inst.GUID, "rider.fasteronroad")
+    inst.riderrunspeed:set(TUNING.BEEFALO_RUN_SPEED.DEFAULT) --V2C: just pick the most likely value to be the default for pristine state
 
     --Stategraph variables
     inst.isperformactionsuccess = net_bool(inst.GUID, "sg.isperformactionsuccess", "isperformactionsuccessdirty")

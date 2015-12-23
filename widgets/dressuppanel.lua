@@ -192,7 +192,7 @@ function DressupPanel:SeparateAvatar()
 		self.outline:Hide()
 
 		self.root:SetPosition(RESOLUTION_X - 250, window_y_pos + 75, 0)
-		self.puppet_group:SetPosition(-315, -450)
+		self.puppet_group:SetPosition(-330, -450)
 		self.puppet_group:SetScale(2)
 
 		self.underlines = self.root:AddChild(Widget("underlines"))

@@ -190,16 +190,16 @@ local LobbyScreen = Class(Screen, function(self, profile, cb, no_backbutton, def
 	--self.dressup_bg:SetClickable(false)
 
     self.dressup = self.loadout_root:AddChild(DressupPanel(self, self.profile, function() self:SetPortraitImage() end, nil, nil, nil, true))
-    self.dressup:SetPosition(25, -80, 0)
+    self.dressup:SetPosition(55, -80, 0)
    	self.dressup:GetClothingOptions()
  	self.dressup:SeparateAvatar()
 
- 	local client_obj = TheNet:GetClientTableForUser(TheNet:GetUserID())
- 	local name = TheNet:GetLocalUserName()..STRINGS.UI.LOBBYSCREEN.LOADOUT_TITLE
- 	self.loadout_title = self.loadout_root:AddChild(Text(TALKINGFONT, 35, name, client_obj.colour or BLACK))
- 	self.loadout_title:SetPosition(RESOLUTION_X/2 - 110, RESOLUTION_Y - 25)
- 	self.loadout_title:SetRegionSize( 500, 60 )
- 	self.loadout_title:SetHAlign(ANCHOR_LEFT)
+    local client_obj = TheNet:GetClientTableForUser(TheNet:GetUserID())
+    local name = TheNet:GetLocalUserName()..STRINGS.UI.LOBBYSCREEN.LOADOUT_TITLE
+    self.loadout_title = self.loadout_root:AddChild(Text(TALKINGFONT, 35, name, client_obj ~= nil and client_obj.colour or BLACK))
+    self.loadout_title:SetPosition(RESOLUTION_X/2 - 110, RESOLUTION_Y - 25)
+    self.loadout_title:SetRegionSize( 500, 60 )
+    self.loadout_title:SetHAlign(ANCHOR_LEFT)
 
     if not TheInput:ControllerAttached() then
 		
@@ -211,10 +211,10 @@ local LobbyScreen = Class(Screen, function(self, profile, cb, no_backbutton, def
 
 
     	self.selectbutton = self.characterselect_root:AddChild(TEMPLATES.Button(STRINGS.UI.LOBBYSCREEN.SELECT, function() self:StartLoadout() end))
-		self.selectbutton:SetPosition(RESOLUTION_X - 265, 60, 0)
+		self.selectbutton:SetPosition(RESOLUTION_X - 300, 60, 0)
 
 		self.startbutton = self.loadout_root:AddChild(TEMPLATES.Button(STRINGS.UI.LOBBYSCREEN.SELECT, function() StartGame(self) end))
-		self.startbutton:SetPosition(RESOLUTION_X - 210, 60, 0)
+		self.startbutton:SetPosition(RESOLUTION_X - 180, 60, 0)
 
 		self.randomcharbutton = self.characterselect_root:AddChild(TEMPLATES.IconButton("images/button_icons.xml", "random.tex", STRINGS.UI.LOBBYSCREEN.RANDOMCHAR, false, false, function()
 				self.character_scroll_list:SelectRandomCharacter()
@@ -327,8 +327,6 @@ end
 	end
 end]]
 
-local VALID_CHARS = [[ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;[]\@!#$%&()'*+-/=?^_{|}~"<>]]
-
 function LobbyScreen:MakeTextEntryBox(parent)
 	local chatbox = parent:AddChild(Widget("chatbox"))
     chatbox.bg = chatbox:AddChild( Image("images/lobbyscreen.xml", "playerlobby_whitebg_type.tex") )
@@ -352,7 +350,6 @@ function LobbyScreen:MakeTextEntryBox(parent)
     chatbox.textbox:SetFocusedImage( chatbox.bg_outline, "images/textboxes.xml", "textbox2_small_grey.tex", "textbox2_small_gold.tex", "textbox2_small_gold_greyfill.tex" )
     
     chatbox.textbox:SetTextLengthLimit( 200 )
-    chatbox.textbox:SetCharacterFilter( VALID_CHARS )
     chatbox.textbox:EnableWordWrap(false)
     chatbox.textbox:EnableScrollEditWindow(true)
    	chatbox.textbox:SetHelpTextEdit("")

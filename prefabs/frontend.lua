@@ -32,6 +32,9 @@ local assets =
     Asset("ATLAS", "bigportraits/unknownmod.xml"),
     Asset("IMAGE", "bigportraits/unknownmod.tex"),
 
+    Asset("ATLAS", "images/tradescreen.xml"),
+	Asset("IMAGE", "images/tradescreen.tex"),
+
     Asset("ANIM", "anim/mod_player_build.zip"),
 
     Asset("ANIM", "anim/frames_comp.zip"),

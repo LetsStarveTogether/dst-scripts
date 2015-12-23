@@ -37,10 +37,10 @@ local function fn()
     inst.components.fuel.fuelvalue = TUNING.SMALL_FUEL
 
     inst:AddComponent("edible")
-    inst.components.edible.foodtype = FOODTYPE.WOOD
+    inst.components.edible.foodtype = FOODTYPE.ROUGHAGE
     inst.components.edible.woodiness = 5
-    inst.components.edible.healthvalue = 0
-    inst.components.edible.hungervalue = 0
+    inst.components.edible.healthvalue = TUNING.HEALING_TINY/2
+    inst.components.edible.hungervalue = TUNING.CALORIES_TINY
 
     ---------------------
     MakeSmallBurnable(inst, TUNING.SMALL_BURNTIME)

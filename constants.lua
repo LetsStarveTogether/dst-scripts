@@ -657,18 +657,11 @@ SEASONS =
 	CAVES = "caves",
 }
 
-RENDER_QUALITY = 
+RENDER_QUALITY =
 {
 	LOW = 0,
 	DEFAULT = 1,
 	HIGH = 2,
-}
-
-CREATURE_SIZE =
-{
-	SMALL = 0,
-	MEDIUM = 1,
-	LARGE = 2,
 }
 
 ROAD_PARAMETERS =
@@ -884,6 +877,7 @@ FOODTYPE =
     BERRY = "BERRY", --hack for smallbird; berries are actually part of veggie
     RAW = "RAW", -- things which some animals can eat off the ground, but players need to cook
     BURNT = "BURNT", --For lavae.
+    ROUGHAGE = "ROUGHAGE",
 }
 
 FOODGROUP =
@@ -1101,6 +1095,15 @@ WORMHOLETYPE =
 {
     WORM = 0,
     TENTAPILLAR = 1,
+}
+
+-- Domestication tendencies
+TENDENCY =
+{
+    DEFAULT = "DEFAULT",
+    ORNERY = "ORNERY",
+    RIDER = "RIDER",
+    PUDGY = "PUDGY",
 }
 
 REMOTESHARDSTATE =
