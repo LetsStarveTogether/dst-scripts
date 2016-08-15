@@ -90,10 +90,11 @@ SetSharedLootTable( 'rock_flintless_low',
 SetSharedLootTable( 'rock_moon',
 {
     {'rocks',           1.00},
-    {'flint',           1.00},
+    {'rocks',           1.00},
     {'moonrocknugget',  1.00},
-    {'moonrocknugget',  0.6},
-    {'moonrocknugget',  0.3},
+    {'flint',           1.00},
+    {'moonrocknugget',  0.25},
+    {'flint',           0.60},
 })
 
 SetSharedLootTable( 'rock_petrified_tree',
