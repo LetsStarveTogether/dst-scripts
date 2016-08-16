@@ -254,6 +254,7 @@ function LootDropper:DropLoot(pt)
             self.inst.components.burnable ~= nil and
             self.inst.components.burnable:IsBurning()) then
 
+        local isstructure = self.inst:HasTag("structure")
         for k, v in pairs(prefabs) do
             if PrefabExists(v.."_cooked") then
                 prefabs[k] = v.."_cooked"
@@ -263,8 +264,8 @@ function LootDropper:DropLoot(pt)
             --     while hammering AFTER burnt give back good ingredients.
             --     It *should* ALWAYS return ash based on certain types of
             --     ingredients (wood), but we'll let them have this one :O
-            --else
-                --prefabs[k] = "ash"
+            elseif not isstructure then
+                prefabs[k] = "ash"
             end
         end
     end
