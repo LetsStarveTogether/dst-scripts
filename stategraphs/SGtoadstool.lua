@@ -338,9 +338,9 @@ local states =
 
         events =
         {
-            EventHandler("animover", function(inst)
-                inst.sg:GoToState("roar")
-            end),
+            nosleep_gotosleep(),
+            nosleep_onwakeup(),
+            nosleep_animover("roar"),
         },
 
         onexit = function(inst)
@@ -516,11 +516,9 @@ local states =
 
         events =
         {
-            EventHandler("animover", function(inst)
-                if inst.AnimState:AnimDone() then
-                    inst.sg:GoToState("idle")
-                end
-            end),
+            nosleep_gotosleep(),
+            nosleep_onwakeup(),
+            nosleep_animover("idle"),
         },
     },
 
@@ -742,9 +740,13 @@ local states =
                     inst.sg.statemem.stopped = true
                 end
             end),
+            nosleep_gotosleep(),
+            nosleep_onwakeup(),
             EventHandler("animover", function(inst)
                 if inst.AnimState:AnimDone() then
-                    if inst.sg.statemem.stopped then
+                    if inst.sg.statemem.sleeping then
+                        inst.sg:GoToState("sleep")
+                    elseif inst.sg.statemem.stopped then
                         inst.sg:GoToState("channel_pst")
                     else
                         inst.sg.statemem.continuechannel = true

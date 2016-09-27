@@ -19,7 +19,7 @@ return CreatePrefabSkin("backpack_crab",
 {
 	base_prefab = base_prefab, 
 	ui_preview = ui_preview,
-	inheritance = "ITEM_SKIN",
+	inheritance = "ITEM_SKIN_LOYAL",
 	init_fn = function(inst) backpack_init_fn(inst, ui_preview.build) end,
 	assets = assets,
 	tags = tags,

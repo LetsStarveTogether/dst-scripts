@@ -25,6 +25,12 @@ local function onhit(inst, worker, workleft)
     end
 end
 
+local function onbuilt(inst)
+    inst.AnimState:PlayAnimation("place")
+    inst.AnimState:PushAnimation("idle", false)
+    inst.SoundEmitter:PlaySound("dontstarve/creatures/together/stagehand/hit")
+end
+
 local function fn()
     local inst = CreateEntity()
 
@@ -66,6 +72,8 @@ local function fn()
 	--make sure the vase contains a rose
 	inst.AnimState:OverrideSymbol( "swap_flower", "stagehand", "swap_flower" )
     
+    inst:ListenForEvent("onbuilt", onbuilt)
+
     return inst
 end
 

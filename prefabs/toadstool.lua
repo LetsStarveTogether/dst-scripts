@@ -487,6 +487,8 @@ local function OnEscaped(inst)
     inst:Remove()
 end
 
+--------------------------------------------------------------------------
+
 local function DecayFreeze(inst, SetFreezeExtraResist)
     local new_resist = math.max(0, inst.freezable_extra_resist - .2)
     local current_resist = inst.components.freezable.coldness - TUNING.TOADSTOOL_FREEZE_RESIST
@@ -522,6 +524,31 @@ end
 --Triggered only if I wasn't already completely frozen
 local function OnFreeze(inst)
     SetFreezeExtraResist(inst, inst.freezable_extra_resist + 1)
+end
+
+--------------------------------------------------------------------------
+
+local function ShouldSleep(inst)
+    return false
+end
+
+local function ShouldWake(inst)
+    return true
+end
+
+--------------------------------------------------------------------------
+
+local function OnEntitySleep(inst)
+    if not inst.components.health:IsDead() then
+        inst._sleeptask = inst:DoTaskInTime(10, inst.Remove)
+    end
+end
+
+local function OnEntityWake(inst)
+    if inst._sleeptask ~= nil then
+        inst._sleeptask:Cancel()
+        inst._sleeptask = nil
+    end
 end
 
 --------------------------------------------------------------------------
@@ -674,6 +701,7 @@ local function fn()
     inst:AddTag("hostile")
     inst:AddTag("scarytoprey")
     inst:AddTag("largecreature")
+    inst:AddTag("cavedweller")
 
     inst._fade = net_smallbyte(inst.GUID, "toadstool._fade", "fadedirty")
 
@@ -701,6 +729,8 @@ local function fn()
 
     inst:AddComponent("sleeper")
     inst.components.sleeper:SetResistance(4)
+    inst.components.sleeper:SetSleepTest(ShouldSleep)
+    inst.components.sleeper:SetWakeTest(ShouldWake)
 
     inst:AddComponent("locomotor")
     inst.components.locomotor.pathcaps = { ignorewalls = true }
@@ -786,6 +816,9 @@ local function fn()
 
     inst.FadeOut = FadeOut
     inst.CancelFade = CancelFade
+
+    inst.OnEntitySleep = OnEntitySleep
+    inst.OnEntityWake = OnEntityWake
 
     return inst
 end
