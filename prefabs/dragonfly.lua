@@ -28,14 +28,12 @@ local prefabs =
     "orangegem",
     "yellowgem",
     "greengem",
-    "dragonflyfurnace_blueprint",
 }
 
 SetSharedLootTable('dragonfly',
 {
-    {'dragon_scales',             1.00},
-    {'dragonflyfurnace_blueprint',1.00},
-    {'lavae_egg',                 0.33},
+    {'dragon_scales',    1.00},
+    {'lavae_egg',        0.33},
     
     {'meat',             1.00},
     {'meat',             1.00},
@@ -429,7 +427,7 @@ local function fn()
     inst.components.healthtrigger:AddTrigger(0.2, OnHealthTrigger)
 
     inst.components.health:SetMaxHealth(TUNING.DRAGONFLY_HEALTH)
-    inst.components.health.destroytime = 5 --Take 5 seconds to be removed when killed
+    inst.components.health.nofadeout = true --Handled in death state instead
     inst.components.health.fire_damage_scale = 0 -- Take no damage from fire
 
     inst.components.groundpounder.numRings = 2
