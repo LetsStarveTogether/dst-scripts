@@ -39,14 +39,6 @@ local EMOTES =
             data = { anim = { "emoteXL_pre_dance0", "emoteXL_loop_dance0" }, loop = true, fx = false, beaver = true, mounted = true, tags = { "dancing" } },
         },
 
-    ["sit"] = {
-           data = { anim = { { "emote_pre_sit2", "emote_loop_sit2" }, { "emote_pre_sit4", "emote_loop_sit4" } }, randomanim = true, loop = true, fx = false },
-        },
-
-    ["squat"] = {
-           data = { anim = { { "emote_pre_sit1", "emote_loop_sit1" }, { "emote_pre_sit3", "emote_loop_sit3" } }, randomanim = true, loop = true, fx = false },
-        },
-
     ["bonesaw"] = {
             aliases = { "ready", "goingnowhere", "playtime", "threeminutes" },
             data = { anim = "emoteXL_bonesaw", mounted = true },
@@ -86,6 +78,7 @@ local function CreateEmoteCommand(emotedef)
                 player:PushEvent("emote", emotedef.data)
             end
         end,
+        displayname = emotedef.displayname
     }
 end
 
