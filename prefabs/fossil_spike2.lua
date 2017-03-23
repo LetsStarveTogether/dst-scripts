@@ -1,31 +1,21 @@
 local assets =
 {
-    Asset("ANIM", "anim/fossil_spike.zip"),
+    Asset("ANIM", "anim/fossil_spike2.zip"),
 }
 
 local prefabs =
 {
     "erode_ash",
-    "fossilspike_base",
+    "fossilspike2_base",
 }
 
 local NUM_VARIATIONS = 7
 local PHYSICS_RADIUS = .2
 local DAMAGE_RADIUS_PADDING = .5
+local SHADOW_SIZE = { 1.2, .75 }
 
 local function KeepTargetFn()
     return false
-end
-
-local function ChangeToObstacle(inst)
-    inst:RemoveEventCallback("animover", ChangeToObstacle)
-    local x, y, z = inst.Transform:GetWorldPosition()
-    inst.Physics:Stop()
-    inst.Physics:SetMass(0) 
-    inst.Physics:ClearCollisionMask()
-    inst.Physics:CollidesWith(COLLISION.ITEMS)
-    inst.Physics:CollidesWith(COLLISION.CHARACTERS)
-    inst.Physics:Teleport(x, 0, z)
 end
 
 local function SpikeLaunch(inst, launcher, basespeed, startheight, startradius)
@@ -57,7 +47,7 @@ local COLLAPSIBLE_TAGS = { "_combat", "pickable" }
 for k, v in pairs(COLLAPSIBLE_WORK_ACTIONS) do
     table.insert(COLLAPSIBLE_TAGS, k.."_workable")
 end
-local NON_COLLAPSIBLE_TAGS = { "stalker", "flying", "shadow", "ghost", "playerghost", "FX", "NOCLICK", "DECOR", "INLIMBO" }
+local NON_COLLAPSIBLE_TAGS = { "stalker", --[["flying", "ghost",]] "shadow", "playerghost", "FX", "NOCLICK", "DECOR", "INLIMBO" }
 
 local function DoDamage(inst)
     local x, y, z = inst.Transform:GetWorldPosition()
@@ -103,18 +93,16 @@ local function DoDamage(inst)
     end
 end
 
-local function OnKill2(inst)
+local function OnKill(inst)
     inst:AddTag("NOCLICK")
-    inst.Physics:SetActive(false)
     ErodeAway(inst, 1)
 end
 
-local function OnKill(inst)
-    SpawnPrefab("erode_ash").Transform:SetPosition(inst.Transform:GetWorldPosition())
-    inst:DoTaskInTime(.5, OnKill2)
-end
-
 local function KillSpike(inst)
+    if inst.killtask ~= nil then
+        inst.killtask:Cancel()
+        inst.killtask = nil
+    end
     if not inst.killed then
         if inst.basefx ~= nil then
             inst.killed = true
@@ -124,39 +112,109 @@ local function KillSpike(inst)
                 inst.task = nil
             end
 
-            inst:RemoveEventCallback("animover", ChangeToObstacle)
-
-            if inst.basefx:IsValid() then
-                inst.basefx.AnimState:PlayAnimation("base_pst"..tostring(inst.basefx.variation))
-                inst:DoTaskInTime(1, OnKill)
-            else
-                OnKill(inst)
-            end
+            SpawnPrefab("erode_ash").Transform:SetPosition(inst.Transform:GetWorldPosition())
+            inst:DoTaskInTime(.5, OnKill)
         else
             inst:Remove()
         end
     end
 end
 
-local function StartSpike(inst, duration, variation)
-    inst.task = inst:DoTaskInTime(duration, KillSpike)
+local function OnImpact(inst)
+    inst:RemoveEventCallback("animover", OnImpact)
+    inst.AnimState:PlayAnimation("impact")
 
-    if variation > 1 then
-        inst.AnimState:OverrideSymbol("bone1", "fossil_spike", "bone"..tostring(variation))
+    if inst.lighttask ~= nil then
+        inst.lighttask:Cancel()
+        inst.lighttask = nil
     end
+    inst.AnimState:SetLightOverride(0)
 
-    inst.basefx = SpawnPrefab("fossilspike_base")
+    if inst.shadowtask ~= nil then
+        inst.shadowtask:Cancel()
+        inst.shadowtask = nil
+    end
+    if inst.shadowtask2 ~= nil then
+        inst.shadowtask2:Cancel()
+        inst.shadowtask2 = nil
+    end
+    inst.DynamicShadow:Enable(false)
+
+    inst.basefx = SpawnPrefab("fossilspike2_base")
     inst.basefx.entity:SetParent(inst.entity)
 
-    inst:ListenForEvent("animover", ChangeToObstacle)
-    inst.AnimState:PlayAnimation("fossil_pst")
-
-    inst.SoundEmitter:PlaySound("dontstarve/creatures/together/stalker/fossil_spike")
+    if inst.soundlevel ~= nil then
+        inst.SoundEmitter:PlaySoundWithParams("dontstarve/creatures/together/stalker/fossil_spike", { level = inst.soundlevel })
+    else
+        inst.SoundEmitter:PlaySound("dontstarve/creatures/together/stalker/fossil_spike")
+    end
 
     DoDamage(inst)
+
+    inst.killtask = inst:DoTaskInTime(.35, KillSpike)
 end
 
-local function RestartSpike(inst, delay, duration, variation)
+local SHADOW_DELTA2 = -.2
+local function UpdateShadow2(inst)
+    if inst.shadowtask ~= nil then
+        inst.shadowtask:Cancel()
+        inst.shadowtask = nil
+    end
+    inst.shadowsize = inst.shadowsize + SHADOW_DELTA2
+    local k = 1 - inst.shadowsize
+    k = 1 - k * k
+    if k <= .5 then
+        k = .5
+        inst.shadowtask2:Cancel()
+        inst.shadowtask2 = nil
+    end
+    inst.DynamicShadow:SetSize(k * SHADOW_SIZE[1], k * SHADOW_SIZE[2])
+end
+
+local SHADOW_DELTA = .05
+local function UpdateShadow(inst)
+    inst.shadowsize = inst.shadowsize + SHADOW_DELTA
+    if inst.shadowsize > 0 then
+        inst.DynamicShadow:Enable(true)
+        if inst.shadowsize >= 1 then
+            inst.shadowsize = 1
+            inst.shadowtask:Cancel()
+            inst.shadowtask = nil
+        end
+    end
+    local k = inst.shadowsize * inst.shadowsize
+    inst.DynamicShadow:SetSize(k * SHADOW_SIZE[1], k * SHADOW_SIZE[2])
+end
+
+local LIGHT_DELTA = .03
+local function UpdateLight(inst)
+    inst.lightvalue = inst.lightvalue + LIGHT_DELTA
+    if inst.lightvalue >= 1 then
+        inst.lightvalue = 1
+        inst.lighttask:Cancel()
+        inst.lighttask = nil
+    end
+    inst.AnimState:SetLightOverride(1 - inst.lightvalue * inst.lightvalue)
+end
+
+local function StartSpike(inst, variation)
+    inst.task = nil
+
+    if variation > 1 then
+        inst.AnimState:OverrideSymbol("bone1", "fossil_spike2", "bone"..tostring(variation))
+    end
+
+    inst:ListenForEvent("animover", OnImpact)
+    inst.AnimState:PlayAnimation("appear")
+
+    inst.shadowsize = 0
+    inst.shadowtask = inst:DoPeriodicTask(0, UpdateShadow)
+    inst.shadowtask2 = inst:DoPeriodicTask(0, UpdateShadow2, 43.5 * FRAMES)
+    inst.lightvalue = 0
+    inst.lighttask = inst:DoPeriodicTask(0, UpdateLight)
+end
+
+local function RestartSpike(inst, delay, variation, soundlevel)
     if inst.task ~= nil then
         inst.task:Cancel()
         if variation == nil then
@@ -164,7 +222,8 @@ local function RestartSpike(inst, delay, duration, variation)
         elseif variation > NUM_VARIATIONS then
             variation = (variation - 1) % NUM_VARIATIONS + 1
         end
-        inst.task = inst:DoTaskInTime(delay or 0, StartSpike, duration, variation)
+        inst.soundlevel = soundlevel
+        inst.task = inst:DoTaskInTime(delay or 0, StartSpike, variation)
     end
 end
 
@@ -173,25 +232,19 @@ local function fn()
 
     inst.entity:AddTransform()
     inst.entity:AddAnimState()
+    inst.entity:AddDynamicShadow()
     inst.entity:AddSoundEmitter()
-    inst.entity:AddPhysics()
     inst.entity:AddNetwork()
 
-    inst.AnimState:SetBank("fossil_spike")
-    inst.AnimState:SetBuild("fossil_spike")
+    inst.AnimState:SetBank("fossil_spike2")
+    inst.AnimState:SetBuild("fossil_spike2")
     inst.AnimState:PlayAnimation("empty")
     inst.AnimState:SetFinalOffset(1)
+    inst.AnimState:SetLightOverride(1)
 
-    inst.Physics:SetMass(99999)
-    inst.Physics:SetCollisionGroup(COLLISION.SMALLOBSTACLES)
-    inst.Physics:ClearCollisionMask()
-    inst.Physics:CollidesWith(COLLISION.ITEMS)
-    inst.Physics:CollidesWith(COLLISION.CHARACTERS)
-    inst.Physics:CollidesWith(COLLISION.WORLD)
-    inst.Physics:SetCapsule(PHYSICS_RADIUS, 2)
+    inst.DynamicShadow:Enable(false)
 
     inst:AddTag("notarget")
-    inst:AddTag("groundspike")
     inst:AddTag("fossilspike")
 
     inst.entity:SetPristine()
@@ -201,13 +254,13 @@ local function fn()
     end
 
     inst:AddComponent("combat")
-    inst.components.combat:SetDefaultDamage(10)
+    inst.components.combat:SetDefaultDamage(TUNING.FOSSIL_SPIKE_DAMAGE)
     inst.components.combat.playerdamagepercent = .5
     inst.components.combat:SetKeepTargetFunction(KeepTargetFn)
 
     inst.persists = false
 
-    inst.task = inst:DoTaskInTime(0, StartSpike, 5 + math.random(), math.random(NUM_VARIATIONS))
+    inst.task = inst:DoTaskInTime(0, StartSpike, math.random(NUM_VARIATIONS))
     inst.RestartSpike = RestartSpike
     inst.KillSpike = KillSpike
 
@@ -221,9 +274,9 @@ local function basefn()
     inst.entity:AddAnimState()
     inst.entity:AddNetwork()
 
-    inst.AnimState:SetBank("fossil_spike")
-    inst.AnimState:SetBuild("fossil_spike")
-    inst.AnimState:PlayAnimation("base_pre1")
+    inst.AnimState:SetBank("fossil_spike2")
+    inst.AnimState:SetBuild("fossil_spike2")
+    inst.AnimState:PlayAnimation("base_impact")
     inst.AnimState:SetLayer(LAYER_BACKGROUND)
     inst.AnimState:SetSortOrder(3)
 
@@ -238,13 +291,8 @@ local function basefn()
 
     inst.persists = false
 
-    inst.variation = math.random(3)
-    if inst.variation > 1 then
-        inst.AnimState:PlayAnimation("base_pre"..tostring(inst.variation))
-    end
-
     return inst
 end
 
-return Prefab("fossilspike", fn, assets, prefabs),
-    Prefab("fossilspike_base", basefn, assets)
+return Prefab("fossilspike2", fn, assets, prefabs),
+    Prefab("fossilspike2_base", basefn, assets)
