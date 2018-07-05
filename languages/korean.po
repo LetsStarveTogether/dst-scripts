@@ -30744,8 +30744,8 @@ msgstr "오오... 베리가 다 없어졌다."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_BOWL_SILVER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_BOWL_SILVER"
-msgid "Now we don't have somewhere to put food."
-msgstr "이제 음식을 놓을 곳이 없다."
+msgid "Now we have somewhere to put food."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_CARROT_SEEDS"
@@ -112934,8 +112934,8 @@ msgstr "the_forge"
 
 #. STRINGS.TAGS.GAMEMODE.QUAGMIRE
 msgctxt "STRINGS.TAGS.GAMEMODE.QUAGMIRE"
-msgid "quagmire"
-msgstr "quagmire"
+msgid "the_gorge"
+msgstr ""
 
 #. STRINGS.TAGS.LOCAL
 msgctxt "STRINGS.TAGS.LOCAL"
@@ -118326,6 +118326,11 @@ msgstr "노"
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
 msgid "The Gorge"
 msgstr "골짜기"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER"
+msgid "Toggle player"
+msgstr ""
 
 #. STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE"
