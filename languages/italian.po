@@ -535,7 +535,7 @@ msgstr "Imposta una mina"
 #. STRINGS.ACTIONS.MIX
 msgctxt "STRINGS.ACTIONS.MIX"
 msgid "Mix"
-msgstr ""
+msgstr "Miscela"
 
 #. STRINGS.ACTIONS.MOUNT
 msgctxt "STRINGS.ACTIONS.MOUNT"
@@ -1607,11 +1607,6 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BUILD.MOUNTED"
 msgid "I can't place that from way up here."
 msgstr "Non posso posizionarlo da qua sopra."
 
-#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BUILD.TOOSANE"
-msgid "I've got to be pretty crazy to try that."
-msgstr ""
-
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "It's too dangerous right now!"
@@ -2020,7 +2015,7 @@ msgstr "Ahi! Dovrei provare a prenderlo!"
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BRAVERY_POTION"
 msgid "Those trees don't seem so spooky anymore."
-msgstr ""
+msgstr "Quegli alberi non sembrano più così inquietanti."
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BURNT"
@@ -2435,7 +2430,7 @@ msgstr "Ho quasi raggiunto il mio punto di saturazione."
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SPOOKED"
 msgid "Did you see that?!"
-msgstr ""
+msgstr "Hai visto?!"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_THORNS"
@@ -5020,52 +5015,52 @@ msgstr "Si attacca ai denti."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Full of grit."
-msgstr ""
+msgstr "È piena di coraggio."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "A potent potion."
-msgstr ""
+msgstr "Una pozione potente."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "I was hoping for something bigger."
-msgstr ""
+msgstr "Mi aspettavo qualcosa di più grande."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "Crystalized inferno."
-msgstr ""
+msgstr "Inferno cristallizzato."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "A spectornament I could hang in a tree."
-msgstr ""
+msgstr "Una decorazione spettrale da appendere a un albero."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Completely batty decoration."
-msgstr ""
+msgstr "Una decorazione completamente fuori di testa."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "This wood look good hanging somewhere."
-msgstr ""
+msgstr "Questo legno andrebbe appeso da qualche parte."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "Almost i-tentacle to the real ones."
-msgstr ""
+msgstr "Quasi identici a quelli veri."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "Eight-armed adornment."
-msgstr ""
+msgstr "Ornamento a otto braccia."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Everyone's raven about tree decorations these days."
-msgstr ""
+msgstr "Ultimamente tutti vanno matti per le decorazioni per gli alberi."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMBAT"
@@ -5630,12 +5625,12 @@ msgstr "Mi sta guardando?"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LIVINGTREE_ROOT"
 msgid "Something's in there! I'll have to root it out."
-msgstr ""
+msgstr "C’è qualcosa lì dentro! Devo sradicarlo."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "It'll grow up big and horrifying."
-msgstr ""
+msgstr "Crescerà grande e orripilante."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOG.BURNING"
@@ -5675,7 +5670,7 @@ msgstr "Adesso posso iniziare la mia fattoria di carne."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MADSCIENCE_LAB"
 msgid "Sanity is a small price to pay for science!"
-msgstr ""
+msgstr "La sanità mentale è un piccolo prezzo da pagare per la scienza!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MALE_PUPPET"
@@ -9847,11 +9842,6 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.MOUNTED"
 msgid "I must first dismount from my mighty steed."
 msgstr "Devo prima smontare dal mio possente destriero."
 
-#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.TOOSANE"
-msgid "Only those touched by madness would perform this deed!"
-msgstr ""
-
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Gasp! My furs!"
@@ -10250,7 +10240,7 @@ msgstr "Argh! Devo padroneggiare l'arma ricurva."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BRAVERY_POTION"
 msgid "Fear! I hath bested you!"
-msgstr ""
+msgstr "Paura! Ti ho sconfitta!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT"
@@ -10645,7 +10635,7 @@ msgstr "Sono quasi annegata!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SPOOKED"
 msgid "Doth mine eyes deceive me?"
-msgstr ""
+msgstr "I miei occhi mi ingannano?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_THORNS"
@@ -13250,52 +13240,52 @@ msgstr "La battaglia fu epica, ma alla fine il verme è stato consumato!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "'tis Berserker magic."
-msgstr ""
+msgstr "Questa è magia forsennata."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "Fortune hath smiled upon me today!"
-msgstr ""
+msgstr "La fortuna mi sorride quest’oggi!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "A meager reward for my troubles."
-msgstr ""
+msgstr "Una magra ricompensa per le mie fatiche."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "Hel's fuel."
-msgstr ""
+msgstr "Il carburante di Hel."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Meant to hang from Yggdrasil's kin!"
-msgstr ""
+msgstr "Destinato ad essere appeso da un parente di Yggdrasil"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Decoration! Prepare to be hung from something!"
-msgstr ""
+msgstr "Decorazione! Preparati ad essere appesa a qualcosa!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "It shall strike fear unto the hearts of mine foes!"
-msgstr ""
+msgstr "Incuterà terrore nei cuori dei miei nemici!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "'tis but a decoration!"
-msgstr ""
+msgstr "È tutto ma non una decorazione!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "It shalt be hung from the highest branch!"
-msgstr ""
+msgstr "Dovrà essere appeso al ramo più alto!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Huginn? Or Muninn?"
-msgstr ""
+msgstr "Huginn? O Muninn?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMBAT"
@@ -13845,12 +13835,12 @@ msgstr "Un albero della vita, ma non è Yggdrasil."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE_ROOT"
 msgid "I hath birthed the root of terror!"
-msgstr ""
+msgstr "Ho dato vita alla radice del terrore!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "It bears the promise of horridness!"
-msgstr ""
+msgstr "Porta con sé la promessa dell’orrendo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOG.BURNING"
@@ -13890,7 +13880,7 @@ msgstr "Potrò essere un'allevatrice di carne dopo tutto!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MADSCIENCE_LAB"
 msgid "Be there method to this madness?"
-msgstr ""
+msgstr "Esiste un qualche metodo per questa follia?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MALE_PUPPET"
@@ -18047,11 +18037,6 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Even with my long arms, I still can't reach."
 msgstr "Malgrado le mie lunghe braccia, non riesco a montare."
 
-#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.TOOSANE"
-msgid "You'd have to be pretty crazy to do that."
-msgstr ""
-
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Oh. There go all my good pocket squares."
@@ -18450,7 +18435,7 @@ msgstr "Ahi! Dannate... mani impacciate!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BRAVERY_POTION"
 msgid "I was never really scared of those trees anyhow."
-msgstr ""
+msgstr "Quegli alberi non mi hanno mai spaventato davvero."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BURNT"
@@ -18855,7 +18840,7 @@ msgstr "Più bagnato dell'acqua."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SPOOKED"
 msgid "Quite an expert illusion."
-msgstr ""
+msgstr "Un’illusione piuttosto esperta."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_THORNS"
@@ -21445,52 +21430,52 @@ msgstr "La situazione si è capovolta, verme."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Takes away the horrors. But who would want that?"
-msgstr ""
+msgstr "Toglie gli orrori, ma chi avrebbe tale desiderio?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "Ah. This'll do the trick."
-msgstr ""
+msgstr "Ah. Questo risolverà la cosa."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "Could be a little stronger."
-msgstr ""
+msgstr "Potrebbe essere un po’ più forte."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "Might as well throw it in the fire."
-msgstr ""
+msgstr "Si potrebbe gettarla nel fuoco."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Oh joy. Is there really need for decoration?"
-msgstr ""
+msgstr "Oh felicità. C’è davvero bisogno delle decorazioni?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Such a burden to carry it. If only there were a place to leave it."
-msgstr ""
+msgstr "È un tale fardello da portare. Se solo ci fosse un posto dove lasciarlo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "I like the real ones better."
-msgstr ""
+msgstr "Preferisco quelli veri."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "Shouldn't it be hanging from somewhere."
-msgstr ""
+msgstr "Non è che dovrebbe essere appeso a qualcosa?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "Ugh. These guys again."
-msgstr ""
+msgstr "Argh. Ancora questi."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Why do I hear \"Nevermore\"?"
-msgstr ""
+msgstr "Perché sento “Mai più”?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMBAT"
@@ -22040,12 +22025,12 @@ msgstr "Ha la faccia."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LIVINGTREE_ROOT"
 msgid "Ah. A chance to grow something horrible."
-msgstr ""
+msgstr "Ah. Un’occasione di far crescere qualcosa di orribile."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Just days away from dreadful."
-msgstr ""
+msgstr "Ancora pochi giorni all'orrendo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOG.BURNING"
@@ -22085,7 +22070,7 @@ msgstr "Forse potrei usarlo a mio vantaggio."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MADSCIENCE_LAB"
 msgid "How maddening."
-msgstr ""
+msgstr "Troppo esasperante."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MALE_PUPPET"
@@ -26247,11 +26232,6 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.MOUNTED"
 msgid "All our arms can't quite reach from up here."
 msgstr "Tutte le nostre braccia non riescono a raggiungere da qua sopra."
 
-#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.TOOSANE"
-msgid "We gotta be pretty crazy to try something like that!"
-msgstr ""
-
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Woah! Hot fashions!"
@@ -26650,7 +26630,7 @@ msgstr "Ci fa male quando non lo prendiamo."
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BRAVERY_POTION"
 msgid "Hey, those trees aren't so scary anymore!"
-msgstr ""
+msgstr "Ehi, quegli alberi non sono più così spaventosi!"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BURNT"
@@ -27050,7 +27030,7 @@ msgstr "Siamo inzuppati!"
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_SPOOKED"
 msgid "Are we seeing things?!"
-msgstr ""
+msgstr "Abbiamo le allucinazioni?!"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_THORNS"
@@ -29640,52 +29620,52 @@ msgstr "Vermi gommosi, vermi gustosi!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Makes us feel big and strong!"
-msgstr ""
+msgstr "Ci fa sentire grandi e forti!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "It's pretty powerful."
-msgstr ""
+msgstr "È molto potente."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "It's only a little powerful."
-msgstr ""
+msgstr "È un po’ potente."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "Neat! It's like firecrackers."
-msgstr ""
+msgstr "Bene! È come un petardo."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Oooh. Spooky. We should decorate!"
-msgstr ""
+msgstr "Oooh. Inquietante. Dovremmo addobbare!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Gosh. That almost looks real."
-msgstr ""
+msgstr "Caspita. Sembra quasi vero."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "Aw. It's not real. Let's hang it somewhere."
-msgstr ""
+msgstr "Ah. Non è vero. Vediamo di appenderlo da qualche parte."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "Let's hang it somewhere for Halloween!"
-msgstr ""
+msgstr "Appendiamolo da qualche parte per Halloween!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "We should put this guy in a tree!"
-msgstr ""
+msgstr "Dovremmo mettere questo tizio su un albero!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "If we put it in a tree it'd look almost real."
-msgstr ""
+msgstr "Se lo mettessimo su un albero, avrebbe un aspetto quasi vero."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMBAT"
@@ -30235,12 +30215,12 @@ msgstr "Salve, signor albero!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE_ROOT"
 msgid "We should plant this somewhere."
-msgstr ""
+msgstr "Dovremmo piantarlo da qualche parte."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "It's a monster kid. Like me!"
-msgstr ""
+msgstr "È un piccolo mostro. Come me!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.BURNING"
@@ -30280,7 +30260,7 @@ msgstr "Vorrei che potessimo imparare a generare la carne."
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MADSCIENCE_LAB"
 msgid "Wow. Look at it bubble."
-msgstr ""
+msgstr "Wow! Guarda quella bolla."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MALE_PUPPET"
@@ -34432,11 +34412,6 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED"
 msgid "I can't place that from this lofty position."
 msgstr "Non posso posizionarlo da questa posizione così alta!"
 
-#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.TOOSANE"
-msgid "Only a mind consumed by madness would attempt such a thing."
-msgstr ""
-
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "I guess I won't be changing again anytime soon."
@@ -34835,7 +34810,7 @@ msgstr "Ahi! Quello era il karma."
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_BRAVERY_POTION"
 msgid "Bats can't scare me anymore. I can return to my melancholy."
-msgstr ""
+msgstr "I pipistrelli non possono più spaventarmi. Posso tornare alla mia malinconia."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_BURNT"
@@ -35230,7 +35205,7 @@ msgstr "Una vera e propria apocalisse di acqua."
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SPOOKED"
 msgid "Did you see that, Abigail?"
-msgstr ""
+msgstr "Hai visto, Abigail?"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_THORNS"
@@ -37810,52 +37785,52 @@ msgstr "Tanto sconcertante quanto delizioso."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Things seem less horrifying with this."
-msgstr ""
+msgstr "Con questo, le cose sembrano meno orrende."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "If only life was so potent."
-msgstr ""
+msgstr "Se soltanto la vita fosse così potente."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "Like life, it's a bit disappointing."
-msgstr ""
+msgstr "Come la vita: una delusione."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "I wish I possessed such burning within my heart."
-msgstr ""
+msgstr "Quanto mi piacerebbe avere un tale spirito ardente nel cuore."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "It reminds me of Abigail. I'll hang it somewhere."
-msgstr ""
+msgstr "Mi ricorda Abigail. Lo appenderò da qualche parte."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "It longs to be hung somewhere."
-msgstr ""
+msgstr "Non vede l’ora di essere appeso da qualche parte."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "Decoration for a devilish day."
-msgstr ""
+msgstr "Una decorazione per una giornata diabolica."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "A memorial for a monster."
-msgstr ""
+msgstr "Un memoriale per un mostro."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "It descends into darkness."
-msgstr ""
+msgstr "Discende nell'oscurità."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Crows in trees mean souls trapped between worlds."
-msgstr ""
+msgstr "I corvi sugli alberi significano anime intrappolate tra i mondi."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMBAT"
@@ -38405,12 +38380,12 @@ msgstr "Non può mai morire?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGTREE_ROOT"
 msgid "Potential horror."
-msgstr ""
+msgstr "Orrore potenziale."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "It'll grow up big and abhorrent."
-msgstr ""
+msgstr "Crescerà grande e ripugnante."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOG.BURNING"
@@ -38450,7 +38425,7 @@ msgstr "La vita continua."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MADSCIENCE_LAB"
 msgid "Madness lies within."
-msgstr ""
+msgstr "Vi dimora la follia."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MALE_PUPPET"
@@ -42612,11 +42587,6 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BUILD.MOUNTED"
 msgid "In this elevated position, I can't reach the ground."
 msgstr "In questa posizione elevata, non riesco a raggiungere il suolo."
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BUILD.TOOSANE"
-msgid "That science is complete madness!"
-msgstr ""
-
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "No more changes for me. It's gone up in flames."
@@ -43025,7 +42995,7 @@ msgstr "Ho giudicato male i tempi del suo ritorno."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BRAVERY_POTION"
 msgid "My intestinal fortitude has returned!"
-msgstr ""
+msgstr "La mia forza intestinale è tornata!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BURNT"
@@ -43425,7 +43395,7 @@ msgstr "Fradicio positivamente."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_SPOOKED"
 msgid "Curious. I seem to be hallucinating."
-msgstr ""
+msgstr "Che curiosità: credo di avere le allucinazioni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_THORNS"
@@ -46015,52 +45985,52 @@ msgstr "Sarà meglio che non senta parlare di mal di pancia più tardi."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Bottled valor."
-msgstr ""
+msgstr "Valore imbottigliato."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "A impressive elixer."
-msgstr ""
+msgstr "Un elisir notevole."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "Not as potent as I would have liked."
-msgstr ""
+msgstr "Non ha la potenza che avrei voluto."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "It appears combustible."
-msgstr ""
+msgstr "Sembra essere combustibile."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "An ornamental poltergeist meant to be hung somewhere."
-msgstr ""
+msgstr "Un poltergeist ornamentale da appendere da qualche parte."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "A flourish of flying mammal."
-msgstr ""
+msgstr "Un florilegio di un mammifero volante."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "An arborator adornment of the arachnid variety."
-msgstr ""
+msgstr "Una arboreto decorativo di una specie di aracnide."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "I really should decorate."
-msgstr ""
+msgstr "Dovrei davvero decorare."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "An ornament such as this should be hung up."
-msgstr ""
+msgstr "Una decorazione come questa andrebbe appesa."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "A corvus such as this would do better in a tree."
-msgstr ""
+msgstr "Un corvo come questo farebbe la sua bella figura su un albero."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMBAT"
@@ -46610,12 +46580,12 @@ msgstr "Questo albero è speciale."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE_ROOT"
 msgid "The root cutting of a beastly tree."
-msgstr ""
+msgstr "La radice tagliata di un albero bestiale."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Ah. Its horror has taken root."
-msgstr ""
+msgstr "Ah. Il suo orrore ha fatto radici."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOG.BURNING"
@@ -46655,7 +46625,7 @@ msgstr "Può essere piantato nel posto migliore ora."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MADSCIENCE_LAB"
 msgid "Mad science indeed!"
-msgstr ""
+msgstr "Scienza folle, senza dubbio!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MALE_PUPPET"
@@ -50817,11 +50787,6 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.MOUNTED"
 msgid "I can't place anything from atop this big lout!"
 msgstr "Non posso posizionare niente dalla groppa di questo zoticone!"
 
-#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.TOOSANE"
-msgid "I'm not crazy enough to try that!"
-msgstr ""
-
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "That's way better than some dumb dresses!"
@@ -51220,7 +51185,7 @@ msgstr "Stupido boomerang!"
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BRAVERY_POTION"
 msgid "Haha! Those bats don't scare me anymore!"
-msgstr ""
+msgstr "Ahah! Quei pipistrelli non mi spaventano più!"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BURNT"
@@ -51660,7 +51625,7 @@ msgstr "Ugh, questo è il PEGGIORE!"
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_SPOOKED"
 msgid "Were those bats, or am I just seeing things."
-msgstr ""
+msgstr "Quelli erano pipistrelli, o ho le traveggole?"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_THORNS"
@@ -54245,52 +54210,52 @@ msgstr "Perché una cosa così gustosa deve avere un aspetto così disgustoso!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "It's like there's a fire in my belly."
-msgstr ""
+msgstr "È come se ci fosse un fuoco nel mio stomaco."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "Ah. The strong stuff."
-msgstr ""
+msgstr "Ah. Roba forte."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "I wish it was a little stronger."
-msgstr ""
+msgstr "Vorrei che fosse più forte."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "I didn't think it was possible to make fire better."
-msgstr ""
+msgstr "Non credevo fosse possibile migliorare il fuoco."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Can I set it on fire?"
-msgstr ""
+msgstr "Posso bruciarlo?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "I should decorate for Halloween."
-msgstr ""
+msgstr "Dovrei fare le decorazioni per Halloween."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "Ugh. I hate those jerks."
-msgstr ""
+msgstr "Argh. Odio quei rompiscatole."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "Wish it was flammable."
-msgstr ""
+msgstr "Vorrei che fosse infiammabile."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "I should hang it somewhere and scare people."
-msgstr ""
+msgstr "Dovrei appenderlo da qualche parte e spaventare la gente."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "I'm gonna stick you in a tree."
-msgstr ""
+msgstr "Lo fisserò a un albero."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMBAT"
@@ -54840,12 +54805,12 @@ msgstr "Potrebbe essere ancora in vita, ma continua a bruciare."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIVINGTREE_ROOT"
 msgid "It's a stick. But I can't even set it on fire."
-msgstr ""
+msgstr "È un bastone, ma non posso neanche bruciarlo."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Should I wait until it gets bigger to set it on fire?"
-msgstr ""
+msgstr "Dovrei aspettare che diventi più grande prima di bruciarlo?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOG.BURNING"
@@ -54885,7 +54850,7 @@ msgstr "Nauseante! È cosi carnoso!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MADSCIENCE_LAB"
 msgid "I like the fire!"
-msgstr ""
+msgstr "Mi piace il fuoco!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MALE_PUPPET"
@@ -59057,11 +59022,6 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Can't assemble anything from up here."
 msgstr "Non si può montare niente da qua sopra."
 
-#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BUILD.TOOSANE"
-msgid "Ya gotta be a little loopy to try that."
-msgstr ""
-
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Fire in textiles!"
@@ -59435,7 +59395,7 @@ msgstr "Ti prenderò la prossima volta! Vedrai..."
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_BRAVERY_POTION"
 msgid "I got my moxie back. Now to tackle those trees."
-msgstr ""
+msgstr "Ho ritrovato il mio coraggio. Adesso vediamo di affrontare quegli alberi."
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_BURNT"
@@ -59810,7 +59770,7 @@ msgstr "Sono FRADICIA!"
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_SPOOKED"
 msgid "I'm seein' things!"
-msgstr ""
+msgstr "Ho le visioni!"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_THORNS"
@@ -62385,52 +62345,52 @@ msgstr "Molto gelatinosa."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Makes ya plucky."
-msgstr ""
+msgstr "Ti rende impavido."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "I got lucky and got the big bottle."
-msgstr ""
+msgstr "Ho avuto fortuna e ho preso la bottiglia grande."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "Aw, I was hoping for a little more."
-msgstr ""
+msgstr "Ah, speravo in qualcosa di più."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "Ohh. This'll make a spark."
-msgstr ""
+msgstr "Ohh. Questo creerà una scintilla."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Ha! Ya almost fooled me."
-msgstr ""
+msgstr "Ah! Quasi ci cascavo."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "I should hang this somewhere."
-msgstr ""
+msgstr "Lo dovrei appendere da qualche parte."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "Time to decorate."
-msgstr ""
+msgstr "È ora di decorare."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "Time for decoratin'!"
-msgstr ""
+msgstr "È ora di mettersi a decorare!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "Hey, it's them hanging guys."
-msgstr ""
+msgstr "Ehi, sono quei tizi sospesi."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "It needs to be in a tree."
-msgstr ""
+msgstr "Il suo posto è su un albero."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAMBAT"
@@ -63025,12 +62985,12 @@ msgstr "Quell'albero si è appena mosso?"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LIVINGTREE_ROOT"
 msgid "Oh hey! There's a little stick in there."
-msgstr ""
+msgstr "Oh ehi! C’è un bastoncino lì dentro."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Keep growin' little guy! I'm gonna decorate you."
-msgstr ""
+msgstr "Continua a crescere, piccoletto! Ti decorerò."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOG.BURNING"
@@ -63070,7 +63030,7 @@ msgstr "Non è una trama confortante!"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MADSCIENCE_LAB"
 msgid "I can do some experimentin' with that."
-msgstr ""
+msgstr "Potrei fare qualche esperimento con quello."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MALE_PUPPET"
@@ -67262,11 +67222,6 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Hair-cow is too tall. I can't reach."
 msgstr "La mucca capellona è così alta. Non ci arrivo."
 
-#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.TOOSANE"
-msgid "Wolfgang is not crazy enough to try that."
-msgstr ""
-
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Wolfgang's weekday undergarments burning? Wolfgang is sad."
@@ -67665,7 +67620,7 @@ msgstr "Ahi! Perché mi hai fatto male, bastone che si lancia?"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BRAVERY_POTION"
 msgid "Wolfgang is brave! Not scared of spooky tree!"
-msgstr ""
+msgstr "Wolfgang è coraggioso! Non ha paura dell’albero inquietante!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BURNT"
@@ -68085,7 +68040,7 @@ msgstr "Wolfgang adesso è forse fatto d'acqua."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SPOOKED"
 msgid "Wolfgang's eyes is playing tricky!"
-msgstr ""
+msgstr "Gli occhi di Wolfgang stanno giocando brutti scherzi!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_THORNS"
@@ -70685,52 +70640,52 @@ msgstr "Sembra disgustoso, ma ha un sapore decente."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Wolfgang is brave. Is making Wolfgang braver."
-msgstr ""
+msgstr "Wolfgang è coraggioso. Rende Wolfgang più coraggioso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "Is strong like Wolfgang!"
-msgstr ""
+msgstr "È forte come Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "Is okay, but big Wolfgang need big drink!"
-msgstr ""
+msgstr "Va bene, ma il grande Wolfgang ha bisogno di un grande drink!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "Is making fire go boom boom!"
-msgstr ""
+msgstr "Fa fare bum bum al fuoco!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Wolfgang should be hanging it somewhere."
-msgstr ""
+msgstr "Wolfgang dovrebbe appenderlo da qualche parte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Is real bat?! Is not real bat."
-msgstr ""
+msgstr "È un vero pipistrello?! Non è un vero pipistrello."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "Is for decorating."
-msgstr ""
+msgstr "È decorativo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "Wolfgang needs to be decorating."
-msgstr ""
+msgstr "Wolfgang deve mettersi a decorare."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "Wolfgang could hang somewheres."
-msgstr ""
+msgstr "Wolfgang potrebbe appenderlo da qualche parte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Little fake birdy is needing tree!"
-msgstr ""
+msgstr "L’uccelletto finto ha bisogno di un albero!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMBAT"
@@ -71280,12 +71235,12 @@ msgstr "Non mi piace l'albero con gli occhi."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE_ROOT"
 msgid "Hello little sticky!"
-msgstr ""
+msgstr "Ciao bastoncino!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Grow big and strong so Wolfgang can decorate!"
-msgstr ""
+msgstr "Cresci grande e forte così che Wolfgang possa decorare!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOG.BURNING"
@@ -71325,7 +71280,7 @@ msgstr "Ah ah! Chi è complicato adesso?"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MADSCIENCE_LAB"
 msgid "Is making Wolfgang brain hurt."
-msgstr ""
+msgstr "Sta facendo venire un cerchio alla testa di Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MALE_PUPPET"
@@ -75487,11 +75442,6 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Not as tall as a moose, but still too high to place that."
 msgstr "Non è alto come un alce, ma comunque troppo alto per posizionarlo."
 
-#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BUILD.TOOSANE"
-msgid "Gotta be pretty loony to do that."
-msgstr ""
-
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Better it than a tree."
@@ -75895,7 +75845,7 @@ msgstr "Scusa! Sono un maldestro!"
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BRAVERY_POTION"
 msgid "Glad that's over. Never thought I'd be scared of trees."
-msgstr ""
+msgstr "Felice che sia finito. Non avrei mai pensato di aver paura degli alberi."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BURNT"
@@ -76300,7 +76250,7 @@ msgstr "Meglio tenersi stretti, Lucy."
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SPOOKED"
 msgid "You see that, Lucy?"
-msgstr ""
+msgstr "Lo vedi quello, Lucy?"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_THORNS"
@@ -78890,12 +78840,12 @@ msgstr "Niente male, eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "A good hardy drink."
-msgstr ""
+msgstr "Un drink ottimo e corposo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "That's a lot, eh."
-msgstr ""
+msgstr "È un bel po’, eh."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
@@ -78905,37 +78855,37 @@ msgstr "Mica male."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "It'll never replace a good hunk of wood."
-msgstr ""
+msgstr "Non sostituirà mai un grosso pezzo di legno."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "It's just fake, eh."
-msgstr ""
+msgstr "È soltanto finto, eh."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2"
-msgid "That's nice. I should hang is somewhere."
-msgstr ""
+msgid "That's nice. I should hang it somewhere."
+msgstr "Che carino. Dovrei appenderlo da qualche parte."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "This would look good in a tree somewhere."
-msgstr ""
+msgstr "Questo avrebbe un bell’aspetto da qualche parte su un albero."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "You wanna decorate, Lucy?"
-msgstr ""
+msgstr "Vuoi decorare, Lucy?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "Hang in there, eh."
-msgstr ""
+msgstr "Tieni duro, eh."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Argh! I'd sure like to hang a real one like that."
-msgstr ""
+msgstr "Argh! Certo che vorrei appenderne uno vero così."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAMBAT"
@@ -79485,12 +79435,12 @@ msgstr "Mi sento in conflitto, eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_ROOT"
 msgid "Hey there's a piece of wood in there."
-msgstr ""
+msgstr "Ehi, qui c’è un pezzo di legno."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Yep. That'll be a fine tree one day."
-msgstr ""
+msgstr "Sì. Un giorno diventerà un ottimo albero."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOG.BURNING"
@@ -79530,7 +79480,7 @@ msgstr "È caldo e grumoso."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MADSCIENCE_LAB"
 msgid "I prefer simpler things."
-msgstr ""
+msgstr "Preferisco cose più semplici."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MALE_PUPPET"
@@ -83692,11 +83642,6 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.BUILD.MOUNTED"
 msgid "NON-OPTIMAL ALTITUDE FOR PLACING"
 msgstr "ALTITUDINE NON OTTIMALE PER IL POSIZIONAMENTO"
 
-#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.BUILD.TOOSANE
-msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.BUILD.TOOSANE"
-msgid "I'D HAVE TO BE PRETTY IRRATIONAL TO TRY THIS"
-msgstr ""
-
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "IT'S BURNING. OH WELL"
@@ -84095,7 +84040,7 @@ msgstr "ERRORE: CATTURA NON RIUSCITA"
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_BRAVERY_POTION"
 msgid "FLYING FLESHLINGS NO LONGER ACTIVATE FEAR UNITS"
-msgstr ""
+msgstr "GLI ESSERI DI CARNE VOLANTI NON ATTIVANO PIÙ LE UNITÀ DELLA PAURA"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_BURNT"
@@ -84500,7 +84445,7 @@ msgstr "ERRORE ERRORERRORE: LIIIIIV AAAACQUAAA CATTTASTROFICOCO"
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_SPOOKED"
 msgid "WARNING: VISUAL COMPONENTS MALFUNCTIONING"
-msgstr ""
+msgstr "ATTENZIONE: MALFUNZIONAMENTO DELLE COMPONENTI VISUALI"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_THORNS"
@@ -87085,52 +87030,52 @@ msgstr "OGNI TENTACOLO È COMMESTIBILE SE LO PROVI"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "A FIX FOR BRAVERY PERFORMANCE ISSUES"
-msgstr ""
+msgstr "UNA SOLUZIONE PER I PROBLEMI DI PRESTAZIONE DEL CORAGGIO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "LARGE UPGRADE"
-msgstr ""
+msgstr "GRANDE MIGLIORAMENTO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
 msgid "SMALL UPGRADE"
-msgstr ""
+msgstr "PICCOLO MIGLIORAMENTO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_FIRE_FX
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_FIRE_FX"
 msgid "SPECTACLE INDUCING CRYSTALS"
-msgstr ""
+msgstr "CRISTALLI A INDUZIONE SPETTACOLARE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "ERROR: DOES NOT FUNCTION IN INVENTORY"
-msgstr ""
+msgstr "ERRORE: NON FUNZIONA NELL’INVENTARIO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "ACCESSORY FOR HORRIFIC TREE"
-msgstr ""
+msgstr "ACCESSORIO PER ALBERO ORRENDO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_3"
 msgid "A FAKE FLESHSACK USED FOR DECORATION"
-msgstr ""
+msgstr "UN SACCO DI CARNE FINTA UTILIZZATA PER DECORARE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_4"
 msgid "NEEDS TREE TO PERFORM DECORATING TASKS"
-msgstr ""
+msgstr "HA BISOGNO DI UN ALBERO PER ESEGUIRE ATTIVITÀ DECORATIVE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_5"
 msgid "NEEDS HANGING TO INDUCE HORROR"
-msgstr ""
+msgstr "HA BISOGNO DI ESSERE APPESO PER INDURRE ORRORE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "FLESHLESS FLESHSACK"
-msgstr ""
+msgstr "SACCO DI CARNE SENZA CARNE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAMBAT"
@@ -87680,12 +87625,12 @@ msgstr "IL MONDO NATURALE È UN POSTO ALLARMANTE"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_ROOT"
 msgid "DIMINUTIVE WOOD BASED LIFE FORM"
-msgstr ""
+msgstr "MINUSCOLA FORMA DI VITA BASATA SUL LEGNO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "A GROWING HORROR"
-msgstr ""
+msgstr "UN ORRORE CRESCENTE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOG.BURNING"
@@ -87725,7 +87670,7 @@ msgstr "IL POTERE DI INIZIARE LA VITA"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MADSCIENCE_LAB
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MADSCIENCE_LAB"
 msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
-msgstr ""
+msgstr "FRATELLO! CHE COSA TI HA FATTO IMPAZZIRE?"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MALE_PUPPET"
@@ -96725,97 +96670,97 @@ msgstr "Verme galatinoso"
 #. STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_LARGE
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_LARGE"
 msgid "Brew of Phobic Abrogation"
-msgstr ""
+msgstr "Infuso di abrogazione fobica"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_SMALL
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_SMALL"
 msgid "Brew of Phobic Abatement"
-msgstr ""
+msgstr "Infuso di abbattimento fobico"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_EMBERS
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_EMBERS"
 msgid "Sulfuric Crystals of Lime"
-msgstr ""
+msgstr "Cristalli solforici di limetta"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_HEALTH_LARGE
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_HEALTH_LARGE"
 msgid "Canteen of Sanguine Mixture"
-msgstr ""
+msgstr "Borraccia di mistura sanguigna"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_HEALTH_SMALL
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_HEALTH_SMALL"
 msgid "Flask of Sanguine Mixture"
-msgstr ""
+msgstr "Boccetta di mistura sanguigna"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_SANITY_LARGE
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_SANITY_LARGE"
 msgid "Tumblerful of Psychic Fortitude"
-msgstr ""
+msgstr "Bicchiere di fortezza psichica"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_SANITY_SMALL
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_SANITY_SMALL"
 msgid "Dram of Psychic Fortitude"
-msgstr ""
+msgstr "Bicchierino di fortezza psichica"
 
 #. STRINGS.NAMES.HALLOWEENPOTION_SPARKS
 msgctxt "STRINGS.NAMES.HALLOWEENPOTION_SPARKS"
 msgid "Sulfuric Crystals of Saltpeter"
-msgstr ""
+msgstr "Cristalli solforici di salnitro"
 
 #. STRINGS.NAMES.HALLOWEEN_EXPERIMENT_BRAVERY
 msgctxt "STRINGS.NAMES.HALLOWEEN_EXPERIMENT_BRAVERY"
 msgid "Phobic Experiment"
-msgstr ""
+msgstr "Esperimento fobico"
 
 #. STRINGS.NAMES.HALLOWEEN_EXPERIMENT_HEALTH
 msgctxt "STRINGS.NAMES.HALLOWEEN_EXPERIMENT_HEALTH"
 msgid "Sanguine Experiment"
-msgstr ""
+msgstr "Esperimento sanguigno"
 
 #. STRINGS.NAMES.HALLOWEEN_EXPERIMENT_ROOT
 msgctxt "STRINGS.NAMES.HALLOWEEN_EXPERIMENT_ROOT"
 msgid "Arboretum Experiment"
-msgstr ""
+msgstr "Esperimento dell’arboreto"
 
 #. STRINGS.NAMES.HALLOWEEN_EXPERIMENT_SANITY
 msgctxt "STRINGS.NAMES.HALLOWEEN_EXPERIMENT_SANITY"
 msgid "Psychosis Experiment"
-msgstr ""
+msgstr "Esperimento psicotico"
 
 #. STRINGS.NAMES.HALLOWEEN_EXPERIMENT_VOLATILE
 msgctxt "STRINGS.NAMES.HALLOWEEN_EXPERIMENT_VOLATILE"
 msgid "Sulfuric Experiment"
-msgstr ""
+msgstr "Esperimento solforico"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_1
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_1"
 msgid "Ghost Decoration"
-msgstr ""
+msgstr "Decorazione fantasma"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_2"
 msgid "Bat Decoration"
-msgstr ""
+msgstr "Decorazione pipistrello"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_3"
 msgid "Spider Decoration"
-msgstr ""
+msgstr "Decorazione ragno"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_4
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_4"
 msgid "Tentacle Decoration"
-msgstr ""
+msgstr "Decorazione tentacolo"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_5
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_5"
 msgid "Dangling Depth Dweller Decoration"
-msgstr ""
+msgstr "Decorazione appesa dell’abitante delle profondità"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_6
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_6"
 msgid "Crow Decoration"
-msgstr ""
+msgstr "Decorazione corvo"
 
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
@@ -97305,12 +97250,12 @@ msgstr "Albero assolutamente normale"
 #. STRINGS.NAMES.LIVINGTREE_ROOT
 msgctxt "STRINGS.NAMES.LIVINGTREE_ROOT"
 msgid "Totally Normal Root"
-msgstr ""
+msgstr "Radice assolutamente normale"
 
 #. STRINGS.NAMES.LIVINGTREE_SAPLING
 msgctxt "STRINGS.NAMES.LIVINGTREE_SAPLING"
 msgid "Totally Normal Sapling"
-msgstr ""
+msgstr "Alberello assolutamente normale"
 
 #. STRINGS.NAMES.LOG
 msgctxt "STRINGS.NAMES.LOG"
@@ -97345,7 +97290,7 @@ msgstr "Bulbo carnoso"
 #. STRINGS.NAMES.MADSCIENCE_LAB
 msgctxt "STRINGS.NAMES.MADSCIENCE_LAB"
 msgid "Mad Scientist Lab"
-msgstr ""
+msgstr "Laboratorio dello scienziato pazzo"
 
 #. STRINGS.NAMES.MAGIC_BLUEPRINT
 msgctxt "STRINGS.NAMES.MAGIC_BLUEPRINT"
@@ -102990,27 +102935,27 @@ msgstr "Un pugno di polvere da sparo."
 #. STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_BRAVERY
 msgctxt "STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_BRAVERY"
 msgid "Liquid courage."
-msgstr ""
+msgstr "Coraggio liquido."
 
 #. STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_HEALTH
 msgctxt "STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_HEALTH"
 msgid "Good for your heart."
-msgstr ""
+msgstr "Ottimo per il cuore."
 
 #. STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_ROOT
 msgctxt "STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_ROOT"
 msgid "Spine-chilling saplings."
-msgstr ""
+msgstr "Alberelli da brivido."
 
 #. STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_SANITY
 msgctxt "STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_SANITY"
 msgid "Put your mind at ease."
-msgstr ""
+msgstr "Mette la mente a proprio agio."
 
 #. STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_VOLATILE
 msgctxt "STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_VOLATILE"
 msgid "Crystalized incandescence."
-msgstr ""
+msgstr "Incandescenza cristallizzata."
 
 #. STRINGS.RECIPE_DESC.HAMBAT
 msgctxt "STRINGS.RECIPE_DESC.HAMBAT"
@@ -103090,7 +103035,7 @@ msgstr "Protezione dalle fulminate."
 #. STRINGS.RECIPE_DESC.MADSCIENCE_LAB
 msgctxt "STRINGS.RECIPE_DESC.MADSCIENCE_LAB"
 msgid "Mad science has no limits. Except sanity."
-msgstr ""
+msgstr "La scienza folle non ha limiti. A parte quella della sanità mentale."
 
 #. STRINGS.RECIPE_DESC.MAPSCROLL
 msgctxt "STRINGS.RECIPE_DESC.MAPSCROLL"
@@ -104825,7 +104770,7 @@ msgstr "Indossare questo zaino peggiorerà la giornata aracnofobica. O potresti 
 #. STRINGS.SKIN_DESCRIPTIONS.batbat_scythe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.batbat_scythe"
 msgid "Reap some grim bodies with this bat scythe."
-msgstr ""
+msgstr "Raccogli alcuni corpi sinistri con questa falce del pipistrello."
 
 #. STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_quilt_blue_frost
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_quilt_blue_frost"
@@ -104840,7 +104785,7 @@ msgstr "Niente dice \"ora della nanna\" come tanti quadretti di tessuto cuciti i
 #. STRINGS.SKIN_DESCRIPTIONS.beehat_mourning
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beehat_mourning"
 msgid "For the fashionably morose."
-msgstr ""
+msgstr "Per chi segue la moda tetra."
 
 #. STRINGS.SKIN_DESCRIPTIONS.birdcage_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.birdcage_circus"
@@ -105335,7 +105280,7 @@ msgstr "Questo batuffoloso capo di ragno bianco ha in dotazione una sciarpa che 
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_punk"
 msgid "Spiderpunk. It's a thing now."
-msgstr ""
+msgstr "Ragnopunk. Adesso va di moda."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_rose"
@@ -105360,7 +105305,7 @@ msgstr "Qualcuno si è fatto vestire dalla mamma questa mattina."
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_creepy"
 msgid "A dress for a supernatural child."
-msgstr ""
+msgstr "Un vestito per un bambino soprannaturale."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_formal"
@@ -105405,7 +105350,7 @@ msgstr "Nessuna spesa è stata risparmiata in questi tristi vestiti da lutto."
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_clown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_clown"
 msgid "The veneers of a clown."
-msgstr ""
+msgstr "Il rivestimento di un pagliaccio."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_formal"
@@ -105490,7 +105435,7 @@ msgstr "L'abito perfetto per rilassarsi nel salotto, o per mettere gli altolocat
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_dowdy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_dowdy"
 msgid "You have more important things to worry about than your appearance."
-msgstr ""
+msgstr "Hai cose più importanti del tuo aspetto a cui pensare."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_dragonfly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_dragonfly"
@@ -105550,7 +105495,7 @@ msgstr "Questa tunica congelata odora di neve fresca."
 #. STRINGS.SKIN_DESCRIPTIONS.body_wilson_madscientist
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_madscientist"
 msgid "A lab coat for doing science in. Keeps the stains off your clothes."
-msgstr ""
+msgstr "Un camice da laboratorio per fare esperimenti scientifici. Tiene lontane le macchie dai vestiti."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wilson_pigguard
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_pigguard"
@@ -105740,7 +105685,7 @@ msgstr "Sembra che questo scafandro elaborato sia stato costruito con un gusto a
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_wip
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_wip"
 msgid "A partially constructed robot body. You can see the gears inside."
-msgstr ""
+msgstr "Il corpo di un robot parzialmente costruito. Si riescono a vedere gli ingranaggi all’interno."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_yule_coat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_yule_coat"
@@ -106270,7 +106215,7 @@ msgstr "Un paio di pantofole pelose da neve."
 #. STRINGS.SKIN_DESCRIPTIONS.feet_webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_webber_punk"
 msgid "Arachnid combat boots."
-msgstr ""
+msgstr "Stivali aracnoidi da combattimento."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_webber_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_webber_victorian"
@@ -106280,7 +106225,7 @@ msgstr "Non dimenticare la tua lavagna quando vai a scuola."
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_creepy"
 msgid "Supernatural footware."
-msgstr ""
+msgstr "Calzature soprannaturali."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_gladiator"
@@ -106300,7 +106245,7 @@ msgstr "Scarpe pesanti per percorrere il sentiero del dolore."
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wes_clown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wes_clown"
 msgid "Schadenfreuded shoes."
-msgstr ""
+msgstr "Scarpe gioiose per le disgrazie altrui."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wes_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wes_gladiator"
@@ -106335,7 +106280,7 @@ msgstr "Scarpe alla moda con tacco per una signora dell'alta società."
 #. STRINGS.SKIN_DESCRIPTIONS.feet_willow_dowdy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_dowdy"
 msgid "A homely way to seize."
-msgstr ""
+msgstr "Un modo sgraziato di afferrare."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_willow_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_gladiator"
@@ -106420,7 +106365,7 @@ msgstr "Rifiuta la stregoneria tecnologica e torna alle tue radici tecnologiche.
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wx78_wip
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wx78_wip"
 msgid "Archaic foundational apparatuses."
-msgstr ""
+msgstr "Apparati fondamentali e arcaici."
 
 #. STRINGS.SKIN_DESCRIPTIONS.firepit_fanged
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_fanged"
@@ -106625,7 +106570,7 @@ msgstr "Magari dopo la battaglia potresti metterti a seguire un corso di potatur
 #. STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk"
 msgid "The spikes on these cuffs look scary, but they're actually quite soft."
-msgstr ""
+msgstr "Le punte su queste manette sembrano spaventose, ma in realtà sono abbastanza morbide."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_webber_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_victorian"
@@ -106710,7 +106655,7 @@ msgstr "I guanti di un tizio dotato di un tocco congelante."
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist"
 msgid "Laboratory gloves impregnated with mercury, to encourage madness. (Don't try this at home.)"
-msgstr ""
+msgstr "Guanti da laboratorio intrisi di mercurio per favorire la follia (da non indossare in casa)."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_victorian"
@@ -106780,7 +106725,7 @@ msgstr "Questi guanti da sub sono vecchi e consumati. E probabilmente non sono p
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wip
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wip"
 msgid "Just wires and bolts."
-msgstr ""
+msgstr "Semplicemente cavi e bulloni."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hat_catcoon_costume
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_catcoon_costume"
@@ -106815,7 +106760,7 @@ msgstr "Non è fatto di veri cuccioli."
 #. STRINGS.SKIN_DESCRIPTIONS.icebox_coffin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_coffin"
 msgid "Send your food to an icy grave."
-msgstr ""
+msgstr "Spedisci il tuo cibo a una tomba di ghiaccio."
 
 #. STRINGS.SKIN_DESCRIPTIONS.icebox_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_victorian"
@@ -106835,7 +106780,7 @@ msgstr "icestaff_rose"
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_black
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_black"
 msgid "Bad luck. Good luck. Either way it's still adorable."
-msgstr ""
+msgstr "Sfortuna. Fortuna. In ogni caso è comunque adorabile."
 
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder"
@@ -106865,7 +106810,7 @@ msgstr "missing description"
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_tesla"
 msgid "An electrical resonant transformer circuit that provides light."
-msgstr ""
+msgstr "Un circuito di trasformazione elettrica di risonanza che fornisce luce."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower"
@@ -107120,7 +107065,7 @@ msgstr "Wendy si aggrappa con tutte le sue forze al dolore per la morte della so
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy"
 msgid "She can't escape her monomaniacal obsession with death.\nNeither can you."
-msgstr ""
+msgstr "Non riesce a sfuggire alla sua ossessione maniacale a senso unico per la morte.\nE neanche tu."
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian"
@@ -107150,7 +107095,7 @@ msgstr "Il valore e la fiducia di una Valchiria non sono cose che sono sempre gi
 #. STRINGS.SKIN_DESCRIPTIONS.loading_willow_bats
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_willow_bats"
 msgid "Woeful Willow took an axe.\nGave a tree forty whacks."
-msgstr ""
+msgstr "Willow la deplorevole afferrò un’ascia.\nDiede quaranta colpi a un albero."
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian"
@@ -107165,7 +107110,7 @@ msgstr "Willow ha sempre considerato il fatto di essere stata portata a Constant
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience"
 msgid "Knowledge can consume the mind to feed the soul.\nAnd consume the soul to feed the mind."
-msgstr ""
+msgstr "La conoscenza può consumare la mente per nutrire l’anima.\nE consumare l’anima per nutrire la mente."
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_winona_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_winona_victorian"
@@ -107300,47 +107245,47 @@ msgstr "Questo Scrigno della Forgia contiene il set completo degli articoli este
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_all"
 msgid "This Hallowed Nights Chest contains the complete survivors Hallowed Nights series. Contains skins for: Wilson, Willow, Wendy, Webber, Wes, and WX-78."
-msgstr ""
+msgstr "Questo Scrigno delle notti di Halloween contiene la serie completa delle notti di Halloween. Contiene articoli estetici per: Wilson, Willow, Wendy, Webber, Wes e WX-78."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_bundle"
 msgid "This Hallowed Nights Chest contains the complete Hallowed Nights series of survivor and belongings skins."
-msgstr ""
+msgstr "Questo Scrigno delle notti di Halloween contiene la serie completa delle notti di Halloween degli articoli estetici dei sopravvissuti e personali."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_items"
 msgid "This Hallowed Nights Chest contains all Hallowed Nights belongings skin items."
-msgstr ""
+msgstr "Questo Scrigno delle notti di Halloween contiene tutti gli oggetti degli articoli estetici personali."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber"
 msgid "The Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
-msgstr ""
+msgstr "Lo Scrigno del Ribelle contiene il set completo degli articoli estetici delle notti di Halloween di Webber."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy"
 msgid "The Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
-msgstr ""
+msgstr "Lo Scrigno Soprannaturale contiene il set completo degli articoli estetici delle notti di Halloween di Wendy."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes"
 msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr ""
+msgstr "Lo Scrigno di Pierrot contiene il set completo degli articoli estetici delle notti di Halloween di Wes."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow"
-msgid "The Unstylish Chest contains Willow's complete set of Hallowed Nights skin items."
+msgid "The Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson"
 msgid "The Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
-msgstr ""
+msgstr "Lo Scrigno dello Scienziato pazzo contiene il set completo degli articoli estetici delle notti di Halloween di Wilson."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78"
 msgid "The Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
-msgstr ""
+msgstr "Lo Scrigno Incompiuto contiene il set completo degli articoli estetici delle notti di Halloween di WX-78."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_heart_you
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_heart_you"
@@ -107640,12 +107585,12 @@ msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2"
 msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
-msgstr ""
+msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo personaggio.\n\nTutte le cose muoiono. Non tutte le cose rimangono morte."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments"
 msgid "Equip this item to change your character's background portrait.\n\nOrnaments of dread."
-msgstr ""
+msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo personaggio.\n\nDecorazioni da paura."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heart1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heart1"
@@ -107675,7 +107620,7 @@ msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest"
 msgid "Equip this item to change your character's background portrait.\n\nCelebrate this Halloween Season by decorating a monstrosity."
-msgstr ""
+msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo personaggio.\n\nFesteggia questo periodo di Halloween decorando una mostruosità."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot"
@@ -107700,7 +107645,7 @@ msgstr "Equipaggia questo oggetto per cambiare il ritratto di fondo del tuo pers
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab"
 msgid "Equip this item to change your character's background portrait.\n\nA troubled mind makes a troubled Laboratory."
-msgstr ""
+msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo personaggio.\n\nUna mente agitata crea un laboratorio agitato."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroom
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroom"
@@ -107740,7 +107685,7 @@ msgstr "Equipaggia questo oggetto per cambiare il ritratto di fondo del tuo pers
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern"
 msgid "Equip this item to change your character's background portrait.\n\nIf you stare long into the abyss of a Jack O' Lantern mouth, it will also stare into you."
-msgstr ""
+msgstr "Equipaggiati di questo oggetto per cambiare il ritratto di fondo del tuo personaggio.\n\nSe fissi nel baratro della bocca di una zucca di Halloween per lungo tempo, ti fisserà a sua volta nel profondo."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_quagmiretournamentbronze
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_quagmiretournamentbronze"
@@ -108065,7 +108010,7 @@ msgstr "Imposta l'icona del tuo profilo su Krampus.\n\nKrampus si sente obbligat
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood"
 msgid "Set your profile icon to a haunting Living Halloween Tree."
-msgstr ""
+msgstr "Imposta l'icona del tuo profilo su un albero di Halloween vivente."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mactusk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mactusk"
@@ -108075,7 +108020,7 @@ msgstr "Imposta l'icona del tuo profilo su un MacTusk."
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mad_science
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mad_science"
 msgid "Set your profile icon to the apparatus of mad science."
-msgstr ""
+msgstr "Imposta l'icona del tuo profilo sull’apparato della scienza folle."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mandrake
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mandrake"
@@ -108185,7 +108130,7 @@ msgstr "Imposta l'icona del tuo profilo sul re maiale.\n\nIl Re maiale possiede 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_potion_sanity
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_potion_sanity"
 msgid "Set your profile icon to the entirely rational Sensible Potion."
-msgstr ""
+msgstr "Imposta l'icona del tuo profilo sulla pozione di buon senso completamente razionale."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_pumpkinlantern
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_pumpkinlantern"
@@ -108275,7 +108220,7 @@ msgstr "Imposta l'icona del tuo profilo su un cappello del presentatore straordi
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_treasurechest_monster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_treasurechest_monster"
 msgid "Set your profile icon to a vicious way to contain your belongings."
-msgstr ""
+msgstr "Imposta l'icona del tuo profilo su un modo aggressivo per contenere i tuoi effetti personali."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_treeguard
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_treeguard"
@@ -108365,7 +108310,7 @@ msgstr "Imposta l'icona del tuo profilo su una cialda deliziosa.\n\nParte di una
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin"
 msgid "Set your profile icon to a fashionable way to wander this world."
-msgstr ""
+msgstr "Imposta l'icona del tuo profilo su un modo trendy per girovagare il mondo."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_werepig_howl
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_werepig_howl"
@@ -108497,6 +108442,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus"
 msgid "researchlab4_tophat_circus"
 msgstr "researchlab4_tophat_circus"
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre"
+msgid "researchlab4_tophat_circus"
+msgstr "researchlab4_tophat_circus"
+
 #. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid"
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
@@ -108545,7 +108495,7 @@ msgstr "Una bombetta da festività color \"rosso segugio di fuoco\"."
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_witch_pyre
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_witch_pyre"
 msgid "A symbol of stake-burnt sisterhood."
-msgstr ""
+msgstr "Un simbolo di sorellanza del rogo."
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_rag
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_rag"
@@ -108580,7 +108530,7 @@ msgstr "Non farti ingannare dalle apparenze... è completamente immangiabile."
 #. STRINGS.SKIN_DESCRIPTIONS.treasurechest_monster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_monster"
 msgid "An evil place to put your goods."
-msgstr ""
+msgstr "Un luogo malvagio dove riporre le proprie cose."
 
 #. STRINGS.SKIN_DESCRIPTIONS.treasurechest_posh
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_posh"
@@ -108615,12 +108565,12 @@ msgstr "I suoi giorni di viaggio saranno forse terminati, ma gli rimarranno semp
 #. STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_spider"
 msgid "You'll never know when you arach-need one."
-msgstr ""
+msgstr "Non si sa mai quando potrà tornare utile."
 
 #. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin"
 msgid "Fashionable accessory for those forced to wander this world on Halloween Night."
-msgstr ""
+msgstr "Accessorio trendy per chi è spinto a girovagare questo mondo nella notte di Halloween."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant"
@@ -108770,7 +108720,7 @@ msgstr "Webber non ha mai bisogno di acquistare un cappotto per l'inverno. Lo fa
 #. STRINGS.SKIN_DESCRIPTIONS.webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_punk"
 msgid "Don't let the man get you down, man."
-msgstr ""
+msgstr "Non farti abbattere dal tizio, amico."
 
 #. STRINGS.SKIN_DESCRIPTIONS.webber_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_rose"
@@ -108805,7 +108755,7 @@ msgstr "Wendy non ha molta esperienza in cucina, ma è disposta ad imparare."
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_creepy"
 msgid "Wendy's supernatural powers makes her a supernatural hero. Or villian."
-msgstr ""
+msgstr "I poteri soprannaturali di Wendy la rendono un’eroina (o una criminale) soprannaturale."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_formal"
@@ -108855,7 +108805,7 @@ msgstr "Wendy è la regina delle pratiche di lutto imposte dalla società."
 #. STRINGS.SKIN_DESCRIPTIONS.wes_clown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_clown"
 msgid "A hopelessly romantic clown."
-msgstr ""
+msgstr "Un pagliaccio disperatamente romantico."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wes_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_combatant"
@@ -108980,7 +108930,7 @@ msgstr "Willow la cuoca è come un fuoco grasso che vuole bruciare."
 #. STRINGS.SKIN_DESCRIPTIONS.willow_dowdy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_dowdy"
 msgid "Willow can't be bothered to try to look nice."
-msgstr ""
+msgstr "Willow non ha proprio voglia di curarsi del suo aspetto."
 
 #. STRINGS.SKIN_DESCRIPTIONS.willow_dragonfly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_dragonfly"
@@ -109055,7 +109005,7 @@ msgstr "Il freddo della prima gelata invernale tormenta il povero Wilson."
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_madscience
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_madscience"
 msgid "Watch out! He knows SCIENCE and he's not afraid to use it."
-msgstr ""
+msgstr "Fai attenzione! Lui conosce la SCIENZA e non teme di utilizzarla."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_pigguard
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_pigguard"
@@ -109340,7 +109290,7 @@ msgstr "Queste sono le loro attrezzature divine."
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_wip
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_wip"
 msgid "A partially constructed automaton."
-msgstr ""
+msgstr "Un automa parzialmente costruito."
 
 #. STRINGS.SKIN_NAMES.amulet_red_heart
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_heart"
@@ -109515,7 +109465,7 @@ msgstr "Zaino a forma di ragno"
 #. STRINGS.SKIN_NAMES.batbat_scythe
 msgctxt "STRINGS.SKIN_NAMES.batbat_scythe"
 msgid "Bat Scythe"
-msgstr ""
+msgstr "Falce del pipistrello"
 
 #. STRINGS.SKIN_NAMES.bedroll_furry_quilt_blue_frost
 msgctxt "STRINGS.SKIN_NAMES.bedroll_furry_quilt_blue_frost"
@@ -109530,7 +109480,7 @@ msgstr "Trapunta"
 #. STRINGS.SKIN_NAMES.beehat_mourning
 msgctxt "STRINGS.SKIN_NAMES.beehat_mourning"
 msgid "Mourning Veil"
-msgstr ""
+msgstr "Velo del lutto"
 
 #. STRINGS.SKIN_NAMES.birdcage_circus
 msgctxt "STRINGS.SKIN_NAMES.birdcage_circus"
@@ -110025,7 +109975,7 @@ msgstr "Torso del ragno delle nevi"
 #. STRINGS.SKIN_NAMES.body_webber_punk
 msgctxt "STRINGS.SKIN_NAMES.body_webber_punk"
 msgid "Punk Shirt"
-msgstr ""
+msgstr "Camicia da punk"
 
 #. STRINGS.SKIN_NAMES.body_webber_rose
 msgctxt "STRINGS.SKIN_NAMES.body_webber_rose"
@@ -110050,7 +110000,7 @@ msgstr "Uniforme studentesca"
 #. STRINGS.SKIN_NAMES.body_wendy_creepy
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_creepy"
 msgid "Supernatural Frock"
-msgstr ""
+msgstr "Abito soprannaturale"
 
 #. STRINGS.SKIN_NAMES.body_wendy_formal
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_formal"
@@ -110095,7 +110045,7 @@ msgstr "Vestiti del lutto"
 #. STRINGS.SKIN_NAMES.body_wes_clown
 msgctxt "STRINGS.SKIN_NAMES.body_wes_clown"
 msgid "Pierrot Suit"
-msgstr ""
+msgstr "Completo da Pierrot"
 
 #. STRINGS.SKIN_NAMES.body_wes_formal
 msgctxt "STRINGS.SKIN_NAMES.body_wes_formal"
@@ -110180,7 +110130,7 @@ msgstr "Abbigliamento altezzoso dell'aristocratico"
 #. STRINGS.SKIN_NAMES.body_willow_dowdy
 msgctxt "STRINGS.SKIN_NAMES.body_willow_dowdy"
 msgid "Woeful Dress"
-msgstr ""
+msgstr "Abito deplorevole"
 
 #. STRINGS.SKIN_NAMES.body_willow_dragonfly
 msgctxt "STRINGS.SKIN_NAMES.body_willow_dragonfly"
@@ -110240,7 +110190,7 @@ msgstr "Tunica della brina"
 #. STRINGS.SKIN_NAMES.body_wilson_madscientist
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_madscientist"
 msgid "Mad Lab Coat"
-msgstr ""
+msgstr "Camice da laboratorio folle"
 
 #. STRINGS.SKIN_NAMES.body_wilson_pigguard
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_pigguard"
@@ -110430,7 +110380,7 @@ msgstr "Muta da sub"
 #. STRINGS.SKIN_NAMES.body_wx78_wip
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_wip"
 msgid "Unfinished Robot Body"
-msgstr ""
+msgstr "Corpo di robot incompiuto"
 
 #. STRINGS.SKIN_NAMES.body_yule_coat
 msgctxt "STRINGS.SKIN_NAMES.body_yule_coat"
@@ -110960,7 +110910,7 @@ msgstr "Pantofole del ragno delle nevi"
 #. STRINGS.SKIN_NAMES.feet_webber_punk
 msgctxt "STRINGS.SKIN_NAMES.feet_webber_punk"
 msgid "Punk Boots"
-msgstr ""
+msgstr "Stivali da punk"
 
 #. STRINGS.SKIN_NAMES.feet_webber_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_webber_victorian"
@@ -110970,7 +110920,7 @@ msgstr "Artigli dello scolaro"
 #. STRINGS.SKIN_NAMES.feet_wendy_creepy
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_creepy"
 msgid "Supernatural Dress Shoes"
-msgstr ""
+msgstr "Scarpe soprannaturali eleganti"
 
 #. STRINGS.SKIN_NAMES.feet_wendy_gladiator
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_gladiator"
@@ -110990,7 +110940,7 @@ msgstr "Scarpe da lutto"
 #. STRINGS.SKIN_NAMES.feet_wes_clown
 msgctxt "STRINGS.SKIN_NAMES.feet_wes_clown"
 msgid "Pierrot Shoes"
-msgstr ""
+msgstr "Scarpe da Pierrot"
 
 #. STRINGS.SKIN_NAMES.feet_wes_gladiator
 msgctxt "STRINGS.SKIN_NAMES.feet_wes_gladiator"
@@ -111025,7 +110975,7 @@ msgstr "Altezzoso tacchi dell'aristocratico"
 #. STRINGS.SKIN_NAMES.feet_willow_dowdy
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_dowdy"
 msgid "Woeful Boots"
-msgstr ""
+msgstr "Stivali deplorevoli"
 
 #. STRINGS.SKIN_NAMES.feet_willow_gladiator
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_gladiator"
@@ -111110,7 +111060,7 @@ msgstr "Scarponi di golem"
 #. STRINGS.SKIN_NAMES.feet_wx78_wip
 msgctxt "STRINGS.SKIN_NAMES.feet_wx78_wip"
 msgid "Unfinished Robot Feet"
-msgstr ""
+msgstr "Piedi di robot incompiuti"
 
 #. STRINGS.SKIN_NAMES.firepit_fanged
 msgctxt "STRINGS.SKIN_NAMES.firepit_fanged"
@@ -111315,7 +111265,7 @@ msgstr "Artigli del demonio"
 #. STRINGS.SKIN_NAMES.hand_webber_punk
 msgctxt "STRINGS.SKIN_NAMES.hand_webber_punk"
 msgid "Spiked Cuffs"
-msgstr ""
+msgstr "Manette con punte"
 
 #. STRINGS.SKIN_NAMES.hand_webber_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_webber_victorian"
@@ -111400,7 +111350,7 @@ msgstr "Guanti della brina"
 #. STRINGS.SKIN_NAMES.hand_wilson_madscientist
 msgctxt "STRINGS.SKIN_NAMES.hand_wilson_madscientist"
 msgid "Mad Lab Gloves"
-msgstr ""
+msgstr "Guanti da laboratorio folle"
 
 #. STRINGS.SKIN_NAMES.hand_wilson_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_wilson_victorian"
@@ -111470,7 +111420,7 @@ msgstr "Guanti da sub"
 #. STRINGS.SKIN_NAMES.hand_wx78_wip
 msgctxt "STRINGS.SKIN_NAMES.hand_wx78_wip"
 msgid "Unfinished Robot Hands"
-msgstr ""
+msgstr "Mani di robot incompiute"
 
 #. STRINGS.SKIN_NAMES.hat_catcoon_costume
 msgctxt "STRINGS.SKIN_NAMES.hat_catcoon_costume"
@@ -111505,7 +111455,7 @@ msgstr "Cappello di cucciolo"
 #. STRINGS.SKIN_NAMES.icebox_coffin
 msgctxt "STRINGS.SKIN_NAMES.icebox_coffin"
 msgid "Icy Grave"
-msgstr ""
+msgstr "Tomba di ghiaccio"
 
 #. STRINGS.SKIN_NAMES.icebox_victorian
 msgctxt "STRINGS.SKIN_NAMES.icebox_victorian"
@@ -111525,12 +111475,12 @@ msgstr "Bastone di ghiaccio della rosa"
 #. STRINGS.SKIN_NAMES.kitten_black
 msgctxt "STRINGS.SKIN_NAMES.kitten_black"
 msgid "Black Kittykit"
-msgstr ""
+msgstr "Micino nero"
 
 #. STRINGS.SKIN_NAMES.kitten_black_builder
 msgctxt "STRINGS.SKIN_NAMES.kitten_black_builder"
 msgid "kitten_black_builder"
-msgstr ""
+msgstr "kitten_black_builder"
 
 #. STRINGS.SKIN_NAMES.kitten_winter
 msgctxt "STRINGS.SKIN_NAMES.kitten_winter"
@@ -111555,7 +111505,7 @@ msgstr "lamb_winter_builder"
 #. STRINGS.SKIN_NAMES.lantern_tesla
 msgctxt "STRINGS.SKIN_NAMES.lantern_tesla"
 msgid "Tesla Coil Lantern"
-msgstr ""
+msgstr "Lanterna con bobina di Tesla"
 
 #. STRINGS.SKIN_NAMES.legs_checkered_pleats_blue_cornflower
 msgctxt "STRINGS.SKIN_NAMES.legs_checkered_pleats_blue_cornflower"
@@ -111810,7 +111760,7 @@ msgstr "Wendy"
 #. STRINGS.SKIN_NAMES.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_creepy"
 msgid "Supernatural Wendy"
-msgstr ""
+msgstr "Wendy soprannaturale"
 
 #. STRINGS.SKIN_NAMES.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_victorian"
@@ -111840,7 +111790,7 @@ msgstr "Wigfrid"
 #. STRINGS.SKIN_NAMES.loading_willow_bats
 msgctxt "STRINGS.SKIN_NAMES.loading_willow_bats"
 msgid "Woeful Willow"
-msgstr ""
+msgstr "Willow la deplorevole"
 
 #. STRINGS.SKIN_NAMES.loading_willow_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_willow_victorian"
@@ -111855,7 +111805,7 @@ msgstr "Willow"
 #. STRINGS.SKIN_NAMES.loading_wilson_madscience
 msgctxt "STRINGS.SKIN_NAMES.loading_wilson_madscience"
 msgid "Mad Science Wilson"
-msgstr ""
+msgstr "Wilson della scienza folle"
 
 #. STRINGS.SKIN_NAMES.loading_winona_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_winona_victorian"
@@ -111990,47 +111940,47 @@ msgstr "Scrigno della Forgia di WX-78"
 #. STRINGS.SKIN_NAMES.pack_hallowed_all
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_all"
 msgid "Hallowed Nights Survivors Chest"
-msgstr ""
+msgstr "Scrigno dei sopravvissuti alle notti di Halloween"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_bundle"
 msgid "Complete Hallowed Nights Chest"
-msgstr ""
+msgstr "Scrigno delle notti di Halloween completo"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_items
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_items"
 msgid "Hallowed Nights Belongings Chest"
-msgstr ""
+msgstr "Scrigno degli effetti personali delle notti di Halloween"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_webber
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_webber"
 msgid "The Rebel Chest"
-msgstr ""
+msgstr "Lo Scrigno del Ribelle"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_wendy
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_wendy"
 msgid "The Supernatural Chest"
-msgstr ""
+msgstr "Lo Scrigno Soprannaturale"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_wes
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_wes"
 msgid "The Pierrot Chest"
-msgstr ""
+msgstr "Lo Scrigno di Pierrot"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_willow
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_willow"
 msgid "The Woeful Chest"
-msgstr ""
+msgstr "Lo Scrigno Deplorevole"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_wilson
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_wilson"
 msgid "The Mad Scientist Chest"
-msgstr ""
+msgstr "Lo Scrigno dello Scienziato pazzo"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_wx78
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_wx78"
 msgid "The Unfinished Chest"
-msgstr ""
+msgstr "Lo Scrigno Incompiuto"
 
 #. STRINGS.SKIN_NAMES.pack_heart_you
 msgctxt "STRINGS.SKIN_NAMES.pack_heart_you"
@@ -112330,12 +112280,12 @@ msgstr "Ritratto dell'adoratore del Masticatore"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_graveyard2
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_graveyard2"
 msgid "Cemetery Portrait"
-msgstr ""
+msgstr "Ritratto del cimitero"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments"
 msgid "Hanging Horrors Portrait"
-msgstr ""
+msgstr "Ritratto degli orrori appesi"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_heart1
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_heart1"
@@ -112364,8 +112314,8 @@ msgstr "Ritratto della Forgia"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_livingforest"
-msgid "Haunted Forest Portait"
-msgstr ""
+msgid "Haunted Forest Portrait"
+msgstr "Ritratto della foresta infestata"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_lonecarrot
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_lonecarrot"
@@ -112390,7 +112340,7 @@ msgstr "Ritratto della casa di mermo"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_messylab
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_messylab"
 msgid "Mad Scientific Portrait"
-msgstr ""
+msgstr "Ritratto scientifico folle"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_mushroom
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroom"
@@ -112430,7 +112380,7 @@ msgstr "Ritratto del gancio"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern"
 msgid "Jack O' Portrait"
-msgstr ""
+msgstr "Ritratto della zucca di Halloween"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentbronze
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentbronze"
@@ -112755,7 +112705,7 @@ msgstr "Krampus"
 #. STRINGS.SKIN_NAMES.profileflair_living_wood
 msgctxt "STRINGS.SKIN_NAMES.profileflair_living_wood"
 msgid "Living Halloween Tree"
-msgstr ""
+msgstr "Albero di Halloween vivente"
 
 #. STRINGS.SKIN_NAMES.profileflair_mactusk
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mactusk"
@@ -112765,7 +112715,7 @@ msgstr "MacTusk"
 #. STRINGS.SKIN_NAMES.profileflair_mad_science
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mad_science"
 msgid "Mad Scientist Lab"
-msgstr ""
+msgstr "Laboratorio dello scienziato pazzo"
 
 #. STRINGS.SKIN_NAMES.profileflair_mandrake
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mandrake"
@@ -112875,7 +112825,7 @@ msgstr "Il re maiale"
 #. STRINGS.SKIN_NAMES.profileflair_potion_sanity
 msgctxt "STRINGS.SKIN_NAMES.profileflair_potion_sanity"
 msgid "Sensible Potion"
-msgstr ""
+msgstr "Pozione di buon senso"
 
 #. STRINGS.SKIN_NAMES.profileflair_pumpkinlantern
 msgctxt "STRINGS.SKIN_NAMES.profileflair_pumpkinlantern"
@@ -112965,7 +112915,7 @@ msgstr "Icona del cappello del presentatore straordinario"
 #. STRINGS.SKIN_NAMES.profileflair_treasurechest_monster
 msgctxt "STRINGS.SKIN_NAMES.profileflair_treasurechest_monster"
 msgid "Brute Case"
-msgstr ""
+msgstr "Contenitore mostruoso"
 
 #. STRINGS.SKIN_NAMES.profileflair_treeguard
 msgctxt "STRINGS.SKIN_NAMES.profileflair_treeguard"
@@ -113055,7 +113005,7 @@ msgstr "Cialde!"
 #. STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin"
 msgid "Fashionable Pumpkin Hat"
-msgstr ""
+msgstr "Cappello di zucca trendy"
 
 #. STRINGS.SKIN_NAMES.profileflair_werepig_howl
 msgctxt "STRINGS.SKIN_NAMES.profileflair_werepig_howl"
@@ -113187,6 +113137,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_circus"
 msgid "Prestiringmastatator"
 msgstr "Prestigiatatorometro"
 
+#. STRINGS.SKIN_NAMES.researchlab4_witch_pyre
+msgctxt "STRINGS.SKIN_NAMES.researchlab4_witch_pyre"
+msgid "Prestiwitchatator"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.reviver_cupid
 msgctxt "STRINGS.SKIN_NAMES.reviver_cupid"
 msgid "Cherub's Heart"
@@ -113235,7 +113190,7 @@ msgstr "Cilindro festivo"
 #. STRINGS.SKIN_NAMES.tophat_witch_pyre
 msgctxt "STRINGS.SKIN_NAMES.tophat_witch_pyre"
 msgid "Fiery Witch's Hat"
-msgstr ""
+msgstr "Cappello da strega irascibile"
 
 #. STRINGS.SKIN_NAMES.torch_rag
 msgctxt "STRINGS.SKIN_NAMES.torch_rag"
@@ -113270,7 +113225,7 @@ msgstr "Baule di biscotto di zenzero"
 #. STRINGS.SKIN_NAMES.treasurechest_monster
 msgctxt "STRINGS.SKIN_NAMES.treasurechest_monster"
 msgid "Brute Case"
-msgstr ""
+msgstr "Contenitore mostruoso"
 
 #. STRINGS.SKIN_NAMES.treasurechest_posh
 msgctxt "STRINGS.SKIN_NAMES.treasurechest_posh"
@@ -113305,12 +113260,12 @@ msgstr "Cassa del viaggiatore"
 #. STRINGS.SKIN_NAMES.umbrella_spider
 msgctxt "STRINGS.SKIN_NAMES.umbrella_spider"
 msgid "Webrolly"
-msgstr ""
+msgstr "Webombrello"
 
 #. STRINGS.SKIN_NAMES.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.watermelonhat_pumpkin"
 msgid "Fashion Pumpkin"
-msgstr ""
+msgstr "Zucca trendy"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_combatant
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_combatant"
@@ -113460,7 +113415,7 @@ msgstr "La nevicata"
 #. STRINGS.SKIN_NAMES.webber_punk
 msgctxt "STRINGS.SKIN_NAMES.webber_punk"
 msgid "The Rebel"
-msgstr ""
+msgstr "Il ribelle"
 
 #. STRINGS.SKIN_NAMES.webber_rose
 msgctxt "STRINGS.SKIN_NAMES.webber_rose"
@@ -113495,7 +113450,7 @@ msgstr "Il culinario"
 #. STRINGS.SKIN_NAMES.wendy_creepy
 msgctxt "STRINGS.SKIN_NAMES.wendy_creepy"
 msgid "The Supernatural"
-msgstr ""
+msgstr "Il soprannaturale"
 
 #. STRINGS.SKIN_NAMES.wendy_formal
 msgctxt "STRINGS.SKIN_NAMES.wendy_formal"
@@ -113545,7 +113500,7 @@ msgstr "La vittoriana"
 #. STRINGS.SKIN_NAMES.wes_clown
 msgctxt "STRINGS.SKIN_NAMES.wes_clown"
 msgid "The Pierrot"
-msgstr ""
+msgstr "Il Pierrot"
 
 #. STRINGS.SKIN_NAMES.wes_combatant
 msgctxt "STRINGS.SKIN_NAMES.wes_combatant"
@@ -113670,7 +113625,7 @@ msgstr "Il culinario"
 #. STRINGS.SKIN_NAMES.willow_dowdy
 msgctxt "STRINGS.SKIN_NAMES.willow_dowdy"
 msgid "The Woeful"
-msgstr ""
+msgstr "La deplorevole"
 
 #. STRINGS.SKIN_NAMES.willow_dragonfly
 msgctxt "STRINGS.SKIN_NAMES.willow_dragonfly"
@@ -113745,7 +113700,7 @@ msgstr "La nevicata"
 #. STRINGS.SKIN_NAMES.wilson_madscience
 msgctxt "STRINGS.SKIN_NAMES.wilson_madscience"
 msgid "The Mad Scientist"
-msgstr ""
+msgstr "Lo scienziato pazzo"
 
 #. STRINGS.SKIN_NAMES.wilson_pigguard
 msgctxt "STRINGS.SKIN_NAMES.wilson_pigguard"
@@ -114180,7 +114135,7 @@ msgstr "\"Ci piace giocare nella neve!\""
 #. STRINGS.SKIN_QUOTES.webber_punk
 msgctxt "STRINGS.SKIN_QUOTES.webber_punk"
 msgid "\"Don't mess with us.\""
-msgstr ""
+msgstr "“Non scherzare con noi.”"
 
 #. STRINGS.SKIN_QUOTES.webber_rose
 msgctxt "STRINGS.SKIN_QUOTES.webber_rose"
@@ -114215,7 +114170,7 @@ msgstr "\"Ogni pasto termina con un piatto vuoto.\""
 #. STRINGS.SKIN_QUOTES.wendy_creepy
 msgctxt "STRINGS.SKIN_QUOTES.wendy_creepy"
 msgid "\"I am coming for you!\""
-msgstr ""
+msgstr "“Vengo a prenderti!”"
 
 #. STRINGS.SKIN_QUOTES.wendy_formal
 msgctxt "STRINGS.SKIN_QUOTES.wendy_formal"
@@ -114330,7 +114285,7 @@ msgstr "\"I miei piatti sono sempre bruciati alla perfezione.\""
 #. STRINGS.SKIN_QUOTES.willow_dowdy
 msgctxt "STRINGS.SKIN_QUOTES.willow_dowdy"
 msgid "\"I didn't do it. Really.\""
-msgstr ""
+msgstr "“Non sono stato io. Davvero.”"
 
 #. STRINGS.SKIN_QUOTES.willow_dragonfly
 msgctxt "STRINGS.SKIN_QUOTES.willow_dragonfly"
@@ -114405,7 +114360,7 @@ msgstr "\"Brrrrr!\""
 #. STRINGS.SKIN_QUOTES.wilson_madscience
 msgctxt "STRINGS.SKIN_QUOTES.wilson_madscience"
 msgid "\"Stand back. I'm going to do SCIENCE!\""
-msgstr ""
+msgstr "“Vada retro. Praticherò la SCIENZA!”"
 
 #. STRINGS.SKIN_QUOTES.wilson_pigguard
 msgctxt "STRINGS.SKIN_QUOTES.wilson_pigguard"
@@ -114660,7 +114615,7 @@ msgstr "\"PREPARARSI ALL'IMMERSIONE\""
 #. STRINGS.SKIN_QUOTES.wx78_wip
 msgctxt "STRINGS.SKIN_QUOTES.wx78_wip"
 msgid "\"THEY HAVE NOT INSTALLED A HEART\""
-msgstr ""
+msgstr "“NON HANNO INSTALLATO UN CUORE”"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR"
@@ -114765,7 +114720,7 @@ msgstr "Collezione formale"
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED"
 msgid "Hallowed Nights Collection"
-msgstr ""
+msgstr "Raccolta notturna di Halloween"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HEART
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HEART"
@@ -115615,7 +115570,7 @@ msgstr "Luce"
 #. STRINGS.TABS.MADSCIENCE
 msgctxt "STRINGS.TABS.MADSCIENCE"
 msgid "Mad Science"
-msgstr ""
+msgstr "Scienza folle"
 
 #. STRINGS.TABS.MAGIC
 msgctxt "STRINGS.TABS.MAGIC"
@@ -119215,7 +119170,7 @@ msgstr "Trascrivi"
 #. STRINGS.UI.CRAFTING.TABACTION.MADSCIENCE
 msgctxt "STRINGS.UI.CRAFTING.TABACTION.MADSCIENCE"
 msgid "Mix"
-msgstr ""
+msgstr "Miscela"
 
 #. STRINGS.UI.CRAFTING.TABACTION.ORPHANAGE
 msgctxt "STRINGS.UI.CRAFTING.TABACTION.ORPHANAGE"
@@ -119701,6 +119656,16 @@ msgstr "Leira Zamfirescu"
 msgctxt "STRINGS.UI.CREDITS.NAMES.55"
 msgid "Scott Hansen"
 msgstr "Scott Hansen"
+
+#. STRINGS.UI.CREDITS.NAMES.56
+msgctxt "STRINGS.UI.CREDITS.NAMES.56"
+msgid "Philippe Donati"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.57
+msgctxt "STRINGS.UI.CREDITS.NAMES.57"
+msgid "Yorman Arias"
+msgstr ""
 
 #. STRINGS.UI.CREDITS.NAMES.6
 msgctxt "STRINGS.UI.CREDITS.NAMES.6"
