@@ -175,7 +175,7 @@ msgstr ""
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB"
-msgid "???"
+msgid "Hearthsfire Bomb"
 msgstr ""
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
@@ -97450,7 +97450,7 @@ msgstr ""
 
 #. STRINGS.NAMES.LAVAARENA_FIREBOMB
 msgctxt "STRINGS.NAMES.LAVAARENA_FIREBOMB"
-msgid "???"
+msgid "Hearthsfire Crystals"
 msgstr ""
 
 #. STRINGS.NAMES.LAVAARENA_HEALINGFLOWERHAT
@@ -97465,7 +97465,7 @@ msgstr ""
 
 #. STRINGS.NAMES.LAVAARENA_HEAVYBLADE
 msgctxt "STRINGS.NAMES.LAVAARENA_HEAVYBLADE"
-msgid "???"
+msgid "Blacksmith's Edge"
 msgstr ""
 
 #. STRINGS.NAMES.LAVAARENA_KEYHOLE
@@ -106908,6 +106908,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_bee"
 msgid "firestaff_bee"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_gungnir
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_gungnir"
+msgid "firestaff_gungnir"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_lance
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_lance"
+msgid "firestaff_lance"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.firestaff_meteor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_meteor"
 msgid "This fire staff is strangely reminiscent of the Infernal Staff found in The Forge."
@@ -107351,6 +107361,16 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.icestaff_bee
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_bee"
 msgid "icestaff_bee"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_gungnir
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_gungnir"
+msgid "icestaff_gungnir"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_lance
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_lance"
+msgid "icestaff_lance"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.icestaff_rose
@@ -108960,7 +108980,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_beetletaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_beetletaur"
-msgid "Set your profile icon to Scarabataur the Condemned."
+msgid "Set your profile icon to an Infernal Swineclops."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_blowdarts
@@ -109050,7 +109070,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_rhinodrill
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_rhinodrill"
-msgid "Set your profile icon to a dashing Drill Chargeant."
+msgid "Set your profile icon to a dashing Rhinocebro."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_snapper
@@ -112133,6 +112153,16 @@ msgctxt "STRINGS.SKIN_NAMES.firestaff_bee"
 msgid "Fiery Bumble Staff"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.firestaff_gungnir
+msgctxt "STRINGS.SKIN_NAMES.firestaff_gungnir"
+msgid "Fiery Pith Staff"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.firestaff_lance
+msgctxt "STRINGS.SKIN_NAMES.firestaff_lance"
+msgid "Fiery Spiral Staff"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.firestaff_meteor
 msgctxt "STRINGS.SKIN_NAMES.firestaff_meteor"
 msgid "Infernal Fire Staff"
@@ -112576,6 +112606,16 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.icestaff_bee
 msgctxt "STRINGS.SKIN_NAMES.icestaff_bee"
 msgid "Icy Bumble Staff"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.icestaff_gungnir
+msgctxt "STRINGS.SKIN_NAMES.icestaff_gungnir"
+msgid "Icy Pith Staff"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.icestaff_lance
+msgctxt "STRINGS.SKIN_NAMES.icestaff_lance"
+msgid "Icy Spiral Staff"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.icestaff_rose
@@ -113070,7 +113110,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom"
-msgid "Wickerbottom\nGladiator Chest"
+msgid "Wickerbottom Gladiator Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_willow
@@ -113170,7 +113210,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_ice_wickerbottom
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_wickerbottom"
-msgid "Wickerbottom\nFeast Chest"
+msgid "Wickerbottom Feast Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_ice_willow
@@ -113225,7 +113265,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_magma_wickerbottom
 msgctxt "STRINGS.SKIN_NAMES.pack_magma_wickerbottom"
-msgid "Wickerbottom\nMagmatic Chest"
+msgid "Wickerbottom Magmatic Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_magma_willow
@@ -113345,7 +113385,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_victorian_wickerbottom
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wickerbottom"
-msgid "Wickerbottom\nGorge Chest"
+msgid "Wickerbottom Gorge Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_victorian_willow
@@ -113365,7 +113405,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_victorian_wolfgang
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wolfgang"
-msgid "Wolfgang\nGorge Chest"
+msgid "Wolfgang Gorge Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_victorian_woodie
@@ -114185,7 +114225,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_theforge_beetletaur
 msgctxt "STRINGS.SKIN_NAMES.profileflair_theforge_beetletaur"
-msgid "Scarabataur the Condemned"
+msgid "Infernal Swineclops"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_theforge_blowdarts
@@ -114270,12 +114310,12 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_theforge_peghook
 msgctxt "STRINGS.SKIN_NAMES.profileflair_theforge_peghook"
-msgid "Grand Forge Boarrior"
+msgid "Scorpeon"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_theforge_rhinodrill
 msgctxt "STRINGS.SKIN_NAMES.profileflair_theforge_rhinodrill"
-msgid "Drill Chargeant"
+msgid "Rhinocebro"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_theforge_snapper
@@ -117615,7 +117655,7 @@ msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC"
-msgid "???"
+msgid "Parry 15 special attacks in a single match using the Blacksmith's Edge"
 msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE
@@ -124245,7 +124285,7 @@ msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
 msgctxt "STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB"
-msgid "???"
+msgid "Bombard your opponents with Crystallized Magma"
 msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
@@ -124265,7 +124305,7 @@ msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL
 msgctxt "STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL"
-msgid "Community Unlocks!"
+msgid "Community Unlocks & Leaderboards"
 msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.XP_LABEL
@@ -126713,6 +126753,11 @@ msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN"
 msgid "Unable to reach the Klei server. Please try again."
 msgstr ""
 
+#. STRINGS.UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH"
+msgid "This server is incompatible with your version. Please try another server."
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP"
 msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
@@ -127001,6 +127046,11 @@ msgstr ""
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN"
 msgid "Could Not Connect"
+msgstr ""
+
+#. STRINGS.UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH"
+msgid "Version Mismatch"
 msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP
@@ -128128,6 +128178,16 @@ msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_TITLE"
 msgid "You got a chest!"
 msgstr ""
 
+#. STRINGS.UI.PURCHASEPACKSCREEN.INFO_BTN
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.INFO_BTN"
+msgid "?"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC"
+msgid "Includes {total_sets} skin sets! {total_items} total skin items!"
+msgstr ""
+
 #. STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE"
 msgid "Sorry!\nThe Klei store is closed.\nCheck back during the next event."
@@ -128138,9 +128198,24 @@ msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.OK"
 msgid "OK"
 msgstr ""
 
+#. STRINGS.UI.PURCHASEPACKSCREEN.PACK_SAVINGS
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PACK_SAVINGS"
+msgid "-{savings}%"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PACK_SHORT_DESC"
+msgid "Includes {total_items} skin items!"
+msgstr ""
+
 #. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN"
-msgid "Purchase: {price}"
+msgid "Buy Now"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_CLOSE
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_CLOSE"
+msgid "Close"
 msgstr ""
 
 #. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_GIFT
