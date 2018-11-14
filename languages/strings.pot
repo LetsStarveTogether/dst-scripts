@@ -180,7 +180,7 @@ msgstr ""
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE"
-msgid "???"
+msgid "Parry"
 msgstr ""
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_LUCY
@@ -1205,7 +1205,7 @@ msgstr ""
 
 #. STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.2
 msgctxt "STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.2"
-msgid "Gatekeepers you have proven yourself mighty."
+msgid "I see. You've demonstrated your might."
 msgstr ""
 
 #. STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.3
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #. STRINGS.BOARLORD_ROUND6_START.1
 msgctxt "STRINGS.BOARLORD_ROUND6_START.1"
-msgid "We do not fear you, Gatekeepers!"
+msgid "We do not fear you."
 msgstr ""
 
 #. STRINGS.BOARLORD_ROUND6_START.2
@@ -99550,7 +99550,7 @@ msgstr ""
 
 #. STRINGS.NAMES.RHINODRILL2
 msgctxt "STRINGS.NAMES.RHINODRILL2"
-msgid "Rhinocebro Flat Top"
+msgid "Rhinocebro Flatbrim"
 msgstr ""
 
 #. STRINGS.NAMES.ROBIN
@@ -105083,6 +105083,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_wood_lamellar"
 msgid "This wood armor is a fresh decorative take on a timeless functional design."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_circus"
+msgid "Restrooms over here."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.axe_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.axe_victorian"
 msgid "An elegantly engraved silver axe."
@@ -108198,6 +108203,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_arrowsignpostcircus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_arrowsignpostcircus"
+msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_beefalo
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_beefalo"
 msgid "Equip this item to change your character's background portrait."
@@ -108488,6 +108498,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_suspisciousdirtpile"
 msgid "Equip this item to change your character's background portrait.\n\nThe hunt is on!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tentcircus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tentcircus"
+msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_thickforest
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_thickforest"
 msgid "Equip this item to change your character's background portrait."
@@ -108503,6 +108518,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_umbrellacircus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_umbrellacircus"
+msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winter"
 msgid "Equip this item to change your character's background portrait.\n\nWhere do the birds go in spring?"
@@ -108511,6 +108531,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winterfire
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winterfire"
 msgid "Equip this item to change your character's background portrait.\n\nWinters are long and harsh here, but a fire always provides solace."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winterometercircus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winterometercircus"
+msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wintertrees
@@ -108536,6 +108561,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus"
+msgid "Set your profile icon to a Spectracular Stationary Wayfinder."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_babybeefalo
@@ -108963,6 +108993,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_tallbird_eye"
 msgid "Set your profile icon to a glaring tallbird."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_tent_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_tent_circus"
+msgid "Set your profile icon to the World's Greatest Big Top Tent."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_battlestandard
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_battlestandard"
 msgid "Set your profile icon to a banner celebrating armed combat."
@@ -109123,6 +109158,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_trinket_gnomette"
 msgid "Set your profile icon to a gnome."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_umbrella_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_umbrella_circus"
+msgid "Set your profile icon to a Big Top Umbrella."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_varg
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_varg"
 msgid "Set your profile icon to a pack-leading Varg.\nHappy Year of the Varg!"
@@ -109201,6 +109241,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_wererabbit
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_wererabbit"
 msgid "Set your profile icon to a grinning bunnyman.\n\nBunnymen make their homes deep in the caverns of The Constant."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_winterometer_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_winterometer_circus"
+msgid "Set your profile icon to a Thermal Strength Measurer."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_bearger
@@ -109373,6 +109418,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.strawhat_floppy"
 msgid "Be like a little British lady in your garden!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.tent_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tent_circus"
+msgid "Have the World's Greatest Dreams."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_circus"
 msgid "Come one, come all."
@@ -109456,6 +109506,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.treasurechest_traveltrunk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_traveltrunk"
 msgid "Its traveling days may be over, but it'll always have the memories."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.umbrella_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_circus"
+msgid "Keeping dry is the main attraction."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
@@ -110063,6 +110118,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_stocking_cap_green_forest"
 msgid "One might wear this 'forest guardian green' winter hat on a cozy night around a campfire. Or, hey, they might not."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.winterometer_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterometer_circus"
+msgid "Step right up."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wolfgang_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wolfgang_combatant"
 msgid "Wolfgang's no stranger to the art of pugilism."
@@ -110326,6 +110386,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.armor_wood_lamellar
 msgctxt "STRINGS.SKIN_NAMES.armor_wood_lamellar"
 msgid "Wood Armor"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.arrowsign_post_circus
+msgctxt "STRINGS.SKIN_NAMES.arrowsign_post_circus"
+msgid "Spectacular Stationary Wayfinder"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.axe_victorian
@@ -113443,6 +113508,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue"
 msgid "Beast of Hunger Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_arrowsignpostcircus
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_arrowsignpostcircus"
+msgid "Spectacular Stationary Wayfinder Portrait"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_beefalo
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_beefalo"
 msgid "Beefalo Portrait"
@@ -113733,6 +113803,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_suspisciousdirtpile"
 msgid "Hunting Tracks Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_tentcircus
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_tentcircus"
+msgid "World's Greatest Big Top Tent Portrait"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_thickforest
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_thickforest"
 msgid "Forest Portrait"
@@ -113748,6 +113823,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_tophatcircus"
 msgid "Amazing Ringmaster Hat Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus"
+msgid "Umbrella the Big Top Portrait"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winter"
 msgid "Winter Portrait"
@@ -113756,6 +113836,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_winterfire
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winterfire"
 msgid "Winter Fire Portrait"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_winterometercircus
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winterometercircus"
+msgid "Thermal Strength Measurer Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_wintertrees
@@ -113781,6 +113866,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_abigail_flower
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
+msgctxt "STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus"
+msgid "Spectacular Stationary Wayfinder Icon"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_babybeefalo
@@ -114208,6 +114298,11 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_tallbird_eye"
 msgid "Tallbird Stare"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.profileflair_tent_circus
+msgctxt "STRINGS.SKIN_NAMES.profileflair_tent_circus"
+msgid "World's Greatest Big Top Tent Icon "
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_theforge_battlestandard
 msgctxt "STRINGS.SKIN_NAMES.profileflair_theforge_battlestandard"
 msgid "Crocommander Standard"
@@ -114368,6 +114463,11 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_trinket_gnomette"
 msgid "Gnomette"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.profileflair_umbrella_circus
+msgctxt "STRINGS.SKIN_NAMES.profileflair_umbrella_circus"
+msgid "Umbrella the Big Top Icon"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_varg
 msgctxt "STRINGS.SKIN_NAMES.profileflair_varg"
 msgid "Varg"
@@ -114446,6 +114546,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_wererabbit
 msgctxt "STRINGS.SKIN_NAMES.profileflair_wererabbit"
 msgid "Friendly Bunnyman"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_winterometer_circus
+msgctxt "STRINGS.SKIN_NAMES.profileflair_winterometer_circus"
+msgid "Thermal Strength Measurer Icon"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_yule_bearger
@@ -114618,6 +114723,11 @@ msgctxt "STRINGS.SKIN_NAMES.strawhat_floppy"
 msgid "Floppy Straw Hat"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.tent_circus
+msgctxt "STRINGS.SKIN_NAMES.tent_circus"
+msgid "World's Greatest Big Top Tent"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.tophat_circus
 msgctxt "STRINGS.SKIN_NAMES.tophat_circus"
 msgid "Amazing Ringmaster Hat"
@@ -114701,6 +114811,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.treasurechest_traveltrunk
 msgctxt "STRINGS.SKIN_NAMES.treasurechest_traveltrunk"
 msgid "Traveller's Trunk"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.umbrella_circus
+msgctxt "STRINGS.SKIN_NAMES.umbrella_circus"
+msgid "Umbrella the Big Top"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.umbrella_spider
@@ -115306,6 +115421,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.winterhat_stocking_cap_green_forest
 msgctxt "STRINGS.SKIN_NAMES.winterhat_stocking_cap_green_forest"
 msgid "Festive Stocking Cap"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.winterometer_circus
+msgctxt "STRINGS.SKIN_NAMES.winterometer_circus"
+msgid "Thermal Strength Measurer"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wolfgang_combatant
@@ -116443,6 +116563,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORWOOD"
 msgid "Log Suit"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST"
+msgid "Directional Sign"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.AXE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.AXE"
 msgid "Axe"
@@ -116583,6 +116708,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.STRAWHAT"
 msgid "Straw Hat"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TENT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TENT"
+msgid "Tent"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TOPHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TOPHAT"
 msgid "Top Hat"
@@ -116606,6 +116736,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTERHAT"
 msgid "Winter Hat"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER"
+msgid "Thermal Measurer"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.TYPE.BASE
@@ -117705,7 +117840,7 @@ msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC"
-msgid "Avoid being hit by a dashing Pit Pig until the end of round 2"
+msgid "Avoid being hit by a dashing Pit Pig before the Snortoises arrive"
 msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE
@@ -117755,7 +117890,7 @@ msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC"
-msgid "Survive with no team deaths until all Rhinocebros are defeated"
+msgid "Survive with no team deaths until both Rhinocebros are defeated"
 msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE
@@ -124290,7 +124425,7 @@ msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
 msgctxt "STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE"
-msgid "???"
+msgid "Hinder your opponents with the almighty Blacksmith's Edge"
 msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL
