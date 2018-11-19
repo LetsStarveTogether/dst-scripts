@@ -101300,7 +101300,7 @@ msgstr ""
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY"
-msgid "80% Protection\n+50 Max Health\nCompanion Buff"
+msgid "80% Protection\n+75 Max Health\nCompanion Buff"
 msgstr ""
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
@@ -107115,7 +107115,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma"
-msgid "Like little candle flames for your feet."
+msgid "Like little candle flames for your claws."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
@@ -107681,6 +107681,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_magma"
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_magma2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_magma2"
+msgid "To escape the fiery Forge, our Survivors must triumph in battle against Battlemaster Pugna's fearsome champions."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_maxwell
@@ -112010,7 +112015,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_webber_magma
 msgctxt "STRINGS.SKIN_NAMES.feet_webber_magma"
-msgid "Incombustible's Legs"
+msgid "Incombustible's Feet"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_webber_punk
@@ -112060,7 +112065,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_wes_magma
 msgctxt "STRINGS.SKIN_NAMES.feet_wes_magma"
-msgid "Sulphur Pimpernel's Legs"
+msgid "Sulphur Pimpernel's Boots"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_wes_nature
@@ -112840,7 +112845,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_waxwell_magma
 msgctxt "STRINGS.SKIN_NAMES.legs_waxwell_magma"
-msgid "Fissure's Shoes"
+msgid "Fissure's Cloths"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_waxwell_nature
@@ -112890,7 +112895,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_winona_magma
 msgctxt "STRINGS.SKIN_NAMES.legs_winona_magma"
-msgid "Welder's Boots"
+msgid "Welder's Lowers"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_winona_nature
@@ -112986,6 +112991,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.loading_magma
 msgctxt "STRINGS.SKIN_NAMES.loading_magma"
 msgid "Magmatic Assembly"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_magma2
+msgctxt "STRINGS.SKIN_NAMES.loading_magma2"
+msgid "The Forge Saga"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_maxwell
@@ -123458,6 +123468,11 @@ msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA"
 msgid "The Forge"
 msgstr ""
 
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
+msgid "The Forge - Season 2"
+msgstr ""
+
 #. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
 msgid "The Gorge"
@@ -124410,7 +124425,7 @@ msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
 msgctxt "STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY"
-msgid "80% Protection, +50 Max Health,\nIncreases effectiveness of Baby Spiders, Abigail or Bernie"
+msgid "80% Protection, +75 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
 msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
@@ -124436,6 +124451,11 @@ msgstr ""
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL
 msgctxt "STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.BOOK_ELEMENTAL"
 msgid "Tome of Beckoning & Spiral Spear"
+msgstr ""
+
+#. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
+msgctxt "STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL"
+msgid "Rhinocebros, Snapback and Flatbrim"
 msgstr ""
 
 #. STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.URL_LABEL
