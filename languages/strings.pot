@@ -106365,7 +106365,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.dragonling_bat_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonling_bat_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.dragonling_winter
@@ -106375,7 +106375,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.dragonling_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonling_winter_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.dragonling_wyvern
@@ -106385,7 +106385,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.dragonling_wyvern_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonling_wyvern_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.emoji_abigail
@@ -107095,7 +107095,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.glomling_winter
@@ -107105,7 +107105,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.glomling_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_winter_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.hambat_potroast
@@ -107510,7 +107510,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_winter
@@ -107520,7 +107520,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lamb_winter
@@ -107530,12 +107530,17 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lamb_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_winter_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_tesla"
 msgid "An electrical resonant transformer circuit that provides light."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_winter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_winter"
+msgid "A lovely stained glass lantern to illuminate your winter nights."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower
@@ -107828,6 +107833,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber"
 msgid "Webber could have easily seen his unique predicament as an affliction or a curse. Instead, he's chosen to view it as a second chance, and one that he fully intends not to waste."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast"
+msgid "\"We're super excited to watch everyone open the presents we got them.\""
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy"
 msgid "Wendy clings fiercely to the grief over her sister's death, for fear that moving on would cause Abigail's memory to fade."
@@ -107878,6 +107888,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_willowfire"
 msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wilson_feast
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson_feast"
+msgid "\"Science says I'll be nipping at your nose.\""
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience"
 msgid "Knowledge can consume the mind to feed the soul.\nAnd consume the soul to feed the mind."
@@ -107891,6 +107906,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang"
 msgid "Whether in troupes or troops, Wolfgang has always thrived on the spirit of camaraderie. He considers the day he joined the survivors to be the moment his luck finally took a turn for the better."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_feast
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_feast"
+msgid "\"A mighty Winter's Feast makes Wolfgang even mightier!\""
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_woodie_victorian
@@ -108310,7 +108330,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.perdling_rooster_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_rooster_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.perdling_winter
@@ -108320,7 +108340,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.perdling_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_winter_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue
@@ -108683,6 +108703,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule3"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule4
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule4"
+msgid "Equip this item to change your character's background portrait.\n\nFestering with festiveness."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule5
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule5"
+msgid "Equip this item to change your character's background portrait.\n\nYou never know what's lurking inside."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule6
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule6"
+msgid "Equip this item to change your character's background portrait.\n\nThe colored lights keep the darkness at bay."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule7
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule7"
+msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
@@ -108690,7 +108730,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus"
-msgid "Set your profile icon to a Spectracular Stationary Wayfinder."
+msgid "Set your profile icon to a Spectacular Stationary Wayfinder."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_babybeefalo
@@ -108883,6 +108923,21 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_frog"
 msgid "Set your profile icon to a frog."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1"
+msgid "Set your profile icon to a festive Golden Present"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2"
+msgid "Set your profile icon to a jolly Green Gift"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3"
+msgid "Set your profile icon to a Poorly Wrapped Package"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_goosemoose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_goosemoose"
 msgid "Set your profile icon to a Goose. Or Moose. Or both."
@@ -108971,6 +109026,21 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_13
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_13"
 msgid "Set your profile icon to a Winter's Feast tree planter, complete with lovely bow."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_14
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_14"
+msgid "Set your profile icon to a festive Deerclops Ornament."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_15
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_15"
+msgid "Set your profile icon to an adorable Moose/Goose Ornament"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_16
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_16"
+msgid "Set your profile icon to a dangerous Bee Queen Ornament"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_2
@@ -109378,6 +109448,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_bearger"
 msgid "Set your profile icon to a grumpy Bearger, recently roused from deep hibernation.\n\nHappy Winter's Feast!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_candycane
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_candycane"
+msgid "Set your profile icon to a sweet Candy Cane."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_chocolatelog
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_chocolatelog"
+msgid "Set your profile icon to some decadent Chocolate Log Cake."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_claus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_claus"
 msgid "Set your profile icon to the fearsome Klaus.\n\nThe Constant always seems to have an odd effect on Klaus this time of year; although we all tend to show our holiday spirit in different ways. Happy Winter's Feast!"
@@ -109403,9 +109483,44 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_dragonflyfire"
 msgid "Set your profile icon to a warm, toasty holiday Dragonfly.\n\nHappy Winter's Feast!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_eggnog
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_eggnog"
+msgid "Set your profile icon to some rich and creamy Heavenly Eggnog."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_fruitcake
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_fruitcake"
+msgid "Set your profile icon to a timeless Eternal Fruitcake."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_gingerbreadman
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_gingerbreadman"
+msgid "Set your profile icon to a jolly Gingerbread Cookie."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_glommer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_glommer"
+msgid "Set your profile icon to a frosty Ice Glomglom."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_goosemoose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_goosemoose"
 msgid "Set your profile icon to a holly, jolly Goose. Or Moose.\n\nHappy Winter's Feast!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_hotchocolate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_hotchocolate"
+msgid "Set your profile icon to a warm cup of Hot Cocoa."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_puppington
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_puppington"
+msgid "Set your profile icon to a Winterized Vargling."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_sugarcookie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_sugarcookie"
+msgid "Set your profile icon to a delicious Sugar Cookie."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.puppy_chow
@@ -109415,7 +109530,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.puppy_chow_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.puppy_chow_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.puppy_tzu
@@ -109425,7 +109540,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.puppy_tzu_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.puppy_tzu_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.puppy_winter
@@ -109435,12 +109550,12 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.puppy_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.puppy_winter_builder"
-msgid "missing description"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.rainhat_floppy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.rainhat_floppy"
-msgid "rainhat_floppy"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.rainometer_circus
@@ -109460,42 +109575,42 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume"
-msgid "researchlab4_catcoon_costume"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_chester_costume
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_chester_costume"
-msgid "researchlab4_chester_costume"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_derby
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_derby"
-msgid "researchlab4_derby"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_festive_bell_red_firehound
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_festive_bell_red_firehound"
-msgid "researchlab4_festive_bell_red_firehound"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_glommer_costume
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_glommer_costume"
-msgid "researchlab4_glommer_costume"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_hutch_costume
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_hutch_costume"
-msgid "researchlab4_hutch_costume"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus"
-msgid "researchlab4_tophat_circus"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre"
-msgid "researchlab4_tophat_circus"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
@@ -111675,7 +111790,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.dragonling_bat_builder
 msgctxt "STRINGS.SKIN_NAMES.dragonling_bat_builder"
-msgid "dragonling_bat_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.dragonling_winter
@@ -111685,7 +111800,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.dragonling_winter_builder
 msgctxt "STRINGS.SKIN_NAMES.dragonling_winter_builder"
-msgid "dragonling_winter_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.dragonling_wyvern
@@ -111695,7 +111810,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.dragonling_wyvern_builder
 msgctxt "STRINGS.SKIN_NAMES.dragonling_wyvern_builder"
-msgid "dragonling_wyvern_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.emoji_abigail
@@ -112405,7 +112520,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.glomling_beardeddragon_builder
 msgctxt "STRINGS.SKIN_NAMES.glomling_beardeddragon_builder"
-msgid "glomling_beardeddragon_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.glomling_winter
@@ -112415,7 +112530,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.glomling_winter_builder
 msgctxt "STRINGS.SKIN_NAMES.glomling_winter_builder"
-msgid "glomling_winter_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.hambat_potroast
@@ -112820,7 +112935,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.kitten_black_builder
 msgctxt "STRINGS.SKIN_NAMES.kitten_black_builder"
-msgid "kitten_black_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.kitten_winter
@@ -112830,7 +112945,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.kitten_winter_builder
 msgctxt "STRINGS.SKIN_NAMES.kitten_winter_builder"
-msgid "kitten_winter_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.lamb_winter
@@ -112840,12 +112955,17 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.lamb_winter_builder
 msgctxt "STRINGS.SKIN_NAMES.lamb_winter_builder"
-msgid "lamb_winter_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.lantern_tesla
 msgctxt "STRINGS.SKIN_NAMES.lantern_tesla"
 msgid "Tesla Coil Lantern"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.lantern_winter
+msgctxt "STRINGS.SKIN_NAMES.lantern_winter"
+msgid "Winter's Feast Lantern"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_checkered_pleats_blue_cornflower
@@ -113138,6 +113258,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_webber"
 msgid "Webber"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_webber_feast
+msgctxt "STRINGS.SKIN_NAMES.loading_webber_feast"
+msgid "Wrapping Webber"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wendy
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy"
 msgid "Wendy"
@@ -113188,6 +113313,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_willowfire"
 msgid "Willow"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_wilson_feast
+msgctxt "STRINGS.SKIN_NAMES.loading_wilson_feast"
+msgid "Snowfallen Wilson"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wilson_madscience
 msgctxt "STRINGS.SKIN_NAMES.loading_wilson_madscience"
 msgid "Mad Science Wilson"
@@ -113201,6 +113331,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.loading_wolfgang
 msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang"
 msgid "Wolfgang"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wolfgang_feast
+msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang_feast"
+msgid "Feasting Wolfgang"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_woodie_victorian
@@ -113620,7 +113755,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.perdling_rooster_builder
 msgctxt "STRINGS.SKIN_NAMES.perdling_rooster_builder"
-msgid "perdling_rooster_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.perdling_winter
@@ -113630,7 +113765,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.perdling_winter_builder
 msgctxt "STRINGS.SKIN_NAMES.perdling_winter_builder"
-msgid "perdling_winter_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue
@@ -113993,6 +114128,26 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule3"
 msgid "Snowy Winter Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_yule4
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule4"
+msgid "Decorated Tree"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_yule5
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule5"
+msgid "Wrapped Gifts"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_yule6
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule6"
+msgid "Festive Lights"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_yule7
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule7"
+msgid "Winter's Feast Foods"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_abigail_flower
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
@@ -114193,6 +114348,21 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_frog"
 msgid "Froggy"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.profileflair_gift_1
+msgctxt "STRINGS.SKIN_NAMES.profileflair_gift_1"
+msgid "Golden Present"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_gift_2
+msgctxt "STRINGS.SKIN_NAMES.profileflair_gift_2"
+msgid "Green Gift"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_gift_3
+msgctxt "STRINGS.SKIN_NAMES.profileflair_gift_3"
+msgid "Poorly Wrapped Package"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_goosemoose
 msgctxt "STRINGS.SKIN_NAMES.profileflair_goosemoose"
 msgid "Moose/Goose"
@@ -114281,6 +114451,21 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_ornaments_13
 msgctxt "STRINGS.SKIN_NAMES.profileflair_ornaments_13"
 msgid "Festive Tree Planter"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_ornaments_14
+msgctxt "STRINGS.SKIN_NAMES.profileflair_ornaments_14"
+msgid "Deerclops Ornament"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_ornaments_15
+msgctxt "STRINGS.SKIN_NAMES.profileflair_ornaments_15"
+msgid "Moose/Goose Ornament"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_ornaments_16
+msgctxt "STRINGS.SKIN_NAMES.profileflair_ornaments_16"
+msgid "Bee Queen Ornament"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_ornaments_2
@@ -114688,6 +114873,16 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_bearger"
 msgid "Cranky Bearger"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.profileflair_yule_candycane
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_candycane"
+msgid "Candy Cane"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_chocolatelog
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_chocolatelog"
+msgid "Chocolate Log Cake"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_yule_claus
 msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_claus"
 msgid "Klaus"
@@ -114713,9 +114908,44 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_dragonflyfire"
 msgid "Fiery Feastfly"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.profileflair_yule_eggnog
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_eggnog"
+msgid "Heavenly Eggnog"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_fruitcake
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_fruitcake"
+msgid "Eternal Fruitcake"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_gingerbreadman
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_gingerbreadman"
+msgid "Gingerbread Cookie"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_glommer
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_glommer"
+msgid "Ice Glomglom"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_yule_goosemoose
 msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_goosemoose"
 msgid "Jolly Moose/Goose"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_hotchocolate
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_hotchocolate"
+msgid "Hot Cocoa"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_puppington
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_puppington"
+msgid "Winterized Vargling"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_yule_sugarcookie
+msgctxt "STRINGS.SKIN_NAMES.profileflair_yule_sugarcookie"
+msgid "Sugar Cookie"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.puppy_chow
@@ -114725,7 +114955,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.puppy_chow_builder
 msgctxt "STRINGS.SKIN_NAMES.puppy_chow_builder"
-msgid "puppy_chow_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.puppy_tzu
@@ -114735,7 +114965,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.puppy_tzu_builder
 msgctxt "STRINGS.SKIN_NAMES.puppy_tzu_builder"
-msgid "puppy_tzu_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.puppy_winter
@@ -114745,7 +114975,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.puppy_winter_builder
 msgctxt "STRINGS.SKIN_NAMES.puppy_winter_builder"
-msgid "puppy_winter_builder"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.rainhat_floppy
@@ -117581,6 +117811,11 @@ msgstr ""
 #. STRINGS.THANKS_POPUP.VARG
 msgctxt "STRINGS.THANKS_POPUP.VARG"
 msgid "Thanks for playing during the\nYear of the Varg event"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.WINTER
+msgctxt "STRINGS.THANKS_POPUP.WINTER"
+msgid "Happy Winter's Feast\nfrom your friends at Klei"
 msgstr ""
 
 #. STRINGS.TRADEMOD
