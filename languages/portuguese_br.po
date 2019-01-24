@@ -108244,7 +108244,7 @@ msgstr "Este baú de primavera contém o conjunto completo de itens de aparênci
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "Presente de Don't Starve Reino de Gigantes"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
@@ -111324,7 +111324,7 @@ msgstr "Parte de cima da fantasia de plantaolho"
 
 #. STRINGS.SKIN_NAMES.body_wendy_magma
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_magma"
-msgid "Phoenix's dress"
+msgid "Phoenix's Dress"
 msgstr "Vestido de Fênix"
 
 #. STRINGS.SKIN_NAMES.body_wendy_rose
@@ -113669,7 +113669,7 @@ msgstr "Baú de primavera de WX-78"
 
 #. STRINGS.SKIN_NAMES.pack_rog_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "Presente de Don't Starve Reino de Gigantes"
 
 #. STRINGS.SKIN_NAMES.pack_sw_gift
@@ -131167,10 +131167,20 @@ msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.YES"
 msgid "Yes"
 msgstr "Sim"
 
+#. STRINGS.UI.SETPOPUP.NEXT_SET
+msgctxt "STRINGS.UI.SETPOPUP.NEXT_SET"
+msgid "Next Set"
+msgstr ""
+
 #. STRINGS.UI.SETPOPUP.OK
 msgctxt "STRINGS.UI.SETPOPUP.OK"
 msgid "OK"
 msgstr "OK"
+
+#. STRINGS.UI.SETPOPUP.PREV_SET
+msgctxt "STRINGS.UI.SETPOPUP.PREV_SET"
+msgid "Previous Set"
+msgstr ""
 
 #. STRINGS.UI.SETPOPUP.REWARD
 msgctxt "STRINGS.UI.SETPOPUP.REWARD"

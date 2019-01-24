@@ -108244,7 +108244,7 @@ msgstr "Этот Весенний сундук содержит все пред�
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "Подарок: Don't Starve Reign of Giants"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
@@ -111324,7 +111324,7 @@ msgstr "Верх от Костюма Приманкоцвета"
 
 #. STRINGS.SKIN_NAMES.body_wendy_magma
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_magma"
-msgid "Phoenix's dress"
+msgid "Phoenix's Dress"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wendy_rose
@@ -113669,7 +113669,7 @@ msgstr "Весенний сундук WX-78"
 
 #. STRINGS.SKIN_NAMES.pack_rog_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "Подарок: Don't Starve Reign of Giants"
 
 #. STRINGS.SKIN_NAMES.pack_sw_gift
@@ -131167,10 +131167,20 @@ msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.YES"
 msgid "Yes"
 msgstr "Да"
 
+#. STRINGS.UI.SETPOPUP.NEXT_SET
+msgctxt "STRINGS.UI.SETPOPUP.NEXT_SET"
+msgid "Next Set"
+msgstr ""
+
 #. STRINGS.UI.SETPOPUP.OK
 msgctxt "STRINGS.UI.SETPOPUP.OK"
 msgid "OK"
 msgstr "ОК"
+
+#. STRINGS.UI.SETPOPUP.PREV_SET
+msgctxt "STRINGS.UI.SETPOPUP.PREV_SET"
+msgid "Previous Set"
+msgstr ""
 
 #. STRINGS.UI.SETPOPUP.REWARD
 msgctxt "STRINGS.UI.SETPOPUP.REWARD"
