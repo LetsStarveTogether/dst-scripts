@@ -106,10 +106,15 @@ msgctxt "STRINGS.ACTIONS.BAIT"
 msgid "Bait"
 msgstr "Ködere"
 
-#. STRINGS.ACTIONS.BLINK
-msgctxt "STRINGS.ACTIONS.BLINK"
+#. STRINGS.ACTIONS.BLINK.GENERIC
+msgctxt "STRINGS.ACTIONS.BLINK.GENERIC"
 msgid "Telepoof"
 msgstr "Telepoof"
+
+#. STRINGS.ACTIONS.BLINK.SOUL
+msgctxt "STRINGS.ACTIONS.BLINK.SOUL"
+msgid "Soul Hop"
+msgstr ""
 
 #. STRINGS.ACTIONS.BRUSH
 msgctxt "STRINGS.ACTIONS.BRUSH"
@@ -330,6 +335,11 @@ msgstr "Zeichnen"
 msgctxt "STRINGS.ACTIONS.DRAWITEM"
 msgid "Draw {item}"
 msgstr "{item} zeichnen"
+
+#. STRINGS.ACTIONS.DROP.FREESOUL
+msgctxt "STRINGS.ACTIONS.DROP.FREESOUL"
+msgid "Release Soul"
+msgstr ""
 
 #. STRINGS.ACTIONS.DROP.GENERIC
 msgctxt "STRINGS.ACTIONS.DROP.GENERIC"
@@ -9624,7 +9634,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.GHOST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.GHOST"
 msgid "Best concoct a revival device. Can't leave another man of science floating."
-msgstr ""
+msgstr "Ich stelle besser mein Wiederbelebungsgerät zusammen. Kann doch keinen Wissenschaftlerkollegen hängen lassen."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.MURDERER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.MURDERER"
@@ -13564,7 +13574,7 @@ msgstr "Die Schlacht war riesig, doch am Ende wurde der Wurm verzehrt!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Tis Berserker magic."
-msgstr ""
+msgstr "Das ist Magie der Wilden."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
@@ -26849,7 +26859,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GENERIC"
 msgid "Greetings, Mr. %s."
-msgstr ""
+msgstr "Seid gegrüßt, Herr %s."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GHOST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GHOST"
@@ -27299,7 +27309,7 @@ msgstr "Es ist zu gefährlich!"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Aw... It's the wrong one."
-msgstr ""
+msgstr "Ach... es ist der falsche."
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -60544,7 +60554,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GENERIC"
 msgid "Hi %s!"
-msgstr ""
+msgstr "Hallo, %s!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GHOST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GHOST"
@@ -61039,12 +61049,12 @@ msgstr "Puh, da möchte ich nicht noch einmal rein."
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.1"
 msgid "Earthquake! I think?"
-msgstr ""
+msgstr "Erdbeben! Vielleicht?"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.2
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.2"
 msgid "What's that?!"
-msgstr ""
+msgstr "Was ist das?!"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.3
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.3"
@@ -86801,6 +86811,51 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOAKED"
 msgid "I AM DRENCHED!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.1"
+msgid "Woe be to a soul-starved imp!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.2"
+msgid "I don't want to suck anymore souls!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.3
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.3"
+msgid "What gruesome things I must do to live!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.1"
+msgid "I'll need more souls soon."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.2"
+msgid "I feel the soul hunger stirring."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.1"
+msgid "I've enough souls to sustain me."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.2"
+msgid "I hope I was not too greedy."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.1"
+msgid "I can't handle that much soul power!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.2"
+msgid "That was one soul too many!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SPOOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SPOOKED"
 msgid "What a s-silly prank!"
@@ -88053,17 +88108,22 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK1"
-msgid "It looks quite broke, and that's no joke!'"
+msgid "It looks quite broke, and that's no joke!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK2"
-msgid "It looks quite broke, and that's no joke!'"
+msgid "It looks quite broke, and that's no joke!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK3"
-msgid "It looks quite broke, and that's no joke!'"
+msgid "It looks quite broke, and that's no joke!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
+msgid "I'll say a prayer for this slain bear."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -88086,13 +88146,23 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYWARG"
 msgid "So scary, rendered still in stone."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS"
+msgid "That was such a fun day!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DRAGONFLY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DRAGONFLY"
+msgid "Bye bye, dear dragonfly."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "You've a much too competitive spirit, sir."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "What a funny use for a horn!"
 msgstr ""
 
@@ -88106,18 +88176,28 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE"
 msgid "Yes, yes, come play!"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1"
+msgid "We've established a stone goose truce."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.2"
+msgid "We've established a stone moose truce."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE"
 msgid "How whimsically elegant."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN"
 msgid "Would you like to play?"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Bubble, bubble, no such trouble."
 msgstr ""
 
@@ -90303,7 +90383,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAUR"
-msgid "Goodness gracious, aren't you fearsome.'"
+msgid "Goodness gracious, aren't you fearsome."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAURCHEST
@@ -92273,7 +92353,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED"
-msgid "Look! It's a rook!'"
+msgid "Look! It's a rook!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKNOSE
@@ -92673,7 +92753,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER"
-msgid "You're mind's not quite right, but neither is mine!"
+msgid "Your mind's not quite right, but neither is mine!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER_ATRIUM
@@ -94324,6 +94404,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.REVIVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.REVIVER"
 msgid "Hyuyu, I would have eaten that soul were I you."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL"
+msgid "Hyuyu! It looks tasty."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.ATTACKER
@@ -112011,6 +112096,11 @@ msgctxt "STRINGS.NAMES.WORTOX"
 msgid "Wortox"
 msgstr ""
 
+#. STRINGS.NAMES.WORTOX_SOUL
+msgctxt "STRINGS.NAMES.WORTOX_SOUL"
+msgid "Soul"
+msgstr ""
+
 #. STRINGS.NAMES.WX78
 msgctxt "STRINGS.NAMES.WX78"
 msgid "WX-78"
@@ -126919,7 +127009,7 @@ msgstr "Die Grüne"
 #. STRINGS.SKIN_NAMES.wathgrithr_none
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_none"
 msgid "Wigfrid"
-msgstr ""
+msgstr "Wigfrid"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_rose
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_rose"
@@ -126994,7 +127084,7 @@ msgstr "Die Grüne"
 #. STRINGS.SKIN_NAMES.waxwell_none
 msgctxt "STRINGS.SKIN_NAMES.waxwell_none"
 msgid "Maxwell"
-msgstr ""
+msgstr "Maxwell"
 
 #. STRINGS.SKIN_NAMES.waxwell_rose
 msgctxt "STRINGS.SKIN_NAMES.waxwell_rose"
@@ -127059,7 +127149,7 @@ msgstr "Der Magmatische"
 #. STRINGS.SKIN_NAMES.webber_none
 msgctxt "STRINGS.SKIN_NAMES.webber_none"
 msgid "Webber"
-msgstr ""
+msgstr "Webber"
 
 #. STRINGS.SKIN_NAMES.webber_punk
 msgctxt "STRINGS.SKIN_NAMES.webber_punk"
@@ -127134,7 +127224,7 @@ msgstr "Die Magmatische"
 #. STRINGS.SKIN_NAMES.wendy_none
 msgctxt "STRINGS.SKIN_NAMES.wendy_none"
 msgid "Wendy"
-msgstr ""
+msgstr "Wendy"
 
 #. STRINGS.SKIN_NAMES.wendy_rose
 msgctxt "STRINGS.SKIN_NAMES.wendy_rose"
@@ -127204,7 +127294,7 @@ msgstr "Die Grüne"
 #. STRINGS.SKIN_NAMES.wes_none
 msgctxt "STRINGS.SKIN_NAMES.wes_none"
 msgid "Wes"
-msgstr ""
+msgstr "Wes"
 
 #. STRINGS.SKIN_NAMES.wes_rose
 msgctxt "STRINGS.SKIN_NAMES.wes_rose"
@@ -127274,7 +127364,7 @@ msgstr "Die Magmatische"
 #. STRINGS.SKIN_NAMES.wickerbottom_none
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_none"
 msgid "Wickerbottom"
-msgstr ""
+msgstr "Wickerbottom"
 
 #. STRINGS.SKIN_NAMES.wickerbottom_rose
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_rose"
@@ -127344,7 +127434,7 @@ msgstr "Die Magmatische"
 #. STRINGS.SKIN_NAMES.willow_none
 msgctxt "STRINGS.SKIN_NAMES.willow_none"
 msgid "Willow"
-msgstr ""
+msgstr "Willow"
 
 #. STRINGS.SKIN_NAMES.willow_rose
 msgctxt "STRINGS.SKIN_NAMES.willow_rose"
@@ -127404,7 +127494,7 @@ msgstr "Der Magmatische"
 #. STRINGS.SKIN_NAMES.wilson_none
 msgctxt "STRINGS.SKIN_NAMES.wilson_none"
 msgid "Wilson"
-msgstr ""
+msgstr "Wilson"
 
 #. STRINGS.SKIN_NAMES.wilson_pigguard
 msgctxt "STRINGS.SKIN_NAMES.wilson_pigguard"
@@ -127489,7 +127579,7 @@ msgstr "Die Grüne"
 #. STRINGS.SKIN_NAMES.winona_none
 msgctxt "STRINGS.SKIN_NAMES.winona_none"
 msgid "Winona"
-msgstr ""
+msgstr "Winona"
 
 #. STRINGS.SKIN_NAMES.winona_rose
 msgctxt "STRINGS.SKIN_NAMES.winona_rose"
@@ -127594,7 +127684,7 @@ msgstr "Der Magmatische"
 #. STRINGS.SKIN_NAMES.wolfgang_none
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_none"
 msgid "Wolfgang"
-msgstr ""
+msgstr "Wolfgang"
 
 #. STRINGS.SKIN_NAMES.wolfgang_rose
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_rose"
@@ -127664,7 +127754,7 @@ msgstr "Die Grüne"
 #. STRINGS.SKIN_NAMES.woodie_none
 msgctxt "STRINGS.SKIN_NAMES.woodie_none"
 msgid "Woodie"
-msgstr ""
+msgstr "Woodie"
 
 #. STRINGS.SKIN_NAMES.woodie_rose
 msgctxt "STRINGS.SKIN_NAMES.woodie_rose"
@@ -127749,7 +127839,7 @@ msgstr "Die Grüne"
 #. STRINGS.SKIN_NAMES.wx78_none
 msgctxt "STRINGS.SKIN_NAMES.wx78_none"
 msgid "WX-78"
-msgstr ""
+msgstr "WX-78"
 
 #. STRINGS.SKIN_NAMES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.wx78_rhinorook"
@@ -131333,18 +131423,23 @@ msgstr "Auflösen"
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY"
-msgid "Use {doodad_value} Spools to weave this special event item."
-msgstr "Benutze {doodad_value} Spulen, um dieses spezielle Event-Element zu weben."
+msgid "Use {doodad_value} Spools to weave this curio."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND"
-msgid "This item can be unraveled into {doodad_value} Spools."
-msgstr "Dieser Gegenständ lässt sich in {doodad_value} Spulen auflösen."
+msgid "This curio can be unraveled into {doodad_value} Spools."
+msgstr ""
 
-#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY
-msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY"
-msgid "Only special event items from an active event can be woven from Spools."
-msgstr "Aus Spulen können nur spezielle Event-Gegenstände für ein aktives Event gewebt werden."
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
+msgid "This curio is not weaveable."
+msgstr ""
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE"
+msgid "This curio is not currently weaveable."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED"
@@ -131353,18 +131448,18 @@ msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND"
-msgid "This item cannot be unraveled."
-msgstr "Dieser Gegenständ lässt sich nicht auflösen."
+msgid "This curio cannot be unraveled."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT"
-msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave limited-time event items."
-msgstr "Du brauchst {doodad_count} Spulen, um dieses Element zu weben: {item_name}.\n\nDu hast dann noch {doodad_net} Spulen.\nMit Spulen werden zeitbegrenzte Event-Gegenstände gewebt."
+msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
-msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave limited-time event items."
-msgstr "Willst du den Gegenstand {item_name} in {doodad_count} Spulen auflösen?\n\nDu hast dann insgesamt {doodad_net} Spulen.\nMit Spulen werden zeitbegrenzte Event-Gegenstände gewebt."
+msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.FAILED_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.FAILED_BODY"
@@ -131383,8 +131478,8 @@ msgstr "Du brauchst {doodad_count} Spulen, um dieses Element zu weben: {item_nam
 
 #. STRINGS.UI.BARTERSCREEN.NO_MARKET
 msgctxt "STRINGS.UI.BARTERSCREEN.NO_MARKET"
-msgid "This item cannot be traded or sold."
-msgstr "Dieser Gegenstand kann nicht gehandelt oder verkauft werden."
+msgid "This curio cannot be traded or sold."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.OK
 msgctxt "STRINGS.UI.BARTERSCREEN.OK"
@@ -131393,8 +131488,8 @@ msgstr "OK"
 
 #. STRINGS.UI.BARTERSCREEN.TITLE
 msgctxt "STRINGS.UI.BARTERSCREEN.TITLE"
-msgid "The Event Loom"
-msgstr "Der Event-Webstuhl"
+msgid "The Curio Loom"
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
@@ -137306,10 +137401,25 @@ msgctxt "STRINGS.UI.MAINSCREEN.DST_UPDATENAME"
 msgid "Release"
 msgstr "Version"
 
+#. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
+msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR"
+msgid "Clear Dynamic Content"
+msgstr ""
+
 #. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC"
 msgid "Due to an error, dynamic content loading has been disabled."
 msgstr "Aufgrund eines Fehlers wurden dynamische Inhalte deaktiviert."
+
+#. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DISABLE
+msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DISABLE"
+msgid "Disable Dynamic Content"
+msgstr ""
+
+#. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_ENABLE
+msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_ENABLE"
+msgid "Enable Dynamic Content"
+msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK
 msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK"
@@ -139111,6 +139221,11 @@ msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_BANNED"
 msgid "Your account has been banned for violating the terms of use."
 msgstr "Dein Konto wurde wegen Verstoßes gegen die Spielregeln gesperrt."
 
+#. STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED"
+msgid "Your account has been marked for deletion and cannot be used anymore."
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.E_UPGRADE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_UPGRADE"
 msgid "A new version is available.\nPlease update Don't Starve Together."
@@ -139400,6 +139515,11 @@ msgstr "Verbindung getrennt"
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.E_BANNED"
 msgid "Account Banned"
 msgstr "Account gesperrt"
+
+#. STRINGS.UI.NETWORKDISCONNECT.TITLE.E_DELETED
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.E_DELETED"
+msgid "Account Deleted"
+msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.E_UPGRADE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.E_UPGRADE"
@@ -140526,10 +140646,35 @@ msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT"
 msgid "Time played with: {time}"
 msgstr "Zeit gespielt mit: {time}"
 
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY"
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO"
+msgid "No"
+msgstr "Nein"
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE"
+msgid "Item Collection Download Failed"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
+msgid "Yes"
+msgstr "Ja"
+
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
 msgid "History of Travels"
 msgstr "Geschichte des Reisens"
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.GET_INVENTORY"
+msgid "Downloading Item Collection"
+msgstr ""
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT"
@@ -140801,11 +140946,6 @@ msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC"
 msgid "Includes {total_sets} skin sets! {total_items} total skin items!"
 msgstr "Enthält {total_sets} Skin-Sets! Insgesamt {total_items} Skin-Elemente!"
 
-#. STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE
-msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE"
-msgid "Sorry!\nThe Klei store is closed.\nCheck back during the next event."
-msgstr "Sorry!\nDer Klei Store ist geschlossen.\nVersuch es beim nächsten Event wieder."
-
 #. STRINGS.UI.PURCHASEPACKSCREEN.OK
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.OK"
 msgid "OK"
@@ -140971,11 +141111,6 @@ msgctxt "STRINGS.UI.RARITY.CharacterModifier"
 msgid ""
 msgstr ""
 
-#. STRINGS.UI.RARITY.Classic
-msgctxt "STRINGS.UI.RARITY.Classic"
-msgid "Classic - "
-msgstr "Klassisch - "
-
 #. STRINGS.UI.RARITY.Classy
 msgctxt "STRINGS.UI.RARITY.Classy"
 msgid "Classy"
@@ -141000,11 +141135,6 @@ msgstr "Elegant"
 msgctxt "STRINGS.UI.RARITY.Event"
 msgid "Event (Limited-Time Use)"
 msgstr "Ereignis (zeitlich begrenzt)"
-
-#. STRINGS.UI.RARITY.EventModifier
-msgctxt "STRINGS.UI.RARITY.EventModifier"
-msgid "Event - "
-msgstr "Ereignis - "
 
 #. STRINGS.UI.RARITY.HeirloomClassy
 msgctxt "STRINGS.UI.RARITY.HeirloomClassy"
@@ -141046,11 +141176,6 @@ msgctxt "STRINGS.UI.RARITY.Reward"
 msgid "Reward"
 msgstr "Belohnung"
 
-#. STRINGS.UI.RARITY.Seasonal
-msgctxt "STRINGS.UI.RARITY.Seasonal"
-msgid "Seasonal - "
-msgstr "Saisonal - "
-
 #. STRINGS.UI.RARITY.Spiffy
 msgctxt "STRINGS.UI.RARITY.Spiffy"
 msgid "Spiffy"
@@ -141060,6 +141185,11 @@ msgstr "Schick"
 msgctxt "STRINGS.UI.RARITY.Timeless"
 msgid "Timeless"
 msgstr "Zeitlos"
+
+#. STRINGS.UI.RARITY.Woven
+msgctxt "STRINGS.UI.RARITY.Woven"
+msgid "Woven - "
+msgstr ""
 
 #. STRINGS.UI.RECIPE_BOOK.CRAVINGS.BREAD
 msgctxt "STRINGS.UI.RECIPE_BOOK.CRAVINGS.BREAD"
@@ -141961,6 +142091,11 @@ msgctxt "STRINGS.UI.SERVERADMINSCREEN.DAY"
 msgid "Day"
 msgstr "Tag"
 
+#. STRINGS.UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgctxt "STRINGS.UI.SERVERADMINSCREEN.DAY_UNKNOWN"
+msgid "Unknown Day"
+msgstr ""
+
 #. STRINGS.UI.SERVERADMINSCREEN.DAY_V2
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.DAY_V2"
 msgid "Day {day_count}"
@@ -141990,6 +142125,16 @@ msgstr "LEER"
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE"
 msgid "Empty Slot"
 msgstr "Leerer Slot"
+
+#. STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY
+msgctxt "STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY"
+msgid "Restore Day {day_count}"
+msgstr ""
+
+#. STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgctxt "STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN"
+msgid "Restore Unknown Day"
+msgstr ""
 
 #. STRINGS.UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY"
@@ -142475,6 +142620,16 @@ msgstr "Tag"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_NEW"
 msgid "A Whole New World"
 msgstr "Eine völlig neue Welt"
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2"
+msgid "{season} Day {day_count}"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_V2
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_V2"
+msgid "Day {day_count}"
+msgstr "Tag {day_count}"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDESC
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDESC"
@@ -143611,6 +143766,16 @@ msgctxt "STRINGS.UI.STARTADVENTURE.YES"
 msgid "Let's Go!"
 msgstr "Los geht's!"
 
+#. STRINGS.UI.STATSPANEL.MOTD_BODY
+msgctxt "STRINGS.UI.STATSPANEL.MOTD_BODY"
+msgid "Character and item skin sets now available for purchase!"
+msgstr ""
+
+#. STRINGS.UI.STATSPANEL.MOTD_TITLE
+msgctxt "STRINGS.UI.STATSPANEL.MOTD_TITLE"
+msgid "Now Available!"
+msgstr ""
+
 #. STRINGS.UI.TELEPORTBODY_ADVENTURE
 msgctxt "STRINGS.UI.TELEPORTBODY_ADVENTURE"
 msgid "This will REMOVE ALL YOUR ITEMS and destroy your current world. Only items placed in the machine will appear in the next world."
@@ -144300,6 +144465,11 @@ msgstr "Eigener Filter: {mode}"
 msgctxt "STRINGS.UI.WARDROBESCREEN.RESET"
 msgid "Undo Changes"
 msgstr "Änderungen rückgängig machen"
+
+#. STRINGS.UI.WARDROBESCREEN.SORT_COUNT
+msgctxt "STRINGS.UI.WARDROBESCREEN.SORT_COUNT"
+msgid "Owned Count"
+msgstr ""
 
 #. STRINGS.UI.WARDROBESCREEN.SORT_MODE_FMT
 msgctxt "STRINGS.UI.WARDROBESCREEN.SORT_MODE_FMT"

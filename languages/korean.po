@@ -106,10 +106,15 @@ msgctxt "STRINGS.ACTIONS.BAIT"
 msgid "Bait"
 msgstr "미끼 달기"
 
-#. STRINGS.ACTIONS.BLINK
-msgctxt "STRINGS.ACTIONS.BLINK"
+#. STRINGS.ACTIONS.BLINK.GENERIC
+msgctxt "STRINGS.ACTIONS.BLINK.GENERIC"
 msgid "Telepoof"
 msgstr "텔레푸프"
+
+#. STRINGS.ACTIONS.BLINK.SOUL
+msgctxt "STRINGS.ACTIONS.BLINK.SOUL"
+msgid "Soul Hop"
+msgstr ""
 
 #. STRINGS.ACTIONS.BRUSH
 msgctxt "STRINGS.ACTIONS.BRUSH"
@@ -330,6 +335,11 @@ msgstr "위에 그리기"
 msgctxt "STRINGS.ACTIONS.DRAWITEM"
 msgid "Draw {item}"
 msgstr "{item} 그리기"
+
+#. STRINGS.ACTIONS.DROP.FREESOUL
+msgctxt "STRINGS.ACTIONS.DROP.FREESOUL"
+msgid "Release Soul"
+msgstr ""
 
 #. STRINGS.ACTIONS.DROP.GENERIC
 msgctxt "STRINGS.ACTIONS.DROP.GENERIC"
@@ -9624,7 +9634,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.GHOST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.GHOST"
 msgid "Best concoct a revival device. Can't leave another man of science floating."
-msgstr ""
+msgstr "부활 장치를 만들어야겠다. 다른 과학자가 부유하는 것을 보고 놔둘 수는 없다."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.MURDERER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILSON.MURDERER"
@@ -13564,7 +13574,7 @@ msgstr "전투는 치열했지만 벌레가 결국 먹혔군요!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY"
 msgid "Tis Berserker magic."
-msgstr ""
+msgstr "광전사의 마법이군요."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
@@ -26849,7 +26859,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GENERIC"
 msgid "Greetings, Mr. %s."
-msgstr ""
+msgstr "반갑군, 미스터 %s."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GHOST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORTOX.GHOST"
@@ -27299,7 +27309,7 @@ msgstr "너무 위험하다!"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Aw... It's the wrong one."
-msgstr ""
+msgstr "아... 틀린 거다."
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -60544,7 +60554,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GENERIC"
 msgid "Hi %s!"
-msgstr ""
+msgstr "안녕, %s!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GHOST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORTOX.GHOST"
@@ -61039,12 +61049,12 @@ msgstr "야. 내가 다시 그 안에 들어가게 만들지 마!"
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.1"
 msgid "Earthquake! I think?"
-msgstr ""
+msgstr "지진! 맞나?"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.2
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.2"
 msgid "What's that?!"
-msgstr ""
+msgstr "무엇이지?!"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.3
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_ANTLION_SINKHOLE.3"
@@ -86419,7 +86429,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BECOMEGHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BECOMEGHOST"
 msgid "ooOooooO!"
-msgstr ""
+msgstr "우우우!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BEES"
@@ -86799,6 +86809,51 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOAKED"
 msgid "I AM DRENCHED!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.1"
+msgid "Woe be to a soul-starved imp!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.2"
+msgid "I don't want to suck anymore souls!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.3
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_EMPTY.3"
+msgid "What gruesome things I must do to live!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.1"
+msgid "I'll need more souls soon."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_FEW.2"
+msgid "I feel the soul hunger stirring."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.1"
+msgid "I've enough souls to sustain me."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_MANY.2"
+msgid "I hope I was not too greedy."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.1"
+msgid "I can't handle that much soul power!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SOUL_OVERLOAD.2"
+msgid "That was one soul too many!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SPOOKED
@@ -87649,7 +87704,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_PIPE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_PIPE"
 msgid "Ptoo!"
-msgstr ""
+msgstr "퇫!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_SLEEP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_SLEEP"
@@ -87694,7 +87749,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.GENERIC"
 msgid "Found you!"
-msgstr ""
+msgstr "찾았는걸!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.INGROUND"
@@ -88053,17 +88108,22 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK1"
-msgid "It looks quite broke, and that's no joke!'"
+msgid "It looks quite broke, and that's no joke!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK2"
-msgid "It looks quite broke, and that's no joke!'"
+msgid "It looks quite broke, and that's no joke!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK3"
-msgid "It looks quite broke, and that's no joke!'"
+msgid "It looks quite broke, and that's no joke!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
+msgid "I'll say a prayer for this slain bear."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -88086,13 +88146,23 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYWARG"
 msgid "So scary, rendered still in stone."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS"
+msgid "That was such a fun day!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DRAGONFLY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DRAGONFLY"
+msgid "Bye bye, dear dragonfly."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "You've a much too competitive spirit, sir."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "What a funny use for a horn!"
 msgstr ""
 
@@ -88106,18 +88176,28 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE"
 msgid "Yes, yes, come play!"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1"
+msgid "We've established a stone goose truce."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.2"
+msgid "We've established a stone moose truce."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE"
 msgid "How whimsically elegant."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN"
 msgid "Would you like to play?"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE.GENERIC"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Bubble, bubble, no such trouble."
 msgstr ""
 
@@ -88229,7 +88309,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.E"
 msgid "East!"
-msgstr ""
+msgstr "동!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.GENERIC"
@@ -88239,37 +88319,37 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.N
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.N"
 msgid "North!"
-msgstr ""
+msgstr "북!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.NE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.NE"
 msgid "Northeast!"
-msgstr ""
+msgstr "북동!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.NW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.NW"
 msgid "Northwest!"
-msgstr ""
+msgstr "북서!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.S
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.S"
 msgid "South!"
-msgstr ""
+msgstr "남!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.SE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.SE"
 msgid "Southeast!"
-msgstr ""
+msgstr "남동!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.SW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.SW"
 msgid "Southwest!"
-msgstr ""
+msgstr "남서!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.W
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.W"
 msgid "West!"
-msgstr ""
+msgstr "서!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CONSTRUCTION_PLANS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CONSTRUCTION_PLANS"
@@ -89284,7 +89364,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.GENERIC"
 msgid "Found you!"
-msgstr ""
+msgstr "찾았는걸!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.INGROUND"
@@ -90094,7 +90174,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANDRAKE_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANDRAKE_COOKED"
 msgid "Oh, dear."
-msgstr ""
+msgstr "저런."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANDRAKE_PLANTED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANDRAKE_PLANTED"
@@ -90303,7 +90383,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAUR"
-msgid "Goodness gracious, aren't you fearsome.'"
+msgid "Goodness gracious, aren't you fearsome."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAURCHEST
@@ -92273,7 +92353,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED"
-msgid "Look! It's a rook!'"
+msgid "Look! It's a rook!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKNOSE
@@ -92673,7 +92753,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER"
-msgid "You're mind's not quite right, but neither is mine!"
+msgid "Your mind's not quite right, but neither is mine!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER_ATRIUM
@@ -94326,6 +94406,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.REVIVER"
 msgid "Hyuyu, I would have eaten that soul were I you."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL"
+msgid "Hyuyu! It looks tasty."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.ATTACKER"
 msgid "Hoohoo, I'll stop grinding your gears! Promise!"
@@ -94414,7 +94499,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE"
 msgid "Oh dear."
-msgstr ""
+msgstr "저런."
 
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_MEALBURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_MEALBURNT"
@@ -99649,7 +99734,7 @@ msgstr "무방비 식물 식품"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_FLOUR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_FLOUR"
 msgid "HA HA, THE WHEAT HAS BEEN CRUSHED"
-msgstr ""
+msgstr "하하, 밀이 분쇄되었음"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_FOLIAGE_COOKED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_FOLIAGE_COOKED"
@@ -100144,7 +100229,7 @@ msgstr "수면 모드임"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE"
 msgid "HA HA. THEIR HOUSES ARE TERRIBLE"
-msgstr ""
+msgstr "하하. 집이 나쁨"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE_RUBBLE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE_RUBBLE"
@@ -100549,7 +100634,7 @@ msgstr "본좌께서 그것을 심판을 할 것임"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLEHORN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLEHORN"
 msgid "HA HA, IT SHALL BE NAKED"
-msgstr ""
+msgstr "하하, 벌거숭이가 될 것임"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_BASIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_BASIC"
@@ -100559,7 +100644,7 @@ msgstr "자신감 상승 중"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_RACE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_RACE"
 msgid "DOZENS OF CREATURES WERE MAIMED FOR THIS. HA HA"
-msgstr ""
+msgstr "이것을 구하기 위해 수십 마리의 동물을 해쳤음. 하하"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_WAR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_WAR"
@@ -100679,7 +100764,7 @@ msgstr "그를 해방하라!!"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SCULPTURE_BISHOPBODY.UNCOVERED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SCULPTURE_BISHOPBODY.UNCOVERED"
 msgid "DETACHED HEADS UPSET THE FLESHLINGS. HA HA"
-msgstr ""
+msgstr "분리된 머리는 고깃덩이들을 놀라게 함. 하하"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SCULPTURE_BISHOPHEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SCULPTURE_BISHOPHEAD"
@@ -101614,7 +101699,7 @@ msgstr "본좌께서는 더 많은 소원을 원함"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_35
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_35"
 msgid "THE CONTENTS PROBABLY KILLED A HUMAN. HA HA"
-msgstr ""
+msgstr "내용물이 아마 인간을 죽였음. 하하"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_36
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_36"
@@ -102074,7 +102159,7 @@ msgstr "즙 많은 구의 소스 코드임"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.ATTACKER"
 msgid "%s LIKES TO BEAT UP ORGANICS. HA HA"
-msgstr ""
+msgstr "%s은(는) 유기체를 구타하는 것을 좋아함. 하하."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.FIRESTARTER"
@@ -102314,7 +102399,7 @@ msgstr "탐지... %s!"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.GHOST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.GHOST"
 msgid "HA HA, %s. YOU DIED."
-msgstr ""
+msgstr "하하, %s. 사망했음."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.MURDERER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.MURDERER"
@@ -102364,7 +102449,7 @@ msgstr "%s은(는) 분해 작업자임"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA.FIRESTARTER"
 msgid "HA HA. THIS ORGANIC HAS BEEN BURNING THINGS"
-msgstr ""
+msgstr "하하. 이 유기체가 불태우고 있음"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA.GENERIC"
@@ -102629,7 +102714,7 @@ msgstr "너는 본좌를 싸울 실력이 없음, %s"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVER"
 msgid "%s. YOU GOT SLIGHTLY LESS INFERIOR"
-msgstr ""
+msgstr "%s! 덜 저열함"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVERGHOST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVERGHOST"
@@ -102719,7 +102804,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WORTOX.GENERIC"
 msgid "DETECTING... %s!"
-msgstr ""
+msgstr "탐지... %s!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WORTOX.GHOST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WORTOX.GHOST"
@@ -112009,6 +112094,11 @@ msgstr "알쏭달쏭한 풀"
 #. STRINGS.NAMES.WORTOX
 msgctxt "STRINGS.NAMES.WORTOX"
 msgid "Wortox"
+msgstr ""
+
+#. STRINGS.NAMES.WORTOX_SOUL
+msgctxt "STRINGS.NAMES.WORTOX_SOUL"
+msgid "Soul"
 msgstr ""
 
 #. STRINGS.NAMES.WX78
@@ -126919,7 +127009,7 @@ msgstr "푸릇푸릇"
 #. STRINGS.SKIN_NAMES.wathgrithr_none
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_none"
 msgid "Wigfrid"
-msgstr ""
+msgstr "위그프리드"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_rose
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_rose"
@@ -126994,7 +127084,7 @@ msgstr "푸릇푸릇"
 #. STRINGS.SKIN_NAMES.waxwell_none
 msgctxt "STRINGS.SKIN_NAMES.waxwell_none"
 msgid "Maxwell"
-msgstr ""
+msgstr "맥스웰"
 
 #. STRINGS.SKIN_NAMES.waxwell_rose
 msgctxt "STRINGS.SKIN_NAMES.waxwell_rose"
@@ -127059,7 +127149,7 @@ msgstr "마그마질"
 #. STRINGS.SKIN_NAMES.webber_none
 msgctxt "STRINGS.SKIN_NAMES.webber_none"
 msgid "Webber"
-msgstr ""
+msgstr "웨버"
 
 #. STRINGS.SKIN_NAMES.webber_punk
 msgctxt "STRINGS.SKIN_NAMES.webber_punk"
@@ -127134,7 +127224,7 @@ msgstr "마그마질"
 #. STRINGS.SKIN_NAMES.wendy_none
 msgctxt "STRINGS.SKIN_NAMES.wendy_none"
 msgid "Wendy"
-msgstr ""
+msgstr "웬디"
 
 #. STRINGS.SKIN_NAMES.wendy_rose
 msgctxt "STRINGS.SKIN_NAMES.wendy_rose"
@@ -127204,7 +127294,7 @@ msgstr "푸릇푸릇"
 #. STRINGS.SKIN_NAMES.wes_none
 msgctxt "STRINGS.SKIN_NAMES.wes_none"
 msgid "Wes"
-msgstr ""
+msgstr "웨스"
 
 #. STRINGS.SKIN_NAMES.wes_rose
 msgctxt "STRINGS.SKIN_NAMES.wes_rose"
@@ -127274,7 +127364,7 @@ msgstr "마그마질"
 #. STRINGS.SKIN_NAMES.wickerbottom_none
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_none"
 msgid "Wickerbottom"
-msgstr ""
+msgstr "위커보텀"
 
 #. STRINGS.SKIN_NAMES.wickerbottom_rose
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_rose"
@@ -127344,7 +127434,7 @@ msgstr "마그마질"
 #. STRINGS.SKIN_NAMES.willow_none
 msgctxt "STRINGS.SKIN_NAMES.willow_none"
 msgid "Willow"
-msgstr ""
+msgstr "윌로우"
 
 #. STRINGS.SKIN_NAMES.willow_rose
 msgctxt "STRINGS.SKIN_NAMES.willow_rose"
@@ -127404,7 +127494,7 @@ msgstr "마그마질"
 #. STRINGS.SKIN_NAMES.wilson_none
 msgctxt "STRINGS.SKIN_NAMES.wilson_none"
 msgid "Wilson"
-msgstr ""
+msgstr "윌슨"
 
 #. STRINGS.SKIN_NAMES.wilson_pigguard
 msgctxt "STRINGS.SKIN_NAMES.wilson_pigguard"
@@ -127489,7 +127579,7 @@ msgstr "푸릇푸릇"
 #. STRINGS.SKIN_NAMES.winona_none
 msgctxt "STRINGS.SKIN_NAMES.winona_none"
 msgid "Winona"
-msgstr ""
+msgstr "위노나"
 
 #. STRINGS.SKIN_NAMES.winona_rose
 msgctxt "STRINGS.SKIN_NAMES.winona_rose"
@@ -127594,7 +127684,7 @@ msgstr "마그마질"
 #. STRINGS.SKIN_NAMES.wolfgang_none
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_none"
 msgid "Wolfgang"
-msgstr ""
+msgstr "볼프강"
 
 #. STRINGS.SKIN_NAMES.wolfgang_rose
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_rose"
@@ -127664,7 +127754,7 @@ msgstr "푸릇푸릇"
 #. STRINGS.SKIN_NAMES.woodie_none
 msgctxt "STRINGS.SKIN_NAMES.woodie_none"
 msgid "Woodie"
-msgstr ""
+msgstr "우디"
 
 #. STRINGS.SKIN_NAMES.woodie_rose
 msgctxt "STRINGS.SKIN_NAMES.woodie_rose"
@@ -127714,7 +127804,7 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wortox_survivor
 msgctxt "STRINGS.SKIN_NAMES.wortox_survivor"
 msgid "The Survivor"
-msgstr ""
+msgstr "생존자"
 
 #. STRINGS.SKIN_NAMES.wx78_combatant
 msgctxt "STRINGS.SKIN_NAMES.wx78_combatant"
@@ -127749,7 +127839,7 @@ msgstr "푸릇푸릇"
 #. STRINGS.SKIN_NAMES.wx78_none
 msgctxt "STRINGS.SKIN_NAMES.wx78_none"
 msgid "WX-78"
-msgstr ""
+msgstr "WX-78"
 
 #. STRINGS.SKIN_NAMES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.wx78_rhinorook"
@@ -131333,18 +131423,23 @@ msgstr "풀기"
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY"
-msgid "Use {doodad_value} Spools to weave this special event item."
-msgstr "{doodad_value} 실감개를 사용하여이 특별 이벤트 아이템을 직조합니다."
+msgid "Use {doodad_value} Spools to weave this curio."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND"
-msgid "This item can be unraveled into {doodad_value} Spools."
-msgstr "이 아이템은 {doodad_value} 실감개로 풀 수 있습니다."
+msgid "This curio can be unraveled into {doodad_value} Spools."
+msgstr ""
 
-#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY
-msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY"
-msgid "Only special event items from an active event can be woven from Spools."
-msgstr "활성 이벤트의 특별 이벤트 아이템만 실감개로 묶을 수 있습니다."
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
+msgid "This curio is not weaveable."
+msgstr ""
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE"
+msgid "This curio is not currently weaveable."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED"
@@ -131353,18 +131448,18 @@ msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND"
-msgid "This item cannot be unraveled."
-msgstr "이 아이템은 풀 수 없습니다."
+msgid "This curio cannot be unraveled."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT"
-msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave limited-time event items."
-msgstr "{doodad_count} 실감개를 사용하여 {item_name}을(를) 직조할까요?\n\n{doodad_net} 실감개가 남게 됩니다.\n실감개는 시간 한 정 이벤트 아이템을 직조하는 데 사용됩니다."
+msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
-msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave limited-time event items."
-msgstr "이 {item_name}을(를) {doodad_count} 실감개로 풀까요?\n\n실감개가 총 {doodad_net}개가 됩니다.\n실감개는 한정 기간 이벤트 아이템을 직조하는 데 사용됩니다."
+msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.FAILED_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.FAILED_BODY"
@@ -131383,8 +131478,8 @@ msgstr "{item_name}을(를) 직조하려면 실감개가 {doodad_count}개가 �
 
 #. STRINGS.UI.BARTERSCREEN.NO_MARKET
 msgctxt "STRINGS.UI.BARTERSCREEN.NO_MARKET"
-msgid "This item cannot be traded or sold."
-msgstr "이 아이템은 거래하거나 판매할 수 없습니다."
+msgid "This curio cannot be traded or sold."
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.OK
 msgctxt "STRINGS.UI.BARTERSCREEN.OK"
@@ -131393,8 +131488,8 @@ msgstr "확인"
 
 #. STRINGS.UI.BARTERSCREEN.TITLE
 msgctxt "STRINGS.UI.BARTERSCREEN.TITLE"
-msgid "The Event Loom"
-msgstr "이벤트 베틀"
+msgid "The Curio Loom"
+msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
@@ -137306,10 +137401,25 @@ msgctxt "STRINGS.UI.MAINSCREEN.DST_UPDATENAME"
 msgid "Release"
 msgstr "릴리스"
 
+#. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
+msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR"
+msgid "Clear Dynamic Content"
+msgstr ""
+
 #. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC"
 msgid "Due to an error, dynamic content loading has been disabled."
 msgstr "오류 때문에 동적 콘텐츠 불러오기가 꺼졌습니다."
+
+#. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DISABLE
+msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DISABLE"
+msgid "Disable Dynamic Content"
+msgstr ""
+
+#. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_ENABLE
+msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_ENABLE"
+msgid "Enable Dynamic Content"
+msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK
 msgctxt "STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK"
@@ -139111,6 +139221,11 @@ msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_BANNED"
 msgid "Your account has been banned for violating the terms of use."
 msgstr "이용약관을 위반하여 귀하의 계정이 차단되었습니다."
 
+#. STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED"
+msgid "Your account has been marked for deletion and cannot be used anymore."
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.E_UPGRADE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_UPGRADE"
 msgid "A new version is available.\nPlease update Don't Starve Together."
@@ -139400,6 +139515,11 @@ msgstr "연결 끊어짐"
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.E_BANNED"
 msgid "Account Banned"
 msgstr "계정 차단됨"
+
+#. STRINGS.UI.NETWORKDISCONNECT.TITLE.E_DELETED
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.E_DELETED"
+msgid "Account Deleted"
+msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.E_UPGRADE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.E_UPGRADE"
@@ -140526,10 +140646,35 @@ msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT"
 msgid "Time played with: {time}"
 msgstr "게임한 시간: {time}"
 
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY"
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO"
+msgid "No"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE"
+msgid "Item Collection Download Failed"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
+msgid "Yes"
+msgstr "예"
+
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
 msgid "History of Travels"
 msgstr "이동의 기록"
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.GET_INVENTORY"
+msgid "Downloading Item Collection"
+msgstr ""
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT"
@@ -140801,11 +140946,6 @@ msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC"
 msgid "Includes {total_sets} skin sets! {total_items} total skin items!"
 msgstr "{total_sets} 스킨 세트를 포함합니다! 총 {total_items}개의 스킨 아이템!"
 
-#. STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE
-msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE"
-msgid "Sorry!\nThe Klei store is closed.\nCheck back during the next event."
-msgstr "죄송합니다!\nKlei 스토어가 지금 닫혀 있습니다.\n다음 이벤트에서 다시 시도해 주세요."
-
 #. STRINGS.UI.PURCHASEPACKSCREEN.OK
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.OK"
 msgid "OK"
@@ -140971,11 +141111,6 @@ msgctxt "STRINGS.UI.RARITY.CharacterModifier"
 msgid ""
 msgstr ""
 
-#. STRINGS.UI.RARITY.Classic
-msgctxt "STRINGS.UI.RARITY.Classic"
-msgid "Classic - "
-msgstr "클래식 - "
-
 #. STRINGS.UI.RARITY.Classy
 msgctxt "STRINGS.UI.RARITY.Classy"
 msgid "Classy"
@@ -141000,11 +141135,6 @@ msgstr "품위 있는"
 msgctxt "STRINGS.UI.RARITY.Event"
 msgid "Event (Limited-Time Use)"
 msgstr "이벤트 (제한 시간 사용)"
-
-#. STRINGS.UI.RARITY.EventModifier
-msgctxt "STRINGS.UI.RARITY.EventModifier"
-msgid "Event - "
-msgstr "이벤트 - "
 
 #. STRINGS.UI.RARITY.HeirloomClassy
 msgctxt "STRINGS.UI.RARITY.HeirloomClassy"
@@ -141046,11 +141176,6 @@ msgctxt "STRINGS.UI.RARITY.Reward"
 msgid "Reward"
 msgstr "보상"
 
-#. STRINGS.UI.RARITY.Seasonal
-msgctxt "STRINGS.UI.RARITY.Seasonal"
-msgid "Seasonal - "
-msgstr "계절 - "
-
 #. STRINGS.UI.RARITY.Spiffy
 msgctxt "STRINGS.UI.RARITY.Spiffy"
 msgid "Spiffy"
@@ -141060,6 +141185,11 @@ msgstr "단정한"
 msgctxt "STRINGS.UI.RARITY.Timeless"
 msgid "Timeless"
 msgstr "유행 타지 않는"
+
+#. STRINGS.UI.RARITY.Woven
+msgctxt "STRINGS.UI.RARITY.Woven"
+msgid "Woven - "
+msgstr ""
 
 #. STRINGS.UI.RECIPE_BOOK.CRAVINGS.BREAD
 msgctxt "STRINGS.UI.RECIPE_BOOK.CRAVINGS.BREAD"
@@ -141961,6 +142091,11 @@ msgctxt "STRINGS.UI.SERVERADMINSCREEN.DAY"
 msgid "Day"
 msgstr "일"
 
+#. STRINGS.UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgctxt "STRINGS.UI.SERVERADMINSCREEN.DAY_UNKNOWN"
+msgid "Unknown Day"
+msgstr ""
+
 #. STRINGS.UI.SERVERADMINSCREEN.DAY_V2
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.DAY_V2"
 msgid "Day {day_count}"
@@ -141990,6 +142125,16 @@ msgstr "비었음"
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.EMPTY_SLOT_TITLE"
 msgid "Empty Slot"
 msgstr "빈 슬롯"
+
+#. STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY
+msgctxt "STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY"
+msgid "Restore Day {day_count}"
+msgstr ""
+
+#. STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgctxt "STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN"
+msgid "Restore Unknown Day"
+msgstr ""
 
 #. STRINGS.UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.LOSE_CHANGES_BODY"
@@ -142475,6 +142620,16 @@ msgstr "일"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_NEW"
 msgid "A Whole New World"
 msgstr "아주 새로운 세계"
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2"
+msgid "{season} Day {day_count}"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_V2
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_V2"
+msgid "Day {day_count}"
+msgstr "{day_count}일"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDESC
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDESC"
@@ -143611,6 +143766,16 @@ msgctxt "STRINGS.UI.STARTADVENTURE.YES"
 msgid "Let's Go!"
 msgstr "시작!"
 
+#. STRINGS.UI.STATSPANEL.MOTD_BODY
+msgctxt "STRINGS.UI.STATSPANEL.MOTD_BODY"
+msgid "Character and item skin sets now available for purchase!"
+msgstr ""
+
+#. STRINGS.UI.STATSPANEL.MOTD_TITLE
+msgctxt "STRINGS.UI.STATSPANEL.MOTD_TITLE"
+msgid "Now Available!"
+msgstr ""
+
 #. STRINGS.UI.TELEPORTBODY_ADVENTURE
 msgctxt "STRINGS.UI.TELEPORTBODY_ADVENTURE"
 msgid "This will REMOVE ALL YOUR ITEMS and destroy your current world. Only items placed in the machine will appear in the next world."
@@ -144301,6 +144466,11 @@ msgctxt "STRINGS.UI.WARDROBESCREEN.RESET"
 msgid "Undo Changes"
 msgstr "변경 취소"
 
+#. STRINGS.UI.WARDROBESCREEN.SORT_COUNT
+msgctxt "STRINGS.UI.WARDROBESCREEN.SORT_COUNT"
+msgid "Owned Count"
+msgstr ""
+
 #. STRINGS.UI.WARDROBESCREEN.SORT_MODE_FMT
 msgctxt "STRINGS.UI.WARDROBESCREEN.SORT_MODE_FMT"
 msgid "Sort Mode: {mode}"
@@ -144449,52 +144619,52 @@ msgstr "애수..."
 #. STRINGS.UI.WORLDGEN.NOUNS.20
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.20"
 msgid "a monarch's sorrow..."
-msgstr ""
+msgstr "군주의 슬픔..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.21
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.21"
 msgid "an inescapable nostalgia..."
-msgstr ""
+msgstr "피할 수 없는 향수..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.22
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.22"
 msgid "gold and marble..."
-msgstr ""
+msgstr "금과 대리석..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.23
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.23"
 msgid "thorns..."
-msgstr ""
+msgstr "가시..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.24
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.24"
 msgid "unbreakable bonds..."
-msgstr ""
+msgstr "끊을 수 없는 고리..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.25
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.25"
 msgid "intense friendship..."
-msgstr ""
+msgstr "강렬한 우정..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.26
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.26"
 msgid "common goals..."
-msgstr ""
+msgstr "공동의 목표..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.27
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.27"
 msgid "a comforting togetherness..."
-msgstr ""
+msgstr "안락한 연대감..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.28
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.28"
 msgid "buckets and buckets of loot..."
-msgstr ""
+msgstr "산더미 같은 노획물..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.29
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.29"
 msgid "game theory..."
-msgstr ""
+msgstr "게임 이론..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.3
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.3"
@@ -144504,27 +144674,27 @@ msgstr "솔방울..."
 #. STRINGS.UI.WORLDGEN.NOUNS.30
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.30"
 msgid "poignant tragedy..."
-msgstr ""
+msgstr "사무치는 비극..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.31
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.31"
 msgid "a hint of shadow..."
-msgstr ""
+msgstr "그림자의 흔적..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.32
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.32"
 msgid "food..."
-msgstr ""
+msgstr "음식..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.33
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.33"
 msgid "lovely roses..."
-msgstr ""
+msgstr "사랑스러운 장미..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.34
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.34"
 msgid "gems..."
-msgstr ""
+msgstr "보석..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.35
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.35"
@@ -144534,22 +144704,22 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.NOUNS.36
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.36"
 msgid "unspeakable things..."
-msgstr ""
+msgstr "말할 수 없는 것..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.37
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.37"
 msgid "primal instincts..."
-msgstr ""
+msgstr "원시 본능..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.38
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.38"
 msgid "terrible darkness..."
-msgstr ""
+msgstr "끔찍한 어둠..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.39
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.39"
 msgid "a touch of magic..."
-msgstr ""
+msgstr "마법의 손길..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.4
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.4"
