@@ -5,15 +5,15 @@ local function CreateLight()
     inst:AddTag("playerlight")
     --[[Non-networked entity]]
     inst.entity:SetCanSleep(false)
-    inst.persists = false
+    inst.perists = false
 
     inst.entity:AddTransform()
     inst.entity:AddLight()
 
     inst.Light:SetIntensity(.75)
-    inst.Light:SetColour(197 / 255, 197 / 255, 50 / 255)
+    inst.Light:SetColour(200 / 255, 150 / 255, 50 / 255)
     inst.Light:SetFalloff(.5)
-    inst.Light:SetRadius(2)
+    inst.Light:SetRadius(1)
 
     return inst
 end
@@ -33,10 +33,10 @@ local function OnRemoveEntity(inst)
     inst._light:Remove()
 end
 
-local function MakeTorchFire(name, customassets, customprefabs, common_postinit, master_postinit)
+local function MakeLighterFire(name, customassets, customprefabs, common_postinit, master_postinit)
     local assets =
     {
-        Asset("SCRIPT", "scripts/prefabs/torchfire_common.lua"),
+        Asset("SCRIPT", "scripts/prefabs/lighterfire_common.lua"),
     }
 
     if customassets ~= nil then
@@ -54,7 +54,7 @@ local function MakeTorchFire(name, customassets, customprefabs, common_postinit,
 
         inst:AddTag("FX")
 
-        inst.SoundEmitter:PlaySound("dontstarve/wilson/torch_LP", "torch")
+        inst.SoundEmitter:PlaySound("dontstarve/wilson/lighter_LP", "torch")
         inst.SoundEmitter:SetParameter("torch", "intensity", 1)
 
         inst._light = CreateLight()
@@ -87,4 +87,4 @@ local function MakeTorchFire(name, customassets, customprefabs, common_postinit,
     return Prefab(name, fn, assets, customprefabs)
 end
 
-return MakeTorchFire
+return MakeLighterFire
