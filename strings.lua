@@ -314,6 +314,7 @@ STRINGS =
             FENCE = "Build Fence",
             GATE = "Build Gate",
             TURRET = "Place",
+            WATER = "Launch"
         },
         DEPLOY =
         {
@@ -2473,6 +2474,7 @@ STRINGS =
         BOAT_ITEM = "Let the seas be your domain.",
         MAST_ITEM = "Sail away, sail away.",
         OAR = "Row, row, row your boat.",
+        OAR_DRIFTWOOD = "Oarn't you glad I didn't say banana?",
         BOATPATCH = "It's never too late to patch things up.",
 	},
 

@@ -76,6 +76,9 @@ local states =
 
         timeline =
         {
+            TimeEvent(5*FRAMES, function(inst)
+                inst.SoundEmitter:PlaySound(inst.sounds.submerge)
+            end),
             TimeEvent(30*FRAMES, function(inst)
                 inst.DynamicShadow:Enable(false)
             end),
@@ -119,6 +122,7 @@ local states =
 
         onenter = function(inst)
             inst.Physics:SetActive(false)
+            inst.SoundEmitter:PlaySound(inst.sounds.emerge)
             inst.AnimState:PlayAnimation("emerge_fast")
 
             inst.sg.mem.emerge_time = GetTime()
@@ -166,6 +170,13 @@ local states =
             end),
         },
 
+        timeline =
+        {
+            TimeEvent(3*FRAMES, function(inst)
+                inst.SoundEmitter:PlaySound(inst.sounds.eat)
+            end)
+        },
+
         onexit = function(inst)
             inst.Physics:SetActive(true)
         end,
@@ -174,16 +185,19 @@ local states =
     State {
         name = "stunned",
         tags = { "busy", "stunned" },
-        
-        onenter = function(inst)
+
+        onenter = function(inst, dont_play_sound)
             inst.Physics:Stop()
+            if not dont_play_sound then
+                inst.SoundEmitter:PlaySound(inst.sounds.stunned)
+            end
             inst.AnimState:PlayAnimation("stunned_loop", true)
             inst.sg:SetTimeout(GetRandomWithVariance(6, 2))
             if inst.components.inventoryitem then
                 inst.components.inventoryitem.canbepickedup = true
             end
         end,
-        
+
         onexit = function(inst)
             if inst.components.inventoryitem then
                 inst.components.inventoryitem.canbepickedup = false
@@ -216,6 +230,7 @@ local states =
         tags = { "busy", "stunned" },
 
         onenter = function(inst)
+            inst.SoundEmitter:PlaySound(inst.sounds.stunned)
             inst.AnimState:PlayAnimation("stunned_pre")
         end,
 
@@ -223,7 +238,7 @@ local states =
         {
             EventHandler("animover", function(inst)
                 if inst.AnimState:AnimDone() then
-                    inst.sg:GoToState("stunned")
+                    inst.sg:GoToState("stunned", true)
                 end
             end),
         },
@@ -236,12 +251,18 @@ local states =
         },
     },
 }
-CommonStates.AddSleepStates(states)
+CommonStates.AddSleepStates(states,
+{
+    sleeptimeline =
+    {
+        TimeEvent(30 * FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.sleep) end),
+    },
+})
 CommonStates.AddFrozenStates(states)
 CommonStates.AddHitState(states)
 CommonStates.AddDeathState(states,
 {
-    TimeEvent(0, play_carrat_scream),
+    TimeEvent(0, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.death) end),
 })
 CommonStates.AddWalkStates(states)
 CommonStates.AddRunStates(states,
@@ -250,9 +271,17 @@ CommonStates.AddRunStates(states,
     {
         TimeEvent(0, function(inst)
             if (inst.components.inventoryitem == nil or inst.components.inventoryitem.owner == nil) then
-                play_carrat_scream(inst)
+                inst.SoundEmitter:PlaySound(inst.sounds.stunned)
             end
         end),
+    },
+    runtimeline =
+    {
+        TimeEvent(0, PlayFootstep),
+    },
+    endtimeline =
+    {
+        TimeEvent(0, PlayFootstep),
     },
 })
 

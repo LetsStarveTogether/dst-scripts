@@ -59,6 +59,7 @@ local sounds =
     sleep = "dontstarve/creatures/hound/sleep",
     growl = "dontstarve/creatures/hound/growl",
     howl = "dontstarve/creatures/together/clayhound/howl",
+    hurt = "dontstarve/creatures/hound/hurt",
 }
 
 local sounds_clay =
@@ -71,6 +72,21 @@ local sounds_clay =
     sleep = "dontstarve/creatures/together/clayhound/sleep",
     growl = "dontstarve/creatures/together/clayhound/growl",
     howl = "dontstarve/creatures/together/clayhound/howl",
+    hurt = "dontstarve/creatures/hound/hurt",
+}
+
+local sounds_mutated =
+{
+    pant = "turnoftides/creatures/together/mutated_hound/pant",
+    attack = "turnoftides/creatures/together/mutated_hound/attack",
+    bite = "turnoftides/creatures/together/mutated_hound/bite",
+    bark = "turnoftides/creatures/together/mutated_hound/bark",
+    --barkbark = "turnoftides/creatures/together/mutated_hound/barkbark", TODO @stevenm is this a thing???
+    death = "turnoftides/creatures/together/mutated_hound/death",
+    sleep = "dontstarve/creatures/hound/sleep",
+    growl = "turnoftides/creatures/together/mutated_hound/growl",
+    howl = "dontstarve/creatures/together/clayhound/howl",
+    hurt = "turnoftides/creatures/together/mutated_hound/hurt",
 }
 
 SetSharedLootTable('hound',
@@ -413,7 +429,7 @@ local function fncommon(bank, build, morphlist, custombrain, tag, data)
 
 	inst._CanMutateFromCorpse = data.canmutatefn
 
-    inst.sounds = tag == "clay" and sounds_clay or sounds
+    inst.sounds = (tag == "clay" and sounds_clay) or (build == "hound_mutated" and sounds_mutated) or sounds
 
     inst:AddComponent("locomotor") -- locomotor must be constructed before the stategraph
     inst.components.locomotor.runspeed = tag == "clay" and TUNING.CLAYHOUND_SPEED or TUNING.HOUND_SPEED
@@ -446,7 +462,7 @@ local function fncommon(bank, build, morphlist, custombrain, tag, data)
     inst.components.combat:SetAttackPeriod(TUNING.HOUND_ATTACK_PERIOD)
     inst.components.combat:SetRetargetFunction(3, retargetfn)
     inst.components.combat:SetKeepTargetFunction(KeepTarget)
-    inst.components.combat:SetHurtSound("dontstarve/creatures/hound/hurt")
+    inst.components.combat:SetHurtSound(inst.sounds.hurt)
 
     inst:AddComponent("lootdropper")
     inst.components.lootdropper:SetChanceLootTable('hound')

@@ -1,3 +1,4 @@
+local STEERING_WHEEL_OFFSET = -0.1
 local TIMEOUT = 2
 
 local function DoEquipmentFoleySounds(inst)
@@ -313,7 +314,7 @@ local actionhandlers =
     ActionHandler(ACTIONS.LOWER_SAIL, "dolongaction"),    
     ActionHandler(ACTIONS.RAISE_ANCHOR, "dolongaction"),
     ActionHandler(ACTIONS.LOWER_ANCHOR, "dolongaction"),
-    ActionHandler(ACTIONS.STEER_BOAT, "steer_boat_idle"),
+    ActionHandler(ACTIONS.STEER_BOAT, "steer_boat_idle_pre"),
     ActionHandler(ACTIONS.REPAIR_LEAK, "dolongaction"),
     ActionHandler(ACTIONS.SET_HEADING, function(inst, action) inst:PerformPreviewBufferedAction() end),
     ActionHandler(ACTIONS.CAST_NET, "doshortaction"),    
@@ -1757,7 +1758,7 @@ local states =
     },
 
     State{
-        name = "steer_boat_idle",
+        name = "steer_boat_idle_pre",
         tags = { "is_using_steering_wheel", "doing" },
 
         onenter = function(inst, snap)
@@ -1766,7 +1767,9 @@ local states =
             inst:PerformPreviewBufferedAction()
 
             inst.sg:SetTimeout(TIMEOUT)
-        end,
+
+            inst.AnimState:SetSortWorldOffset(0, STEERING_WHEEL_OFFSET, 0) 
+        end,      
 
         onupdate = function(inst)
             if inst:HasTag("doing") then

@@ -1,7 +1,7 @@
 require "consolecommands"
 
 local function DebugKeyPlayer()
-    return ConsoleCommandPlayer()
+    return (TheWorld.ismastersim and ConsoleCommandPlayer()) or nil
 end
 
 ----this gets called by the frontend code if a rawkey event has not been consumed by the current screen
@@ -287,15 +287,17 @@ AddGameDebugKey(KEY_F12, function()
         table.insert(positions, Vector3(math.sin(a)*b, 0, math.cos(a)*b))
     end
 
-    local pos = DebugKeyPlayer():GetPosition()
-    local delay = 0
-    for i = 1, #positions do
-        local sp = pos + (positions[i] * 1.2)
-        DebugKeyPlayer():DoTaskInTime(delay, function() 
-            local prefab = SpawnPrefab("carrot_planted")
-            prefab.Transform:SetPosition(sp:Get())
-        end)
-        --delay = delay + 0.03
+    if DebugKeyPlayer() then
+        local pos = DebugKeyPlayer():GetPosition()
+        local delay = 0
+        for i = 1, #positions do
+            local sp = pos + (positions[i] * 1.2)
+            DebugKeyPlayer():DoTaskInTime(delay, function() 
+                local prefab = SpawnPrefab("carrot_planted")
+                prefab.Transform:SetPosition(sp:Get())
+            end)
+            --delay = delay + 0.03
+        end
     end
 end)
 
@@ -397,6 +399,9 @@ AddGameDebugKey(KEY_F8, function()
     --Spawns a lot of prefabs around you in rings.
     local items = {"flower"} --Which items spawn. 
     local player = DebugKeyPlayer()
+    if player == nil then
+        return true
+    end
     local pt = Vector3(player.Transform:GetWorldPosition())
     local theta = math.random() * 2 * PI
     local numrings = 10 --How many rings of stuff you spawn
@@ -911,7 +916,7 @@ end)
 AddGameDebugKey(KEY_A, function()
     if TheInput:IsKeyDown(KEY_CTRL) then
         local MainCharacter = DebugKeyPlayer()
-        if MainCharacter.components.builder ~= nil then
+        if MainCharacter ~= nil and MainCharacter.components.builder ~= nil then
             MainCharacter.components.builder:GiveAllRecipes()
             MainCharacter:PushEvent("techlevelchange")
         end
@@ -927,7 +932,7 @@ AddGameDebugKey(KEY_KP_MULTIPLY, function()
 end)
 
 AddGameDebugKey(KEY_KP_DIVIDE, function()
-    if TheInput:IsDebugToggleEnabled() then
+    if TheInput:IsDebugToggleEnabled() and DebugKeyPlayer() ~= nil then
         DebugKeyPlayer().components.inventory:DropEverything(false, true)
         return true
     end

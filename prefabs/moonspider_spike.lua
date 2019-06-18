@@ -71,7 +71,7 @@ local function KillSpike(inst)
 
 			inst.AnimState:PlayAnimation("spike_pst")
 			DoAttack(inst)
-
+            inst.SoundEmitter:PlaySound("turnoftides/creatures/together/spider_moon/break")
 			inst:DoTaskInTime(inst.AnimState:GetCurrentAnimationLength() + 2 * FRAMES, inst.Remove)
 		end
 	end
@@ -81,8 +81,8 @@ local function StartAttack(inst)
 	inst.attack_task = nil
 
     inst.AnimState:PlayAnimation("spike_pre")
+    inst.SoundEmitter:PlaySoundWithParams("turnoftides/creatures/together/spider_moon/spike", {intensity= math.random()})
     inst.AnimState:PushAnimation("spike_loop")
-    inst.SoundEmitter:PlaySound("dontstarve/creatures/together/stalker/fossil_spike")
 
     inst.lifespan_task = inst:DoTaskInTime(2 + math.random() * 0.5, KillSpike)
 

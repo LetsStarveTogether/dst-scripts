@@ -978,6 +978,11 @@ msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
 msgid "Build Wall"
 msgstr ""
 
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WATER
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WATER"
+msgid "Launch"
+msgstr ""
+
 #. STRINGS.ACTIONS.TOSS
 msgctxt "STRINGS.ACTIONS.TOSS"
 msgid "Toss"
@@ -34330,7 +34335,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATED_PENGUIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATED_PENGUIN.GENERIC"
-msgid "It's even more monstrous that us!"
+msgid "It's even more monstrous than us!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATED_PENGUIN.SLEEPING
@@ -132876,6 +132881,11 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.OAR
 msgctxt "STRINGS.RECIPE_DESC.OAR"
 msgid "Row, row, row your boat."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.OAR_DRIFTWOOD
+msgctxt "STRINGS.RECIPE_DESC.OAR_DRIFTWOOD"
+msgid "Oarn't you glad I didn't say banana?"
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.ONEMANBAND

@@ -33,6 +33,10 @@ nil,
     is_anchor_lowered = on_is_anchor_lowered,
 })
 
+function Anchor:GetDrag()
+    return (self.inst:HasTag("burnt") and 0) or self.drag
+end
+
 function Anchor:OnSave()
     local data =
     {
@@ -42,26 +46,21 @@ function Anchor:OnSave()
     return data
 end
 
-function Anchor:GetDrag()
-	if self.inst:HasTag("burnt") then
-		return 0
-	else
-		return self.drag
-	end
-end
-
 function Anchor:OnLoad(data)
     if data ~= nil then
     	if data.is_anchor_lowered then
 			self.inst:DoTaskInTime(0,
-				function()
-					if self:GetBoat() ~= nil then
-						self.inst.sg:GoToState("lowered")
-					else
-						self.inst.sg:GoToState("lowered_land")
-					end    							
+				function(i)
+                    -- If our prefab loaded burnt, it removed its anchor component,
+                    -- so we should not try to go to any anchor stategraph states.
+                    if not i:HasTag("burnt") then
+					    if self:GetBoat() ~= nil then
+						    i.sg:GoToState("lowered")
+					    else
+						    i.sg:GoToState("lowered_land")
+					    end
+                    end
 				end)
-
     	end
     end
 end
@@ -86,11 +85,21 @@ function Anchor:SetIsAnchorLowered(is_lowered)
 end
 
 function Anchor:StartRaisingAnchor()
-	self.inst:PushEvent("raising_anchor")
+    if self.inst:HasTag("burnt") or self.inst:HasTag("anchor_raised") then
+        return false
+    else
+	    self.inst:PushEvent("raising_anchor")
+        return true
+    end
 end
 
 function Anchor:StartLoweringAnchor()
-	self.inst:PushEvent("lowering_anchor")
+    if self.inst:HasTag("burnt") or self.inst:HasTag("anchor_lowered") then
+        return false
+    else
+	    self.inst:PushEvent("lowering_anchor")
+        return true
+    end
 end
 
 return Anchor

@@ -22,6 +22,7 @@ function Map:RegisterGroundTargetBlocker(radius)
 end
 
 local WALKABLE_PLATFORM_TAGS = {"walkableplatform"}
+local MAST_TAGS = {"mast"}
 
 function Map:IsPassableAtPoint(x, y, z, allow_water, exclude_boats)
     return self:IsPassableAtPointWithPlatformRadiusBias(x, y, z, allow_water, exclude_boats, 0)
@@ -87,7 +88,7 @@ function Map:CanPlantAtPoint(x, y, z)
         not GROUND_FLOORING[tile]
 end
 
-local DEPLOY_IGNORE_TAGS = { "NOBLOCK", "player", "FX", "INLIMBO", "DECOR" }
+local DEPLOY_IGNORE_TAGS = { "NOBLOCK", "player", "FX", "INLIMBO", "DECOR", "WALKABLEPLATFORM" }
 
 function Map:IsPointNearHole(pt, range)
     range = range or .5
@@ -123,7 +124,6 @@ function Map:IsDeployPointClear(pt, inst, min_spacing, min_spacing_sq_fn, near_o
         if v ~= inst and            
             v.entity:IsVisible() and
             v.components.placer == nil and
-            not v:HasTag("walkableplatform") and
             v.entity:GetParent() == nil and
             near_other_fn(v, pt, min_spacing_sq_fn ~= nil and min_spacing_sq_fn(v) or min_spacing_sq) then
             return false
@@ -163,7 +163,7 @@ function Map:CanDeployBoatAtPoint(pt, inst, mouseover)
     local min_distance_from_boat = 0.5
 
     local tile = self:GetTileAtPoint(pt.x, pt.y, pt.z)
-    if tile == GROUND.IMPASSABLE or tile == GROUND.IMPASSABLE then
+    if tile == GROUND.IMPASSABLE or tile == GROUND.INVALID then
         return false
     end
 
@@ -174,7 +174,28 @@ function Map:CanDeployBoatAtPoint(pt, inst, mouseover)
     end
 
     return (mouseover == nil or mouseover:HasTag("player"))
+        and self:IsDeployPointClear(pt, nil, TUNING.MAX_WALKABLE_PLATFORM_RADIUS)
         and self:IsSurroundedByWater(pt.x, pt.y, pt.z, min_distance_from_land + TUNING.MAX_WALKABLE_PLATFORM_RADIUS)
+end
+
+function Map:CanDeployMastAtPoint(pt, inst, mouseover)
+    local min_distance_from_land = 0.5    
+    local min_distance_from_boat = 0.5
+
+    local tile = self:GetTileAtPoint(pt.x, pt.y, pt.z)
+    if tile == GROUND.IMPASSABLE or tile == GROUND.IMPASSABLE then
+        return false
+    end
+
+    -- check if there's a mast in the way
+    local mast_min_distance = 1.5
+    local entities = TheSim:FindEntities(pt.x, 0, pt.z, mast_min_distance, MAST_TAGS)
+    for i, v in ipairs(entities) do
+        return false
+    end
+
+    return (mouseover == nil or mouseover:HasTag("player"))
+        and self:IsDeployPointClear(pt, nil, inst.replica.inventoryitem:DeploySpacingRadius())
 end
 
 function Map:CanPlacePrefabFilteredAtPoint(x, y, z, prefab)

@@ -51,6 +51,9 @@ local function fn()
     inst.AnimState:SetOrientation(ANIM_ORIENTATION.OnGround)
     inst.AnimState:SetLayer(LAYER_WORLD_BACKGROUND)
 
+    -- from walkingplank component
+    inst:AddTag("walkingplank")
+
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then

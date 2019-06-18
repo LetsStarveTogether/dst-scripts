@@ -2,6 +2,14 @@ local function OnIsSunkDirty(inst)
     inst:RemoveComponent("walkableplatform") 
 end
 
+-- Boat camera zoom config variables.
+local ZOOM_STEP = 0.25
+local ZOOM_TARGET = 5
+local ZOOM_TIME = 4
+
+local NUM_ZOOMS = ZOOM_TARGET / ZOOM_STEP
+local ZOOM_TASK_PERIOD = ZOOM_TIME / NUM_ZOOMS
+
 local WalkablePlatform = Class(function(self, inst)
     self.inst = inst    
 
@@ -18,6 +26,7 @@ local WalkablePlatform = Class(function(self, inst)
 
     self.player_zoomed_out = false
     self.player_zoom_task = nil
+    self.player_zooms = NUM_ZOOMS
 
     self.previous_objects_on_platform = {}
     self.new_objects_on_platform = {}
@@ -41,26 +50,26 @@ function WalkablePlatform:OnUpdate(dt)
     self:TriggerEvents()
 end
 
-function WalkablePlatform:OnSink()    
+function WalkablePlatform:OnSink()  
     self._is_sunk:set(true)
     self:DestroyObjectsOnPlatform()
-    self.inst:RemoveComponent("walkableplatform")  
+    self.inst:RemoveComponent("walkableplatform")
 end
 
 function WalkablePlatform:OnRemoveFromEntity()
     TheWorld.components.walkableplatformmanager:RemovePlatform(self.inst) 
 
-    self.inst:RemoveTag("walkableplatform")    
+    self.inst:RemoveTag("walkableplatform") 
 
     for k,v in pairs(self.previous_objects_on_platform) do
-        if k:IsValid() then         
+        if k:IsValid() then
             k:PushEvent("got_off_platform", self.inst)
         end
     end      
 end
 
 function WalkablePlatform:OnRemove()
-    TheWorld.components.walkableplatformmanager:RemovePlatform(self.inst)     
+    TheWorld.components.walkableplatformmanager:RemovePlatform(self.inst)
 end
 
 function WalkablePlatform:DestroyObjectsOnPlatform()
@@ -75,11 +84,11 @@ function WalkablePlatform:DestroyObjectsOnPlatform()
     end
 end
 
-function WalkablePlatform:GetEntitiesOnPlatform(must_have_tags, ignore_tags)      
+function WalkablePlatform:GetEntitiesOnPlatform(must_have_tags, ignore_tags)
     ignore_tags = ignore_tags or IGNORE_WALKABLE_PLATFORM_TAGS
     local world_position_x, world_position_y, world_position_z = self.inst.Transform:GetWorldPosition()
     local entities = TheSim:FindEntities(world_position_x, world_position_y, world_position_z, self.platform_radius, must_have_tags, ignore_tags)
-        
+
     local filtered_entities = {}
 
     for k, v in pairs(entities) do
@@ -156,12 +165,6 @@ function WalkablePlatform:CollectEntitiesOnPlatform(check_previous_objects)
     end
 end
 
-local ZOOM_STEP = 0.25
-local ZOOM_TARGET = 5
-local ZOOM_TIME = 4
-local NUM_ZOOMS = ZOOM_TARGET / ZOOM_STEP
-local ZOOM_TASK_PERIOD = ZOOM_TIME / NUM_ZOOMS
-
 local function player_zoom(boat_inst, self, player_inst)
     -- If our player inst is still valid and we haven't done all of our zoomes yet,
     -- send another zoom message to the camera. Otherwise, end ourselves.
@@ -183,15 +186,11 @@ function WalkablePlatform:TriggerEvents()
             -- we should undo our zoom effect.
             if self.player_zoomed_out and k == ThePlayer then
                 self.player_zoomed_out = false
-                self.player_zooms = 0
+                self.player_zooms = NUM_ZOOMS - self.player_zooms
 
-                -- Cancel any currently running zoom task, and then just snap out our target amount.
-                -- It's ok if our zoom snap is off; we just want to get out of the player's way ASAP.
-                if self.player_zoom_task ~= nil then
-                    self.player_zoom_task:Cancel()
-                    self.player_zoom_task = nil
+                if self.player_zoom_task == nil then
+                    self.player_zoom_task = self.inst:DoPeriodicTask(ZOOM_TASK_PERIOD, player_zoom, nil, self, k)
                 end
-                ThePlayer:PushEvent("zoomcamera", {zoomout = false, zoom = ZOOM_TARGET})
             end
         end
     end
@@ -215,14 +214,11 @@ function WalkablePlatform:TriggerEvents()
             end
 
             if should_zoom then
-                self.player_zooms = 0
+                self.player_zooms = NUM_ZOOMS - self.player_zooms
 
-                -- If a task was already running, we just cancel it and start a task zooming in the opposite direction.
-                if self.player_zoom_task ~= nil then
-                    self.player_zoom_task:Cancel()
-                    self.player_zoom_task = nil
+                if self.player_zoom_task == nil then
+                    self.player_zoom_task = self.inst:DoPeriodicTask(ZOOM_TASK_PERIOD, player_zoom, nil, self, k)
                 end
-                self.player_zoom_task = self.inst:DoPeriodicTask(ZOOM_TASK_PERIOD, player_zoom, nil, self, k)
             end
         end
     end

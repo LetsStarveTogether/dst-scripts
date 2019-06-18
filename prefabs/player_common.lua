@@ -1426,6 +1426,7 @@ local function MakePlayerCharacter(name, customprefabs, customassets, common_pos
         inst:AddTag("scarytoprey")
         inst:AddTag("character")
         inst:AddTag("lightningtarget")
+        inst:AddTag("can_offset_sort_pos")        
 
         inst.AttachClassified = AttachClassified
         inst.DetachClassified = DetachClassified

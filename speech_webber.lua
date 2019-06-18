@@ -2664,7 +2664,7 @@ return {
         MUTATED_PENGUIN = 
         {
 			DEAD = "It's dead!",
-			GENERIC = "It's even more monstrous that us!",
+			GENERIC = "It's even more monstrous than us!",
 			SLEEPING = "We don't want to get closer.",
 		},
 

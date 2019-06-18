@@ -800,12 +800,14 @@ function PlayerController:DoControllerAltActionButton()
         end
     elseif self.locomotor == nil then
         self.remote_controls[CONTROL_CONTROLLER_ALTACTION] = 0
-        SendRPCToServer(RPC.ControllerAltActionButtonPoint, act.action.code, act.pos.x, act.pos.z, nil, act.action.canforce, isspecial, act.action.mod_name)
+        local platform, relative_x, relative_z = self:GetPlatformRelativePosition(act.pos.x, act.pos.z)
+        SendRPCToServer(RPC.ControllerAltActionButtonPoint, act.action.code, relative_x, relative_z, nil, act.action.canforce, isspecial, act.action.mod_name, platform)
     elseif self:CanLocomote() then
         act.preview_cb = function()
             self.remote_controls[CONTROL_CONTROLLER_ALTACTION] = 0
             local isreleased = not TheInput:IsControlPressed(CONTROL_CONTROLLER_ALTACTION)
-            SendRPCToServer(RPC.ControllerAltActionButtonPoint, act.action.code, act.pos.x, act.pos.z, isreleased, nil, isspecial, act.action.mod_name)
+            local platform, relative_x, relative_z = self:GetPlatformRelativePosition(act.pos.x, act.pos.z)
+            SendRPCToServer(RPC.ControllerAltActionButtonPoint, act.action.code, relative_x, relative_z, isreleased, nil, isspecial, act.action.mod_name, platform)
         end
     end
 
@@ -3165,15 +3167,17 @@ function PlayerController:OnLeftClick(down)
             position = TheInput:GetWorldPosition()
             mouseover = act.action ~= ACTIONS.DROP and TheInput:GetWorldEntityUnderMouse() or nil
         end
+
+        local platform, pos_x, pos_z = self:GetPlatformRelativePosition(position.x, position.z)
         local controlmods = self:EncodeControlMods()
         if self.locomotor == nil then
             self.remote_controls[CONTROL_PRIMARY] = 0
-            SendRPCToServer(RPC.LeftClick, act.action.code, position.x, position.z, mouseover, nil, controlmods, act.action.canforce, act.action.mod_name)
+            SendRPCToServer(RPC.LeftClick, act.action.code, pos_x, pos_z, mouseover, nil, controlmods, act.action.canforce, act.action.mod_name, platform)
         elseif act.action ~= ACTIONS.WALKTO and self:CanLocomote() then
             act.preview_cb = function()
                 self.remote_controls[CONTROL_PRIMARY] = 0
                 local isreleased = not TheInput:IsControlPressed(CONTROL_PRIMARY)
-                SendRPCToServer(RPC.LeftClick, act.action.code, position.x, position.z, mouseover, isreleased, controlmods, nil, act.action.mod_name)
+                SendRPCToServer(RPC.LeftClick, act.action.code, pos_x, pos_z, mouseover, isreleased, controlmods, nil, act.action.mod_name, platform)
             end
         end
     end
@@ -3223,6 +3227,18 @@ function PlayerController:OnRemoteLeftClick(actioncode, position, target, isrele
     end
 end
 
+function PlayerController:GetPlatformRelativePosition(absolute_x,absolute_z)
+    local platform = TheWorld.Map:GetPlatformAtPoint(absolute_x,absolute_z)
+    local relative_x, relative_z = absolute_x, absolute_z
+    if platform ~= nil then        
+        local platform_x, platform_y, platform_z = platform.Transform:GetWorldPosition()
+        absolute_x = absolute_x - platform_x 
+        absolute_z = absolute_z - platform_z
+    end
+
+    return platform, absolute_x, absolute_z
+end
+
 function PlayerController:OnRightClick(down)
     if not self:UsingMouse() then
         return
@@ -3260,14 +3276,15 @@ function PlayerController:OnRightClick(down)
             local position = TheInput:GetWorldPosition()
             local mouseover = TheInput:GetWorldEntityUnderMouse()
             local controlmods = self:EncodeControlMods()
+            local platform, pos_x, pos_z = self:GetPlatformRelativePosition(position.x, position.z)
             if self.locomotor == nil then
                 self.remote_controls[CONTROL_SECONDARY] = 0
-                SendRPCToServer(RPC.RightClick, act.action.code, position.x, position.z, mouseover, act.rotation ~= 0 and act.rotation or nil, nil, controlmods, act.action.canforce, act.action.mod_name)
+                SendRPCToServer(RPC.RightClick, act.action.code, pos_x, pos_z, mouseover, act.rotation ~= 0 and act.rotation or nil, nil, controlmods, act.action.canforce, act.action.mod_name, platform)
             elseif act.action ~= ACTIONS.WALKTO and self:CanLocomote() then
                 act.preview_cb = function()
                     self.remote_controls[CONTROL_SECONDARY] = 0
                     local isreleased = not TheInput:IsControlPressed(CONTROL_SECONDARY)
-                    SendRPCToServer(RPC.RightClick, act.action.code, position.x, position.z, mouseover, act.rotation ~= 0 and act.rotation or nil, isreleased, controlmods, nil, act.action.mod_name)
+                    SendRPCToServer(RPC.RightClick, act.action.code, pos_x, pos_z, mouseover, act.rotation ~= 0 and act.rotation or nil, isreleased, controlmods, nil, act.action.mod_name, platform)
                 end
             end
         end
@@ -3346,6 +3363,10 @@ function PlayerController:GetSceneItemControllerAction(item)
 end
 
 function PlayerController:GetGroundUseAction(position)
+    if self.inst.components.playeractionpicker:HasContainerWidgetAction() then
+        return
+    end
+
     local islocal = position == nil
     position = position or
         (self.reticule ~= nil and self.reticule.inst ~= self.inst and self.reticule.targetpos) or

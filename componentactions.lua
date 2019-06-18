@@ -10,45 +10,50 @@ local function CanCastFishingNetAtPoint(thrower, target_x, target_z)
     end
 end
 
-local function Row(inst, doer, pos, actions, right)
+local function Row(inst, doer, pos, actions)
+    local map = TheWorld.Map
+
+    local platform_under_cursor = map:GetPlatformAtPoint(pos.x, pos.z)
+
     local doer_x, doer_y, doer_z = doer.Transform:GetWorldPosition()
+    local my_platform = map:GetPlatformAtPoint(doer_x, doer_z)
+    local is_controller_attached = doer.components.playercontroller.isclientcontrollerattached
 
-    if right then
+    local is_hovering_cursor_over_my_platform = false 
+    if not is_controller_attached then
+        is_hovering_cursor_over_my_platform = my_platform ~= nil and (my_platform == platform_under_cursor)
+    end
 
-        local map = TheWorld.Map
-        local my_platform = map:GetPlatformAtPoint(doer_x, doer_z)
-        local platform_under_cursor = map:GetPlatformAtPoint(pos.x, pos.z)
-        local is_hovering_cursor_over_my_platform = my_platform ~= nil and (my_platform == platform_under_cursor) and not TheInput:ControllerAttached()
+    if is_hovering_cursor_over_my_platform or my_platform == nil then
+        return
+    end
 
-        if not is_hovering_cursor_over_my_platform and my_platform ~= nil then
-            if FORCE_ROW_FAIL_HACK then
-                table.insert(actions, ACTIONS.ROW_FAIL)
-            else
-                if doer ~= nil and not doer:HasTag("is_row_failing") then                    
-                    local animation_fail_time = 30 / 30
-                    if not doer.AnimState:IsCurrentAnimation("row_pre") then
-                        animation_fail_time = 4/30
-                    end
-                    if doer ~= nil and doer:HasTag("is_rowing") and doer.AnimState:GetCurrentAnimationTime() < animation_fail_time then
-                        table.insert(actions, ACTIONS.ROW_FAIL)
-                    else
-                        if TheInput:ControllerAttached() and my_platform ~= nil then
-                            local my_platform_x, my_platform_y, my_platform_z = my_platform.Transform:GetWorldPosition()
-                            local dir_x, dir_z = VecUtil_Normalize(doer_x - my_platform_x, doer_z - my_platform_z)
-                            local test_length = 0.5
-                            local test_x, test_z = doer_x + dir_x * test_length, doer_z + dir_z * test_length                        
-                            local found_water = not map:IsVisualGroundAtPoint(test_x, 0, test_z) and map:GetPlatformAtPoint(test_x, test_z) == nil
-                            if found_water then
-                                table.insert(actions, ACTIONS.ROW)
-                            end
-                        else                        
-                            table.insert(actions, ACTIONS.ROW)    
-                        end                    
-                    end
-                end                
+    if FORCE_ROW_FAIL_HACK then
+        table.insert(actions, ACTIONS.ROW_FAIL)
+    elseif doer ~= nil and not doer:HasTag("is_row_failing") then
+        local animation_fail_time = (doer.AnimState:IsCurrentAnimation("row_pre") and (30/30)) or (4/30)
+
+        if doer:HasTag("is_rowing") and doer.AnimState:GetCurrentAnimationTime() < animation_fail_time then
+            table.insert(actions, ACTIONS.ROW_FAIL)
+        elseif not is_controller_attached then
+            table.insert(actions, ACTIONS.ROW)
+        else
+            local my_platform_x, my_platform_y, my_platform_z = my_platform.Transform:GetWorldPosition()
+            local dir_x, dir_z = VecUtil_Normalize(doer_x - my_platform_x, doer_z - my_platform_z)
+            local test_length = 0.5
+            -- So the position on the client/server don't quite match and the server position doesn't stick as tight to the 
+            -- area surrounding the boat so give a little leeway when checking to see if there's water around you when the client
+            -- is requesting to row
+            if ThePlayer ~= doer then
+                test_length = 0.75
+            end
+            local test_x, test_z = doer_x + dir_x * test_length, doer_z + dir_z * test_length
+            local found_water = not map:IsVisualGroundAtPoint(test_x, 0, test_z) and map:GetPlatformAtPoint(test_x, test_z) == nil
+            if found_water then
+                table.insert(actions, ACTIONS.ROW)
             end
         end
-    end    
+    end
 end
 
 local COMPONENT_ACTIONS =
@@ -62,12 +67,14 @@ local COMPONENT_ACTIONS =
         end,
 
         anchor = function(inst, doer, actions, right)
-            if inst:HasTag("anchor_lowered") then
-                table.insert(actions, ACTIONS.RAISE_ANCHOR)
-            elseif inst:HasTag("anchor_raised") then
-                table.insert(actions, ACTIONS.LOWER_ANCHOR)
-            end        
-        end,            
+            if not inst:HasTag("burnt") then
+                if inst:HasTag("anchor_lowered") then
+                    table.insert(actions, ACTIONS.RAISE_ANCHOR)
+                elseif inst:HasTag("anchor_raised") then
+                    table.insert(actions, ACTIONS.LOWER_ANCHOR)
+                end
+            end
+        end,
 
         book = function(inst, doer, actions)
             if doer:HasTag("reader") then
@@ -980,8 +987,10 @@ local COMPONENT_ACTIONS =
         end,
 
         oar = function(inst, doer, pos, actions, right)
-            Row(inst, doer, pos, actions, right)
-        end,            
+            if right then
+                Row(inst, doer, pos, actions)
+            end
+        end,
 
         spellcaster = function(inst, doer, pos, actions, right)
             if right and inst:HasTag("castonpoint") then
@@ -1084,8 +1093,14 @@ local COMPONENT_ACTIONS =
         end,
 
         oar = function(inst, doer, target, actions, right)
-            Row(inst, doer, target:GetPosition(), actions, right)
-        end,          
+            if right then
+                --Only the keyboard/mouse needs the ability to arbitrarily click on scene objects to row.
+                --The controller does not and if you allow it to, it will sometimes show the wrong ground hint text.
+                if not doer.components.playercontroller.isclientcontrollerattached then
+                    Row(inst, doer, target:GetPosition(), actions)
+                end
+            end
+        end,
 
         spellcaster = function(inst, doer, target, actions, right)
             if right and (

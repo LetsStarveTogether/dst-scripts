@@ -74,8 +74,6 @@ local function fn()
 
     local inst = CreateEntity()
 
-    inst:AddTag("can_offset_sort_pos")
-
     inst.entity:AddTransform()
     inst.entity:AddAnimState()
     inst.entity:AddSoundEmitter()
@@ -87,7 +85,6 @@ local function fn()
     inst.AnimState:SetBank("boat_wheel")
     inst.AnimState:SetBuild("boat_wheel")
     inst.AnimState:PlayAnimation("idle")    
-    inst.AnimState:SetSortWorldOffset(0, 0.1, 0)
 
     inst:AddTag("structure")
 

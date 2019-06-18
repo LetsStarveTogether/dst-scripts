@@ -320,6 +320,7 @@ local function rock_avocado_bush()
 
     MakeSmallObstaclePhysics(inst, .1)
 
+    inst:AddTag("plant")
     inst:AddTag("renewable")
 
     inst.MiniMapEntity:SetIcon("rock_avocado.png")

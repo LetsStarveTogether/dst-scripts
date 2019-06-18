@@ -436,13 +436,14 @@ CommonHandlers.OnHop = function()
         end)
 end
 
-CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, landed_in_water_state)
+CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, land_sound, landed_in_water_state)
 	anims = anims or {}
+    timelines = timelines or {}
 
     table.insert(states, State
     {
         name = "hop_pre",
-        tags = { "doing", "busy", "jumping" },
+        tags = { "doing", "busy", "nointerrupt", "jumping" },
 
         onenter = function(inst)
             inst.AnimState:PlayAnimation(anims.pre or "jump_pre", false)
@@ -454,7 +455,7 @@ CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, lan
             end
         end,
 
-        timeline = timelines ~= nil and timelines.hop_pre or nil,
+        timeline = timelines.hop_pre or nil,
 
         events =
         {
@@ -488,7 +489,7 @@ CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, lan
             inst:AddTag("ignorewalkableplatforms")
         end,
 
-        timeline = timelines ~= nil and timelines.hop_loop or nil,
+        timeline = timelines.hop_loop or nil,
 
         events =
         {
@@ -510,7 +511,7 @@ CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, lan
     table.insert(states, State
     {
         name = "hop_pst",
-        tags = { "doing", "busy", "jumping" },
+        tags = { "doing", "busy", "nointerrupt", "jumping" },
 
         onenter = function(inst, landed_in_water)
             inst.AnimState:PlayAnimation(anims.pst or "jump_pst", false)
@@ -528,7 +529,7 @@ CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, lan
             end
         end,
 
-        timeline = timelines ~= nil and timelines.hop_pst or nil,
+        timeline = timelines.hop_pst or nil,
 
         events =
         {
@@ -557,9 +558,15 @@ CommonStates.AddHopStates = function(states, wait_for_pre, anims, timelines, lan
             else
                 inst.sg:GoToState("idle")
             end
-        end,
 
-        timeline = timelines ~= nil and timelines.hop_pst_complete or nil,
+            --For now we just have the land on boat sound:
+            if land_sound then
+                local x,y,z = inst.Transform:GetWorldPosition()
+                if TheWorld.Map:GetPlatformAtPoint(x,z) ~= nil then
+                    inst.SoundEmitter:PlaySound(land_sound)
+                end
+            end
+        end,
     })
 end
 
@@ -1285,7 +1292,7 @@ CommonStates.AddRowStates = function(states, is_client)
 
         onenter = function(inst)
             local locomotor = inst.components.locomotor
-            local target_pos = locomotor.bufferedaction.pos
+            local target_pos = locomotor.bufferedaction:GetPlatformRelativeAbsolutePosition()
             if target_pos == nil then
                 target_pos = locomotor.bufferedaction.target:GetPosition()
             end
@@ -1303,10 +1310,15 @@ CommonStates.AddRowStates = function(states, is_client)
             if is_client then
                 inst:PerformPreviewBufferedAction()                
             end
-
+    
             local target_x, target_z = target_pos.x, target_pos.z
 
-            local delta_target_x, delta_target_z = target_pos.x - my_x, target_pos.z - my_z
+            if inst.components.playercontroller.isclientcontrollerattached then
+                local dir_x, dir_z = VecUtil_Normalize(my_x - boat_x, my_z - boat_z)
+                target_x, target_z = my_x + dir_x, my_z + dir_z
+            end                   
+
+            local delta_target_x, delta_target_z = target_x- my_x, target_z - my_z
             local delta_boat_x, delta_boat_z = my_x - boat_x, my_z - boat_z
 
             local camera_down_vec = TheCamera:GetDownVec()
@@ -1364,11 +1376,9 @@ CommonStates.AddRowStates = function(states, is_client)
                 end                
             end
 
-            inst.AnimState:PushAnimation(target_anim, false)            
-            --print(debug_id, target_anim, delta_target_x, delta_target_z, delta_boat_x, delta_boat_z)
-            if not is_client then
-                inst.components.inventory:GetEquippedItem(EQUIPSLOTS.HANDS).components.oar:FaceWater(inst, target_pos)
-            end
+            inst.AnimState:PushAnimation(target_anim, false) 
+
+            inst:ForceFacePoint(target_x, 0, target_z)
         end, 
 
         onexit = function(inst)

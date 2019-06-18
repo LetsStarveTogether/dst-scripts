@@ -1,3 +1,5 @@
+local STEERING_WHEEL_OFFSET = -0.1
+
 local function DoEquipmentFoleySounds(inst)
     for k, v in pairs(inst.components.inventory.equipslots) do
         if v.foleysound ~= nil then
@@ -843,6 +845,13 @@ local events =
             inst.sg:GoToState("mindcontrolled")
         end
     end),
+
+    EventHandler("set_heading",
+        function(inst)
+            if not (inst.sg:HasStateTag("busy") or inst.components.health:IsDead() or inst.sg:HasStateTag("is_turning_wheel")) then
+                inst.sg:GoToState("steer_boat_turning", true)
+            end
+        end),    
 
     --For crafting, attunement cost, etc... Just go directly to hit.
     EventHandler("consumehealthcost", function(inst, data)
@@ -2192,7 +2201,7 @@ local states =
                             local mine_fx = (frozen and "mining_ice_fx") or (moonglass and "mining_moonglass_fx") or "mining_fx"
                             SpawnPrefab(mine_fx).Transform:SetPosition(target.Transform:GetWorldPosition())
                         end
-                        inst.SoundEmitter:PlaySound(frozen and "dontstarve_DLC001/common/iceboulder_hit" or "dontstarve/wilson/use_pick_rock")
+                        inst.SoundEmitter:PlaySound((frozen and "dontstarve_DLC001/common/iceboulder_hit") or (moonglass and "turnoftides/common/together/moon_glass/mine") or "dontstarve/wilson/use_pick_rock")
                     end
                 end
                 inst:PerformBufferedAction()
@@ -4125,8 +4134,13 @@ local states =
 
         onenter = function(inst, silent)
             inst.components.locomotor:Stop()
-            inst.AnimState:PlayAnimation("pickup")
-            inst.AnimState:PushAnimation("pickup_pst", false)
+            if inst:HasTag("beaver") then
+                inst.AnimState:PlayAnimation("atk_pre")
+                inst.AnimState:PushAnimation("atk", false)
+            else
+                inst.AnimState:PlayAnimation("pickup")
+                inst.AnimState:PushAnimation("pickup_pst", false)
+            end
 
             inst.sg.statemem.action = inst.bufferedaction
             inst.sg.statemem.silent = silent
@@ -6279,8 +6293,13 @@ local states =
         tags = { },
 
         onenter = function(inst)
-            inst.AnimState:PlayAnimation("steer_idle_pst")                    
+            inst.AnimState:PlayAnimation("steer_idle_pst")                   
+            inst.AnimState:SetSortWorldOffset(0, STEERING_WHEEL_OFFSET, 0)             
         end,    
+
+        onexit = function(inst)
+            inst.AnimState:SetSortWorldOffset(0, 0, 0)             
+        end,
 
         events = 
         {
@@ -6305,9 +6324,7 @@ local states =
         end,
 
         onexit = function(inst)
-            if inst.components.walkingplankuser.current_plank ~= nil and inst.components.walkingplankuser.current_plank:IsValid() then
-                inst.components.walkingplankuser.current_plank.components.walkingplank:StopMounting()
-            end
+            inst.components.walkingplankuser:Dismount()
             inst:RemoveTag("on_walkable_plank")
         end,
 
@@ -6323,8 +6340,13 @@ local states =
 
         onenter = function(inst, skip_pre)
             inst.AnimState:PlayAnimation("steer_idle_pre")        
-            inst:PerformBufferedAction()
+            inst:PerformBufferedAction() 
+            inst.AnimState:SetSortWorldOffset(0, STEERING_WHEEL_OFFSET, 0)  
         end,   
+
+        onexit = function(inst)
+            inst.AnimState:SetSortWorldOffset(0, 0, 0)             
+        end,        
 
         events = 
         {
@@ -6343,8 +6365,13 @@ local states =
 
         onenter = function(inst, skip_pre)
             inst.components.steeringwheeluser:HideWheel()        
-            inst.AnimState:PushAnimation("steer_idle_loop", true)
+            inst.AnimState:PushAnimation("steer_idle_loop", true)            
+            inst.AnimState:SetSortWorldOffset(0, STEERING_WHEEL_OFFSET, 0)  
         end,
+
+        onexit = function(inst)
+            inst.AnimState:SetSortWorldOffset(0, 0, 0)             
+        end,                
 
         events =
         {
@@ -6356,9 +6383,9 @@ local states =
 
     State{
         name = "steer_boat_turning",
-        tags = { "is_using_steering_wheel", "doing" },
+        tags = { "is_using_steering_wheel", "doing", "is_turning_wheel" },
 
-        onenter = function(inst, data)
+        onenter = function(inst, skip_action)
             --inst.AnimState:PlayAnimation("steer_left_loop_pre")
             if inst.components.steeringwheeluser.should_play_left_turn_anim then
                 inst.AnimState:PlayAnimation("steer_left_pre", false)
@@ -6369,14 +6396,21 @@ local states =
                 inst.AnimState:PushAnimation("steer_right_loop", false)
                 inst.AnimState:PushAnimation("steer_right_pst", false)
             end
-            inst:PerformBufferedAction()
+            
+            if not skip_action then
+                inst:PerformBufferedAction()       
+            end
+            inst.AnimState:SetSortWorldOffset(0, STEERING_WHEEL_OFFSET, 0)             
         end,
+
+        onexit = function(inst)
+            inst.AnimState:SetSortWorldOffset(0, 0, 0)             
+        end,                        
 
         timeline =
         {
             TimeEvent(0 * FRAMES, function(inst)          
-                -- TODO(DANY):  This is when the steering wheel is being turned.
-                inst.SoundEmitter:PlaySound("dontstarve/common/dropGeneric")  
+                inst.SoundEmitter:PlaySound("turnoftides/common/together/boat/steering_wheel/turn")
             end),
         },
 
@@ -10769,8 +10803,18 @@ local states =
     --------------------------------------------------------------------------
 }
 
+local hop_timelines = 
+{
+    hop_loop =
+    {
+        TimeEvent(0, function(inst) 
+            inst.SoundEmitter:PlaySound("turnoftides/common/together/boat/jump") 
+        end),
+    },   
+}
+
 CommonStates.AddRowStates(states, false)
-CommonStates.AddHopStates(states, false, {pre = "boat_jump_pre", loop = "boat_jump_loop", pst = "boat_jump_pst"}, nil, "sink")
+CommonStates.AddHopStates(states, false, {pre = "boat_jump_pre", loop = "boat_jump_loop", pst = "boat_jump_pst"}, hop_timelines, "turnoftides/common/together/boat/jump_on", "sink")
 
 if TheNet:GetServerGameMode() == "quagmire" then
     event_server_data("quagmire", "stategraphs/SGwilson").AddQuagmireStates(states, DoTalkSound, StopTalkSound, ToggleOnPhysics, ToggleOffPhysics)

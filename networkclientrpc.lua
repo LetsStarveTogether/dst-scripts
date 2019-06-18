@@ -34,9 +34,19 @@ local function IsPointInRange(player, x, z)
     return distsq(x, z, px, pz) <= 4096
 end
 
+local function ConvertPlatformRelativePositionToAbsolutePosition(relative_x,relative_z,platform)    
+    local absolute_x, absolute_z = relative_x, relative_z
+    if platform ~= nil then
+        local platform_x, platform_y, platform_z = platform.Transform:GetWorldPosition()
+        absolute_x = relative_x + platform_x
+        absolute_z = relative_z + platform_z        
+    end
+    return absolute_x, absolute_z
+end
+
 local RPC_HANDLERS =
 {
-    LeftClick = function(player, action, x, z, target, isreleased, controlmods, noforce, mod_name)
+    LeftClick = function(player, action, x, z, target, isreleased, controlmods, noforce, mod_name, platform)
         if not (checknumber(action) and
                 checknumber(x) and
                 checknumber(z) and
@@ -48,6 +58,7 @@ local RPC_HANDLERS =
             printinvalid("LeftClick", player)
             return
         end
+        x,z = ConvertPlatformRelativePositionToAbsolutePosition(x,z,platform)
         local playercontroller = player.components.playercontroller
         if playercontroller ~= nil then
             if IsPointInRange(player, x, z) then
@@ -58,7 +69,7 @@ local RPC_HANDLERS =
         end
     end,
 
-    RightClick = function(player, action, x, z, target, rotation, isreleased, controlmods, noforce, mod_name)
+    RightClick = function(player, action, x, z, target, rotation, isreleased, controlmods, noforce, mod_name, platform)
         if not (checknumber(action) and
                 checknumber(x) and
                 checknumber(z) and
@@ -71,6 +82,7 @@ local RPC_HANDLERS =
             printinvalid("RightClick", player)
             return
         end
+        x,z = ConvertPlatformRelativePositionToAbsolutePosition(x,z,platform)
         local playercontroller = player.components.playercontroller
         if playercontroller ~= nil then
             if IsPointInRange(player, x, z) and (rotation == nil or (rotation > -360.1 and rotation < 360.1)) then
@@ -196,7 +208,7 @@ local RPC_HANDLERS =
         end
     end,
 
-    ControllerAltActionButtonPoint = function(player, action, x, z, isreleased, noforce, isspecial, mod_name)
+    ControllerAltActionButtonPoint = function(player, action, x, z, isreleased, noforce, isspecial, mod_name, platform)
         if not (checknumber(action) and
                 checknumber(x) and
                 checknumber(z) and
@@ -207,6 +219,8 @@ local RPC_HANDLERS =
             printinvalid("ControllerAltActionButtonPoint", player)
             return
         end
+
+        x,z = ConvertPlatformRelativePositionToAbsolutePosition(x,z,platform)
         local playercontroller = player.components.playercontroller
         if playercontroller ~= nil then
             if IsPointInRange(player, x, z) then
@@ -316,7 +330,7 @@ local RPC_HANDLERS =
     SteerBoat = function(player, dir_x, dir_z)
         if not (checknumber(dir_x) and
                 checknumber(dir_z)) then
-            printinvalid("PredictHopping", player)
+            printinvalid("SteerBoat", player)
             return
         end
         local steering_wheel_user = player.components.steeringwheeluser

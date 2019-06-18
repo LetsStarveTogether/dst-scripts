@@ -69,9 +69,12 @@ local function fn(data, build, swap_build)
     inst.components.equippable:SetOnEquip(function(inst, owner) onequip(inst, owner, swap_build) end)
     inst.components.equippable:SetOnUnequip(onunequip)
 
-    inst:AddComponent("burnable")
-    inst.components.burnable.canlight = false
-    inst.components.burnable.fxprefab = nil
+    MakeSmallBurnable(inst)
+    MakeSmallPropagator(inst)
+
+    -- NOTE: if driftwood changes fuel tuning, the driftwood oar should as well!
+    inst:AddComponent("fuel")
+    inst.components.fuel.fuelvalue = TUNING.MED_FUEL
 
     inst:AddComponent("finiteuses")
     inst.components.finiteuses:SetMaxUses(data.USES)

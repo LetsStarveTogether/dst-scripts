@@ -367,6 +367,11 @@ local function PopulateWorld(savedata, profile)
             print("Total "..tostring(#Settings.loaded_characters).." character(s) loaded")
         end
 
+        world.has_ocean = savedata.map.has_ocean
+        if world.has_ocean then
+            world.Map:SetOceanEnabled(true)
+        end
+
         --this was spawned by the level file. kinda lame - we should just do everything from in here.
         world.Map:SetSize(savedata.map.width, savedata.map.height)
         world.Map:SetFromString(savedata.map.tiles)
@@ -391,7 +396,6 @@ local function PopulateWorld(savedata, profile)
             print("No Nav Grid")
         end
 
-        world.has_ocean = savedata.map.has_ocean
         world.hideminimap = savedata.map.hideminimap
         world.topology = savedata.map.topology
         world.generated = savedata.map.generated

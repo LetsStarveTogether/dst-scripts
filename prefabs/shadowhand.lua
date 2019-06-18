@@ -60,6 +60,12 @@ local function ConsumeFire(inst, fire)
         end
         inst.AnimState:PlayAnimation("grab")
         inst.AnimState:PushAnimation("grab_pst", false)
+
+        -- We're removing the on-fire-removed callback, so we also need to stop our position update that tests its location!
+        if inst._distance_test_task ~= nil then
+            inst._distance_test_task:Cancel()
+            inst._distance_test_task = nil
+        end
         inst:RemoveEventCallback("onextinguish", inst.dissipatefn, fire)
         inst:RemoveEventCallback("onremove", inst.dissipatefn, fire)
         if inst.components.playerprox ~= nil then

@@ -189,6 +189,7 @@ local function fn(type_name, is_large)
     inst.MiniMapEntity:SetIcon("driftwood_small1.png")
     inst.MiniMapEntity:SetPriority(-1)
 
+    inst:AddTag("plant")
     inst:AddTag("tree")
 
     inst.AnimState:SetBank("driftwood_"..type_name)

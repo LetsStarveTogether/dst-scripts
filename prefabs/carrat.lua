@@ -2,7 +2,6 @@ local assets =
 {
     Asset("ANIM", "anim/carrat_basic.zip"),
     Asset("INV_IMAGE", "carrat"),
-    Asset("SOUND", "sound/rabbit.fsb"),
 }
 
 local planted_assets =
@@ -25,8 +24,14 @@ local planted_prefabs =
 
 local carratsounds =
 {
-    scream = "dontstarve/rabbit/scream",
-    hit = "dontstarve/rabbit/scream_short",
+    idle = "turnoftides/creatures/together/carrat/idle",
+    hit = "turnoftides/creatures/together/carrat/hit",
+    sleep = "turnoftides/creatures/together/carrat/sleep",
+    death = "turnoftides/creatures/together/carrat/death",
+    emerge = "turnoftides/creatures/together/carrat/emerge",
+    submerge = "turnoftides/creatures/together/carrat/submerge",
+    eat = "turnoftides/creatures/together/carrat/eat",
+    stunned = "turnoftides/creatures/together/carrat/stunned",
 }
 
 SetSharedLootTable("carrat",
@@ -89,6 +94,8 @@ local function fn()
         return inst
     end
 
+    inst.sounds = carratsounds -- sounds must be assigned before the stategraph
+
     inst:AddComponent("locomotor") -- locomotor must be constructed before the stategraph
     inst.components.locomotor.runspeed = TUNING.CARRAT.WALK_SPEED
 
@@ -134,8 +141,6 @@ local function fn()
     inst:AddComponent("inspectable")
     inst:AddComponent("sleeper")
     inst:AddComponent("tradable")
-
-    inst.sounds = carratsounds
 
     MakeHauntablePanic(inst)
 

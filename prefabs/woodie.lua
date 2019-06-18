@@ -89,11 +89,17 @@ local function BeaverActionString(inst, action)
         or STRINGS.ACTIONS.GNAW
 end
 
-local function GetBeaverAction(target)
+local function GetBeaverAction(inst, target)
     for i, v in ipairs(BEAVER_LMB_ACTIONS) do
         if target:HasTag(v.."_workable") then
             return not target:HasTag("sign") and ACTIONS[v] or nil
         end
+    end
+
+    if target:HasTag("walkingplank") and target:HasTag("interactable") then
+        return (inst:HasTag("on_walkable_plank") and ACTIONS.ABANDON_SHIP) or
+                (target:HasTag("plank_extended") and ACTIONS.MOUNT_PLANK) or
+                ACTIONS.EXTEND_PLANK
     end
 end
 
@@ -104,14 +110,14 @@ local function BeaverActionButton(inst, force_target)
             local ents = TheSim:FindEntities(x, y, z, inst.components.playercontroller.directwalking and 3 or 6, nil, BEAVER_TARGET_EXCLUDE_TAGS, BEAVER_ACTION_TAGS)
             for i, v in ipairs(ents) do
                 if v ~= inst and v.entity:IsVisible() and CanEntitySeeTarget(inst, v) then
-                    local action = GetBeaverAction(v)
+                    local action = GetBeaverAction(inst, v)
                     if action ~= nil then
                         return BufferedAction(inst, v, action)
                     end
                 end
             end
         elseif inst:GetDistanceSqToInst(force_target) <= (inst.components.playercontroller.directwalking and 9 or 36) then
-            local action = GetBeaverAction(force_target)
+            local action = GetBeaverAction(inst, force_target)
             if action ~= nil then
                 return BufferedAction(inst, force_target, action)
             end
@@ -131,6 +137,15 @@ local function LeftClickPicker(inst, target)
                 return not target:HasTag("sign")
                     and inst.components.playeractionpicker:SortActionList({ ACTIONS[v] }, target, nil)
                     or nil
+            end
+        end
+
+        if target:HasTag("walkingplank") then
+            if inst:HasTag("on_walkable_plank") then
+                return inst.components.playeractionpicker:SortActionList({ACTIONS.ABANDON_SHIP}, target, nil)
+            elseif target:HasTag("interactable") then
+                local action_to_do = target:HasTag("plank_extended") and ACTIONS.MOUNT_PLANK or ACTIONS.EXTEND_PLANK
+                return inst.components.playeractionpicker:SortActionList({ action_to_do }, target, nil)
             end
         end
     end

@@ -153,8 +153,8 @@ function BoatPhysics:OnDeath()
     self.inst.SoundEmitter:KillSound("boat_movement")
 end
 
-function BoatPhysics:Row(row_dir_x, row_dir_z, row_force)
-    self.velocity_x, self.velocity_z = self.velocity_x + row_dir_x * row_force, self.velocity_z + row_dir_z * row_force
+function BoatPhysics:ApplyForce(dir_x, dir_z, force)
+    self.velocity_x, self.velocity_z = self.velocity_x + dir_x * force, self.velocity_z + dir_z * force
 end
 
 function BoatPhysics:GetTotalAnchorDrag()

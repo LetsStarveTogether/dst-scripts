@@ -1,10 +1,16 @@
 local WalkingPlank = Class(function(self, inst)
     self.inst = inst
-    self.doer = nil
-    self.stop_mounting_cb = function(inst) self:StopMounting() end
+
+    --self.doer = nil
+
+    self.inst:AddTag("walkingplank")
 end)
 
-function WalkingPlank:Extend()	
+function WalkingPlank:OnRemoveFromEntity()
+    self.inst:RemoveTag("walkingplank")
+end
+
+function WalkingPlank:Extend()
 	self.inst:PushEvent("start_extending")
 end
 
@@ -21,21 +27,26 @@ function WalkingPlank:MountPlank(doer)
 	doer.Transform:SetPosition(self.inst.Transform:GetWorldPosition())
 	doer.Physics:ClearTransformationHistory()
 	self.inst:PushEvent("start_mounting")
-	doer.components.walkingplankuser.current_plank = self.inst
+	doer.components.walkingplankuser:SetCurrentPlank(self.inst)
 
     return true
 end
 
 function WalkingPlank:StopMounting()
-	self.doer.components.walkingplankuser.current_plank = nil
     self.doer = nil
 	self.inst:PushEvent("stop_mounting")
 end
 
 function WalkingPlank:AbandonShip(doer)
-	self.doer.components.walkingplankuser.current_plank = nil
+    if doer == nil or doer ~= self.doer then
+        return false
+    end
+
+	self.doer.components.walkingplankuser:SetCurrentPlank(nil)
     self.doer = nil
 	self.inst:PushEvent("start_abandoning")
+
+    return true
 end
 
 return WalkingPlank

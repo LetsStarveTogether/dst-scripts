@@ -354,6 +354,8 @@ local function rock_avocado_fruit_sprout()
 
     MakeInventoryFloatable(inst, "small", nil, 0.4)
 
+    inst:AddTag("deployedplant")
+
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then

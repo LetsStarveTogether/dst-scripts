@@ -51,6 +51,7 @@ local states=
 		
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
+            inst.SoundEmitter:PlaySound(inst.sounds.idle)
             inst.AnimState:PlayAnimation("idle_loop")
         end,
 
@@ -65,13 +66,13 @@ local states=
         tags = {"busy", "waking"},
 
         onenter = function(inst)
- --           inst.AnimState:PlayAnimation("tail_growth")
             inst.AnimState:PlayAnimation("sleep_ripe_pst")
         end,
 
-        timeline=
+        --[[timeline=
         {
-        },
+            TimeEvent(0, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.do_ripen) end),
+        },]]
 
         events=
         {
@@ -99,7 +100,7 @@ local states=
         timeline=
         {
             TimeEvent(36*FRAMES, function(inst)
-                inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/tail_regrow") 
+                inst.SoundEmitter:PlaySound(inst.sounds.do_unripen)
             end),
         },
 
@@ -126,8 +127,8 @@ local states=
 
         timeline =
 		{
-			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/merm/attack") end),
-			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/wilson/attack_whoosh") end),
+			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.attack) end),
+			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.attack_whoosh) end),
 			TimeEvent(22*FRAMES, function(inst) inst.components.combat:DoAttack(inst.sg.statemem.target) end),
 		},
 
@@ -152,8 +153,8 @@ local states=
 
         timeline =
 		{
-			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/merm/attack") end),
-			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/wilson/attack_whoosh") end),
+			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.attack_fire) end),
+			TimeEvent(0*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.attack_whoosh) end),
 			TimeEvent(16*FRAMES, function(inst) 
 				inst.Light:Enable(true)
 				inst.DynamicShadow:Enable(false)
@@ -207,8 +208,7 @@ local states=
         timeline=
         {
             TimeEvent(5*FRAMES, function(inst)
-                inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/tail_regrow") 
-				--inst.components.combat:DoAttack(nil, nil, nil, nil, 0)
+                inst.SoundEmitter:PlaySound(inst.sounds.challenge_pre)
             end),
         },
 
@@ -231,7 +231,7 @@ local states=
         timeline=
         {
             TimeEvent(5*FRAMES, function(inst)
-                inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/tail_regrow") 
+                inst.SoundEmitter:PlaySound(inst.sounds.challenge)
 				if inst.sg.statemem.num_loops <= 0 then
 					inst.components.combat:DoAttack(nil, nil, nil, nil, 0)
 				end
@@ -263,7 +263,7 @@ local states=
 
         timeline=
         {
-            TimeEvent(5*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/tail_regrow") end),
+            TimeEvent(5*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.challenge_pst) end),
         },
 
         events=
@@ -284,7 +284,7 @@ local states=
         timeline=
         {
             TimeEvent(5*FRAMES, function(inst)
-                inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/tail_regrow") 
+                inst.SoundEmitter:PlaySound(inst.sounds.challenge_win)
             end),
         },
 
@@ -306,7 +306,7 @@ local states=
         timeline=
         {
             TimeEvent(5*FRAMES, function(inst)
-                inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/tail_regrow") 
+                inst.SoundEmitter:PlaySound(inst.sounds.challenge_lose)
             end),
         },
 
@@ -319,13 +319,12 @@ local states=
 }
 CommonStates.AddHitState(states,
 {
-    TimeEvent(3*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/death") end),
-    TimeEvent(9*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/body_fall") end),
+    TimeEvent(3*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.hit) end),
 })
 
 CommonStates.AddDeathState(states,
 {
-    TimeEvent(3*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/death") end),
+    TimeEvent(3*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.death) end),
     TimeEvent(9*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/body_fall") end),
 })
 
@@ -334,43 +333,29 @@ CommonStates.AddWalkStates(states,
     starttimeline =
     {
     },
-    runtimeline =
+    walktimeline =
     {
-        TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(8*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(15*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(23*FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(0,            PlayFootstep),
+        TimeEvent(4*FRAMES,     PlayFootstep),
+        TimeEvent(12*FRAMES,    PlayFootstep),
     },
     endtimeline =
     {
-        TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(2*FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(0,            PlayFootstep),
     },
 }
 , nil, nil, true)
 
 CommonStates.AddRunStates(states,
 {
-    starttimeline =
-    {
-        TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(8*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(15*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(23*FRAMES, function(inst) PlayFootstep(inst) end),
-    },
     runtimeline =
     {
-        TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(8*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(15*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(23*FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(6*FRAMES,     PlayFootstep),
+        TimeEvent(10*FRAMES,    PlayFootstep),
     },
     endtimeline =
     {
-        TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(8*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(15*FRAMES, function(inst) PlayFootstep(inst) end),
-        TimeEvent(23*FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(0,            PlayFootstep),
     },
 })
 
@@ -378,13 +363,18 @@ CommonStates.AddSleepStates(states,
 {
     starttimeline =
     {
-        TimeEvent(15*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/sleep_pre") end)
+        TimeEvent(15*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.stretch) end)
     },
 
     sleeptimeline =
     {
-        TimeEvent(15*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/sleep") end),
-        TimeEvent(28*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/together/grass_gekko/sleep") end)
+        TimeEvent(12*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.sleep_loop) end),
+        TimeEvent(32*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.sleep_loop) end),
+    },
+
+    waketiomeline =
+    {
+        TimeEvent(11*FRAMES, function(inst) inst.SoundEmitter:PlaySound(inst.sounds.stretch) end),
     },
 },
 {

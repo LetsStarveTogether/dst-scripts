@@ -250,6 +250,8 @@ function InventoryItem:CanDeploy(pt, mouseover, deployer)
         return TheWorld.Map:CanDeployAtPoint(pt, self.inst, mouseover)
     elseif self.classified.deploymode:value() == DEPLOYMODE.WATER then
         return TheWorld.Map:CanDeployBoatAtPoint(pt, self.inst, mouseover)
+    elseif self.classified.deploymode:value() == DEPLOYMODE.MAST then
+        return TheWorld.Map:CanDeployMastAtPoint(pt, self.inst, mouseover)        
     end
 end
 

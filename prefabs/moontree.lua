@@ -563,6 +563,7 @@ local function moon_tree(name, stage, data)
         inst.MiniMapEntity:SetIcon("moon_tree.png")
         inst.MiniMapEntity:SetPriority(-1)
 
+        inst:AddTag("plant")
         inst:AddTag("tree")
         inst:AddTag("shelter")
 

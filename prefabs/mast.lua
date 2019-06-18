@@ -59,6 +59,7 @@ local function fn()
 
     inst:AddTag("NOBLOCK")
     inst:AddTag("structure")
+    inst:AddTag("mast")
 
     inst.AnimState:SetBank("mast_01")
     inst.AnimState:SetBuild("boat_mast")
@@ -99,8 +100,7 @@ local function ondeploy(inst, pt, deployer)
         mast.Physics:SetCollides(false)
         mast.Physics:Teleport(pt.x, 0, pt.z)
         mast.Physics:SetCollides(true)
-        --- Yog this starts in the right place but it fucks it all up. :( 
-        -- mast.SoundEmitter:PlaySound("turnoftides/common/together/boat/mast/place")
+        mast.SoundEmitter:PlaySound("turnoftides/common/together/boat/mast/place")
         mast.AnimState:PlayAnimation("place")
 
         inst:Remove()
@@ -131,15 +131,15 @@ local function item_fn()
     end
 
     inst:AddComponent("deployable")
-    inst.components.deployable.ondeploy = ondeploy
+    inst.components.deployable.ondeploy = ondeploy   
+    inst.components.deployable:SetDeployMode(DEPLOYMODE.MAST) 
+    inst.components.deployable:SetDeploySpacing(DEPLOYSPACING.LESS)   
 
     MakeLargeBurnable(inst)
     MakeLargePropagator(inst)
 
     inst:AddComponent("inspectable")
-    inst:AddComponent("inventoryitem")
-
-    --inst.components.deployable:SetDeploySpacing(DEPLOYSPACING.NONE)
+    inst:AddComponent("inventoryitem")    
 
     inst:AddComponent("fuel")
     inst.components.fuel.fuelvalue = TUNING.LARGE_FUEL

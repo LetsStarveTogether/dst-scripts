@@ -24,8 +24,27 @@ local function SpawnMutatedHound(inst)
 	inst:DoTaskInTime(5, inst.Remove)
 end
 
+local function play_punch(inst)
+    inst.SoundEmitter:PlaySound("turnoftides/creatures/together/mutated_hound/punch")
+end
+local function play_body_fall(inst)
+    inst.SoundEmitter:PlaySound("dontstarve/movement/body_fall")
+end
+
 local function StartReviving(inst)
 	inst.AnimState:PlayAnimation("mutated_hound_reviving")
+
+    inst.SoundEmitter:PlaySound("turnoftides/creatures/together/mutated_hound/mutate")
+    play_punch(inst)
+    inst:DoTaskInTime(11*FRAMES, play_body_fall)
+    inst:DoTaskInTime(21*FRAMES, play_punch)
+    inst:DoTaskInTime(31*FRAMES, play_body_fall)
+    inst:DoTaskInTime(40*FRAMES, play_punch)
+    inst:DoTaskInTime(47*FRAMES, play_punch)
+    inst:DoTaskInTime(54*FRAMES, play_punch)
+    inst:DoTaskInTime(59*FRAMES, play_body_fall)
+    inst:DoTaskInTime(73*FRAMES, play_body_fall)
+
 	inst.spawn_task = inst:DoTaskInTime(104*FRAMES, SpawnMutatedHound)
 end
 

@@ -25,6 +25,10 @@ function PlayerActionPicker:UnregisterContainer(container)
     end
 end
 
+function PlayerActionPicker:HasContainerWidgetAction()
+    return next(self.containers) ~= nil
+end
+
 function PlayerActionPicker:OnUpdateActionFilterStack()
     local num = #self.actionfilterstack
     if num > 0 then
@@ -351,11 +355,11 @@ function PlayerActionPicker:DoGetMouseActions(position, target)
         end
 
         --Check for actions in the dark
-        if not cansee then
-            if not isaoetargeting and self.inst:GetDistanceSqToPoint(position:Get()) < 16 then
+        if not cansee then            
+            if not isaoetargeting then
                 local lmbs = self:GetLeftClickActions(position)
                 for i, v in ipairs(lmbs) do
-                    if v.action == ACTIONS.DROP then
+                    if (v.action == ACTIONS.DROP and self.inst:GetDistanceSqToPoint(position:Get()) < 16) or v.action == ACTIONS.SET_HEADING then
                         return v
                     end
                 end

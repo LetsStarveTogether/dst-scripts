@@ -18,7 +18,7 @@ end
 local Mast = Class(function(self, inst)
     self.inst = inst
     self.is_sail_raised = false
-    self.sail_force = 0.4
+    self.sail_force = 0.6
     self.has_speed = false
     self.lowered_anchor_count = 0
     self.boat = nil

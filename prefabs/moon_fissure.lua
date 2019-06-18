@@ -103,6 +103,7 @@ local function delayed_transition(inst)
 	inst.AnimState:PushAnimation("crack_idle", true)
 	inst.fx.AnimState:PlayAnimation("transition")
 	inst.fx.AnimState:PushAnimation("crack_idle", true)
+    inst.SoundEmitter:PlaySound("turnoftides/common/together/moon_fissure/crack_open")
 	inst._transition_task = inst:DoTaskInTime(5*FRAMES, UpdateState)
 end
 
@@ -127,12 +128,14 @@ local function OnEntitySleep(inst)
         inst._lighttask:Cancel()
 		inst._lighttask = nil
     end
+    inst.SoundEmitter:KillSound("loop")
 end
 
 local function OnEntityWake(inst)
     if inst._lighttask == nil then
 	    inst._lighttask = inst:DoPeriodicTask(0, OnUpdateLight)
 	end
+    -- inst.SoundEmitter:PlaySound("turnoftides/common/together/moon_fissure/LP", "loop")
 end
 
 local function getstatus(inst)

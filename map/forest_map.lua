@@ -590,6 +590,7 @@ local function Generate(prefab, map_width, map_height, tasks, level, level_type)
 
     topology_save.root:PopulateVoronoi(SpawnFunctions, entities, map_width, map_height, translated_prefabs, save.map.generated.densities)
 	if story_gen_params.has_ocean then
+		Ocean_SetWorldForOceanGen(WorldSim)
 		Ocean_PlaceSetPieces(level.ocean_prefill_setpieces, add_fn, obj_layout)
 --		local required_treasure_placed = WorldGenPlaceTreasures(topology_save.root:GetChildren(), entities, map_width, map_height, 4600000, level)
 --		if not required_treasure_placed then

@@ -33,21 +33,9 @@ local function on_hammered(inst, hammerer)
     inst:Remove()
 end
 
-local function onignite(inst)
-	inst:RemoveComponent("anchor")
-end
-
-local function onextinguish(inst)
-	if not inst:HasTag("burnt") then
-		inst:AddComponent("anchor")
-	end
-end
-
 local function onburnt(inst)
-	inst:AddTag("burnt")
-	if inst.components.anchor ~= nil then
-		inst:RemoveComponent("anchor")
-	end
+    inst.SoundEmitter:KillSound("mooring")
+    inst.sg:Stop()
 end
 
 local function onsave(inst, data)
@@ -71,7 +59,6 @@ local function fn()
     inst.entity:AddAnimState()
     inst.entity:AddSoundEmitter()
     inst.entity:AddNetwork()
-    --MakeObstaclePhysics(inst, .2)
 
     inst.AnimState:SetBank("boat_anchor")
     inst.AnimState:SetBuild("boat_anchor")
@@ -85,8 +72,6 @@ local function fn()
     end
 
     MakeMediumBurnable(inst, nil, nil, true)
-	inst.components.burnable:SetOnIgniteFn(onignite)
-	inst.components.burnable:SetOnExtinguishFn(onextinguish)
 	inst:ListenForEvent("onburnt", onburnt)
     MakeMediumPropagator(inst)
 

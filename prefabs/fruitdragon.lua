@@ -340,6 +340,26 @@ local function GetDebugString(inst)
 			.. inst:_GetDebugString()
 end
 
+local fruit_dragon_sounds =
+{
+    idle = "turnoftides/creatures/together/fruit_dragon/idle",
+    death = "turnoftides/creatures/together/fruit_dragon/death",
+    eat = "turnoftides/creatures/together/fruit_dragon/eat",
+    hit = "turnoftides/creatures/together/fruit_dragon/hit",
+    sleep_loop = "turnoftides/creatures/together/fruit_dragon/sleep",
+    stretch = "turnoftides/creatures/together/fruit_dragon/stretch",
+    --do_ripen = "turnoftides/creatures/together/fruit_dragon/do_ripen",
+    do_unripen = "dontstarve/creatures/together/grass_gekko/tail_regrow",
+    attack = "dontstarve/creatures/merm/attack",
+    attack_fire = "dontstarve/creatures/merm/attack",
+    attack_whoosh = "dontstarve/wilson/attack_whoosh",  -- TODO @stevenm remove this when the actual attack sounds are in
+    challenge_pre = "dontstarve/creatures/together/grass_gekko/tail_regrow",
+    challenge = "dontstarve/creatures/together/grass_gekko/tail_regrow",
+    challenge_pst = "dontstarve/creatures/together/grass_gekko/tail_regrow",
+    challenge_win = "dontstarve/creatures/together/grass_gekko/tail_regrow",
+    challenge_lose = "dontstarve/creatures/together/grass_gekko/tail_regrow",
+}
+
 local function fn()
     local inst = CreateEntity()
 
@@ -377,6 +397,7 @@ local function fn()
         return inst
     end
 
+    inst.sounds = fruit_dragon_sounds
 	inst._sleep_interupted = true
 	inst._wakeup_time = GetTime()
 	inst._nap_time = -math.huge

@@ -66,6 +66,7 @@ function SteeringWheelUser:SteerInDir(dir_x, dir_z)
 	self.should_play_left_turn_anim = VecUtil_Dot(right_vec.x, right_vec.z, dir_x, dir_z) < 0
 
 	boat.components.boatphysics:SetTargetRudderDirection(dir_x, dir_z)
+	self.inst:PushEvent("set_heading")	
 end
 
 function SteeringWheelUser:GetBoat()

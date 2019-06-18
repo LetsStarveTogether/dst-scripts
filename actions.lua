@@ -244,7 +244,7 @@ ACTIONS =
     LOWER_ANCHOR = Action({ distance=2.5 }),
     EXTEND_PLANK = Action({ distance=2.5 }),
     RETRACT_PLANK = Action({ distance=2.5 }),             
-    ABANDON_SHIP = Action({ distance=2.5 }),             
+    ABANDON_SHIP = Action({ distance=2.5, priority=4 }),             
     MOUNT_PLANK = Action({ distance=0.5 }),            
     DISMOUNT_PLANK = Action({ distance=2.5 }),            
     REPAIR_LEAK = Action({ distance=2.5 }),
@@ -2277,8 +2277,7 @@ ACTIONS.LOWER_SAIL.stroverridefn = function(act)
 end
 
 ACTIONS.RAISE_ANCHOR.fn = function(act)
-    act.target.components.anchor:StartRaisingAnchor()
-    return true
+    return act.target.components.anchor:StartRaisingAnchor()
 end
 
 ACTIONS.RAISE_ANCHOR.stroverridefn = function(act)
@@ -2286,9 +2285,7 @@ ACTIONS.RAISE_ANCHOR.stroverridefn = function(act)
 end
 
 ACTIONS.LOWER_ANCHOR.fn = function(act)
-    local anchor = act.target.components.anchor
-    anchor:StartLoweringAnchor()
-    return true
+    return act.target.components.anchor:StartLoweringAnchor()
 end
 
 ACTIONS.LOWER_ANCHOR.stroverridefn = function(act)
@@ -2313,8 +2310,7 @@ ACTIONS.DISMOUNT_PLANK.stroverridefn = function(act)
 end
 
 ACTIONS.ABANDON_SHIP.fn = function(act)
-    act.target.components.walkingplank:AbandonShip(act.doer)
-    return true
+    return act.target.components.walkingplank:AbandonShip(act.doer)
 end
 
 ACTIONS.ABANDON_SHIP.stroverridefn = function(act)

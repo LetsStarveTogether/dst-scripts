@@ -4,14 +4,28 @@ local function applytickdamage(inst)
 	end
 end
 
-local function onignite(inst)
-	inst.boat.activefires = inst.boat.activefires + 1
+local function onsmoldering(inst)
+	inst:RemoveTag("NOCLICK")
+end
 
-	inst.task = inst:DoPeriodicTask(1, applytickdamage)
+local function onignite(inst)
+	if inst.boat ~= nil then
+		inst.boat.activefires = inst.boat.activefires + 1
+		inst.task = inst:DoPeriodicTask(1, applytickdamage)
+	end
+	
+	inst:RemoveTag("NOCLICK")   
+end
+
+local function onstopsmoldering(inst)
+	inst:AddTag("NOCLICK")
 end
 
 local function onextinguish(inst)
-	inst.boat.activefires = inst.boat.activefires - 1
+	if inst.boat ~= nil then	
+		inst.boat.activefires = inst.boat.activefires - 1
+	end
+	inst:AddTag("NOCLICK")   
 
 	if inst.task ~= nil then
 		inst.task:Cancel()
@@ -27,6 +41,7 @@ local function fn()
     inst.entity:AddNetwork()
 
     inst:AddTag("NOBLOCK")   
+    inst:AddTag("NOCLICK")   
     
     inst.entity:SetPristine()
 
@@ -41,6 +56,8 @@ local function fn()
 	inst.components.burnable:SetBurnTime(nil)
 	inst.components.burnable:SetOnIgniteFn(onignite)
 	inst.components.burnable:SetOnExtinguishFn(onextinguish)
+	inst.components.burnable:SetOnSmolderingFn(onsmoldering)
+	inst.components.burnable:SetOnStopSmolderingFn(onstopsmoldering)
 	MakeLargePropagator(inst)
 
     return inst

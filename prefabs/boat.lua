@@ -324,5 +324,5 @@ return Prefab("boat", fn, assets, prefabs),
        Prefab("boat_player_collision", boat_player_collision_fn),
        Prefab("boat_item_collision", boat_item_collision_fn),
        Prefab("boat_item", item_fn, item_assets, item_prefabs),
-       MakePlacer("boat_item_placer", "boat_01", "boat_test", "idle_full", true)
+       MakePlacer("boat_item_placer", "boat_01", "boat_test", "idle_full", true, false, false, nil, nil, nil, nil, 6)
 

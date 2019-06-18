@@ -5,7 +5,7 @@ local Oar = Class(function(self, inst)
 	self.fail_wetness = 9
 end)
 
-function Oar:Row(doer, pos)	
+function Oar:Row(doer, pos)
 	local doer_x, doer_y, doer_z = doer.Transform:GetWorldPosition()
 	local platform = TheWorld.Map:GetPlatformAtPoint(doer_x, doer_z)
 	if platform == nil or not platform:IsValid() then return end
@@ -15,26 +15,12 @@ function Oar:Row(doer, pos)
 
 	local row_dir_x, row_dir_z = VecUtil_Normalize(pos.x - doer_x, pos.z - doer_z)
 
-	if TheInput:ControllerAttached() then
-		local boat_x, boat_y, boat_z = boat_physics.inst.Transform:GetWorldPosition()			
+	if doer.components.playercontroller.isclientcontrollerattached then
+		local boat_x, boat_y, boat_z = boat_physics.inst.Transform:GetWorldPosition()
 		row_dir_x, row_dir_z = VecUtil_Normalize(doer_x - boat_x, doer_z - boat_z)
 	end
 
-	boat_physics:Row(row_dir_x, row_dir_z, self.force)
-end
-
-function Oar:FaceWater(doer, target_pos)
-	local doer_x, doer_y, doer_z = doer.Transform:GetWorldPosition()
-
-	if TheInput:ControllerAttached() then
-		local my_platform = TheWorld.Map:GetPlatformAtPoint(doer_x, doer_z)
-        local my_platform_x, my_platform_y, my_platform_z = my_platform.Transform:GetWorldPosition()
-        local dir_x, dir_z = VecUtil_Normalize(doer_x - my_platform_x, doer_z - my_platform_z)
-        doer:ForceFacePoint(doer_x + dir_x, 0, doer_z + dir_z)
-	else
-		doer:ForceFacePoint(target_pos.x, 0, target_pos.z)
-	end
-
+	boat_physics:ApplyForce(row_dir_x, row_dir_z, self.force)
 end
 
 function Oar:RowFail(doer)

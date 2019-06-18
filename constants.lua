@@ -1484,7 +1484,8 @@ DEPLOYMODE =
     TURF = 3,
     PLANT = 4,
     WALL = 5,
-    WATER = 6
+    WATER = 6,
+    MAST = 7
 }
 
 BUILDMODE =

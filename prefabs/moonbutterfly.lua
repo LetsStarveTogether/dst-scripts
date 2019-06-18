@@ -137,6 +137,7 @@ local function fn()
     inst:AddTag("wildfireprotected")
     inst:AddTag("show_spoilage")
     inst:AddTag("small_livestock")
+    inst:AddTag("deployedplant")
 
     inst:DoPeriodicTask(.1, OnUpdateFlicker, nil, GetTime())
     OnUpdateFlicker(inst)
