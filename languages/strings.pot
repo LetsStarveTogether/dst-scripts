@@ -93625,7 +93625,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEERCLOPS"
-msgid "Eyeball Branch Head near!"
+msgid "Something scary coming!!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DESPAWN
@@ -100325,7 +100325,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FOOD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FOOD"
-msgid "Yum"
+msgid "Not good for belly"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_MEDIUM
@@ -102735,7 +102735,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DEERCLOPS"
-msgid "Clipping and clopping, here comes a stomping!"
+msgid "A massive brute is en route!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DESPAWN
@@ -134568,6 +134568,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_catcoon"
 msgid "Squirrel away your items with this catcoon-shaped carryall."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.backpack_chester
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_chester"
+msgid "He's a chest! He's a backpack! Chester is a lad of many talents."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.backpack_crab
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_crab"
 msgid "Watch out, this snappy backpack can get a little snippy!"
@@ -135878,6 +135883,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_spider"
 msgid "This lil guy can't get enough! Don't worry though, he'll share everything he catches with you."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.bugnet_spider_white
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_spider_white"
+msgid "It's nice not to be the one getting eaten for a change."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.cane_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.cane_ancient"
 msgid "To tread ancient paths, long forgotten."
@@ -136266,6 +136276,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.endtable_vintage
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.endtable_vintage"
 msgid "A quaint decorative table that would make your grandmother proud."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_crystal"
+msgid "Somewhere in the Constant there's a Deerclops missing her contact lens."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.featherhat_circus
@@ -137358,6 +137373,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_coffin"
 msgid "Send your food to an icy grave."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_crystal"
+msgid "As icy inside as it is outside."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.icebox_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_victorian"
 msgid "A sophisticated ice box, for the sophisticated wilderness dweller."
@@ -138061,6 +138081,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.missing
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.missing"
 msgid "This item completely mystifies you."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.moonstaff_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.moonstaff_crystal"
+msgid "A jeweled, opalescent staff, imbued with the moon's shimmering power."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
@@ -138788,6 +138813,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heatrockfire"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_iceboxcrystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_iceboxcrystal"
+msgid "PLACEHOLDER"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lamppost
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lamppost"
 msgid "Equip this item to change your character's background portrait."
@@ -138836,6 +138866,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_monsterspawn
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_monsterspawn"
 msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_moonstarstaffcrystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_moonstarstaffcrystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroom
@@ -139288,6 +139323,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_hound"
 msgid "Set your profile icon to a hound."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_icebox_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_icebox_crystal"
+msgid "PLACEHOLDER"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_icehound
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_icehound"
 msgid "Set your profile icon to a chilly Blue Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
@@ -139341,6 +139381,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mole
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mole"
 msgid "Set your profile icon to a moleworm."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_moonstaff_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_moonstaff_crystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mudpie_yotp
@@ -139546,6 +139591,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_spider
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_spider"
 msgid "Set your profile icon to a spider."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_starstaff_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_starstaff_crystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_tallbird_eye
@@ -140031,6 +140081,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_wrestle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_wrestle"
 msgid "Let them try to wrestle this away from you."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal"
+msgid "A blindingly beautiful staff, filled with the magic of stars."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.strawhat_cowboy
@@ -141266,6 +141321,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.backpack_catcoon
 msgctxt "STRINGS.SKIN_NAMES.backpack_catcoon"
 msgid "Catcoon Carryall"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.backpack_chester
+msgctxt "STRINGS.SKIN_NAMES.backpack_chester"
+msgid "Chester Backpack"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.backpack_crab
@@ -142578,6 +142638,11 @@ msgctxt "STRINGS.SKIN_NAMES.bugnet_spider"
 msgid "Ravenous Spidernet"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.bugnet_spider_white
+msgctxt "STRINGS.SKIN_NAMES.bugnet_spider_white"
+msgid "Cavernous Spidernet"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.cane_ancient
 msgctxt "STRINGS.SKIN_NAMES.cane_ancient"
 msgid "Ancient Cane"
@@ -142966,6 +143031,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.endtable_vintage
 msgctxt "STRINGS.SKIN_NAMES.endtable_vintage"
 msgid "Antique Endtable"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.eyebrellahat_crystal
+msgctxt "STRINGS.SKIN_NAMES.eyebrellahat_crystal"
+msgid "Glass Eyebrella"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.featherhat_circus
@@ -144058,6 +144128,11 @@ msgctxt "STRINGS.SKIN_NAMES.icebox_coffin"
 msgid "Icy Grave"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.icebox_crystal
+msgctxt "STRINGS.SKIN_NAMES.icebox_crystal"
+msgid "Crystalline Ice Box"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.icebox_victorian
 msgctxt "STRINGS.SKIN_NAMES.icebox_victorian"
 msgid "Victorian Ice Box"
@@ -144761,6 +144836,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.missing
 msgctxt "STRINGS.SKIN_NAMES.missing"
 msgid "Thingamabob"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.moonstaff_crystal
+msgctxt "STRINGS.SKIN_NAMES.moonstaff_crystal"
+msgid "Prismatic Moon Caller's Staff"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.mysterybox_classic_4
@@ -145488,6 +145568,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_heatrockfire"
 msgid "Metamorphosed Flame Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_iceboxcrystal
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_iceboxcrystal"
+msgid "PLACEHOLDER"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_lamppost
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_lamppost"
 msgid "Lamp Post Portrait"
@@ -145536,6 +145621,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_monsterspawn
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_monsterspawn"
 msgid "Forge Portal Portrait"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_moonstarstaffcrystal
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_moonstarstaffcrystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_mushroom
@@ -145988,6 +146078,11 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_hound"
 msgid "Hound"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.profileflair_icebox_crystal
+msgctxt "STRINGS.SKIN_NAMES.profileflair_icebox_crystal"
+msgid "PLACEHOLDER"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_icehound
 msgctxt "STRINGS.SKIN_NAMES.profileflair_icehound"
 msgid "Blue Hound"
@@ -146041,6 +146136,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_mole
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mole"
 msgid "Moleworm"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_moonstaff_crystal
+msgctxt "STRINGS.SKIN_NAMES.profileflair_moonstaff_crystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_mudpie_yotp
@@ -146246,6 +146346,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_spider
 msgctxt "STRINGS.SKIN_NAMES.profileflair_spider"
 msgid "Spider"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_starstaff_crystal
+msgctxt "STRINGS.SKIN_NAMES.profileflair_starstaff_crystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_tallbird_eye
@@ -146731,6 +146836,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.spear_wathgrithr_wrestle
 msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_wrestle"
 msgid "Ultimate Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.starstaff_crystal
+msgctxt "STRINGS.SKIN_NAMES.starstaff_crystal"
+msgid "Radiant Star Caller's Staff"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.strawhat_cowboy
@@ -148983,6 +149093,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ENDTABLE"
 msgid "End Table"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT"
+msgid "Eyebrella"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT"
 msgid "Feather Hat"
@@ -149046,6 +149161,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT"
 msgid "Miner Hat"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF"
+msgid "Moon Caller's Staff"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINHAT
@@ -149136,6 +149256,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER"
 msgid "Thermal Measurer"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF"
+msgid "Star Caller's Staff"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.TYPE.BASE
@@ -156556,6 +156681,16 @@ msgstr ""
 #. STRINGS.UI.HUD.REPORT_RESULT_ANNOUCEMENT
 msgctxt "STRINGS.UI.HUD.REPORT_RESULT_ANNOUCEMENT"
 msgid "Your presence has been noticed."
+msgstr ""
+
+#. STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT
+msgctxt "STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT"
+msgid "World will reload in {time} seconds to complete retrofitting."
+msgstr ""
+
+#. STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT_Now
+msgctxt "STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT_Now"
+msgid "World is reloading to complete retrofitting."
 msgstr ""
 
 #. STRINGS.UI.HUD.REZ_ANNOUNCEMENT
