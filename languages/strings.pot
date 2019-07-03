@@ -156708,6 +156708,16 @@ msgctxt "STRINGS.UI.HUD.REPORT_RESULT_ANNOUCEMENT"
 msgid "Your presence has been noticed."
 msgstr ""
 
+#. STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT
+msgctxt "STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT"
+msgid "World will reload in {time} seconds to complete retrofitting."
+msgstr ""
+
+#. STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT_Now
+msgctxt "STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT_Now"
+msgid "World is reloading to complete retrofitting."
+msgstr ""
+
 #. STRINGS.UI.HUD.REZ_ANNOUNCEMENT
 msgctxt "STRINGS.UI.HUD.REZ_ANNOUNCEMENT"
 msgid "was resurrected by"
