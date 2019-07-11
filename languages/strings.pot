@@ -138840,7 +138840,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_iceboxcrystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_iceboxcrystal"
-msgid "PLACEHOLDER"
+msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lamppost
@@ -138895,7 +138895,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_moonstarstaffcrystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_moonstarstaffcrystal"
-msgid "PLACEHOLDER"
+msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroom
@@ -139350,7 +139350,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_icebox_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_icebox_crystal"
-msgid "PLACEHOLDER"
+msgid "Set your profile icon to a sparkly crystal ice box.\n\nLooks just like real ice!"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_icehound
@@ -139410,7 +139410,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_moonstaff_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_moonstaff_crystal"
-msgid "PLACEHOLDER"
+msgid "Set your profile icon to a Prismatic Moon Caller Staff."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mudpie_yotp
@@ -139620,7 +139620,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_starstaff_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_starstaff_crystal"
-msgid "PLACEHOLDER"
+msgid "Set your profile icon to a Radiant Star Caller's Staff."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_tallbird_eye
@@ -145595,7 +145595,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_iceboxcrystal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_iceboxcrystal"
-msgid "PLACEHOLDER"
+msgid "Crystalline Ice Box Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_lamppost
@@ -145650,7 +145650,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_moonstarstaffcrystal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_moonstarstaffcrystal"
-msgid "PLACEHOLDER"
+msgid "Radiant Star Caller's Staff Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_mushroom
@@ -146105,7 +146105,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_icebox_crystal
 msgctxt "STRINGS.SKIN_NAMES.profileflair_icebox_crystal"
-msgid "PLACEHOLDER"
+msgid "Crystalline Ice Box"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_icehound
@@ -146165,7 +146165,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_moonstaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.profileflair_moonstaff_crystal"
-msgid "PLACEHOLDER"
+msgid "Prismatic Moon Caller Staff"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_mudpie_yotp
@@ -146375,7 +146375,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_starstaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.profileflair_starstaff_crystal"
-msgid "PLACEHOLDER"
+msgid "Radiant Star Caller's Staff"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_tallbird_eye
@@ -164013,56 +164013,6 @@ msgctxt "STRINGS.UI.SKINSSCREEN.USABLE_ON_POPUP"
 msgid "{skin} will change the appearance of {item}."
 msgstr ""
 
-#. STRINGS.UI.SKINTYPES.CYCLE_VIEW
-msgctxt "STRINGS.UI.SKINTYPES.CYCLE_VIEW"
-msgid "Cycle View"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.GHOST
-msgctxt "STRINGS.UI.SKINTYPES.GHOST"
-msgid "Ghost"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.GHOST_WEREBEAVER
-msgctxt "STRINGS.UI.SKINTYPES.GHOST_WEREBEAVER"
-msgid "Ghost Werebeaver"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.MIGHTY
-msgctxt "STRINGS.UI.SKINTYPES.MIGHTY"
-msgid "Mighty"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.NORMAL
-msgctxt "STRINGS.UI.SKINTYPES.NORMAL"
-msgid "Normal"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.WEREBEAVER
-msgctxt "STRINGS.UI.SKINTYPES.WEREBEAVER"
-msgid "Werebeaver"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.WIMPY
-msgctxt "STRINGS.UI.SKINTYPES.WIMPY"
-msgid "Wimpy"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.WORMWOOD_STAGE2
-msgctxt "STRINGS.UI.SKINTYPES.WORMWOOD_STAGE2"
-msgid "Bloom 1"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.WORMWOOD_STAGE3
-msgctxt "STRINGS.UI.SKINTYPES.WORMWOOD_STAGE3"
-msgid "Bloom 2"
-msgstr ""
-
-#. STRINGS.UI.SKINTYPES.WORMWOOD_STAGE4
-msgctxt "STRINGS.UI.SKINTYPES.WORMWOOD_STAGE4"
-msgid "Bloom 3"
-msgstr ""
-
 #. STRINGS.UI.SKIN_PRESETS.TITLE
 msgctxt "STRINGS.UI.SKIN_PRESETS.TITLE"
 msgid "Clothing Presets"
@@ -164796,6 +164746,11 @@ msgstr ""
 #. STRINGS.UI.WARDROBESCREEN.BODY
 msgctxt "STRINGS.UI.WARDROBESCREEN.BODY"
 msgid "Body"
+msgstr ""
+
+#. STRINGS.UI.WARDROBESCREEN.CYCLE_VIEW
+msgctxt "STRINGS.UI.WARDROBESCREEN.CYCLE_VIEW"
+msgid "Cycle View"
 msgstr ""
 
 #. STRINGS.UI.WARDROBESCREEN.FEET
