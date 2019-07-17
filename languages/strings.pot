@@ -138738,6 +138738,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_elementals"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_eyebrellahatcrystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_eyebrellahatcrystal"
+msgid "PLACEHOLDER"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_factory
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_factory"
 msgid "Equip this item to change your character's background portrait."
@@ -139191,6 +139196,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_dragonfruit
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_dragonfruit"
 msgid "Set your profile icon to a tasty dragon fruit."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_eyebrellahat_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_eyebrellahat_crystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_factory
@@ -145493,6 +145503,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_elementals"
 msgid "Magma Golem Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_eyebrellahatcrystal
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_eyebrellahatcrystal"
+msgid "PLACEHOLDER"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_factory
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_factory"
 msgid "Factory Portrait"
@@ -145946,6 +145961,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_dragonfruit
 msgctxt "STRINGS.SKIN_NAMES.profileflair_dragonfruit"
 msgid "Dragon Fruit"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_eyebrellahat_crystal
+msgctxt "STRINGS.SKIN_NAMES.profileflair_eyebrellahat_crystal"
+msgid "PLACEHOLDER"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_factory
@@ -156706,16 +156726,6 @@ msgstr ""
 #. STRINGS.UI.HUD.REPORT_RESULT_ANNOUCEMENT
 msgctxt "STRINGS.UI.HUD.REPORT_RESULT_ANNOUCEMENT"
 msgid "Your presence has been noticed."
-msgstr ""
-
-#. STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT
-msgctxt "STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT"
-msgid "World will reload in {time} seconds to complete retrofitting."
-msgstr ""
-
-#. STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT_Now
-msgctxt "STRINGS.UI.HUD.RETROFITTING_ANNOUNCEMENT_Now"
-msgid "World is reloading to complete retrofitting."
 msgstr ""
 
 #. STRINGS.UI.HUD.REZ_ANNOUNCEMENT
