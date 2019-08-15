@@ -15745,7 +15745,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_BOARLORD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_BOARLORD"
-msgid "PLACEHOLDER"
+msgid "He's the one who cooked up this whole thing."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_CROWNDAMAGERHAT
@@ -15785,7 +15785,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_HEAVYBLADE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_HEAVYBLADE"
-msgid "PLACEHOLDER"
+msgid "Perfect for chopping ingredients, and enemies!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_KEYHOLE
@@ -15810,22 +15810,22 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_PORTAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_PORTAL.GENERIC"
-msgid "PLACEHOLDER"
+msgid "One day I'll find the portal that takes me home..."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_PORTAL.ON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_PORTAL.ON"
-msgid "PLACEHOLDER"
+msgid "Let's go, tout suite!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_RECHARGERHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_RECHARGERHAT"
-msgid "PLACEHOLDER"
+msgid "That should put a bit of pep in my step, non?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SPAWNER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SPAWNER"
-msgid "PLACEHOLDER"
+msgid "That's where our foes keep coming from!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_STRONGDAMAGERHAT
@@ -15835,7 +15835,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_TIARAFLOWERPETALSHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_TIARAFLOWERPETALSHAT"
-msgid "PLACEHOLDER"
+msgid "With this I can heal mes amis!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAE
@@ -152748,6 +152748,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma"
 msgid "WX-78 has a burning need to\nINCINERATE."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.mast_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose"
+msgid "This striking sail comes adorned with a rose crest."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_rose_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.minerhat_cowboy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minerhat_cowboy"
 msgid "n/a"
@@ -159598,6 +159608,16 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wx_magma"
 msgid "The Magmatic Automaton"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.mast_rose
+msgctxt "STRINGS.SKIN_NAMES.mast_rose"
+msgid "Roseate Sail"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mast_rose_item
+msgctxt "STRINGS.SKIN_NAMES.mast_rose_item"
+msgid "Roseate Sail"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.minerhat_cowboy
 msgctxt "STRINGS.SKIN_NAMES.minerhat_cowboy"
 msgid "Cowboy Headlamp"
@@ -164008,6 +164028,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.LIGHTER"
 msgid "Willow's Lighter"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAST"
+msgid "Mast"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT"
 msgid "Miner Hat"
@@ -164836,6 +164861,11 @@ msgstr ""
 #. STRINGS.THANKS_POPUP.LUNAR
 msgctxt "STRINGS.THANKS_POPUP.LUNAR"
 msgid "Thanks for playing during the\nYear of the Gobbler event"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.TOT
+msgctxt "STRINGS.THANKS_POPUP.TOT"
+msgid "Wishing you fair winds and following seas\non the Turn of Tides!"
 msgstr ""
 
 #. STRINGS.THANKS_POPUP.TWITCH_DROP
@@ -173658,11 +173688,6 @@ msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_0"
 msgid "Verifying mod cache..."
 msgstr ""
 
-#. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_PERCENT
-msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_PERCENT"
-msgid "%s percent"
-msgstr ""
-
 #. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_LIST
 msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_LIST"
 msgid "Checking Workshop subscriptions..."
@@ -175998,6 +176023,21 @@ msgctxt "STRINGS.UI.PRESENCE.SESSION_NOT_FOUND_TITLE"
 msgid "Session Not Found"
 msgstr ""
 
+#. STRINGS.UI.PURCHASEPACKSCREEN.CURRENCY_NEEDED
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.CURRENCY_NEEDED"
+msgid "You require {currency_needed} Bolts for the {chest_name}"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.CURRENCY_OK
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.CURRENCY_OK"
+msgid "You have the required Bolts for the {chest_name}"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.CURRENCY_SHORT_DESC
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.CURRENCY_SHORT_DESC"
+msgid "Includes {currency} Bolts of Cloth!"
+msgstr ""
+
 #. STRINGS.UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER"
 msgid "Discount:"
@@ -176086,6 +176126,16 @@ msgstr ""
 #. STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC"
 msgid "Includes {total_sets} skin sets! {total_items} total skin items!"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.NOT_ENOUGH_BODY
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.NOT_ENOUGH_BODY"
+msgid "Unfortunately you don't have the required Bolts of Cloth to purchase the {chest_name}. You still require {currency_needed} Bolts. Would you like to look at Bolt chests?"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.NOT_ENOUGH_TITLE
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.NOT_ENOUGH_TITLE"
+msgid "Lacking Bolts of Cloth"
 msgstr ""
 
 #. STRINGS.UI.PURCHASEPACKSCREEN.OK
@@ -176188,9 +176238,39 @@ msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.UNOWNED_CHARACTER_BODY"
 msgid "You do not currently own {character}.\nThis chest contains skins for {character}, which will be unusable without owning them."
 msgstr ""
 
+#. STRINGS.UI.PURCHASEPACKSCREEN.VIEW_CURRENCY
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIEW_CURRENCY"
+msgid "View Bolt Chests"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.VIEW_REGULAR
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIEW_REGULAR"
+msgid "View Chests"
+msgstr ""
+
 #. STRINGS.UI.PURCHASEPACKSCREEN.VIEW_REQUIRED
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIEW_REQUIRED"
 msgid "View {character} Chests"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY"
+msgid "Bolts of Cloth"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY_SHORT
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_CURRENCY_SHORT"
+msgid "Bolts"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_BODY
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_BODY"
+msgid "Are you sure you would like to spend {cost} Bolts on the {chest_name}?"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_TITLE
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.VIRTUAL_IAP_CONFIRM_TITLE"
+msgid "Confirm Purchase"
 msgstr ""
 
 #. STRINGS.UI.QUICKJOINSCREEN.BODY
