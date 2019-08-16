@@ -358,8 +358,8 @@ msgstr "下来"
 
 #. STRINGS.ACTIONS.DISMOUNT_PLANK
 msgctxt "STRINGS.ACTIONS.DISMOUNT_PLANK"
-msgid "Dismount Plank"
-msgstr "回船"
+msgid "Dismount"
+msgstr "下来"
 
 #. STRINGS.ACTIONS.DRAW
 msgctxt "STRINGS.ACTIONS.DRAW"
@@ -413,8 +413,8 @@ msgstr "装备"
 
 #. STRINGS.ACTIONS.EXTEND_PLANK
 msgctxt "STRINGS.ACTIONS.EXTEND_PLANK"
-msgid "Extend Plank"
-msgstr "伸板"
+msgid "Extend"
+msgstr "伸出"
 
 #. STRINGS.ACTIONS.EXTINGUISH
 msgctxt "STRINGS.ACTIONS.EXTINGUISH"
@@ -578,8 +578,8 @@ msgstr "检查"
 
 #. STRINGS.ACTIONS.LOWER_ANCHOR
 msgctxt "STRINGS.ACTIONS.LOWER_ANCHOR"
-msgid "Lower Anchor"
-msgstr "下锚"
+msgid "Lower"
+msgstr "下"
 
 #. STRINGS.ACTIONS.LOWER_SAIL
 msgctxt "STRINGS.ACTIONS.LOWER_SAIL"
@@ -628,8 +628,8 @@ msgstr "骑"
 
 #. STRINGS.ACTIONS.MOUNT_PLANK
 msgctxt "STRINGS.ACTIONS.MOUNT_PLANK"
-msgid "Mount Plank"
-msgstr "走上木板"
+msgid "Mount"
+msgstr "骑"
 
 #. STRINGS.ACTIONS.MURDER
 msgctxt "STRINGS.ACTIONS.MURDER"
@@ -703,8 +703,8 @@ msgstr "授粉"
 
 #. STRINGS.ACTIONS.RAISE_ANCHOR
 msgctxt "STRINGS.ACTIONS.RAISE_ANCHOR"
-msgid "Raise Anchor"
-msgstr "起锚"
+msgid "Raise"
+msgstr "起"
 
 #. STRINGS.ACTIONS.RAISE_SAIL
 msgctxt "STRINGS.ACTIONS.RAISE_SAIL"
@@ -773,8 +773,8 @@ msgstr "重置"
 
 #. STRINGS.ACTIONS.RETRACT_PLANK
 msgctxt "STRINGS.ACTIONS.RETRACT_PLANK"
-msgid "Retract Plank"
-msgstr "收板"
+msgid "Retract"
+msgstr "收回"
 
 #. STRINGS.ACTIONS.REVIVE_CORPSE
 msgctxt "STRINGS.ACTIONS.REVIVE_CORPSE"
@@ -111798,7 +111798,7 @@ msgstr "这个朋友能帮忙推水"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OAR_DRIFTWOOD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OAR_DRIFTWOOD"
-msgid "Freind helps push water fast!"
+msgid "Friend helps push water fast!"
 msgstr "朋友帮着更快的推水！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OASISLAKE.EMPTY
