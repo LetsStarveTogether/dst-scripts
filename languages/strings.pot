@@ -164918,6 +164918,16 @@ msgctxt "STRINGS.THANKS_POPUP.CUPID"
 msgid "Happy Valentine's Day\nfrom your friends at Klei"
 msgstr ""
 
+#. STRINGS.THANKS_POPUP.DAILY_GIFT
+msgctxt "STRINGS.THANKS_POPUP.DAILY_GIFT"
+msgid "Welcome back!\nPlease enjoy this daily gift."
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.DEFAULT
+msgctxt "STRINGS.THANKS_POPUP.DEFAULT"
+msgid "Thanks for playing"
+msgstr ""
+
 #. STRINGS.THANKS_POPUP.GORGE
 msgctxt "STRINGS.THANKS_POPUP.GORGE"
 msgid "Thanks for playing during the\nGorge event"
@@ -164928,14 +164938,49 @@ msgctxt "STRINGS.THANKS_POPUP.GORGE_TOURNAMENT"
 msgid "Thanks for participating in the\nGorge Tournament"
 msgstr ""
 
+#. STRINGS.THANKS_POPUP.HAMLET
+msgctxt "STRINGS.THANKS_POPUP.HAMLET"
+msgid "Thanks for playing"
+msgstr ""
+
 #. STRINGS.THANKS_POPUP.LUNAR
 msgctxt "STRINGS.THANKS_POPUP.LUNAR"
 msgid "Thanks for playing during the\nYear of the Gobbler event"
 msgstr ""
 
+#. STRINGS.THANKS_POPUP.ROG
+msgctxt "STRINGS.THANKS_POPUP.ROG"
+msgid "Thanks for playing"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.ROGR
+msgctxt "STRINGS.THANKS_POPUP.ROGR"
+msgid "Thank you for buying the Reign of Giants DLC"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.STORE
+msgctxt "STRINGS.THANKS_POPUP.STORE"
+msgid "Enjoy your gift"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.SW
+msgctxt "STRINGS.THANKS_POPUP.SW"
+msgid "Thanks for playing"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.SWR
+msgctxt "STRINGS.THANKS_POPUP.SWR"
+msgid "Thank you for buying the ShipWrecked DLC"
+msgstr ""
+
 #. STRINGS.THANKS_POPUP.TOT
 msgctxt "STRINGS.THANKS_POPUP.TOT"
 msgid "Wishing you fair winds and following seas\non the Turn of Tides!"
+msgstr ""
+
+#. STRINGS.THANKS_POPUP.TWITCH
+msgctxt "STRINGS.THANKS_POPUP.TWITCH"
+msgid "Thanks for watching game streams"
 msgstr ""
 
 #. STRINGS.THANKS_POPUP.TWITCH_DROP
@@ -171836,46 +171881,6 @@ msgstr ""
 #. STRINGS.UI.ITEM_SCREEN.RECEIVED
 msgctxt "STRINGS.UI.ITEM_SCREEN.RECEIVED"
 msgid "You Received"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_DAILY
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_DAILY"
-msgid "Welcome back!\nPlease enjoy this daily gift."
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_ROGR
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_ROGR"
-msgid "Thank you for buying the Reign of Giants DLC"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_SECONDTITLE.EARLY_ACCESS
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_SECONDTITLE.EARLY_ACCESS"
-msgid "Early\nAccess"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_SWR
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_SWR"
-msgid "Thank you for buying the ShipWrecked DLC"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE"
-msgid "Thanks for playing"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_DEFAULT
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_DEFAULT"
-msgid "Thanks for playing"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_STORE
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_STORE"
-msgid "Enjoy your gift"
-msgstr ""
-
-#. STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH
-msgctxt "STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH"
-msgid "Thanks for watching game streams"
 msgstr ""
 
 #. STRINGS.UI.ITEM_SCREEN.USE_LATER
