@@ -151811,6 +151811,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon_builder"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_puft
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_puft"
+msgid "Seems familiar, and yet... otherworldly."
+msgstr "异常熟悉，然而……并不属于这个世界。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_puft_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_puft_builder"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.glomling_winter
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_winter"
 msgid "What a precious little snowball you are, Glomglom!"
@@ -153430,6 +153440,11 @@ msgstr "这个熔炉箱子里有伍迪的全套绿色皮肤物品。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_wx78"
 msgid "This Spring Chest contains WX-78's complete set of Verdant skin items."
 msgstr "这个熔炉箱子里有 WX-78 的全套绿色皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_oni_gift
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_oni_gift"
+msgid "Oxygen Not Included Gift"
+msgstr "《缺氧》礼物"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
@@ -158806,6 +158821,16 @@ msgctxt "STRINGS.SKIN_NAMES.glomling_beardeddragon_builder"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_NAMES.glomling_puft
+msgctxt "STRINGS.SKIN_NAMES.glomling_puft"
+msgid "Puft"
+msgstr "喷浮飞鱼"
+
+#. STRINGS.SKIN_NAMES.glomling_puft_builder
+msgctxt "STRINGS.SKIN_NAMES.glomling_puft_builder"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_NAMES.glomling_winter
 msgctxt "STRINGS.SKIN_NAMES.glomling_winter"
 msgid "Snowy Glomglom"
@@ -160425,6 +160450,11 @@ msgstr "伍迪春季箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_nature_wx78"
 msgid "WX-78 Spring Chest"
 msgstr "WX-78 春季箱子"
+
+#. STRINGS.SKIN_NAMES.pack_oni_gift
+msgctxt "STRINGS.SKIN_NAMES.pack_oni_gift"
+msgid "Oxygen Not Included Gift"
+msgstr "《缺氧》礼物"
 
 #. STRINGS.SKIN_NAMES.pack_rog_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
@@ -165435,6 +165465,11 @@ msgstr "开始炽热！"
 msgctxt "STRINGS.THANKS_POPUP.LUNAR"
 msgid "Thanks for playing during the\nYear of the Gobbler event"
 msgstr "感谢您参与\n火鸡之年活动"
+
+#. STRINGS.THANKS_POPUP.ONI
+msgctxt "STRINGS.THANKS_POPUP.ONI"
+msgid "Thanks for playing"
+msgstr "感谢赏玩"
 
 #. STRINGS.THANKS_POPUP.ROG
 msgctxt "STRINGS.THANKS_POPUP.ROG"
