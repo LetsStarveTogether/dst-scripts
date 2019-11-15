@@ -175,7 +175,7 @@ function OceanFishBrain:OnStart()
 				),
 
 				RunAway(self.inst, "oceansplash", SPLASH_AVOID_DIST, SPLASH_AVOID_STOP),
-				RunAway(self.inst, "scarytooceanprey", SCARY_AVOID_DIST, SCARY_AVOID_STOP),
+				RunAway(self.inst, {tags = {"scarytooceanprey"}}, SCARY_AVOID_DIST, SCARY_AVOID_STOP), -- using this to disable the "NOCLICK" no tag
 
 				NotDecorator(ActionNode(function() FindFoodAction(self.inst) end)),
 				WhileNode(function() return GetFoodTarget(self.inst) ~= nil end, "FeedingTime",

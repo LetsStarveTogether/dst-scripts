@@ -351,14 +351,9 @@ local function inkfn()
     inst.AnimState:PushAnimation("ink_loop")
     inst.AnimState:SetFinalOffset(3)
 
-
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then
-        inst:ListenForEvent("fadedirty", OnFadeDirty)
-
-        inst.OnEntityReplicated = OnEntityReplicated
-
         return inst
     end    
 

@@ -234,7 +234,7 @@ local function waterfn(data)
 
     inst:AddTag("ignorewalkableplatforms")
 	inst:AddTag("notarget")
-	--inst:AddTag("NOCLICK")
+	inst:AddTag("NOCLICK")
 	inst:AddTag("NOBLOCK")-- it's fine to build things on top of them
 	inst:AddTag("oceanfishable")
 	inst:AddTag("oceanfishinghookable")

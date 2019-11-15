@@ -25,8 +25,8 @@ local prefabs =
 
 local gnar_brain = require "brains/gnarwailbrain"
 
-local gnarwail_loot_horn = {"fishmeat", "gnarwail_horn"}
-local gnarwail_loot = {"fishmeat"}
+local gnarwail_loot_horn = {"fishmeat", "fishmeat", "fishmeat", "fishmeat", "gnarwail_horn"}
+local gnarwail_loot = {"fishmeat", "fishmeat", "fishmeat", "fishmeat"}
 local gnarwail_attack_horn_loot = {"gnarwail_horn"}
 
 -- We try to leverage FindSwimmableOffset to identify a resurface location that is in the ocean and not under a boat.

@@ -70,7 +70,7 @@ local function GetFoodTarget(inst)
     local target = inst.foodtarget or FindEntity(inst, SEE_FOOD_DIST, function(food)
                 return TheWorld.Map:IsOceanAtPoint(inst.Transform:GetWorldPosition())
             end,
-            {"oceanfish", "oceanfishable"})
+            {"oceanfish"})
 
     return target
 end
@@ -91,14 +91,22 @@ local function EatFishAction(inst)
             end,
             nil,
             nil,
-            {"oceanfish", "oceanfishable"})
+            {"oceanfish"})
 
         if target then
             inst.foodtarget = target
             local targetpos = Vector3(target.Transform:GetWorldPosition())
             
             -- signal nearby squid to eat nearby fish
-            local fish = TheSim:FindEntities(targetpos.x, targetpos.y, targetpos.z, 10, {"oceanfish", "oceanfishable"} ) 
+            local fish = TheSim:FindEntities(targetpos.x, targetpos.y, targetpos.z, 10, {"oceanfish"} ) 
+            if #fish >0 then
+                for i=#fish,1,-1 do
+                    local item = fish[i]
+                    if not item.components.oceanfishable or not TheWorld.Map:IsOceanAtPoint(item.Transform:GetWorldPosition()) then
+                        table.remove(fish,i)
+                    end
+                end 
+            end            
             local squidpos = Vector3(inst.Transform:GetWorldPosition())
             local herd = inst.components.herdmember:GetHerd()
             if herd and #fish > 0 then

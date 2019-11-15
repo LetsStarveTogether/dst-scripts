@@ -28,9 +28,9 @@ local _map = TheWorld.Map
 --------------------------------------------------------------------------
 
 local SQUID_TEST_RADIUS = 80
-local SQUID_SPAWN_CHANCE = 1
 local SQUID_SPAWN_INTERVAL = 6 * TUNING.TOTAL_DAY_TIME
 local SQUID_SPAWN_RADIUS = 6
+local MAX_FISH = 10
 local SQUID_TIMING = {5, 7}
 local SQUID_MAX_NUMBERS = {
     ["new"] = 6,
@@ -49,6 +49,7 @@ local SQUID_CHANCE = {
 
 --local function testforsquid(comp,spawnpoint, forcesquid)
 local function testforsquid(comp, forcesquid)
+
     if not TheWorld.state.isday then
         local playerlist = {}
         for i,player in pairs(_activeplayers)do
@@ -73,8 +74,7 @@ local function testforsquid(comp, forcesquid)
             local fishcount = #fishlist
                            
             local chance = SQUID_CHANCE[TheWorld.state.moonphase]
-            chance = Remap(fishcount, 0, 15, 0, chance)
-        
+            chance = Remap(math.min(fishcount,MAX_FISH), 0, MAX_FISH, 0, chance)
             if TheWorld.state.isnight then
                 chance = chance * 2
             end
@@ -86,8 +86,8 @@ local function testforsquid(comp, forcesquid)
                 max = 2
             end                
             
---            print("SQUID CHANCE squid:",squidcount,max,"fish:",fishcount,"night:",TheWorld.state.isnight,"chance:", chance )        
-        
+     --       print("SQUID CHANCE squid:",squidcount,max,"fish:",fishcount,"night:",TheWorld.state.isnight,"chance:", chance )        
+            
             if (squidcount < max and  math.random() < chance ) or forcesquid then
                 local herd = SpawnPrefab("squidherd")
                 local num = math.random(2,SQUID_MAX_NUMBERS[TheWorld.state.moonphase])
@@ -155,14 +155,19 @@ local function onschoolspawned(src,data)
 end
 
 local function spawntask()
+ 
     if TheWorld.state.isnight or TheWorld.state.isdusk then
-        testforsquid(self)
-    
+        testforsquid(self)   
         if inst.squidtask then
             inst.squidtask:Cancel()
             inst.squidtask = nil
         end
         inst.squidtask = inst:DoTaskInTime(TUNING.SEG_TIME + (math.random() * TUNING.SEG_TIME), inst.spawntask)
+    else
+        if inst.squidtask then
+            inst.squidtask:Cancel()
+            inst.squidtask = nil
+        end
     end
 end
 
@@ -182,8 +187,9 @@ end
 inst.spawntask = spawntask
 spawntask()
 
-inst:WatchWorldState("isnight", function() if not inst.squidtask then spawntask() end end)
-inst:WatchWorldState("isdusk",  function() if not inst.squidtask then spawntask() end end)
+inst:WatchWorldState("isnight", function() print("SQUID NIGHT")  spawntask() end)
+inst:WatchWorldState("isdusk",  function() print("SQUID DUSK") spawntask()  end)
+inst:WatchWorldState("isday",  function() print("SQUID DAY") spawntask() end)
 inst:ListenForEvent("ms_playerjoined", OnPlayerJoined, TheWorld)
 inst:ListenForEvent("ms_playerleft", OnPlayerLeft, TheWorld)
 

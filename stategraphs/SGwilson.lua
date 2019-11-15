@@ -5490,7 +5490,6 @@ local states =
 				if weight ~= nil and inst:PerformBufferedAction() then
 					local str = subfmt(GetString(inst, "ANNOUNCE_WEIGHT"), {weight = string.format("%0.2f", weight)})
 			        inst.components.talker:Say(str)
-                    inst.SoundEmitter:PlaySound("dontstarve/wilson/flute_LP")
                 else
 					inst.AnimState:ClearOverrideBuild(inst.sg.statemem.target_build)
 					inst:ClearBufferedAction()
