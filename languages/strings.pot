@@ -263,6 +263,16 @@ msgctxt "STRINGS.ACTIONS.CHANGEIN.GENERIC"
 msgid "Use"
 msgstr ""
 
+#. STRINGS.ACTIONS.CHANGE_TACKLE.GENERIC
+msgctxt "STRINGS.ACTIONS.CHANGE_TACKLE.GENERIC"
+msgid "Attach Tackle"
+msgstr ""
+
+#. STRINGS.ACTIONS.CHANGE_TACKLE.REMOVE
+msgctxt "STRINGS.ACTIONS.CHANGE_TACKLE.REMOVE"
+msgid "Remove Tackle"
+msgstr ""
+
 #. STRINGS.ACTIONS.CHECKTRAP
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
 msgid "Check"
@@ -7861,6 +7871,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISHINGBOBBER_MALBATROSS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISHINGBOBBER_MALBATROSS"
 msgid "Where there's a quill, there's a way."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISHINGBOBBER_NONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISHINGBOBBER_NONE"
+msgid "todo"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISHINGBOBBER_OVAL
@@ -159973,6 +159988,11 @@ msgctxt "STRINGS.NAMES.OCEANFISHINGBOBBER_MALBATROSS"
 msgid "Malbatross Quill Float"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISHINGBOBBER_NONE
+msgctxt "STRINGS.NAMES.OCEANFISHINGBOBBER_NONE"
+msgid "Fish Hook"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISHINGBOBBER_OVAL
 msgctxt "STRINGS.NAMES.OCEANFISHINGBOBBER_OVAL"
 msgid "Hardened Slip Bobber"
@@ -175485,7 +175505,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_cook"
-msgid "WX must have some utensil addons somewhere around here."
+msgid "WX-78 must have some utensil addons somewhere around here."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_formal
@@ -175495,7 +175515,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator"
-msgid "WX's transformation into an organic killing machine proves all dreams are possible, if you only believe."
+msgid "WX-78's transformation into an organic killing machine proves all dreams are possible, if you only believe."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_magma
@@ -175525,7 +175545,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rose"
-msgid "The organics have inextricably grown on WX... Regrettable."
+msgid "The organics have inextricably grown on WX-78... Regrettable."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_shadow
