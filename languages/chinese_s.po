@@ -175468,7 +175468,7 @@ msgstr "没有人说‘睡觉时间’就像将一块小靠垫缝进较大的‘
 
 #. STRINGS.SKIN_DESCRIPTIONS.beebox_house
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_house"
-msgid "This charming little abode is sure to put your bees at ease"
+msgid "This charming little abode is sure to put your bees at ease."
 msgstr "魅力四射的小房子，让你的蜜蜂安居乐业。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalohat_klaus
@@ -179566,30 +179566,45 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown"
 msgid "Add that personalized touch."
 msgstr "加上私人定制的一笔"
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_drawn"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_item"
-msgid "Add that personalized touch."
-msgstr "加上私人定制的一笔"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan"
 msgid "Add that personalized touch."
 msgstr "加上私人定制的一笔"
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_drawn"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_item"
-msgid "Add that personalized touch."
-msgstr "加上私人定制的一笔"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite"
 msgid "Add that personalized touch."
 msgstr "加上定制化的一笔。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_drawn"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_item"
-msgid "Add that personalized touch."
-msgstr "加上定制化的一笔。"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.missing
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.missing"
@@ -179613,7 +179628,7 @@ msgstr "欢乐明亮。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_tiffany
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_tiffany"
-msgid "This mushlamp isn't any brighter a regular lamp, but it'll make guests think you're extremely cultured."
+msgid "This mushlamp isn't any brighter than a regular lamp, but it'll make guests think you're extremely cultured."
 msgstr "这盏蘑菇灯并不比别的灯亮，但是会让客人觉得你很有文化。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
@@ -187626,6 +187641,11 @@ msgctxt "STRINGS.SKIN_NAMES.minisign_picketbrown"
 msgid "Walnut Address Plaque"
 msgstr "胡桃路牌"
 
+#. STRINGS.SKIN_NAMES.minisign_picketbrown_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_picketbrown_drawn"
+msgid "Walnut Address Plaque"
+msgstr "胡桃路牌"
+
 #. STRINGS.SKIN_NAMES.minisign_picketbrown_item
 msgctxt "STRINGS.SKIN_NAMES.minisign_picketbrown_item"
 msgid "Walnut Address Plaque"
@@ -187636,6 +187656,11 @@ msgctxt "STRINGS.SKIN_NAMES.minisign_pickettan"
 msgid "Ash Address Plaque"
 msgstr "灰白路牌"
 
+#. STRINGS.SKIN_NAMES.minisign_pickettan_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_pickettan_drawn"
+msgid "Ash Address Plaque"
+msgstr "灰白路牌"
+
 #. STRINGS.SKIN_NAMES.minisign_pickettan_item
 msgctxt "STRINGS.SKIN_NAMES.minisign_pickettan_item"
 msgid "Ash Address Plaque"
@@ -187643,6 +187668,11 @@ msgstr "灰白路牌"
 
 #. STRINGS.SKIN_NAMES.minisign_picketwhite
 msgctxt "STRINGS.SKIN_NAMES.minisign_picketwhite"
+msgid "White Address Plaque"
+msgstr "白色路牌"
+
+#. STRINGS.SKIN_NAMES.minisign_picketwhite_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_picketwhite_drawn"
 msgid "White Address Plaque"
 msgstr "白色路牌"
 
@@ -192566,11 +192596,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.AMULET_RED"
 msgid "Life Giving Amulet"
 msgstr "重生护符"
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORDRAGONFLY
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORDRAGONFLY"
-msgid "Scalemail"
-msgstr "鳞甲"
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS"
 msgid "Grass Suit"
@@ -192816,11 +192841,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MEATRACK"
 msgid "Drying Rack"
 msgstr "晾肉架"
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT"
-msgid "Miner Hat"
-msgstr "矿工帽"
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN"
 msgid "Mini Sign"
@@ -192846,11 +192866,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD"
 msgid "Sea Fishing Rod"
 msgstr "海钓竿"
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF"
-msgid "Moon Caller's Staff"
-msgstr "唤月者魔杖"
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.PICKAXE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.PICKAXE"
 msgid "Pickaxe"
@@ -192870,11 +192885,6 @@ msgstr "猪屋"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE"
 msgid "Rabbit Hutch"
 msgstr "兔屋"
-
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINHAT
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINHAT"
-msgid "Rain Hat"
-msgstr "防雨帽"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINOMETER
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINOMETER"

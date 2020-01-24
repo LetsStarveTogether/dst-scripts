@@ -175465,7 +175465,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.beebox_house
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_house"
-msgid "This charming little abode is sure to put your bees at ease"
+msgid "This charming little abode is sure to put your bees at ease."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalohat_klaus
@@ -179563,9 +179563,14 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown"
 msgid "Add that personalized touch."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_drawn"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketbrown_item"
-msgid "Add that personalized touch."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan
@@ -179573,9 +179578,14 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan"
 msgid "Add that personalized touch."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_drawn"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_pickettan_item"
-msgid "Add that personalized touch."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite
@@ -179583,9 +179593,14 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite"
 msgid "Add that personalized touch."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_drawn"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_picketwhite_item"
-msgid "Add that personalized touch."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.missing
@@ -179610,7 +179625,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_tiffany
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_tiffany"
-msgid "This mushlamp isn't any brighter a regular lamp, but it'll make guests think you're extremely cultured."
+msgid "This mushlamp isn't any brighter than a regular lamp, but it'll make guests think you're extremely cultured."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
@@ -187623,6 +187638,11 @@ msgctxt "STRINGS.SKIN_NAMES.minisign_picketbrown"
 msgid "Walnut Address Plaque"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.minisign_picketbrown_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_picketbrown_drawn"
+msgid "Walnut Address Plaque"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.minisign_picketbrown_item
 msgctxt "STRINGS.SKIN_NAMES.minisign_picketbrown_item"
 msgid "Walnut Address Plaque"
@@ -187633,6 +187653,11 @@ msgctxt "STRINGS.SKIN_NAMES.minisign_pickettan"
 msgid "Ash Address Plaque"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.minisign_pickettan_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_pickettan_drawn"
+msgid "Ash Address Plaque"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.minisign_pickettan_item
 msgctxt "STRINGS.SKIN_NAMES.minisign_pickettan_item"
 msgid "Ash Address Plaque"
@@ -187640,6 +187665,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.minisign_picketwhite
 msgctxt "STRINGS.SKIN_NAMES.minisign_picketwhite"
+msgid "White Address Plaque"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.minisign_picketwhite_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_picketwhite_drawn"
 msgid "White Address Plaque"
 msgstr ""
 
@@ -192563,11 +192593,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.AMULET_RED"
 msgid "Life Giving Amulet"
 msgstr ""
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORDRAGONFLY
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORDRAGONFLY"
-msgid "Scalemail"
-msgstr ""
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS"
 msgid "Grass Suit"
@@ -192813,11 +192838,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MEATRACK"
 msgid "Drying Rack"
 msgstr ""
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINERHAT"
-msgid "Miner Hat"
-msgstr ""
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN"
 msgid "Mini Sign"
@@ -192843,11 +192863,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD"
 msgid "Sea Fishing Rod"
 msgstr ""
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF"
-msgid "Moon Caller's Staff"
-msgstr ""
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.PICKAXE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.PICKAXE"
 msgid "Pickaxe"
@@ -192866,11 +192881,6 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE"
 msgid "Rabbit Hutch"
-msgstr ""
-
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINHAT
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINHAT"
-msgid "Rain Hat"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINOMETER
