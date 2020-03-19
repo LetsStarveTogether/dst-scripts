@@ -11,6 +11,11 @@ msgctxt "STRINGS.ACTIONS.ABANDON"
 msgid "Abandon"
 msgstr "遗弃"
 
+#. STRINGS.ACTIONS.ABANDON_QUEST
+msgctxt "STRINGS.ACTIONS.ABANDON_QUEST"
+msgid "Abandon"
+msgstr "遗弃"
+
 #. STRINGS.ACTIONS.ABANDON_SHIP
 msgctxt "STRINGS.ACTIONS.ABANDON_SHIP"
 msgid "Abandon Ship"
@@ -125,6 +130,11 @@ msgstr "放诱饵"
 msgctxt "STRINGS.ACTIONS.BATHBOMB"
 msgid "Toss In"
 msgstr "投掷"
+
+#. STRINGS.ACTIONS.BEGIN_QUEST
+msgctxt "STRINGS.ACTIONS.BEGIN_QUEST"
+msgid "Assist"
+msgstr "协助"
 
 #. STRINGS.ACTIONS.BLINK.GENERIC
 msgctxt "STRINGS.ACTIONS.BLINK.GENERIC"
@@ -246,6 +256,16 @@ msgctxt "STRINGS.ACTIONS.CASTSPELL.SCIENCE"
 msgid "Use Gadget"
 msgstr "使用小工具"
 
+#. STRINGS.ACTIONS.CASTSUMMON
+msgctxt "STRINGS.ACTIONS.CASTSUMMON"
+msgid "Summon"
+msgstr "召唤"
+
+#. STRINGS.ACTIONS.CASTUNSUMMON
+msgctxt "STRINGS.ACTIONS.CASTUNSUMMON"
+msgid "Return"
+msgstr "返回"
+
 #. STRINGS.ACTIONS.CAST_NET
 msgctxt "STRINGS.ACTIONS.CAST_NET"
 msgid "Cast Net"
@@ -290,6 +310,16 @@ msgstr "砍"
 msgctxt "STRINGS.ACTIONS.COMBINESTACK"
 msgid "Combine Stack"
 msgstr "合并堆放物品"
+
+#. STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
+msgctxt "STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
+msgid "Rile Up"
+msgstr "激怒"
+
+#. STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
+msgctxt "STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
+msgid "Soothe"
+msgstr "安慰"
 
 #. STRINGS.ACTIONS.COMPARE_WEIGHABLE
 msgctxt "STRINGS.ACTIONS.COMPARE_WEIGHABLE"
@@ -490,6 +520,11 @@ msgstr "钓鱼"
 msgctxt "STRINGS.ACTIONS.FISH_OCEAN"
 msgid "Fish"
 msgstr "钓鱼"
+
+#. STRINGS.ACTIONS.GIVE.APPLY
+msgctxt "STRINGS.ACTIONS.GIVE.APPLY"
+msgid "Apply {item}"
+msgstr "使用 {item}"
 
 #. STRINGS.ACTIONS.GIVE.CELESTIAL
 msgctxt "STRINGS.ACTIONS.GIVE.CELESTIAL"
@@ -1931,6 +1966,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "I can't, the surface is glassed over."
 msgstr "不行，表面都变玻璃了。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BUILD.HASPET"
 msgid "I've already got a pet."
@@ -2401,6 +2441,36 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL_GENERIC"
 msgid "I can't do that."
 msgstr "我做不到。"
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_DEATH
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_DEATH"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_LOW_HEALTH
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_LOW_HEALTH"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_RETRIEVE
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_RETRIEVE"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_SUMMON.LEVEL1
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_SUMMON.LEVEL1"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_SUMMON.LEVEL2
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_SUMMON.LEVEL2"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_SUMMON.LEVEL3
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ABIGAIL_SUMMON.LEVEL3"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ACCOMPLISHMENT"
 msgid "I feel so accomplished!"
@@ -2830,6 +2900,31 @@ msgstr "我自由了！我终于自由了！"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTDRAIN"
 msgid "My humanity is about to start slipping away..."
 msgstr "我的人性要开始流失了..."
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL2
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL2"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL3
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL3"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_HINT
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_HINT"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GROWPLANT.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GROWPLANT.1"
@@ -3436,8 +3531,33 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Shoo, you nasty thing!"
 msgstr "嘘…你这个讨厌的家伙！"
 
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Awww, she has a cute little bow."
+msgstr "噢，她有一个可爱的小蝴蝶结。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Awww, she has a cute little bow."
+msgstr "噢，她有一个可爱的小蝴蝶结。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Awww, she has a cute little bow."
+msgstr "噢，她有一个可爱的小蝴蝶结。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Awww, she has a cute little bow."
+msgstr "噢，她有一个可爱的小蝴蝶结。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Awww, she has a cute little bow."
+msgstr "噢，她有一个可爱的小蝴蝶结。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Awww, she has a cute little bow."
 msgstr "噢，她有一个可爱的小蝴蝶结。"
 
@@ -3455,6 +3575,21 @@ msgstr "我会查明它到底做了些什么。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "I don't think I should hang on to this."
 msgstr "我该放下它。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Do you need some alone time?"
+msgstr "你想一个人待着吗？"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "I think she's starting to open up to us."
+msgstr "她准备跟我们吐露心扉了。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Looks like someone's feeling especially spirited today!"
+msgstr "精神头真足啊！"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -5966,6 +6101,41 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOST"
 msgid "This offends me as a scientist."
 msgstr "我是一名科学家，这种东西冒犯了我。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTFLOWER"
+msgid "My scientific brain refuses to perceive it."
+msgstr "我科学的大脑拒绝相信这一切。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Ah yes. Very science-y."
+msgstr "嗯，对。非常科学。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Ah yes. Very science-y."
+msgstr "嗯，对。非常科学。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Ah yes. Very science-y."
+msgstr "嗯，对。非常科学。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Ah yes. Very science-y."
+msgstr "嗯，对。非常科学。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Ah yes. Very science-y."
+msgstr "嗯，对。非常科学。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Ah yes. Very science-y."
+msgstr "嗯，对。非常科学。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GIFT"
 msgid "Is that for me?"
@@ -6838,7 +7008,7 @@ msgstr "我要走了。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_RECHARGERHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_RECHARGERHAT"
-msgid "Those crystals will quickened my abilities."
+msgid "Those crystals will quicken my abilities."
 msgstr "那些水晶的力量加速了我的能力。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SPAWNER
@@ -7015,6 +7185,56 @@ msgstr "好烫的木头！"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOG.GENERIC"
 msgid "It's big, it's heavy, and it's wood."
 msgstr "又大又重的木头。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_1"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_10"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_11"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_14"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_18"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_19"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_2"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_42"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_43"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LOST_TOY_7"
+msgid "I'm sure there's a perfectly scientific explanation for that."
+msgstr "一定有一个完美的科学解释。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -10101,6 +10321,21 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SILK"
 msgid "It comes from a spider's butt."
 msgstr "出自蜘蛛的屁股。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SISTURN.GENERIC"
+msgid "Some flowers would liven it up a bit."
+msgstr "有的花会活泼一些。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "What a brilliant boo-quet!"
+msgstr "好美的花束！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "A few more flowers should do the trick."
+msgstr "多拿些花来应该就可以了。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKELETON"
 msgid "Better you than me."
@@ -10205,6 +10440,11 @@ msgstr "它都不偷偷睁眼看一下。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLBIRD.STARVING"
 msgid "It must be starving."
 msgstr "它一定很饿。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLGHOST"
+msgid "Aww, does someone have a little boo-boo?"
+msgstr "嗷，你是不是个小可爱啊？"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLMEAT"
@@ -12731,6 +12971,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "No need, it's already en glace."
 msgstr "不需要，已经是在冰里了。"
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BUILD.HASPET"
 msgid "I already have a little companion."
@@ -13576,6 +13821,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_GHOSTDRAIN"
 msgid "My, I have a headache."
 msgstr "哎呀，我头疼。"
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HIGHRESEARCH"
 msgid "My brain is tingling!"
@@ -14071,8 +14321,33 @@ msgctxt "STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "That could have been worse."
 msgstr "情况原本可能更糟糕的。"
 
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Bonjour, Mademoiselle Abigail!"
+msgstr "你好，阿比盖尔小姐！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Bonjour, Mademoiselle Abigail!"
+msgstr "你好，阿比盖尔小姐！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Bonjour, Mademoiselle Abigail!"
+msgstr "你好，阿比盖尔小姐！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Bonjour, Mademoiselle Abigail!"
+msgstr "你好，阿比盖尔小姐！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Bonjour, Mademoiselle Abigail!"
+msgstr "你好，阿比盖尔小姐！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Bonjour, Mademoiselle Abigail!"
 msgstr "你好，阿比盖尔小姐！"
 
@@ -14090,6 +14365,21 @@ msgstr "然后呢，温蒂小姐？"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "I don't think it's my place to be holding this."
 msgstr "我不应该拿着这个吧。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Something's stirring inside."
+msgstr "里面有东西在动。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "Bonjour? Anyone there?"
+msgstr "你好？有人在吗?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Ah, you are looking quite well today little flower!"
+msgstr "啊，小花啊，你今天看着非常漂亮！"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -16601,6 +16891,41 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOST"
 msgid "Could I offer you a ghost pepper?"
 msgstr "我可以给你一个鬼椒吗？"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTFLOWER"
+msgid "Looking at it makes me feel... peaceful."
+msgstr "看着它让我感到……平和了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "I'm not sure about some of those ingredients, mademoiselle."
+msgstr "我对有些配方不是很有信心，小姐。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "I'm not sure about some of those ingredients, mademoiselle."
+msgstr "我对有些配方不是很有信心，小姐。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "I'm not sure about some of those ingredients, mademoiselle."
+msgstr "我对有些配方不是很有信心，小姐。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "I'm not sure about some of those ingredients, mademoiselle."
+msgstr "我对有些配方不是很有信心，小姐。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "I'm not sure about some of those ingredients, mademoiselle."
+msgstr "我对有些配方不是很有信心，小姐。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "I'm not sure about some of those ingredients, mademoiselle."
+msgstr "我对有些配方不是很有信心，小姐。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GIFT"
 msgid "Pour moi?"
@@ -17550,6 +17875,56 @@ msgstr "很快它的处境就会堪忧。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOG.GENERIC"
 msgid "An important aspect of my art."
 msgstr "我的艺术的一个重要方面。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_1"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_10"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_11"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_14"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_18"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_19"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_2"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_42"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_43"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LOST_TOY_7"
+msgid "Mon dieu! My hand passes right through it!"
+msgstr "我的天啊！我的手直接就穿过去了！"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -19961,6 +20336,21 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SILK"
 msgid "Is that sanitary?"
 msgstr "这个卫生吗？"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SISTURN.GENERIC"
+msgid "Poor mademoiselle..."
+msgstr "可怜的小姐……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "Such a calming presence..."
+msgstr "让人冷静的景观……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Oh, that's looking very nice!"
+msgstr "喔，真美啊!"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SKELETON"
 msgid "I have a bone to pick with you."
@@ -20065,6 +20455,11 @@ msgstr "睡个好觉吧，小鸟。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLBIRD.STARVING"
 msgid "You look famished!"
 msgstr "你看上去饿坏了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLGHOST"
+msgid "Oh! You gave me a little fright!"
+msgstr "噢！你吓到我了！"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLMEAT"
@@ -22581,6 +22976,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "'Tis shielded!"
 msgstr "被罩起来了！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.HASPET"
 msgid "I can only command one beastie!"
@@ -23356,6 +23756,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GHOSTDRAIN"
 msgid "They're driving me mad...!"
 msgstr "我快被他们逼疯了…！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HIGHRESEARCH"
 msgid "I am an excellent craftswoman."
@@ -23836,8 +24241,33 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Flee, monster! I will return."
 msgstr "逃吧，怪物！我会回来的。"
 
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "What do you desire, apparition?"
+msgstr "你想要什么，幻影？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "What do you desire, apparition?"
+msgstr "你想要什么，幻影？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "What do you desire, apparition?"
+msgstr "你想要什么，幻影？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "What do you desire, apparition?"
+msgstr "你想要什么，幻影？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "What do you desire, apparition?"
+msgstr "你想要什么，幻影？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "What do you desire, apparition?"
 msgstr "你想要什么，幻影？"
 
@@ -23855,6 +24285,21 @@ msgstr "它在等什么？！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Perhaps it's best we part ways..."
 msgstr "或许我们分开最好…"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "My warrior's sense tells me it's not to be trifled with."
+msgstr "我的武士本能告诉我不能轻视它。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "It's gathering its strength."
+msgstr "正在积蓄力量。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "What strange magic!"
+msgstr "多么奇特的魔法！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -26366,6 +26811,41 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOST"
 msgid "A spirit trapped between worlds."
 msgstr "困于两个世界之间的灵魂。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTFLOWER"
+msgid "Tis all that remains."
+msgstr "只剩下了这个。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Tis a powerful elixir!"
+msgstr "强力的药剂！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Tis a powerful elixir!"
+msgstr "强力的药剂！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Tis a powerful elixir!"
+msgstr "强力的药剂！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Tis a powerful elixir!"
+msgstr "强力的药剂！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Tis a powerful elixir!"
+msgstr "强力的药剂！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Tis a powerful elixir!"
+msgstr "强力的药剂！"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GIFT"
 msgid "A gift! From... the gods?"
@@ -27400,6 +27880,56 @@ msgstr "着火的木头！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOG.GENERIC"
 msgid "Wood is always of value."
 msgstr "木头总是有用的。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_1"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_10"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_11"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_14"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_18"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_19"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_2"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_42"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_43"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOST_TOY_7"
+msgid "It hath the stench of death upon it."
+msgstr "散发着死亡的恶臭。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -30461,6 +30991,21 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SILK"
 msgid "Useful for binding, and for remembering victories past."
 msgstr "可用于缝合东西和记住胜利事迹。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.GENERIC"
+msgid "A small langhús for the ghostly warrior to regain her strength."
+msgstr "能让亡灵勇士重获力量的小长屋。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "Tis a fine monument indeed."
+msgstr "好一个纪念碑。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Flowers doth please this spirit."
+msgstr "鲜花确实会取悦这个精灵。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SKELETON"
 msgid "Rest easy in Valhalla."
@@ -30565,6 +31110,11 @@ msgstr "休息吧，年轻人。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMALLBIRD.STARVING"
 msgid "The small bird looks famished."
 msgstr "那小鸟看起来遭了饥荒。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMALLGHOST"
+msgid "Such a wee specter!"
+msgstr "小不点幽灵！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMALLMEAT"
@@ -33081,6 +33631,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "I can't do that while it's covered in moon glass."
 msgstr "做不到，因为被月光玻璃覆盖了。"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.HASPET"
 msgid "One pet is enough responsibility."
@@ -33856,6 +34411,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GHOSTDRAIN"
 msgid "They're whispering through the core of my mind...!"
 msgstr "他们的低语穿透了我的思维…！"
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HIGHRESEARCH"
 msgid "My brain swells with power!"
@@ -34346,10 +34906,35 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Next time the gloves come off!"
 msgstr "下次脱了手套跟你玩！"
 
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL"
-msgid "Why won't these mortals just stay dead?"
-msgstr "这些肉体凡胎为什么不一直保持死亡的状态呢？"
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Quite the precocious poltergeist, aren't you?"
+msgstr "你还是个捣蛋鬼啊?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Quite the precocious poltergeist, aren't you?"
+msgstr "你还是个捣蛋鬼啊?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Quite the precocious poltergeist, aren't you?"
+msgstr "你还是个捣蛋鬼啊?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Quite the precocious poltergeist, aren't you?"
+msgstr "你还是个捣蛋鬼啊?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Quite the precocious poltergeist, aren't you?"
+msgstr "你还是个捣蛋鬼啊?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL.LEVEL3.2"
+msgid "Quite the precocious poltergeist, aren't you?"
+msgstr "你还是个捣蛋鬼啊?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
@@ -34365,6 +34950,21 @@ msgstr "这得做出牺牲。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "I should quit toying with this now."
 msgstr "我现在该停止玩弄这个了。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "I can sense strong magic within it."
+msgstr "我可以感觉它体内强大的魔法。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "A powerful bond tethers this spirit to our world."
+msgstr "这个幽灵跟我们的世界有着强大的羁绊。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "...I wonder how my brother is doing."
+msgstr "……不知道我的兄弟现在怎么样。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -36866,6 +37466,41 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOST"
 msgid "It remembers me!"
 msgstr "它记得我！"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTFLOWER"
+msgid "I hope they found peace."
+msgstr "希望你找到了内心的安宁。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "It appears someone has been toying with the dark arts and crafts."
+msgstr "看来有人在鼓捣黑暗魔法。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "It appears someone has been toying with the dark arts and crafts."
+msgstr "看来有人在鼓捣黑暗魔法。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "It appears someone has been toying with the dark arts and crafts."
+msgstr "看来有人在鼓捣黑暗魔法。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "It appears someone has been toying with the dark arts and crafts."
+msgstr "看来有人在鼓捣黑暗魔法。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "It appears someone has been toying with the dark arts and crafts."
+msgstr "看来有人在鼓捣黑暗魔法。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "It appears someone has been toying with the dark arts and crafts."
+msgstr "看来有人在鼓捣黑暗魔法。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GIFT"
 msgid "An elegantly wrapped social obligation."
@@ -37900,6 +38535,56 @@ msgstr "好吧，它烧起来很有意思。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOG.GENERIC"
 msgid "It's a piece of wood. What more is there to say?"
 msgstr "这是一块木材。还有什么要说的？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_1"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_10"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_11"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_14"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_18"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_19"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_2"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_42"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_43"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LOST_TOY_7"
+msgid "I'd better leave that be."
+msgstr "我还是不要动它。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -40961,6 +41646,21 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SILK"
 msgid "Despite its origin, it could make some fine garments."
 msgstr "不论它来自哪里，至少可以做成不错的衣服。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SISTURN.GENERIC"
+msgid "I can't help but wonder... no, it couldn't be."
+msgstr "我不禁在想……不应该啊。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "It has a strangely calming effect."
+msgstr "有出奇的镇静效果。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Perhaps I should pay my respects as well."
+msgstr "也许我也该表示一点敬意。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SKELETON"
 msgid "Ha! I remember that one."
@@ -41065,6 +41765,11 @@ msgstr "他终于睡着了。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMALLBIRD.STARVING"
 msgid "He's so hungry!"
 msgstr "他很饿！"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMALLGHOST"
+msgid "I'm so sorry."
+msgstr "我很抱歉。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMALLMEAT"
@@ -43581,6 +44286,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "There's too much glass in the way."
 msgstr "被好多玻璃挡住了。"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.HASPET"
 msgid "I like the pet we've got."
@@ -44356,6 +45066,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GHOSTDRAIN"
 msgid "We're becoming... even more monstrous!"
 msgstr "我们正变得...更巨大！"
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HIGHRESEARCH"
 msgid "I'm learning so much!"
@@ -44836,11 +45551,6 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Simmer down, friend."
 msgstr "冷静，我的朋友。"
 
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL"
-msgid "That's no party poltergeist!"
-msgstr "那绝不是捉弄人的鬼！"
-
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
 msgid "Pretty petals!"
@@ -44855,6 +45565,21 @@ msgstr "可怕的花朵！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Put it down! Put it down!"
 msgstr "放下！放下！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Can she hear us in there?"
+msgstr "她能听到我们讲话吗？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "C'mon Abigail, Wendy misses you!"
+msgstr "来吧，阿比盖尔，温蒂想你了！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Helloooo? Do you want to come out now?"
+msgstr "你好啊？你现在想出来了吗？"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -47366,6 +48091,41 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOST"
 msgid "That's not a fun ghost!"
 msgstr "这个幽灵一点也不好玩！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTFLOWER"
+msgid "This seems like something Wendy would like."
+msgstr "这个看起来像是温蒂会喜欢的东西。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Hey, you didn't tell me you were making crafts!"
+msgstr "嘿，你没告诉我你还会做东西呢！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Hey, you didn't tell me you were making crafts!"
+msgstr "嘿，你没告诉我你还会做东西呢！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Hey, you didn't tell me you were making crafts!"
+msgstr "嘿，你没告诉我你还会做东西呢！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Hey, you didn't tell me you were making crafts!"
+msgstr "嘿，你没告诉我你还会做东西呢！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Hey, you didn't tell me you were making crafts!"
+msgstr "嘿，你没告诉我你还会做东西呢！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Hey, you didn't tell me you were making crafts!"
+msgstr "嘿，你没告诉我你还会做东西呢！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GIFT"
 msgid "Oh! What is it?!"
@@ -48321,6 +49081,36 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF_SPARSE"
 msgid "Where did that come from?!"
 msgstr "那东西是从哪儿冒出来的？！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN"
 msgid "It likes it down here."
@@ -48400,6 +49190,56 @@ msgstr "它不能再用来制作和合成东西了！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.GENERIC"
 msgid "That's a log of wood."
 msgstr "一段原木。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_1"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_10"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_11"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_14"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_18"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_19"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_2"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_42"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_43"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOST_TOY_7"
+msgid "We think those might belong to someone else."
+msgstr "我们觉得这些应该是其他人的。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -51461,6 +52301,21 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SILK"
 msgid "It's so smooth!"
 msgstr "好光滑啊！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SISTURN.GENERIC"
+msgid "It's a little Abigail house!"
+msgstr "是阿比盖尔的一个小房子！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "We feel warm and fuzzy... well, more than usual."
+msgstr "我们感觉比平时更加毛茸茸，更加暖和了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "We can find more flowers!"
+msgstr "我们能找到更多的花朵！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON"
 msgid "Hello? Are you alright?"
@@ -51565,6 +52420,11 @@ msgstr "嘘！它在做梦呢。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Poor thing. It looks so hungry!"
 msgstr "可怜的小家伙。它看起来好饿！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLGHOST"
+msgid "Hey little guy! Wanna play?"
+msgstr "嘿，小家伙！想一起玩吗？"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLMEAT"
@@ -54081,6 +54941,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "It's covered in glass..."
 msgstr "盖满了玻璃..."
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "I can only ferry one soul to their destination at a time..."
+msgstr "我一次只能渡一个灵魂到达目的地……"
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.HASPET"
 msgid "I can only have one..."
@@ -54511,6 +55376,36 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL_GENERIC"
 msgid "I can't do anything right."
 msgstr "我什么都做不好。"
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_DEATH
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_DEATH"
+msgid "No... don't leave me alone again!"
+msgstr "不……不要再次丢下我！"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_LOW_HEALTH
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_LOW_HEALTH"
+msgid "Be careful, Abigail!"
+msgstr "小心啊，阿比盖尔！"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_RETRIEVE
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_RETRIEVE"
+msgid "I'm sorry... it's not safe for you out here."
+msgstr "我很抱歉……你在外面不安全。"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_SUMMON.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_SUMMON.LEVEL1"
+msgid "I know you're tired, but I can't do this alone..."
+msgstr "我知道你累了，但是我需要你……"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_SUMMON.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_SUMMON.LEVEL2"
+msgid "I need your help, Abigail..."
+msgstr "我需要你的帮助，阿比盖尔……"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_SUMMON.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ABIGAIL_SUMMON.LEVEL3"
+msgid "You've rested in peace long enough, dear sister."
+msgstr "你已经安息的够久了，亲爱的姐妹。"
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ACCOMPLISHMENT"
 msgid "All of this is transient."
@@ -54855,6 +55750,51 @@ msgstr "自由，太好了。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOSTDRAIN"
 msgid "The ghosts... Want to play..."
 msgstr "鬼魂…想玩…"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL2"
+msgid "You seem to have brightened up a bit, Abigail."
+msgstr "你的脸色明亮起来了，阿比盖尔。"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOSTLYBOND_LEVELUP.LEVEL3"
+msgid "Abigail has always been my guiding light in the darkness..."
+msgstr "阿比盖尔一直是我黑暗中的指路明灯……"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_HINT
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_HINT"
+msgid "Are you showing me the way?"
+msgstr "你在为我指路吗？"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_QUEST"
+msgid "You need me to... find something you've lost?"
+msgstr "你需要我为你找回丢失的东西吗？"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.1
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.1"
+msgid "It's close... I can feel it..."
+msgstr "就在附近……我能感觉到……"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.2
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.2"
+msgid "It's calling to me... it's nearby..."
+msgstr "它在召唤我……在这附近……"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.3
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.3"
+msgid "We're almost there..."
+msgstr "我们就快到了……"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.4
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.4"
+msgid "Your journey is almost over."
+msgstr "你的旅程就要结束了。"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.5
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GHOST_TOY_NEAR.5"
+msgid "Am I getting warmer?"
+msgstr "我是在变暖吗？"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_HIGHRESEARCH"
@@ -55336,8 +56276,33 @@ msgctxt "STRINGS.CHARACTERS.WENDY.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "I won't forget this."
 msgstr "我不会忘了这件事。"
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "It was so lonely without you here."
+msgstr "没有了你真的好孤独。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "That's my twin sister, Abigail."
+msgstr "那是我的孪生姐妹，阿比盖尔。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "We'll never be apart again."
+msgstr "我们再也不会分开了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "That's my twin sister, Abigail."
+msgstr "那是我的孪生姐妹，阿比盖尔。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Let's play, Abigail!"
+msgstr "一起玩吧，阿比盖尔！"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "That's my twin sister, Abigail."
 msgstr "那是我的孪生姐妹，阿比盖尔。"
 
@@ -55356,10 +56321,25 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Abigail is ready to play, but she needs some space."
 msgstr "阿比盖尔准备好了，但她需要一点空间。"
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LONG
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LONG"
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
 msgid "It was my sister's flower. She's gone far away."
 msgstr "这是我孪生姐妹的花。她去了很远的地方。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "I can sense Abigail's spirit growing stronger."
+msgstr "我能感觉到阿比盖尔的精神越来越强了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Abigail! Are you ready to play?"
+msgstr "阿比盖尔！要玩吗？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LONG
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LONG"
+msgid ""
+msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.MEDIUM"
@@ -57856,6 +58836,41 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOST"
 msgid "He has risen from the grave!"
 msgstr "他从坟墓里跑出来！"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTFLOWER"
+msgid "I promise to use it well."
+msgstr "我保证会用好它。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Abigail was always the strong one."
+msgstr "阿比盖尔一直比我有力气。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "You have to take your medicine, Abigail."
+msgstr "你要吃药，阿比盖尔。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "It has a bitter aftertaste."
+msgstr "回味有些苦涩。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "This time... I can protect you."
+msgstr "这次……我能保护你。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "It's all I can do to help..."
+msgstr "我能帮的也只有这些了……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "It's quite sugary."
+msgstr "好甜。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GIFT"
 msgid "The only gift I desire is a swift end..."
@@ -58890,6 +59905,56 @@ msgstr "一根燃烧着的木头。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOG.GENERIC"
 msgid "If trees could talk, they would scream at the sight of this."
 msgstr "如果树可以说话，看到这个会让它们尖叫。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_1"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_10"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_11"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_14"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_18"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_19"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_2"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_42"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_43"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LOST_TOY_7"
+msgid "I get the feeling... that this meant a great deal to someone."
+msgstr "我能感觉到……这个对某人很重要。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -61951,6 +63016,21 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SILK"
 msgid "So slippery and fine."
 msgstr "如此光滑而精美。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.GENERIC"
+msgid "It's a memorial to my sister... but it's so bare..."
+msgstr "它是对我姐妹的一种纪念……可是它光秃秃的……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "I won't let you fade away, Abigail. Never."
+msgstr "我不会让你消逝的，阿比盖尔。永远不会。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Abigail always loved flowers..."
+msgstr "阿比盖尔一直都很爱鲜花……"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SKELETON"
 msgid "I envy your escape."
@@ -62055,6 +63135,11 @@ msgstr "梦想去那个更好的世界。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLBIRD.STARVING"
 msgid "A black hole from which seeds never return."
 msgstr "一个黑洞，种子有去无回。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLGHOST"
+msgid "If only we could trade places..."
+msgstr "要是我们能互换位置就好了……"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT"
@@ -64571,6 +65656,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "The surface of the spring has crystallized, unfortunately."
 msgstr "很不幸，泉水表面结晶了。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.BUILD.HASPET"
 msgid "One domestic creature is enough for me."
@@ -65356,6 +66446,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GHOSTDRAIN"
 msgid "My humanity... it's slipping."
 msgstr "我的人性…在流失。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HIGHRESEARCH"
 msgid "My my, that was extremely interesting!"
@@ -65846,8 +66941,33 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Back to the drawing board!"
 msgstr "从头再来！"
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Fascinating. Can you speak, specter?"
+msgstr "好迷人。妖怪，你会说话吗？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Fascinating. Can you speak, specter?"
+msgstr "好迷人。妖怪，你会说话吗？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Fascinating. Can you speak, specter?"
+msgstr "好迷人。妖怪，你会说话吗？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Fascinating. Can you speak, specter?"
+msgstr "好迷人。妖怪，你会说话吗？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Fascinating. Can you speak, specter?"
+msgstr "好迷人。妖怪，你会说话吗？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Fascinating. Can you speak, specter?"
 msgstr "好迷人。妖怪，你会说话吗？"
 
@@ -65865,6 +66985,21 @@ msgstr "它想从我这得到点什么吗？"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "I feel I should set it down now."
 msgstr "我想，我应该把它放下。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "It's emitting a strange energy."
+msgstr "它发出一种奇怪的能量。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "That flower has perked up quite a bit."
+msgstr "那朵花鲜艳了不少。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Its magic has reached maximum potency."
+msgstr "它的魔法已经达到了最大的力量。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -68366,6 +69501,41 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOST"
 msgid "It must be fake. I don't believe it."
 msgstr "肯定是假的。我才不相信呢。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTFLOWER"
+msgid "I'm afraid I'm unfamiliar with this genus."
+msgstr "恐怕我并不熟悉这种物种。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Color-coded and clearly labeled. Well done!"
+msgstr "按颜色分了类，标识清晰。干得漂亮！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Color-coded and clearly labeled. Well done!"
+msgstr "按颜色分了类，标识清晰。干得漂亮！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Color-coded and clearly labeled. Well done!"
+msgstr "按颜色分了类，标识清晰。干得漂亮！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Color-coded and clearly labeled. Well done!"
+msgstr "按颜色分了类，标识清晰。干得漂亮！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Color-coded and clearly labeled. Well done!"
+msgstr "按颜色分了类，标识清晰。干得漂亮！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Color-coded and clearly labeled. Well done!"
+msgstr "按颜色分了类，标识清晰。干得漂亮！"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GIFT"
 msgid "Oh goodness, how lovely!"
@@ -69400,6 +70570,56 @@ msgstr "砍下的一段树干。烧着了。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOG.GENERIC"
 msgid "An axial section of tree trunk."
 msgstr "砍下的一段树干。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_1"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_10"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_11"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_14"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_18"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_19"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_2"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_42"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_43"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOST_TOY_7"
+msgid "How odd... perhaps it's merely a mirage."
+msgstr "好奇怪……也许只是海市蜃楼。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -72461,6 +73681,21 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SILK"
 msgid "Protein fiber extruded from an arachnid."
 msgstr "蛛形纲动物吐出的蛋白质纤维。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.GENERIC"
+msgid "The poor dear."
+msgstr "可怜的亲爱的。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "The flowers seem to give off an aromatic effect."
+msgstr "花朵似乎吐露着芬芳。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "I believe flowers are a traditional offering to the deceased."
+msgstr "花朵是传统上祭献逝者的一种供品。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKELETON"
 msgid "An incredibly well preserved human skeleton."
@@ -72565,6 +73800,11 @@ msgstr "它倦了，睡着了。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Without sustenance, it will surely perish."
 msgstr "没有食物，它肯定会死的。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLGHOST"
+msgid "Your adorable appearance won't make me believe in you!"
+msgstr "单靠你可爱的样子不足以赢得我的信任！"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLMEAT"
@@ -75081,6 +76321,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "Pfft, that wouldn't work with glass in the way."
 msgstr "噗，被玻璃挡住了。"
 
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.HASPET"
 msgid "I've already got one!"
@@ -75866,6 +77111,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GHOSTDRAIN"
 msgid "Burn... It all must burn..."
 msgstr "烧吧…全得烧掉…"
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HIGHRESEARCH"
 msgid "So much information!"
@@ -76376,8 +77626,33 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Not so tough now!"
 msgstr "现在没那么强硬了！"
 
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "So, what happened to you?"
+msgstr "所以，你发生了什么事情？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "So, what happened to you?"
+msgstr "所以，你发生了什么事情？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "So, what happened to you?"
+msgstr "所以，你发生了什么事情？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "So, what happened to you?"
+msgstr "所以，你发生了什么事情？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "So, what happened to you?"
+msgstr "所以，你发生了什么事情？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "So, what happened to you?"
 msgstr "所以，你发生了什么事情？"
 
@@ -76395,6 +77670,21 @@ msgstr "我不想跟那扯上任何关系。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "It's burning a hole in my pocket. Heh."
 msgstr "我的口袋烧了个孔。嘿。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Ugh, it's weird!"
+msgstr "啊，好诡异！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "Burning is still an option."
+msgstr "还是可以选择燃烧。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Yeah sure, it's floating now, why not."
+msgstr "当然了，它现在还浮起来了，为什么不呢。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -78896,6 +80186,41 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOST"
 msgid "You can't kill what's already dead."
 msgstr "你没法杀死一个本来就已经死了的人。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTFLOWER"
+msgid "Great. Another spooky flower."
+msgstr "好极了。有一朵奇怪的花。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Someone should probably check if it's flammable. I volunteer!"
+msgstr "该有人检查检查它是不是可燃的。我主动报名！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Someone should probably check if it's flammable. I volunteer!"
+msgstr "该有人检查检查它是不是可燃的。我主动报名！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Someone should probably check if it's flammable. I volunteer!"
+msgstr "该有人检查检查它是不是可燃的。我主动报名！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Someone should probably check if it's flammable. I volunteer!"
+msgstr "该有人检查检查它是不是可燃的。我主动报名！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Someone should probably check if it's flammable. I volunteer!"
+msgstr "该有人检查检查它是不是可燃的。我主动报名！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Someone should probably check if it's flammable. I volunteer!"
+msgstr "该有人检查检查它是不是可燃的。我主动报名！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GIFT"
 msgid "It's for me right?!"
@@ -79930,6 +81255,56 @@ msgstr "烧吧，木头，烧烧烧烧吧！"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOG.GENERIC"
 msgid "Wood! So flammable! Hooray!"
 msgstr "木头！容易燃烧的木头！太好了！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_1"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_10"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_11"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_14"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_18"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_19"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_2"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_42"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_43"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOST_TOY_7"
+msgid "Something about it... gives me the creeps..."
+msgstr "它有些……让我头皮发麻……"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -82991,6 +84366,21 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SILK"
 msgid "Mmmmmm. Smooth."
 msgstr "嗯。好光滑。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SISTURN.GENERIC"
+msgid "A pyre would've been more fun."
+msgstr "来个柴火堆会更好玩。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "I guess it's kind of pretty..."
+msgstr "好吧，就算有点可爱吧……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "You're doing it wrong, those flowers aren't dry enough to burn!"
+msgstr "你的方法不对，这些花不够干，烧不着！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SKELETON"
 msgid "I hope you at least went out in a blaze of glory."
@@ -83095,6 +84485,11 @@ msgstr "现在睡着了。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Okay, okay! I get it, you're hungry."
 msgstr "好吧，好吧！我知道了，你饿了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLGHOST"
+msgid "What are you looking at, pipsqueak?"
+msgstr "看什么看，小兔崽子？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLMEAT"
@@ -85616,6 +87011,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "Can't do that with all this glass in the way."
 msgstr "这么多玻璃挡着，做不到。"
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.BUILD.HASPET"
 msgid "Nah. I'm a one-pet gal."
@@ -86401,6 +87801,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_GHOSTDRAIN"
 msgid "My head's all fuzzy..."
 msgstr "我的大脑晕乎乎的……"
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HIGHRESEARCH"
 msgid "Cutting edge!"
@@ -86921,8 +88326,33 @@ msgctxt "STRINGS.CHARACTERS.WINONA.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Next time!"
 msgstr "下次再教训你！"
 
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "How are you, boo?"
+msgstr "你还好吗，小样？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "How are you, boo?"
+msgstr "你还好吗，小样？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "How are you, boo?"
+msgstr "你还好吗，小样？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "How are you, boo?"
+msgstr "你还好吗，小样？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "How are you, boo?"
+msgstr "你还好吗，小样？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "How are you, boo?"
 msgstr "你还好吗，小样？"
 
@@ -86940,6 +88370,21 @@ msgstr "你想要什么？水？"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "It wants down."
 msgstr "它想下来。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Looks like someone needed a break."
+msgstr "看起来有人需要休个假。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "Up'n'attem! The day's a-wasting!"
+msgstr "忙起来！别磨洋工！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "That flower looks raring to go."
+msgstr "那朵花看起来想要怒放。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -89451,6 +90896,41 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOST"
 msgid "I don't want nothing to do with that."
 msgstr "我不想跟它扯上任何关系。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTFLOWER"
+msgid "Don't know if I want that in my garden."
+msgstr "我的花园里不种这种花。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "I don't think that's safe to drink..."
+msgstr "直接喝不安全吧……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "I don't think that's safe to drink..."
+msgstr "直接喝不安全吧……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "I don't think that's safe to drink..."
+msgstr "直接喝不安全吧……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "I don't think that's safe to drink..."
+msgstr "直接喝不安全吧……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "I don't think that's safe to drink..."
+msgstr "直接喝不安全吧……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "I don't think that's safe to drink..."
+msgstr "直接喝不安全吧……"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GIFT"
 msgid "My presence is a gift. Ha."
@@ -90500,6 +91980,56 @@ msgstr "我本可以把它派上用场的。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOG.GENERIC"
 msgid "It's a hunk of wood."
 msgstr "一块木头。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_1"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_10"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_11"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_14"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_18"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_19"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_2"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_42"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_43"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LOST_TOY_7"
+msgid "Nope. Not touchin' that."
+msgstr "不。我不要碰那个。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -93576,6 +95106,21 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SILK"
 msgid "Unprocessed silk, fresh from the spider!"
 msgstr "未经处理的丝线，蜘蛛刚织出来的！"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SISTURN.GENERIC"
+msgid "Nothin' stronger than the bond between sisters."
+msgstr "没有什么比姐妹情更坚固了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "It looks real nice, kiddo."
+msgstr "看起来真不错，小子。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Looks a bit sparse. Maybe I can chip in a flower or two."
+msgstr "有点稀疏。也许我也该放一两朵花上去。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SKELETON"
 msgid "A workplace safety reminder."
@@ -93680,6 +95225,11 @@ msgstr "好好睡吧，小毛球。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Yeesh, you ain't lookin' so good."
 msgstr "呀，你看起来不怎么好。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMALLGHOST"
+msgid "Y'know, you're awful cute for a grim reminder of my own mortality."
+msgstr "你这么可爱，竟然让我想到了我的死亡。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMALLMEAT"
@@ -96196,6 +97746,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "Is covered in see-through sharp stuff!"
 msgstr "被透明而锋利的东西覆盖了！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.HASPET"
 msgid "Wolfgang has animal friend already!"
@@ -96976,6 +98531,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GHOSTDRAIN"
 msgid "They are coming... for Wolfgang!"
 msgstr "他们来了…要抓沃尔夫冈！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HIGHRESEARCH"
 msgid "Is maybe too much information."
@@ -97476,8 +99036,33 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "He knows I am stronger."
 msgstr "他知道我更强壮。"
 
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Are you friendly ghost?"
+msgstr "你是友好的鬼魂吗？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Are you friendly ghost?"
+msgstr "你是友好的鬼魂吗？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Are you friendly ghost?"
+msgstr "你是友好的鬼魂吗？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Are you friendly ghost?"
+msgstr "你是友好的鬼魂吗？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Are you friendly ghost?"
+msgstr "你是友好的鬼魂吗？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Are you friendly ghost?"
 msgstr "你是友好的鬼魂吗？"
 
@@ -97493,6 +99078,21 @@ msgstr "它想战斗吗？"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
+msgid "Is making Wolfgang scared!"
+msgstr "让沃尔夫冈害怕！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Little flower gives Wolfgang the \"heebie jeebies\"."
+msgstr "小花使沃尔夫冈坐立不安。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "I do not like."
+msgstr "我不喜欢！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
 msgid "Is making Wolfgang scared!"
 msgstr "让沃尔夫冈害怕！"
 
@@ -98183,7 +99783,7 @@ msgstr "愤怒的小坚果。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.DEAD"
-msgid "Birdie? Are you okay?"
+msgid "Birdy? Are you okay?"
 msgstr "鸟儿？你还好吗？"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.GENERIC
@@ -98198,7 +99798,7 @@ msgstr "我听到了小小的肚子咕咕叫的声音。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.OCCUPIED"
-msgid "Hello birdie!"
+msgid "Hello birdy!"
 msgstr "你好，小鸟！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.SKELETON
@@ -99996,6 +101596,41 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOST"
 msgid "Aaaaaaaaaaah!"
 msgstr "啊！啊！啊！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTFLOWER"
+msgid "Is pretty... pretty scary."
+msgstr "超级...超级可怕。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Wolfgang not trust tiny bottles made by creepy girl."
+msgstr "沃尔夫冈不相信古怪女孩做的小瓶子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Wolfgang not trust tiny bottles made by creepy girl."
+msgstr "沃尔夫冈不相信古怪女孩做的小瓶子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Wolfgang not trust tiny bottles made by creepy girl."
+msgstr "沃尔夫冈不相信古怪女孩做的小瓶子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Wolfgang not trust tiny bottles made by creepy girl."
+msgstr "沃尔夫冈不相信古怪女孩做的小瓶子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Wolfgang not trust tiny bottles made by creepy girl."
+msgstr "沃尔夫冈不相信古怪女孩做的小瓶子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Wolfgang not trust tiny bottles made by creepy girl."
+msgstr "沃尔夫冈不相信古怪女孩做的小瓶子。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GIFT"
 msgid "Is nice little present!"
@@ -101030,6 +102665,56 @@ msgstr "我把手放到它上面时，有发痒的感觉。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOG.GENERIC"
 msgid "Remains of tree-fights!"
 msgstr "跟树搏斗留下的东西！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_1"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_10"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_11"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_14"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_18"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_19"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_2"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_42"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_43"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOST_TOY_7"
+msgid "Gives Wolfgang the heebiddy jeebers!"
+msgstr "让沃尔夫冈一阵心慌！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -104091,6 +105776,21 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SILK"
 msgid "Is too fancy."
 msgstr "太奇特了。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SISTURN.GENERIC"
+msgid "Is like tiny house for bird! But why is little pot here?"
+msgstr "像鸟的小窝！可为什么有个小罐子在？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "Wolfgang like the flowers, but why is little pot floating?"
+msgstr "沃尔夫冈喜欢花，可是这个小罐子怎么浮起来了？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Wolfgang will find more flowers for tiny house!"
+msgstr "沃尔夫冈会为这个小房子找更多花！"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON"
 msgid "Not enough muscle."
@@ -104195,6 +105895,11 @@ msgstr "小鸟睡着了。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Small bird will die from starving."
 msgstr "小鸟会饿死的。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLGHOST"
+msgid "Aaaaah! Er, ahem, meant AAAAAAAAAAAAAAH!!"
+msgstr "啊啊啊！！额，我的意思是，啊啊啊啊！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLMEAT"
@@ -106711,6 +108416,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "There's glass in the way, eh?"
 msgstr "被好多玻璃挡住了，咦？"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.BUILD.HASPET"
 msgid "I need to take care of the pet I have."
@@ -107496,6 +109206,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GHOSTDRAIN"
 msgid "I'm goin', like, nutso over here..."
 msgstr "我在这边快要疯掉了…"
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HIGHRESEARCH"
 msgid "Informative."
@@ -107976,8 +109691,33 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Same time again tomorrow, eh?"
 msgstr "明天同一时间再战，是吗？"
 
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "That ain't right."
+msgstr "那样不对。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "That ain't right."
+msgstr "那样不对。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "That ain't right."
+msgstr "那样不对。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "That ain't right."
+msgstr "那样不对。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "That ain't right."
+msgstr "那样不对。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "That ain't right."
 msgstr "那样不对。"
 
@@ -107995,6 +109735,21 @@ msgstr "或许我们该分开，额？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "I'm not comfortable with this."
 msgstr "我对这不是很舒服。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "That flower's lookin' a bit run down."
+msgstr "那朵花看起来有点蔫了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "A haunted flower... pretty strange don't ya think, Lucy?"
+msgstr "闹鬼的花……很古怪吧，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "I guess I should be used to weird stuff by now."
+msgstr "我想如今我得适应那些怪东西。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -110501,6 +112256,41 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOST"
 msgid "Boo! Ha ha!"
 msgstr "嘣！哈哈！"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTFLOWER"
+msgid "That ghost left a parting gift."
+msgstr "那个鬼临走时还留下个礼物。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Whoof, smells like week-old sockeye!"
+msgstr "呼，闻起来像是放了一星期的红三文鱼！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Whoof, smells like week-old sockeye!"
+msgstr "呼，闻起来像是放了一星期的红三文鱼！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Whoof, smells like week-old sockeye!"
+msgstr "呼，闻起来像是放了一星期的红三文鱼！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Whoof, smells like week-old sockeye!"
+msgstr "呼，闻起来像是放了一星期的红三文鱼！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Whoof, smells like week-old sockeye!"
+msgstr "呼，闻起来像是放了一星期的红三文鱼！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Whoof, smells like week-old sockeye!"
+msgstr "呼，闻起来像是放了一星期的红三文鱼！"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GIFT"
 msgid "They're just as fun to give as they are to receive."
@@ -111535,6 +113325,56 @@ msgstr "噢，不要！别把另一根木头放在火上！"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOG.GENERIC"
 msgid "It makes it all worthwhile."
 msgstr "一切都值得了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_1"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_10"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_11"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_14"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_18"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_19"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_2"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_42"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_43"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOST_TOY_7"
+msgid "There's something unnatural about that thing... wouldn't ya say, Luce?"
+msgstr "那东西有点不自然……对不，露西？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -114601,6 +116441,21 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SILK"
 msgid "Spiders give me the willies."
 msgstr "看到蜘蛛我就心惊胆战。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SISTURN.GENERIC"
+msgid "Better pay our respects, eh Lucy?"
+msgstr "我们也表示下敬意吧，露西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "Pretty as a Canadian sunset."
+msgstr "美的像加拿大的日落。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Think it could use a few more flowers, eh?"
+msgstr "得多放些花上去，对不？"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SKELETON"
 msgid "Sorry, friend."
@@ -114705,6 +116560,11 @@ msgstr "它终于睡着了。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.STARVING"
 msgid "I think it's starving."
 msgstr "我想它应该是很饿了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLGHOST"
+msgid "Hey little buddy, you need some help?"
+msgstr "嘿，小家伙，你需要帮忙吗？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLMEAT"
@@ -117221,6 +119081,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "Water too hard"
 msgstr "水太硬"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.BUILD.HASPET"
 msgid "Already have Care Friend"
@@ -118006,6 +119871,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GHOSTDRAIN"
 msgid "What happening?"
 msgstr "怎么了？"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GROWPLANT.1
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GROWPLANT.1"
 msgid "Grow!"
@@ -118516,8 +120386,33 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Don't want to fight"
 msgstr "不想战斗"
 
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Floaty Friend"
+msgstr "飘浮的朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Floaty Friend"
+msgstr "飘浮的朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Floaty Friend"
+msgstr "飘浮的朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Floaty Friend"
+msgstr "飘浮的朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Floaty Friend"
+msgstr "飘浮的朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Floaty Friend"
 msgstr "飘浮的朋友"
 
@@ -118535,6 +120430,21 @@ msgstr "幽灵朋友"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Jumpy pocket"
 msgstr "在口袋里跳动"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Hello there!"
+msgstr "你好呀！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "Growing"
+msgstr "成长中"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Floaty friend!"
+msgstr "飘浮的朋友！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -121046,6 +122956,41 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOST"
 msgid "Floaty man!"
 msgstr "漂浮的人！"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTFLOWER"
+msgid "Friend...?"
+msgstr "朋友……？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "For ghost friend"
+msgstr "鬼魂朋友的东西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "For ghost friend"
+msgstr "鬼魂朋友的东西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "For ghost friend"
+msgstr "鬼魂朋友的东西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "For ghost friend"
+msgstr "鬼魂朋友的东西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "For ghost friend"
+msgstr "鬼魂朋友的东西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "For ghost friend"
+msgstr "鬼魂朋友的东西"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GIFT"
 msgid "Give to friends!"
@@ -122095,6 +124040,56 @@ msgstr "啊哈哈哈！"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOG.GENERIC"
 msgid "Sorry. So sorry"
 msgstr "抱歉。很抱歉"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_1"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_10"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_11"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_14"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_18"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_19"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_2"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_42"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_43"
+msgid "Spooky"
+msgstr "好吓人"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOST_TOY_7"
+msgid "Spooky"
+msgstr "好吓人"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -125171,6 +127166,21 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SILK"
 msgid "Soft"
 msgstr "柔软"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SISTURN.GENERIC"
+msgid "Lonely"
+msgstr "孤独的"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "Nice here"
+msgstr "这里真漂亮"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Friends!"
+msgstr "朋友！"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SKELETON"
 msgid "Still alive?"
@@ -125275,6 +127285,11 @@ msgstr "嘘。。。它在睡觉"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Needs stuff for belly!!"
 msgstr "肚子要吃东西了！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLGHOST"
+msgid "Floaty is... sad?"
+msgstr "飘浮的朋友……难过了？"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLMEAT"
@@ -127791,6 +129806,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "I can't throw it through the looking glass!"
 msgstr "有镜子隔着，扔不过去！"
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BUILD.HASPET"
 msgid "I've made my pact with a beast already."
@@ -128571,6 +130591,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GHOSTDRAIN"
 msgid "Ghosts play... strange games..."
 msgstr "鬼魂玩的游戏真古怪..."
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HIGHRESEARCH"
 msgid "My brain's grown three sizes this day!"
@@ -129096,8 +131121,33 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "I'll take my leave. Hyuyu!"
 msgstr "俺老牛去也。哼！"
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "Poor soul."
+msgstr "可怜的灵魂。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "Poor soul."
+msgstr "可怜的灵魂。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "Poor soul."
+msgstr "可怜的灵魂。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "Poor soul."
+msgstr "可怜的灵魂。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "Poor soul."
+msgstr "可怜的灵魂。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "Poor soul."
 msgstr "可怜的灵魂。"
 
@@ -129115,6 +131165,21 @@ msgstr "哦，你也饿了。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Sadly, it is not mine to keep."
 msgstr "可惜，不是我的，不能留。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "No need to hide from me... tasty as you might be."
+msgstr "不用躲着我……美味小花朵。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "How are you doing in there?"
+msgstr "你还好吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "My, you're looking spirited! Hyuyu!"
+msgstr "我的天，你看起来魂不守舍！哼！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -131631,6 +133696,41 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOST"
 msgid "An unclaimed soul!"
 msgstr "无人认领的灵魂！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTFLOWER"
+msgid "What a fetching phantom flower."
+msgstr "多么迷人的魅影之花。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Hyuyu! Someone's getting crafty!"
+msgstr "哼！有人创意大发啊！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Hyuyu! Someone's getting crafty!"
+msgstr "哼！有人创意大发啊！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Hyuyu! Someone's getting crafty!"
+msgstr "哼！有人创意大发啊！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Hyuyu! Someone's getting crafty!"
+msgstr "哼！有人创意大发啊！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Hyuyu! Someone's getting crafty!"
+msgstr "哼！有人创意大发啊！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Hyuyu! Someone's getting crafty!"
+msgstr "哼！有人创意大发啊！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GIFT"
 msgid "Presents! How fun!"
@@ -132665,6 +134765,56 @@ msgstr "我说吧，它会烧完的！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOG.GENERIC"
 msgid "A piece of what was once a tree."
 msgstr "它曾是一颗树。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_1"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_10"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_11"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_14"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_18"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_19"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_2"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_42"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_43"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_7"
+msgid "You're not from around this plane, are you?"
+msgstr "你不是来自这个世界的，对吧？"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -135726,6 +137876,21 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SILK"
 msgid "A present from the spider's ilk."
 msgstr "蜘蛛的亲戚送的礼物。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.GENERIC"
+msgid "A touching tribute to a treasured twin."
+msgstr "对孪生姐妹的哀思令人感动。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "Maybe I should keep my distance..."
+msgstr "我应当保持距离……"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "A flowery addition for our apparition!"
+msgstr "花下亡魂！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SKELETON"
 msgid "The soul is long gone."
@@ -135830,6 +137995,11 @@ msgstr "晚安，好梦。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Goodness gracious, you're really hungry."
 msgstr "嗷，嗷，你是真的饿啊。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMALLGHOST"
+msgid "I prefer souls with more meat on their bones... metaphorically speaking."
+msgstr "我更喜欢肉多一点的灵魂……这是一种暗喻。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMALLMEAT"
@@ -138351,6 +140521,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "Water too hard."
 msgstr "水太硬。"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.BUILD.HASPET"
 msgid "Don't need 'nother pet, glort."
@@ -139146,6 +141321,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOSTDRAIN"
 msgid "Gluurrr... glorph... GLORRPP..."
 msgstr "格勒额……格浪浮……格浪噗……"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HIGHRESEARCH"
 msgid "Head feels so full of smarts, florp!"
@@ -139676,8 +141856,33 @@ msgctxt "STRINGS.CHARACTERS.WURT.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Don't like you anyway, flurt!"
 msgstr "本来就不怎么喜欢你，浮勒特！"
 
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "You... nice?"
+msgstr "你……是好人吗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "You... nice?"
+msgstr "你……是好人吗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "You... nice?"
+msgstr "你……是好人吗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "You... nice?"
+msgstr "你……是好人吗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "You... nice?"
+msgstr "你……是好人吗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "You... nice?"
 msgstr "你……是好人吗？"
 
@@ -139695,6 +141900,21 @@ msgstr "不该出现在这的，浮勒噗……"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Glorp! Down flower!"
 msgstr "格浪噗！下去，花！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "Abby-gill hiding."
+msgstr "阿比盖尔藏起来了。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "She sure taking her time, flort."
+msgstr "她还真是慢慢悠悠，浮浪特。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "Come out!"
+msgstr "出来！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -142206,6 +144426,41 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOST"
 msgid "Glorph, go away!"
 msgstr "格浪噗，走开！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTFLOWER"
+msgid "Spooky!"
+msgstr "真可怕！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "Ooooh! Me wanna make some too, florp!"
+msgstr "噢！我也想做些手工,浮浪噗！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "Ooooh! Me wanna make some too, florp!"
+msgstr "噢！我也想做些手工,浮浪噗！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "Ooooh! Me wanna make some too, florp!"
+msgstr "噢！我也想做些手工,浮浪噗！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "Ooooh! Me wanna make some too, florp!"
+msgstr "噢！我也想做些手工,浮浪噗！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Ooooh! Me wanna make some too, florp!"
+msgstr "噢！我也想做些手工,浮浪噗！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "Ooooh! Me wanna make some too, florp!"
+msgstr "噢！我也想做些手工,浮浪噗！"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GIFT"
 msgid "Present for me!"
@@ -143255,6 +145510,56 @@ msgstr "营火！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOG.GENERIC"
 msgid "Can we make campfire?"
 msgstr "我们搭个营火？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_1"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_10"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_11"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_14"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_18"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_19"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_2"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_42"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_43"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LOST_TOY_7"
+msgid "Huh? Can't pick it up!"
+msgstr "哈？捡不起来！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -144978,18 +147283,18 @@ msgstr "食物都去那儿了。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD"
-msgid "As far as posts go, this one is adequate."
-msgstr "就柱子而言, 这根足够了。"
+msgid "Not that interesting, florp."
+msgstr "没什么意思，浮浪噗。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_IVY
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_IVY"
-msgid "Kind of clingy."
-msgstr "有点粘人。"
+msgid "Creepy crawly."
+msgstr "可怕的爬行动物。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_QUEEN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_QUEEN"
-msgid "A monumental monument."
-msgstr "一座有纪念意义的纪念碑。"
+msgid "She look nice."
+msgstr "她看起来不错。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_STATUE1
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_STATUE1"
@@ -144998,23 +147303,23 @@ msgstr "看起来好阴森……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_STATUE2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ALTAR_STATUE2"
-msgid "What are you looking at?"
-msgstr "看什么呢？"
+msgid "What red eyes it have..."
+msgstr "它的眼睛真红……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_BEEFALO"
-msgid "Science says it should have died by now."
-msgstr "科学说它应该死透了。"
+msgid "Where all its fluff?"
+msgstr "它的毛呢？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_BERRYBUSH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_BERRYBUSH"
-msgid "Those berries are all gone."
-msgstr "浆果全没了。"
+msgid "Aww, where the berries?!"
+msgstr "嗷，浆果在哪呢？！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_BOWL_SILVER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_BOWL_SILVER"
-msgid "A bright bowl."
-msgstr "一只明亮的碗。"
+msgid "Can see own cute reflection!"
+msgstr "能看到我可爱的倒影呢！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CARROT_SEEDS"
@@ -145023,33 +147328,33 @@ msgstr "我好奇会长出什么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CASSEROLEDISH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CASSEROLEDISH"
-msgid "A dish for all seasonings."
-msgstr "一道加了各种调料的菜。"
+msgid "Not good with breakable things..."
+msgstr "容易破的东西我最好别乱玩……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CASSEROLEDISH_SMALL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CASSEROLEDISH_SMALL"
-msgid "For making minuscule motleys."
-msgstr "可以做各种杂七杂八的小菜。"
+msgid "Is so teeny tiny!"
+msgstr "真小啊！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN1
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN1"
-msgid "I'd like more than a penny for my thoughts."
-msgstr "我的想法可值不止这点钱。"
+msgid "Can't eat this, florp!"
+msgstr "这个不能吃，浮浪噗！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN2"
-msgid "A decent amount of coin."
-msgstr "不少硬币呢。"
+msgid "Ooooh, shiny!"
+msgstr "噢噢哦,真亮！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN3
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN3"
-msgid "Seems valuable."
-msgstr "似乎很有价值。"
+msgid "Look extra fancy."
+msgstr "看起来特别高级。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN4
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_COIN4"
-msgid "We can use these to reopen the Gateway."
-msgstr "可以用它们重新打开通道。"
+msgid "This help me get home!"
+msgstr "这个能帮我回家！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CRABMEAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CRABMEAT"
@@ -145063,18 +147368,18 @@ msgstr "格勒浮……不忍直视。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CRABTRAP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CRABTRAP"
-msgid "A crabby trap."
-msgstr "螃蟹陷阱。"
+msgid "Look like little house!"
+msgstr "看起来像小房子！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CRATE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_CRATE"
-msgid "Kitchen stuff."
-msgstr "厨房用具。"
+msgid "Ooooooh, present for me?"
+msgstr "噢，送我的礼物吗？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FERN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FERN"
-msgid "Probably chock full of vitamins."
-msgstr "可能富含维生素。"
+msgid "Is dee-lishuss and newt-rishuss."
+msgstr "营养又美味。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FLOUR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FLOUR"
@@ -145083,28 +147388,28 @@ msgstr "那个灰尘一样的东西能放到食物里？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOLIAGE_COOKED
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOLIAGE_COOKED"
-msgid "We cooked the foliage."
-msgstr "我们煮了树叶。"
+msgid "Yummy yum!"
+msgstr "真好吃！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.GENERIC"
-msgid "PLACEHOLDER"
-msgstr "PLACEHOLDER"
+msgid "Should give to big mouth in sky!"
+msgstr "该把它给天上的大嘴！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.MATCH"
-msgid "Science says this will appease the sky God."
-msgstr "科学说这样会安抚天空之神。"
+msgid "Is good food for sky mouth!"
+msgstr "适合天上的嘴巴！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK"
-msgid "It's more of a light snack, really."
-msgstr "真的，这更像是小吃。"
+msgid "Food seem small for such big mouth."
+msgstr "嘴巴这么大，食物比起来真小。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD.MISMATCH"
-msgid "That's not what it wants."
-msgstr "不是它想要的。"
+msgid "Don't think it'll like that, florp."
+msgstr "它应该不会喜欢，浮浪噗。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_FOOD_BURNT"
@@ -145128,38 +147433,38 @@ msgstr "我好奇会长出什么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GOATKID
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GOATKID"
-msgid "This goat's much smaller."
-msgstr "这只山羊小得多。"
+msgid "Hello weird kid! Wanna play?"
+msgstr "你好，古怪的小孩！想玩玩么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GOATMILK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GOATMILK"
-msgid "Good if you don't think about where it came from."
-msgstr "挺好的，只要你别去想它的来源。"
+msgid "Glurgh..."
+msgstr "格勒格……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GOATMUM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GOATMUM"
-msgid "Reminds me of my old nanny."
-msgstr "让我想起了我的老保姆。"
+msgid "She seem nice enough."
+msgstr "她看起来挺友好的。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL"
-msgid "Now all I need is a backyard to put it in."
-msgstr "我现在就差一个摆放它的后院了。"
+msgid "Make food hot and tasty."
+msgstr "能让食物变得美味热乎。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL_ITEM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL_ITEM"
-msgid "I'll have to grill someone about this."
-msgstr "“烤”问利器。"
+msgid "Is for making food hot and tasty!"
+msgstr "让食物变得美味热乎。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL_SMALL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL_SMALL"
-msgid "Barbecurious."
-msgstr "烤出好味道。"
+msgid "Teeny food cooker."
+msgstr "小的食物烹饪器。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL_SMALL_ITEM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_GRILL_SMALL_ITEM"
-msgid "For grilling small meats."
-msgstr "用来烤小块肉。"
+msgid "Teeny food cooker."
+msgstr "小的食物烹饪器。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_HOE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_HOE"
@@ -145178,13 +147483,13 @@ msgstr "打不开隐藏的箱子……那能打开什么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_LAMP_POST
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_LAMP_POST"
-msgid "Huh. Reminds me of home."
-msgstr "嗯，让我想起了家。"
+msgid "Ooooooh, glowy!"
+msgstr "噢，发光呢！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_LAMP_SHORT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_LAMP_SHORT"
-msgid "Enlightening."
-msgstr "亮起来。"
+msgid "Is fancy light."
+msgstr "是高级的光。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MEALINGSTONE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MEALINGSTONE"
@@ -145198,13 +147503,13 @@ msgstr "需要修缮的房子！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MERM_CART1
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MERM_CART1"
-msgid "Any science in there?"
-msgstr "里面有什么科学原理吗？"
+msgid "Ooooh, what you have?"
+msgstr "噢，你有什么呢？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MERM_CART2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MERM_CART2"
-msgid "I could use some stuff."
-msgstr "有些东西我能用得上。"
+msgid "You gimme stuff?"
+msgstr "你给我东西吗？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MUSHROOMS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_MUSHROOMS"
@@ -145238,28 +147543,28 @@ msgstr "我好奇会长出什么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_OVEN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_OVEN"
-msgid "It needs ingredients to make the science work."
-msgstr "需要加些材料才会有化学反应。"
+msgid "Wonder what to cook..."
+msgstr "不知道要做点什么……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_OVEN_ITEM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_OVEN_ITEM"
-msgid "For scientifically burning things."
-msgstr "科学燃烧用品。"
+msgid "Food cooker."
+msgstr "做饭机器。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARKSPIKE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARKSPIKE"
-msgid "The scientific term is: \"Sharp pointy thing\"."
-msgstr "它的学名应该是“锋利、尖锐的东西”。"
+msgid "Look real pointy."
+msgstr "看起来很尖。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_ANGEL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_ANGEL"
-msgid "Take that, creature!"
-msgstr "接招！"
+msgid "Don't like it."
+msgstr "不喜欢它。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_ANGEL2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_ANGEL2"
-msgid "So lifelike."
-msgstr "真是栩栩如生。"
+msgid "Is creepy..."
+msgstr "真古怪……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_FOUNTAIN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_FOUNTAIN"
@@ -145268,23 +147573,23 @@ msgstr "嗷……没有水了"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_GATE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_GATE.GENERIC"
-msgid "Turns out a key was the key to getting in."
-msgstr "没钥匙不行。"
+msgid "Better be good stuff in here."
+msgstr "里面最好有好东西。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED"
-msgid "Locked tight."
-msgstr "锁得牢牢的。"
+msgid "Lemme iiiin!!"
+msgstr "让我进去！！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_OBELISK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_OBELISK"
-msgid "A monumental monument."
-msgstr "一座有纪念意义的纪念碑。"
+msgid "Big stone thing."
+msgstr "大石头做的。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_URN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PARK_URN"
-msgid "Ashes to ashes."
-msgstr "尘归尘。"
+msgid "Cookies inside?"
+msgstr "里面有饼干吗？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PEBBLECRAB
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PEBBLECRAB"
@@ -145293,23 +147598,23 @@ msgstr "嗷，太可爱了！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PIGEON.DEAD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PIGEON.DEAD"
-msgid "They're dead."
-msgstr "死了。"
+msgid "Ewww, it dead."
+msgstr "咦，它死了。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PIGEON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PIGEON.GENERIC"
-msgid "He's just winging it."
-msgstr "羽翼丰满。"
+msgid "Hello birdy!"
+msgstr "你好，小鸟！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PIGEON.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PIGEON.SLEEPING"
-msgid "It's sleeping, for now."
-msgstr "它睡着了，暂时睡着了。"
+msgid "Sleepy bird."
+msgstr "安睡的小鸟。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PLATE_SILVER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_PLATE_SILVER"
-msgid "A silver plated plate."
-msgstr "镀银的盘子。"
+msgid "Shiny!"
+msgstr "好闪亮！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POND_SALT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POND_SALT"
@@ -145328,8 +147633,8 @@ msgstr "喔，这个看起来很重要！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT"
-msgid "This pot holds more ingredients."
-msgstr "这个能装更多配料。"
+msgid "Is just normal pot."
+msgstr "就是一个普通的罐子。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POTATO
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POTATO"
@@ -145348,23 +147653,23 @@ msgstr "我好奇会长出什么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_HANGER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_HANGER"
-msgid "It has hang-ups."
-msgstr "它带有挂钩。"
+msgid "Put food over fire!"
+msgstr "它把食物放在火上面！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_HANGER_ITEM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_HANGER_ITEM"
-msgid "For suspension-based cookery."
-msgstr "用来悬挂炊具。"
+msgid "It help for cooking."
+msgstr "它帮忙做饭的。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_SMALL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_SMALL"
-msgid "Let's get cooking!"
-msgstr "我们来做饭吧！"
+msgid "Bitty pot."
+msgstr "小锅。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_SYRUP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_POT_SYRUP"
-msgid "I need to sweeten this pot."
-msgstr "我需要给这锅东西增加甜味。"
+msgid "Is for sweet stuff."
+msgstr "装甜的东西。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ROTTEN_CROP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_ROTTEN_CROP"
@@ -145488,23 +147793,23 @@ msgstr "能装甜甜的树里的东西！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SAPLING"
-msgid "I can't get anything else out of that."
-msgstr "我从中弄不到其他东西。"
+msgid "Baby tree!"
+msgstr "树宝宝！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SAP_SPOILED
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SAP_SPOILED"
-msgid "Might as well toss it on the fire."
-msgstr "还不如把它扔进火里。"
+msgid "Glurgh... not so good anymore."
+msgstr "格勒格……不那么好了。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SEEDPACKET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SEEDPACKET"
-msgid "Sow what?"
-msgstr "播什么种？"
+msgid "Seeeeeeds!!"
+msgstr "种子！！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SLAUGHTERTOOL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SLAUGHTERTOOL"
-msgid "Laboratory tools for surgical butchery."
-msgstr "用于牲畜的外科工具。"
+msgid "Huh? What this for?"
+msgstr "哈？这是做什么的？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SPOTSPICE_GROUND
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SPOTSPICE_GROUND"
@@ -145583,8 +147888,8 @@ msgstr "哈哈！猪屋被破坏了。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SYRUP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_SYRUP"
-msgid "Adds sweetness to the mixture."
-msgstr "加一点甜味。"
+msgid "Sticky sweet!"
+msgstr "又黏又甜！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TOMATO
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TOMATO"
@@ -145603,13 +147908,13 @@ msgstr "我好奇会长出什么？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TRADER_MERM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TRADER_MERM"
-msgid "Maybe they'd be willing to trade."
-msgstr "也许他们愿意交换。"
+msgid "Finally find someone normal!"
+msgstr "终于找到个正常人！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TRADER_MERM2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TRADER_MERM2"
-msgid "Maybe they'd be willing to trade."
-msgstr "也许他们愿意交换。"
+msgid "Hello! How you do, florp?"
+msgstr "你好！你还好吧，浮浪噗？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TURNIP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.QUAGMIRE_TURNIP"
@@ -146336,6 +148641,21 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SILK"
 msgid "Spiderfolk loogies!"
 msgstr "蜘蛛人吐的痰！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SISTURN.GENERIC"
+msgid "What in jar? Snacks?"
+msgstr "罐子里有什么？零食吗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "So is... not snack jar?"
+msgstr "原来不是……零食罐啊？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "Scaleless like putting flowers here."
+msgstr "无鳞生物喜欢把东西放在这。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SKELETON"
 msgid "It dead."
@@ -146440,6 +148760,11 @@ msgstr "好好睡！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Look really hungry."
 msgstr "看起来饿极了。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLGHOST"
+msgid "Glurp! Y-you not scare me!"
+msgstr "格勒普！你-你吓不倒我！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLMEAT"
@@ -148956,6 +151281,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "ERROR: MOON BARRIER ACTIVE"
 msgstr "错误：月亮屏障已开启"
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.BUILD.HASPET
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.BUILD.HASPET"
 msgid "I ALREADY HAVE AN ORGANIC MINION"
@@ -149741,6 +152071,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_GHOSTDRAIN"
 msgid "SANITY RESERVES... DRAINING"
 msgstr "保持神智…排水"
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_GHOST_QUEST
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_GHOST_QUEST"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_HIGHRESEARCH"
 msgid "INFORMATION OVERLOAD"
@@ -150221,8 +152556,33 @@ msgctxt "STRINGS.CHARACTERS.WX78.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "TOUCHE"
 msgstr "算你狠"
 
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL"
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "UNDEAD ALERT"
+msgstr "亡灵警报"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "UNDEAD ALERT"
+msgstr "亡灵警报"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "UNDEAD ALERT"
+msgstr "亡灵警报"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "UNDEAD ALERT"
+msgstr "亡灵警报"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "UNDEAD ALERT"
+msgstr "亡灵警报"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "UNDEAD ALERT"
 msgstr "亡灵警报"
 
@@ -150240,6 +152600,21 @@ msgstr "令人毛骨悚然的感应器过载"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "I SHOULD THROW IT AWAY"
 msgstr "我应该扔掉它"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LEVEL1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LEVEL1"
+msgid "IT IS CREEPY"
+msgstr "毛骨悚然"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LEVEL2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LEVEL2"
+msgid "IT IS STILL CREEPY"
+msgstr "依然毛骨悚然"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
+msgid "ACTUALLY, IT'S NOT SO BAD NOW"
+msgstr "现在好多了"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -152741,6 +155116,41 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOST"
 msgid "ERROR: UNKNOWN"
 msgstr "错误：未知"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTFLOWER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTFLOWER"
+msgid "ITS EXISTENCE CANNOT BE EXPLAINED"
+msgstr "它的存在无法解释。"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_ATTACK"
+msgid "INFERIOR CRAFTSMANSHIP. A CHILD COULD HAVE MADE THIS"
+msgstr "下等手工艺。小孩子都能做出来"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
+msgid "INFERIOR CRAFTSMANSHIP. A CHILD COULD HAVE MADE THIS"
+msgstr "下等手工艺。小孩子都能做出来"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
+msgid "INFERIOR CRAFTSMANSHIP. A CHILD COULD HAVE MADE THIS"
+msgstr "下等手工艺。小孩子都能做出来"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_SHIELD"
+msgid "INFERIOR CRAFTSMANSHIP. A CHILD COULD HAVE MADE THIS"
+msgstr "下等手工艺。小孩子都能做出来"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
+msgid "INFERIOR CRAFTSMANSHIP. A CHILD COULD HAVE MADE THIS"
+msgstr "下等手工艺。小孩子都能做出来"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GHOSTLYELIXIR_SPEED"
+msgid "INFERIOR CRAFTSMANSHIP. A CHILD COULD HAVE MADE THIS"
+msgstr "下等手工艺。小孩子都能做出来"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GIFT"
 msgid "MINIONS. ARE YOU FINALLY RECOGNIZING MY NATURAL EMINENCE?"
@@ -153775,6 +156185,56 @@ msgstr "它烧着了"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOG.GENERIC"
 msgid "LOG(1) = 0"
 msgstr "LOG(1) = 0"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_1"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_10
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_10"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_11
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_11"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_14
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_14"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_18
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_18"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_19
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_19"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_2"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_42
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_42"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_43
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_43"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_7
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LOST_TOY_7"
+msgid "ERROR: NULL VALUE"
+msgstr "错误：值不存在"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LUCKY_GOLDNUGGET"
@@ -156836,6 +159296,21 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SILK"
 msgid "SPIDER INNARDS"
 msgstr "蜘蛛内脏"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SISTURN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SISTURN.GENERIC"
+msgid "WEAK ORGANIC SENTIMENTALITY"
+msgstr "弱等有机物的情感"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
+msgid "FRIVOLOUS..."
+msgstr "胡里花哨……"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SISTURN.SOME_FLOWERS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SISTURN.SOME_FLOWERS"
+msgid "FRIVOLOUS"
+msgstr "胡里花哨"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON"
 msgid "HAH, IT DIED. CLASSIC HUMAN MISTAKE"
@@ -156940,6 +159415,11 @@ msgstr "它正在充电"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMALLBIRD.STARVING"
 msgid "IT IS ALMOST OUT OF FUEL"
 msgstr "快没燃料了"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SMALLGHOST
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMALLGHOST"
+msgid "ERROR: VISUAL PROCESSOR MUST BE MALFUNCTIONING"
+msgstr "错误：图像处理器可能出现故障"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMALLMEAT"
@@ -164896,6 +167376,41 @@ msgctxt "STRINGS.NAMES.GHOST"
 msgid "Ghost"
 msgstr "幽灵"
 
+#. STRINGS.NAMES.GHOSTFLOWER
+msgctxt "STRINGS.NAMES.GHOSTFLOWER"
+msgid "Mourning Glory"
+msgstr "哀悼荣耀"
+
+#. STRINGS.NAMES.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_ATTACK"
+msgid "Choleric Tonic"
+msgstr "易怒药水"
+
+#. STRINGS.NAMES.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_FASTREGEN"
+msgid "Spectral Cure-All"
+msgstr "灵魂万灵药"
+
+#. STRINGS.NAMES.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_RETALIATION"
+msgid "Distilled Vengeance"
+msgstr "蒸馏复仇"
+
+#. STRINGS.NAMES.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_SHIELD"
+msgid "Unyielding Draught"
+msgstr "不屈药剂"
+
+#. STRINGS.NAMES.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Revenant Restorative"
+msgstr "亡者补药"
+
+#. STRINGS.NAMES.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_SPEED"
+msgid "Vigor Mortis"
+msgstr "强健精油"
+
 #. STRINGS.NAMES.GIFT
 msgctxt "STRINGS.NAMES.GIFT"
 msgid "Gift"
@@ -165860,6 +168375,56 @@ msgstr "完全正常的树苗"
 msgctxt "STRINGS.NAMES.LOG"
 msgid "Log"
 msgstr "木头"
+
+#. STRINGS.NAMES.LOST_TOY_1
+msgctxt "STRINGS.NAMES.LOST_TOY_1"
+msgid "Lost Marbles"
+msgstr "遗失的玻璃球"
+
+#. STRINGS.NAMES.LOST_TOY_10
+msgctxt "STRINGS.NAMES.LOST_TOY_10"
+msgid "Missing Teeth"
+msgstr "缺少的牙齿"
+
+#. STRINGS.NAMES.LOST_TOY_11
+msgctxt "STRINGS.NAMES.LOST_TOY_11"
+msgid "Cherished Toy Robot"
+msgstr "珍贵的玩具机器人"
+
+#. STRINGS.NAMES.LOST_TOY_14
+msgctxt "STRINGS.NAMES.LOST_TOY_14"
+msgid "Mother's Favorite Teacup"
+msgstr "妈妈最爱的茶杯"
+
+#. STRINGS.NAMES.LOST_TOY_18
+msgctxt "STRINGS.NAMES.LOST_TOY_18"
+msgid "Treasured Toy Trojan Horse"
+msgstr "宝贵的玩具木马"
+
+#. STRINGS.NAMES.LOST_TOY_19
+msgctxt "STRINGS.NAMES.LOST_TOY_19"
+msgid "Favorite Spinning Top"
+msgstr "最爱的陀螺"
+
+#. STRINGS.NAMES.LOST_TOY_2
+msgctxt "STRINGS.NAMES.LOST_TOY_2"
+msgid "Sentimental Kazoo"
+msgstr "多愁善感的卡祖笛"
+
+#. STRINGS.NAMES.LOST_TOY_42
+msgctxt "STRINGS.NAMES.LOST_TOY_42"
+msgid "Misplaced Toy Cobra"
+msgstr "装错的玩具眼镜蛇"
+
+#. STRINGS.NAMES.LOST_TOY_43
+msgctxt "STRINGS.NAMES.LOST_TOY_43"
+msgid "Beloved Crocodile Toy"
+msgstr "宠爱的鳄鱼玩具"
+
+#. STRINGS.NAMES.LOST_TOY_7
+msgctxt "STRINGS.NAMES.LOST_TOY_7"
+msgid "Prized Ball and Cup"
+msgstr "珍视的抽线陀螺"
 
 #. STRINGS.NAMES.LUCKY_GOLDNUGGET
 msgctxt "STRINGS.NAMES.LUCKY_GOLDNUGGET"
@@ -168816,6 +171381,11 @@ msgctxt "STRINGS.NAMES.SINKHOLE"
 msgid "Basalt"
 msgstr "玄武岩"
 
+#. STRINGS.NAMES.SISTURN
+msgctxt "STRINGS.NAMES.SISTURN"
+msgid "Sisturn"
+msgstr "姐妹骨灰罐"
+
 #. STRINGS.NAMES.SKELETON
 msgctxt "STRINGS.NAMES.SKELETON"
 msgid "Skeleton"
@@ -168890,6 +171460,11 @@ msgstr "蜗壳碎片"
 msgctxt "STRINGS.NAMES.SMALLBIRD"
 msgid "Smallbird"
 msgstr "小鸟"
+
+#. STRINGS.NAMES.SMALLGHOST
+msgctxt "STRINGS.NAMES.SMALLGHOST"
+msgid "Pipspook"
+msgstr "小惊吓"
 
 #. STRINGS.NAMES.SMALLMEAT
 msgctxt "STRINGS.NAMES.SMALLMEAT"
@@ -172996,6 +175571,36 @@ msgctxt "STRINGS.RECIPE_DESC.FOOTBALLHAT"
 msgid "Protect your braincase."
 msgstr "保护你的脑壳。"
 
+#. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_ATTACK
+msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_ATTACK"
+msgid "Revive Abigail's fighting spirit."
+msgstr "重燃阿比盖尔的战斗精神。"
+
+#. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_FASTREGEN
+msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_FASTREGEN"
+msgid "A potent cure for grave injuries."
+msgstr "治疗重伤的强力药剂。"
+
+#. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_RETALIATION
+msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_RETALIATION"
+msgid "Give foes a taste of their own medicine."
+msgstr "对敌人以牙还牙。"
+
+#. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SHIELD
+msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SHIELD"
+msgid "Shield your sister from harm."
+msgstr "保护你的姐妹不受伤害。"
+
+#. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SLOWREGEN
+msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SLOWREGEN"
+msgid "Time heals all wounds."
+msgstr "时间会抚平所有伤口。"
+
+#. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SPEED
+msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SPEED"
+msgid "Give your soul a little boo-st."
+msgstr "给你的灵魂来一剂强心针。"
+
 #. STRINGS.RECIPE_DESC.GIFTWRAP
 msgctxt "STRINGS.RECIPE_DESC.GIFTWRAP"
 msgid "Wrap things up, nice and pretty!"
@@ -173895,6 +176500,11 @@ msgstr "挖掘各种各样的东西。"
 msgctxt "STRINGS.RECIPE_DESC.SIESTAHUT"
 msgid "Escape the heat to restore sanity."
 msgstr "躲避烈日，回复精神值。"
+
+#. STRINGS.RECIPE_DESC.SISTURN
+msgctxt "STRINGS.RECIPE_DESC.SISTURN"
+msgid "A place to rest your weary soul."
+msgstr "让你疲倦的灵魂休息的地方。"
 
 #. STRINGS.RECIPE_DESC.SLEEPBOMB
 msgctxt "STRINGS.RECIPE_DESC.SLEEPBOMB"
@@ -175216,6 +177826,56 @@ msgctxt "STRINGS.SIGNS.QUANT_ADJ_NOUN_FMT"
 msgid "{quantifier} {adjective} {noun}"
 msgstr "{quantifier} {adjective} {noun}"
 
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_formal"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_handmedown"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_rose"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_shadow"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_survivor"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_formal"
+msgid "This flower has a strong aura of fanciness."
+msgstr "这朵花有很强的高级感。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_handmedown"
+msgid "Memories are not the only things that linger."
+msgstr "留下的不只是回忆。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_rose"
+msgid "Poor flower, plucked in its prime."
+msgstr "可怜的花，在盛放时被摘下。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_shadow"
+msgid "Something dark has taken hold..."
+msgstr "被黑暗的力量占据……"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_survivor"
+msgid "Death is just a setback."
+msgstr "死亡只是一次挫折。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_red_heart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_heart"
 msgid "All hearts can be mended with time and care."
@@ -176246,10 +178906,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_formal"
 msgid "A cute party dress with puffed sleeves."
 msgstr "可爱泡泡袖晚礼服。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_formalp"
+msgid "A cute party dress with puffed sleeves."
+msgstr "可爱泡泡袖晚礼服。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_gladiator"
 msgid "A belt of fangs suits any steadfast fighter."
 msgstr "尖牙腰带，适合任何意志坚定的战士。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_handmedown"
+msgid "Its previous owner doesn't need it anymore."
+msgstr "它之前的主人不再需要它了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_ice"
@@ -176271,13 +178941,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_rose"
 msgid "The captive rose is bound by the lattice."
 msgstr "迷人的玫瑰被格架束缚了。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_rosep"
+msgid "The captive rose is bound by the lattice."
+msgstr "迷人的玫瑰被格架束缚了。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_shadow"
 msgid "Finally the darkness envelops you, as you always knew it would."
 msgstr "如你深知，最终黑暗笼罩着你。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_shadowp"
+msgid "Finally the darkness envelops you, as you always knew it would."
+msgstr "如你深知，最终黑暗笼罩着你。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_survivor"
+msgid "This skirt has had a close brush with the forces of darkness."
+msgstr "裙子上有一个刷状装饰品，具备黑暗之力。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_survivorp"
 msgid "This skirt has had a close brush with the forces of darkness."
 msgstr "裙子上有一个刷状装饰品，具备黑暗之力。"
 
@@ -177466,6 +180151,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_maryjanes_white_pure"
 msgid "Hit the jackpot with these classic 'pure white' colored Mary Janes."
 msgstr "穿上经典的‘纯白’玛丽简女鞋成功一把。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_maryjanesp_white_pure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_maryjanesp_white_pure"
+msgid "Hit the jackpot with these classic 'pure white' colored Mary Janes."
+msgstr "穿上经典的‘纯白’玛丽简女鞋成功一把。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_ridingboot_white_pure
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_ridingboot_white_pure"
 msgid "A pair of 'pure white' colored riding boots. Yee-haw!"
@@ -177630,6 +180320,11 @@ msgstr "超自然鞋履。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_gladiator"
 msgid "A pair of fur-trimmed sandals for a usurper to wear."
 msgstr "给篡位者穿的毛皮装饰凉鞋。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_handmedown"
+msgid "A complete pair. What good is having one shoe without the other?"
+msgstr "完整的一双。如果缺少了一个，还有什么意义？"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_ice"
@@ -178330,6 +181025,11 @@ msgstr "这些利爪——有些拳套垫了东西，所以其实没人会受伤
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_gladiator"
 msgid "These handwraps are imbued with a quiet ferocity."
 msgstr "这对护手里充满了凶残的气息。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_handmedown"
+msgid "These carefully woven daisy bracelets remind you of brighter days."
+msgstr "这些精心织就的雏菊腕带让你想起了那些明亮的日子。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_ice"
@@ -179341,10 +182041,25 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_bearger_yule"
 msgid "Deafening roars fill the air with no hint of cessation,\nWho dares disturb Bearger's sweet hibernation?"
 msgstr "震耳欲聋的咆哮回荡在空中，没完没了似的。\n 谁这么大胆打扰熊獾香甜的休眠？"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_charlie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_charlie"
+msgid "Don't let your guard down... there are eyes everywhere."
+msgstr "不要放松警惕……到处都是眼睛。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_charlie2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_charlie2"
+msgid "Keep your torch held high and your eyes sharp, lest you too fall prey to the darkness."
+msgstr "高举火炬、放亮双眼，小心别被黑暗吞噬。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_critters
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_critters"
 msgid "It was once thought that the beasts of the Constant were too wild and ferocious to be tamed. As it turns out, all any critter needs to make friends is a bit of love."
 msgstr "人们曾经认为永恒领域的怪兽太狂野凶猛而难以信服，但事实证明，只要给予一点点爱，任何生物都能变成朋友。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_danger
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_danger"
+msgid "Watch your step... danger lurks around every corner."
+msgstr "小心你的脚下……危险潜藏在每一个角落。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_deerclops_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_deerclops_yule"
@@ -179381,6 +182096,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_goosemoose_yule"
 msgid "A large plump goose sounds fit for a feast,\nUnless you're the meal for the terrible beast."
 msgstr "肥美的巨鹅听起来像盛宴上的美餐，\n但要小心那可怕的怪兽抓了你解馋。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_lunacy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_lunacy"
+msgid "Open your mind to terrifying new possibilities."
+msgstr "打开头脑，看看令人畏惧的新的可能。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_magma"
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
@@ -179396,10 +182116,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_maxwell"
 msgid "Maxwell's extended reign on the Nightmare Throne altered him in ways that are not yet fully understood. He continues to rely heavily on his tome, the Codex Umbra, as a result."
 msgstr "麦斯威尔在噩梦王座上的漫长在位时间，让他发生一些难以理解的变化。这让他重度依赖他的那本大部头书籍——暗影魔法书。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_maxwell2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_maxwell2"
+msgid "Maxwell grew quite accustomed to a world that followed his rules... but now someone else is pulling the strings."
+msgstr "麦斯威尔已经习惯了运行在他规则之下的世界……但现在别人在重新定义规则了。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_merm
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_merm"
 msgid "Merms inhabited the marshes of The Constant long before humans, and will probably exist long after."
 msgstr "鱼人住在永恒领域的沼泽里，早在人类出现前就已经生存了很久，也许还会继续生存很久。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_newhorizons
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_newhorizons"
+msgid "The path ahead is long and treacherous, but you've come too far to turn back now."
+msgstr "前方的路曲折而漫长，但你已经走了太久，回不了头了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_pig_elite
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_pig_elite"
@@ -179468,8 +182198,8 @@ msgstr "可悲的薇洛举起斧头。\n朝一棵树挥砍了四十下。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_willow_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_willow_trailer"
-msgid "Willow's childhood was cold and dark, until something sparked inside her."
-msgstr "薇洛的童年寒冷而阴暗。\n终于有天，她的内心闪起了火花。"
+msgid "Willow's childhood was cold and dark, until something deep inside her sparked."
+msgstr "薇洛的童年寒冷而阴暗，终于有天，她的内心闪起了火花。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian"
@@ -179555,6 +182285,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.meatrack_butcher"
 msgid "A very normal piece of food prep equipment that isn't disconcerting at all."
 msgstr "一件十分普通的食物处理设备，完全不必担心。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.minerhat_bonnet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minerhat_bonnet"
+msgid "Nothing improves a design like adding more ruffles."
+msgstr "加一点褶边对设计有极大的提升。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.minerhat_cowboy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minerhat_cowboy"
@@ -179881,6 +182616,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hamlet_wormwood"
 msgid "Don't Starve: Wormwood"
 msgstr "《饥荒单机版》：沃姆伍德"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_handmedown_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_handmedown_items"
+msgid "This Fanciful Chest contains the following skin items: Rosy Posy Parasol, Straw Bonnet, Shared Armoire, and a set of Abigail skin items."
+msgstr "这个华丽箱子包含以下皮肤物品：玫瑰阳伞、稻草软帽、共享大衣橱、和一套阿比盖尔的皮肤物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_haunteddoll_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_haunteddoll_items"
 msgid "This Ghastly Attic Chest contains the following skin items: Cursed Sterling Lighter, Baleful Lace Parasol, and Ashley."
@@ -179898,7 +182638,7 @@ msgstr "《炽热熔岩》礼物"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hockey_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hockey_items"
-msgid "This Canadiana Chest contains following skin items: Rustic Cabin, Hockey Helmet, and Hockey Stick."
+msgid "This Canadiana Chest contains the following skin items: Rustic Cabin, Hockey Helmet, and Hockey Stick."
 msgstr "这个加拿大箱子包含了下列皮肤道具：乡村小屋、曲棍球头盔、曲棍球棒。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_all
@@ -180181,6 +182921,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wb_4"
 msgid "This chest contains 75000 Bolts of Cloth!"
 msgstr "这个箱子包含75000布卷！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe"
+msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Hand-Me-Down skin items."
+msgstr "这个豪华衣柜包含了温蒂的全套贵宾套装、玫瑰套装、幸存者套装、凯旋套装、和姐妹的旧衣服皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_formal"
+msgid "This Chest contains Wendy's complete set of Guest of Honor skin items."
+msgstr "这个箱子里包含了温蒂的全套贵宾皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_handmedown"
+msgid "This Chest contains Wendy's complete set of Hand-Me-Down skin items."
+msgstr "这个箱子包含了温蒂的全套姐妹的旧衣服皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_rose"
+msgid "This Chest contains Wendy's complete set of Roseate skin items."
+msgstr "这个箱子里有温蒂的全套玫瑰皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_shadow"
+msgid "This Chest contains Wendy's complete set of Triumphant skin items."
+msgstr "这个箱子里包含了温蒂的全套凯旋皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_survivor"
+msgid "This Chest contains Wendy's complete set of Survivor skin items."
+msgstr "这个角斗士箱子里有温蒂的全套幸存者皮肤物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_willow_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_willow_deluxe"
 msgid "This Deluxe Wardrobe contains Willow's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Forlorn Doll skin items."
@@ -180440,6 +183210,11 @@ msgstr "这个角斗士箱子里有伍迪的全套欢乐皮肤物品。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_wx78"
 msgid "This Chest contains WX-78's complete set of Merrymaker skin items."
 msgstr "这个角斗士箱子里有 WX-78 的全套欢乐皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.parasol_spring
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.parasol_spring"
+msgid "\"April showers bring May flowers.\""
+msgstr "\"四月雨催开五月花。\""
 
 #. STRINGS.SKIN_DESCRIPTIONS.perdling_rooster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_rooster"
@@ -180850,6 +183625,11 @@ msgstr "装备此物品以更改你的角色背景画像。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_umbrellacircus"
 msgid "Equip this item to change your character's background portrait."
 msgstr "装备此物品以更改你的角色背景画像。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wardrobecrystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wardrobecrystal"
+msgid "Equip this item to change your character's background portrait.\n\nSuddenly, it all seems so crystal clear..."
+msgstr "装备这件物品改变人物的背景肖像。\n\n突然间，一切都如水晶般透彻……"
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winter"
@@ -181726,6 +184506,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_waffle"
 msgid "Set your profile icon to some tasty waffles.\n\nPart of a balanced breakfast."
 msgstr "将你的角色图标设为一些美味的华夫饼。\n\n均衡早餐的一部分。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_crystal"
+msgid "Set your profile icon to an outcropping of sparkling crystals."
+msgstr "将你的头像设置为闪闪发亮的水晶。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin"
 msgid "Set your profile icon to a fashionable way to wander this world."
@@ -181896,6 +184681,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.rabbithouse_carrat"
 msgid "A cozy abode fashioned after the adorable Carrat."
 msgstr "可爱胡萝卜鼠风格的舒适居所。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.rainhat_bonnet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.rainhat_bonnet"
+msgid "A dear little bonnet to keep your head dry."
+msgstr "让头不被雨淋湿的小软帽。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.rainhat_cowboy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.rainhat_cowboy"
 msgid "n/a"
@@ -182051,6 +184841,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal"
 msgid "A blindingly beautiful staff, filled with the magic of stars."
 msgstr "光彩夺目的魔杖，拥有星之魔法。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.strawhat_bonnet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.strawhat_bonnet"
+msgid "Sometimes you want to feel like the heroine of a Jane Austen novel."
+msgstr "有时候你想感觉是简•奥斯汀小说里的女主人公。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.strawhat_cowboy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.strawhat_cowboy"
 msgid "Puts the \"cool\" in cool and dry."
@@ -182190,6 +184985,16 @@ msgstr "上一个拥有者应该不喜欢太阳。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_spider"
 msgid "This itsy bitsy spider has no fear of rain."
 msgstr "小小蜘蛛不怕雨露。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wardrobe_armoire
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_armoire"
+msgid "Extra roomy, and indispensible in a game of hide and seek."
+msgstr "空间格外大，捉迷藏游戏里必不可少。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wardrobe_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_crystal"
+msgid "Give your clothes that extra sparkle."
+msgstr "给你的衣服一份格外的闪耀。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart"
@@ -182481,10 +185286,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_formal"
 msgid "Wendy is not cheered by party games."
 msgstr "温蒂并不喜欢聚会游戏。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_formalp"
+msgid "Wendy is not cheered by party games."
+msgstr "温蒂并不喜欢聚会游戏。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_gladiator"
 msgid "Wendy's hidden ruthlessness needed only slight provocation to show itself."
 msgstr "只需稍加鼓动，就能把温蒂隐藏的残酷无情一面充分展露出来。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_handmedown"
+msgid "These clothes were left behind, like Wendy herself."
+msgstr "这些衣服像温蒂一样被留了下来。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_ice"
@@ -182516,13 +185331,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_rose"
 msgid "A dark crimson rose represents mourning."
 msgstr "一朵暗红色的玫瑰代表哀伤。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_rosep"
+msgid "A dark crimson rose represents mourning."
+msgstr "一朵暗红色的玫瑰代表哀伤。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_shadow"
 msgid "Wendy has always been comfortable with darkness."
 msgstr "温蒂一直习惯黑暗。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_shadowp"
+msgid "Wendy has always been comfortable with darkness."
+msgstr "温蒂一直习惯黑暗。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_survivor"
+msgid "Wendy is actually pretty good at surviving."
+msgstr "温蒂确实很善于生存下来。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_survivorp"
 msgid "Wendy is actually pretty good at surviving."
 msgstr "温蒂确实很善于生存下来。"
 
@@ -183295,6 +186125,56 @@ msgstr "这双冷酷的机械之眼是擂台上所有人的噩梦。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_yule"
 msgid "WX-78 has oft been accused of acting wooden during the holidays."
 msgstr "WX-78 总被诟病对节庆的反应过于木讷。"
+
+#. STRINGS.SKIN_NAMES.abigail_flower_formal
+msgctxt "STRINGS.SKIN_NAMES.abigail_flower_formal"
+msgid "Ghost of Honor"
+msgstr "鬼宾"
+
+#. STRINGS.SKIN_NAMES.abigail_flower_handmedown
+msgctxt "STRINGS.SKIN_NAMES.abigail_flower_handmedown"
+msgid "The Nostalgic"
+msgstr "怀旧"
+
+#. STRINGS.SKIN_NAMES.abigail_flower_rose
+msgctxt "STRINGS.SKIN_NAMES.abigail_flower_rose"
+msgid "The Roseate"
+msgstr "玫瑰"
+
+#. STRINGS.SKIN_NAMES.abigail_flower_shadow
+msgctxt "STRINGS.SKIN_NAMES.abigail_flower_shadow"
+msgid "The Triumphant"
+msgstr "凯旋"
+
+#. STRINGS.SKIN_NAMES.abigail_flower_survivor
+msgctxt "STRINGS.SKIN_NAMES.abigail_flower_survivor"
+msgid "The Persister"
+msgstr "垂死坚持"
+
+#. STRINGS.SKIN_NAMES.abigail_formal
+msgctxt "STRINGS.SKIN_NAMES.abigail_formal"
+msgid "Ghost of Honor"
+msgstr "鬼宾"
+
+#. STRINGS.SKIN_NAMES.abigail_handmedown
+msgctxt "STRINGS.SKIN_NAMES.abigail_handmedown"
+msgid "The Nostalgic"
+msgstr "怀旧"
+
+#. STRINGS.SKIN_NAMES.abigail_rose
+msgctxt "STRINGS.SKIN_NAMES.abigail_rose"
+msgid "The Roseate"
+msgstr "玫瑰"
+
+#. STRINGS.SKIN_NAMES.abigail_shadow
+msgctxt "STRINGS.SKIN_NAMES.abigail_shadow"
+msgid "The Triumphant"
+msgstr "凯旋"
+
+#. STRINGS.SKIN_NAMES.abigail_survivor
+msgctxt "STRINGS.SKIN_NAMES.abigail_survivor"
+msgid "The Persister"
+msgstr "垂死坚持"
 
 #. STRINGS.SKIN_NAMES.amulet_red_heart
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_heart"
@@ -184326,10 +187206,20 @@ msgctxt "STRINGS.SKIN_NAMES.body_wendy_formal"
 msgid "Party Frock"
 msgstr "晚礼服"
 
+#. STRINGS.SKIN_NAMES.body_wendy_formalp
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_formalp"
+msgid "Party Frock"
+msgstr "晚礼服"
+
 #. STRINGS.SKIN_NAMES.body_wendy_gladiator
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_gladiator"
 msgid "Usurper's Drapery"
 msgstr "篡位者的长袍"
+
+#. STRINGS.SKIN_NAMES.body_wendy_handmedown
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_handmedown"
+msgid "Abigail's Overalls"
+msgstr "阿比盖尔连身衣"
 
 #. STRINGS.SKIN_NAMES.body_wendy_ice
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_ice"
@@ -184351,13 +187241,28 @@ msgctxt "STRINGS.SKIN_NAMES.body_wendy_rose"
 msgid "Blushrose Capelet"
 msgstr "绯红玫瑰小披肩"
 
+#. STRINGS.SKIN_NAMES.body_wendy_rosep
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_rosep"
+msgid "Blushrose Capelet"
+msgstr "绯红玫瑰小披肩"
+
 #. STRINGS.SKIN_NAMES.body_wendy_shadow
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_shadow"
 msgid "Shadow Frock"
 msgstr "暗影连衣裙"
 
+#. STRINGS.SKIN_NAMES.body_wendy_shadowp
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_shadowp"
+msgid "Shadow Frock"
+msgstr "暗影连衣裙"
+
 #. STRINGS.SKIN_NAMES.body_wendy_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_survivor"
+msgid "Shredded Skirt"
+msgstr "织带裙"
+
+#. STRINGS.SKIN_NAMES.body_wendy_survivorp
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_survivorp"
 msgid "Shredded Skirt"
 msgstr "织带裙"
 
@@ -185546,6 +188451,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_maryjanes_white_pure"
 msgid "Mary Janes"
 msgstr "玛丽简"
 
+#. STRINGS.SKIN_NAMES.feet_maryjanesp_white_pure
+msgctxt "STRINGS.SKIN_NAMES.feet_maryjanesp_white_pure"
+msgid "Mary Janes"
+msgstr "玛丽简"
+
 #. STRINGS.SKIN_NAMES.feet_ridingboot_white_pure
 msgctxt "STRINGS.SKIN_NAMES.feet_ridingboot_white_pure"
 msgid "Riding Boots"
@@ -185710,6 +188620,11 @@ msgstr "超自然礼服鞋"
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_gladiator"
 msgid "Usurper's Sandals"
 msgstr "篡位者的凉鞋"
+
+#. STRINGS.SKIN_NAMES.feet_wendy_handmedown
+msgctxt "STRINGS.SKIN_NAMES.feet_wendy_handmedown"
+msgid "Abigail's Shoes"
+msgstr "阿比盖尔鞋"
 
 #. STRINGS.SKIN_NAMES.feet_wendy_ice
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_ice"
@@ -186410,6 +189325,11 @@ msgstr "小老虎拳击手套"
 msgctxt "STRINGS.SKIN_NAMES.hand_wendy_gladiator"
 msgid "Usurper's Handwraps"
 msgstr "篡位者的手套"
+
+#. STRINGS.SKIN_NAMES.hand_wendy_handmedown
+msgctxt "STRINGS.SKIN_NAMES.hand_wendy_handmedown"
+msgid "Daisy Bracelets"
+msgstr "雏菊腕带"
 
 #. STRINGS.SKIN_NAMES.hand_wendy_ice
 msgctxt "STRINGS.SKIN_NAMES.hand_wendy_ice"
@@ -187421,10 +190341,25 @@ msgctxt "STRINGS.SKIN_NAMES.loading_bearger_yule"
 msgid "Grumpy Bearger"
 msgstr "狂暴熊獾"
 
+#. STRINGS.SKIN_NAMES.loading_charlie
+msgctxt "STRINGS.SKIN_NAMES.loading_charlie"
+msgid "Nightfall"
+msgstr "暗夜"
+
+#. STRINGS.SKIN_NAMES.loading_charlie2
+msgctxt "STRINGS.SKIN_NAMES.loading_charlie2"
+msgid "Torchlight"
+msgstr "火炬之光"
+
 #. STRINGS.SKIN_NAMES.loading_critters
 msgctxt "STRINGS.SKIN_NAMES.loading_critters"
 msgid "Critters"
 msgstr "小动物"
+
+#. STRINGS.SKIN_NAMES.loading_danger
+msgctxt "STRINGS.SKIN_NAMES.loading_danger"
+msgid "Tread Carefully"
+msgstr "小心前进"
 
 #. STRINGS.SKIN_NAMES.loading_deerclops_yule
 msgctxt "STRINGS.SKIN_NAMES.loading_deerclops_yule"
@@ -187461,6 +190396,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_goosemoose_yule"
 msgid "Jolly Goose/Moose"
 msgstr "欢快的鹅/驼鹿"
 
+#. STRINGS.SKIN_NAMES.loading_lunacy
+msgctxt "STRINGS.SKIN_NAMES.loading_lunacy"
+msgid "Enlight the Darkness"
+msgstr "照亮黑暗"
+
 #. STRINGS.SKIN_NAMES.loading_magma
 msgctxt "STRINGS.SKIN_NAMES.loading_magma"
 msgid "Magmatic Assembly"
@@ -187476,10 +190416,20 @@ msgctxt "STRINGS.SKIN_NAMES.loading_maxwell"
 msgid "Maxwell"
 msgstr "麦斯威尔"
 
+#. STRINGS.SKIN_NAMES.loading_maxwell2
+msgctxt "STRINGS.SKIN_NAMES.loading_maxwell2"
+msgid "The Puppetmaster"
+msgstr "傀儡大师"
+
 #. STRINGS.SKIN_NAMES.loading_merm
 msgctxt "STRINGS.SKIN_NAMES.loading_merm"
 msgid "Merm"
 msgstr "鱼人"
+
+#. STRINGS.SKIN_NAMES.loading_newhorizons
+msgctxt "STRINGS.SKIN_NAMES.loading_newhorizons"
+msgid "New Horizons"
+msgstr "新地平线"
 
 #. STRINGS.SKIN_NAMES.loading_pig_elite
 msgctxt "STRINGS.SKIN_NAMES.loading_pig_elite"
@@ -187635,6 +190585,11 @@ msgstr "玫瑰风帆"
 msgctxt "STRINGS.SKIN_NAMES.meatrack_butcher"
 msgid "Butcher's Rack"
 msgstr "屠夫肉架"
+
+#. STRINGS.SKIN_NAMES.minerhat_bonnet
+msgctxt "STRINGS.SKIN_NAMES.minerhat_bonnet"
+msgid "Bonny Headlamp"
+msgstr "美丽头灯"
 
 #. STRINGS.SKIN_NAMES.minerhat_cowboy
 msgctxt "STRINGS.SKIN_NAMES.minerhat_cowboy"
@@ -187961,6 +190916,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_hamlet_wormwood"
 msgid "Don't Starve: Wormwood"
 msgstr "《饥荒单机版》：沃姆伍德"
 
+#. STRINGS.SKIN_NAMES.pack_handmedown_items
+msgctxt "STRINGS.SKIN_NAMES.pack_handmedown_items"
+msgid "Fanciful Chest"
+msgstr "华丽箱子"
+
 #. STRINGS.SKIN_NAMES.pack_haunteddoll_items
 msgctxt "STRINGS.SKIN_NAMES.pack_haunteddoll_items"
 msgid "Ghastly Attic Chest"
@@ -188261,6 +191221,36 @@ msgctxt "STRINGS.SKIN_NAMES.pack_wb_4"
 msgid "Humongous Bolt Chest"
 msgstr "超级大布卷箱子"
 
+#. STRINGS.SKIN_NAMES.pack_wendy_deluxe
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_deluxe"
+msgid "Wendy Deluxe Wardrobe"
+msgstr "温蒂豪华衣柜"
+
+#. STRINGS.SKIN_NAMES.pack_wendy_formal
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_formal"
+msgid "Wendy Guest of Honor Chest"
+msgstr "温蒂贵宾箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wendy_handmedown
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_handmedown"
+msgid "Wendy Hand-Me-Downs Chest"
+msgstr "温蒂姐妹的旧衣服箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wendy_rose
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_rose"
+msgid "Wendy Roseate Chest"
+msgstr "温蒂玫瑰箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wendy_shadow
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_shadow"
+msgid "Wendy Triumphant Chest"
+msgstr "温蒂凯旋箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wendy_survivor
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_survivor"
+msgid "Wendy Survivor Chest"
+msgstr "温蒂幸存者箱子"
+
 #. STRINGS.SKIN_NAMES.pack_willow_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_willow_deluxe"
 msgid "Willow Deluxe Wardrobe"
@@ -188520,6 +191510,11 @@ msgstr "伍迪的欢乐箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_yule_wx78"
 msgid "WX-78 Merrymaker Chest"
 msgstr "WX-78的欢乐箱子"
+
+#. STRINGS.SKIN_NAMES.parasol_spring
+msgctxt "STRINGS.SKIN_NAMES.parasol_spring"
+msgid "Rosy Posy Parasol"
+msgstr "玫瑰阳伞"
 
 #. STRINGS.SKIN_NAMES.perdling_rooster
 msgctxt "STRINGS.SKIN_NAMES.perdling_rooster"
@@ -188930,6 +191925,11 @@ msgstr "神奇的马戏团指挥员帽子画像"
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus"
 msgid "Big Top Umbrella Portrait"
 msgstr "马戏团伞顶画像"
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_wardrobecrystal
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_wardrobecrystal"
+msgid "Crystal Portrait"
+msgstr "水晶肖像"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winter"
@@ -189806,6 +192806,11 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_waffle"
 msgid "Waffles!"
 msgstr "华夫饼！"
 
+#. STRINGS.SKIN_NAMES.profileflair_wardrobe_crystal
+msgctxt "STRINGS.SKIN_NAMES.profileflair_wardrobe_crystal"
+msgid "Crystals"
+msgstr "水晶"
+
 #. STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin"
 msgid "Fashionable Pumpkin Hat"
@@ -189976,6 +192981,11 @@ msgctxt "STRINGS.SKIN_NAMES.rabbithouse_carrat"
 msgid "Carrat Cottage"
 msgstr "胡萝卜村舍"
 
+#. STRINGS.SKIN_NAMES.rainhat_bonnet
+msgctxt "STRINGS.SKIN_NAMES.rainhat_bonnet"
+msgid "Rain Bonnet"
+msgstr "雨帽"
+
 #. STRINGS.SKIN_NAMES.rainhat_cowboy
 msgctxt "STRINGS.SKIN_NAMES.rainhat_cowboy"
 msgid "Cowboy Rain Hat"
@@ -190131,6 +193141,11 @@ msgctxt "STRINGS.SKIN_NAMES.starstaff_crystal"
 msgid "Radiant Star Caller's Staff"
 msgstr "光芒唤星者法杖"
 
+#. STRINGS.SKIN_NAMES.strawhat_bonnet
+msgctxt "STRINGS.SKIN_NAMES.strawhat_bonnet"
+msgid "Straw Bonnet"
+msgstr "稻草软帽"
+
 #. STRINGS.SKIN_NAMES.strawhat_cowboy
 msgctxt "STRINGS.SKIN_NAMES.strawhat_cowboy"
 msgid "Cowboy Straw Hat"
@@ -190270,6 +193285,16 @@ msgstr "不祥蕾丝阳伞"
 msgctxt "STRINGS.SKIN_NAMES.umbrella_spider"
 msgid "Webrolly"
 msgstr "蜘蛛伞"
+
+#. STRINGS.SKIN_NAMES.wardrobe_armoire
+msgctxt "STRINGS.SKIN_NAMES.wardrobe_armoire"
+msgid "Shared Armoire"
+msgstr "共享大衣橱"
+
+#. STRINGS.SKIN_NAMES.wardrobe_crystal
+msgctxt "STRINGS.SKIN_NAMES.wardrobe_crystal"
+msgid "Crystallized Cabinet"
+msgstr "水晶衣柜"
 
 #. STRINGS.SKIN_NAMES.wardrobe_heart
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_heart"
@@ -190561,10 +193586,20 @@ msgctxt "STRINGS.SKIN_NAMES.wendy_formal"
 msgid "Guest of Honor"
 msgstr "贵宾"
 
+#. STRINGS.SKIN_NAMES.wendy_formalp
+msgctxt "STRINGS.SKIN_NAMES.wendy_formalp"
+msgid "Guest of Honor"
+msgstr "贵宾"
+
 #. STRINGS.SKIN_NAMES.wendy_gladiator
 msgctxt "STRINGS.SKIN_NAMES.wendy_gladiator"
 msgid "The Gladiator"
 msgstr "角斗士"
+
+#. STRINGS.SKIN_NAMES.wendy_handmedown
+msgctxt "STRINGS.SKIN_NAMES.wendy_handmedown"
+msgid "The Nostalgic"
+msgstr "怀旧"
 
 #. STRINGS.SKIN_NAMES.wendy_ice
 msgctxt "STRINGS.SKIN_NAMES.wendy_ice"
@@ -190596,13 +193631,28 @@ msgctxt "STRINGS.SKIN_NAMES.wendy_rose"
 msgid "The Roseate"
 msgstr "玫瑰"
 
+#. STRINGS.SKIN_NAMES.wendy_rosep
+msgctxt "STRINGS.SKIN_NAMES.wendy_rosep"
+msgid "The Roseate"
+msgstr "玫瑰"
+
 #. STRINGS.SKIN_NAMES.wendy_shadow
 msgctxt "STRINGS.SKIN_NAMES.wendy_shadow"
 msgid "The Triumphant"
 msgstr "凯旋"
 
+#. STRINGS.SKIN_NAMES.wendy_shadowp
+msgctxt "STRINGS.SKIN_NAMES.wendy_shadowp"
+msgid "The Triumphant"
+msgstr "凯旋"
+
 #. STRINGS.SKIN_NAMES.wendy_survivor
 msgctxt "STRINGS.SKIN_NAMES.wendy_survivor"
+msgid "The Survivor"
+msgstr "幸存者"
+
+#. STRINGS.SKIN_NAMES.wendy_survivorp
+msgctxt "STRINGS.SKIN_NAMES.wendy_survivorp"
 msgid "The Survivor"
 msgstr "幸存者"
 
@@ -191631,10 +194681,20 @@ msgctxt "STRINGS.SKIN_QUOTES.wendy_formal"
 msgid "\"I'll only go to the party if Abigail comes too.\""
 msgstr "\"只有阿比盖尔去参加聚会， 我才去。\""
 
+#. STRINGS.SKIN_QUOTES.wendy_formalp
+msgctxt "STRINGS.SKIN_QUOTES.wendy_formalp"
+msgid "\"I'll only go to the party if Abigail comes too.\""
+msgstr "\"只有阿比盖尔去参加聚会， 我才去。\""
+
 #. STRINGS.SKIN_QUOTES.wendy_gladiator
 msgctxt "STRINGS.SKIN_QUOTES.wendy_gladiator"
 msgid "\"I take no pleasure in this.\""
 msgstr "\"对我而言，这样毫无乐趣。\""
+
+#. STRINGS.SKIN_QUOTES.wendy_handmedown
+msgctxt "STRINGS.SKIN_QUOTES.wendy_handmedown"
+msgid "\"Abigail and I shared everything.\""
+msgstr "\"阿比盖尔和我分享一切。\""
 
 #. STRINGS.SKIN_QUOTES.wendy_ice
 msgctxt "STRINGS.SKIN_QUOTES.wendy_ice"
@@ -191661,13 +194721,28 @@ msgctxt "STRINGS.SKIN_QUOTES.wendy_rose"
 msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
 msgstr "\"娇艳甜美的玫瑰，在最美时 被摘下。为什么？\""
 
+#. STRINGS.SKIN_QUOTES.wendy_rosep
+msgctxt "STRINGS.SKIN_QUOTES.wendy_rosep"
+msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
+msgstr "\"娇艳甜美的玫瑰，在最美时 被摘下。为什么？\""
+
 #. STRINGS.SKIN_QUOTES.wendy_shadow
 msgctxt "STRINGS.SKIN_QUOTES.wendy_shadow"
 msgid "\"Shadows are as black as ink, or night, or nightmares.\""
 msgstr "\"暗影就像墨水、夜晚 或噩梦一样黑暗。\""
 
+#. STRINGS.SKIN_QUOTES.wendy_shadowp
+msgctxt "STRINGS.SKIN_QUOTES.wendy_shadowp"
+msgid "\"Shadows are as black as ink, or night, or nightmares.\""
+msgstr "\"暗影就像墨水、夜晚 或噩梦一样黑暗。\""
+
 #. STRINGS.SKIN_QUOTES.wendy_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wendy_survivor"
+msgid "\"I carry on for Abigail's sake.\""
+msgstr "\"为了阿比盖尔，我才坚持下去的。\""
+
+#. STRINGS.SKIN_QUOTES.wendy_survivorp
+msgctxt "STRINGS.SKIN_QUOTES.wendy_survivorp"
 msgid "\"I carry on for Abigail's sake.\""
 msgstr "\"为了阿比盖尔，我才坚持下去的。\""
 
@@ -192421,6 +195496,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED"
 msgid "Hallowed Nights Collection"
 msgstr "万圣夜系列"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HANDMEDOWN
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HANDMEDOWN"
+msgid "Hand-me-down Collection"
+msgstr "姐妹的旧衣服系列"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL"
 msgid "Forlorn Doll Collection"
@@ -192595,6 +195675,11 @@ msgstr "白色"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLOR.YELLOW"
 msgid "Yellow"
 msgstr "黄色"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ABIGAIL
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ABIGAIL"
+msgid "Abigail"
+msgstr "阿比盖尔"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY"
@@ -192800,6 +195885,11 @@ msgstr "黄金鹤嘴锄"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.GOLDENSHOVEL"
 msgid "Regal Shovel"
 msgstr "黄金铲子"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.GRASS_UMBRELLA
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.GRASS_UMBRELLA"
+msgid "Pretty Parasol"
+msgstr "花伞"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.HAMBAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.HAMBAT"
@@ -193055,6 +196145,21 @@ msgstr "玩家画像"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.TYPE.PROFILEFLAIR"
 msgid "Profile Icon"
 msgstr "资料头像"
+
+#. STRINGS.SMALLGHOST_TALK.1
+msgctxt "STRINGS.SMALLGHOST_TALK.1"
+msgid "ooOOoo"
+msgstr "哦哦哦哦哦哦"
+
+#. STRINGS.SMALLGHOST_TALK.2
+msgctxt "STRINGS.SMALLGHOST_TALK.2"
+msgid "OOoo"
+msgstr "嗷嗷嗷嗷"
+
+#. STRINGS.SMALLGHOST_TALK.3
+msgctxt "STRINGS.SMALLGHOST_TALK.3"
+msgid "OoOoOoO"
+msgstr "喔喔喔喔喔喔喔"
 
 #. STRINGS.SMOLDERINGITEM
 msgctxt "STRINGS.SMOLDERINGITEM"
@@ -193520,6 +196625,11 @@ msgstr "天体"
 msgctxt "STRINGS.TABS.DRESS"
 msgid "Dress"
 msgstr "服装"
+
+#. STRINGS.TABS.ELIXIRBREWING
+msgctxt "STRINGS.TABS.ELIXIRBREWING"
+msgid "Ectoherbology"
+msgstr "黑暗炼金术"
 
 #. STRINGS.TABS.ENGINEERING
 msgctxt "STRINGS.TABS.ENGINEERING"
@@ -204286,6 +207396,11 @@ msgctxt "STRINGS.UI.OPTIONS.SCREENSHAKE"
 msgid "Screen Shake:"
 msgstr "屏幕摇晃："
 
+#. STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter Server Names:"
+msgstr "过滤服务器名称:"
+
 #. STRINGS.UI.OPTIONS.SETTINGS
 msgctxt "STRINGS.UI.OPTIONS.SETTINGS"
 msgid "Settings"
@@ -207118,8 +210233,13 @@ msgstr "*****"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_NAME
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_NAME"
-msgid "*****"
-msgstr "*****"
+msgid "This server name has been filtered"
+msgstr "服务器名称已过滤"
+
+#. STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_NAME_LISTING
+msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_NAME_LISTING"
+msgid "This server name has been filtered"
+msgstr "服务器名称已过滤"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.HOSTED
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.HOSTED"
@@ -207330,6 +210450,11 @@ msgstr "[无描述]"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFF"
 msgid "Off"
 msgstr "关闭"
+
+#. STRINGS.UI.SERVERLISTINGSCREEN.OFFICIAL
+msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFICIAL"
+msgid "Klei Official"
+msgstr "科雷官方服务器"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE"
@@ -207598,8 +210723,8 @@ msgstr "标签加载中….."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME"
-msgid "Toggle Server Name"
-msgstr "屏蔽服务器名称"
+msgid "Filter Server Name"
+msgstr "过滤服务器名称"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.UNKNOWN
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.UNKNOWN"
@@ -207864,17 +210989,17 @@ msgstr "外观改变"
 #. STRINGS.UI.SKINSSCREEN.USABLE_ON
 msgctxt "STRINGS.UI.SKINSSCREEN.USABLE_ON"
 msgid "Reskins {item}"
-msgstr "重新塑造 {item}"
+msgstr "{item} 会获得新外观"
 
 #. STRINGS.UI.SKINSSCREEN.USABLE_ON_MULTIPLE
 msgctxt "STRINGS.UI.SKINSSCREEN.USABLE_ON_MULTIPLE"
 msgid "Reskins {item1} and {item2}"
-msgstr "重新塑造 {item1} 和 {item2}"
+msgstr "{item1} 和 {item2} 会获得新外观"
 
 #. STRINGS.UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3
 msgctxt "STRINGS.UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3"
 msgid "Reskins {item1}, {item2} and {item3}"
-msgstr "重新塑造 {item1}、{item2} 和 {item3}"
+msgstr " {item1}、{item2} 和 {item3} 会获得新外观"
 
 #. STRINGS.UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3_POPUP
 msgctxt "STRINGS.UI.SKINSSCREEN.USABLE_ON_MULTIPLE_3_POPUP"
