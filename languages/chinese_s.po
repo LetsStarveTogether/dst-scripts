@@ -2921,8 +2921,8 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_QUEST"
 msgid "only_used_by_wendy"
 msgstr "only_used_by_wendy"
 
-#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR
-msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR"
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR.1
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR.1"
 msgid "only_used_by_wendy"
 msgstr "only_used_by_wendy"
 
@@ -3335,6 +3335,11 @@ msgstr "我认为我值得。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHELTER"
 msgid "Thanks for the protection from the elements, tree!"
 msgstr "感谢树木的保护！"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SISTURN_FULL
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SISTURN_FULL"
+msgid "only_used_by_wendy"
+msgstr "only_used_by_wendy"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SNARED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SNARED"
@@ -45551,6 +45556,36 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Simmer down, friend."
 msgstr "冷静，我的朋友。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr "我们已经过了玩躲躲猫的年纪了。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
 msgid "Pretty petals!"
@@ -49080,36 +49115,6 @@ msgstr "那东西是从哪儿冒出来的？！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF_SPARSE"
 msgid "Where did that come from?!"
 msgstr "那东西是从哪儿冒出来的？！"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.1
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.1"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr "我们已经过了玩躲躲猫的年纪了。"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.2
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.2"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr "我们已经过了玩躲躲猫的年纪了。"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.1
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.1"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr "我们已经过了玩躲躲猫的年纪了。"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.2
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.2"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr "我们已经过了玩躲躲猫的年纪了。"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.1
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.1"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr "我们已经过了玩躲躲猫的年纪了。"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.2
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.2"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr "我们已经过了玩躲躲猫的年纪了。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN"
@@ -56115,6 +56120,11 @@ msgstr "它接受了我的物品。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SHELTER"
 msgid "Nature is good for something after all."
 msgstr "大自然毕竟有好的一面。"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SISTURN_FULL
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SISTURN_FULL"
+msgid "Now Abigail can find her way back to me faster."
+msgstr "现在阿比盖尔可以更快回到我身边了。"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SNARED
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SNARED"
@@ -63138,8 +63148,8 @@ msgstr "一个黑洞，种子有去无回。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLGHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLGHOST"
-msgid "If only we could trade places..."
-msgstr "要是我们能互换位置就好了……"
+msgid "Another life cut short."
+msgstr "又一个缩短了的生命。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT"
@@ -182161,10 +182171,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy"
 msgid "Wendy clings fiercely to the grief over her sister's death, for fear that moving on would cause Abigail's memory to fade."
 msgstr "温蒂对于孪生姐妹的死一直都没有释怀，因为她害怕关于阿比盖尔的记忆会消失。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_blogpostart
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_blogpostart"
+msgid "\"I know you're still there, Abigail... we'll be able to play together again soon.\""
+msgstr "\"我知道你还在这里，阿比盖尔……我们很快就能一起玩了。\""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy"
 msgid "She can't escape her monomaniacal obsession with death.\nNeither can you."
 msgstr "她逃不掉她对死亡的狂热执着。\n你也是。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer"
+msgid "Abigail could always find a way to bring a smile to Wendy's face... sadly, she would later become the reason it went away for good."
+msgstr "阿比盖尔总能让温蒂笑出来……可惜后来她却成了温蒂不再笑的原因。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian"
@@ -182923,8 +182943,8 @@ msgstr "这个箱子包含75000布卷！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe"
-msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Hand-Me-Down skin items."
-msgstr "这个豪华衣柜包含了温蒂的全套贵宾套装、玫瑰套装、幸存者套装、凯旋套装、和姐妹的旧衣服皮肤物品。"
+msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Nostalgic skin items."
+msgstr "这个豪华衣柜包含了温蒂的全套贵宾套装、玫瑰套装、幸存者套装、凯旋套装、和怀旧套装皮肤物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_formal"
@@ -190461,10 +190481,20 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wendy"
 msgid "Wendy"
 msgstr "温蒂"
 
+#. STRINGS.SKIN_NAMES.loading_wendy_blogpostart
+msgctxt "STRINGS.SKIN_NAMES.loading_wendy_blogpostart"
+msgid "Wendy's Nightstand"
+msgstr "温蒂的床头柜"
+
 #. STRINGS.SKIN_NAMES.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_creepy"
 msgid "Supernatural Wendy"
 msgstr "超自然温蒂"
+
+#. STRINGS.SKIN_NAMES.loading_wendy_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wendy_trailer"
+msgid "Wish You Were Here"
+msgstr "多希望你在"
 
 #. STRINGS.SKIN_NAMES.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_victorian"
@@ -196629,7 +196659,7 @@ msgstr "服装"
 #. STRINGS.TABS.ELIXIRBREWING
 msgctxt "STRINGS.TABS.ELIXIRBREWING"
 msgid "Ectoherbology"
-msgstr "黑暗炼金术"
+msgstr "灵体草药"
 
 #. STRINGS.TABS.ENGINEERING
 msgctxt "STRINGS.TABS.ENGINEERING"

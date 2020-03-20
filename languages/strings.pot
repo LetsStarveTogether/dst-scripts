@@ -2918,8 +2918,8 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_QUEST"
 msgid "only_used_by_wendy"
 msgstr ""
 
-#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR
-msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR"
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR.1
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOST_TOY_NEAR.1"
 msgid "only_used_by_wendy"
 msgstr ""
 
@@ -3331,6 +3331,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHELTER"
 msgid "Thanks for the protection from the elements, tree!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SISTURN_FULL
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SISTURN_FULL"
+msgid "only_used_by_wendy"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SNARED
@@ -45548,6 +45553,36 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Simmer down, friend."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL1.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL2.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.1"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL.LEVEL3.2"
+msgid "We're a bit old for playing peek-a-boo."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
 msgid "Pretty petals!"
@@ -49076,36 +49111,6 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF_SPARSE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF_SPARSE"
 msgid "Where did that come from?!"
-msgstr ""
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.1
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.1"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr ""
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.2
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.GENERIC.2"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr ""
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.1
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.1"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr ""
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.2
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL2.2"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr ""
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.1
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.1"
-msgid "We're a bit old for playing peek-a-boo."
-msgstr ""
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.2
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEVEL1.LEVEL3.2"
-msgid "We're a bit old for playing peek-a-boo."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN
@@ -56111,6 +56116,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SHELTER"
 msgid "Nature is good for something after all."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SISTURN_FULL
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SISTURN_FULL"
+msgid "Now Abigail can find her way back to me faster."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SNARED
@@ -63135,7 +63145,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLGHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLGHOST"
-msgid "If only we could trade places..."
+msgid "Another life cut short."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT
@@ -182158,9 +182168,19 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy"
 msgid "Wendy clings fiercely to the grief over her sister's death, for fear that moving on would cause Abigail's memory to fade."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_blogpostart
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_blogpostart"
+msgid "\"I know you're still there, Abigail... we'll be able to play together again soon.\""
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy"
 msgid "She can't escape her monomaniacal obsession with death.\nNeither can you."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer"
+msgid "Abigail could always find a way to bring a smile to Wendy's face... sadly, she would later become the reason it went away for good."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
@@ -182920,7 +182940,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe"
-msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Hand-Me-Down skin items."
+msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Nostalgic skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_formal
@@ -190458,9 +190478,19 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wendy"
 msgid "Wendy"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_wendy_blogpostart
+msgctxt "STRINGS.SKIN_NAMES.loading_wendy_blogpostart"
+msgid "Wendy's Nightstand"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_creepy"
 msgid "Supernatural Wendy"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wendy_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wendy_trailer"
+msgid "Wish You Were Here"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_wendy_victorian
