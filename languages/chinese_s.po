@@ -178141,6 +178141,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_quilt_white_ivory"
 msgid "Nothing says \"bedtime\" quite like a bunch of little fabric squares sewn into one bigger, 'houndbone white' fabric square."
 msgstr "没有人说‘睡觉时间’就像将一块小靠垫缝进较大的‘狗骨头白色’靠垫。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.beebox_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_crystal"
+msgid "A dazzling amber dome where bees make liquid gold."
+msgstr "亮闪闪的琥珀色蜂巢穹顶，蜜蜂在里面生产液体黄金。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.beebox_house
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_house"
 msgid "This charming little abode is sure to put your bees at ease."
@@ -182191,6 +182196,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian"
 msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
 msgstr "温蒂在细致考究的哀悼仪式中得到一种奇怪的慰藉。\n这种哀痛方式消除了臆测的成分。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer"
+msgid "Trying to explain this mime's psyche would be a fool's errand... an April one, in fact."
+msgstr "揣测这个小丑的心理是愚人做的事情……尤其是在四月的一号。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian"
 msgid "There are few more satisfying feelings in life than knowing one's work is done for the day."
@@ -183291,6 +183301,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_arrowsignpostcircus"
 msgid "Equip this item to change your character's background portrait."
 msgstr "装备此物品以更改你的角色背景画像。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_beeboxcrystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_beeboxcrystal"
+msgid "Equip this item to change your character's background portrait."
+msgstr "装备这件物品改变人物的背景。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_beefalo
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_beefalo"
 msgid "Equip this item to change your character's background portrait."
@@ -183596,6 +183611,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_roseportal"
 msgid "Equip this item to change your character's background portrait.\n\nWilson and Maxwell constructed the first prototype of the Florid Postern, connecting the survivors' dimensions and allowing them to band together."
 msgstr "装备此物品以更改你的角色背景画像。\n\n\n\n威尔逊和麦斯威尔制造了绚丽之门的初代原型机，让幸存者们的位面相连，并将他们联结到了一起。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_saltboxshaker
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_saltboxshaker"
+msgid "Equip this item to change your character's background portrait.\n\nJust add a pinch of salt."
+msgstr "装备这件物品改变人物的背景。\n\n加一小撮盐。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_shoreline
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_shoreline"
 msgid "Equip this item to change your character's background portrait."
@@ -183760,6 +183780,11 @@ msgstr "将你的角色图标设为一只收拢翅膀的蝙蝠。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_bearger_roar"
 msgid "Set your profile icon to an angry bearger."
 msgstr "将你的角色图标设为一只生气的熊怪。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_beebox_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_beebox_crystal"
+msgid "Set your profile icon to a Crystalline Honeydome"
+msgstr "把你的头像设置为一个水晶蜂巢穹顶。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_beefalo
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_beefalo"
@@ -184250,6 +184275,11 @@ msgstr "将你的角色图标设为发条战车。\n\n麦斯威尔高坐在噩�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_rose"
 msgid "Set your profile icon to a rose flower.\n\nFew things are as timeless as a red rose."
 msgstr "将你的角色图标设为一朵玫瑰花。\n\n很少东西能像红玫瑰一样永恒。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_saltbox_shaker
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_saltbox_shaker"
+msgid "Set your profile icon to a handy salt shaker.\n\nEveryone says you're the salt of the earth."
+msgstr "把你的头像设置为一个方便的盐罐。\n\n每个人都说你是世上的盐。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_shadowhand
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_shadowhand"
@@ -184800,6 +184830,11 @@ msgstr "用一把被诅咒的刀刃大开杀戒。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruinshat_arcane"
 msgid "The ancient secrets it holds have been lost to time."
 msgstr "它藏有的秘密消失在了旧时光里。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.saltbox_shaker
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.saltbox_shaker"
+msgid "Why not shake things up a bit?"
+msgstr "为什么不摇一摇呢？"
 
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_northern
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_northern"
@@ -186450,6 +186485,11 @@ msgstr "拼接床单"
 msgctxt "STRINGS.SKIN_NAMES.bedroll_furry_quilt_white_ivory"
 msgid "Patchwork Quilt"
 msgstr "拼接床单"
+
+#. STRINGS.SKIN_NAMES.beebox_crystal
+msgctxt "STRINGS.SKIN_NAMES.beebox_crystal"
+msgid "Crystalline Honeydome"
+msgstr "水晶蜂巢穹顶"
 
 #. STRINGS.SKIN_NAMES.beebox_house
 msgctxt "STRINGS.SKIN_NAMES.beebox_house"
@@ -190501,6 +190541,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wendy_victorian"
 msgid "Mourning Weeds Wendy"
 msgstr "丧服温蒂"
 
+#. STRINGS.SKIN_NAMES.loading_wes_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer"
+msgid "Inflated Imagination"
+msgstr "自我膨胀的想象"
+
 #. STRINGS.SKIN_NAMES.loading_wes_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wes_victorian"
 msgid "Chimney Sweep Wes"
@@ -191601,6 +191646,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_arrowsignpostcircus"
 msgid "Spectacular Stationary Wayfinder Portrait"
 msgstr "壮观的固定寻路器画像"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_beeboxcrystal
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_beeboxcrystal"
+msgid "Crystalline Honeydome Portrait"
+msgstr "水晶蜂巢穹顶背景"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_beefalo
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_beefalo"
 msgid "Beefalo Portrait"
@@ -191906,6 +191956,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_roseportal"
 msgid "Florid Postern Portrait"
 msgstr "绚丽之门画像"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_saltboxshaker
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_saltboxshaker"
+msgid "Salt Portrait"
+msgstr "盐背景"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_shoreline
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_shoreline"
 msgid "Shoreline Portrait"
@@ -192070,6 +192125,11 @@ msgstr "生气的蝙蝠"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_bearger_roar"
 msgid "Grumpy Bearger"
 msgstr "狂暴熊獾"
+
+#. STRINGS.SKIN_NAMES.profileflair_beebox_crystal
+msgctxt "STRINGS.SKIN_NAMES.profileflair_beebox_crystal"
+msgid "Crystalline Honeydome"
+msgstr "水晶蜂巢穹顶"
 
 #. STRINGS.SKIN_NAMES.profileflair_beefalo
 msgctxt "STRINGS.SKIN_NAMES.profileflair_beefalo"
@@ -192560,6 +192620,11 @@ msgstr "发条战车"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_rose"
 msgid "Red Rose"
 msgstr "红玫瑰"
+
+#. STRINGS.SKIN_NAMES.profileflair_saltbox_shaker
+msgctxt "STRINGS.SKIN_NAMES.profileflair_saltbox_shaker"
+msgid "Salt Shaker"
+msgstr "盐罐"
 
 #. STRINGS.SKIN_NAMES.profileflair_shadowhand
 msgctxt "STRINGS.SKIN_NAMES.profileflair_shadowhand"
@@ -193110,6 +193175,11 @@ msgstr "守卫的棍棒"
 msgctxt "STRINGS.SKIN_NAMES.ruinshat_arcane"
 msgid "Arcane Headpiece"
 msgstr "神秘头饰"
+
+#. STRINGS.SKIN_NAMES.saltbox_shaker
+msgctxt "STRINGS.SKIN_NAMES.saltbox_shaker"
+msgid "Salt Box Shaker"
+msgstr "盐罐"
 
 #. STRINGS.SKIN_NAMES.shovel_northern
 msgctxt "STRINGS.SKIN_NAMES.shovel_northern"
@@ -195516,6 +195586,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FISHERMAN"
 msgid "Trawler Collection"
 msgstr "渔夫系列"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FOOLS
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FOOLS"
+msgid "Fool's Collection"
+msgstr "愚人系列"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FORMAL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FORMAL"
 msgid "Formal Collection"
@@ -196035,6 +196110,11 @@ msgstr "远古王冠"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RUINS_BAT"
 msgid "Thulecite Club"
 msgstr "铥矿岩棒"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SALTBOX
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SALTBOX"
+msgid "Salt Box"
+msgstr "盐罐"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SHOVEL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SHOVEL"
@@ -212140,6 +212220,11 @@ msgstr "拥有筛选条件：{mode}"
 msgctxt "STRINGS.UI.WARDROBESCREEN.RESET"
 msgid "Undo Changes"
 msgstr "撤销更改"
+
+#. STRINGS.UI.WARDROBESCREEN.SEARCH
+msgctxt "STRINGS.UI.WARDROBESCREEN.SEARCH"
+msgid "Search"
+msgstr "搜索"
 
 #. STRINGS.UI.WARDROBESCREEN.SORT_COUNT
 msgctxt "STRINGS.UI.WARDROBESCREEN.SORT_COUNT"
