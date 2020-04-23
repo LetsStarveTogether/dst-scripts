@@ -8068,8 +8068,8 @@ msgstr "这个地方的裂隙越来越明显。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_FISSURE_PLUGGED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_FISSURE_PLUGGED"
-msgid "That doesn't look sound."
-msgstr "看起来不牢固。"
+msgid "It's not very scientific... but pretty effective."
+msgstr "虽然不科学……但是很有效。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_TREE.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_TREE.BURNING"
@@ -168391,6 +168391,21 @@ msgctxt "STRINGS.HERMITCRAB_PANICHAUNT.1"
 msgid "You're not taking me yet, spirits!"
 msgstr "你们休想现在就带走我，幽灵们！"
 
+#. STRINGS.HERMITCRAB_PLANTED_LUREPLANT_DIED.HIGH.1
+msgctxt "STRINGS.HERMITCRAB_PLANTED_LUREPLANT_DIED.HIGH.1"
+msgid "Dearie, I know you planted that.\nYou don't need to impress me."
+msgstr "亲爱的，我知道是你种下的。\n你不用刻意表现。"
+
+#. STRINGS.HERMITCRAB_PLANTED_LUREPLANT_DIED.LOW.1
+msgctxt "STRINGS.HERMITCRAB_PLANTED_LUREPLANT_DIED.LOW.1"
+msgid "Nice try.\nYou don't get anything for cleaning up your own messes."
+msgstr "继续嘚瑟吧。\n你只是清理了自己弄下的烂摊子，我是不会给你东西。"
+
+#. STRINGS.HERMITCRAB_PLANTED_LUREPLANT_DIED.MED.1
+msgctxt "STRINGS.HERMITCRAB_PLANTED_LUREPLANT_DIED.MED.1"
+msgid "Do you want a reward that bad?"
+msgstr "你就这么想拿到奖励？"
+
 #. STRINGS.HERMITCRAB_REFUSE_COAT.1
 msgctxt "STRINGS.HERMITCRAB_REFUSE_COAT.1"
 msgid "You keep it, I'm not chilly."
@@ -177173,18 +177188,18 @@ msgstr "蜘蛛丝"
 
 #. STRINGS.NAMES.SINGINGSHELL_OCTAVE3
 msgctxt "STRINGS.NAMES.SINGINGSHELL_OCTAVE3"
-msgid "Large Shell Bell"
-msgstr "大贝壳钟"
+msgid "Baritone Shell Bell"
+msgstr "中音贝壳钟"
 
 #. STRINGS.NAMES.SINGINGSHELL_OCTAVE4
 msgctxt "STRINGS.NAMES.SINGINGSHELL_OCTAVE4"
-msgid "Medium Shell Bell"
-msgstr "中贝壳钟"
+msgid "Alto Shell Bell"
+msgstr "低音贝壳钟"
 
 #. STRINGS.NAMES.SINGINGSHELL_OCTAVE5
 msgctxt "STRINGS.NAMES.SINGINGSHELL_OCTAVE5"
-msgid "Small Shell Bell"
-msgstr "小贝壳钟"
+msgid "Soprano Shell Bell"
+msgstr "高音贝壳钟"
 
 #. STRINGS.NAMES.SINKHOLE
 msgctxt "STRINGS.NAMES.SINKHOLE"
@@ -188230,6 +188245,11 @@ msgstr "在树林里呆了好多天之后，可能就会很难将自己与猎物
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer"
 msgid "When Wormwood begins to feel too lonely, he knows he can always go back to his roots."
 msgstr "每当沃姆伍德感到孤单时，他就会想到自己有根可寻。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wortox2_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wortox2_trailer"
+msgid "One fateful choice left Wortox forever changed."
+msgstr "一次命运的捉弄让沃拓克斯永远的改变了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wortox_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wortox_trailer"
