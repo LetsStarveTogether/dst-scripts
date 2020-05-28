@@ -355,7 +355,7 @@ msgstr ""
 
 #. STRINGS.ACTIONS.CYCLE.GENERIC
 msgctxt "STRINGS.ACTIONS.CYCLE.GENERIC"
-msgid "cycle [TODO:JEN]"
+msgid "Cycle"
 msgstr ""
 
 #. STRINGS.ACTIONS.CYCLE.TUNE
@@ -4953,9 +4953,19 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "It's as heavy as it looks."
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "A stagn-antlion."
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "It was a lot bigger up close."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Very statuesque."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -5013,6 +5023,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Makes my stomach rumble just looking at it."
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Can I invoke the \"no holiday decorations\" Klaus?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "It's a horse, of course."
@@ -5061,6 +5076,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "The chess pieces are moving themselves!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Exactly as stationary as a skeleton should be."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "Not really a great stool though, is it?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESTER
@@ -16068,9 +16093,19 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "I think Maman would like this."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "I do like him better like this."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I can't believe we survived that beast!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Muse for my new honey glaze!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -16128,6 +16163,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "One can dream."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "A table centerpiece fit for a holiday feast."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "It looks a bit like a knight."
@@ -16176,6 +16216,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Mon dieu! It's moving!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_STALKER"
+msgid "If only I could use those bones in a broth."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "Stone mushroom soup anyone?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESTER
@@ -26313,9 +26363,19 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "'Twas made in honor of our stalwart vessel!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "The artist hath captured her noble mane perfectly."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Twas a battle to sing of."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "I honor this warrior queen!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -26373,6 +26433,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Feasts, feasts, everywhere, and not a ham to eat."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "A tribute to the festive warrior spirit."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "The figure of a fellow warrior!"
@@ -26421,6 +26486,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Battle is nigh!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_STALKER"
+msgid "A hard stone monument to a hard fought battle."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "An honorable yet odious creature!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESTER
@@ -37303,9 +37378,19 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "How kitsch."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Is there a sinkhole I can bury this in?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "A brute."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Does she really need a statue?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -37363,6 +37448,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "This seems cruel."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Why bother?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "A dreadful lack of accordions."
@@ -37411,6 +37501,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "The pieces are in motion!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_STALKER"
+msgid "I do like this one."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "At least the statue doesn't smell as bad as the original."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESTER
@@ -48273,9 +48373,19 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Anchors away!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "It's so life-like the mane looks fluffy!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "The fur looks so real!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Sweet!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -48333,6 +48443,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Boy, I wish we could eat it."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Can we decorate it?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "We could sculpt a stallion battalion!"
@@ -48381,6 +48496,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "It's... alive?!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Still kind of spooky."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "Now we can play leap frog with it!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER
@@ -59328,9 +59453,19 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Why did we sculpt an anchor."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Still and lifeless."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Ashes to ashes, bust to bust. Oh."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "She once had a sweet life."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -59388,6 +59523,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "A cold mockery."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "No more life in this festive spirit."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "Oh, if I could ride away into the night."
@@ -59436,6 +59576,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "They're here."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Dark and cold, like my soul."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "A monument to fungal decay."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
@@ -70318,9 +70468,19 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Artists tend to reference what they're familiar with."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "A stately statuary of the Panthera auropunctata."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Quite expressive!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "A queenly tribute to the Apis mellifera."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -70378,6 +70538,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "It is a commonly held belief that art imitates life."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "A wonderfully seasonal simulacrum."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "A knight, in service to the king. Or perhaps the queen."
@@ -70426,6 +70591,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "It seems magic is afoot."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_STALKER"
+msgid "The artist faithfully replicated its skeletal structure."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "The artist captured the parasitic relationship beautifully."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER
@@ -81328,9 +81503,19 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "It's hard to burn stuff at sea."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Can't shake anything up like that."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Those are some pointy teeth."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Took the sting out of her stinger."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -81388,6 +81573,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Ouchhh! I think I chipped a tooth."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Haha, you can't get me now."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "A horse with no butt."
@@ -81436,6 +81626,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "I don't wanna see what comes outta that!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Not so tough now, are you?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "What are you looking at?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER
@@ -92353,9 +92553,19 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "I'm fond'a this one."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Looks so real, I can almost feel the earth rumblin'."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Y'got a mean mug there, buddy."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "I wonder if I could sculpt a hat like that."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -92413,6 +92623,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Ugh, don't remind me of food."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Kinda makes me nostalgic."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "Why the long face?"
@@ -92461,6 +92676,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "That ain't supposed to move."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_STALKER"
+msgid "I like 'em better when he's not stalkin' me."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "I built a stool once but it didn't look like that."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESTER
@@ -103388,9 +103613,19 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Is big. And heavy. Wolfgang would like to lift."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Wolfgang will not battle it in staring contest."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Terrifying beast statue!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Mighty statue stays mighty still."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -103448,6 +103683,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Why stone food hurt mouth?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Is that time of year already?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "Is good horsey, Wolfgang thinks."
@@ -103496,6 +103736,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Wolfgang does not like moving statues!!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Ha! Wolfgang more mighty than statue."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "Wolfgang more handsome than ugly froggy."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESTER
@@ -114368,9 +114618,19 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Looks good to me."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Looks almost real, eh?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Good use of stone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Some nice detail on that."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -114428,6 +114688,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Well, I did say I had a hankering for \"stone fruit\"."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Can't complain about that worksmanship."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "I miss horses."
@@ -114476,6 +114741,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Get ready, Lucy."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Nothin' wrong with it now."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "Structurally sound."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESTER
@@ -125388,9 +125663,19 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Heavy"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "Not moving"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Not so smelly now"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "No more buzz-buzz"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -125448,6 +125733,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Not for belly"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Not squishy"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "Stone Neigher!"
@@ -125465,7 +125755,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MOON
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MOON"
-msgid "Night Ball broken."
+msgid "Night Ball broken"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1
@@ -125496,6 +125786,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Alive?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Hello? Hello?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "Alive? Nope"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESTER
@@ -136448,9 +136748,19 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "So heavy, heavy, dreary, dreary."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "An anti Ant Lion, formerly furry. Hyuyu!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I'll say a prayer for this slain bear."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "Stationary majesty. Static insect."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -136508,6 +136818,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "What a funny use for a horn!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "A stagnant stag."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "Let's play a game, you and I!"
@@ -136561,6 +136876,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Yes, yes, come play!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_STALKER"
+msgid "No more rattlin' bones."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "A fine piece of art, especially the warts."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESTER
@@ -147508,9 +147833,19 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Why made anchor for land, florpt?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "How she stay so still?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Grrrr!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "That's what you get, stingy lady!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -147568,6 +147903,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Full of yummies, florp!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "Can't chase me anymore!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "It look like an Ironfolk."
@@ -147616,6 +147956,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "It moving!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_STALKER"
+msgid "Not so spooky now."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "No more glurp-glurping."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESTER
@@ -158533,9 +158883,19 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "AS HEAVY AS THE REAL THING, BUT LESS USEFUL"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ANTLION
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ANTLION"
+msgid "NO LONGER CURSED WITH FLESH"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "IT IS MY DECORATION NOW"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEEQUEEN"
+msgid "AS USELESS NOW AS IT WAS WHEN IT WAS MOVING"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -158593,6 +158953,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "THIS PIECE IS FOR TORTURING HUNGRY FLESHLINGS"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_KLAUS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_KLAUS"
+msgid "IT HAS EVOLVED INTO ITS SUPERIOR STATIC FORM"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC"
 msgid "A METICULOUSLY CRAFTED OBJECT OF OBSOLESCENCE"
@@ -158641,6 +159006,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "FIGURE BOOTING UP"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_STALKER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_STALKER"
+msgid "A DEFLESHED FLESH SACK"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_TOADSTOOL"
+msgid "EXACTLY THE RIGHT AMOUNT OF FLESH"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESTER
@@ -166903,14 +167278,504 @@ msgctxt "STRINGS.CHARACTER_ABOUTME.wx78"
 msgid "One might assume WX's callous nature hides a sensitive inner soul. One would assume incorrectly."
 msgstr ""
 
+#. STRINGS.CHARACTER_BIOS.warly.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.warly.1.desc"
+msgid "July 25"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.warly.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.warly.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.warly.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.warly.2.desc"
+msgid "Warly could never pick a favorite, a connoisseur of great food must always be expanding his palate."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.warly.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.warly.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.warly.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.warly.3.desc"
+msgid "Warly left a promising career as a sous chef in Paris to return home and care for his aging mother Angeline, whose memory had begun to deteriorate. His world soon revolved around telling her stories about her life, playing her favorite music, cooking the recipes she had taught him when he was young... all in the hopes of catching that spark of recognition in her eyes. As time went on and Angeline's moments of clarity became fewer and farther in-between, Warly became more desperate, willing to try anything to bring back his beloved Maman...\nThat was when he first started hearing the voice on the radio."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.warly.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.warly.3.title"
+msgid "Taste of Home"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.1.desc"
+msgid "July 23"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.2.desc"
+msgid "Turkey Dinner"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.desc"
+msgid "Is yet to be revealed."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.title"
+msgid "Her Past..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.waxwell.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.1.desc"
+msgid "October 22"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.waxwell.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.waxwell.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.2.desc"
+msgid "Lobster Dinner"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.waxwell.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.waxwell.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.3.desc"
+msgid "The former king of the Nightmare Throne and an egomaniac to boot. Maxwell (who earned his name from his former stage persona \"The Amazing Maxwell\") was once the naive and unimposing \"William Carter\", a penniless man from London who dreamt of being a world-renowned magician. When fate put William in possession of the Codex Umbra, he felt true power for the first time in his life. Casting off his old, meek ways and fully embracing his new persona as a charismatic master of dark magic, Maxwell achieved fame and success, but still found himself hungering for more. As he delved deeper and deeper into his magical tome, immersing himself in its secrets, the dark knowledge within addled his mind and clouded his heart. In his final performance, Maxwell lost control of the shadow magic he'd used so brazenly and both he and his stage assistant Charlie were pulled into the Constant. There he would remain for what seemed like an eternity, tethered to the Nightmare Throne and compelled to ensnare more victims in the Constant's trap.\nHe is still baffled by the thought that someone he tricked into the Constant could find it in their heart to set him free... well, baffled and annoyed really. He never liked owing a favor."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.waxwell.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.3.title"
+msgid "The Nightmare King"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.webber.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.webber.1.desc"
+msgid "April 30"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.webber.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.webber.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.webber.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.webber.2.desc"
+msgid "Ice Cream"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.webber.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.webber.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.webber.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.webber.3.desc"
+msgid "Is yet to be revealed."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.webber.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.webber.3.title"
+msgid "His Past..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wendy.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.1.desc"
+msgid "November 11"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wendy.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wendy.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.2.desc"
+msgid "Banana Pop"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wendy.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wendy.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.3.desc"
+msgid "Wendy's tale of woe began with the untimely loss of her dear sister Abigail. Unable to accept the thought of life without her twin, Wendy began turning to the occult in the hopes of finding some way to communicate with the other side. After much trial and error, seance candles burned down to nubs and spirit boards thrown away in frustration, Wendy was nearly ready to give up and fall into despair... until finally, there was a sign. A ragtime tune might seem like a strange message to send from the great beyond, but Wendy was desperate to grab hold of anything that might bring her closer to her sister. And sure enough, a voice would soon tell her exactly what she needed to do..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wendy.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.3.title"
+msgid "Wish You Were Here"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wes.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wes.1.desc"
+msgid "April 16"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wes.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wes.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wes.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wes.2.desc"
+msgid "Fresh Fruit Crepes"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wes.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wes.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wes.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wes.3.desc"
+msgid "Is yet to be revealed."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wes.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wes.3.title"
+msgid "His Past..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.1.desc"
+msgid "December 6"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.2.desc"
+msgid "Surf 'n' Turf"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.desc"
+msgid "Is yet to be revealed."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.title"
+msgid "Her Past..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.willow.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.willow.1.desc"
+msgid "May 7"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.willow.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.willow.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.willow.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.willow.2.desc"
+msgid "Spicy Chili"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.willow.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.willow.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.willow.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.willow.3.desc"
+msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all. From a young age, Willow seemed to possess a knack for attracting bad luck. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she soon found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.willow.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.willow.3.title"
+msgid "From the Ashes"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wilson.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.1.desc"
+msgid "April 23"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wilson.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wilson.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.2.desc"
+msgid "Bacon and Eggs"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wilson.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wilson.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.3.desc"
+msgid "While toiling away in his home laboratory late one night, Wilson was startled to hear a voice on the radio speaking directly to him. At first he feared he'd gone mad from too many late nights of experiments and accidentally-inhaled chemical fumes, but the voice assured him that it was no mere figment of the imagination. In fact, the voice had a proposition for him: if Wilson would build a machine according to their specifications, then he would be rewarded with secret knowledge, the likes of which no one had ever seen. Casting aside his better judgement (after all, what harm could come from making a vague bargain with a mysterious disembodied voice?) Wilson threw himself into constructing the machine. When at long last it was finally completed, the gentleman scientist had a moment of hesitation... a moment that might have saved him from his impending fate, had he been just a bit stronger of will. But at the voice's insistence, Wilson flipped the switch and activated his creation... and was never seen again.\nWell, at least not in this world."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wilson.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.3.title"
+msgid "Secret Knowledge"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.winona.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.winona.1.desc"
+msgid "September 13"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.winona.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.winona.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.winona.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.winona.2.desc"
+msgid "Vegetable Stinger"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.winona.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.winona.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.winona.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.winona.3.desc"
+msgid "There is nothing Winona wouldn't do for her family. When her younger sister Charlie disappeared under mysterious circumstances, Winona refused to let the case grow cold and dedicated herself to finding her. For over a decade she tracked down every clue, followed every lead, poked, prodded, and questioned anyone who might have a connection to the case, until all the loose strings started to come together. There was a radio factory, founded by a peculiar old man whose genius was only matched by his secretiveness, that might hold the answers she had sought for so long. Shortly after securing employment at the factory, the building was destroyed in an accident caused by a malfunctioning portal. Having caught sight of someone getting caught in the portal and vanishing, Winona hastily repaired it in the hopes of rescuing them, only to come face to face with her missing sister. Unfortunately, Charlie seemed to be held under the sway of a shadowy influence, and she dragged Winona into the Constant."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.winona.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.winona.3.title"
+msgid "Next of Kin"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.1.desc"
+msgid "October 2"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.2.desc"
+msgid "Roasted Potato"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.3.desc"
+msgid "Is yet to be revealed."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.3.title"
+msgid "His Past..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.1.desc"
+msgid "September 12"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.2.desc"
+msgid "Honey Nuggets"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.3.desc"
+msgid "Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.3.title"
+msgid "A Mysterious Past"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.4.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.4.desc"
+msgid "As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be controlled. By fashioning representations of each of the three beasts and consuming them only when he wanted to invoke that form, Woodie now feels more comfortable in his own skin than he has in quite a while."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.woodie.4.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.4.title"
+msgid "Tree's a Crowd"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wormwood.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.1.desc"
+msgid "June 6"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wormwood.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wormwood.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.2.desc"
+msgid "Cooked Banana"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wormwood.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wormwood.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.3.desc"
+msgid "Though the circumstances of his creation were unusual at best, Wormwood came into this world full of optimism and curiosity, ready to make new friends and see all that life had to offer. But as time wore on and he experienced the cold sting of rejection, he came to learn what the moon above had always known: Wormwood the Lonesome does not belong here."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wormwood.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.3.title"
+msgid "Lunar Roots"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wortox.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.1.desc"
+msgid "March 28"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wortox.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wortox.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.2.desc"
+msgid "Wortox is not particularly interested in mortal food, but he does enjoy a Pomegranate now and then."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wortox.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wortox.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.3.desc"
+msgid "Wortox learned the hard way that one should always be mindful of the company they keep. Once a playful imp without a care in the world, Wortox spent his days helping a Krampus make mischief throughout the Constant. While the pair of rascals revelled in their roguery for a time, Wortox slowly began to see a darkness in the Krampus' heart, and the malice in his pranks. Not wishing for any real harm to come to anyone, the little imp finally put his cloven foot down, but in trying to stop his fiendish friend he unwittingly awakened a terrible power in himself..."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wortox.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.3.title"
+msgid "Possessions"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wurt.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.1.desc"
+msgid "October 17"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wurt.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.1.title"
+msgid "Birthday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wurt.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.2.desc"
+msgid "Durian"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wurt.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wurt.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.3.desc"
+msgid "Wurt is a little Merm girl who wants to bring her people back to their former glory (if they did indeed ever have a former glory... the evidence is a bit shaky on that front). A bit more open-minded than other Merms, she has taken to following the Survivors around and learning more about them. She is particularly fascinated by books with pretty pictures inside and an amazing thing the humans call \"candy\". Though she enjoys living in the swamp and being around other Merms, being the smallest and the youngest often makes her feel quite isolated, and she is enjoying the novelty of having some friends closer to her own age amongst the Survivors."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wurt.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.3.title"
+msgid "A New Chapter"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wx78.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.1.desc"
+msgid "November 28"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wx78.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.1.title"
+msgid "Buildday"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wx78.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.2.desc"
+msgid "Butter Muffin"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wx78.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.2.title"
+msgid "Favorite Food"
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wx78.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.desc"
+msgid "Is yet to be revealed."
+msgstr ""
+
+#. STRINGS.CHARACTER_BIOS.wx78.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.title"
+msgid "Their Past..."
+msgstr ""
+
 #. STRINGS.CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.random"
-msgid "\nSelect a random character"
+msgid "Anybody could be under that hat"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.warly"
-msgid "*Has a refined palate\n*Cooks in custom kitchenware\n*Brings a stylish chef pouch"
+msgid "*Has his own line of custom portable cookware \n*Can spice things up \n*Has an insatiable appetite \n*Only eats gourmet food"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
@@ -166930,22 +167795,22 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wendy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wendy"
-msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Doesn't hit very hard"
+msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Dabbles in Ectoherbology \n*Doesn't hit very hard"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wes
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wes"
-msgid "*Can't talk \n*Has trouble staying alive \n*Practices balloonomancy"
+msgid "*Can't talk \n*Practices balloonomancy \n*Is not a skilled fighter \n*Has a high metabolism \n*Has trouble staying alive"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom"
-msgid "*Knows many things \n*Self-publishes books \n*Can't sleep, hates spoilage"
+msgid "*Knows many things \n*Self-publishes books \n*Suffers from insomnia \n*Has a delicate stomach"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.willow
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.willow"
-msgid "*Is immune to fire, but hates the cold \n*Protected by her cuddly bear, Bernie \n*Can craft a reliable lighter"
+msgid "*Has a fondness for fire, but hates the cold \n*Protected by her cuddly bear, Bernie\n*Has a reliable lighter"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilson
@@ -166960,27 +167825,27 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wolfgang"
-msgid "*Grows stronger on a full belly \n*Is afraid of monsters and the dark"
+msgid "*Grows mighty on a full belly \n*Becomes wimpy when hungry \n*Burns a lot of calories \n*Is afraid of monsters and the dark"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodie
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie"
-msgid "*Has a lovely axe... \n*And a terrible secret \n*Is thankful for bountiful harvests"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Is thankful for bountiful harvests"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodie_canada
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie_canada"
-msgid "*Has a lovely axe... \n*And a terrible secret \n*Celebrates Thanksgiving at the correct time"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving at the correct time"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodie_us
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie_us"
-msgid "*Has a lovely axe... \n*And a terrible secret \n*Celebrates Thanksgiving too early"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving too early"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wormwood
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wormwood"
-msgid "*Plants relate to him\n*Has a Green Thumb\n*Food fills his stomach, but not his heart"
+msgid "*Plants relate to him \n*Saddened when plants are killed \n*Has a Green Thumb \n*Food fills his stomach, but not his heart"
 msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wortox
@@ -166996,6 +167861,41 @@ msgstr ""
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
 msgid "*Not a picky eater \n*Is charged by lightning, but damaged by water \n*Can upgrade with gears"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE"
+msgid "Perks & Quirks"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE"
+msgid "Quote"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_NONE
+msgctxt "STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_NONE"
+msgid "Nothing in hand"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_TITLE"
+msgid "Enters the Constant With"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.STAT_UNKNOW
+msgctxt "STRINGS.CHARACTER_DETAILS.STAT_UNKNOW"
+msgid "?"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.SURVIVABILITY_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.SURVIVABILITY_TITLE"
+msgid "Odds of Survival"
+msgstr ""
+
+#. STRINGS.CHARACTER_DETAILS.VIDEO_BUTTON
+msgctxt "STRINGS.CHARACTER_DETAILS.VIDEO_BUTTON"
+msgid "Play Animated Short"
 msgstr ""
 
 #. STRINGS.CHARACTER_NAMES.random
@@ -167173,9 +168073,99 @@ msgctxt "STRINGS.CHARACTER_QUOTES.wx78"
 msgid "\"EMPATHY MODULE NOT RESPONDING\""
 msgstr ""
 
+#. STRINGS.CHARACTER_SURVIVABILITY.default
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.default"
+msgid "Unknown"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.random
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.random"
+msgid "Unknown"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.warly
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.warly"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wathgrithr
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wathgrithr"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.waxwell
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.waxwell"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.webber
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.webber"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wendy
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wendy"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wes
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wes"
+msgid "None"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wickerbottom
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wickerbottom"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.willow
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.willow"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wilson
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wilson"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.winona
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.winona"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wolfgang
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wolfgang"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.woodie
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.woodie"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wormwood
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wormwood"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wortox
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wortox"
+msgid "Grim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wurt
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wurt"
+msgid "Slim"
+msgstr ""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wx78
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wx78"
+msgid "Slim"
+msgstr ""
+
 #. STRINGS.CHARACTER_TITLES.random
 msgctxt "STRINGS.CHARACTER_TITLES.random"
-msgid "?"
+msgid "Random Character"
 msgstr ""
 
 #. STRINGS.CHARACTER_TITLES.warly
@@ -171493,6 +172483,11 @@ msgctxt "STRINGS.MODS.VERSIONING.OUT_OF_DATE"
 msgid "Mod \"%s\" is out of date. The server needs to get the latest version from the Steam Workshop so other users can join."
 msgstr ""
 
+#. STRINGS.MODS.VERSIONING.OUT_OF_DATE_RAIL
+msgctxt "STRINGS.MODS.VERSIONING.OUT_OF_DATE_RAIL"
+msgid "Mod \"%s\" is out of date. The server needs to get the latest version so other users can join."
+msgstr ""
+
 #. STRINGS.NAMES.ABIGAIL
 msgctxt "STRINGS.NAMES.ABIGAIL"
 msgid "Abigail"
@@ -172498,6 +173493,16 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_ANCHOR_SKETCH"
 msgid "Anchor Figure Sketch"
 msgstr ""
 
+#. STRINGS.NAMES.CHESSPIECE_ANTLION
+msgctxt "STRINGS.NAMES.CHESSPIECE_ANTLION"
+msgid "Antlion Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_ANTLION_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_ANTLION_BUILDER"
+msgid "Antlion Figure"
+msgstr ""
+
 #. STRINGS.NAMES.CHESSPIECE_BEARGER
 msgctxt "STRINGS.NAMES.CHESSPIECE_BEARGER"
 msgid "Bearger Figure"
@@ -172506,6 +173511,16 @@ msgstr ""
 #. STRINGS.NAMES.CHESSPIECE_BEARGER_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_BEARGER_BUILDER"
 msgid "Bearger Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_BEEQUEEN
+msgctxt "STRINGS.NAMES.CHESSPIECE_BEEQUEEN"
+msgid "Bee Queen Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_BEEQUEEN_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_BEEQUEEN_BUILDER"
+msgid "Bee Queen Figure"
 msgstr ""
 
 #. STRINGS.NAMES.CHESSPIECE_BISHOP
@@ -172633,6 +173648,16 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_HORNUCOPIA_BUILDER"
 msgid "Carved Hornucopia"
 msgstr ""
 
+#. STRINGS.NAMES.CHESSPIECE_KLAUS
+msgctxt "STRINGS.NAMES.CHESSPIECE_KLAUS"
+msgid "Klaus Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_KLAUS_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_KLAUS_BUILDER"
+msgid "Klaus Figure"
+msgstr ""
+
 #. STRINGS.NAMES.CHESSPIECE_KNIGHT
 msgctxt "STRINGS.NAMES.CHESSPIECE_KNIGHT"
 msgid "Knight Figure"
@@ -172726,6 +173751,26 @@ msgstr ""
 #. STRINGS.NAMES.CHESSPIECE_ROOK_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_ROOK_BUILDER"
 msgid "Rook Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_STALKER
+msgctxt "STRINGS.NAMES.CHESSPIECE_STALKER"
+msgid "Ancient Fuelweaver Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_STALKER_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_STALKER_BUILDER"
+msgid "Ancient Fuelweaver Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_TOADSTOOL
+msgctxt "STRINGS.NAMES.CHESSPIECE_TOADSTOOL"
+msgid "Toadstool Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_TOADSTOOL_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_TOADSTOOL_BUILDER"
+msgid "Toadstool Figure"
 msgstr ""
 
 #. STRINGS.NAMES.CHESTER
@@ -181683,9 +182728,19 @@ msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_SKETCH"
 msgid "A sculpture sketch of an anchor."
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.CHESSPIECE_ANTLION_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ANTLION_BUILDER"
+msgid "Ain't this Antlion beautiful?"
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.CHESSPIECE_BEARGER_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BEARGER_BUILDER"
 msgid "A stone reminder of a grizzly autumn."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_BEEQUEEN_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BEEQUEEN_BUILDER"
+msgid "More regal than real."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_BISHOP_BUILDER
@@ -181763,6 +182818,11 @@ msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_HORNUCOPIA_BUILDER"
 msgid "A sculpture for a starving artist."
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.CHESSPIECE_KLAUS_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_KLAUS_BUILDER"
+msgid "Klaus to perfection."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.CHESSPIECE_KNIGHT_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_KNIGHT_BUILDER"
 msgid "Shining armor not included."
@@ -181811,6 +182871,16 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.CHESSPIECE_ROOK_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ROOK_BUILDER"
 msgid "Next best thing to an actual castle."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_STALKER_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_STALKER_BUILDER"
+msgid "A de-animated reanimated skeleton."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_TOADSTOOL_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_TOADSTOOL_BUILDER"
+msgid "A toad-ally authentic reproduction of the original."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.CHUM
@@ -184508,6 +185578,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_factory"
 msgid "When it comes to factory safety, proper signage is key."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.axe_feathered
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.axe_feathered"
+msgid "An axe for the self-reliant adventurer."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.axe_northern
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.axe_northern"
 msgid "A rustic, sturdy axe."
@@ -187198,6 +188273,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole"
 msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln"
+msgid "A lovely stone kiln to house your coziest fires."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.firepit_lava
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_lava"
 msgid "Some like it hot, some like it even hotter."
@@ -188988,9 +190068,19 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_tiffany"
 msgid "This mushlamp isn't any brighter than a regular lamp, but it'll make guests think you're extremely cultured."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.mysterybox_beards
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_beards"
+msgid "This chest contains something magnificent."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4"
 msgid "This chest contains\n4x curios."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mysterybox_fixed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_fixed"
+msgid "This chest contains a gift just for you."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_ice_4
@@ -189873,6 +190963,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_winter_builder"
 msgid "n/a"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pickaxe_feathered
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pickaxe_feathered"
+msgid "The pickaxe of the self-reliant adventurer."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pickaxe_northern
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pickaxe_northern"
 msgid "A rustic, sturdy pickaxe."
@@ -190376,6 +191471,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule7
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule7"
 msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.potatocup
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.potatocup"
+msgid "Something to do with all those useless potatoes you have lying around. Stop looking like a chump drinking your water out of glasses or beefalo horns."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower
@@ -191593,6 +192693,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat"
 msgid "A torch made in honor of the clever Carrat."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.torch_pillar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_pillar"
+msgid "Doesn't burn any brighter or last any longer, but goodness-gosh if it isn't just the fanciest."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.torch_rag
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_rag"
 msgid "Give your torch some visual flare with these hastily wrapped, desiccated rags. Smoky!"
@@ -192318,6 +193423,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_victorian"
 msgid "Willow doesn't just play with matches... she also peddles them."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_formal"
+msgid "It's important that Wilson keeps his beard honorable when things get hairy."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_ice"
+msgid "It's hard for Wilson to arctic-ulate how much he loves his beard."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_rose"
+msgid "Wilson picks flowery facial accessories when he's feeling pastoral."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_shadow"
+msgid "Wilson's hair-raising experiments have led to a grey-streaked beard."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_survivor"
+msgid "This beard is scientifically proven to smell horrible."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_victorian"
+msgid "Fashionable facial hair for gentleman scientist types."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_combatant"
 msgid "This wouldn't be the first time Wilson's had to fight off a goon or two."
@@ -192996,6 +194131,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.arrowsign_post_factory
 msgctxt "STRINGS.SKIN_NAMES.arrowsign_post_factory"
 msgid "Factory Signpost"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.axe_feathered
+msgctxt "STRINGS.SKIN_NAMES.axe_feathered"
+msgid "Hunters Axe"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.axe_northern
@@ -195688,6 +196828,11 @@ msgctxt "STRINGS.SKIN_NAMES.firepit_hole"
 msgid "Bottomless Pit"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.firepit_kiln
+msgctxt "STRINGS.SKIN_NAMES.firepit_kiln"
+msgid "Stone Kiln"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.firepit_lava
 msgctxt "STRINGS.SKIN_NAMES.firepit_lava"
 msgid "Lava Firepit"
@@ -197478,9 +198623,19 @@ msgctxt "STRINGS.SKIN_NAMES.mushroom_light_tiffany"
 msgid "Nouveau Mushlamp"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.mysterybox_beards
+msgctxt "STRINGS.SKIN_NAMES.mysterybox_beards"
+msgid "Magnificent Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.mysterybox_classic_4
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_classic_4"
 msgid "Classic Curio Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mysterybox_fixed
+msgctxt "STRINGS.SKIN_NAMES.mysterybox_fixed"
+msgid "Chest of Goodies"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.mysterybox_ice_4
@@ -198363,6 +199518,11 @@ msgctxt "STRINGS.SKIN_NAMES.perdling_winter_builder"
 msgid "n/a"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pickaxe_feathered
+msgctxt "STRINGS.SKIN_NAMES.pickaxe_feathered"
+msgid "Hunters Pickaxe"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pickaxe_northern
 msgctxt "STRINGS.SKIN_NAMES.pickaxe_northern"
 msgid "Nordic Pickaxe"
@@ -198866,6 +200026,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_yule7
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule7"
 msgid "Winter's Feast Foods"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.potatocup
+msgctxt "STRINGS.SKIN_NAMES.potatocup"
+msgid "Potato Cup"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_abigail_flower
@@ -200083,6 +201248,11 @@ msgctxt "STRINGS.SKIN_NAMES.torch_carrat"
 msgid "Carrat Torch"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.torch_pillar
+msgctxt "STRINGS.SKIN_NAMES.torch_pillar"
+msgid "Carved Stone Torch"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.torch_rag
 msgctxt "STRINGS.SKIN_NAMES.torch_rag"
 msgid "Weatherbeaten Torch"
@@ -200806,6 +201976,36 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.willow_victorian
 msgctxt "STRINGS.SKIN_NAMES.willow_victorian"
 msgid "The Victorian"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_formal
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_formal"
+msgid "Beard of Honor"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_ice
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_ice"
+msgid "Snowfallen Beard"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_rose
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_rose"
+msgid "Roseate Beard"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_shadow
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_shadow"
+msgid "Triumphant Beard"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_survivor
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_survivor"
+msgid "Survivor Beard"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_victorian
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_victorian"
+msgid "Victorian Beard"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wilson_combatant
@@ -202998,6 +204198,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATHGRITHRHAT"
 msgid "Battle Helm"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD"
+msgid "Wilson's Beard"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTERHAT"
 msgid "Winter Hat"
@@ -203031,6 +204236,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE"
 msgid "Craftable"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.TYPE.CUP
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.TYPE.CUP"
+msgid "Cup"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.TYPE.EMOJI
@@ -205438,6 +206648,11 @@ msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND"
 msgid "Unravel"
 msgstr ""
 
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND_DUPES
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND_DUPES"
+msgid "Unravel Duplicates"
+msgstr ""
+
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY"
 msgid "Use {doodad_value} Spools to weave this curio."
@@ -205471,6 +206686,16 @@ msgstr ""
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT"
 msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr ""
+
+#. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
+msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr ""
+
+#. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
+msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
 msgstr ""
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT
@@ -205521,6 +206746,21 @@ msgstr ""
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
 msgid "Warning!"
+msgstr ""
+
+#. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.1
+msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.1"
+msgid "Trimmed"
+msgstr ""
+
+#. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.2
+msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.2"
+msgid "Groomed"
+msgstr ""
+
+#. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.3
+msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.3"
+msgid "Magnificent"
 msgstr ""
 
 #. STRINGS.UI.BOAT.HEALTH
@@ -206028,6 +207268,11 @@ msgctxt "STRINGS.UI.CLOUDSERVERCREATIONSCREEN.TITLE"
 msgid "Custom Match"
 msgstr ""
 
+#. STRINGS.UI.COLLECTIONSCREEN.BEARD
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.BEARD"
+msgid "Beards"
+msgstr ""
+
 #. STRINGS.UI.COLLECTIONSCREEN.EMOJI
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.EMOJI"
 msgid "Emoticons"
@@ -206083,6 +207328,11 @@ msgctxt "STRINGS.UI.COLLECTIONSCREEN.TITLE"
 msgid "Curio Cabinet"
 msgstr ""
 
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEARD
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
+msgid "View your character beards"
+msgstr ""
+
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
 msgid "View your available chat icons"
@@ -206090,12 +207340,12 @@ msgstr ""
 
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOTE
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOTE"
-msgid "View and equip your character emotes"
+msgid "View your character emotes"
 msgstr ""
 
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM"
-msgid "Equip your skins for craftable in-game items"
+msgid "View your skins for craftable in-game items"
 msgstr ""
 
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_LOADERS
@@ -206271,6 +207521,61 @@ msgstr ""
 #. STRINGS.UI.COMMANDWHEEL.WHISPER
 msgctxt "STRINGS.UI.COMMANDWHEEL.WHISPER"
 msgid "Whisper"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.CAUSEOFDEATH_OTHER
+msgctxt "STRINGS.UI.COMPENDIUM.CAUSEOFDEATH_OTHER"
+msgid "Other"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.CHARACTERDETAILS
+msgctxt "STRINGS.UI.COMPENDIUM.CHARACTERDETAILS"
+msgid "Survivors"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.CINEMATICS
+msgctxt "STRINGS.UI.COMPENDIUM.CINEMATICS"
+msgid "Cinematics"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.ENCOUNTERS
+msgctxt "STRINGS.UI.COMPENDIUM.ENCOUNTERS"
+msgid "Encounters"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.HISTORYOFTRAVELS
+msgctxt "STRINGS.UI.COMPENDIUM.HISTORYOFTRAVELS"
+msgid "History of Travels"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.OBITUARIES
+msgctxt "STRINGS.UI.COMPENDIUM.OBITUARIES"
+msgid "Obituaries"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS"
+msgid "The survivors of the Constant"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_CINEMATICS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_CINEMATICS"
+msgid "Pretty movies!"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_ENCOUNTERS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_ENCOUNTERS"
+msgid "A history of those you've crossed paths with"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS"
+msgid "A summary of your adventures"
+msgstr ""
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_OBITUARIES
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_OBITUARIES"
+msgid "Reminisce over past mistakes"
 msgstr ""
 
 #. STRINGS.UI.CONSOLESCREEN.LOCALEXECUTE
@@ -210830,12 +212135,12 @@ msgstr ""
 
 #. STRINGS.UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED
 msgctxt "STRINGS.UI.ITEM_SERVER.FAILED_IAP_RATE_LIMITED"
-msgid "Unable to start a new transaction due to being limited by Steam. Please slow down and try again later."
+msgid "Unable to start a new transaction due to being rate limited. Please slow down and try again later."
 msgstr ""
 
 #. STRINGS.UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES
 msgctxt "STRINGS.UI.ITEM_SERVER.FAILED_MULTIPLE_PENDING_PURCHASES"
-msgid "Unable to start a new transaction due to having an outstanding purchase active. Please close all other Steam purchases, and try again later."
+msgid "Unable to start a new transaction due to having an outstanding purchase active. Please close all other purchases, and try again later."
 msgstr ""
 
 #. STRINGS.UI.ITEM_SERVER.FAILED_TITLE
@@ -211416,6 +212721,11 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.CHOOSEDIR
 msgctxt "STRINGS.UI.MAINSCREEN.CHOOSEDIR"
 msgid "Don't Starve Game Data"
+msgstr ""
+
+#. STRINGS.UI.MAINSCREEN.COMPENDIUM
+msgctxt "STRINGS.UI.MAINSCREEN.COMPENDIUM"
+msgid "Compendium"
 msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.CONSOLE_EDITION_TEXT
@@ -212163,6 +213473,11 @@ msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_BROWSE"
 msgid "Browse all servers"
 msgstr ""
 
+#. STRINGS.UI.MAINSCREEN.TOOLTIP_COMPENDIUM
+msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_COMPENDIUM"
+msgid "A summary of your adventures"
+msgstr ""
+
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_CREDITS
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_CREDITS"
 msgid "See who made the game"
@@ -212306,6 +213621,16 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.VISITFORUM
 msgctxt "STRINGS.UI.MAINSCREEN.VISITFORUM"
 msgid "Visit Forum"
+msgstr ""
+
+#. STRINGS.UI.MAINSCREEN.WEGAMEFFLINEMODEDESC
+msgctxt "STRINGS.UI.MAINSCREEN.WEGAMEFFLINEMODEDESC"
+msgid "Couldn't connect to WeGame (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
+msgstr ""
+
+#. STRINGS.UI.MAINSCREEN.WEGAMEOFFLINEMODE
+msgctxt "STRINGS.UI.MAINSCREEN.WEGAMEOFFLINEMODE"
+msgid "Connection to WeGame Failed"
 msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.YES
@@ -212478,6 +213803,11 @@ msgctxt "STRINGS.UI.MODSSCREEN.MOD_WARNING"
 msgid "This is not a Steam Workshop mod. Players will need to download it manually if you host a server."
 msgstr ""
 
+#. STRINGS.UI.MODSSCREEN.MOD_WARNING_RAIL
+msgctxt "STRINGS.UI.MODSSCREEN.MOD_WARNING_RAIL"
+msgid "This is not a WeGame mod. Players will need to download it manually if you host a server."
+msgstr ""
+
 #. STRINGS.UI.MODSSCREEN.MOD_WARNING_TITLE
 msgctxt "STRINGS.UI.MODSSCREEN.MOD_WARNING_TITLE"
 msgid "Mod Warning"
@@ -212486,11 +213816,6 @@ msgstr ""
 #. STRINGS.UI.MODSSCREEN.MOREMODS
 msgctxt "STRINGS.UI.MODSSCREEN.MOREMODS"
 msgid "More Mods"
-msgstr ""
-
-#. STRINGS.UI.MODSSCREEN.MORE_MODS
-msgctxt "STRINGS.UI.MODSSCREEN.MORE_MODS"
-msgid "Steam Workshop"
 msgstr ""
 
 #. STRINGS.UI.MODSSCREEN.NO
@@ -212508,6 +213833,11 @@ msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS"
 msgid "You have no mods installed. Mods can be downloaded from the Steam Workshop."
 msgstr ""
 
+#. STRINGS.UI.MODSSCREEN.NO_MODS_CLIENT_TGP
+msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_CLIENT_TGP"
+msgid "You don't have any client mods installed. You can download some from the WeGame client."
+msgstr ""
+
 #. STRINGS.UI.MODSSCREEN.NO_MODS_LINK
 msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_LINK"
 msgid "Take me to the mods!"
@@ -212521,6 +213851,11 @@ msgstr ""
 #. STRINGS.UI.MODSSCREEN.NO_MODS_PLAIN_OK
 msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_PLAIN_OK"
 msgid "Ok"
+msgstr ""
+
+#. STRINGS.UI.MODSSCREEN.NO_MODS_SERVER_TGP
+msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_SERVER_TGP"
+msgid "You don't have any server mods installed. You can download some from the WeGame client."
 msgstr ""
 
 #. STRINGS.UI.MODSSCREEN.NO_MODS_TITLE
@@ -212666,31 +214001,6 @@ msgstr ""
 #. STRINGS.UI.MODSSCREEN.WORKING_NORMALLY
 msgctxt "STRINGS.UI.MODSSCREEN.WORKING_NORMALLY"
 msgid "This mod is enabled."
-msgstr ""
-
-#. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DETAILS
-msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DETAILS"
-msgid "Verifying mod details..."
-msgstr ""
-
-#. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD
-msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD"
-msgid "Downloading mods:"
-msgstr ""
-
-#. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_0
-msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_0"
-msgid "Verifying mod cache..."
-msgstr ""
-
-#. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_LIST
-msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_LIST"
-msgid "Checking Workshop subscriptions..."
-msgstr ""
-
-#. STRINGS.UI.MODSSCREEN.WORKSHOP.UPDATE_TITLE
-msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.UPDATE_TITLE"
-msgid "Steam Workshop"
 msgstr ""
 
 #. STRINGS.UI.MODSSCREEN.YES
@@ -213295,7 +214605,7 @@ msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED"
-msgid "Steam says you don't own the game. But you do... right?"
+msgid "The server says you don't own the game. But you do... right?"
 msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.DEFAULT
@@ -213543,14 +214853,29 @@ msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP"
 msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
 msgstr ""
 
+#. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "This server requires mods that are not available. You will need to manually download the missing mods."
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
 msgid "Download of the required mods from the Steam Workshop failed because one or more mods is not visible to you."
 msgstr ""
 
+#. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Download of the required mods failed because one or more mods is not visible to you."
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE"
 msgid "Download of the required mods from the Steam Workshop failed. Please try again."
+msgstr ""
+
+#. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
+msgid "Download of the required mods failed. Please try again."
 msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
@@ -213595,7 +214920,7 @@ msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.APP_OWNERSHIP_CHECK_FAILED"
-msgid "Steam Ownership Check Failed"
+msgid "Game Ownership Check Failed"
 msgstr ""
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.DEFAULT
@@ -213848,13 +215173,28 @@ msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP"
 msgid "Disconnected Due To Missing Mods"
 msgstr ""
 
+#. STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED"
 msgid "Disconnected Due To Missing Mods"
 msgstr ""
 
+#. STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED_RAIL"
+msgid "Disconnected Due To Missing Mods"
+msgstr ""
+
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE"
+msgid "Disconnected Due To Missing Mods"
+msgstr ""
+
+#. STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE_RAIL"
 msgid "Disconnected Due To Missing Mods"
 msgstr ""
 
@@ -213900,7 +215240,7 @@ msgstr ""
 
 #. STRINGS.UI.NOAUTHENTICATIONSCREEN.BODY2
 msgctxt "STRINGS.UI.NOAUTHENTICATIONSCREEN.BODY2"
-msgid "Account creation will temporarily minimize your game and open your web browser.\nIf this doesn't work, try enabling your Steam overlay."
+msgid "Account creation will temporarily minimize your game and open your web browser."
 msgstr ""
 
 #. STRINGS.UI.NOAUTHENTICATIONSCREEN.CANCELBUTTON
@@ -214091,6 +215431,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.APPLY
 msgctxt "STRINGS.UI.OPTIONS.APPLY"
 msgid "Apply"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.AUTOLOGIN
+msgctxt "STRINGS.UI.OPTIONS.AUTOLOGIN"
+msgid "Auto-Login:"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.AUTOMODS
@@ -214815,7 +216160,7 @@ msgstr ""
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
-msgid "History of Travels"
+msgid "Through the Gateway"
 msgstr ""
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
@@ -214950,7 +216295,7 @@ msgstr ""
 
 #. STRINGS.UI.PLAYER_AVATAR.STEAM
 msgctxt "STRINGS.UI.PLAYER_AVATAR.STEAM"
-msgid "View Steam Profile"
+msgid "View Profile"
 msgstr ""
 
 #. STRINGS.UI.POPUPDIALOG.BODY.DEFAULT
@@ -215218,6 +216563,11 @@ msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY"
 msgid "Please enable the Steam Overlay to purchase clothing sets."
 msgstr ""
 
+#. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY_RAIL
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_BODY_RAIL"
+msgid "Please enable your browser to purchase clothing sets."
+msgstr ""
+
 #. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_HELP
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_HELP"
 msgid "Help"
@@ -215226,6 +216576,11 @@ msgstr ""
 #. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE"
 msgid "Steam Overlay Required"
+msgstr ""
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE_RAIL
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_OVERLAY_REQUIRED_TITLE_RAIL"
+msgid "Browser Required"
 msgstr ""
 
 #. STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_WARNING_CANCEL
@@ -215696,6 +217051,11 @@ msgstr ""
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.7
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.7"
 msgid "Checkmate"
+msgstr ""
+
+#. STRINGS.UI.SANDBOXMENU.AUTOADDLEVEL
+msgctxt "STRINGS.UI.SANDBOXMENU.AUTOADDLEVEL"
+msgid "Always Add %s"
 msgstr ""
 
 #. STRINGS.UI.SANDBOXMENU.AUTUMN
@@ -216826,6 +218186,11 @@ msgstr ""
 #. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4"
 msgid "You are currently in offline mode and cannot resume an online world. Please log in and try again."
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_RAIL"
+msgid "You can only resume an online world when you have a connection to the game servers. Please log in and try again."
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN
