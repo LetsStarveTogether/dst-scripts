@@ -191373,8 +191373,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_1"
 msgid "Mudfish"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_1_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_1_INV"
+msgid "Mudfish"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_MEDIUM_2
 msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_2"
+msgid "Deep Bass"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_2_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_2_INV"
 msgid "Deep Bass"
 msgstr ""
 
@@ -191383,8 +191393,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_3"
 msgid "Dandy Lionfish"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_3_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_3_INV"
+msgid "Dandy Lionfish"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_MEDIUM_4
 msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_4"
+msgid "Black Catfish"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_4_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_4_INV"
 msgid "Black Catfish"
 msgstr ""
 
@@ -191393,8 +191413,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_5"
 msgid "Corn Cod"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_5_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_5_INV"
+msgid "Corn Cod"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_MEDIUM_6
 msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_6"
+msgid "Dappled Koi"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_6_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_6_INV"
 msgid "Dappled Koi"
 msgstr ""
 
@@ -191403,8 +191433,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_7"
 msgid "Golden Koi"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_7_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_7_INV"
+msgid "Golden Koi"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_MEDIUM_8
 msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_8"
+msgid "Ice Bream"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_MEDIUM_8_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_MEDIUM_8_INV"
 msgid "Ice Bream"
 msgstr ""
 
@@ -191413,8 +191453,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_1"
 msgid "Runty Guppy"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_SMALL_1_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_1_INV"
+msgid "Runty Guppy"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_SMALL_2
 msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_2"
+msgid "Needlenosed Squirt"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_SMALL_2_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_2_INV"
 msgid "Needlenosed Squirt"
 msgstr ""
 
@@ -191423,8 +191473,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_3"
 msgid "Bitty Baitfish"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_SMALL_3_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_3_INV"
+msgid "Bitty Baitfish"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_SMALL_4
 msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_4"
+msgid "Smolt Fry"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_SMALL_4_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_4_INV"
 msgid "Smolt Fry"
 msgstr ""
 
@@ -191433,8 +191493,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_5"
 msgid "Popperfish"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_SMALL_5_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_5_INV"
+msgid "Popperfish"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_SMALL_6
 msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_6"
+msgid "Fallounder"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_SMALL_6_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_6_INV"
 msgid "Fallounder"
 msgstr ""
 
@@ -191443,8 +191513,18 @@ msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_7"
 msgid "Bloomfin Tuna"
 msgstr ""
 
+#. STRINGS.NAMES.OCEANFISH_SMALL_7_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_7_INV"
+msgid "Bloomfin Tuna"
+msgstr ""
+
 #. STRINGS.NAMES.OCEANFISH_SMALL_8
 msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_8"
+msgid "Scorching Sunfish"
+msgstr ""
+
+#. STRINGS.NAMES.OCEANFISH_SMALL_8_INV
+msgctxt "STRINGS.NAMES.OCEANFISH_SMALL_8_INV"
 msgid "Scorching Sunfish"
 msgstr ""
 
@@ -195296,6 +195376,11 @@ msgstr ""
 #. STRINGS.NAMES.WOBSTER_SHELLER_DEAD_COOKED
 msgctxt "STRINGS.NAMES.WOBSTER_SHELLER_DEAD_COOKED"
 msgid "Delicious Wobster"
+msgstr ""
+
+#. STRINGS.NAMES.WOBSTER_SHELLER_LAND
+msgctxt "STRINGS.NAMES.WOBSTER_SHELLER_LAND"
+msgid "Wobster"
 msgstr ""
 
 #. STRINGS.NAMES.WOBYBIG
@@ -225330,7 +225415,7 @@ msgstr ""
 
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_DRY
 msgctxt "STRINGS.UI.COOKBOOK.FOOD_EFFECTS_DRY"
-msgid "Disappates moisture"
+msgid "Dissipates moisture"
 msgstr ""
 
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_ELECTRIC_ATTACK
@@ -225345,7 +225430,7 @@ msgstr ""
 
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_HEALTH_REGEN
 msgctxt "STRINGS.UI.COOKBOOK.FOOD_EFFECTS_HEALTH_REGEN"
-msgid "Restores health over time."
+msgid "Restores health over time"
 msgstr ""
 
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_HOT_FOOD
