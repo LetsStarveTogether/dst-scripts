@@ -238866,6 +238866,11 @@ msgctxt "STRINGS.UI.MYSTERYBOXSCREEN.TOOLTIP_BOXES"
 msgid "View the chests in your inventory"
 msgstr "查看你物品栏里的箱子"
 
+#. STRINGS.UI.NETWORKDISCONNECT.ACCOUNTS
+msgctxt "STRINGS.UI.NETWORKDISCONNECT.ACCOUNTS"
+msgid "Account Page"
+msgstr "科雷账户页面"
+
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.APP_OWNERSHIP_CHECK_FAILED"
 msgid "The server says you don't own the game. But you do... right?"
@@ -238878,8 +238883,8 @@ msgstr "你已经断开连接。我们不确定为什么……抱歉！"
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.E_BANNED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_BANNED"
-msgid "Your account has been banned for violating the terms of use."
-msgstr "由于违反使用条款，你的账户已经被禁止。"
+msgid "Your account has been banned for violating the terms of use. Please visit accounts.klei.com to review this issue."
+msgstr "由于违反使用条款，你的账户已经被禁止。请访问 accounts.klei.com查看详情。"
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED"
@@ -242625,6 +242630,11 @@ msgstr "服务器存档栏"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SNAPSHOTS"
 msgid "Rollback"
 msgstr "回档"
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SORT_DATECREATED
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SORT_DATECREATED"
+msgid "Date Created"
+msgstr "生成日期"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SORT_LASTPLAYED"
