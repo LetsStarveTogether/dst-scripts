@@ -213216,11 +213216,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_rainometercircus"
 msgid "Equip this item to change your character's background portrait."
 msgstr "装备此物品以更改你的角色背景画像。"
 
-#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_researchlab2crystal
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_researchlab2crystal"
-msgid "Equip this item to change your character's background portrait.\n\nCrystals hold many unique magical properties."
-msgstr "装备此物品可更改角色的背景画像。\n\n水晶具有神奇的魔效。"
-
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_researchlab3crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_researchlab3crystal"
 msgid "Equip this item to change your character's background portrait."
@@ -213936,11 +213931,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_redlantern_yotp"
 msgid "Set your profile icon to the illuminating Red Lantern."
 msgstr "将你的头像设为闪闪发光的红灯笼。"
 
-#. STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab2_crystal
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab2_crystal"
-msgid "Set your profile icon to the Arcane Crystalarium."
-msgstr "将你的角色图标设为神秘水晶。"
-
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab3_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab3_crystal"
 msgid "Set your profile icon to the mysterious Enchanted Crystal."
@@ -214445,21 +214435,6 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.rainometer_circus"
 msgid "Guess the rainfall."
 msgstr "猜猜看降雨量。"
-
-#. STRINGS.SKIN_DESCRIPTIONS.razor_scissors
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.razor_scissors"
-msgid "They're a shear delight."
-msgstr "剪单的快乐。"
-
-#. STRINGS.SKIN_DESCRIPTIONS.razor_straight
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.razor_straight"
-msgid "Get ready for another close shave."
-msgstr "感受剃刀贴脸后的锋利吧。"
-
-#. STRINGS.SKIN_DESCRIPTIONS.researchlab2_crystal
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_crystal"
-msgid "Crystals have long been thought to hold transformative powers, perfect for alchemical experiments."
-msgstr "一直以来，水晶都被认为具有强大的催化作用，非常适合炼金实验。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod"
@@ -222846,11 +222821,6 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus"
 msgid "The Magnificent Rainometer Portrait"
 msgstr "华丽的雨量计背景"
 
-#. STRINGS.SKIN_NAMES.playerportrait_bg_researchlab2crystal
-msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_researchlab2crystal"
-msgid "Arcane Crystals Portrait"
-msgstr "神秘水晶肖像"
-
 #. STRINGS.SKIN_NAMES.playerportrait_bg_researchlab3crystal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_researchlab3crystal"
 msgid "Enchanted Crystal Portrait"
@@ -223566,11 +223536,6 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_redlantern_yotp"
 msgid "Red Lantern"
 msgstr "红灯笼"
 
-#. STRINGS.SKIN_NAMES.profileflair_researchlab2_crystal
-msgctxt "STRINGS.SKIN_NAMES.profileflair_researchlab2_crystal"
-msgid "Arcane Crystalarium"
-msgstr "神秘水晶"
-
 #. STRINGS.SKIN_NAMES.profileflair_researchlab3_crystal
 msgctxt "STRINGS.SKIN_NAMES.profileflair_researchlab3_crystal"
 msgid "Enchanted Crystal"
@@ -224075,21 +224040,6 @@ msgstr "松软的雨帽"
 msgctxt "STRINGS.SKIN_NAMES.rainometer_circus"
 msgid "The Magnificent Rainometer"
 msgstr "华丽的雨量计"
-
-#. STRINGS.SKIN_NAMES.razor_scissors
-msgctxt "STRINGS.SKIN_NAMES.razor_scissors"
-msgid "Scissors"
-msgstr "剪刀"
-
-#. STRINGS.SKIN_NAMES.razor_straight
-msgctxt "STRINGS.SKIN_NAMES.razor_straight"
-msgid "Straight Razor"
-msgstr "折叠式剃刀"
-
-#. STRINGS.SKIN_NAMES.researchlab2_crystal
-msgctxt "STRINGS.SKIN_NAMES.researchlab2_crystal"
-msgid "Arcane Crystalarium"
-msgstr "神秘水晶"
 
 #. STRINGS.SKIN_NAMES.researchlab2_pod
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_pod"
@@ -227660,11 +227610,6 @@ msgstr "兔屋"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINOMETER"
 msgid "Rainometer"
 msgstr "雨量计"
-
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAZOR
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAZOR"
-msgid "Razor"
-msgstr "剃刀"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.REVIVER
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.REVIVER"
