@@ -92,7 +92,7 @@ end
 
 local function dirt_anim(inst, quad, timer)
 	local x, y, z = inst.Transform:GetWorldPosition()
-	local padding = TUNING.FARM_TILL_TILE_PADDING + 0.1
+	local padding = 0.5
 	local offset_x = math.random()
 	local offset_z = math.random()
 	offset_x = (1 - offset_x*offset_x) * 2

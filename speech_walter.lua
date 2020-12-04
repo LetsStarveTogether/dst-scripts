@@ -3769,6 +3769,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Something must be bothering it.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "I should probable do some weeding.",
     DESCRIBE_PLANTSTRESSORFAMILY = "Maybe it would be happier if it wasn't all alone?",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "I think we might've planted these too close together, Woby.",
     DESCRIBE_PLANTSTRESSORSEASON = "I don't think it likes this weather.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "Do you think it needs some water, Woby?",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "Maybe it needs some better soil...",

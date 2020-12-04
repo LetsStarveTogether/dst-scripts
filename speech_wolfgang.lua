@@ -3770,6 +3770,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Is bothered by something...",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "Wolfgang should tidy up garden.",
     DESCRIBE_PLANTSTRESSORFAMILY = "Is lonely, needs family!",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "Is not enough space for so many plants!",
     DESCRIBE_PLANTSTRESSORSEASON = "Is not good season for this one.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "Plant needs a drink!",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "Is hungry! What do plants like to eat...",

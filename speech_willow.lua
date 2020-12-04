@@ -3776,6 +3776,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "I'd guess there's more than one thing bothering it.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "Ugh, do I really have to weed the garden again?",
     DESCRIBE_PLANTSTRESSORFAMILY = "What's wrong? Don't tell me it's lonely?",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "These plants could use some more personal space.",
     DESCRIBE_PLANTSTRESSORSEASON = "Guess it doesn't like the weather.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "Looking nice and crispy!",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "Ms. Wickerbottom's always going on about nutrients in the soil. Maybe it needs that.",

@@ -3769,6 +3769,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Something's troubling it.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "Perhaps it's time I did some weeding.",
     DESCRIBE_PLANTSTRESSORFAMILY = "I think it needs some company.",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "The garden's a bit crowded, non?",
     DESCRIBE_PLANTSTRESSORSEASON = "Hm... this one might not be in season.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "Would you care for a drink of water?",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "Some fresh nutrients might be just the thing to perk it up.",

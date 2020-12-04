@@ -175,6 +175,7 @@ end
 
 local KILLJOY_PLANT_MUST_TAGS = {"farm_plant_killjoy"}
 local POLLEN_SOURCE_NOT_TAGS = {"farm_plant_killjoy"}
+local OVERCROWDING_TAGS = {"farm_plant"}
 
 local function KillJoyStressTest(inst, currentstress, apply)
 	local x, y, z = inst.Transform:GetWorldPosition()
@@ -185,6 +186,21 @@ local function FamilyStressTest(inst, currentstress, apply)
 	local x, y, z = inst.Transform:GetWorldPosition()
 	local num_plants = inst.plant_def.family_min_count > 0 and #TheSim:FindEntities(x, y, z, inst.plant_def.family_check_dist, {inst.plant_def.plant_type_tag}, POLLEN_SOURCE_NOT_TAGS) or 0   -- family_min_count includes self
 	return num_plants < inst.plant_def.family_min_count
+end
+
+local function OvercrowdingStressTest(inst, currentstress, apply)
+	local ents = TheWorld.Map:GetEntitiesOnTileAtPoint(inst.Transform:GetWorldPosition())
+	local count = 0
+	for i = 1, #ents do
+		if ents[i]:HasTag("farm_plant") then
+			count = count + 1
+			if count > TUNING.FARM_PANT_OVERCROWDING_MAX_PLANTS then
+				return true
+			end
+
+		end
+	end
+	return false
 end
 
 local function SeasonStressTest(inst, currentstress, apply)
@@ -219,6 +235,9 @@ local function MakeStressCheckpoint(inst, is_final_stage)
 
 		-- family
 		inst.components.farmplantstress:SetStressed("family", FamilyStressTest(inst, nil, true))
+
+		-- overcrowding
+		inst.components.farmplantstress:SetStressed("overcrowding", OvercrowdingStressTest(inst, nil, true))
 
 		-- season
 		inst.components.farmplantstress:SetStressed("season", SeasonStressTest(inst, nil, true))
@@ -335,7 +354,7 @@ local function SetupLoot(lootdropper)
 
 		if inst.is_oversized then
 			lootdropper:SetLoot({inst.plant_def.product_oversized})
-		elseif plant_stress == FARM_PLANT_STRESS.LOW  or plant_stress == FARM_PLANT_STRESS.NONE then
+		elseif plant_stress == FARM_PLANT_STRESS.LOW or plant_stress == FARM_PLANT_STRESS.NONE then
 			lootdropper:SetLoot({inst.plant_def.product, inst.plant_def.seed, inst.plant_def.seed})
 		elseif plant_stress == FARM_PLANT_STRESS.MODERATE then
 			lootdropper:SetLoot({inst.plant_def.product, inst.plant_def.seed})
@@ -450,7 +469,7 @@ local GROWTH_STAGES =
 			inst.components.farmplanttendable:SetTendable(stage_data.tendable)
 
 			inst:UpdateResearchStage(stage)
-            PlayStageAnim(inst, "sprout", inst._grow_from_rotten and "grow_sprout" or nil) -- todo: change the grow_sprout animation once its ready
+            PlayStageAnim(inst, "sprout", inst._grow_from_rotten and "rot_to_sprout" or nil)
         end,
 		dig_fx = "dirt_puff",
 		inspect_str = "GROWING",
@@ -734,6 +753,7 @@ local function MakePlant(plant_def)
 		inst.components.farmplantstress:AddStressCategory("moisture", MoistureStressTest)
 		inst.components.farmplantstress:AddStressCategory("killjoys", KillJoyStressTest)
 		inst.components.farmplantstress:AddStressCategory("family", FamilyStressTest)
+		inst.components.farmplantstress:AddStressCategory("overcrowding", OvercrowdingStressTest)
 		inst.components.farmplantstress:AddStressCategory("season", SeasonStressTest)
 		inst.components.farmplantstress:AddStressCategory("happiness", HappinessStressTest, on_happiness_changed)
 

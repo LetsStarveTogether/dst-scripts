@@ -3769,6 +3769,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Everyone's got problems, pal.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "Maybe if the garden wasn't filled with weeds...",
     DESCRIBE_PLANTSTRESSORFAMILY = "It needs to be surrounded by others of its ilk.",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "The garden might be overcrowded. Perhaps I should thin it out a bit.",
     DESCRIBE_PLANTSTRESSORSEASON = "The weather is too harsh for it.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "It needs water again? Ugh, the toiling never ends.",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "Richer soil might be needed.",

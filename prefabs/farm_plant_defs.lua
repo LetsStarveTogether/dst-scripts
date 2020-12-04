@@ -120,28 +120,29 @@ PLANT_DEFS.onion.good_seasons			= {autumn = true,					spring = true,	summer = tr
 PLANT_DEFS.pepper.good_seasons			= {autumn = true,									summer = true}
 PLANT_DEFS.pomegranate.good_seasons		= {									spring = true,	summer = true}
 
-local m = TUNING.FARM_PLANT_CONSUME_NUTRIENT_MED
-local h = TUNING.FARM_PLANT_CONSUME_NUTRIENT_HIGH
-
 -- Nutrients
-PLANT_DEFS.randomseed.nutrient_consumption		= {0, 0, 0}	
+local S = TUNING.FARM_PLANT_CONSUME_NUTRIENT_LOW
+local M = TUNING.FARM_PLANT_CONSUME_NUTRIENT_MED
+local L = TUNING.FARM_PLANT_CONSUME_NUTRIENT_HIGH
+
+PLANT_DEFS.randomseed.nutrient_consumption		= {0, 0, 0}
 --													  	 
-PLANT_DEFS.carrot.nutrient_consumption			= {m, 0, 0}	
-PLANT_DEFS.corn.nutrient_consumption			= {0, m, 0}	
-PLANT_DEFS.potato.nutrient_consumption			= {0, 0, m}	
-PLANT_DEFS.tomato.nutrient_consumption			= {0, m, 0}	
+PLANT_DEFS.carrot.nutrient_consumption			= {M, 0, 0}
+PLANT_DEFS.corn.nutrient_consumption			= {0, M, 0}
+PLANT_DEFS.potato.nutrient_consumption			= {0, 0, M}
+PLANT_DEFS.tomato.nutrient_consumption			= {S, S, 0}
 --													  	 
-PLANT_DEFS.asparagus.nutrient_consumption		= {m, 0, 0}	
-PLANT_DEFS.eggplant.nutrient_consumption		= {0, 0, m}	
-PLANT_DEFS.pumpkin.nutrient_consumption			= {0, m, 0}	
-PLANT_DEFS.watermelon.nutrient_consumption		= {0, 0, m}	
+PLANT_DEFS.asparagus.nutrient_consumption		= {0, M, 0}
+PLANT_DEFS.eggplant.nutrient_consumption		= {0, 0, M}
+PLANT_DEFS.pumpkin.nutrient_consumption			= {M, 0, 0}
+PLANT_DEFS.watermelon.nutrient_consumption		= {0, S, S}
 --													  	 
-PLANT_DEFS.dragonfruit.nutrient_consumption		= {h, 0, 0}	
-PLANT_DEFS.durian.nutrient_consumption			= {0, h, 0}	
-PLANT_DEFS.garlic.nutrient_consumption			= {0, h, 0}	
-PLANT_DEFS.onion.nutrient_consumption			= {0, 0, h}	
-PLANT_DEFS.pepper.nutrient_consumption			= {0, 0, h}	
-PLANT_DEFS.pomegranate.nutrient_consumption		= {h, 0, 0}	
+PLANT_DEFS.dragonfruit.nutrient_consumption		= {0, 0, L}
+PLANT_DEFS.durian.nutrient_consumption			= {0, L, 0}
+PLANT_DEFS.garlic.nutrient_consumption			= {0, L, 0}
+PLANT_DEFS.onion.nutrient_consumption			= {L, 0, 0}
+PLANT_DEFS.pepper.nutrient_consumption			= {0, 0, L}
+PLANT_DEFS.pomegranate.nutrient_consumption		= {L, 0, 0}
 
 for _, data in pairs(PLANT_DEFS) do
 	data.nutrient_restoration = {}

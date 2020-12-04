@@ -103,7 +103,6 @@ Recipe("fertilizer", {Ingredient("poop", 3), Ingredient("boneshard", 2), Ingredi
 Recipe("soil_amender", {Ingredient("messagebottleempty", 1), Ingredient("kelp", 1), Ingredient("ash", 1)}, RECIPETABS.FARM, TECH.SCIENCE_ONE)
 Recipe("compostingbin", {Ingredient("boards", 3), Ingredient("spoiled_food", 1), Ingredient("cutgrass", 1)}, RECIPETABS.FARM, TECH.SCIENCE_ONE, "compostingbin_placer")
 Recipe("plantregistryhat", {Ingredient("fertilizer", 1), Ingredient("seeds", 3), Ingredient("transistor", 1)}, RECIPETABS.FARM, TECH.SCIENCE_ONE)
-Recipe("seedpouch", {Ingredient("slurtle_shellpieces", 2), Ingredient("cutgrass", 4), Ingredient("seeds", 2)}, RECIPETABS.FARM, TECH.SCIENCE_ONE)
 
 Recipe("mushroom_farm", {Ingredient("spoiled_food", 8),Ingredient("poop", 5),Ingredient("livinglog", 2)}, RECIPETABS.FARM, TECH.SCIENCE_ONE, "mushroom_farm_placer", 2.5)
 Recipe("beebox", {Ingredient("boards", 2),Ingredient("honeycomb", 1),Ingredient("bee", 4)}, RECIPETABS.FARM, TECH.SCIENCE_ONE, "beebox_placer")
@@ -138,6 +137,7 @@ Recipe("bundlewrap", {Ingredient("waxpaper", 1), Ingredient("rope", 1)}, RECIPET
 Recipe("spicepack", {Ingredient("cutgrass", 4), Ingredient("twigs", 4), Ingredient("nitre", 2)}, RECIPETABS.SURVIVAL, TECH.NONE, nil, nil, nil, nil, "masterchef")
 Recipe("backpack", {Ingredient("cutgrass", 4), Ingredient("twigs", 4)}, RECIPETABS.SURVIVAL, TECH.SCIENCE_ONE)
 Recipe("candybag", {Ingredient("cutgrass", 6)}, RECIPETABS.SURVIVAL, TECH.HALLOWED_NIGHTS)
+Recipe("seedpouch", {Ingredient("slurtle_shellpieces", 2), Ingredient("cutgrass", 4), Ingredient("seeds", 2)}, RECIPETABS.SURVIVAL, TECH.SCIENCE_TWO)
 Recipe("piggyback", {Ingredient("pigskin", 4), Ingredient("silk", 6), Ingredient("rope", 2)}, RECIPETABS.SURVIVAL, TECH.SCIENCE_TWO)
 Recipe("icepack", {Ingredient("bearger_fur", 1), Ingredient("gears", 1), Ingredient("transistor", 1)}, RECIPETABS.SURVIVAL, TECH.SCIENCE_TWO)
 Recipe("bedroll_straw", {Ingredient("cutgrass", 6), Ingredient("rope", 1)}, RECIPETABS.SURVIVAL, TECH.SCIENCE_ONE)

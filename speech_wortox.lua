@@ -3775,6 +3775,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Something's bothering our budding buddy.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "Something around needs to be pulled from the ground.",
     DESCRIBE_PLANTSTRESSORFAMILY = "It's feeling quite down with no plants like it around.",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "From the looks of this place, I'd say it needs more space.",
     DESCRIBE_PLANTSTRESSORSEASON = "This plant could be better, it doesn't like the weather.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "It needs a drink, I think.",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "It needs better soil or our hard work will be spoiled!",

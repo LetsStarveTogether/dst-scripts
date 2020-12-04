@@ -827,7 +827,7 @@ for y = 0, 6 do
 end
 
 function params.seedpouch.itemtestfn(container, item, slot)
-    return item.prefab == "seeds" or string.match(item.prefab, "_seeds")
+    return item.prefab == "seeds" or string.match(item.prefab, "_seeds") or item:HasTag("treeseed")
 end
 
 params.seedpouch.priorityfn = params.seedpouch.itemtestfn

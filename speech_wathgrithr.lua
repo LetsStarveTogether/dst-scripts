@@ -3769,6 +3769,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Something hinders its growth.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "It seems to harbor resentment for its weed brethren.",
     DESCRIBE_PLANTSTRESSORFAMILY = "Perhaps it needs the company of its kin.",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "This small patch of dirt cannot sustain all these non-meats.",
     DESCRIBE_PLANTSTRESSORSEASON = "It doesn't have what it takes to brave the seasonal elements.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "It thirsts for water.",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "You are unhappy with the dirt you have? Do not look to me to help you!",

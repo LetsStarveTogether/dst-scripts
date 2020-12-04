@@ -3770,6 +3770,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Looks like there's a thing or two I should fix around here.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "I guess the garden's feeling a bit cluttered.",
     DESCRIBE_PLANTSTRESSORFAMILY = "Maybe if I put some similar plants around...",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "There's so many plants packed in this garden, there's not enough room to grow.",
     DESCRIBE_PLANTSTRESSORSEASON = "It just wasn't made for this kind of season.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "It could use some more water, eh?",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "Might not be enough nutrients in the soil...",

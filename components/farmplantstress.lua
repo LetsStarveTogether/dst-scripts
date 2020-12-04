@@ -56,9 +56,7 @@ local FarmPlantStress = Class(function(self, inst)
 	self.stressors_testfns = {}
 	self.stressor_fns = {}
 	self.stress_points = 0
-	self.max_stress_points = 0
 	self.num_stressors = 0
-	self.checkpoint_stress_points = 0
 
 	self.final_stress_state = nil
 
@@ -81,9 +79,7 @@ function FarmPlantStress:Reset()
 		self.stressors[stressor] = true -- reset to stressed
 	end
 
-	self.checkpoint_stress_points = 0
 	self.stress_points = 0
-	self.max_stress_points = 0
 	self.final_stress_state = nil
 end
 
@@ -105,29 +101,29 @@ function FarmPlantStress:MakeCheckpoint()
 		end
 	end
 
-	self.checkpoint_stress_points = 0
-
+	local stress = 0
 	for stressor, stressed in pairs(self.stressors) do
 		if stressed then
-			self.checkpoint_stress_points = self.checkpoint_stress_points + 1
+			stress = stress + 1
 		else
 			self.stressors[stressor] = true -- reset to stressed
 		end
 
 	end
 
-	self.stress_points = self.stress_points + self.checkpoint_stress_points
-	self.max_stress_points = self.max_stress_points + self.num_stressors
+	self.stress_points = self.stress_points + stress
+
+	-- debugging data
+	self.checkpoint_stress_points = stress
+	self.max_stress_points = (self.max_stress_points or 0) + self.num_stressors
 end
 
 function FarmPlantStress:CalcFinalStressState()
-	local stress = self.max_stress_points > 0 and (self.stress_points / self.max_stress_points) or 0
-	self.final_stress_state = stress <= .051 and FARM_PLANT_STRESS.NONE
-							or stress <= .251 and FARM_PLANT_STRESS.LOW
-							or stress <= .501 and FARM_PLANT_STRESS.MODERATE
-							or FARM_PLANT_STRESS.HIGH
-
-	--self.final_stress_state = FARM_PLANT_STRESS.NONE
+	local stress = self.stress_points
+	self.final_stress_state = stress <= 1 and FARM_PLANT_STRESS.NONE		-- allow one mistake
+							or stress <= 6 and FARM_PLANT_STRESS.LOW		-- one and half categories can fail, take your pick
+							or stress <= 11 and FARM_PLANT_STRESS.MODERATE  -- almost 3 categories can fail
+							or FARM_PLANT_STRESS.HIGH						-- you aren't even trying now, are you?
 
 	return self.final_stress_state
 end
@@ -173,19 +169,15 @@ end
 function FarmPlantStress:OnSave()
 	return {
 		final_stress_state = self.final_stress_state,
-		max_stress_points = self.max_stress_points,
 		stress_points = self.stress_points,
 		stressors = self.stressors,
-		checkpoint = self.checkpoint_stress_points,
 	}
 end
 
 function FarmPlantStress:OnLoad(data)
 	if data ~= nil then
 		self.final_stress_state = data.final_stress_state
-		self.max_stress_points = data.max_stress_points
 		self.stress_points = data.stress_points
-		self.checkpoint_stress_points = data.checkpoint
 		for k, _ in pairs(self.stressors) do
 			self.stressors[k] = data.stressors[k]
 		end
@@ -194,7 +186,13 @@ end
 
 function FarmPlantStress:GetDebugString()
 	local final_stress = self.final_stress_state ~= nil and (", Final: " .. tostring(table.invert(FARM_PLANT_STRESS)[self.final_stress_state])) or ""
-	return "" .. tostring(self.stress_points) .. "/" .. tostring(self.max_stress_points) .. "(" .. string.format("%.3f", self.max_stress_points > 0 and (self.stress_points / self.max_stress_points) or 0) .. "), Checkpint stress: " .. tostring(self.checkpoint_stress_points) .. final_stress .. ", #Cats: " .. tostring(GetTableSize(self.stressors))
+	local str = "" .. tostring(self.stress_points) .. "/" .. tostring(self.max_stress_points or 0) .. " Prev Checkpoint:" .. tostring(self.checkpoint_stress_points) .. final_stress
+
+	for stressor, testfn in pairs(self.stressors_testfns) do
+		str = str .. "\n  " .. stressor .. ":".. (testfn(self.inst, self.stressors[stressor], false) and "stressed" or "calm")
+	end
+
+	return str
 end
 
 return FarmPlantStress

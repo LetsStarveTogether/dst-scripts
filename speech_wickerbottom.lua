@@ -3769,6 +3769,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "It seems to be suffering from two different stressors at once.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "I'll have to remove some of those troublesome weeds.",
     DESCRIBE_PLANTSTRESSORFAMILY = "These grow best when surrounded by others of its particular species.",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "The density of plants should be reduced to avoid competition for nutrients.",
     DESCRIBE_PLANTSTRESSORSEASON = "I'm afraid this plant might not be in season.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "It could use a little hydration.",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "It requires more nutrient-rich soil.",

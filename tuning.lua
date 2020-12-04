@@ -4567,8 +4567,7 @@ function Tune(overrides)
         },
 
 		-- Farming
-		FARM_TILL_SPACING = 1.5,
-		FARM_TILL_TILE_PADDING = 0.4,
+		FARM_TILL_SPACING = 1.25,
 
 		FARM_PLANT_PHYSICS_RADIUS = 0.5,
 
@@ -4615,6 +4614,8 @@ function Tune(overrides)
 
 		FARM_PLANT_KILLJOY_RADIUS = 6,
 		FARM_PLANT_KILLJOY_TOLERANCE = 0,
+
+		FARM_PANT_OVERCROWDING_MAX_PLANTS = 10,
 
 		FARM_PLANT_SAME_FAMILY_MIN = 4,  -- includes the plant doing the test
         FARM_PLANT_SAME_FAMILY_RADIUS = 4,

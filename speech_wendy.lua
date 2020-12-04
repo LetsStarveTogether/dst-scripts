@@ -3773,6 +3773,7 @@ return{
     DESCRIBE_PLANTSTRESSED = "Something around is making its life quite difficult.",
     DESCRIBE_PLANTSTRESSORKILLJOYS = "The garden is a bit untidy...",
     DESCRIBE_PLANTSTRESSORFAMILY = "It's lonely... it needs family...",
+    DESCRIBE_PLANTSTRESSOROVERCROWDING = "It's too close to the other plants... it's suffocating...",
     DESCRIBE_PLANTSTRESSORSEASON = "It was not made to withstand the harshness of this season.",
     DESCRIBE_PLANTSTRESSORMOISTURE = "Perhaps it might need some water?",
     DESCRIBE_PLANTSTRESSORNUTRIENTS = "It is starved for nutrients.",
