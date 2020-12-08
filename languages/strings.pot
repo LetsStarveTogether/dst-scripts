@@ -86315,7 +86315,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL"
-msgid "I'm afriad this specimen simply doesn't have enough mass to compete."
+msgid "I'm afraid this specimen simply doesn't have enough mass to compete."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.EMPTY
@@ -212455,7 +212455,7 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.NUTRIENTSGOGGLESHAT
 msgctxt "STRINGS.RECIPE_DESC.NUTRIENTSGOGGLESHAT"
-msgid "Visualize your garden's success."
+msgid "Enhanced with Ancient farming techniques."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.OAR
@@ -248671,6 +248671,26 @@ msgstr ""
 #. STRINGS.UI.PLANTREGISTRY.EFFECTS.NONE
 msgctxt "STRINGS.UI.PLANTREGISTRY.EFFECTS.NONE"
 msgid "None"
+msgstr ""
+
+#. STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_FIRENETTLE
+msgctxt "STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_FIRENETTLE"
+msgid "These nettles can cause quite the burning sensation."
+msgstr ""
+
+#. STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_FORGETMELOTS
+msgctxt "STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_FORGETMELOTS"
+msgid "Has a tendency to come back when dug up."
+msgstr ""
+
+#. STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_IVY
+msgctxt "STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_IVY"
+msgid "Attacks survivors when they disturb a nearby plant"
+msgstr ""
+
+#. STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED
+msgctxt "STRINGS.UI.PLANTREGISTRY.EFFECTS.WEED_TILLWEED"
+msgid "Its roots make a real mess of things, but its flowers are said to have healing properties."
 msgstr ""
 
 #. STRINGS.UI.PLANTREGISTRY.FARMPLANTS.DESCRIPTION
