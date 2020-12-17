@@ -205755,12 +205755,12 @@ msgstr ""
 
 #. STRINGS.NAMES.PREMIUMWATERINGCAN
 msgctxt "STRINGS.NAMES.PREMIUMWATERINGCAN"
-msgid "Waterfowl Can"
+msgid "Empty Waterfowl Can"
 msgstr ""
 
-#. STRINGS.NAMES.PREMIUMWATERINGCAN_EMPTY
-msgctxt "STRINGS.NAMES.PREMIUMWATERINGCAN_EMPTY"
-msgid "Empty Waterfowl Can"
+#. STRINGS.NAMES.PREMIUMWATERINGCAN_NOT_EMPTY
+msgctxt "STRINGS.NAMES.PREMIUMWATERINGCAN_NOT_EMPTY"
+msgid "Waterfowl Can"
 msgstr ""
 
 #. STRINGS.NAMES.PUFFIN
@@ -208895,12 +208895,12 @@ msgstr ""
 
 #. STRINGS.NAMES.WATERINGCAN
 msgctxt "STRINGS.NAMES.WATERINGCAN"
-msgid "Watering Can"
+msgid "Empty Watering Can"
 msgstr ""
 
-#. STRINGS.NAMES.WATERINGCAN_EMPTY
-msgctxt "STRINGS.NAMES.WATERINGCAN_EMPTY"
-msgid "Empty Watering Can"
+#. STRINGS.NAMES.WATERINGCAN_NOT_EMPTY
+msgctxt "STRINGS.NAMES.WATERINGCAN_NOT_EMPTY"
+msgid "Watering Can"
 msgstr ""
 
 #. STRINGS.NAMES.WATERMELON
@@ -219473,6 +219473,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dragonfly_yule"
 msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_farming
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_farming"
+msgid "The days have been filled with tilling and toil,\nGathering seeds and nourishing soil,\nIn hopes that the crops will produce at their best,\n(Just make sure that you keep a sharp eye out for pests!)"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_feast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_feast"
 msgid "The food is prepared, the table is set,\nGather round for a feast that you won't soon forget."
@@ -219593,6 +219598,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer"
 msgid "Abigail could always find a way to bring a smile to Wendy's face... sadly, she would later become the reason it went away for good."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer2"
+msgid "Fond memories..."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian"
 msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
@@ -219601,6 +219611,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer"
 msgid "Trying to explain this mime's psyche would be a fool's errand... an April one, in fact."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer2"
+msgid "Balloons are never as sturdy as one's imagination might suggest."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian
@@ -219726,6 +219741,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer"
 msgid "Though some folks might think the swamp's no place to be, our little friend Wurt would kindly disagree."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer2"
+msgid "The cold wind howls. Trees stand tall and bare, their skeletal branches silhouetted against a broken moon."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma
@@ -229323,6 +229343,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_dragonfly_yule"
 msgid "Winter's Feastfly"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_farming
+msgctxt "STRINGS.SKIN_NAMES.loading_farming"
+msgid "Reap What You Sow"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_feast
 msgctxt "STRINGS.SKIN_NAMES.loading_feast"
 msgid "A Fanciful Feast"
@@ -229443,6 +229468,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wendy_trailer"
 msgid "Wish You Were Here"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_wendy_trailer2
+msgctxt "STRINGS.SKIN_NAMES.loading_wendy_trailer2"
+msgid "Abigail"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_victorian"
 msgid "Mourning Weeds Wendy"
@@ -229451,6 +229481,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.loading_wes_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer"
 msgid "Inflated Imagination"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wes_trailer2
+msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer2"
+msgid "Bearger"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_wes_victorian
@@ -229576,6 +229611,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.loading_wurt_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_wurt_trailer"
 msgid "A Romp in the Swamp"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wurt_trailer2
+msgctxt "STRINGS.SKIN_NAMES.loading_wurt_trailer2"
+msgid "The Monster Marsh"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_wx_magma

@@ -205758,13 +205758,13 @@ msgstr "芝士蛋糕"
 
 #. STRINGS.NAMES.PREMIUMWATERINGCAN
 msgctxt "STRINGS.NAMES.PREMIUMWATERINGCAN"
-msgid "Waterfowl Can"
-msgstr "鸟嘴壶"
-
-#. STRINGS.NAMES.PREMIUMWATERINGCAN_EMPTY
-msgctxt "STRINGS.NAMES.PREMIUMWATERINGCAN_EMPTY"
 msgid "Empty Waterfowl Can"
 msgstr "空鸟嘴壶"
+
+#. STRINGS.NAMES.PREMIUMWATERINGCAN_NOT_EMPTY
+msgctxt "STRINGS.NAMES.PREMIUMWATERINGCAN_NOT_EMPTY"
+msgid "Waterfowl Can"
+msgstr "鸟嘴壶"
 
 #. STRINGS.NAMES.PUFFIN
 msgctxt "STRINGS.NAMES.PUFFIN"
@@ -208898,13 +208898,13 @@ msgstr "水球"
 
 #. STRINGS.NAMES.WATERINGCAN
 msgctxt "STRINGS.NAMES.WATERINGCAN"
-msgid "Watering Can"
-msgstr "浇水壶"
-
-#. STRINGS.NAMES.WATERINGCAN_EMPTY
-msgctxt "STRINGS.NAMES.WATERINGCAN_EMPTY"
 msgid "Empty Watering Can"
 msgstr "空浇水壶"
+
+#. STRINGS.NAMES.WATERINGCAN_NOT_EMPTY
+msgctxt "STRINGS.NAMES.WATERINGCAN_NOT_EMPTY"
+msgid "Watering Can"
+msgstr "浇水壶"
 
 #. STRINGS.NAMES.WATERMELON
 msgctxt "STRINGS.NAMES.WATERMELON"
@@ -219476,6 +219476,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dragonfly_yule"
 msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
 msgstr "岩浆在寒冷的冬夜燃烧，\n盛宴龙蝇在炽热的火焰中飞翔。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_farming
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_farming"
+msgid "The days have been filled with tilling and toil,\nGathering seeds and nourishing soil,\nIn hopes that the crops will produce at their best,\n(Just make sure that you keep a sharp eye out for pests!)"
+msgstr "各位冒险家们近来耕作很辛苦，\n收集着种子、滋养着泥土，\n为的就是能种出最好的农作物,\n(千万别让害虫伤害了植株！)"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_feast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_feast"
 msgid "The food is prepared, the table is set,\nGather round for a feast that you won't soon forget."
@@ -219596,6 +219601,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer"
 msgid "Abigail could always find a way to bring a smile to Wendy's face... sadly, she would later become the reason it went away for good."
 msgstr "阿比盖尔总能让温蒂笑出来……可惜后来她却成了温蒂不再笑的原因。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_trailer2"
+msgid "Fond memories..."
+msgstr "温馨的回忆……"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian"
 msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
@@ -219605,6 +219615,11 @@ msgstr "温蒂在细致考究的哀悼仪式中得到一种奇怪的慰藉。\n�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer"
 msgid "Trying to explain this mime's psyche would be a fool's errand... an April one, in fact."
 msgstr "揣测这个小丑的心理是愚人做的事情……尤其是在四月的一号。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer2"
+msgid "Balloons are never as sturdy as one's imagination might suggest."
+msgstr "气球远远没有想象中那么坚固。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian"
@@ -219730,6 +219745,11 @@ msgstr "沃拓克斯很爱恶作剧，可是有点过了火……"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer"
 msgid "Though some folks might think the swamp's no place to be, our little friend Wurt would kindly disagree."
 msgstr "有人也许会对沼泽褒贬不一，沃特却对它乐此不疲。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer2"
+msgid "The cold wind howls. Trees stand tall and bare, their skeletal branches silhouetted against a broken moon."
+msgstr "寒风呼啸。光秃秃的树木高高耸立着，残月下，树枝的轮廓形如白骨。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma"
@@ -229326,6 +229346,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_dragonfly_yule"
 msgid "Winter's Feastfly"
 msgstr "冬季盛宴龙蝇"
 
+#. STRINGS.SKIN_NAMES.loading_farming
+msgctxt "STRINGS.SKIN_NAMES.loading_farming"
+msgid "Reap What You Sow"
+msgstr "种豆得豆"
+
 #. STRINGS.SKIN_NAMES.loading_feast
 msgctxt "STRINGS.SKIN_NAMES.loading_feast"
 msgid "A Fanciful Feast"
@@ -229446,6 +229471,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wendy_trailer"
 msgid "Wish You Were Here"
 msgstr "多希望你在"
 
+#. STRINGS.SKIN_NAMES.loading_wendy_trailer2
+msgctxt "STRINGS.SKIN_NAMES.loading_wendy_trailer2"
+msgid "Abigail"
+msgstr "阿比盖尔"
+
 #. STRINGS.SKIN_NAMES.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_victorian"
 msgid "Mourning Weeds Wendy"
@@ -229455,6 +229485,11 @@ msgstr "丧服温蒂"
 msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer"
 msgid "Inflated Imagination"
 msgstr "自我膨胀的想象"
+
+#. STRINGS.SKIN_NAMES.loading_wes_trailer2
+msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer2"
+msgid "Bearger"
+msgstr "熊獾"
 
 #. STRINGS.SKIN_NAMES.loading_wes_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wes_victorian"
@@ -229580,6 +229615,11 @@ msgstr "占有"
 msgctxt "STRINGS.SKIN_NAMES.loading_wurt_trailer"
 msgid "A Romp in the Swamp"
 msgstr "沼泽姑娘"
+
+#. STRINGS.SKIN_NAMES.loading_wurt_trailer2
+msgctxt "STRINGS.SKIN_NAMES.loading_wurt_trailer2"
+msgid "The Monster Marsh"
+msgstr "怪兽沼泽"
 
 #. STRINGS.SKIN_NAMES.loading_wx_magma
 msgctxt "STRINGS.SKIN_NAMES.loading_wx_magma"
