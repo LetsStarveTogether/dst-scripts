@@ -220543,6 +220543,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking"
 msgid "The lingering Pig King smell is actually quite pleasant."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking_alt"
+msgid "The lingering Pig King smell is actually quite pleasant."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.beehat_mourning
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beehat_mourning"
 msgid "For the fashionably morose."
@@ -228398,14 +228403,34 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2"
 msgid "Alas, some daggers through the heart are more literal than others."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2alt"
+msgid "Alas, some daggers through the heart are more literal than others."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3"
+msgid "A stake in your heart that actually heals the undead."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3alt"
 msgid "A stake in your heart that actually heals the undead."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4"
 msgid "A heart, ripped out and offered to another."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4alt"
+msgid "A heart, ripped out and offered to another."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_alt"
+msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy
@@ -228570,6 +228595,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat"
+msgid "A torch made in honor of the clever Carrat."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt"
 msgid "A torch made in honor of the clever Carrat."
 msgstr ""
 
@@ -229813,6 +229843,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppy"
 msgid "Happiness is a warm puppy hat."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppyalt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppyalt"
+msgid "Happiness is a warm puppy hat."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.winterhat_pink_hibiscus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_pink_hibiscus"
 msgid "Doesn't keep your head any warmer than a regular winter hat, but gosh if it isn't just the cutest."
@@ -229825,6 +229860,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster"
+msgid "This winter hat is strangely reminiscent of a small feathered friend."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster_alt"
 msgid "This winter hat is strangely reminiscent of a small feathered friend."
 msgstr ""
 
@@ -230790,6 +230830,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.beefalohat_pigking
 msgctxt "STRINGS.SKIN_NAMES.beefalohat_pigking"
+msgid "Pig King Hat"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.beefalohat_pigking_alt
+msgctxt "STRINGS.SKIN_NAMES.beefalohat_pigking_alt"
 msgid "Pig King Hat"
 msgstr ""
 
@@ -238648,14 +238693,34 @@ msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_2"
 msgid "Daggered Heart"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.reviver_cupid_2alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_2alt"
+msgid "Daggered Heart"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.reviver_cupid_3
 msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_3"
+msgid "Staked Heart"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.reviver_cupid_3alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_3alt"
 msgid "Staked Heart"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.reviver_cupid_4
 msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_4"
 msgid "Stolen Heart"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.reviver_cupid_4alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_4alt"
+msgid "Stolen Heart"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.reviver_cupid_alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_alt"
+msgid "Cherub's Heart"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.ruins_bat_heavy
@@ -238820,6 +238885,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.torch_carrat
 msgctxt "STRINGS.SKIN_NAMES.torch_carrat"
+msgid "Carrat Torch"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.torch_carrat_alt
+msgctxt "STRINGS.SKIN_NAMES.torch_carrat_alt"
 msgid "Carrat Torch"
 msgstr ""
 
@@ -240063,6 +240133,11 @@ msgctxt "STRINGS.SKIN_NAMES.winterhat_fancy_puppy"
 msgid "Knitted Puppy Hat"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.winterhat_fancy_puppyalt
+msgctxt "STRINGS.SKIN_NAMES.winterhat_fancy_puppyalt"
+msgid "Knitted Puppy Hat"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.winterhat_pink_hibiscus
 msgctxt "STRINGS.SKIN_NAMES.winterhat_pink_hibiscus"
 msgid "Pink Winter Hat"
@@ -240075,6 +240150,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.winterhat_rooster
 msgctxt "STRINGS.SKIN_NAMES.winterhat_rooster"
+msgid "Clucky Winter Hat"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.winterhat_rooster_alt
+msgctxt "STRINGS.SKIN_NAMES.winterhat_rooster_alt"
 msgid "Clucky Winter Hat"
 msgstr ""
 

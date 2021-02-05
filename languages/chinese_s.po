@@ -220546,6 +220546,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking"
 msgid "The lingering Pig King smell is actually quite pleasant."
 msgstr "散不去猪王的味道真是好闻。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking_alt"
+msgid "The lingering Pig King smell is actually quite pleasant."
+msgstr "散不去猪王的味道真是好闻。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.beehat_mourning
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beehat_mourning"
 msgid "For the fashionably morose."
@@ -228401,8 +228406,18 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2"
 msgid "Alas, some daggers through the heart are more literal than others."
 msgstr "唉，有些利刃穿心的情况真的不是比喻。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2alt"
+msgid "Alas, some daggers through the heart are more literal than others."
+msgstr "唉，有些利刃穿心的情况真的不是比喻。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3"
+msgid "A stake in your heart that actually heals the undead."
+msgstr "你心中柔软的一块，能治愈亡灵。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3alt"
 msgid "A stake in your heart that actually heals the undead."
 msgstr "你心中柔软的一块，能治愈亡灵。"
 
@@ -228410,6 +228425,16 @@ msgstr "你心中柔软的一块，能治愈亡灵。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4"
 msgid "A heart, ripped out and offered to another."
 msgstr "一颗挖出来献给别人的心。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_4alt"
+msgid "A heart, ripped out and offered to another."
+msgstr "一颗挖出来献给别人的心。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_alt"
+msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
+msgstr "厄运对这颗悲惨、饱受折磨的心灵造成了伤害。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy"
@@ -228573,6 +228598,11 @@ msgstr "真金火炼的姐妹情的象征。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat"
+msgid "A torch made in honor of the clever Carrat."
+msgstr "以胡萝卜鼠的荣誉打造的火炬。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt"
 msgid "A torch made in honor of the clever Carrat."
 msgstr "以胡萝卜鼠的荣誉打造的火炬。"
 
@@ -229816,6 +229846,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppy"
 msgid "Happiness is a warm puppy hat."
 msgstr "幸福就是一顶暖暖的小狗帽子。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppyalt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppyalt"
+msgid "Happiness is a warm puppy hat."
+msgstr "幸福就是一顶暖暖的小狗帽子。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.winterhat_pink_hibiscus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_pink_hibiscus"
 msgid "Doesn't keep your head any warmer than a regular winter hat, but gosh if it isn't just the cutest."
@@ -229828,6 +229863,11 @@ msgstr "这个李子布丁帽子里面没有李子。只是一把葡萄干。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster"
+msgid "This winter hat is strangely reminiscent of a small feathered friend."
+msgstr "这顶冬季帽子奇怪地是对一位有羽毛的小朋友的怀旧。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster_alt"
 msgid "This winter hat is strangely reminiscent of a small feathered friend."
 msgstr "这顶冬季帽子奇怪地是对一位有羽毛的小朋友的怀旧。"
 
@@ -230793,6 +230833,11 @@ msgstr "克劳斯帽"
 
 #. STRINGS.SKIN_NAMES.beefalohat_pigking
 msgctxt "STRINGS.SKIN_NAMES.beefalohat_pigking"
+msgid "Pig King Hat"
+msgstr "猪王帽"
+
+#. STRINGS.SKIN_NAMES.beefalohat_pigking_alt
+msgctxt "STRINGS.SKIN_NAMES.beefalohat_pigking_alt"
 msgid "Pig King Hat"
 msgstr "猪王帽"
 
@@ -238651,8 +238696,18 @@ msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_2"
 msgid "Daggered Heart"
 msgstr "利刃穿心"
 
+#. STRINGS.SKIN_NAMES.reviver_cupid_2alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_2alt"
+msgid "Daggered Heart"
+msgstr "利刃穿心"
+
 #. STRINGS.SKIN_NAMES.reviver_cupid_3
 msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_3"
+msgid "Staked Heart"
+msgstr "木桩扎心"
+
+#. STRINGS.SKIN_NAMES.reviver_cupid_3alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_3alt"
 msgid "Staked Heart"
 msgstr "木桩扎心"
 
@@ -238660,6 +238715,16 @@ msgstr "木桩扎心"
 msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_4"
 msgid "Stolen Heart"
 msgstr "被偷去的心"
+
+#. STRINGS.SKIN_NAMES.reviver_cupid_4alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_4alt"
+msgid "Stolen Heart"
+msgstr "被偷去的心"
+
+#. STRINGS.SKIN_NAMES.reviver_cupid_alt
+msgctxt "STRINGS.SKIN_NAMES.reviver_cupid_alt"
+msgid "Cherub's Heart"
+msgstr "天使之心"
 
 #. STRINGS.SKIN_NAMES.ruins_bat_heavy
 msgctxt "STRINGS.SKIN_NAMES.ruins_bat_heavy"
@@ -238823,6 +238888,11 @@ msgstr "火爆女巫帽"
 
 #. STRINGS.SKIN_NAMES.torch_carrat
 msgctxt "STRINGS.SKIN_NAMES.torch_carrat"
+msgid "Carrat Torch"
+msgstr "胡萝卜鼠火炬"
+
+#. STRINGS.SKIN_NAMES.torch_carrat_alt
+msgctxt "STRINGS.SKIN_NAMES.torch_carrat_alt"
 msgid "Carrat Torch"
 msgstr "胡萝卜鼠火炬"
 
@@ -240066,6 +240136,11 @@ msgctxt "STRINGS.SKIN_NAMES.winterhat_fancy_puppy"
 msgid "Knitted Puppy Hat"
 msgstr "小狗针织帽"
 
+#. STRINGS.SKIN_NAMES.winterhat_fancy_puppyalt
+msgctxt "STRINGS.SKIN_NAMES.winterhat_fancy_puppyalt"
+msgid "Knitted Puppy Hat"
+msgstr "小狗针织帽"
+
 #. STRINGS.SKIN_NAMES.winterhat_pink_hibiscus
 msgctxt "STRINGS.SKIN_NAMES.winterhat_pink_hibiscus"
 msgid "Pink Winter Hat"
@@ -240078,6 +240153,11 @@ msgstr "李子布丁帽"
 
 #. STRINGS.SKIN_NAMES.winterhat_rooster
 msgctxt "STRINGS.SKIN_NAMES.winterhat_rooster"
+msgid "Clucky Winter Hat"
+msgstr "咯咯响的冬季帽"
+
+#. STRINGS.SKIN_NAMES.winterhat_rooster_alt
+msgctxt "STRINGS.SKIN_NAMES.winterhat_rooster_alt"
 msgid "Clucky Winter Hat"
 msgstr "咯咯响的冬季帽"
 
