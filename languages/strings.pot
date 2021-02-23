@@ -1458,6 +1458,41 @@ msgctxt "STRINGS.ACTIONS.YOTB_UNLOCKSKIN"
 msgid "Learn Costume"
 msgstr ""
 
+#. STRINGS.ANTIADDICTION.EXIT_SOON
+msgctxt "STRINGS.ANTIADDICTION.EXIT_SOON"
+msgid "Your time for today is up. Please exit."
+msgstr ""
+
+#. STRINGS.ANTIADDICTION.HOUR_1
+msgctxt "STRINGS.ANTIADDICTION.HOUR_1"
+msgid "You've played for one hour."
+msgstr ""
+
+#. STRINGS.ANTIADDICTION.HOUR_2
+msgctxt "STRINGS.ANTIADDICTION.HOUR_2"
+msgid "You've played for two hours."
+msgstr ""
+
+#. STRINGS.ANTIADDICTION.HOUR_3
+msgctxt "STRINGS.ANTIADDICTION.HOUR_3"
+msgid "You've played for three hours."
+msgstr ""
+
+#. STRINGS.ANTIADDICTION.HOUR_4
+msgctxt "STRINGS.ANTIADDICTION.HOUR_4"
+msgid "You've played for four hours."
+msgstr ""
+
+#. STRINGS.ANTIADDICTION.HOUR_5
+msgctxt "STRINGS.ANTIADDICTION.HOUR_5"
+msgid "You've played for five hours."
+msgstr ""
+
+#. STRINGS.ANTIADDICTION.HOUR_X
+msgctxt "STRINGS.ANTIADDICTION.HOUR_X"
+msgid "You've played for several hours."
+msgstr ""
+
 #. STRINGS.BEEFALONAMING.BEEFNAMES.1
 msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.1"
 msgid "Annabeef"
@@ -249295,7 +249330,7 @@ msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS"
-msgid "Grass Gekkos"
+msgid "Grass Gekko Morphing"
 msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDMOUND
