@@ -1461,6 +1461,41 @@ msgctxt "STRINGS.ACTIONS.YOTB_UNLOCKSKIN"
 msgid "Learn Costume"
 msgstr "学习礼服做法"
 
+#. STRINGS.ANTIADDICTION.EXIT_SOON
+msgctxt "STRINGS.ANTIADDICTION.EXIT_SOON"
+msgid "Your time for today is up. Please exit."
+msgstr "你今天已经玩了很久了。请退出游戏。"
+
+#. STRINGS.ANTIADDICTION.HOUR_1
+msgctxt "STRINGS.ANTIADDICTION.HOUR_1"
+msgid "You've played for one hour."
+msgstr "你已经玩了一个小时。"
+
+#. STRINGS.ANTIADDICTION.HOUR_2
+msgctxt "STRINGS.ANTIADDICTION.HOUR_2"
+msgid "You've played for two hours."
+msgstr "你已经玩了两个小时。"
+
+#. STRINGS.ANTIADDICTION.HOUR_3
+msgctxt "STRINGS.ANTIADDICTION.HOUR_3"
+msgid "You've played for three hours."
+msgstr "你已经玩了三个小时。"
+
+#. STRINGS.ANTIADDICTION.HOUR_4
+msgctxt "STRINGS.ANTIADDICTION.HOUR_4"
+msgid "You've played for four hours."
+msgstr "你已经玩了四个小时。"
+
+#. STRINGS.ANTIADDICTION.HOUR_5
+msgctxt "STRINGS.ANTIADDICTION.HOUR_5"
+msgid "You've played for five hours."
+msgstr "你已经玩了五个小时。"
+
+#. STRINGS.ANTIADDICTION.HOUR_X
+msgctxt "STRINGS.ANTIADDICTION.HOUR_X"
+msgid "You've played for several hours."
+msgstr "你已经玩了好几个小时。"
+
 #. STRINGS.BEEFALONAMING.BEEFNAMES.1
 msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.1"
 msgid "Annabeef"
@@ -217011,6 +217046,11 @@ msgctxt "STRINGS.RECIPE_DESC.BEEFALOHAT"
 msgid "Be one with the herd! Smell included."
 msgstr "成为牛群中的一员！连气味也变得一样。"
 
+#. STRINGS.RECIPE_DESC.BEEFALO_GROOMER
+msgctxt "STRINGS.RECIPE_DESC.BEEFALO_GROOMER"
+msgid "The original Beefdazzler."
+msgstr "美牛原型机。"
+
 #. STRINGS.RECIPE_DESC.BEEFALO_GROOMER_ITEM
 msgctxt "STRINGS.RECIPE_DESC.BEEFALO_GROOMER_ITEM"
 msgid "The original Beefdazzler."
@@ -221451,6 +221491,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_ventriloquist"
 msgid "A fine suit jacket for spooky storytellers of all stripes."
 msgstr "一件精美的西装外套，讲鬼故事的高手们的专属。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_walter_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_victorian"
+msgid "Perfect for rolling up your sleeves to sell rolls of newspapers."
+msgstr "适合卷起袖子卖几卷报纸的完美服装。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_candyman
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_candyman"
 msgid "The candy bowtie adds a touch of sweetness."
@@ -222356,6 +222401,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_shadow"
 msgid "Darkness has twisted the trunk of this plant into an unnatural form."
 msgstr "黑暗将这株植物的树干扭曲成了一种违背自然的形态。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wormwood_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_victorian"
+msgid "A fine trunk of expertly carved mahogany."
+msgstr "精美的红木雕花树桩。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wortox_dragon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_dragon"
 msgid "The scaly torso of a wily dragon."
@@ -222381,6 +222431,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_survivor"
 msgid "One doesn't survive in the forest this long without picking up a few tricks."
 msgstr "没几把刷子，哪能在森林里存活下来。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wortox_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_victorian"
+msgid "Stone wings aren't of much use flying, which is why gargoyles stick to the rafters."
+msgstr "石头翅膀飞不起来，所以石像鬼才贴在椽子上。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_cave"
 msgid "You'll fit right in with the creatures of the deep."
@@ -222405,6 +222460,11 @@ msgstr "一边是黑暗，一边是鲨鱼。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_squid"
 msgid "Squid tentacles have a way of grabbing your attention."
 msgstr "乌贼的触角紧紧地抓住了你的注意力。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wurt_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_victorian"
+msgid "Reminiscent of another world, another time..."
+msgstr "让人想起另一个世界，另一个时代……"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_cook"
@@ -224431,6 +224491,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_shadow"
 msgid "Just one touch from these poisonous leaves could spell your doom."
 msgstr "只要碰一下这些有毒的叶子，就会给你带来灭顶之灾。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_victorian"
+msgid "Carved with a delicate touch for a natural looking effect."
+msgstr "雕刻细腻，效果自然。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_minotaur"
 msgid "A pair of monstrous minotaur claws sporting golden bracers."
@@ -224445,6 +224510,11 @@ msgstr "可爱的森林动物的毛绒绒的爪子。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_survivor"
 msgid "Sharp goblin claws honed for wilderness survival."
 msgstr "锋利的哥布林爪子，适合荒野生存。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_victorian"
+msgid "Hands of not-so-lifeless stone."
+msgstr "具有生命力的一双石手。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_cave"
@@ -224470,6 +224540,11 @@ msgstr "这些鳍看起来有不祥之兆……"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_squid"
 msgid "Hands are for suckers."
 msgstr "手是当吸盘用的。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_victorian"
+msgid "Wurt was never one to be treated with kid-gloves."
+msgstr "沃特可不愿意戴儿童手套。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_gladiator"
@@ -224996,6 +225071,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_ventriloquist"
 msgid "A frightfully fine pair of striped trousers."
 msgstr "一条漂亮得吓人的条纹裤。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_walter_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_victorian"
+msgid "You'll need a sturdy pair of shoes if you want to keep up with the news."
+msgstr "报童必须有一双结实的鞋子。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_warly_candyman
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_candyman"
 msgid "The striped belt adds a little flavor."
@@ -225241,6 +225321,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_shadow"
 msgid "Sickly stalks, spreading their poison with every step."
 msgstr "病态的茎秆，每走一步都会残留余毒。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_victorian"
+msgid "Expert craftsmanship has breathed life into this pair of wooden legs."
+msgstr "能工巧匠为这对木腿注入了生命。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_dragon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_dragon"
 msgid "Another creature who thinks pants are overrated."
@@ -225266,6 +225351,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_survivor"
 msgid "Live in the wilderness long enough and you'll have a few tails to tell, too."
 msgstr "讲述着荒野传说的一条尾巴。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_victorian"
+msgid "The stonework is so lifelike, you could almost swear you saw them move..."
+msgstr "石雕技艺栩栩如生，你仿佛看到它们在动……"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_cave"
 msgid "Just keep swimming!"
@@ -225285,6 +225375,11 @@ msgstr "玫瑰色的脚趾。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_shadow"
 msgid "Sharks have legs now. That's... fine."
 msgstr "鲨鱼现在也长腿了。好吧。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_victorian"
+msgid "A pair of sharp little hooves for indignant stamping."
+msgstr "小巧锋利的双蹄，跺起脚来虎虎生风。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_gladiator"
@@ -225810,6 +225905,11 @@ msgstr "这个箱子里有\r\n各式各样\r\n的节日服装。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_victorian_4"
 msgid "This chest contains 4x\nGorge Event curios."
 msgstr "这个宝箱中含有4件\n暴食活动珍宝。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.mysterybox_wormholes
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_wormholes"
+msgid "This chest contains 4x\nwormhole accoutrements."
+msgstr "这里箱子里装有4x\n虫洞装饰。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.nightsword_curve
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.nightsword_curve"
@@ -226406,6 +226506,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_all"
 msgid "This Victorian Chest contains the original Victorian series. Contains skins for: Maxwell, Webber, Wendy, Wes, Wickerbottom, Wigfrid, Willow, Wilson, Winona, Wolfgang, Woodie, and WX-78."
 msgstr "这个维多利亚箱子会带给你原创的维多利亚系列。包含以下角色的皮肤：麦斯威尔、韦伯、温蒂、韦斯、薇克巴顿、薇格弗德、薇洛、威尔逊、薇诺娜、沃尔夫冈、伍迪和WX-78。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_all2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_all2"
+msgid "This Victorian Chest contains the second addition to the Victorian series. Contains skins for: Walter, Warly, Wormwood, Wortox, and Wurt."
+msgstr "这个维多利亚箱子包含了维多利亚系列的第二批新增内容，包括以下人物的皮肤：沃尔特、沃利、沃姆伍德、沃拓克斯和沃特。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle"
 msgid "This Victorian Chest contains every survivor's complete set of Victorian skin items and all Victorian belonging skin items."
@@ -226416,6 +226521,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle2"
 msgid "This Victorian Chest contains the original survivor's Victorian skin items and all Victorian belonging skin items."
 msgstr "这个维多利亚箱子里有每个幸存者的维多利亚皮肤物品和所有维多利亚财物皮肤物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle3"
+msgid "This Victorian Chest contains every survivor's complete set of Victorian skin items and all Victorian belonging skin items."
+msgstr "这个维多利亚箱子里有每个幸存者的全套维多利亚皮肤物品和所有维多利亚财物皮肤物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_items"
 msgid "This Victorian Chest contains the following belonging skin items: Fanciful Axe, Fanciful Shovel, Goatshead Cane, Pot Roastbat, Tureen, Victorian Hearth, and Victorian Ice Box."
@@ -226425,6 +226535,11 @@ msgstr "这个维多利亚箱子里有下列财物皮肤物品：华丽斧头、
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_items2"
 msgid "This Victorian Chest contains a collection of belonging skin items to adorn your base with."
 msgstr "这个维多利亚箱子里有一套财物皮肤物品，用于基地装潢。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_walter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_walter"
+msgid "This Victorian Chest contains Walter's complete set of Victorian skin items."
+msgstr "这个维多利亚箱子里有沃尔特的全套维多利亚风格皮肤物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wathgrithr"
@@ -226480,6 +226595,21 @@ msgstr "这个维多利亚箱子里有沃尔夫冈的全套维多利亚风格皮
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_woodie"
 msgid "This Victorian Chest contains Woodie's complete set of Victorian skin items."
 msgstr "这个维多利亚箱子里有伍迪的全套维多利亚风格皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wormwood
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wormwood"
+msgid "This Victorian Chest contains Wormwood's complete set of Victorian skin items."
+msgstr "这个维多利亚箱子里有沃姆伍德的全套维多利亚风格皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wortox
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wortox"
+msgid "This Victorian Chest contains Wortox's complete set of Victorian skin items."
+msgstr "这个维多利亚箱子里有沃拓克斯的全套维多利亚风格皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wurt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wurt"
+msgid "This Victorian Chest contains Wurt's complete set of Victorian skin items."
+msgstr "这个维多利亚箱子里有沃特的全套维多利亚风格皮肤物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wx78"
@@ -229041,6 +229171,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_ventriloquist"
 msgid "He may love to talk, but Walter's no dummy."
 msgstr "他也许喜欢说话，但沃尔特绝非笨蛋。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.walter_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_victorian"
+msgid "Walter is often so eager to talk about the news that people don't need to buy the papers."
+msgstr "沃尔特太热衷聊新闻，他的顾客其实都不用买报纸。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_detective
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_detective"
 msgid "The most effective headwear for hunting down clues... or deer."
@@ -229065,6 +229200,11 @@ msgstr "野外求生的第一条准则就是学会什么时候从视线中消失
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_ventriloquist"
 msgid "Hats off to another chilling tale well told!"
 msgstr "向又一个惊心动魄的故事脱帽致敬，讲得好!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.walterhat_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_victorian"
+msgid "Any other cap is simply old news."
+msgstr "其他的帽子根本就是旧闻。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_armoire
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_armoire"
@@ -230306,6 +230446,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_yule"
 msgid "And lo he passes, the icy warden of the winter woods."
 msgstr "他静悄悄的来过，他是冬季森林的冰冷护林人。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wormhole_claw
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormhole_claw"
+msgid "It's inviting you in with a big toothy grin!"
+msgstr "它在龇牙咧嘴邀请你进去！"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wormhole_lureplant
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormhole_lureplant"
+msgid "Don't worry, it's probably not carnivorous. Probably."
+msgstr "别担心，它应该不食肉。应该吧。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wormhole_spider
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormhole_spider"
+msgid "Experience the excitement of being eaten by a spider without the lasting consequences!"
+msgstr "体验被蜘蛛吃掉的刺激，不用承担任何后果!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wormhole_worm
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormhole_worm"
+msgid "I'm fairly certain that's just what Glow Berry bushes look like."
+msgstr "我相当确定，发光蓝莓就长这样。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wormwood_cactus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_cactus"
 msgid "The closer you get to someone, the more you hurt them. At least when you're covered in spines."
@@ -230335,6 +230495,11 @@ msgstr "有时候，最晚开的花才是最漂亮的花。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_shadow"
 msgid "Wormwood has taken his cues from the deadly nightshade."
 msgstr "沃姆伍德听到了致命茄子的召唤。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wormwood_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_victorian"
+msgid "One of Wormwood's more polished looks."
+msgstr "沃姆伍德的抛光造型。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_dragon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_dragon"
@@ -230366,6 +230531,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_survivor"
 msgid "Wortox is playing the part of the grizzled goblin."
 msgstr "沃拓克斯在扮演一个生气的哥布林。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wortox_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_victorian"
+msgid "Traditionally, grotesques were made to ward off mischievous spirits... Wortox never got the memo."
+msgstr "传统的石像鬼是用来驱赶爱恶作剧的鬼怪……沃托克斯不知道这事。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_cave"
 msgid "Wurt has nothing to fear in the dark ocean depths."
@@ -230395,6 +230565,11 @@ msgstr "要跟鲨鱼游泳吗？"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_squid"
 msgid "If you want to escape a watery end, you'd better get Kraken!"
 msgstr "想要逃脱水中困局，最好去收拾了克拉肯海怪！"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wurt_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_victorian"
+msgid "Wurt can't imagine a fate more terrible than having to trade her sensible scales for unruly fur."
+msgstr "对沃特来说，用理智的鳞片换取不羁的皮毛简直不可理喻。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_combatant"
@@ -231741,6 +231916,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_walter_ventriloquist"
 msgid "Spooky Striped Suit"
 msgstr "恐怖条纹西装"
 
+#. STRINGS.SKIN_NAMES.body_walter_victorian
+msgctxt "STRINGS.SKIN_NAMES.body_walter_victorian"
+msgid "Paperboy Shirt"
+msgstr "报童衫"
+
 #. STRINGS.SKIN_NAMES.body_warly_candyman
 msgctxt "STRINGS.SKIN_NAMES.body_warly_candyman"
 msgid "Candy-Striped Shirt"
@@ -232646,6 +232826,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wormwood_shadow"
 msgid "Shadow Trunk"
 msgstr "暗影树干"
 
+#. STRINGS.SKIN_NAMES.body_wormwood_victorian
+msgctxt "STRINGS.SKIN_NAMES.body_wormwood_victorian"
+msgid "Polished Trunk"
+msgstr "抛光树桩"
+
 #. STRINGS.SKIN_NAMES.body_wortox_dragon
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_dragon"
 msgid "Draconic Chest"
@@ -232671,6 +232856,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wortox_survivor"
 msgid "Grimy Goblin Chest"
 msgstr "哥布林身体"
 
+#. STRINGS.SKIN_NAMES.body_wortox_victorian
+msgctxt "STRINGS.SKIN_NAMES.body_wortox_victorian"
+msgid "Grotesque Torso"
+msgstr "石像鬼躯干"
+
 #. STRINGS.SKIN_NAMES.body_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.body_wurt_cave"
 msgid "Deep Sea Chest"
@@ -232695,6 +232885,11 @@ msgstr "暗影鲨鱼躯干"
 msgctxt "STRINGS.SKIN_NAMES.body_wurt_squid"
 msgid "Sinker Swim Trunk"
 msgstr "深海游泳身体"
+
+#. STRINGS.SKIN_NAMES.body_wurt_victorian
+msgctxt "STRINGS.SKIN_NAMES.body_wurt_victorian"
+msgid "Kid Frock"
+msgstr "童装连衣裙"
 
 #. STRINGS.SKIN_NAMES.body_wx78_cook
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_cook"
@@ -234721,6 +234916,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_shadow"
 msgid "Gnarled Leaves"
 msgstr "粗糙的叶子"
 
+#. STRINGS.SKIN_NAMES.hand_wormwood_victorian
+msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_victorian"
+msgid "Scrollwork Hands"
+msgstr "雕花手"
+
 #. STRINGS.SKIN_NAMES.hand_wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.hand_wortox_minotaur"
 msgid "Minotaur Mitts"
@@ -234735,6 +234935,11 @@ msgstr "森林幼崽爪子"
 msgctxt "STRINGS.SKIN_NAMES.hand_wortox_survivor"
 msgid "Grimy Goblin Grapplers"
 msgstr "哥布林爪子"
+
+#. STRINGS.SKIN_NAMES.hand_wortox_victorian
+msgctxt "STRINGS.SKIN_NAMES.hand_wortox_victorian"
+msgid "Grotesque Claws"
+msgstr "石像鬼之爪"
 
 #. STRINGS.SKIN_NAMES.hand_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.hand_wurt_cave"
@@ -234760,6 +234965,11 @@ msgstr "暗影鱼鳍"
 msgctxt "STRINGS.SKIN_NAMES.hand_wurt_squid"
 msgid "Sinking Feelers"
 msgstr "深海触手"
+
+#. STRINGS.SKIN_NAMES.hand_wurt_victorian
+msgctxt "STRINGS.SKIN_NAMES.hand_wurt_victorian"
+msgid "Fuzzy Kid Claws"
+msgstr "毛绒崽崽爪"
 
 #. STRINGS.SKIN_NAMES.hand_wx78_gladiator
 msgctxt "STRINGS.SKIN_NAMES.hand_wx78_gladiator"
@@ -235286,6 +235496,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_walter_ventriloquist"
 msgid "Spooky Striped Pants"
 msgstr "恐怖条纹裤"
 
+#. STRINGS.SKIN_NAMES.legs_walter_victorian
+msgctxt "STRINGS.SKIN_NAMES.legs_walter_victorian"
+msgid "Paperboy Trousers"
+msgstr "报童裤"
+
 #. STRINGS.SKIN_NAMES.legs_warly_candyman
 msgctxt "STRINGS.SKIN_NAMES.legs_warly_candyman"
 msgid "Candy-Striped Pants"
@@ -235531,6 +235746,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wormwood_shadow"
 msgid "Shadow Stalks"
 msgstr "暗影茎秆"
 
+#. STRINGS.SKIN_NAMES.legs_wormwood_victorian
+msgctxt "STRINGS.SKIN_NAMES.legs_wormwood_victorian"
+msgid "Cabriole Legs"
+msgstr "躺椅腿"
+
 #. STRINGS.SKIN_NAMES.legs_wortox_dragon
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_dragon"
 msgid "Draconic Legs"
@@ -235556,6 +235776,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wortox_survivor"
 msgid "Grimy Goblin Hoofsies"
 msgstr "哥布林之腿"
 
+#. STRINGS.SKIN_NAMES.legs_wortox_victorian
+msgctxt "STRINGS.SKIN_NAMES.legs_wortox_victorian"
+msgid "Grotesque Limbs"
+msgstr "石像鬼双腿"
+
 #. STRINGS.SKIN_NAMES.legs_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.legs_wurt_cave"
 msgid "Abyssal Flippers"
@@ -235575,6 +235800,11 @@ msgstr "六角恐龙脚爪"
 msgctxt "STRINGS.SKIN_NAMES.legs_wurt_shadow"
 msgid "Jagged Legs"
 msgstr "锯齿腿"
+
+#. STRINGS.SKIN_NAMES.legs_wurt_victorian
+msgctxt "STRINGS.SKIN_NAMES.legs_wurt_victorian"
+msgid "Cloven Kid Hooves"
+msgstr "童子蹄"
 
 #. STRINGS.SKIN_NAMES.legs_wx78_gladiator
 msgctxt "STRINGS.SKIN_NAMES.legs_wx78_gladiator"
@@ -236100,6 +236330,11 @@ msgstr "飞蛾箱子"
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_victorian_4"
 msgid "The Gnaw's Chest"
 msgstr "饕餮宝箱"
+
+#. STRINGS.SKIN_NAMES.mysterybox_wormholes
+msgctxt "STRINGS.SKIN_NAMES.mysterybox_wormholes"
+msgid "Worm-Riddled Chest"
+msgstr "虫洞之谜箱子"
 
 #. STRINGS.SKIN_NAMES.nightsword_curve
 msgctxt "STRINGS.SKIN_NAMES.nightsword_curve"
@@ -236696,6 +236931,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_victorian_all"
 msgid "Original Survivors Victorian Chest"
 msgstr "原创维多利亚冒险家箱子"
 
+#. STRINGS.SKIN_NAMES.pack_victorian_all2
+msgctxt "STRINGS.SKIN_NAMES.pack_victorian_all2"
+msgid "Latecomers' Victorian Chest"
+msgstr "后进者维多利亚箱子"
+
 #. STRINGS.SKIN_NAMES.pack_victorian_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_bundle"
 msgid "Complete Victorian Chest"
@@ -236703,6 +236943,11 @@ msgstr "全套维多利亚箱子"
 
 #. STRINGS.SKIN_NAMES.pack_victorian_bundle2
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_bundle2"
+msgid "Complete Victorian Chest"
+msgstr "全套维多利亚箱子"
+
+#. STRINGS.SKIN_NAMES.pack_victorian_bundle3
+msgctxt "STRINGS.SKIN_NAMES.pack_victorian_bundle3"
 msgid "Complete Victorian Chest"
 msgstr "全套维多利亚箱子"
 
@@ -236715,6 +236960,11 @@ msgstr "维多利亚财物箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_items2"
 msgid "Victorian Antiques Chest"
 msgstr "维多利亚古董箱子"
+
+#. STRINGS.SKIN_NAMES.pack_victorian_walter
+msgctxt "STRINGS.SKIN_NAMES.pack_victorian_walter"
+msgid "Walter Victorian Chest"
+msgstr "沃尔特维多利亚箱子"
 
 #. STRINGS.SKIN_NAMES.pack_victorian_wathgrithr
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wathgrithr"
@@ -236770,6 +237020,21 @@ msgstr "沃尔夫冈维多利亚箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_woodie"
 msgid "Woodie Victorian Chest"
 msgstr "伍迪维多利亚箱子"
+
+#. STRINGS.SKIN_NAMES.pack_victorian_wormwood
+msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wormwood"
+msgid "Wormwood Victorian Chest"
+msgstr "沃姆伍德维多利亚箱子"
+
+#. STRINGS.SKIN_NAMES.pack_victorian_wortox
+msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wortox"
+msgid "Wortox Victorian Chest"
+msgstr "沃拓克斯维多利亚箱子"
+
+#. STRINGS.SKIN_NAMES.pack_victorian_wurt
+msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wurt"
+msgid "Wurt Victorian Chest"
+msgstr "沃特维多利亚箱子"
 
 #. STRINGS.SKIN_NAMES.pack_victorian_wx78
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wx78"
@@ -239331,6 +239596,11 @@ msgctxt "STRINGS.SKIN_NAMES.walter_ventriloquist"
 msgid "The Chatterbox"
 msgstr "话匣子"
 
+#. STRINGS.SKIN_NAMES.walter_victorian
+msgctxt "STRINGS.SKIN_NAMES.walter_victorian"
+msgid "The Victorian"
+msgstr "维多利亚"
+
 #. STRINGS.SKIN_NAMES.walterhat_detective
 msgctxt "STRINGS.SKIN_NAMES.walterhat_detective"
 msgid "Deerstalker"
@@ -239355,6 +239625,11 @@ msgstr "灌木迷彩帽"
 msgctxt "STRINGS.SKIN_NAMES.walterhat_ventriloquist"
 msgid "Chatty Hatty"
 msgstr "话多的帽子"
+
+#. STRINGS.SKIN_NAMES.walterhat_victorian
+msgctxt "STRINGS.SKIN_NAMES.walterhat_victorian"
+msgid "Paperboy Cap"
+msgstr "报童帽"
 
 #. STRINGS.SKIN_NAMES.wardrobe_armoire
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_armoire"
@@ -240596,6 +240871,26 @@ msgctxt "STRINGS.SKIN_NAMES.woodie_yule"
 msgid "The Merrymaker"
 msgstr "欢乐"
 
+#. STRINGS.SKIN_NAMES.wormhole_claw
+msgctxt "STRINGS.SKIN_NAMES.wormhole_claw"
+msgid "Snaggletooth Wormhole"
+msgstr "利齿虫洞"
+
+#. STRINGS.SKIN_NAMES.wormhole_lureplant
+msgctxt "STRINGS.SKIN_NAMES.wormhole_lureplant"
+msgid "Lureplant Wormhole"
+msgstr "食人花虫洞"
+
+#. STRINGS.SKIN_NAMES.wormhole_spider
+msgctxt "STRINGS.SKIN_NAMES.wormhole_spider"
+msgid "Arachnoid Wormhole"
+msgstr "巨蛛虫洞"
+
+#. STRINGS.SKIN_NAMES.wormhole_worm
+msgctxt "STRINGS.SKIN_NAMES.wormhole_worm"
+msgid "Glow Berry Bush"
+msgstr "发光蓝莓丛"
+
 #. STRINGS.SKIN_NAMES.wormwood_cactus
 msgctxt "STRINGS.SKIN_NAMES.wormwood_cactus"
 msgid "The Oasis Bound"
@@ -240625,6 +240920,11 @@ msgstr "玫瑰"
 msgctxt "STRINGS.SKIN_NAMES.wormwood_shadow"
 msgid "The Triumphant"
 msgstr "凯旋"
+
+#. STRINGS.SKIN_NAMES.wormwood_victorian
+msgctxt "STRINGS.SKIN_NAMES.wormwood_victorian"
+msgid "The Victorian"
+msgstr "维多利亚"
 
 #. STRINGS.SKIN_NAMES.wortox_dragon
 msgctxt "STRINGS.SKIN_NAMES.wortox_dragon"
@@ -240656,6 +240956,11 @@ msgctxt "STRINGS.SKIN_NAMES.wortox_survivor"
 msgid "The Survivor"
 msgstr "幸存者"
 
+#. STRINGS.SKIN_NAMES.wortox_victorian
+msgctxt "STRINGS.SKIN_NAMES.wortox_victorian"
+msgid "The Victorian"
+msgstr "维多利亚"
+
 #. STRINGS.SKIN_NAMES.wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.wurt_cave"
 msgid "The Abyssal"
@@ -240685,6 +240990,11 @@ msgstr "凯旋"
 msgctxt "STRINGS.SKIN_NAMES.wurt_squid"
 msgid "The Little Sinker"
 msgstr "深海小朋友"
+
+#. STRINGS.SKIN_NAMES.wurt_victorian
+msgctxt "STRINGS.SKIN_NAMES.wurt_victorian"
+msgid "The Victorian"
+msgstr "维多利亚"
 
 #. STRINGS.SKIN_NAMES.wx78_combatant
 msgctxt "STRINGS.SKIN_NAMES.wx78_combatant"
@@ -240800,6 +241110,11 @@ msgstr "“希望别因为这身破旧的制服被扣分。”"
 msgctxt "STRINGS.SKIN_QUOTES.walter_ventriloquist"
 msgid "\"Want to hear a really scary story?\""
 msgstr "“想听个恐怖故事吗？”"
+
+#. STRINGS.SKIN_QUOTES.walter_victorian
+msgctxt "STRINGS.SKIN_QUOTES.walter_victorian"
+msgid "\"Extra, extra! Read all about it!\""
+msgstr "“号外，号外！买份报纸来读吧！”"
 
 #. STRINGS.SKIN_QUOTES.warly_candyman
 msgctxt "STRINGS.SKIN_QUOTES.warly_candyman"
@@ -241736,6 +242051,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wormwood_shadow"
 msgid "\"All... will rot...\""
 msgstr "“一切……都会腐烂……”"
 
+#. STRINGS.SKIN_QUOTES.wormwood_victorian
+msgctxt "STRINGS.SKIN_QUOTES.wormwood_victorian"
+msgid "\"Swirly shiny!\""
+msgstr "“旋转，闪闪！”"
+
 #. STRINGS.SKIN_QUOTES.wortox_dragon
 msgctxt "STRINGS.SKIN_QUOTES.wortox_dragon"
 msgid "\"Don't get between me and my hoard of souls.\""
@@ -241761,6 +242081,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wortox_survivor"
 msgid "\"Try not to cower in fear, my dear!\""
 msgstr "\"亲爱的，别害怕！\""
 
+#. STRINGS.SKIN_QUOTES.wortox_victorian
+msgctxt "STRINGS.SKIN_QUOTES.wortox_victorian"
+msgid "\"Old Kramps did always say; if I kept making a funny face it'd get stuck that way.\""
+msgstr "“坎普斯说过：要是我一直笑，脸就会僵住。”"
+
 #. STRINGS.SKIN_QUOTES.wurt_cave
 msgctxt "STRINGS.SKIN_QUOTES.wurt_cave"
 msgid "\"It called bye-oh-loomy...loominess...loomin-essence... GLOWY!\""
@@ -241785,6 +242110,11 @@ msgstr "\"靠近点……不咬人（嘿嘿）\""
 msgctxt "STRINGS.SKIN_QUOTES.wurt_squid"
 msgid "\"Not from fairy story... from scary story!\""
 msgstr "“不是从童话里来的……\n是从恐怖故事里来的！”"
+
+#. STRINGS.SKIN_QUOTES.wurt_victorian
+msgctxt "STRINGS.SKIN_QUOTES.wurt_victorian"
+msgid "\"What... happening...? Feel... strange...\""
+msgstr "“发生……什么了？感觉……真奇怪……”"
 
 #. STRINGS.SKIN_QUOTES.wx78_combatant
 msgctxt "STRINGS.SKIN_QUOTES.wx78_combatant"
@@ -242730,6 +243060,11 @@ msgstr "冬帽"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER"
 msgid "Thermal Measurer"
 msgstr "温度测量仪"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WORMHOLE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WORMHOLE"
+msgid "Worm Hole"
+msgstr "虫洞"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF"
@@ -246053,8 +246388,8 @@ msgstr "我们该重造世界吗？"
 
 #. STRINGS.UI.BUILTINCOMMANDS.RESCUE.DESC
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESCUE.DESC"
-msgid "If you ever find yourself stuck in the ocean, /rescue will put you back on land."
-msgstr "要是你发现自己被困在海洋，/rescue 会帮助你回陆地。"
+msgid "If you ever find yourself stuck in the void, this will put you back on land."
+msgstr "要是你发现自己被困在虚空，它会帮助你回陆地。"
 
 #. STRINGS.UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME"
@@ -246073,8 +246408,8 @@ msgstr "重置"
 
 #. STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC"
-msgid "Random dice roll. 'dice' is 1D100 by default (a single roll of 1-100)."
-msgstr "随机掷骰子。‘骰子’默认值为 1D100（每次滚动范围为 1-100）。"
+msgid "Random dice roll from 1 to 100."
+msgstr "从1到100随机掷骰子."
 
 #. STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME"
@@ -248928,8 +249263,8 @@ msgstr "追猎惊喜"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ANGRYBEES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ANGRYBEES"
-msgid "Killer Bees"
-msgstr "杀人蜂"
+msgid "Killer Bee Hives"
+msgstr "杀人蜂蜂窝"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ANTLIONTRIBUTE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ANTLIONTRIBUTE"
@@ -248940,6 +249275,11 @@ msgstr "蚁狮贡品"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.APPLY"
 msgid "Apply"
 msgstr "应用"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ATRIUMGATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ATRIUMGATE"
+msgid "Ancient Gateway"
+msgstr "远古大门"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.AUTUMN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.AUTUMN"
@@ -248956,6 +249296,21 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY"
 msgid "Do you want to discard the changes you made to your world generation options?"
 msgstr "要放弃对世界生成选项所做的更改吗？"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_COMBINED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_COMBINED"
+msgid "Do you want to discard the changes you made to your world?"
+msgstr "要放弃对世界所做的更改吗？"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS"
+msgid "Do you want to discard the changes you made to your world settings?"
+msgstr "要放弃对世界选项所做的更改吗？"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN"
+msgid "Do you want to discard the changes you made to your world generation?"
+msgstr "要放弃对世界生成所做的更改吗？"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE"
 msgid "Discard Changes"
@@ -248968,6 +249323,11 @@ msgstr "洞穴香蕉"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BATS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BATS"
+msgid "Bats"
+msgstr "蝙蝠"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BATS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BATS_SETTING"
 msgid "Bats"
 msgstr "蝙蝠"
 
@@ -248986,8 +249346,18 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEEFALOHEAT"
 msgid "Beefalo Mating Frequency"
 msgstr "皮弗娄牛交配频率"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEEQUEEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEEQUEEN"
+msgid "Bee Queen"
+msgstr "蜂王"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BEES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEES"
+msgid "Bee Hives"
+msgstr "蜜蜂蜂窝"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEES_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEES_SETTING"
 msgid "Bees"
 msgstr "蜜蜂"
 
@@ -249008,11 +249378,21 @@ msgstr "失败的冒险家"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BRANCHING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BRANCHING"
-msgid "World Gen: Branches"
-msgstr "创世界：分支"
+msgid "Branches"
+msgstr "分支"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES"
+msgid "Enlightenment Monsters"
+msgstr "启蒙怪兽"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN"
+msgid "Rabbit Hutches"
+msgstr "兔屋"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING"
 msgid "Bunnymen"
 msgstr "兔人"
 
@@ -249041,8 +249421,18 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CARROT"
 msgid "Carrots"
 msgstr "胡萝卜"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CARROTS_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CARROTS_REGROWTH"
+msgid "Carrots"
+msgstr "胡萝卜"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOON
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOON"
+msgid "Hollow Stump"
+msgstr "空心树桩"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOONS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOONS"
 msgid "Catcoons"
 msgstr "浣猫"
 
@@ -249058,13 +249448,33 @@ msgstr "池塘"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CAVE_SPIDERS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CAVE_SPIDERS"
-msgid "Spiders"
-msgstr "蜘蛛"
+msgid "Spilagmites"
+msgstr "蛛网岩"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CHESS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CHESS"
 msgid "Clockworks"
 msgstr "发条装置"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.COMBINEDPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.COMBINEDPRESET"
+msgid "World Presets"
+msgstr "世界预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CONFIRM_PRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CONFIRM_PRESET"
+msgid "Apply Preset"
+msgstr "应用预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.COOKIECUTTERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.COOKIECUTTERS"
+msgid "Cookie Cutters"
+msgstr "饼干切割机"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CRABKING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CRABKING"
+msgid "Crabking"
+msgstr "帝王蟹"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM"
@@ -249096,6 +249506,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSMONSTER"
 msgid "Poison Birchnut Trees"
 msgstr "毒桦栗树"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSTREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSTREE_REGROWTH"
+msgid "Birchnut Trees"
+msgstr "桦树"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DEERCLOPS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEERCLOPS"
 msgid "Deerclops"
@@ -249105,6 +249520,31 @@ msgstr "独眼巨鹿"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC"
 msgid "Lots of pigs and spiders and a Tallbird nest."
 msgstr "很多猪和蜘蛛以及一个高脚鸟巢。"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETE"
+msgid "Delete"
+msgstr "删除"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET"
+msgid "Delete Preset"
+msgstr "删除预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_BODY"
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_TITLE"
+msgid "Delete Preset \"%s\""
+msgstr "删除名为\"%s\"的预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DESCRIBEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DESCRIBEPRESET"
+msgid "Description:"
+msgstr "描述："
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DISEASE_DELAY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DISEASE_DELAY"
@@ -249116,15 +249556,45 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DRAGONFLY"
 msgid "Dragonfly"
 msgstr "龙蝇"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN"
+msgid "Drop Items on Disconnect"
+msgstr "离开游戏后物品掉落"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUSTMOTHS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUSTMOTHS"
+msgid "Dust Moths"
+msgstr "尘蛾"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.EARTHQUAKES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EARTHQUAKES"
 msgid "Earthquakes"
 msgstr "地震"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EDITPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EDITPRESET"
+msgid "Update Current Preset"
+msgstr "更新当前预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EVERGREEN_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EVERGREEN_REGROWTH"
+msgid "Evergreens"
+msgstr "常青树"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EXTRASTARTINGITEMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EXTRASTARTINGITEMS"
+msgid "Extra Starting Resources"
+msgstr "额外起始资源"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FERN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FERN"
 msgid "Cave Ferns"
 msgstr "洞穴蕨类"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FISHSCHOOLS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FISHSCHOOLS"
+msgid "Schools of Fish"
+msgstr "鱼群"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FISSURE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FISSURE"
@@ -249141,15 +249611,40 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS"
 msgid "Flowers, Evil Flowers"
 msgstr "花，邪恶花"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS_REGROWTH"
+msgid "Flowers"
+msgstr "花"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE"
 msgid "Light Flowers"
+msgstr "荧光花"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE_REGROWTH"
+msgid "Light Flower"
 msgstr "荧光花"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FROGRAIN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FROGRAIN"
 msgid "Frog Rain"
 msgstr "青蛙雨"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FROGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FROGS"
+msgid "Frogs"
+msgstr "青蛙"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FRUITFLY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FRUITFLY"
+msgid "Lord of the Fruit Flies"
+msgstr "果蝇王"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GNARWAIL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GNARWAIL"
+msgid "Gnarwails"
+msgstr "一角鲸"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE"
@@ -249161,6 +249656,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS"
 msgid "Grass"
 msgstr "草"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS"
+msgid "Grass Gekko Morphing"
+msgstr "草地壁虎"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDMOUND
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDMOUND"
 msgid "Hound Mounds"
@@ -249170,6 +249670,11 @@ msgstr "猎犬丘"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDS"
 msgid "Hound Attacks"
 msgstr "猎犬袭击"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HOUND_MOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HOUND_MOUNDS"
+msgid "Hounds"
+msgstr "猎犬"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.HUNT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HUNT"
@@ -249246,6 +249751,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_TITLE"
 msgid "All Seasons Disabled"
 msgstr "所有季节已禁用"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.KLAUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.KLAUS"
+msgid "Klaus"
+msgstr "克劳斯"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.KRAMPUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.KRAMPUS"
 msgid "Krampii"
@@ -249261,6 +249771,16 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIEFS"
 msgid "Treeguards"
 msgstr "树精守卫"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIERS"
+msgid "Bulbous Lightbugs"
+msgstr "球状光虫"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIER_FLOWER_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIER_FLOWER_REGROWTH"
+msgid "Lightflier Flower"
+msgstr "球状光虫花"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNING"
 msgid "Lightning"
@@ -249271,10 +249791,35 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNINGGOAT"
 msgid "Volt Goats"
 msgstr "伏特羊"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR"
+msgid "Link Settings and Worldgen Presets into World Presets"
+msgstr "将选项和世界生成预设合成为世界预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET"
+msgid "Choose Preset"
+msgstr "选择预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_COMBINED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_COMBINED"
+msgid "Choose World Preset"
+msgstr "选择世界预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS"
+msgid "Choose Settings Preset"
+msgstr "选择选项预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN"
+msgid "Choose Generation Preset"
+msgstr "选择生成预设"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOOP
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOOP"
-msgid "World Gen: Loops"
-msgstr "创世界：循环"
+msgid "Loops"
+msgstr "循环"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY"
@@ -249290,6 +249835,11 @@ msgstr "放弃更改？"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LUREPLANTS"
 msgid "Lureplants"
 msgstr "食人花"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MALBATROSS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MALBATROSS"
+msgid "Malbatross"
+msgstr "邪天翁"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MANDRAKE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MANDRAKE"
@@ -249313,6 +249863,11 @@ msgstr "达到预设限制"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MERM
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MERM"
+msgid "Leaky Shack"
+msgstr "漏雨的小屋"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MERMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MERMS"
 msgid "Merms"
 msgstr "鱼人"
 
@@ -249326,15 +249881,115 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.METEORSPAWNER"
 msgid "Meteor Fields"
 msgstr "流星区域"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_BODY"
+msgid "You forgot to enter a name for your preset."
+msgstr "你忘记给你的预设起名字了。"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_TITLE"
+msgid "Missing Preset Name"
+msgstr "缺少预设名"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLEBATS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLEBATS"
+msgid "Naked Mole Bats"
+msgstr "裸鼹鼠蝙蝠"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES"
+msgid "Mole Burrows"
+msgstr "鼹鼠山丘"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES_SETTING"
 msgid "Moles"
 msgstr "鼹鼠"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY"
-msgid "Monkeys"
-msgstr "猴子"
+msgid "Splumonkey Pods"
+msgstr "猴子桶"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY_SETTING"
+msgid "Splumonkeys"
+msgstr "暴躁猴"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BERRYBUSH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BERRYBUSH"
+msgid "Stone Fruit Bushes"
+msgstr "石果灌木丛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BULLKELP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BULLKELP"
+msgid "Beached Bull Kelp"
+msgstr "海岸公牛海带"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_CARROT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_CARROT"
+msgid "Carrats"
+msgstr "胡萝卜"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FISSURE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FISSURE"
+msgid "Celestial Fissures"
+msgstr "天体裂隙"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FRUITDRAGON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FRUITDRAGON"
+msgid "Saladmander"
+msgstr "沙拉蝾螈"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_HOTSPRING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_HOTSPRING"
+msgid "Hot Springs"
+msgstr "温泉"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_ROCK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_ROCK"
+msgid "Lunar Rocks"
+msgstr "月亮石"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SAPLING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SAPLING"
+msgid "Lunar Saplings"
+msgstr "月亮树苗"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDER"
+msgid "Shattered Spiders"
+msgstr "破碎蜘蛛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDERS"
+msgid "Shattered Spider Holes"
+msgstr "破碎蜘蛛洞"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_STARFISH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_STARFISH"
+msgid "Anenemies"
+msgstr "海星"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE"
+msgid "Lune Trees"
+msgstr "月树"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE_REGROWTH"
+msgid "Lune Trees"
+msgstr "月树"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOSQUITOS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOSQUITOS"
+msgid "Mosquitos"
+msgstr "蚊子"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHGNOME
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHGNOME"
+msgid "Mush Gnomes"
+msgstr "蘑菇地精"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHROOM
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHROOM"
@@ -249346,10 +250001,65 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE"
 msgid "Mushroom Trees"
 msgstr "蘑菇树"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_MOON_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_MOON_REGROWTH"
+msgid "Lunar Mushtrees"
+msgstr "月亮蘑菇树"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_REGROWTH"
+msgid "Mushroom Trees"
+msgstr "蘑菇树"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_HOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_HOUNDS"
+msgid "Horror Hounds"
+msgstr "恐怖猎犬"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMEPRESET"
+msgid "Name:"
+msgstr "名称："
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NEWPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NEWPRESET"
+msgid "Name Your Preset"
+msgstr "命名你的预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NIGHTMARECREATURES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NIGHTMARECREATURES"
+msgid "Ruins Nightmares"
+msgstr "废墟梦魇"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NO
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NO"
 msgid "No"
 msgstr "否"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_BULLKELP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_BULLKELP"
+msgid "Bull Kelp"
+msgstr "公牛海带"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SEASTACK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SEASTACK"
+msgid "Sea Stacks"
+msgstr "浮堆"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SHOAL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SHOAL"
+msgid "Shoals"
+msgstr "鱼群"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WATERPLANT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WATERPLANT"
+msgid "Sea Weeds"
+msgstr "海草"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WOBSTERDEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WOBSTERDEN"
+msgid "Wobster Mounds"
+msgstr "龙虾窝"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.OKAY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OKAY"
@@ -249366,6 +250076,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS"
 msgid "Pengulls"
 msgstr "企鸥"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS_MOON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS_MOON"
+msgid "Moonrock Pengulls"
+msgstr "月石企鸥"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PERD
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PERD"
 msgid "Gobblers"
@@ -249378,6 +250093,11 @@ msgstr "森林石化"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS"
+msgid "Pig Houses"
+msgstr "猪屋"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS_SETTING"
 msgid "Pigs"
 msgstr "猪"
 
@@ -249395,6 +250115,16 @@ msgstr "改变资源"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START"
 msgid "Starting Resource Variety"
 msgstr "开始资源多样化"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY"
+msgid "A preset with the name \"%s\" already exists, please choose a different name."
+msgstr "已经有名为\"%s\"的预设，请换一个名字。"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_TITLE"
+msgid "Preset Already Exists"
+msgstr "预设已经存在"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1"
@@ -249628,6 +250358,11 @@ msgstr "一般森林"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS"
+msgid "Rabbit Holes"
+msgstr "兔洞"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS_SETTING"
 msgid "Rabbits"
 msgstr "兔子"
 
@@ -249638,8 +250373,8 @@ msgstr "芦苇"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.REGROWTH
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REGROWTH"
-msgid "World Regrowth"
-msgstr "世界再生"
+msgid "Regrowth Multiplier"
+msgstr "重生速度"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.REVERTCHANGES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REVERTCHANGES"
@@ -249653,7 +250388,12 @@ msgstr "巨石"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY"
-msgid "Rocky"
+msgid "Rock Lobsters"
+msgstr "石虾"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY_SETTING"
+msgid "Rock Lobsters"
 msgstr "石虾"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK_ICE
@@ -249661,20 +250401,60 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK_ICE"
 msgid "Mini Glaciers"
 msgstr "迷你冰川"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SALTSTACK_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SALTSTACK_REGROWTH"
+msgid "Salt Formations"
+msgstr "盐堆"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SAPLING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAPLING"
 msgid "Saplings"
 msgstr "树苗"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_BODY"
+msgid "An error occured while saving your preset, please try again."
+msgstr "保存预设时出现错误，请重试。"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_TITLE"
+msgid "Failed To Save Preset"
+msgstr "保存预设失败"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET"
-msgid "Save As Preset"
-msgstr "另存为预设"
+msgid "Save As New Preset"
+msgstr "保存为新的预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESETCHANGES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESETCHANGES"
+msgid "Save Changes"
+msgstr "保存更改"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SEASONALSTARTINGITEMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SEASONALSTARTINGITEMS"
+msgid "Seasonal Starting Items"
+msgstr "季节起始物品"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SEASON_START"
 msgid "Starting Season"
 msgstr "起始季节"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SETTINGSPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SETTINGSPRESET"
+msgid "Settings Presets"
+msgstr "选项预设"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SHADOWCREATURES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHADOWCREATURES"
+msgid "Sanity Monsters"
+msgstr "理智怪兽"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SHARKS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHARKS"
+msgid "Sharks"
+msgstr "鲨鱼"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SLURPER
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SLURPER"
@@ -249683,33 +250463,93 @@ msgstr "缀食者"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES"
-msgid "Slurtles and Snurtles"
-msgstr "蛞蝓龟和蜗牛龟"
+msgid "Slurtle Mounds"
+msgstr "尖壳蜗牛窝"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES_SETTING"
+msgid "Slurtles"
+msgstr "尖壳蜗牛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SNURTLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SNURTLES"
+msgid "Snurtles"
+msgstr "圆壳蜗牛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPAWNPROTECTION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPAWNPROTECTION"
+msgid "Griefer Spawn Protection"
+msgstr "防骚扰出生保护"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SPECIALEVENT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPECIALEVENT"
 msgid "Events"
 msgstr "活动"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERQUEEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERQUEEN"
+msgid "Spider Queen"
+msgstr "蜘蛛女王"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS"
+msgid "Spider Dens"
+msgstr "蜘蛛巢"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS_SETTING"
 msgid "Spiders"
 msgstr "蜘蛛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_DROPPER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_DROPPER"
+msgid "Dangling Depth Dwellers"
+msgstr "穴居悬蛛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_HIDER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_HIDER"
+msgid "Cave Spiders"
+msgstr "洞穴蜘蛛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_SPITTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_SPITTER"
+msgid "Spitter Spiders"
+msgstr "喷射蜘蛛"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_WARRIORS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_WARRIORS"
+msgid "Spider Warriors"
+msgstr "蜘蛛战士"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SPRING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPRING"
 msgid "Spring"
 msgstr "春"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SQUID
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SQUID"
+msgid "Skittersquids"
+msgstr "鱿鱼"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.START_LOCATION
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.START_LOCATION"
-msgid "World Gen: Spawn Area"
-msgstr "创世界：出生点"
+msgid "Spawn Area"
+msgstr "出生点"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMER
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMER"
 msgid "Summer"
 msgstr "夏"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDGENERATION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDGENERATION"
+msgid "World Generation"
+msgstr "世界生成"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS"
+msgid "World Settings"
+msgstr "世界选项"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TALLBIRDS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TALLBIRDS"
@@ -249743,13 +250583,18 @@ msgstr "暴食"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TASK_SET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASK_SET"
-msgid "World Gen: Biomes"
-msgstr "创世界：生物群落"
+msgid "Biomes"
+msgstr "生物群落"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TENTACLES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TENTACLES"
 msgid "Tentacles"
 msgstr "触手"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TOADSTOOL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TOADSTOOL"
+msgid "Toadstool"
+msgstr "毒菌蟾蜍"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TOUCHSTONE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TOUCHSTONE"
@@ -249766,6 +250611,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TUMBLEWEED"
 msgid "Tumbleweeds"
 msgstr "风滚草"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TWIGGYTREES_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TWIGGYTREES_REGROWTH"
+msgid "Twiggy Trees"
+msgstr "繁茂的树木"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET"
 msgid "Unknown Preset"
@@ -249776,10 +250626,25 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET_DESC"
 msgid "This game was started with some settings we don't quite recognize."
 msgstr "这个游戏从一些我们不能很好识别的设置开始。"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR"
+msgid "Seperate World Presets into Settings and Worldgen Presets"
+msgstr "将世界预设拆分为选项和世界生成预设"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS"
 msgid "MacTusk Camps"
 msgstr "海象营地"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS_SETTING"
+msgid "MacTusk"
+msgstr "海象"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WASPS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WASPS"
+msgid "Killer Bees"
+msgstr "杀人蜂"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.WEATHER
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WEATHER"
@@ -249796,10 +250661,20 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WINTER"
 msgid "Winter"
 msgstr "冬"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WOBSTERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WOBSTERS"
+msgid "Wobsters"
+msgstr "龙虾"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORLDGENPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORLDGENPRESET"
+msgid "Generation Presets"
+msgstr "生成预设"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.WORLD_SIZE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORLD_SIZE"
-msgid "World Gen: Size"
-msgstr "创世界：大小"
+msgid "World Size"
+msgstr "世界大小"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS"
@@ -252283,8 +253158,8 @@ msgstr "退出"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
-msgid "Reap What You Sow\nBeta Build"
-msgstr "种瓜得瓜\n测试版本"
+msgid "March QoL\nBeta Build"
+msgstr "三月生活质量\n测试版本"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
@@ -255216,6 +256091,11 @@ msgctxt "STRINGS.UI.PAUSEMENU.CLIENTQUITTITLE"
 msgid "Leave Server"
 msgstr "离开服务器"
 
+#. STRINGS.UI.PAUSEMENU.CLOSE
+msgctxt "STRINGS.UI.PAUSEMENU.CLOSE"
+msgid "Close"
+msgstr "关闭"
+
 #. STRINGS.UI.PAUSEMENU.CONTINUE
 msgctxt "STRINGS.UI.PAUSEMENU.CONTINUE"
 msgid "Continue"
@@ -255266,6 +256146,11 @@ msgctxt "STRINGS.UI.PAUSEMENU.OPTIONS"
 msgid "Settings"
 msgstr "设置"
 
+#. STRINGS.UI.PAUSEMENU.PLAYERSTATUSSCREEN
+msgctxt "STRINGS.UI.PAUSEMENU.PLAYERSTATUSSCREEN"
+msgid "View Players"
+msgstr "查看玩家"
+
 #. STRINGS.UI.PAUSEMENU.QUIT
 msgctxt "STRINGS.UI.PAUSEMENU.QUIT"
 msgid "Quit"
@@ -255315,6 +256200,11 @@ msgstr "保存并返回主菜单？"
 msgctxt "STRINGS.UI.PAUSEMENU.SAVEANDQUITYES"
 msgid "I said quit!"
 msgstr "我说了退出！"
+
+#. STRINGS.UI.PAUSEMENU.SERVERACTIONS
+msgctxt "STRINGS.UI.PAUSEMENU.SERVERACTIONS"
+msgid "Server Commands"
+msgstr "服务器指令"
 
 #. STRINGS.UI.PAUSEMENU.SERVER_ADMIN
 msgctxt "STRINGS.UI.PAUSEMENU.SERVER_ADMIN"
@@ -256776,6 +257666,11 @@ msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.7"
 msgid "Checkmate"
 msgstr "胜负已分"
 
+#. STRINGS.UI.SANDBOXMENU.ALWAYS
+msgctxt "STRINGS.UI.SANDBOXMENU.ALWAYS"
+msgid "Always"
+msgstr "总是"
+
 #. STRINGS.UI.SANDBOXMENU.AUTOADDLEVEL
 msgctxt "STRINGS.UI.SANDBOXMENU.AUTOADDLEVEL"
 msgid "Always Add %s"
@@ -256866,6 +257761,16 @@ msgctxt "STRINGS.UI.SANDBOXMENU.CHOICEFOOD"
 msgid "Food"
 msgstr "食物"
 
+#. STRINGS.UI.SANDBOXMENU.CHOICEGIANTS
+msgctxt "STRINGS.UI.SANDBOXMENU.CHOICEGIANTS"
+msgid "Giants"
+msgstr "巨人"
+
+#. STRINGS.UI.SANDBOXMENU.CHOICEGLOBAL
+msgctxt "STRINGS.UI.SANDBOXMENU.CHOICEGLOBAL"
+msgid "Global"
+msgstr "全局"
+
 #. STRINGS.UI.SANDBOXMENU.CHOICEMISC
 msgctxt "STRINGS.UI.SANDBOXMENU.CHOICEMISC"
 msgid "World"
@@ -256876,10 +257781,20 @@ msgctxt "STRINGS.UI.SANDBOXMENU.CHOICEMONSTERS"
 msgid "Monsters"
 msgstr "怪物"
 
+#. STRINGS.UI.SANDBOXMENU.CHOICEOCEAN
+msgctxt "STRINGS.UI.SANDBOXMENU.CHOICEOCEAN"
+msgid "Ocean"
+msgstr "海洋"
+
 #. STRINGS.UI.SANDBOXMENU.CHOICERESOURCES
 msgctxt "STRINGS.UI.SANDBOXMENU.CHOICERESOURCES"
 msgid "Resources"
 msgstr "资源"
+
+#. STRINGS.UI.SANDBOXMENU.CHOICESURVIVORS
+msgctxt "STRINGS.UI.SANDBOXMENU.CHOICESURVIVORS"
+msgid "Survivors"
+msgstr "冒险家"
 
 #. STRINGS.UI.SANDBOXMENU.CLASSIC
 msgctxt "STRINGS.UI.SANDBOXMENU.CLASSIC"
@@ -256896,6 +257811,26 @@ msgctxt "STRINGS.UI.SANDBOXMENU.DAY"
 msgid "Day"
 msgstr "白天"
 
+#. STRINGS.UI.SANDBOXMENU.DAY_10
+msgctxt "STRINGS.UI.SANDBOXMENU.DAY_10"
+msgid "After Day 10"
+msgstr "第10天后"
+
+#. STRINGS.UI.SANDBOXMENU.DAY_15
+msgctxt "STRINGS.UI.SANDBOXMENU.DAY_15"
+msgid "After Day 15"
+msgstr "第15天后"
+
+#. STRINGS.UI.SANDBOXMENU.DAY_20
+msgctxt "STRINGS.UI.SANDBOXMENU.DAY_20"
+msgid "After Day 20"
+msgstr "第20天后"
+
+#. STRINGS.UI.SANDBOXMENU.DAY_5
+msgctxt "STRINGS.UI.SANDBOXMENU.DAY_5"
+msgid "After Day 5"
+msgstr "第5天后"
+
 #. STRINGS.UI.SANDBOXMENU.DEFAULT
 msgctxt "STRINGS.UI.SANDBOXMENU.DEFAULT"
 msgid "Autumn"
@@ -256905,6 +257840,26 @@ msgstr "秋"
 msgctxt "STRINGS.UI.SANDBOXMENU.DEFAULTSTART"
 msgid "Default"
 msgstr "默认"
+
+#. STRINGS.UI.SANDBOXMENU.DETECT_ALWAYS
+msgctxt "STRINGS.UI.SANDBOXMENU.DETECT_ALWAYS"
+msgid "Always"
+msgstr "总是"
+
+#. STRINGS.UI.SANDBOXMENU.DETECT_AUTO
+msgctxt "STRINGS.UI.SANDBOXMENU.DETECT_AUTO"
+msgid "Auto Detect"
+msgstr "自动检测"
+
+#. STRINGS.UI.SANDBOXMENU.DETECT_NEVER
+msgctxt "STRINGS.UI.SANDBOXMENU.DETECT_NEVER"
+msgid "Never"
+msgstr "从不"
+
+#. STRINGS.UI.SANDBOXMENU.DISABLED
+msgctxt "STRINGS.UI.SANDBOXMENU.DISABLED"
+msgid "Disabled"
+msgstr "禁用"
 
 #. STRINGS.UI.SANDBOXMENU.DISABLEDLEVEL
 msgctxt "STRINGS.UI.SANDBOXMENU.DISABLEDLEVEL"
@@ -256920,6 +257875,16 @@ msgstr "黄昏"
 msgctxt "STRINGS.UI.SANDBOXMENU.EASY"
 msgid "Not Easy"
 msgstr "不简单"
+
+#. STRINGS.UI.SANDBOXMENU.ENABLED
+msgctxt "STRINGS.UI.SANDBOXMENU.ENABLED"
+msgid "Enabled"
+msgstr "启用"
+
+#. STRINGS.UI.SANDBOXMENU.EVERYTHING
+msgctxt "STRINGS.UI.SANDBOXMENU.EVERYTHING"
+msgid "Everything"
+msgstr "所有"
 
 #. STRINGS.UI.SANDBOXMENU.EXCLUDE
 msgctxt "STRINGS.UI.SANDBOXMENU.EXCLUDE"
@@ -257113,7 +258078,7 @@ msgstr "仅"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEALWAYS
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEALWAYS"
-msgid "Lots"
+msgid "Tons"
 msgstr "很多"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDECOMPLEX
@@ -257136,6 +258101,11 @@ msgctxt "STRINGS.UI.SANDBOXMENU.SLIDELONG"
 msgid "Long"
 msgstr "长"
 
+#. STRINGS.UI.SANDBOXMENU.SLIDEMOSTLY
+msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEMOSTLY"
+msgid "Lots"
+msgstr "很多"
+
 #. STRINGS.UI.SANDBOXMENU.SLIDENEVER
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDENEVER"
 msgid "None"
@@ -257148,8 +258118,8 @@ msgstr "较多"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDERARE
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDERARE"
-msgid "Less"
-msgstr "较少"
+msgid "Little"
+msgstr "小巧的"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDESHORT
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDESHORT"
@@ -257190,6 +258160,11 @@ msgstr "中"
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDETINY"
 msgid "Tiny"
 msgstr "微小"
+
+#. STRINGS.UI.SANDBOXMENU.SLIDEUNCOMMON
+msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEUNCOMMON"
+msgid "Less"
+msgstr "较少"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEVERYCOMPLEX
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEVERYCOMPLEX"
@@ -257300,6 +258275,31 @@ msgstr "冬"
 msgctxt "STRINGS.UI.SANDBOXMENU.WINTER_SUMMER"
 msgid "Winter or Summer"
 msgstr "冬季或夏季"
+
+#. STRINGS.UI.SANDBOXMENU.WORLDGENERATION_ANIMALS
+msgctxt "STRINGS.UI.SANDBOXMENU.WORLDGENERATION_ANIMALS"
+msgid "Creatures and Spawners"
+msgstr "生物孵化"
+
+#. STRINGS.UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES
+msgctxt "STRINGS.UI.SANDBOXMENU.WORLDGENERATION_HOSTILE_CREATURES"
+msgid "Hostile Creatures and Spawners"
+msgstr "敌对生物孵化"
+
+#. STRINGS.UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS
+msgctxt "STRINGS.UI.SANDBOXMENU.WORLDSETTINGS_ANIMALS"
+msgid "Creatures"
+msgstr "生物"
+
+#. STRINGS.UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES
+msgctxt "STRINGS.UI.SANDBOXMENU.WORLDSETTINGS_HOSTILE_CREATURES"
+msgid "Hostile Creatures"
+msgstr "敌对生物"
+
+#. STRINGS.UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH
+msgctxt "STRINGS.UI.SANDBOXMENU.WORLDSETTINGS_RESOURCEREGROWTH"
+msgid "Resource Regrowth"
+msgstr "资源再生"
 
 #. STRINGS.UI.SANDBOXMENU.YES
 msgctxt "STRINGS.UI.SANDBOXMENU.YES"
