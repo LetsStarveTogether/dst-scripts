@@ -225403,6 +225403,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.lighter_haunteddoll"
 msgid "The fire from this lighter burns across all planes of existence simultaneously."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical"
+msgid "Woe to this poor fish in particular."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot"
 msgid "Divert lightning bolts away from your body in style with the Electrobolt Diffuser 300X!"
@@ -227313,6 +227318,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena"
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lightningrodnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lightningrodnautical"
+msgid "Equip this item to change your character's background portrait.\n\nMastery over both sea and sky is no small feat."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest"
 msgid "Equip this item to change your character's background portrait.\n\nCelebrate this Halloween Season by decorating a monstrosity."
@@ -227911,6 +227921,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_lantern_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_lantern_crystal"
 msgid "Set your profile icon to a softly glowing Salt Lamp."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_lightningrodnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_lightningrodnautical"
+msgid "Set your profile icon to a flashy Smite'ning Rod"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood
@@ -235828,6 +235843,11 @@ msgctxt "STRINGS.SKIN_NAMES.lighter_haunteddoll"
 msgid "Cursed Sterling Lighter"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.lightning_rod_nautical
+msgctxt "STRINGS.SKIN_NAMES.lightning_rod_nautical"
+msgid "Smite'ning Rod"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.lightning_rod_robot
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_robot"
 msgid "Electrobolt Diffuser 300X"
@@ -237738,6 +237758,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_lavaarena"
 msgid "The Forge Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_lightningrodnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_lightningrodnautical"
+msgid "Smite'ning Rod Portrait"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_livingforest"
 msgid "Haunted Forest Portrait"
@@ -238336,6 +238361,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_lantern_crystal
 msgctxt "STRINGS.SKIN_NAMES.profileflair_lantern_crystal"
 msgid "Salt Lamp"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_lightningrodnautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_lightningrodnautical"
+msgid "Smite'ning Rod"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_living_wood
@@ -242436,6 +242466,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM"
 msgid "Hollow Collection"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL"
+msgid "Nautical Collection"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN
@@ -256808,6 +256843,11 @@ msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
 msgid "Log in to starting earning items."
 msgstr ""
 
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
+msgid "Klei Points"
+msgstr ""
+
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.PURCHASE
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.PURCHASE"
 msgid "Shop"
@@ -257576,6 +257616,11 @@ msgstr ""
 #. STRINGS.UI.REDEEMDIALOG.CANCEL
 msgctxt "STRINGS.UI.REDEEMDIALOG.CANCEL"
 msgid "Cancel"
+msgstr ""
+
+#. STRINGS.UI.REDEEMDIALOG.CURRENCY_FMT
+msgctxt "STRINGS.UI.REDEEMDIALOG.CURRENCY_FMT"
+msgid "{currency_amt} {currency}!"
 msgstr ""
 
 #. STRINGS.UI.REDEEMDIALOG.FAILED_TO_CONTACT

@@ -225406,6 +225406,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.lighter_haunteddoll"
 msgid "The fire from this lighter burns across all planes of existence simultaneously."
 msgstr "这个打火机迸发出的火焰会在各个世界同时燃烧。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical"
+msgid "Woe to this poor fish in particular."
+msgstr "子非鱼，焉知鱼之哀。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot"
 msgid "Divert lightning bolts away from your body in style with the Electrobolt Diffuser 300X!"
@@ -227316,6 +227321,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena"
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
 msgstr "装备此物品以更改你的角色背景画像。\n\n熔炉是充满岩浆的残酷之地，只有最强大的人才能生存。当冒险家们激活远古大门时，他们错误地将这个位面与他们的世界连接到了一起。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lightningrodnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lightningrodnautical"
+msgid "Equip this item to change your character's background portrait.\n\nMastery over both sea and sky is no small feat."
+msgstr "装备此物品以更改你的角色背景画像。\n\n驰骋海天，快意人生。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest"
 msgid "Equip this item to change your character's background portrait.\n\nCelebrate this Halloween Season by decorating a monstrosity."
@@ -227915,6 +227925,11 @@ msgstr "将你的头像设为坎普斯。\n \n\n坎普斯不得不去拜访永�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_lantern_crystal"
 msgid "Set your profile icon to a softly glowing Salt Lamp."
 msgstr "将你的头像设置为柔和发光的盐灯。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_lightningrodnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_lightningrodnautical"
+msgid "Set your profile icon to a flashy Smite'ning Rod"
+msgstr "将你的头像设为闪亮的惩戒避雷针"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood"
@@ -235831,6 +235846,11 @@ msgctxt "STRINGS.SKIN_NAMES.lighter_haunteddoll"
 msgid "Cursed Sterling Lighter"
 msgstr "诅咒银打火机"
 
+#. STRINGS.SKIN_NAMES.lightning_rod_nautical
+msgctxt "STRINGS.SKIN_NAMES.lightning_rod_nautical"
+msgid "Smite'ning Rod"
+msgstr "惩戒避雷针"
+
 #. STRINGS.SKIN_NAMES.lightning_rod_robot
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_robot"
 msgid "Electrobolt Diffuser 300X"
@@ -237741,6 +237761,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_lavaarena"
 msgid "The Forge Portrait"
 msgstr "熔炉背景"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_lightningrodnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_lightningrodnautical"
+msgid "Smite'ning Rod Portrait"
+msgstr "惩戒避雷针背景"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_livingforest"
 msgid "Haunted Forest Portrait"
@@ -238340,6 +238365,11 @@ msgstr "坎普斯"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_lantern_crystal"
 msgid "Salt Lamp"
 msgstr "盐灯"
+
+#. STRINGS.SKIN_NAMES.profileflair_lightningrodnautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_lightningrodnautical"
+msgid "Smite'ning Rod"
+msgstr "惩戒避雷针"
 
 #. STRINGS.SKIN_NAMES.profileflair_living_wood
 msgctxt "STRINGS.SKIN_NAMES.profileflair_living_wood"
@@ -242440,6 +242470,11 @@ msgstr "牛头人系列"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM"
 msgid "Hollow Collection"
 msgstr "空洞系列"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NAUTICAL"
+msgid "Nautical Collection"
+msgstr "航海系列"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN"
@@ -256811,6 +256846,11 @@ msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
 msgid "Log in to starting earning items."
 msgstr "登录并开始赚取物品。"
 
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
+msgid "Klei Points"
+msgstr "科雷点数"
+
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.PURCHASE
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.PURCHASE"
 msgid "Shop"
@@ -257580,6 +257620,11 @@ msgstr "这个兑换码已经被使用。是你换的吗？"
 msgctxt "STRINGS.UI.REDEEMDIALOG.CANCEL"
 msgid "Cancel"
 msgstr "取消"
+
+#. STRINGS.UI.REDEEMDIALOG.CURRENCY_FMT
+msgctxt "STRINGS.UI.REDEEMDIALOG.CURRENCY_FMT"
+msgid "{currency_amt} {currency}!"
+msgstr "{currency_amt} {currency}！"
 
 #. STRINGS.UI.REDEEMDIALOG.FAILED_TO_CONTACT
 msgctxt "STRINGS.UI.REDEEMDIALOG.FAILED_TO_CONTACT"
