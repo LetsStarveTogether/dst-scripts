@@ -226466,6 +226466,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.none"
 msgid "Your usual look."
 msgstr "你和平常没什么两样。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.oar_driftwood_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.oar_driftwood_invisible"
+msgid "Convey an incredibly convincing impression of a driftwood oar."
+msgstr "惟妙惟肖地模仿了浮木桨。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.oar_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.oar_invisible"
+msgid "Convey an incredibly convincing impression of an oar."
+msgstr "惟妙惟肖地模仿了桨。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice"
 msgid "Try not to catch a cold."
@@ -235068,7 +235078,7 @@ msgstr "n/a"
 
 #. STRINGS.SKIN_NAMES.golden_farmhoe_invisible
 msgctxt "STRINGS.SKIN_NAMES.golden_farmhoe_invisible"
-msgid "Pantomimed Splendid Farming Hoe"
+msgid "Pantomimed Splendid Garden Hoe"
 msgstr "拟真奢华园艺锄"
 
 #. STRINGS.SKIN_NAMES.goldenaxe_invisible
@@ -237105,6 +237115,16 @@ msgstr "腐败刀锋"
 msgctxt "STRINGS.SKIN_NAMES.none"
 msgid "Default"
 msgstr "默认"
+
+#. STRINGS.SKIN_NAMES.oar_driftwood_invisible
+msgctxt "STRINGS.SKIN_NAMES.oar_driftwood_invisible"
+msgid "Pantomimed Driftwood Oar"
+msgstr "拟真浮木桨"
+
+#. STRINGS.SKIN_NAMES.oar_invisible
+msgctxt "STRINGS.SKIN_NAMES.oar_invisible"
+msgid "Pantomimed Oar"
+msgstr "拟真桨"
 
 #. STRINGS.SKIN_NAMES.oceanfishingrod_ice
 msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_ice"
@@ -243765,6 +243785,16 @@ msgstr "菌伞灯"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.NIGHTSWORD"
 msgid "Dark Sword"
 msgstr "暗夜剑"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OAR
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OAR"
+msgid "Oar"
+msgstr "桨"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OARDRIFTWOOD
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OARDRIFTWOOD"
+msgid "Driftwood Oar"
+msgstr "浮木桨"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD"
