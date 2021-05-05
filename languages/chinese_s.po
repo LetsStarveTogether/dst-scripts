@@ -4281,6 +4281,66 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ADVENTURE_PORTAL"
 msgid "I'm not sure I want to fall for that a second time."
 msgstr "我不想再一次上当了。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It shows me infinite possibilities..."
+msgstr "它让我看到了无限可能……"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Even a single piece is pretty illuminating!"
+msgstr "连部件都如此光彩夺目！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "It's draining the energy right out of that monster!"
+msgstr "它正在耗尽那个怪物的能量！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Gotcha!"
+msgstr "有了！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "You'll pay for breaking all that science!"
+msgstr "你会为破坏科学付出代价！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "This time I'm sure I got it."
+msgstr "这回我很确定我收拾了它。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "I think I just made it angry..."
+msgstr "我想我激怒它了……"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "You've made your point!"
+msgstr "你已经表明了你的观点！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "It's definitely angry now!"
+msgstr "它现在一定生气了！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Maybe someone should go poke it... just to be sure."
+msgstr "应该找个人过去戳一下……这样才能确定。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Is it dead? That strange energy still seems to be lingering around it."
+msgstr "它死了吗？那股神秘的力量好像还在它附近游荡。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "After rigorous testing, I can confirm that they make me want to take a nap."
+msgstr "经过不懈测试，我可以确认它们让我想打盹。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.AMULET"
 msgid "I feel so safe when I get to wear it."
@@ -5281,6 +5341,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Sunny side yum!"
 msgstr "真好吃！"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT"
+msgid "I think that used to be a crow."
+msgstr "我觉得那个以前应该是只乌鸦。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "I don't like the way it's looking at me..."
+msgstr "我不喜欢它盯着我的眼神……"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP"
 msgid "Back off, preacherman!"
@@ -5856,6 +5926,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "It was a lot bigger up close."
 msgstr "靠近后它大得多了。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "This sculpture is pretty beefy."
+msgstr "这座雕塑很牛。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Very statuesque."
@@ -5910,6 +5985,11 @@ msgstr "啊，这让我想起一些事情。不好的记忆。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Doesn't seem very \"kingly\" to me."
 msgstr "对我来说，看起来没有非常“高贵”。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "I much prefer it this way."
+msgstr "我更喜欢它这样。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -9156,6 +9236,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Water amplifies the science, allowing us to measure the moon."
 msgstr "水放大了科学，让我们能够测量月亮。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONDIAL.GLASSED"
+msgid "I have the strangest feeling I'm being watched."
+msgstr "我有种奇怪的感觉，好像有人在盯着我。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "It's a full moon."
@@ -9190,6 +9275,11 @@ msgstr "它非常锋利。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONGLASSAXE"
 msgid "I've made it extra effective."
 msgstr "我把它做的非常好用。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONGLASS_CHARGED"
+msgid "I should put this to scientific use before the energy fades!"
+msgstr "我应该在能量耗尽前为它找到科学的用途！"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONGLASS_ROCK"
@@ -9230,6 +9320,36 @@ msgstr "我应该能打碎它。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSPIDERDEN"
 msgid "That's not a normal spider den."
 msgstr "那可不是寻常的蜘蛛巢。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "It's glassy."
+msgstr "呈现玻璃状。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "It's glowing with unearthly energy."
+msgstr "它焕发着地外能量。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "Of course! Combining moon energy with potato energy, why didn't I think of that?"
+msgstr "对啊！结合月亮与土豆能量，我为什么没有早点想到呢？"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_SPARK"
+msgid "I think I'll call it the \"Higgsbury Particle.\""
+msgstr "姑且叫它“希格斯伯里粒子。”"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_STATIC"
+msgid "A new discovery, how electrifying!"
+msgstr "全新的发现，像过电一样刺激！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "It makes my hair do crazy things."
+msgstr "它让我的头发产生疯狂的变化。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -9310,6 +9430,21 @@ msgstr "看起来不怎么好吃。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_CAP_COOKED"
 msgid "The things I do in the name of science..."
 msgstr "我为了科学也是豁出去了……"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "The science has only just started."
+msgstr "科学才刚刚开始。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "That's looking much more science-y already!"
+msgstr "看起来科学多了！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "It's containing the energy! I knew what it was for all along, of course."
+msgstr "它捕捉到能量了！当然，我一早就知道会这样。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -13331,6 +13466,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SAVANNA"
 msgid "A chunk of ground."
 msgstr "一块地皮。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SHELLBEACH"
+msgid "A chunk of beach."
+msgstr "一块海滩。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SINKHOLE"
 msgid "Yet another ground type."
@@ -13455,6 +13595,36 @@ msgstr "惊人的美味。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAFFLES"
 msgid "I'm waffling on whether it needs more syrup."
 msgstr "我在犹豫是否需要更多的糖浆。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC"
+msgid "As a fellow man of science, I'm compelled to help him!"
+msgstr "作为科学界的同行，我有义务帮他！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "That has to be the tool I'm looking for!"
+msgstr "那正是我苦苦寻找的工具！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Of course I know what it is! It's just, er... too complicated to explain."
+msgstr "我当然知道是怎么回事！只是，诶……解释起来太复杂。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Clearly a very scientific tool!"
+msgstr "这明显是一个十分科学的工具！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "My scientific instincts tell me that this is the tool I'm looking for!"
+msgstr "我的科学本能告诉我，这就是我一直在寻找的工具！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "I know exactly what it does! Science!"
+msgstr "我知道它能做什么！科学！"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALKINGPLANK"
@@ -16761,6 +16931,66 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Don't be scared Woby, we'll do this together!"
 msgstr "别害怕，沃比，我们一起过去！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It tells me all kinds of stories."
+msgstr "它跟我讲各式各样的故事。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "I'm sure we can still find a use for it!"
+msgstr "我相信我们总能找到它的用处！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "Wow, we sure are lucky he happened to have that with him!"
+msgstr "哇，我们真幸运他碰巧带着那个。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Aww, I wanted to ask them what it's like up in space..."
+msgstr "嗷，我想问问他们宇宙是什么样子……"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Woah, is that a space creature?!"
+msgstr "哇，那个是宇宙生物吗？！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "At least now I can get a better look at it!"
+msgstr "起码我现在可以好好看看它了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "I'm starting to think they might be mad at us, Woby."
+msgstr "我觉得它们可能生我们的气了，沃比。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "I think they're trying to keep us from getting away!"
+msgstr "我觉得它们不想让我们走！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "If I just get a bit closer... I'm sure I can convince them we just want to be friends!"
+msgstr "如果我能再靠近一点的话……我一定能让它们相信我们只想做朋友！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Well... I guess that's that."
+msgstr "嗯……也只好这样。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Do you think they're going to get up again, Woby?"
+msgstr "你觉得它们还能东山再起吗，沃比？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "We should probably stay away from those, Woby."
+msgstr "我们应该离它们远一些，沃比。"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.AMULET"
 msgid "I'm invincible!!'"
@@ -17761,6 +17991,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Smells like breakfast is ready!"
 msgstr "闻起来像是做好的早餐！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BIRD_MUTANT"
+msgid "Woah! That doesn't look like any of the birds in my handbook!"
+msgstr "哇！那个看起来不像我手册里的任何一种鸟！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Maybe it's a cardinal? A... really sick cardinal?"
+msgstr "也许它是凤头鸟？病的凤头鸟？"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BISHOP"
 msgid "It's a Martian!"
@@ -18336,6 +18576,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "It looks just like him!"
 msgstr "它看起来就像他！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Aw don't be jealous Woby, you deserve a statue too!"
+msgstr "嗷，别太嫉妒，沃比，你也值得有一尊塑像！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "At least I'm not allergic to bees made out of stone."
@@ -18390,6 +18635,11 @@ msgstr "如果我们能好好相处就好了。"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Ugh. Who would want to be stuck wearing a suit forever?"
 msgstr "额。谁会想永远穿着西装呢？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "It's so lifelike, I feel like they're staring right at me!"
+msgstr "太逼真了，我感觉它们在直勾勾盯着我看！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -21636,6 +21886,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Huh? I can see the moon!"
 msgstr "咦？我可以看到月亮！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONDIAL.GLASSED"
+msgid "Wait, this isn't ice... it's glass!"
+msgstr "等等，这不是冰……是玻璃！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "The full moon, a.k.a. best time to spot a werewolf!"
@@ -21665,6 +21920,11 @@ msgstr "哇……真是轻盈！"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONGLASSAXE"
 msgid "Hey... it just occurred to me that this might be dangerous."
 msgstr "嘿... 我突然想到这可能很危险。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONGLASS_CHARGED"
+msgid "It's light and glowy."
+msgstr "轻盈还闪着光。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONGLASS_ROCK"
@@ -21705,6 +21965,36 @@ msgstr "我们要不要试着把它拆开，沃比？"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSPIDERDEN"
 msgid "Look at that, Woby! It's a home for moon creatures!"
 msgstr "看那，沃比！这是月亮生物的家！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "I've never seen glass made by lightning before!"
+msgstr "我以前从来没见过雷劈出来的玻璃！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Look at that, Woby! It's glowing!"
+msgstr "快看那个，沃比！它在发光！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "It's important to have the proper equipment in a storm."
+msgstr "风暴中一定要携带正确的装备。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_SPARK"
+msgid "It's literally spine-tingling!"
+msgstr "弄得脊梁骨痒痒的！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_STATIC"
+msgid "I wonder what he's working on?"
+msgstr "不知道他是在做什么？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "You'll be shocked to see what's inside! Get it? Because there's static inside?"
+msgstr "里面的东西一定能让你像过电一样！听明白没？因为里面有静电？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -21785,6 +22075,21 @@ msgstr "又出现一个我手册里没有的蘑菇……"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_CAP_COOKED"
 msgid "This doesn't seem like the smartest idea."
 msgstr "这可不是什么好主意。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "We've still got a ways to go."
+msgstr "这才哪跟哪。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "It's almost set up!"
+msgstr "就快装好了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Wow! I wonder what it's for?"
+msgstr "哇！不知道这是用来做什么的？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -25806,6 +26111,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_SAVANNA"
 msgid "A patch of grass."
 msgstr "一片草地。"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_SHELLBEACH"
+msgid "A patch of beach."
+msgstr "一片海滩。"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_SINKHOLE"
 msgid "A patch of ground."
@@ -25930,6 +26240,36 @@ msgstr "味道火辣。"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAFFLES"
 msgid "Breakfast!"
 msgstr "早餐！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC"
+msgid "Hey Mister, are you okay? You're uh... flickering...?"
+msgstr "先生，你还好吗？你身上怎么闪火花……？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Maybe this is what he's looking for?"
+msgstr "也许这就是他在找的东西？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Um... yeah, this one looks right!"
+msgstr "呃……对，这个看起来应该是！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "What do you think, Woby? Is this the tool we're looking for?"
+msgstr "你觉得对不对，沃比？这是我们在找的工具吧？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "It's definitely a tool of some kind... hope it's the right one!"
+msgstr "肯定是一种工具……希望是对的那种吧！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "That one looks about right... I think?"
+msgstr "那个看起来就是……我觉得？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WALKINGPLANK"
@@ -29256,6 +29596,66 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ADVENTURE_PORTAL"
 msgid "What fresh devilment is this?"
 msgstr "这又是什么新鲜的恶作剧？"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It makes me hear such sweet whispers..."
+msgstr "那能让我听到甜蜜的低语……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "It's been broken down to its basic ingredients."
+msgstr "它已被分解成了基本成分。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "It's gobbling up all the energy!"
+msgstr "它吃掉了所有能量！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Au revoir."
+msgstr "别了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "It looks rather irritated..."
+msgstr "它看起来像被惹毛了……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "At last, it's finished. Or is it..."
+msgstr "它总算玩完了。难道没有么……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Mon dieu, a second course!"
+msgstr "我的天啊，又是一道大菜！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "I will not be skewered by the likes of you!"
+msgstr "我才不会被你这种货色串起来当肉烤！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "I'd rather not be fried by that fiery gaze!"
+msgstr "我可不想被那火热的注视给烧焦！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Finalement, it's over."
+msgstr "天下没有不散的筵席，结束了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Is there more yet in store for us?"
+msgstr "还有几个菜，一起上吧？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Best to keep far away from those, non?"
+msgstr "最好离那些远一点，不是吗？"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.AMULET"
 msgid "I wear safety."
@@ -30256,6 +30656,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Could use a few different herbs..."
 msgstr "可以加一些不同的香草..."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_MUTANT"
+msgid "That bird is looking a bit odd."
+msgstr "那只鸟看起来有点异常。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Something is definitely amiss here."
+msgstr "这里肯定有什么不对劲。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BISHOP"
 msgid "You don't strike me as particularly spiritual."
@@ -30823,13 +31233,18 @@ msgstr "妈妈会喜欢这个的。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ANTLION
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ANTLION"
-msgid "I do like him better like this."
-msgstr "他这样我还更喜欢一点。"
+msgid "I do like her better like this."
+msgstr "我更喜欢她这样。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I can't believe we survived that beast!"
 msgstr "不敢相信我们没被怪兽杀死！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "What a beautifully marbled steak."
+msgstr "多么漂亮的大理石纹路的牛排。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEEQUEEN"
@@ -30885,6 +31300,11 @@ msgstr "我可真怕被活烤了。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "This must be the king?"
 msgstr "这个是国王吧？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "A three course fight I won't soon forget."
+msgstr "让我久久难以平复的三道主菜之战。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -34031,6 +34451,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONDIAL.GENERIC"
 msgid "I hope the birds get to enjoy it, too."
 msgstr "希望鸟儿们也会喜欢。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONDIAL.GLASSED"
+msgid "Mon dieu, the water has turned to glass!"
+msgstr "我的天啊，水已经变成了玻璃！"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "The full moon's arrived."
@@ -34060,6 +34485,11 @@ msgstr "哎哟，削铁如泥啊！"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONGLASSAXE"
 msgid "This will cut my work time in half!"
 msgstr "可以让我的工作时间砍半了！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONGLASS_CHARGED"
+msgid "It's still warm."
+msgstr "还是暖的。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONGLASS_ROCK"
@@ -34100,6 +34530,36 @@ msgstr "好像很易碎。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSPIDERDEN"
 msgid "Something is different about that spider den..."
 msgstr "那个蜘蛛巢不太寻常..."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "En glace."
+msgstr "如同冰面。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Freshly made."
+msgstr "新鲜出炉。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "Mon dieu, I can think of much better uses for a potato."
+msgstr "我的天啊，土豆给我的话能有更好的发挥。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_SPARK"
+msgid "It definitely has a kick to it."
+msgstr "它绝对有一种刺激感。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_STATIC"
+msgid "That seems to be a key ingredient for whatever he's working on."
+msgstr "这似乎是他工作的一个关键原料。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "What will we be cooking up with this, I wonder?"
+msgstr "这个需要和什么一起搭配呢？"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -34180,6 +34640,21 @@ msgstr "它也许能为意大利面增加鲜艳的配色。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_CAP_COOKED"
 msgid "Hm. It has quite the... interesting aroma."
 msgstr "嗯，这种香味十分……有趣。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Some kind of platter for the ground?"
+msgstr "这是地上用餐摆的盘子么？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "Only a few more ingredients left."
+msgstr "只剩下一些原料了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Ah, some kind of light fixture perhaps?"
+msgstr "啊，这是某种灯光装置吧？"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -37531,6 +38006,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SAVANNA"
 msgid "It's like an ingredient for the ground."
 msgstr "这就像是一种给地面的调料。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SHELLBEACH"
+msgid "It's like an ingredient for the ground."
+msgstr "这就像是一种给地面的调料。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SINKHOLE"
 msgid "It's like an ingredient for the ground."
@@ -37655,6 +38135,36 @@ msgstr "我亲手研磨的羊角。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAFFLES"
 msgid "Oh, brunch, I have missed you so!"
 msgstr "噢，早午餐，我好想念你！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC"
+msgid "Bonjour! Are you in need of assistance?"
+msgstr "你好！你需要帮助吗？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "This must be what I'm looking for!"
+msgstr "这应该就是我在找的东西！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Surely this must be the tool he wants?"
+msgstr "这应该就是他想要的工具吧？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "That certainly looks like a scientific tool of some sort!"
+msgstr "那个一看就是某种科学工具！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Perhaps that is what he is looking for?"
+msgstr "也许这就是他在找的东西？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "It's a tool of some sort, hopefully the one I'm looking for."
+msgstr "它是某种工具，希望是我要找的那种。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALKINGPLANK"
@@ -40926,6 +41436,66 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Adventure is calling."
 msgstr "冒险在呼唤我。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIANHAT"
+msgid "A boon from Mani's defeated Champion."
+msgstr "来自摩尼被击败的英雄的恩赐。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Even a single shard holds a measure of Mani's power."
+msgstr "即使是一个小碎片也折射出了摩尼的威力。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "It's ferrying this warrior's soul to the next realm."
+msgstr "它正在把这个战士的灵魂渡到另一个世界。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Surely the battle is not over already?"
+msgstr "战斗不会就这么结束吧？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Mani hath sent forth his greatest warrior to challenge me!"
+msgstr "摩尼派来了他最强大的勇士来挑战我！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Is that all you've got, Champion?"
+msgstr "你就这点能耐吗，英雄？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "It seems you are a worthy foe indeed..."
+msgstr "看来你还算个可敬的对手……"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "You think I'm trapped here with you? Ha! It is you who are trapped with me!"
+msgstr "你以为是我被你困住了？大错特错，是你被我困住了！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Come, let us finish this!"
+msgstr "来吧，咱们做个了断！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "It seems I've bested it after all."
+msgstr "看来我终究还是战胜了它。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Beware, stranger! The beast may yet rise again!"
+msgstr "小心，陌生人！野兽可能会再次崛起！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Only a coward would strike a foe down while they sleep!"
+msgstr "只有懦夫才会在敌人睡觉的时候趁人不备!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.AMULET"
 msgid "It's red, and a fighter. Just like me!"
@@ -41926,6 +42496,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Hot egg."
 msgstr "热鸟蛋。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRD_MUTANT"
+msgid "The beasts are changed by the storm!"
+msgstr "风暴改变了野兽！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "You think you can challenge me, winged fiend?"
+msgstr "你认为长出翅膀就可以挑战我了吗，恶魔？"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP"
 msgid "This one needs a good smack."
@@ -42501,6 +43081,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Twas a battle to sing of."
 msgstr "这是一场值得歌颂的战役。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "A stone tribute to my faithful steed."
+msgstr "这块石头在向我的忠诚坐骑致敬。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "I honor this warrior queen!"
@@ -42555,6 +43140,11 @@ msgstr "这是光荣战争的战利品！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Not a man fit for battle."
 msgstr "不是一个适合战斗的人。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "You fought well, Champion of Mani."
+msgstr "你曾经勇猛战斗过，摩尼的英雄。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -45771,6 +46361,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Mani's visage remains, even in the light of day."
 msgstr "即使是在日光之下，玛尼的模样也不变。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONDIAL.GLASSED"
+msgid "By the gods! The water hath turned to solid glass!"
+msgstr "诸神啊！水已经变成了固体玻璃！"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Mani claims the skies!"
@@ -45800,6 +46395,11 @@ msgstr "是种神圣的物质。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONGLASSAXE"
 msgid "Spirits of the woods stand no chance against me."
 msgstr "森林之魂无法反抗我了。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONGLASS_CHARGED"
+msgid "Tis lit by a strange power."
+msgstr "它被一种奇怪的力量所照亮。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONGLASS_ROCK"
@@ -45840,6 +46440,36 @@ msgstr "它已经面对了玛尼的暴怒。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSPIDERDEN"
 msgid "I sense battle on the horizon."
 msgstr "我能感觉到战斗即将到来。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "The power hath faded from it."
+msgstr "那股力量已经从它身上褪去。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "It hath been imbued with a strange power."
+msgstr "它被赋予了一种不同寻常的力量。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "No mere storm can stop me!"
+msgstr "什么样的风暴都不能阻止我！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_SPARK"
+msgid "It sends a curious tickle through my bones."
+msgstr "它让我的骨头都痒痒的。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_STATIC"
+msgid "Tis a strange kind of power."
+msgstr "这是一种奇怪的力量。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "A strange power rests inside."
+msgstr "里面有一种奇异的力量在休眠。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -45920,6 +46550,21 @@ msgstr "卑鄙的非肉！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_CAP_COOKED"
 msgid "Such a thing will never pass my lips!"
 msgstr "这种的东西绝不能通过我的嘴唇！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "I know not its purpose. A tribute to Mani, perhaps?"
+msgstr "我摸不清它的目的。也许为了供奉摩尼？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "The more I build, the stranger it appears."
+msgstr "我越是建造，它越是显得离奇。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Mere mortals were not meant to tamper so with the power of the gods..."
+msgstr "小小凡人怎敢如此亵渎神的力量的……"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -49936,6 +50581,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SAVANNA"
 msgid "A piece of the battlefield."
 msgstr "一块战场。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SHELLBEACH"
+msgid "A piece of the battlefield."
+msgstr "一块战场。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SINKHOLE"
 msgid "A piece of the battlefield."
@@ -50060,6 +50710,36 @@ msgstr "技术上是从野兽身上获得的。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAFFLES"
 msgid "Waffles are no way to prepare for battle!"
 msgstr "华夫饼不适合即将出战的勇士！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC"
+msgid "Hail stranger! Are ye friend or foe?"
+msgstr "陌生人你好！你是敌是友？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Mayhaps this is what I seek."
+msgstr "也许这就是我在找寻的东西。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "The odd stranger requested a tool, mayhaps this is it."
+msgstr "古怪的陌生人说是要一个工具，也许就是这个。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Is this what the odd stranger seeks?"
+msgstr "这就是那个古怪的陌生人要找的东西吗？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Mayhaps this is what the odd stranger lost."
+msgstr "或许这就是古怪陌生人丢掉的东西。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "How strange. Perhaps it belongs to that odd stranger."
+msgstr "十分怪异。也许它是那个古怪陌生人的。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WALKINGPLANK"
@@ -53321,6 +54001,66 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ADVENTURE_PORTAL"
 msgid "So that's where I left that thing!"
 msgstr "这就是我留下那件东西的地方了！"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It makes me uneasy... but I can't deny its power."
+msgstr "虽然它让我感到不舒服……不过我不能否认它的力量。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Even shattered, it holds power."
+msgstr "它即使被打碎了还是有力量。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "Ah, now I see..."
+msgstr "啊，现在我明白了……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Something doesn't feel right..."
+msgstr "总觉得哪里不对劲……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "It seems our actions have been noticed."
+msgstr "我们的行为似乎引起了别人的注意。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Come on now. You're not fooling anyone."
+msgstr "得了吧。骗谁呢。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "It toys with us."
+msgstr "它跟我们玩呢。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "It's trying to ensnare us."
+msgstr "它想诱导我们。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "At last you reveal your true self."
+msgstr "总算露出了你的本来面目。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "I don't know what to believe. All this time, I thought that They were..."
+msgstr "我也不知道该相信什么了。我总以为它们……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "This power, it feels like... but it couldn't be..."
+msgstr "这种力量感觉起来……可是不应该啊……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "I'd do well to avoid those."
+msgstr "我得躲着它们点。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.AMULET"
 msgid "It channels the darkest energies of the universe."
@@ -53484,7 +54224,7 @@ msgstr "“改变？”不对。它应该是个名字……"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARCHIVE_RUNE_STATUE.LINE_5
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARCHIVE_RUNE_STATUE.LINE_5"
 msgid "\"Alter\"?"
-msgstr "“切换”？"
+msgstr "“化”？"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARCHIVE_SECURITY_DESK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARCHIVE_SECURITY_DESK.GENERIC"
@@ -54321,6 +55061,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Sunny side up."
 msgstr "有蛋黄的那一面朝上。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BIRD_MUTANT"
+msgid "That creature has seen better days."
+msgstr "那个生物曾经也美好过。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "You dare spit at me?!"
+msgstr "你敢朝我吐口水？！"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BISHOP"
 msgid "I'm especially proud of that piece."
@@ -54896,6 +55646,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "A brute."
 msgstr "一个畜生。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "At least this version doesn't shed all over my poor suit."
+msgstr "至少这个版本不会在我可怜的西装上掉毛。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Does she really need a statue?"
@@ -54950,6 +55705,11 @@ msgstr "它根本没机会。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "What a well-dressed figure!"
 msgstr "穿着真体面！"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "How could I not have seen..."
+msgstr "我怎么就没想到……"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -58156,6 +58916,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONDIAL.GENERIC"
 msgid "The gem conjures water springs in conjunction with the \"moon's\" cycles."
 msgstr "这宝石结合“月亮”的周期对水泉施展魔法。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONDIAL.GLASSED"
+msgid "I can feel its eye upon me... watching..."
+msgstr "我能感到它的眼睛盯在我身上……一直盯着我……"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "The \"moon\" is full in the sky."
@@ -58185,6 +58950,11 @@ msgstr "还是不如我犀利吧？"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONGLASSAXE"
 msgid "Go on. Axe me what the moon's made of."
 msgstr "月斧？乐府？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONGLASS_CHARGED"
+msgid "Nearly as sharp as I am, but with a garish glow."
+msgstr "几乎跟我一样犀利，但是发着艳俗的光。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONGLASS_ROCK"
@@ -58225,6 +58995,36 @@ msgstr "这可能很糟。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSPIDERDEN"
 msgid "I'd rather not peek inside."
 msgstr "我可不想去瞅里面是什么。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "It's been turned to glass."
+msgstr "被变成了玻璃。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Hm. This may be useful."
+msgstr "嗯。这个也许能派上用场。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "There are hardly enough inventors brave enough to harness the power of potatoes."
+msgstr "没有足够的发明家敢于发掘土豆的力量。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_SPARK"
+msgid "They give off a rather unsettling sensation."
+msgstr "它们散发出一种相当令人不安的感觉。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_STATIC"
+msgid "What is he meddling with?"
+msgstr "他在鼓捣什么？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "There's power trapped inside."
+msgstr "有力量被困在里面。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -58305,6 +59105,21 @@ msgstr "奇怪啊，我一看它眼皮就变沉了。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_CAP_COOKED"
 msgid "Odd, but not unpleasant."
 msgstr "虽然奇怪，并不讨厌。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "I don't see why I must be the one to do all the work."
+msgstr "我就不明白了，为什么所有活都丢给我干。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "How odd to be the one laboring on a machine for an unknown purpose..."
+msgstr "在一台机器上漫无目的地挥洒汗水，太古怪了……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "That old fool..."
+msgstr "那个老傻瓜……"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -62321,6 +63136,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SAVANNA"
 msgid "Dirty."
 msgstr "好脏。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SHELLBEACH"
+msgid "Turf."
+msgstr "地皮。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SINKHOLE"
 msgid "Turf."
@@ -62445,6 +63265,36 @@ msgstr "我是有点年纪了，但还不至于吃流质食物。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAFFLES"
 msgid "An excellent start to the morning. Or evening."
 msgstr "早晨或晚上的美好开端。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC"
+msgid "What is he up to now?"
+msgstr "他现在在干什么？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Hmph. So I'm to fetch his tools for him now?"
+msgstr "哼，现在要使唤我帮他取工具了？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "I suppose that must be what he's looking for."
+msgstr "我猜那个就是他在找的东西。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Finally. That must be what he's looking for."
+msgstr "总算找到了。那个一定是他在找的东西。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Is this what he wants? Why couldn't that old fool have been more descriptive?!"
+msgstr "那就是他要找的吗？那个老傻瓜为什么不说清楚点？！"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Could this be what he's looking for?"
+msgstr "这个会是他想找的东西吗？"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WALKINGPLANK"
@@ -65696,6 +66546,66 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Something wicked this way comes."
 msgstr "当邪恶来敲门。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIANHAT"
+msgid "We see things when we put it on..."
+msgstr "我们戴上它以后能看到些东西……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Uh oh... maybe we can paste them back together?"
+msgstr "哎呀……也许我们能把它们再粘起来？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "It's sucking up all the glowy stuff!"
+msgstr "它吸走了所有发光的东西！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Whew, that was scary!"
+msgstr "哇呀呀，好吓人！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Aah! It looks mad!"
+msgstr "啊！它看起来很生气！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Is it over now?"
+msgstr "就结束了吗？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Uh oh... we think we just made it madder..."
+msgstr "啊呀……我们让他变得更生气了……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Yikes, those are sharp!"
+msgstr "咦，那些好尖啊！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "We're sorry! We're sorry!"
+msgstr "我们错了！我们错了！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "We're not sure what he did, but it doesn't look like it's getting up again!"
+msgstr "我们也不知道他做了什么，不过看起来它不会再站起来了！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Watch out! It might get back up!"
+msgstr "小心点！它可能会再起来！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Now would be a really bad time to fall asleep."
+msgstr "现在睡着了可就完蛋了。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.AMULET"
 msgid "It's a fine necklace, I suppose."
@@ -66696,6 +67606,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Fried just like mum did."
 msgstr "煎蛋，跟妈妈做的一样。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_MUTANT"
+msgid "We think there might be something wrong with that bird..."
+msgstr "我们觉得那只鸟有点不对劲……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Stop spitting at us!"
+msgstr "别朝我们吐口水了！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP"
 msgid "You don't play by the chess rules grandpa taught me."
@@ -67271,6 +68191,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "The fur looks so real!"
 msgstr "这些皮毛看起来真逼真！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Now we want to go for a beefalo ride!"
+msgstr "现在我们想去骑牛了！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Sweet!"
@@ -67325,6 +68250,11 @@ msgstr "我们几乎能感觉到火焰！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Reminds me of grandpa."
 msgstr "让我想起了爷爷。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "It can't still see us... right?"
+msgstr "这下它看不到我们了……对吧？"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -70541,6 +71471,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Hey, Ms. Wicker! How come we can still see the moon?"
 msgstr "嘿，威克女士！为什么我们还能看到月亮呢？"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.GLASSED"
+msgid "It looks like ice, but we think it's actually glass!"
+msgstr "它看起来像冰，可是我们认为它其实是玻璃！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Wow! Full moon!"
@@ -70570,6 +71505,11 @@ msgstr "哇，是从月亮来的！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASSAXE"
 msgid "We think it cuts better than a regular axe."
 msgstr "我们觉得它应该比普通斧头锋利。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASS_CHARGED"
+msgid "There's still lightning stuck in it!"
+msgstr "还有闪电被困在里面！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASS_ROCK"
@@ -70610,6 +71550,36 @@ msgstr "哦...我们不喜欢这个！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSPIDERDEN"
 msgid "I don't want to be friends with those ones."
 msgstr "我不想和它们做朋友。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Aw, it's not glowy anymore."
+msgstr "嗷，它不再发光了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Oh! It's so pretty!"
+msgstr "噢！它好漂亮啊！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "Will these goggles be able to protect all of our eyes from the storm?"
+msgstr "这些护目镜能在风暴中保护我们的眼睛吗？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_SPARK"
+msgid "It makes all our spider hairs stand on end!"
+msgstr "它让我们的蜘蛛毛都竖起来了！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_STATIC"
+msgid "That looks kinda dangerous..."
+msgstr "那个看起来有点危险啊……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "It's like a big lightning bug stuck in a jar."
+msgstr "它就像是被困在罐子里的一只大闪电虫。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -70690,6 +71660,21 @@ msgstr "它看起来很奇怪。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_CAP_COOKED"
 msgid "We're not sure about this..."
 msgstr "我们也不确定……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "There's so much building to do, can't we go play instead?"
+msgstr "有好多东西要建啊，我们就不能去玩啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "It's coming along!"
+msgstr "越来越像样了！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "It looks pretty impressive... whatever it is!"
+msgstr "它看起来很厉害的样子……虽然不知道它是什么！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -72974,7 +73959,7 @@ msgstr "我们骑！"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_RACE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_RACE"
 msgid "It's a saddle made out of spidersnacks!"
-msgstr "这是蜘蛛蛇做的鞍座！"
+msgstr "这个鞍座是用蜘蛛的零食做的！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_WAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_WAR"
@@ -74706,6 +75691,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SAVANNA"
 msgid "Some grassy dirt."
 msgstr "一些长满草的地皮。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SHELLBEACH"
+msgid "Some ground that we dug up."
+msgstr "我们挖出的一些地皮。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SINKHOLE"
 msgid "Some pretty average earth."
@@ -74830,6 +75820,36 @@ msgstr "哇！果冻！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAFFLES"
 msgid "Yummy!"
 msgstr "好吃！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC"
+msgid "Should we help him? I don't mind, but he's not so sure..."
+msgstr "我们应该帮他吗？我不介意，可是他看起来不是很确定……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Is that the thing we're looking for?"
+msgstr "那个就是我们一直在找的东西吗？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "It looks like some kind of tool... maybe it's what he was looking for!"
+msgstr "它看起来像是某种工具……也许这就是他在找的东西！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "We found it! He'll be so happy!"
+msgstr "我们找到了！他一定会很开心！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "We found a tool! Maybe it's the one he's looking for?"
+msgstr "我们找到一个工具了！也许这就是他在找的东西？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Maybe this is what he was looking for?"
+msgstr "也许他想找到就是这个？"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALKINGPLANK"
@@ -78156,6 +79176,66 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ADVENTURE_PORTAL"
 msgid "What technological terror is this?"
 msgstr "这是哪门子的技术恐怖行动？"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIANHAT"
+msgid "When I wear it, i-it's harder to see Abigail..."
+msgstr "我戴上以后，就更难看到阿比盖尔了……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "It broke apart."
+msgstr "它摔碎了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "It's draining the life from that creature..."
+msgstr "它正在耗尽那个生物的生命……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Even the mighty must fall."
+msgstr "强人终有倒下的一天。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "We've brought on our own demise."
+msgstr "我们这是自取灭亡。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Will it rise again, I wonder?"
+msgstr "我在想，它会再起来吗？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "It is not through yet."
+msgstr "还没完呢。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Oh... it missed."
+msgstr "哦……它错过了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "It's beautiful..."
+msgstr "真美啊……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Nothing can escape death for long."
+msgstr "谁都不能永远逃避死亡。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Perhaps now death has finally claimed it."
+msgstr "死神总算带走了它。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "It beckons me with the promise of endless slumber..."
+msgstr "它用长眠不醒的承诺在向我招手……"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.AMULET"
 msgid "I wonder who used to own this."
@@ -79156,6 +80236,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BIRD_EGG_COOKED"
 msgid "No bird will ever come of it."
 msgstr "它再也孵不出小鸟了。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BIRD_MUTANT"
+msgid "Mr. Crow, you don't look well."
+msgstr "乌鸦先生，你看起来身体不太好。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Something is terribly wrong with that bird."
+msgstr "那只鸟很不对劲。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BISHOP"
 msgid "What does he pray for?"
@@ -79731,6 +80821,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Ashes to ashes, bust to bust. Oh."
 msgstr "尘归尘，土归土。哦。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Merely a cold, lifeless copy."
+msgstr "仅仅是一个冰冷而没有生命的副本。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "She once had a sweet life."
@@ -79785,6 +80880,11 @@ msgstr "她现在躺着，像石头一样冰冷。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Alas, the king is but a figurehead, at best."
 msgstr "哎，国王也顶多是个傀儡而已。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "It won't be looking down on us anymore."
+msgstr "它不会再俯视我们了。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -82849,7 +83949,7 @@ msgstr "惊人的相似..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MINISIGN.UNDRAWN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MINISIGN.UNDRAWN"
 msgid "It is bare..."
-msgstr "它光秃秃..."
+msgstr "它光秃秃的..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MINISIGN_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MINISIGN_ITEM"
@@ -82991,6 +84091,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Does it reflect from the other side too, Abigail?"
 msgstr "它从另一边也会反射吗，阿比盖尔？"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.GLASSED"
+msgid "It's staring at me."
+msgstr "它在盯着我看。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "A full moon looms overhead. Watchful."
@@ -83020,6 +84125,11 @@ msgstr "尖锋会很快了断所有。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONGLASSAXE"
 msgid "Death is so anticlimactic for trees."
 msgstr "死亡对于树木来说太反高潮了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONGLASS_CHARGED"
+msgid "It feels almost alive, somehow."
+msgstr "它感觉好像是活的一样。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONGLASS_ROCK"
@@ -83060,6 +84170,36 @@ msgstr "现在它永远不会腐败..."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSPIDERDEN"
 msgid "Terrible creatures lurk within."
 msgstr "里面藏着可怕的生物。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Cold glass."
+msgstr "冰冷的玻璃。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "There's light trapped inside."
+msgstr "有光被困在了里面。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "I shall be able to see with eyes unclouded."
+msgstr "这下我的双眼不会被蒙蔽，能够看清东西了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_SPARK"
+msgid "It doesn't feel of this world."
+msgstr "感觉它不是这个世界的东西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_STATIC"
+msgid "That looks rather dangerous... I wonder if he'd let me try."
+msgstr "这看起来相当危险……不知道他能不能让我试试。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "I can see a little spark inside."
+msgstr "我能看到里面有个小火花。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -83140,6 +84280,21 @@ msgstr "它从死物中汲取营养，现在它的死会滋养我。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_CAP_COOKED"
 msgid "All is malleable."
 msgstr "全都是有韧性的。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "There's so much left to be done..."
+msgstr "剩下好多都没做完……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "It's quite odd looking, isn't it?"
+msgstr "看起来很奇怪，对吧？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "How very peculiar."
+msgstr "真是古怪。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -87156,6 +88311,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SAVANNA"
 msgid "Some ground."
 msgstr "一些地皮。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SHELLBEACH"
+msgid "Some ground."
+msgstr "一些地皮。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SINKHOLE"
 msgid "Some ground."
@@ -87280,6 +88440,36 @@ msgstr "扎舌头。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAFFLES"
 msgid "They're definitely waffles."
 msgstr "它们肯定是华夫饼。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC"
+msgid "He flickers and fades... perhaps he's a spirit?"
+msgstr "他闪闪光之后就渐渐消失了……是因为他是个精灵？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Oh, I wish I knew if this is the tool he asked for..."
+msgstr "噢，要是我知道这是不是他要的工具就好了……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Abigail, do you think this looks like a... whatever he said?"
+msgstr "阿比盖尔，你觉得这个像不像……他说的那个东西？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "I wonder if this might be what that strange old man was looking for?"
+msgstr "不知道这个会不会是那个怪老头在找的东西？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Well, I've found something. I wonder if it's what he's looking for..."
+msgstr "那个，我找到个东西。不知道是不是他在找的……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "This looks like something that strange old man might have a use for."
+msgstr "这个看起来像是那个怪老头会用到的东西。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALKINGPLANK"
@@ -90551,6 +91741,66 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ADVENTURE_PORTAL"
 msgid "That violates some pretty fundamental physical laws."
 msgstr "那违反了一些最基本的物理定律。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIANHAT"
+msgid "The multitudes of knowledge it contains... if only I could write it all down..."
+msgstr "它所包含的知识如此广阔……我要是能全部记录下来就好了……"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "These shards hold a significant amount of energy on their own."
+msgstr "这些碎片存储了大量能量。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "I wonder what he means to do with all that energy."
+msgstr "不知道他要那么多的能量做什么。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Strange, I was expecting a bit more than that."
+msgstr "奇怪啊，我本来以为要折腾一番呢。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Our activities seem to have triggered a defense mechanism of sorts."
+msgstr "我们的行为似乎引起了某种防御机制。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "I doubt it will stay inert for long."
+msgstr "这种惰性应该不会持续太久。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Interesting, it seems to utilize aspects of the altars for combat."
+msgstr "有趣，它似乎利用了祭坛的某些方面进行战斗。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "I should endeavor to not become trapped by its barriers."
+msgstr "我会努力不被它的障碍物困住。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "If my assumptions are correct, this should be its final form."
+msgstr "如果我的假设正确，这应该是它的最终形式。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "With the energy removed, I doubt it will be able to re-form."
+msgstr "能量移除之后，我怀疑它多半不能再生了。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Interesting, it seems to have retained the energy that powered it."
+msgstr "有趣，它似乎保留了为其提供动力的能量。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "They appear to have a sleep inducing effect. Best to stay away."
+msgstr "它们似乎有催眠的能力。我最好避开一些。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AMULET"
 msgid "A relic from another time."
@@ -91551,6 +92801,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Just needs some toast."
 msgstr "只要一点烤面包。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_MUTANT"
+msgid "Oh dear, that creature looks unwell."
+msgstr "噢，天啊。那个生物看起来不健康。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "The poor thing appears to have been altered by its proximity to the storm."
+msgstr "那个可怜的家伙看来因为太靠近风暴而被改变了。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BISHOP"
 msgid "A clockwork clergyman."
@@ -92126,6 +93386,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Quite expressive!"
 msgstr "相当具有表现力！"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "It captures my beefalo's likeness quite well."
+msgstr "它把我的皮弗娄牛刻画的栩栩如生。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "A queenly tribute to the Apis mellifera."
@@ -92180,6 +93445,11 @@ msgstr "艺术家对虚构双翅目生物的演绎。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "The king is, by all measures, a liability to everyone on the board."
 msgstr "总的来说，国王是棋盘上每个子的职责所在。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "I must commend the artist for their attention to detail."
+msgstr "我想特别表扬一下艺术家的细节呈现。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -95386,6 +96656,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Something very odd is going on here."
 msgstr "这里正在发生古怪的事情。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.GLASSED"
+msgid "How curious, the water reacts similarly to what I observed in the grotto."
+msgstr "真奇特，水的反应跟我在洞窟中观察到的一致。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "This cycle of the moon has drawn to a close."
@@ -95415,6 +96690,11 @@ msgstr "也许我能留一个样本，研究它的成分。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASSAXE"
 msgid "Always strive for greater efficacy."
 msgstr "对于效率的追求是无止境的！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_CHARGED"
+msgid "The energy seems unstable, I'll have to be quick to put it to any use."
+msgstr "能量似乎不稳定，我得尽快利用它。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_ROCK"
@@ -95455,6 +96735,36 @@ msgstr "多么复杂的转化啊。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSPIDERDEN"
 msgid "Those poor hideous creatures are making their den here."
 msgstr "这些可怜的丑陋生物在这里筑了巢。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "The glass seems to have stabilized."
+msgstr "玻璃似乎稳定了下来。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "It's radiating a faintly glowing energy."
+msgstr "它在散发着一种发微光的能力。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "A rather eccentric design, yet surprisingly effective."
+msgstr "不同寻常的设计，但却出奇有效。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_SPARK"
+msgid "I assumed it was a form of electricity, but it seems to be something else entirely..."
+msgstr "我本以为它是某种电力，可是似乎完全是另一种东西……"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_STATIC"
+msgid "That energy seems quite volatile."
+msgstr "这种能量似乎很不稳定。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "This device appears to keep the energy contained, somehow."
+msgstr "这个设备好像以某种方式遏制了能量。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -95535,6 +96845,21 @@ msgstr "它似乎具有很强的诱导睡眠的特性。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_CAP_COOKED"
 msgid "How odd. Once cooked, they seem to act as a stimulant."
 msgstr "真奇怪。一旦煮熟了，它们就具有刺激性了。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "I'm afraid I can't yet ascertain its function."
+msgstr "恐怕我一时间还不能说清它的功能。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "The pieces are slowly falling into place."
+msgstr "这些组件渐渐都放好了。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "As I suspected, it's meant to function as a battery of sorts."
+msgstr "如同我的假设一样，它的功能就是储能电池。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -99551,6 +100876,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SAVANNA"
 msgid "The ground. You step on it."
 msgstr "地皮。你正踩在它上面。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SHELLBEACH"
+msgid "The ground. You step on it."
+msgstr "地皮。你正踩在它上面。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE"
 msgid "The ground. You step on it."
@@ -99675,6 +101005,36 @@ msgstr "有限的材料缺做出此等美味，着实令人刮目相看。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAFFLES"
 msgid "Salutations, waffles."
 msgstr "你好啊，华夫饼。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC"
+msgid "He seems to be conducting research on the storm, I should assist him."
+msgstr "他似乎在研究风暴，我应该帮助他。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Oh dear, I wonder whether that is the tool he requested or not..."
+msgstr "噢，天啊。真不知道这个是不是他要的工具……"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Perhaps this is the tool he requires? I should suggest a cataloging system."
+msgstr "也许这就是他要的工具？我建议建立一个索引。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "His instructions weren't particularly clear, but this might be what I seek."
+msgstr "他当时语焉不详，但也许要找的就是这个。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "His tools would be much easier to procure if there was some organization..."
+msgstr "哪怕有一点点的整理，他的工具也不至于这么难找……"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Regrettably unlabeled... I'll just have to assume it's what he's looking for."
+msgstr "可惜没有标签……我只好假设这就是他要找的。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK"
@@ -100849,7 +102209,7 @@ msgstr "这地方的地里每天都越来越不为人所理解。"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWSTAFF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWSTAFF"
 msgid "Luckily the star is a manageable size."
-msgstr "还好这颗矮人星不是特别大，可以掌控。"
+msgstr "还好这颗矮星不是特别大，可以掌控。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTB_BEEFALOSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTB_BEEFALOSHRINE.BURNT"
@@ -102966,6 +104326,66 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Maybe that leads home."
 msgstr "也许那是回家的路。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It makes the inside of my head so noisy..."
+msgstr "它让我的脑袋嗡嗡响……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "It was surprisingly hard to pull that thing apart."
+msgstr "没想到那东西那么难拉开。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "What's that weird machine?"
+msgstr "那是什么怪机器？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Heh. Take that moon, or whatever!"
+msgstr "呵。这招咋样，月亮！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Ugh, I KNEW we shouldn't have been messing with all that dumb science junk."
+msgstr "呃，我早就说了别玩那些愚蠢的科学垃圾吧。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Got it for sure that time."
+msgstr "那回十拿九稳了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "You think you're so tough?! Burn!"
+msgstr "你觉得自己很强么？！烧吧！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Ugh, get these things out of my way!"
+msgstr "呃，别让这些东西挡了我的路！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Pretty, but it'll be even prettier when it burns!"
+msgstr "现在还不算漂亮，烧起来才算漂亮！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Guess it's finally done."
+msgstr "这下总算完了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Uh, hey old guy? You might not want to get that close..."
+msgstr "啊，老家伙？你可别靠太近了……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Hey, that's just playing dirty!"
+msgstr "喂，你玩阴的啊！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.AMULET"
 msgid "I have no idea what it does, but it feels good to wear it!"
@@ -103966,6 +105386,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Yuck. The yellow part is all runny."
 msgstr "呸。黄色的部分还没凝固。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_MUTANT"
+msgid "It looks like it wants to take a bite out of me."
+msgstr "它看起来像是想咬我一口。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Oh yeah?! Two can play at that game... PTOOEY!"
+msgstr "哦是吗？！这游戏完全可以两个人玩……我啐！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP"
 msgid "It's a bishop!"
@@ -104541,6 +105971,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Those are some pointy teeth."
 msgstr "那些是一些尖利的牙齿。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Hey, they got his good side!"
+msgstr "嘿，挑了他好看的一面！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Took the sting out of her stinger."
@@ -104595,6 +106030,11 @@ msgstr "我觉得……我觉得我能理解艺术了。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "I'm not afraid of that guy. He doesn't even have arms!"
 msgstr "我不害怕那家伙。他连胳膊都没有！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "Ugh, I'd be happy never seeing that thing again."
+msgstr "额，别再让我看到那东西。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -107801,6 +109241,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONDIAL.GENERIC"
 msgid "What the heck? I can still see the moon!"
 msgstr "搞什么鬼！我仍然还看得到月亮！"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONDIAL.GLASSED"
+msgid "I feel like it's staring at me."
+msgstr "感觉在看着我。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "That's as full as it gets."
@@ -107830,6 +109275,11 @@ msgstr "我们要玻璃做什么啊？"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONGLASSAXE"
 msgid "The moon HATES trees."
 msgstr "月亮讨厌树。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONGLASS_CHARGED"
+msgid "It's like there's a little fire inside."
+msgstr "好像里面有一小团火。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONGLASS_ROCK"
@@ -107870,6 +109320,36 @@ msgstr "哦看！岩石！啊啊啊啊！"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSPIDERDEN"
 msgid "I hope it burns."
 msgstr "希望能着火。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Hey, I can see my reflection!"
+msgstr "喂，我能看到自己的倒影！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "It's like there's a little fire inside."
+msgstr "好像里面有一小团火。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "At least I'll be wearing it in the storm where nobody can see me."
+msgstr "还好我是在风暴里戴那个，别人看不见。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_SPARK"
+msgid "I'm gonna touch it."
+msgstr "我来碰碰看。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_STATIC"
+msgid "Don't get zapped, old man."
+msgstr "别被电到啊，老头子。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "It crackles, almost like a fire."
+msgstr "它噼啪作响，像火一样。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -107950,6 +109430,21 @@ msgstr "真是一颗长相奇葩的蘑菇。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_CAP_COOKED"
 msgid "Once again, fire makes it better."
 msgstr "事实又一次证明，火焰让它变得更好了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Uuuugh, why can't that old guy just build this thing himself?"
+msgstr "呃，为什么那个老家伙不自己造？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "I guess I could just burn it and be done with it, but now I'm kinda curious..."
+msgstr "我是可以一把火烧了它，可是我就是好奇它造好是什么样子……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Great! So what does it do?"
+msgstr "太好了！它能做什么呢？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -111966,6 +113461,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_SAVANNA"
 msgid "The ground is boring."
 msgstr "地皮太没意思了。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_SHELLBEACH"
+msgid "The ground is boring."
+msgstr "地皮太没意思了。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_SINKHOLE"
 msgid "The ground is boring."
@@ -112090,6 +113590,36 @@ msgstr "嗨，沃利！我能吃一口吗？"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAFFLES"
 msgid "Hi, waffles!"
 msgstr "你好，华夫饼！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC"
+msgid "Uuuugh, old people always seem to need help with something or other."
+msgstr "呃，老人们不是这里需要帮忙，就是那里需要帮忙。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "I've got a feeling this belongs to that old guy."
+msgstr "我感觉这是那个老头的。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Ugh, couldn't that old guy have just gotten it himself?"
+msgstr "额，那老头怎么不自己去找啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Yeah, that looks like a Whaddayacallit! Or was it a Whatchamahoosit..."
+msgstr "对，那个看起来就是那个啥！那个啥来着……"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Welp, it doesn't seem to be flammable. Might as well give it to that old guy."
+msgstr "嗨，好像点不着。不如给那老头算了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Looks like some weird science junk. Maybe that's what the old guy's looking for?"
+msgstr "看着像科学垃圾什么的。兴许老头就想找这个？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALKINGPLANK"
@@ -115396,6 +116926,66 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ADVENTURE_PORTAL"
 msgid "I ain't jumping willy-nilly through strange portals!"
 msgstr "我才不会随随便便地跳进奇怪的传送门！"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It's a pretty heady experience havin' that much power. Ha..."
+msgstr "拥有这种头部能量相当令人振奋。哈……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "There's still a heck of a lot of power left in this one little piece."
+msgstr "别看就这么点儿，仍然有很大的力量。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "The machine's sucking up all the energy from that thing..."
+msgstr "这台机器正在吸走那东西的所有能量……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Well, glad that's done with."
+msgstr "呼，总算完事了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "That thing went and busted up all our hard work!"
+msgstr "那家伙把我们的辛苦工作弄坏了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Yeesh, this thing doesn't know when to quit!"
+msgstr "哎呦喂，这东西真没眼色！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Uh-oh, the gloves are really comin' off now."
+msgstr "哎呀，这下真要摘手套了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Some pretty slap-dash construction work, if you ask me."
+msgstr "你要问我的话，施工相当草率。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Next time I see the bossman I'm asking for extra hazard pay..."
+msgstr "下回我碰见老板得要危险补偿。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Might as well salvage what we can from what's left."
+msgstr "不妨从剩下的东西中挑拣出一点有用的东西。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Mr. Wagstaff... did you plan for this?"
+msgstr "瓦格斯塔夫先生……这也是你的计划么？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Nice try, you won't catch me sleeping on the job!"
+msgstr "谁都不会抓到我在干活时睡觉。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.AMULET"
 msgid "Jewelry ain't really my thing."
@@ -116396,6 +117986,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BIRD_EGG_COOKED"
 msgid "I always get bits of shell in there by accident."
 msgstr "里面总是会有碎蛋壳。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BIRD_MUTANT"
+msgid "That bird gives me the creeps."
+msgstr "那只鸟让我毛骨悚然。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "There's something... off about it."
+msgstr "它有点……不寻常。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BISHOP"
 msgid "How industrial."
@@ -116971,6 +118571,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Y'got a mean mug there, buddy."
 msgstr "你那杯子挺不错的，兄弟。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Aw, it looks just like my beefalo."
+msgstr "哦，它看起来就像我的皮弗娄牛。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "I wonder if I could sculpt a hat like that."
@@ -117025,6 +118630,11 @@ msgstr "你打败不了我和我的朋友！"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "It's BUSTed. Ha!"
 msgstr "残破不全了。哈！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "A little too lifelike for my comfort."
+msgstr "逼真得有点让我不舒服了。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -120271,6 +121881,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Must be broke. I can still see the moon."
 msgstr "肯定坏了，我还能看得到月亮。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONDIAL.GLASSED"
+msgid "Why do I get the feeling something's watchin' me..."
+msgstr "为什么我感觉有东西在看着我？"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Full as can be."
@@ -120300,6 +121915,11 @@ msgstr "等不及要试试这东西了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONGLASSAXE"
 msgid "Anything to make gettin' firewood easier."
 msgstr "砍柴利器。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONGLASS_CHARGED"
+msgid "I'd better hustle, the energy's not gonna last long."
+msgstr "我最好快点，能量不会持续太久。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONGLASS_ROCK"
@@ -120340,6 +121960,36 @@ msgstr "那可真……奇怪。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSPIDERDEN"
 msgid "I don't wanna see whatever's in there."
 msgstr "我想看看里面有什么。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "That's some good, workable material there."
+msgstr "这些材料非常好，可以拿来用。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "It's been powered up."
+msgstr "它已经充能满了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "You work with the materials you've got out here."
+msgstr "在这就是有什么材料就用什么材料。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_SPARK"
+msgid "Not quite electricity, but it could still work..."
+msgstr "虽然不是正经电流，但是能凑合……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_STATIC"
+msgid "Looks like an electrical fire waiting to happen."
+msgstr "看起来像是电气火灾隐患。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "The boss really does have a gadget for everything."
+msgstr "老板真的什么工具都有。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -120420,6 +122070,21 @@ msgstr "有人自愿来试试么？"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_CAP_COOKED"
 msgid "Wouldn't have minded having some of these around when I was pulling overtime."
 msgstr "我加班的时候有这个就好了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Feels kinda like old times back at the factory."
+msgstr "感觉又回到了工厂的那些日子。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "Well, it's not shaping up to be a portal. I was hopin' the boss had figured out a way back..."
+msgstr "看起来不像是传送门。我本来希望老板能鼓捣出一个回去的办法……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Wonder what the boss is gonna use all this energy for?"
+msgstr "你觉得老板会用这些能量做什么呢？"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -124436,6 +126101,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_SAVANNA"
 msgid "That's a chunk of ground."
 msgstr "那是一块地。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_SHELLBEACH"
+msgid "That's a chunk of sandy ground."
+msgstr "那是一块沙地。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_SINKHOLE"
 msgid "That's a chunk of ground."
@@ -124560,6 +126230,36 @@ msgstr "你可以尝到电的味道。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAFFLES"
 msgid "Bet I can fit them all in my mouth."
 msgstr "我敢打赌，我能一口吃下去。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC"
+msgid "Mr. Wagstaff! Is that really you?"
+msgstr "瓦格斯塔夫先生！真的是你啊？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Found the Reticulating Buffer! Better get it back to the bossman."
+msgstr "找到了网状缓冲器！我这就给老板拿回去。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "There's the boss' Widget Deflubber!"
+msgstr "这就是老板的除垢机了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Hey, that looks like a Grommet Scriber!"
+msgstr "嘿，那个看起来像是垫圈开槽器！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Ha! Found you, you sneaky old Conceptual Scrubber!"
+msgstr "哈！找到你了！你这个爱藏起来的概念刷洗器！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "There's the Calibrated Perceiver! Almost missed it."
+msgstr "原来校准观察机在这里！差点就错过了。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WALKINGPLANK"
@@ -127836,6 +129536,66 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Is mouth door! Say Ahhhhh!"
 msgstr "口形门！说“啊~”！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIANHAT"
+msgid "Is good hat, except for creepy whisperings..."
+msgstr "虽然它会悄悄嘀咕，但还是顶好帽子……"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Hat broke apart into tiny bits."
+msgstr "帽子碎成了小碎片。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "Old man brought big fancy thingamobob with him!"
+msgstr "老头子把又大又花哨的东西也带来了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Is dead so quickly!"
+msgstr "这么快就死掉了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Ha! Wolfgang's punches are mighty enough to shatter stone!"
+msgstr "哈！沃尔夫冈一拳就把石头打得粉碎！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Wolfgang has bad feeling..."
+msgstr "沃尔夫冈感觉不妙……"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Sky stone is back from dead!"
+msgstr "天上来的石头死而复生了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Spiky wall can't stop Wolfgang!"
+msgstr "刺强阻挡不了沃尔夫冈！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Sky stone is very mad!"
+msgstr "天上来的石头脾气炸了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Hmm... Wolfgang will smash it, just to be sure."
+msgstr "嗯……沃尔夫冈一定会击碎它。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Old man should be careful, sky stone might wake up!"
+msgstr "老头要小心点，天上来的石头说不定会醒过来！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Wolfgang will smash sleepy stones!"
+msgstr "沃尔夫冈要砸碎睡觉的石头！"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET"
 msgid "Is very pretty."
@@ -128836,6 +130596,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Yum!"
 msgstr "好吃！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRD_MUTANT"
+msgid "Creepy bird."
+msgstr "古怪的鸟。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Something wrong with that bird."
+msgstr "那只鸟有点不对劲。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BISHOP"
 msgid "Padre!"
@@ -129411,6 +131181,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Terrifying beast statue!"
 msgstr "恐怖的野兽雕像！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Is look almost like real hair-cow."
+msgstr "它看起来几乎像真正的长毛奶牛。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Mighty statue stays mighty still."
@@ -129465,6 +131240,11 @@ msgstr "是火焰怪兽，不过是石头的。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Looks very not-mighty."
 msgstr "看起来一点都不强壮。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "Wolfgang glad is just statue."
+msgstr "沃尔夫冈很高兴它只是雕像。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -132671,6 +134451,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Wolfgang see moon reflection, but not his mighty self!"
 msgstr "沃尔夫冈看到了月亮的倒影，但不是强大的自己！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONDIAL.GLASSED"
+msgid "M-maybe is not good night for looking up at sky."
+msgstr "也许今晚不是一个看天上的好时间。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Moon is very mighty!"
@@ -132700,6 +134485,11 @@ msgstr "亮绿色的尖东西。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONGLASSAXE"
 msgid "Is for swing and chop."
 msgstr "能挥，也能砍。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONGLASS_CHARGED"
+msgid "Sharp and glowy stuff."
+msgstr "锋利发光的东西。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONGLASS_ROCK"
@@ -132740,6 +134530,36 @@ msgstr "是来自月亮的小碎片！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSPIDERDEN"
 msgid "Scary things is inside maybe."
 msgstr "里面也许有吓人的东西。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Can see reflection of Wolfgang's big muscles in it!"
+msgstr "里头倒映着沃尔夫冈的大肌肉！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Is strange and glowy."
+msgstr "发着怪异的光。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "Is fueled by potato, like Wolfgang!"
+msgstr "是土豆给了它能量，和沃尔夫冈一样！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_SPARK"
+msgid "Makes Wolfgang's moustache hairs bristle!"
+msgstr "会把沃尔夫冈的胡须弄毛燥！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_STATIC"
+msgid "Is tiny jumpy spark-thing."
+msgstr "是会跳的小火花之类的东西。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "Ha! Tiny spark is too weak to break out!"
+msgstr "哈！小火花太弱出不来！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -132820,6 +134640,21 @@ msgstr "沃尔夫冈厌倦了蘑菇。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_CAP_COOKED"
 msgid "It is changed."
 msgstr "它变了。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Is nice floor for light ball."
+msgstr "这里很适合放光球。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "Wolfgang just follow instructions."
+msgstr "沃尔夫冈跟着手册装。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Wolfgang understand, is giant night light!"
+msgstr "沃尔夫冈明白了，这是巨大的夜灯！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -136836,6 +138671,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_SAVANNA"
 msgid "Step stones."
 msgstr "踏脚石。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_SHELLBEACH"
+msgid "Step stones."
+msgstr "踏脚石。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_SINKHOLE"
 msgid "Step stones."
@@ -136960,6 +138800,36 @@ msgstr "看起来很好吃，制作美味的朋友！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAFFLES"
 msgid "Why does bread have holes?"
 msgstr "为什么面包上有孔？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC"
+msgid "Do not worry, Wolfgang is here to help flickery science man."
+msgstr "别担心，沃尔夫冈来帮闪烁的科学男了。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Wolfgang found thing for funny old man!"
+msgstr "沃尔夫冈替好玩的老家伙找到他要的东西了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Funny old man is looking for this, maybe?"
+msgstr "也许好玩的老家伙在找这个？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Is maybe belonging to funny old man?"
+msgstr "也许是那个好玩的老家伙的？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Ha! Found you!"
+msgstr "哈！找到你了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Old man will be so happy Wolfgang found it!"
+msgstr "沃尔夫冈找到它以后老家伙一定会很高兴！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALKINGPLANK"
@@ -140221,6 +142091,66 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ADVENTURE_PORTAL"
 msgid "I wonder if that's the way out of here."
 msgstr "我怀疑那是不是离开这里的路。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It's a pretty handy headpiece, could do without the whisperin' though."
+msgstr "方便的头盔，要是别总嘀咕就好了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "I'm sure it's still good for somethin'."
+msgstr "应该还是有点用的。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "Guess he couldn't have brought that sooner, eh?"
+msgstr "他就不能早点拿来么，诶？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Looks like we got 'em!"
+msgstr "看来被我们整趴下了！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Hey! Watch where you're rollin', eh?"
+msgstr "喂！以后要小心点了吧，诶？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "And stay down, will ya?"
+msgstr "你就趴着好不好？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "I get the feelin' it doesn't like us one bit, Luce."
+msgstr "我感觉它一点都不喜欢咱们，露西。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "It's trying to fence us in!"
+msgstr "它想用篱笆把我们圈起来！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Well, third time's the charm, eh?"
+msgstr "啊，第三次好运会来吧，诶？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Guess that takes care of that!"
+msgstr "这下被解决了吧！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Hey! You be careful there, bud!"
+msgstr "喂，伙计！你可要当心点啊！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Now's probably not the time to be taking a nap."
+msgstr "现在可不是睡午觉的时候。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.AMULET"
 msgid "Always have a backup plan."
@@ -141221,6 +143151,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Well, at least it never became a bird."
 msgstr "很好，至少它永远不会变成讨厌的鸟。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRD_MUTANT"
+msgid "I always knew they were evil."
+msgstr "我一早就知道它们不是什么好鸟。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "See? You can never trust a bird!"
+msgstr "看到没？鸟是信不过的！"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BISHOP"
 msgid "It's been a while since my last confession."
@@ -141796,6 +143736,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Good use of stone."
 msgstr "石头的好用处。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Some real fine detail on the fur there."
+msgstr "这牛毛处理的可真仔细。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Some nice detail on that."
@@ -141850,6 +143795,11 @@ msgstr "不错的石雕工艺。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Looks like a bit of a hoser."
 msgstr "看起来有点像傻子。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "From ornery to ornament, eh?"
+msgstr "讨厌鬼变成装饰品了，诶？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -145061,6 +147011,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Do I really need to be reminded of the moon during the day?"
 msgstr "在白天，我真的需要被提醒月亮的存在吗？"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.GLASSED"
+msgid "Wait a minute, I don't think that's ice..."
+msgstr "等等，我看那个不是冰……"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Not a good night to have a curse, but then when's it ever?"
@@ -145095,6 +147050,11 @@ msgstr "跟树叶一样绿。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONGLASSAXE"
 msgid "Still not as good as Lucy."
 msgstr "还是不如我的露西好。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONGLASS_CHARGED"
+msgid "These pieces still have a glow to 'em."
+msgstr "这些还发着光呢。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONGLASS_ROCK"
@@ -145135,6 +147095,36 @@ msgstr "那是一个非常悲惨的状态，嗯？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSPIDERDEN"
 msgid "Better not disturb it."
 msgstr "最好别惹它。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Almost could've mistook it for ice."
+msgstr "差点就以为是冰了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "It's got a little glow to it."
+msgstr "有一点点微光。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "If it works, I'm not gonna complain."
+msgstr "要是能管用的话，我就不抱怨了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_SPARK"
+msgid "I can already feel the static in my beard."
+msgstr "我下巴的胡子已经感到有静电了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_STATIC"
+msgid "Whatever he's doin' looks pretty complicated."
+msgstr "他做的事情看起来好复杂。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "Looks like bottled lightning."
+msgstr "看起来像瓶装闪电。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -145215,6 +147205,21 @@ msgstr "不知道我应不应该吃那个。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_CAP_COOKED"
 msgid "The smell's enough to wake you up."
 msgstr "这味道足以让你醒来。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Might as well help the old guy out, eh?"
+msgstr "不如帮一下那老头，诶？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "Still a bit of building left to do."
+msgstr "还有些没造完。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Huh. Whattaya figure it's for, Luce?"
+msgstr "呵呵。你觉得这个是做什么的，露西？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -149231,6 +151236,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SAVANNA"
 msgid "Just some ground, eh?"
 msgstr "只是一些地皮，不是吗？"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SHELLBEACH"
+msgid "Just some ground, eh?"
+msgstr "只是一些地皮，不是吗？"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SINKHOLE"
 msgid "I found this underground."
@@ -149355,6 +151365,36 @@ msgstr "记不起上次吃甜点是什么时候了。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAFFLES"
 msgid "I prefer flapjacks."
 msgstr "我更喜欢煎饼。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC"
+msgid "Looks like you're doing somthin' important. How aboot I lend you a hand, eh?"
+msgstr "你好像在做重要的事情。要不要我帮你，诶？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "I'd better run it back to that old-timer."
+msgstr "我最好把这个拿回去给那老头。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Not really sure what it is, but maybe I'll bring it to that old-timer just in case."
+msgstr "我也不知道这个是什么，我还是拿回去给那老头看看。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Hey Luce, does that look like a whatever-he-said to you?"
+msgstr "嘿，露西，这个像不像他跟你说的那东西？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Wouldn't hurt to see if this is what that old-timer's been looking for."
+msgstr "看看这个是不是那个老头想找的。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "That might be just the thing I'm lookin' for!"
+msgstr "那个可能就是我要找的！"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALKINGPLANK"
@@ -150159,7 +152199,7 @@ msgstr "喂，露西，我的胡子像木垛一样吗？"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_ORNAMENT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_ORNAMENT"
 msgid "For hanging on the unchopped tree with care."
-msgstr "挂在没有被劈砍的树上要小心。"
+msgstr "用来悉心地挂在没有被劈砍的树上。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_ORNAMENTBOSS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_ORNAMENTBOSS"
@@ -150429,7 +152469,7 @@ msgstr "相信我，就你那两把板斧不行的，%s。"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WORTOX.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WORTOX.FIRESTARTER"
 msgid "You better not burn any of my precious trees!"
-msgstr "你可注意点别烧着了我宝贵的树木。"
+msgstr "你可注意点别烧着了我宝贵的树木！"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WORTOX.GENERIC"
@@ -152646,6 +154686,66 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Adventure?"
 msgstr "冒险？"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIANHAT"
+msgid "Helps hear them"
+msgstr "能听到他们说话"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Hmm..."
+msgstr "呣..."
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "Locked away"
+msgstr "锁起来了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Good night"
+msgstr "晚安"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "From Night Ball?"
+msgstr "是夜晚的球身上的？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Sleeping again?"
+msgstr "又睡着了？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Not happy!"
+msgstr "不开心！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Spiky wall"
+msgstr "刺墙"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Very very mad!"
+msgstr "非常非常生气！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Just rocks"
+msgstr "就是石头"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Hello sometimes-there man"
+msgstr "你好，时不时会在的先生"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Sleepy rocks"
+msgstr "瞌睡的石头"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.AMULET"
 msgid "Yay! More life!"
@@ -153646,6 +155746,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Goes in belly"
 msgstr "可以吃进肚子了"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_MUTANT"
+msgid "Tweeter okay?"
+msgstr "啾啾还好吗？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Tweeter sick?"
+msgstr "啾啾病了吗？"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BISHOP"
 msgid "A Pointy Hat Machine Man!"
@@ -154221,6 +156331,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Not so smelly now"
 msgstr "没有臭味了"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "Not fluffy..."
+msgstr "不毛绒绒……"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "No more buzz-buzz"
@@ -154275,6 +156390,11 @@ msgstr "只剩石头火了"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Where head?"
 msgstr "去哪啊？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "Big"
+msgstr "大"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -157521,6 +159641,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Night Ball looker"
 msgstr "用来看夜晚的球"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONDIAL.GLASSED"
+msgid "Hello!"
+msgstr "你好！"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Big Night Ball!"
@@ -157550,6 +159675,11 @@ msgstr "噢！好尖！"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONGLASSAXE"
 msgid "Clear Rock Chopper"
 msgstr "光亮的石头斧子！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONGLASS_CHARGED"
+msgid "Glowy sharp things"
+msgstr "发着光的锋利的东西"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONGLASS_ROCK"
@@ -157590,6 +159720,36 @@ msgstr "从夜晚的球来的?"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSPIDERDEN"
 msgid "Hello? Anyone here?"
 msgstr "喂，有人吗？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Just sharp"
+msgstr "好锋利"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Sharp glowy!"
+msgstr "锋利，发着光！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "Belly stuff... for head?"
+msgstr "填肚子的东西……放在头上？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_SPARK"
+msgid "Zzzt?"
+msgstr "嗞嗞？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC"
+msgid "Little fire?"
+msgstr "小火火？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "Safe inside"
+msgstr "里面是安全的"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -157670,6 +159830,21 @@ msgstr "休息时间"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_CAP_COOKED"
 msgid "Wakey wakey"
 msgstr "醒醒！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Lots to do"
+msgstr "有很多东西要做"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "Almost done"
+msgstr "快完了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Oooooh!"
+msgstr "噢！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -161686,6 +163861,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SAVANNA"
 msgid "Full of friends"
 msgstr "都是朋友"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SHELLBEACH"
+msgid "Sand"
+msgstr "沙子"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SINKHOLE"
 msgid "Slimy"
@@ -161810,6 +163990,36 @@ msgstr "交朋友了。充满爱"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAFFLES"
 msgid "Yum"
 msgstr "美味"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC"
+msgid "Hello! Oh, goodbye... oh, hello!"
+msgstr "你好！噢，再见……哦，你好！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Thing?"
+msgstr "东西？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Here it is!"
+msgstr "在这里了！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "Found it!"
+msgstr "找到了！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Funny thing"
+msgstr "好玩的东西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Flickery"
+msgstr "一闪一闪"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALKINGPLANK"
@@ -165004,12 +167214,12 @@ msgstr "不跟你玩了。"
 #. STRINGS.CHARACTERS.WORTOX.COMBAT_QUIT.SPIDER
 msgctxt "STRINGS.CHARACTERS.WORTOX.COMBAT_QUIT.SPIDER"
 msgid "I am the wimp imp!"
-msgstr "本牛好弱鸡！"
+msgstr "我就是那个软弱的恶魔！"
 
 #. STRINGS.CHARACTERS.WORTOX.COMBAT_QUIT.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "I'll take my leave. Hyuyu!"
-msgstr "俺老牛去也。哼！"
+msgstr "在下先行告退。哼！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL.LEVEL1.1"
@@ -165110,6 +167320,66 @@ msgstr "你长得还挺快的！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADVENTURE_PORTAL"
 msgid "I want to play a game with you!"
 msgstr "想跟你玩个游戏！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHAT"
+msgid "It tells me the most delicious secrets, hyuyu!"
+msgstr "它告诉我了最美味的秘密，哼哼！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "It won't be too hard to find a use for this shard."
+msgstr "要找到这个碎片的用途不会太难。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "Oh ho! It seems he has some tricks up his sleeve."
+msgstr "哈哈！看来他还藏了两把刷子。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "Send my regards to your master!"
+msgstr "替我向你的主人问好！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "We got off to a rocky start, didn't we? Hyuyu!"
+msgstr "我们开始就遇到了绊脚石，不是吗？哼哼！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Now with any luck it kicked the bucket."
+msgstr "运气好的话，它应该是归西了。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "Hoohoo! It seems there's more in store!"
+msgstr "呼呼！似乎还有更多的东西在等着我们！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "This imp will not be contained so easily."
+msgstr "本恶魔不会那么容易被遏制。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "The time is right to end this fight!"
+msgstr "是时候结束这场战斗了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Shall we see what's left behind?"
+msgstr "我们要不要看看还剩下了什么？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Energy, but no soul to snack on. A pity."
+msgstr "是能量，可惜没有能当小吃的灵魂。可惜了。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Hoohoo, this imp knows a trick when he sees one."
+msgstr "呼呼，本恶魔一看就知道这是个陷阱。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.AMULET"
@@ -166111,6 +168381,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Probably a mortal thing."
 msgstr "凡人们也许爱吃吧。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT"
+msgid "My my, you're looking rather pale!"
+msgstr "我的天，你看起来十分苍白！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "This peculiar storm has changed its form."
+msgstr "这场古怪风暴改变了它的容貌。"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BISHOP"
 msgid "You sure look mean, you nasty fiend!"
@@ -166686,6 +168966,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I'll say a prayer for this slain bear."
 msgstr "我会为这只倒下的熊祈祷。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "This beefalo is even more hard-headed than most!"
+msgstr "这只皮弗娄牛特别头铁！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Stationary majesty. Static insect."
@@ -166740,6 +169025,11 @@ msgstr "再见，亲爱的龙蝇。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "You've a much too competitive spirit, sir."
 msgstr "这位先生你太争强好胜了。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "In all its selenic splendour!"
+msgstr "月光带给它辉煌！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -169961,6 +172251,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.GENERIC"
 msgid "What a handsome devil I see in the water!"
 msgstr "多么帅气的恶魔啊！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.GLASSED"
+msgid "They certainly are keeping a watchful eye over us, hyuyu!"
+msgstr "它们很明显在用眼睛盯着我们，哼哼。"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Hyuyu, I feel a bit loony!"
@@ -169990,6 +172285,11 @@ msgstr "我在它绿色的光泽中瞥见了月神塞勒涅。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASSAXE"
 msgid "Swing and a chop, all the trees drop!"
 msgstr "利斧飞舞，林将不覆。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_CHARGED"
+msgid "I should make haste before they go to waste."
+msgstr "我要它们耗尽之前赶快行动。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_ROCK"
@@ -170030,6 +172330,36 @@ msgstr "把这些砸烂，敲碎应该很好玩。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSPIDERDEN"
 msgid "I should not like to see inside!"
 msgstr "我不想知道里面有什么！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Shiny and sharp."
+msgstr "闪光且锋利。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Ah, what a healthy glow!"
+msgstr "啊，容光焕发！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "What a lune-y invention, hyuyu!"
+msgstr "月光般疯狂的发明，哼哼！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_SPARK"
+msgid "Hyuyu, it tickles!"
+msgstr "哼哼，很痒！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_STATIC"
+msgid "Best stay back if I don't want to get zapped!"
+msgstr "我可不想被电击，还是躲后面点好！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "It makes my fur stand on end."
+msgstr "它让我身上的毛都竖起来了。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -170110,6 +172440,21 @@ msgstr "为什么不用打盹来结束这一天呢？哼！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_CAP_COOKED"
 msgid "Why you tricky thing, you've changed!"
 msgstr "你这个狡猾的家伙，你变了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "I'll help a bit, but if it's no fun I'll quit!"
+msgstr "我可以先帮一下忙，但没意思的话，我就退出了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "What mysterious machinations!"
+msgstr "这些机器多么神奇！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Hyuyuyu, I don't think they'll like that..."
+msgstr "哼哼，他们应该不喜欢那样……"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -174126,6 +176471,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_SAVANNA"
 msgid "Floor or ceiling, depending on your perspective."
 msgstr "地板还是天花板，取决于你的角度。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_SHELLBEACH"
+msgid "Floor or ceiling, depending on your perspective."
+msgstr "地板还是天花板，取决于你的角度。"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_SINKHOLE"
 msgid "Floor or ceiling, depending on your perspective."
@@ -174250,6 +176600,36 @@ msgstr "哼，看起来有点意思。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAFFLES"
 msgid "The mortals like these a lot."
 msgstr "凡人们很喜欢这些。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC"
+msgid "Hyuyuyu! He's not all there!"
+msgstr "哼哼！他不是全部都在那！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Hoohoo! You're not from around this plane, are you?"
+msgstr "呼呼！你不是来自这个世界的，对吧？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "You belong in the hand of that old man."
+msgstr "你理应回到那个老人手里。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "This may be what I'm looking for, or not!"
+msgstr "这个也许是我要找的东西，也许不是！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "Oooh how fun! I can't be sure if that's the right one!"
+msgstr "喔，真有趣！我也说不准是不是它！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "What a fun game, finding tools from another plane!"
+msgstr "多好玩的游戏啊，找到了另一个世界的工具！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALKINGPLANK"
@@ -177576,6 +179956,66 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Where this go?"
 msgstr "这个会去哪？"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIANHAT"
+msgid "Makes head full of funny whispers..."
+msgstr "让脑袋里全是好玩的悄悄话……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "Glurp! D-didn't break it!"
+msgstr "格勒噗！不——不是我打破的！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "What that thing for?"
+msgstr "那东西是做什么的？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "W-wasn't even scared at all!"
+msgstr "一点——一点都不吓人！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "Glorp! Didn't do it! Didn't do it!"
+msgstr "格浪噗！不是我干的！不是我干的！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "Now is super dead!"
+msgstr "这下铁定死了！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "How it get back up?!"
+msgstr "它怎么起来的？！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Grrr, these things getting in way!"
+msgstr "呃，这下东西挡路了！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "Glurp... maybe it time to run?"
+msgstr "格勒噗……也许该逃跑了？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "I-is gone for good now right, florp?"
+msgstr "我——这下死翘翘了吧，浮浪噗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Look out! Might come back!"
+msgstr "小心点！也许会回来的！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Don't trust weird rocks, florp."
+msgstr "怪石头是信不过的，浮浪噗。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.AMULET"
 msgid "Pretty magic rock!"
@@ -178576,6 +181016,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Don't want it!"
 msgstr "不想吃！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BIRD_MUTANT"
+msgid "Ha ha! What happen to you?"
+msgstr "哈哈！你怎么了？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "Pt-ooey back at you, florp!"
+msgstr "看我给你吐回去，浮浪噗！"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BISHOP"
 msgid "Zappy Ironfolk!!"
@@ -179151,6 +181601,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Grrrr!"
 msgstr "格勒！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "It just rock, real thing better."
+msgstr "只是石头而已，还是真的动物好一点。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "That's what you get, stingy lady!"
@@ -179205,6 +181660,11 @@ msgstr "瞪大眼睛，神奇惊奇。"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "Why everyone act weird around this one."
 msgstr "为什么在这东西周围人就变得怪怪的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "Glorp! Oh, it not real."
+msgstr "格浪噗！噢，不是真的。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -182451,6 +184911,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONDIAL.GENERIC"
 msgid "Special moon pond."
 msgstr "特别的月亮池塘。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONDIAL.GLASSED"
+msgid "Glurph... something watching."
+msgstr "格浪浮……有什么在盯着我。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Big bouncy moon, florp!"
@@ -182480,6 +184945,11 @@ msgstr "格勒噗！真锋利！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONGLASSAXE"
 msgid "Chop extra good, florp!"
 msgstr "砍起来格外顺手，浮浪噗！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONGLASS_CHARGED"
+msgid "Is sharp glowy things."
+msgstr "是锋利发光的东西。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONGLASS_ROCK"
@@ -182520,6 +184990,36 @@ msgstr "月亮做的吗？"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSPIDERDEN"
 msgid "Extra nasty Spiderfolk!!"
 msgstr "尤其恶心的蜘蛛人！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "Is very sharp."
+msgstr "很锋利。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "Oooooooh pretty!"
+msgstr "噢漂亮哇！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "Grrr, can't get the 'tato out!"
+msgstr "格浪，抠不出来土豆！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_SPARK"
+msgid "Glorp! It zaps!"
+msgstr "格浪噗！会电人！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_STATIC"
+msgid "What that sparky stuff?"
+msgstr "那个掉火花的东西是什么？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "Hee-hee! It can't get out!"
+msgstr "嘿嘿！它出不来！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -182600,6 +185100,21 @@ msgstr "格勒格,让眼皮变得好重。"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_CAP_COOKED"
 msgid "Taste diffent now."
 msgstr "现在味道不一样了。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "Is throne? Not as good as Mermfolk throne."
+msgstr "是王座么？比不上鱼人的王座。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "Hmm... now it not look like throne at all..."
+msgstr "嗯……现在看一点不像王座了……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "Have weird feeling, florp..."
+msgstr "有种不祥的预感，浮浪噗……"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -186621,6 +189136,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_SAVANNA"
 msgid "Ground bit."
 msgstr "地面上的东西。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_SHELLBEACH"
+msgid "Ground bit."
+msgstr "地面上的东西。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_SINKHOLE"
 msgid "Ground bit."
@@ -186745,6 +189265,36 @@ msgstr "嗷，它晃来晃去！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAFFLES"
 msgid "Fluffy sweet squares!"
 msgstr "毛绒绒的甜方块！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC"
+msgid "Is another scaleless? Can't smell him, florpt..."
+msgstr "又一个无鳞生物？闻不到他，浮浪噗的……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "Hmm... it have no smell, like weird scale-less."
+msgstr "嗯……它没味道，跟古怪的无鳞生物一样。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "Maybe this what weird scale-less looking for."
+msgstr "也许这就是那个无鳞怪人在找的东西。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "It all flickery, like weird scale-less."
+msgstr "一闪一闪的，就像那个无鳞怪人。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "What that? Maybe it belong to weird scale-less..."
+msgstr "那个是什么？也许是无鳞怪人的东西……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "Look like someone drop this, florp."
+msgstr "看起来有人掉落了这个，浮浪噗。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WALKINGPLANK"
@@ -190006,6 +192556,66 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ADVENTURE_PORTAL"
 msgid "HE IS NOT MUCH OF A CONVERSATIONALIST"
 msgstr "他不太健谈"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIANHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIANHAT"
+msgid "NOW I POSSESS THE MOON POWER"
+msgstr "现在我拥有了月亮的力量"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIANHATSHARD"
+msgid "DISASSEMBLED MOON BITS"
+msgstr "拆解后的月亮碎片"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_CONTAINED"
+msgid "THAT MOON POWER SHOULD BE MINE!"
+msgstr "那种月之力量本该属于我!"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE1.DEAD"
+msgid "WHAT A WASTE"
+msgstr "真是浪费"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
+msgid "CRUSH THE ORGANICS! AHAHAHA! WAIT NO NOT ME"
+msgstr "粉碎那些有机生物！啊哈哈哈！等等，别打我"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE2.DEAD"
+msgid "AN UNFORTUNATE BUT NECESSARY DEACTIVATION"
+msgstr "遗憾但必要的停用"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE2.GENERIC"
+msgid "OUR ALLIANCE WOULD BE UNSTOPPABLE! STOP IGNORING ME!"
+msgstr "我们的联盟将是不可阻挡的! 不要再无视我了!"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "BARRIER DETECTED. RECALCULATING ROUTE"
+msgstr "检测到障碍物。重新计算路线中"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3"
+msgid "IF YOU WILL NOT JOIN ME YOU WILL BE DESTROYED"
+msgstr "如果你不加入我，你将被摧毁"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
+msgid "UNFORTUNATE. YOU COULD HAVE BEEN USEFUL"
+msgstr "真是不幸。你本可以发挥作用的"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "WHAT IS HE PLOTTING"
+msgstr "他在搞什么阴谋？"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALTERGUARDIAN_PHASE3TRAP"
+msgid "THREAT DETECTED: SUGGEST IMMEDIATE REMOVAL"
+msgstr "检测到威胁：建议立即清除"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.AMULET"
 msgid "ANOMALY DETECTED"
@@ -191006,6 +193616,16 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BIRD_EGG_COOKED"
 msgid "THIS IS SUPPOSED TO BE AN IMPROVEMENT"
 msgstr "这应该是一种改进"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BIRD_MUTANT"
+msgid "I THINK THE BIRDS GOT MORE UGLY"
+msgstr "我认为鸟儿变得更加丑陋了"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "THIS ORGANIC MANAGED TO BECOME EVEN MORE DISGUSTING"
+msgstr "这个有机物设法变得更加讨厌了"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP"
 msgid "REVEREND AUTOMATON"
@@ -191581,6 +194201,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "IT IS MY DECORATION NOW"
 msgstr "这现在是我的装饰"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEEFALO
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEEFALO"
+msgid "AN IMPROVEMENT ON THE FLESHY ORIGINAL"
+msgstr "在原来的肉质基础上做出了改进"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "AS USELESS NOW AS IT WAS WHEN IT WAS MOVING"
@@ -191635,6 +194260,11 @@ msgstr "记忆我胜利的时刻"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_FORMAL"
 msgid "WHY IS NO ONE ACKNOWLEDGING IT LOOKS LIKE THE FRAIL HUMAN"
 msgstr "为什么没有人承认它看起来像脆弱的人类"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_GUARDIANPHASE3"
+msgid "WE WOULD HAVE BEEN UNSTOPPABLE. OH WELL"
+msgstr "我们本可以所向披靡的。哎，也罢"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_HORNUCOPIA"
@@ -194841,6 +197471,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONDIAL.GENERIC"
 msgid "THE MOON IS INORGANIC AND GOOD"
 msgstr "月亮是无机的，不错"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONDIAL.GLASSED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONDIAL.GLASSED"
+msgid "THEY CAN SEE US"
+msgstr "他们可以看到我们"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "MOON AT MAXIMUM POWER"
@@ -194870,6 +197505,11 @@ msgstr "锋利的有点危险，呕吐物一样的亮绿色。我喜欢"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONGLASSAXE"
 msgid "EFFICIENCY UP 33%"
 msgstr "效率提升33%"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONGLASS_CHARGED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONGLASS_CHARGED"
+msgid "DANGEROUSLY SHARP AND FULLY CHARGED. SUPERB"
+msgstr "危险，锋利，充能完毕。超级棒"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONGLASS_ROCK"
@@ -194910,6 +197550,36 @@ msgstr "月亮让一切更糟，也因此让一切更好"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSPIDERDEN"
 msgid "EXTRA-HORRIBLE ORGANICS LIVE THERE"
 msgstr "里面生活着十分可恶的有机物"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_GLASS.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_GLASS.GENERIC"
+msgid "ENERGY DEPLETED"
+msgstr "能量耗尽"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_GLASS.INFUSED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_GLASS.INFUSED"
+msgid "FULLY CHARGED"
+msgstr "充能完毕"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_GOGGLESHAT"
+msgid "HE DOES DESIGN EXCELLENT MACHINES"
+msgstr "他确实设计出了优异的机器"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_SPARK
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_SPARK"
+msgid "THIS ENERGY IS NOT COMPATIBLE WITH MY CIRCUITS"
+msgstr "这种能量与我的电路不兼容"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_STATIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_STATIC"
+msgid "MAYBE HE'LL ELECTROCUTE HIMSELF"
+msgstr "也许他会电击到他自己"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOONSTORM_STATIC_ITEM"
+msgid "IT IS CONTAINED"
+msgstr "它被遏制了"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_ALTAR.GENERIC"
@@ -194990,6 +197660,21 @@ msgstr "又一个肮脏的真菌"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_CAP_COOKED"
 msgid "MODIFIED FUNGUS"
 msgstr "改良的菌类"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_DEVICE.CONSTRUCTION1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_DEVICE.CONSTRUCTION1"
+msgid "LET HIM CONSTRUCT IT HIMSELF"
+msgstr "让他自己来建造"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
+msgid "WHY SHOULD I HELP HIM"
+msgstr "我为什么要帮助他"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_DEVICE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_DEVICE.GENERIC"
+msgid "DON'T TRUST HIM, SISTER. DON'T EVER TRUST HIM"
+msgstr "不要相信他，姐妹。永远不要相信他"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -199006,6 +201691,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_SAVANNA"
 msgid "THE GROUND"
 msgstr "地皮"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_SHELLBEACH
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_SHELLBEACH"
+msgid "GROUND PARTS"
+msgstr "地皮部分"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_SINKHOLE"
 msgid "GROUND PARTS"
@@ -199130,6 +201820,36 @@ msgstr "这是最高级别的食品"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAFFLES"
 msgid "ERROR: TOO DELICIOUS!"
 msgstr "错误：过于美味！"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC"
+msgid "YOU"
+msgstr "你"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_1"
+msgid "ONE OF HIS TOOLS. I SHOULD JUST LEAVE IT"
+msgstr "他的工具之一。我才不要管它"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_2"
+msgid "WHY WOULD I HELP HIM"
+msgstr "我为什么要帮助他"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_3"
+msgid "HE CAN COME RETRIEVE IT HIMSELF"
+msgstr "他可以自己来取回"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_4"
+msgid "I COULD BRING IT BACK TO HIM. OR NOT"
+msgstr "我可以把它带回给他。或者不"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_5"
+msgid "THIS MAY BE WHAT HE'S LOOKING FOR. NOT THAT I CARE"
+msgstr "这可能是他在寻找的东西。我并不在乎"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALKINGPLANK"
@@ -205344,7 +208064,7 @@ msgstr "你不能改变游戏规则。"
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14"
 msgid "I don't know what they want. They... they just watch."
-msgstr "我不知道他们想要什么。他们...他们只是静静地在一旁观察。"
+msgstr "我不知道他们想要什么。他们...他们只是看着。"
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15"
@@ -206151,6 +208871,61 @@ msgctxt "STRINGS.NAMES.ADVENTURE_PORTAL"
 msgid "Maxwell's Door"
 msgstr "麦斯威尔之门"
 
+#. STRINGS.NAMES.ALTERGUARDIANHAT
+msgctxt "STRINGS.NAMES.ALTERGUARDIANHAT"
+msgid "Enlightened Crown"
+msgstr "启迪之冠"
+
+#. STRINGS.NAMES.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.NAMES.ALTERGUARDIANHATSHARD"
+msgid "Enlightened Crown Shard"
+msgstr "启迪之冠碎片"
+
+#. STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE
+msgctxt "STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE"
+msgid "Minor Gestalt"
+msgstr "小虚影"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_CONTAINED"
+msgid "Lunar Essence Extractor"
+msgstr "月亮精华提取器"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE1
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE1"
+msgid "Celestial Champion"
+msgstr "天体英雄"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE2
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE2"
+msgid "Celestial Champion"
+msgstr "天体英雄"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Moonglass Spike"
+msgstr "月光玻璃突刺"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3"
+msgid "Celestial Champion"
+msgstr "天体英雄"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Defeated Celestial Champion"
+msgstr "被击败的天体英雄"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Celestial Champion"
+msgstr "天体英雄"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Enlightening Snare"
+msgstr "启迪凝视"
+
 #. STRINGS.NAMES.AMULET
 msgctxt "STRINGS.NAMES.AMULET"
 msgid "Life Giving Amulet"
@@ -206826,6 +209601,16 @@ msgctxt "STRINGS.NAMES.BIRD_EGG_COOKED"
 msgid "Cooked Egg"
 msgstr "煎蛋"
 
+#. STRINGS.NAMES.BIRD_MUTANT
+msgctxt "STRINGS.NAMES.BIRD_MUTANT"
+msgid "Moonblind Crow"
+msgstr "月盲乌鸦"
+
+#. STRINGS.NAMES.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.NAMES.BIRD_MUTANT_SPITTER"
+msgid "Misshapen Bird"
+msgstr "奇形鸟"
+
 #. STRINGS.NAMES.BISHOP
 msgctxt "STRINGS.NAMES.BISHOP"
 msgid "Clockwork Bishop"
@@ -207495,6 +210280,21 @@ msgstr "国王雕塑"
 msgctxt "STRINGS.NAMES.CHESSPIECE_FORMAL_BUILDER"
 msgid "Kingly Figure"
 msgstr "国王雕塑"
+
+#. STRINGS.NAMES.CHESSPIECE_GUARDIANPHASE3
+msgctxt "STRINGS.NAMES.CHESSPIECE_GUARDIANPHASE3"
+msgid "Celestial Champion Figure"
+msgstr "天体英雄雕塑"
+
+#. STRINGS.NAMES.CHESSPIECE_GUARDIANPHASE3_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_GUARDIANPHASE3_BUILDER"
+msgid "Celestial Champion Figure"
+msgstr "天体英雄雕塑"
+
+#. STRINGS.NAMES.CHESSPIECE_GUARDIANPHASE3_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_GUARDIANPHASE3_SKETCH"
+msgid "Celestial Champion Figure Sketch"
+msgstr "天体英雄雕塑草图"
 
 #. STRINGS.NAMES.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.NAMES.CHESSPIECE_HORNUCOPIA"
@@ -208334,7 +211134,7 @@ msgstr "南瓜植株"
 #. STRINGS.NAMES.FARM_PLANT_RANDOMSEED
 msgctxt "STRINGS.NAMES.FARM_PLANT_RANDOMSEED"
 msgid "Planted Seed"
-msgstr "已种植的种子"
+msgstr "种下的种子"
 
 #. STRINGS.NAMES.FARM_PLANT_ROTTEN
 msgctxt "STRINGS.NAMES.FARM_PLANT_ROTTEN"
@@ -208344,7 +211144,7 @@ msgstr "腐烂的植物"
 #. STRINGS.NAMES.FARM_PLANT_SEED
 msgctxt "STRINGS.NAMES.FARM_PLANT_SEED"
 msgid "Planted {seed}"
-msgstr "种植了{seed}"
+msgstr "种下的{seed}"
 
 #. STRINGS.NAMES.FARM_PLANT_TOMATO
 msgctxt "STRINGS.NAMES.FARM_PLANT_TOMATO"
@@ -208733,6 +211533,11 @@ msgstr "宝石底座"
 
 #. STRINGS.NAMES.GESTALT
 msgctxt "STRINGS.NAMES.GESTALT"
+msgid "Gestalt"
+msgstr "虚影"
+
+#. STRINGS.NAMES.GESTALT_ALTERGUARDIAN_PROJECTILE
+msgctxt "STRINGS.NAMES.GESTALT_ALTERGUARDIAN_PROJECTILE"
 msgid "Gestalt"
 msgstr "虚影"
 
@@ -209601,6 +212406,11 @@ msgctxt "STRINGS.NAMES.LANTERN"
 msgid "Lantern"
 msgstr "提灯"
 
+#. STRINGS.NAMES.LARGEGUARD_ALTERGUARDIAN_PROJECTILE
+msgctxt "STRINGS.NAMES.LARGEGUARD_ALTERGUARDIAN_PROJECTILE"
+msgid "Greater Gestalt"
+msgstr "大虚影"
+
 #. STRINGS.NAMES.LATKES
 msgctxt "STRINGS.NAMES.LATKES"
 msgid "Latkes"
@@ -210431,6 +213241,11 @@ msgctxt "STRINGS.NAMES.MOONGLASSAXE_BLUEPRINT"
 msgid "Moon Axe Blueprint"
 msgstr "月光斧蓝图"
 
+#. STRINGS.NAMES.MOONGLASS_CHARGED
+msgctxt "STRINGS.NAMES.MOONGLASS_CHARGED"
+msgid "Infused Moon Shard"
+msgstr "灌注月亮碎片"
+
 #. STRINGS.NAMES.MOONGLASS_ROCK
 msgctxt "STRINGS.NAMES.MOONGLASS_ROCK"
 msgid "Moon Glass"
@@ -210438,7 +213253,7 @@ msgstr "月光玻璃"
 
 #. STRINGS.NAMES.MOONGLASS_WOBSTER_DEN
 msgctxt "STRINGS.NAMES.MOONGLASS_WOBSTER_DEN"
-msgid "Moonglass Mound"
+msgid "Moon Glass Mound"
 msgstr "月光玻璃窝"
 
 #. STRINGS.NAMES.MOONROCKCRATER
@@ -210475,6 +213290,36 @@ msgstr "破碎蜘蛛洞"
 msgctxt "STRINGS.NAMES.MOONSPIDER_SPIKE"
 msgid "Shattered Spider"
 msgstr "破碎蜘蛛"
+
+#. STRINGS.NAMES.MOONSTORM_GLASS
+msgctxt "STRINGS.NAMES.MOONSTORM_GLASS"
+msgid "Charged Glassy Rock"
+msgstr "充能玻璃石"
+
+#. STRINGS.NAMES.MOONSTORM_GLASS_DEFUSED
+msgctxt "STRINGS.NAMES.MOONSTORM_GLASS_DEFUSED"
+msgid "Glassy Rock"
+msgstr "玻璃石"
+
+#. STRINGS.NAMES.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.NAMES.MOONSTORM_GOGGLESHAT"
+msgid "Astroggles"
+msgstr "天文护目镜"
+
+#. STRINGS.NAMES.MOONSTORM_SPARK
+msgctxt "STRINGS.NAMES.MOONSTORM_SPARK"
+msgid "Moongleam"
+msgstr "月熠"
+
+#. STRINGS.NAMES.MOONSTORM_STATIC
+msgctxt "STRINGS.NAMES.MOONSTORM_STATIC"
+msgid "Energetic Static"
+msgstr "能量静电"
+
+#. STRINGS.NAMES.MOONSTORM_STATIC_ITEM
+msgctxt "STRINGS.NAMES.MOONSTORM_STATIC_ITEM"
+msgid "Restrained Static"
+msgstr "约束静电"
 
 #. STRINGS.NAMES.MOON_ALTAR.MOON_ALTAR
 msgctxt "STRINGS.NAMES.MOON_ALTAR.MOON_ALTAR"
@@ -210560,6 +213405,26 @@ msgstr "月亮蘑菇"
 msgctxt "STRINGS.NAMES.MOON_CAP_COOKED"
 msgid "Cooked Moon Shroom"
 msgstr "熟月亮蘑菇"
+
+#. STRINGS.NAMES.MOON_DEVICE
+msgctxt "STRINGS.NAMES.MOON_DEVICE"
+msgid "Lunar Siphonator"
+msgstr "月亮虹吸器"
+
+#. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION1
+msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION1"
+msgid "Incomplete Experiment"
+msgstr "未完成的实验"
+
+#. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION2
+msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION2"
+msgid "Nearly Completed Experiment"
+msgstr "即将完成的实验"
+
+#. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION3
+msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION3"
+msgid "Lunar Siphonator"
+msgstr "月亮虹吸器"
 
 #. STRINGS.NAMES.MOON_FISSURE
 msgctxt "STRINGS.NAMES.MOON_FISSURE"
@@ -213431,6 +216296,11 @@ msgctxt "STRINGS.NAMES.SMALLGHOST"
 msgid "Pipspook"
 msgstr "小惊吓"
 
+#. STRINGS.NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE
+msgctxt "STRINGS.NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE"
+msgid "Minor Gestalt"
+msgstr "小虚影"
+
 #. STRINGS.NAMES.SMALLMEAT
 msgctxt "STRINGS.NAMES.SMALLMEAT"
 msgid "Morsel"
@@ -213659,7 +216529,7 @@ msgstr "极光"
 #. STRINGS.NAMES.STAFFLIGHT
 msgctxt "STRINGS.NAMES.STAFFLIGHT"
 msgid "Dwarf Star"
-msgstr "矮人之星"
+msgstr "矮星"
 
 #. STRINGS.NAMES.STAFF_TORNADO
 msgctxt "STRINGS.NAMES.STAFF_TORNADO"
@@ -214610,6 +217480,66 @@ msgstr "伏特羊肉冻"
 msgctxt "STRINGS.NAMES.WAFFLES"
 msgid "Waffles"
 msgstr "华夫饼"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC"
+msgid "Grainy Transmission"
+msgstr "颗粒状传输"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC_PSTBOSS
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC_PSTBOSS"
+msgid "Grainy Transmission"
+msgstr "颗粒状传输"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_1"
+msgid "Reticulating Buffer"
+msgstr "网状缓冲器"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_1_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_1_LAYMAN"
+msgid "Odd Tool"
+msgstr "怪异工具"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_2"
+msgid "Widget Deflubber"
+msgstr "除垢机"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_2_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_2_LAYMAN"
+msgid "Weird Tool"
+msgstr "古怪工具"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_3"
+msgid "Grommet Scriber"
+msgstr "垫圈开槽器"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_3_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_3_LAYMAN"
+msgid "Strange Tool"
+msgstr "奇异工具"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_4"
+msgid "Conceptual Scrubber"
+msgstr "概念刷洗器"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_4_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_4_LAYMAN"
+msgid "Funky Tool"
+msgstr "离奇工具"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_5"
+msgid "Calibrated Perceiver"
+msgstr "校准观察机"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_5_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_5_LAYMAN"
+msgid "Bizarre Tool"
+msgstr "诡异工具"
 
 #. STRINGS.NAMES.WALKINGPLANK
 msgctxt "STRINGS.NAMES.WALKINGPLANK"
@@ -217786,6 +220716,11 @@ msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_FORMAL_BUILDER"
 msgid "Behind every queen is a dapper king."
 msgstr "每个女王后面都有一个衣冠楚楚的国王。"
 
+#. STRINGS.RECIPE_DESC.CHESSPIECE_GUARDIANPHASE3_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_GUARDIANPHASE3_BUILDER"
+msgid "Its design radiates an otherworldly strangeness."
+msgstr "它的设计透露出异世界的奇特。"
+
 #. STRINGS.RECIPE_DESC.CHESSPIECE_HORNUCOPIA_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_HORNUCOPIA_BUILDER"
 msgid "A sculpture for a starving artist."
@@ -218445,6 +221380,16 @@ msgstr "用于划定地盘的岩石。"
 msgctxt "STRINGS.RECIPE_DESC.MOONROCKIDOL"
 msgid "A key figure."
 msgstr "重要人物。"
+
+#. STRINGS.RECIPE_DESC.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.RECIPE_DESC.MOONSTORM_GOGGLESHAT"
+msgid "Utilize potato eyes to see through storms."
+msgstr "利用土豆之眼来看清风暴。"
+
+#. STRINGS.RECIPE_DESC.MOON_DEVICE_CONSTRUCTION1
+msgctxt "STRINGS.RECIPE_DESC.MOON_DEVICE_CONSTRUCTION1"
+msgid "Mad science approved, never tested."
+msgstr "有疯狂科学的认可，但从未测试过。"
 
 #. STRINGS.RECIPE_DESC.MOON_SKETCH
 msgctxt "STRINGS.RECIPE_DESC.MOON_SKETCH"
@@ -223061,6 +226006,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_spider_white"
 msgid "It's nice not to be the one getting eaten for a change."
 msgstr "不用被吃掉了，真好。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.bundle_vintage
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_vintage"
+msgid "This floral parchment wrap keeps goods as fresh as a daisy."
+msgstr "这种印花包装纸能让被包裹的东西像雏菊一样新鲜。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_vintage
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_vintage"
+msgid "This floral parchment wrap keeps goods as fresh as a daisy."
+msgstr "这种印花包装纸能让被包裹的东西像雏菊一样新鲜。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.campfire_cabin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.campfire_cabin"
 msgid "Wilderness survival starts with a well-built fire."
@@ -223100,6 +226055,16 @@ msgstr "这顶捕兽者的帽子柔软又舒适，但是两边似乎再也绑不
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.catcoonhat_trapperup_rooster"
 msgid "This trapper hat appears to have been permanently tied up. Luckily it looks stylish that way."
 msgstr "这顶捕兽者的帽子看似已经永远绑好了。幸运的是，这样看起来还挺时尚。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.chester_eyebone_lamb
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_eyebone_lamb"
+msgid "It's looking a bit sheepish."
+msgstr "看起来懒洋洋的。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.chester_lamb
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_lamb"
+msgid "Everywhere the Survivors trek, this lamb is sure to go."
+msgstr "冒险家去哪，这只小羊就跟去哪。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower"
@@ -225241,6 +228206,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_crystal"
 msgid "It radiates a warm, soothing glow."
 msgstr "发出一种温暖柔和的光。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_flower
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_flower"
+msgid "A lightweight lantern to brighten your disposition."
+msgstr "灯笼轻盈，点亮心情。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_mummy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy"
 msgid "It's certainly eye-catching!"
@@ -226521,6 +229491,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wurt"
 msgid "This Wurt Chest contains the playable character, Wurt: The Half-Pint, as well as Wurt's complete set of Guest of Honor skin items."
 msgstr "沃特箱子包含游戏角色，沃特：小个子，以及沃特全套贵宾皮肤物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_container_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_container_items"
+msgid "This Cottage Cache Chest contains the following skin items: Pastoral Chest, Parchment Paper, and Woolly Chester."
+msgstr "这个乡村收纳箱子包含下列皮肤物品：田园箱子、包装纸、羊毛切斯特。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_costume_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_costume_all"
 msgid "This Costume Chest contains skins for: Wigfrid, Maxwell, Webber, Wendy, Wes, Wickerbottom, Willow, Wilson, Winona, Wolfgang, Woodie, and WX-78."
@@ -226813,8 +229788,8 @@ msgstr "这个华丽箱子包含以下皮肤物品：玫瑰阳伞、稻草软帽
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_harlequin_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_harlequin_items"
-msgid "This Fool's Tool Chest contains the following skin items: Fool's Marotte, Foolish Explorer, Foolish Flute, Fool's Hat, and Prestifoolinator."
-msgstr "这个愚人工具箱包含了下列皮肤物品：愚人手杖、愚人探索手杖、愚人排笛、愚人帽和愚人灵子分解器。"
+msgid "This Fool's Tool Chest contains the following skin items: Fool's Marotte, Foolish Flute, and Fool's Hat."
+msgstr "这个愚人工具箱包含了下列皮肤物品：愚人手杖、愚人笛和愚人帽。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_haunteddoll_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_haunteddoll_items"
@@ -229710,6 +232685,11 @@ msgstr "有格调地安排你找到的废料。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_traveltrunk"
 msgid "Its traveling days may be over, but it'll always have the memories."
 msgstr "它旅行的日子可能结束了，但它的记忆永存。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.treasurechest_vintage
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_vintage"
+msgid "Adds a nice, homey touch to any camp."
+msgstr "为所有营地带来家的温馨。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.umbrella_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_circus"
@@ -233711,6 +236691,16 @@ msgctxt "STRINGS.SKIN_NAMES.bugnet_spider_white"
 msgid "Cavernous Spidernet"
 msgstr "巨穴蛛网"
 
+#. STRINGS.SKIN_NAMES.bundle_vintage
+msgctxt "STRINGS.SKIN_NAMES.bundle_vintage"
+msgid "Parchment Paper"
+msgstr "包装纸"
+
+#. STRINGS.SKIN_NAMES.bundlewrap_vintage
+msgctxt "STRINGS.SKIN_NAMES.bundlewrap_vintage"
+msgid "Parchment Paper"
+msgstr "包装纸"
+
 #. STRINGS.SKIN_NAMES.campfire_cabin
 msgctxt "STRINGS.SKIN_NAMES.campfire_cabin"
 msgid "Survivalist Campfire"
@@ -233750,6 +236740,16 @@ msgstr "捕兽者的帽子"
 msgctxt "STRINGS.SKIN_NAMES.catcoonhat_trapperup_rooster"
 msgid "Tied Trapper Hat"
 msgstr "绑好的捕兽者的帽子"
+
+#. STRINGS.SKIN_NAMES.chester_eyebone_lamb
+msgctxt "STRINGS.SKIN_NAMES.chester_eyebone_lamb"
+msgid "Woolly Eye Bone"
+msgstr "羊毛眼骨"
+
+#. STRINGS.SKIN_NAMES.chester_lamb
+msgctxt "STRINGS.SKIN_NAMES.chester_lamb"
+msgid "Woolly Chester"
+msgstr "羊毛切斯特"
 
 #. STRINGS.SKIN_NAMES.coldfirepit_flower
 msgctxt "STRINGS.SKIN_NAMES.coldfirepit_flower"
@@ -235309,7 +238309,7 @@ msgstr "冰原勇士护腕"
 #. STRINGS.SKIN_NAMES.hand_waxwell_formal
 msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_formal"
 msgid "Striking Gloves"
-msgstr "攻击手套"
+msgstr "惊艳手套"
 
 #. STRINGS.SKIN_NAMES.hand_waxwell_gladiator
 msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_gladiator"
@@ -235890,6 +238890,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_NAMES.lantern_crystal"
 msgid "Salt Lamp"
 msgstr "盐灯"
+
+#. STRINGS.SKIN_NAMES.lantern_flower
+msgctxt "STRINGS.SKIN_NAMES.lantern_flower"
+msgid "Paper Lantern"
+msgstr "纸灯笼。"
 
 #. STRINGS.SKIN_NAMES.lantern_mummy
 msgctxt "STRINGS.SKIN_NAMES.lantern_mummy"
@@ -237170,6 +240175,11 @@ msgstr "沃拓克斯箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_character_wurt"
 msgid "Wurt Chest"
 msgstr "沃特箱子"
+
+#. STRINGS.SKIN_NAMES.pack_container_items
+msgctxt "STRINGS.SKIN_NAMES.pack_container_items"
+msgid "Cottage Cache Chest"
+msgstr "乡村收纳箱子"
 
 #. STRINGS.SKIN_NAMES.pack_costume_all
 msgctxt "STRINGS.SKIN_NAMES.pack_costume_all"
@@ -240361,6 +243371,11 @@ msgctxt "STRINGS.SKIN_NAMES.treasurechest_traveltrunk"
 msgid "Traveler's Trunk"
 msgstr "旅客的大衣箱"
 
+#. STRINGS.SKIN_NAMES.treasurechest_vintage
+msgctxt "STRINGS.SKIN_NAMES.treasurechest_vintage"
+msgid "Pastoral Chest"
+msgstr "田园箱子"
+
 #. STRINGS.SKIN_NAMES.umbrella_circus
 msgctxt "STRINGS.SKIN_NAMES.umbrella_circus"
 msgid "Big Top Umbrella"
@@ -243261,6 +246276,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.COSTUME"
 msgid "Costume Collection"
 msgstr "角色扮演系列"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.COTTAGE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.COTTAGE"
+msgid "Cottage Collection"
+msgstr "乡村系列"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL"
 msgid "Crystalline Collection"
@@ -243591,6 +246611,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUGNET"
 msgid "Bug Net"
 msgstr "捕虫网"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUNDLE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUNDLE"
+msgid "Bundled Supplies"
+msgstr "捆绑物资"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE"
 msgid "Campfire"
@@ -243610,6 +246635,11 @@ msgstr "猫帽"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.CHEST"
 msgid "Chest"
 msgstr "箱子"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.CHESTER
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.CHESTER"
+msgid "Chester"
+msgstr "切斯特"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.COLDFIREPIT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.COLDFIREPIT"
@@ -254113,8 +257143,8 @@ msgstr "三月生活质量\n测试版本"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
-msgid "Return of Them Beta\nTroubled Waters"
-msgstr "《旧神归来》测试版\n麻烦之海"
+msgid "Return of Them Beta\nEye of the Storm"
+msgstr "《旧神归来》测试版\n风暴之眼"
 
 #. STRINGS.UI.MAINSCREEN.MODDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.MODDETAIL"
@@ -256926,6 +259956,16 @@ msgctxt "STRINGS.UI.OPTIONS.RESTART_TEXTURE_STREAMING_TITLE"
 msgid "Restart Required"
 msgstr "需要重启游戏"
 
+#. STRINGS.UI.OPTIONS.RESTART_THREADED_RENDER_BODY
+msgctxt "STRINGS.UI.OPTIONS.RESTART_THREADED_RENDER_BODY"
+msgid "For Threaded Render changes to take effect, you will have to exit and restart the game."
+msgstr "需要退出当前游戏并重新启动游戏后，多线程渲染才能生效。"
+
+#. STRINGS.UI.OPTIONS.RESTART_THREADED_RENDER_TITLE
+msgctxt "STRINGS.UI.OPTIONS.RESTART_THREADED_RENDER_TITLE"
+msgid "Restart Required"
+msgstr "需要重启游戏"
+
 #. STRINGS.UI.OPTIONS.REVERT
 msgctxt "STRINGS.UI.OPTIONS.REVERT"
 msgid "Revert Changes"
@@ -256975,6 +260015,11 @@ msgstr "目标锁定："
 msgctxt "STRINGS.UI.OPTIONS.TEXTURESTREAMING"
 msgid "Texture Streaming"
 msgstr "动态加载贴图"
+
+#. STRINGS.UI.OPTIONS.THREADEDRENDER
+msgctxt "STRINGS.UI.OPTIONS.THREADEDRENDER"
+msgid "Threaded Render:"
+msgstr "多线程渲染："
 
 #. STRINGS.UI.OPTIONS.TITLE
 msgctxt "STRINGS.UI.OPTIONS.TITLE"
@@ -259678,8 +262723,8 @@ msgstr "森林和洞穴"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.FORESTONLY
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.FORESTONLY"
-msgid "Forest"
-msgstr "森林"
+msgid "Forest Only"
+msgstr "仅森林"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.FORESTWORLD
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.FORESTWORLD"
@@ -263220,6 +266265,206 @@ msgstr "玩家2的资料必须\n与玩家1的不同。"
 msgctxt "STRINGS.UI.XPUTILS.XPPROGRESS"
 msgid "{num}/{max}"
 msgstr "{num}/{max}"
+
+#. STRINGS.WAGSTAFF_GOTTAGO1
+msgctxt "STRINGS.WAGSTAFF_GOTTAGO1"
+msgid "Aha! This selenological anomaly can only mean one thing!"
+msgstr "啊哈！这种月球的不正常现象只有一种解释！"
+
+#. STRINGS.WAGSTAFF_GOTTAGO2
+msgctxt "STRINGS.WAGSTAFF_GOTTAGO2"
+msgid "Now is my chance!"
+msgstr "现在正是我的机会！"
+
+#. STRINGS.WAGSTAFF_NPC_ATTEMPT_TRADE.1
+msgctxt "STRINGS.WAGSTAFF_NPC_ATTEMPT_TRADE.1"
+msgid "Is it important?"
+msgstr "它重要吗？"
+
+#. STRINGS.WAGSTAFF_NPC_ATTEMPT_TRADE.2
+msgctxt "STRINGS.WAGSTAFF_NPC_ATTEMPT_TRADE.2"
+msgid "Quickly now, timing is critical!"
+msgstr "快，时间非常关键！"
+
+#. STRINGS.WAGSTAFF_NPC_CAPTURESTART
+msgctxt "STRINGS.WAGSTAFF_NPC_CAPTURESTART"
+msgid "Excellent! My little experiment was a resounding success!"
+msgstr "棒极了！我小小的实验获得了巨大的成功！"
+
+#. STRINGS.WAGSTAFF_NPC_CAPTURESTOP
+msgctxt "STRINGS.WAGSTAFF_NPC_CAPTURESTOP"
+msgid "Thank you for all your hard work."
+msgstr "感谢你们的辛勤工作。"
+
+#. STRINGS.WAGSTAFF_NPC_CAPTURESTOP2
+msgctxt "STRINGS.WAGSTAFF_NPC_CAPTURESTOP2"
+msgid "Now if you'll excuse me, I have much to do."
+msgstr "现在请原谅我，我还有很多事情要做。"
+
+#. STRINGS.WAGSTAFF_NPC_EXPERIMENT_DONE_1
+msgctxt "STRINGS.WAGSTAFF_NPC_EXPERIMENT_DONE_1"
+msgid "It's done!"
+msgstr "完成了！"
+
+#. STRINGS.WAGSTAFF_NPC_EXPERIMENT_DONE_2
+msgctxt "STRINGS.WAGSTAFF_NPC_EXPERIMENT_DONE_2"
+msgid "Take this, you'll need it for what we have to do."
+msgstr "拿着这个，你会需要它去做我们要做的事。"
+
+#. STRINGS.WAGSTAFF_NPC_EXPERIMENT_FAIL_1
+msgctxt "STRINGS.WAGSTAFF_NPC_EXPERIMENT_FAIL_1"
+msgid "Balderdash! The containment has failed!"
+msgstr "废了！我们的实验失败了！"
+
+#. STRINGS.WAGSTAFF_NPC_EXPERIMENT_FAIL_2
+msgctxt "STRINGS.WAGSTAFF_NPC_EXPERIMENT_FAIL_2"
+msgid "Back to my notes again..."
+msgstr "重新回到我的笔记……"
+
+#. STRINGS.WAGSTAFF_NPC_MEETING
+msgctxt "STRINGS.WAGSTAFF_NPC_MEETING"
+msgid "You! Of course!"
+msgstr "你！当然是你！"
+
+#. STRINGS.WAGSTAFF_NPC_MEETING_2
+msgctxt "STRINGS.WAGSTAFF_NPC_MEETING_2"
+msgid "Quick, take these!"
+msgstr "快，拿着这些！"
+
+#. STRINGS.WAGSTAFF_NPC_MEETING_3
+msgctxt "STRINGS.WAGSTAFF_NPC_MEETING_3"
+msgid "I'll be needing some assistance shortly."
+msgstr "我很快就会需要一些帮助。"
+
+#. STRINGS.WAGSTAFF_NPC_MEETING_4
+msgctxt "STRINGS.WAGSTAFF_NPC_MEETING_4"
+msgid "Find me when you are sufficiently prepared."
+msgstr "等你准备充分了再来找我。"
+
+#. STRINGS.WAGSTAFF_NPC_MEETING_5
+msgctxt "STRINGS.WAGSTAFF_NPC_MEETING_5"
+msgid "Now, to find the source of that reading..."
+msgstr "现在，为了找到读数的来源……"
+
+#. STRINGS.WAGSTAFF_NPC_MUMBLE_1.1
+msgctxt "STRINGS.WAGSTAFF_NPC_MUMBLE_1.1"
+msgid "It's close by now..."
+msgstr "已经很接近了……"
+
+#. STRINGS.WAGSTAFF_NPC_MUMBLE_1.2
+msgctxt "STRINGS.WAGSTAFF_NPC_MUMBLE_1.2"
+msgid "If I can just find..."
+msgstr "要是我能找到……"
+
+#. STRINGS.WAGSTAFF_NPC_MUMBLE_1.3
+msgctxt "STRINGS.WAGSTAFF_NPC_MUMBLE_1.3"
+msgid "If my hypothesis is correct..."
+msgstr "如果我的假设正确……"
+
+#. STRINGS.WAGSTAFF_NPC_MUMBLE_1.4
+msgctxt "STRINGS.WAGSTAFF_NPC_MUMBLE_1.4"
+msgid "It's here... somewhere."
+msgstr "就在附近……"
+
+#. STRINGS.WAGSTAFF_NPC_NOT_THIS_TOOL.1
+msgctxt "STRINGS.WAGSTAFF_NPC_NOT_THIS_TOOL.1"
+msgid "No no, that's not what I'm looking for!"
+msgstr "不，不，那不是我要找的东西！"
+
+#. STRINGS.WAGSTAFF_NPC_NOT_THIS_TOOL.2
+msgctxt "STRINGS.WAGSTAFF_NPC_NOT_THIS_TOOL.2"
+msgid "This isn't the right one, the other one!"
+msgstr "这个不是，是别的！"
+
+#. STRINGS.WAGSTAFF_NPC_NO_WAY1.1
+msgctxt "STRINGS.WAGSTAFF_NPC_NO_WAY1.1"
+msgid "Blast, I lost the signal."
+msgstr "该死，我失去信号了。"
+
+#. STRINGS.WAGSTAFF_NPC_NO_WAY2.1
+msgctxt "STRINGS.WAGSTAFF_NPC_NO_WAY2.1"
+msgid "I must have miscalculated."
+msgstr "我一定是计算错误了。"
+
+#. STRINGS.WAGSTAFF_NPC_NO_WAY3.1
+msgctxt "STRINGS.WAGSTAFF_NPC_NO_WAY3.1"
+msgid "Come find me again once I've made some preparations."
+msgstr "等我做了一些准备工作后再来找我。"
+
+#. STRINGS.WAGSTAFF_NPC_START.1
+msgctxt "STRINGS.WAGSTAFF_NPC_START.1"
+msgid "This is it, it must be contained."
+msgstr "就是它，它必须被遏制。"
+
+#. STRINGS.WAGSTAFF_NPC_START.2
+msgctxt "STRINGS.WAGSTAFF_NPC_START.2"
+msgid "I'll need your assistance, we must contain it before it's gone!"
+msgstr "我需要你的协助，我们必须在它消失之前遏制住它！"
+
+#. STRINGS.WAGSTAFF_NPC_STORMPASS
+msgctxt "STRINGS.WAGSTAFF_NPC_STORMPASS"
+msgid "Balderdash, my connection is fading!"
+msgstr "废了，我的连接在消逝！"
+
+#. STRINGS.WAGSTAFF_NPC_THIS_WAY.1
+msgctxt "STRINGS.WAGSTAFF_NPC_THIS_WAY.1"
+msgid "Ahh, this way!"
+msgstr "啊，这边！"
+
+#. STRINGS.WAGSTAFF_NPC_THIS_WAY.2
+msgctxt "STRINGS.WAGSTAFF_NPC_THIS_WAY.2"
+msgid "My scans point toward this direction."
+msgstr "我的扫描结果指向了这个方向。"
+
+#. STRINGS.WAGSTAFF_NPC_THIS_WAY.3
+msgctxt "STRINGS.WAGSTAFF_NPC_THIS_WAY.3"
+msgid "Aha, found it again!"
+msgstr "啊哈，又找到了！"
+
+#. STRINGS.WAGSTAFF_NPC_TOO_BUSY.1
+msgctxt "STRINGS.WAGSTAFF_NPC_TOO_BUSY.1"
+msgid "I'm a bit preoccupied at the moment."
+msgstr "我现在有点分身乏术。"
+
+#. STRINGS.WAGSTAFF_NPC_TOO_BUSY.2
+msgctxt "STRINGS.WAGSTAFF_NPC_TOO_BUSY.2"
+msgid "Patience if you please, this requires my full concentration."
+msgstr "请你耐心等待，我需要全神贯注在手头的工作。"
+
+#. STRINGS.WAGSTAFF_NPC_WANT_TOOL_1
+msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_1"
+msgid "Quick, I need my Reticulating Buffer!"
+msgstr "快，我需要我的网状缓冲器！"
+
+#. STRINGS.WAGSTAFF_NPC_WANT_TOOL_2
+msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_2"
+msgid "Someone find me a Widget Deflubber!"
+msgstr "给我找个除垢机去！"
+
+#. STRINGS.WAGSTAFF_NPC_WANT_TOOL_3
+msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_3"
+msgid "Has anyone seen my Grommet Scriber?"
+msgstr "有没有看到我的垫圈开槽器？"
+
+#. STRINGS.WAGSTAFF_NPC_WANT_TOOL_4
+msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_4"
+msgid "Can someone hand me the Conceptual Scrubber?"
+msgstr "能不能给我递一下概念刷洗器？"
+
+#. STRINGS.WAGSTAFF_NPC_WANT_TOOL_5
+msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_5"
+msgid "I'm certain I put the Calibrated Perceiver down here somewhere..."
+msgstr "我分明记得把校准观察机放在附近的……"
+
+#. STRINGS.WAGSTAFF_NPC_YES_THIS_TOOL.1
+msgctxt "STRINGS.WAGSTAFF_NPC_YES_THIS_TOOL.1"
+msgid "Excellent, that's it!"
+msgstr "妙极了，就是它！"
+
+#. STRINGS.WAGSTAFF_NPC_YES_THIS_TOOL.2
+msgctxt "STRINGS.WAGSTAFF_NPC_YES_THIS_TOOL.2"
+msgid "At last! Now let's get this finished!"
+msgstr "总算找到了！我们来完成它吧！"
 
 #. STRINGS.WET_PREFIX.CLOTHING
 msgctxt "STRINGS.WET_PREFIX.CLOTHING"
