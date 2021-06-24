@@ -166,6 +166,11 @@ msgctxt "STRINGS.ACTIONS.BATHBOMB"
 msgid "Toss In"
 msgstr "投入"
 
+#. STRINGS.ACTIONS.BEDAZZLE
+msgctxt "STRINGS.ACTIONS.BEDAZZLE"
+msgid "Decorate"
+msgstr "装饰"
+
 #. STRINGS.ACTIONS.BEGIN_QUEST
 msgctxt "STRINGS.ACTIONS.BEGIN_QUEST"
 msgid "Assist"
@@ -711,6 +716,11 @@ msgctxt "STRINGS.ACTIONS.HEAL.SELF"
 msgid "Heal Self"
 msgstr "治疗自己"
 
+#. STRINGS.ACTIONS.HERD_FOLLOWERS
+msgctxt "STRINGS.ACTIONS.HERD_FOLLOWERS"
+msgid "Herd Spiders"
+msgstr "召集蜘蛛"
+
 #. STRINGS.ACTIONS.HITCHUP
 msgctxt "STRINGS.ACTIONS.HITCHUP"
 msgid "Hitch to"
@@ -820,6 +830,11 @@ msgstr "走上"
 msgctxt "STRINGS.ACTIONS.MURDER"
 msgid "Murder"
 msgstr "谋杀"
+
+#. STRINGS.ACTIONS.MUTATE_SPIDER
+msgctxt "STRINGS.ACTIONS.MUTATE_SPIDER"
+msgid "Feed"
+msgstr "喂养"
 
 #. STRINGS.ACTIONS.NET
 msgctxt "STRINGS.ACTIONS.NET"
@@ -985,6 +1000,11 @@ msgstr "插入"
 msgctxt "STRINGS.ACTIONS.REPAIR_LEAK"
 msgid "Repair Leak"
 msgstr "补漏"
+
+#. STRINGS.ACTIONS.REPEL
+msgctxt "STRINGS.ACTIONS.REPEL"
+msgid "Shoo Spiders"
+msgstr "驱赶蜘蛛"
 
 #. STRINGS.ACTIONS.REPLATE.FMT
 msgctxt "STRINGS.ACTIONS.REPLATE.FMT"
@@ -2716,6 +2736,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "I can't, the surface is glassed over."
 msgstr "不行，表面都变玻璃了。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.ALREADY_BEDAZZLED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.ALREADY_BEDAZZLED"
+msgid "only_used_by_webber"
+msgstr "only_used_by_webber"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.BURNING"
+msgid "only_used_by_webber"
+msgstr "only_used_by_webber"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.BURNT"
+msgid "only_used_by_webber"
+msgstr "only_used_by_webber"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.FROZEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEDAZZLE.FROZEN"
+msgid "only_used_by_webber"
+msgstr "only_used_by_webber"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
 msgid "only_used_by_wendy"
@@ -3011,6 +3051,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "I've already tackled this one."
 msgstr "不对，不对。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "They won't listen to me, but they might listen to Webber."
+msgstr "虽然它们不听我的，但是可能会听韦伯的。"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "My beefalo is already hitched up."
@@ -3275,6 +3320,11 @@ msgstr "only_used_by_walter"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.UNLOCK.WRONGKEY"
 msgid "I can't do that."
 msgstr "我做不到。"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.UPGRADE.BEDAZZLED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.UPGRADE.BEDAZZLED"
+msgid "only_used_by_webber"
+msgstr "only_used_by_webber"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED"
@@ -10356,6 +10406,36 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Thank goodness. It's sleeping."
 msgstr "谢天谢地，它在睡觉。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_DROPPER"
+msgid "Ah, I... just ate! Why don't you give it to one of your spider friends?"
+msgstr "呃，我……刚吃过饭！你拿去给你的蜘蛛朋友好吗？"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_HEALER"
+msgid "Ah, I... just ate! Why don't you give it to one of your spider friends?"
+msgstr "呃，我……刚吃过饭！你拿去给你的蜘蛛朋友好吗？"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_HIDER"
+msgid "Oh wow, that looks um... delicious, Webber!"
+msgstr "哦，哇，这看起来嗯……很好吃，韦伯!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_MOON"
+msgid "Oh wow, that looks um... delicious, Webber!"
+msgstr "哦，哇，这看起来嗯……很好吃，韦伯!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_SPITTER"
+msgid "Ah, I... just ate! Why don't you give it to one of your spider friends?"
+msgstr "呃，我……刚吃过饭！你拿去给你的蜘蛛朋友好吗？"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Oh wow, that looks um... delicious, Webber!"
+msgstr "哦，哇，这看起来嗯……很好吃，韦伯!"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NATURE_BLUEPRINT"
 msgid "You really can't go wrong with flowers."
@@ -12971,6 +13051,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDERDEN"
 msgid "Sticky!"
 msgstr "真黏！"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "It looks like someone's been getting crafty."
+msgstr "看起来某人的手艺提高了不少啊。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDEREGGSACK"
 msgid "I hope these don't hatch. Period."
@@ -13005,6 +13090,11 @@ msgstr "啊啊啊！那只蜘蛛真巨大！"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_DROPPER"
 msgid "Note to self: Don't look up."
 msgstr "自我提醒：别向上看。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HEALER"
+msgid "Oh wonderful. Now the spiders can heal themselves."
+msgstr "哦，太好了。现在蜘蛛可以自愈了。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HIDER"
@@ -13045,6 +13135,11 @@ msgstr "看起来比平常的蜘蛛更凶恶。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I should keep my distance."
 msgstr "我应当保持距离。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_WHISTLE"
+msgid "I don't want to call any spiders over to me!"
+msgstr "我可不想引来任何蜘蛛!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPOILED_FISH"
@@ -16215,6 +16310,11 @@ msgstr "沃比，我们要不要叫醒人家呢？"
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Heh. I learned that ages ago!"
 msgstr "呵呵。我好久之前就知道了！"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "They're not listening to me! Maybe Webber can talk to them..."
+msgstr "它们不听我的！也许韦伯可以跟它们聊聊……"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -23256,6 +23356,36 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "I think it's sleeping, but it's hard to tell."
 msgstr "我想它是在睡觉，但是很难说。"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_DROPPER"
+msgid "Neat! There aren't any actual spider bits in these though, right?"
+msgstr "漂亮! 不过这里面没有真的蜘蛛肉，对吧？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HEALER"
+msgid "Neat! There aren't any actual spider bits in these though, right?"
+msgstr "漂亮! 不过这里面没有真的蜘蛛肉，对吧？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HIDER"
+msgid "Hey, cookies! Um... what are these made of, exactly?"
+msgstr "嘿，居然是曲奇饼！呃……到底是用什么做的呢？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_MOON"
+msgid "Hey, cookies! Um... what are these made of, exactly?"
+msgstr "嘿，居然是曲奇饼！呃……到底是用什么做的呢？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_SPITTER"
+msgid "Neat! There aren't any actual spider bits in these though, right?"
+msgstr "漂亮! 不过这里面没有真的蜘蛛肉，对吧？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Hey, cookies! Um... what are these made of, exactly?"
+msgstr "嘿，居然是曲奇饼！呃……到底是用什么做的呢？"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I hope it doesn't attract too many bees."
@@ -25871,6 +26001,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDERDEN"
 msgid "Hey, that must be where the spiders live! It's huge!"
 msgstr "嘿，那一定是蜘蛛住的地方! 好大啊！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "He's well on his way to getting his Arts and Crafts badge."
+msgstr "他很快就能获得手工艺奖章了。"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDEREGGSACK"
 msgid "Aww, it's full of baby spiders!"
@@ -25905,6 +26040,11 @@ msgstr "我从来没有听说过蜘蛛有女王，真是太有趣了！"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_DROPPER"
 msgid "Woah! You startled me!"
 msgstr "哇！你吓到我了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HEALER"
+msgid "Aw, what a helpful little guy!"
+msgstr "嗷，多么乐于助人的小家伙啊！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HIDER"
@@ -25945,6 +26085,11 @@ msgstr "快看那家伙的颜色！"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I should probably leave them alone..."
 msgstr "我还是别惹它们……"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_WHISTLE"
+msgid "Hey Webber, let's call some spiders!"
+msgstr "喂，韦伯，我们叫几只蜘蛛来吧！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPOILED_FISH"
@@ -29115,6 +29260,11 @@ msgstr "他们正打盹呢。"
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We've learned that already."
 msgstr "已经学过了。"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "I'm afraid they won't listen to me."
+msgstr "我怕它们不听我的。"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -36076,6 +36226,36 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "I'll just... leave that be."
 msgstr "我还是...别吵醒它。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_DROPPER"
+msgid "Oh my..."
+msgstr "噢，天啊……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_HEALER"
+msgid "Oh my..."
+msgstr "噢，天啊……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_HIDER"
+msgid "Next time, let's bake something together, non?"
+msgstr "下次我们一起来烘焙，好不好？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_MOON"
+msgid "Next time, let's bake something together, non?"
+msgstr "下次我们一起来烘焙，好不好？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_SPITTER"
+msgid "Oh my..."
+msgstr "噢，天啊……"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Next time, let's bake something together, non?"
+msgstr "下次我们一起来烘焙，好不好？"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Made from natural ingredients."
@@ -38021,6 +38201,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERDEN"
 msgid "A spider has to live somewhere, I suppose."
 msgstr "我觉得这里肯定住着蜘蛛。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "It's nice to see the petit monsieur expressing his creativity!"
+msgstr "这位小先生发挥了他的创意，真是太好了！"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDEREGGSACK"
 msgid "This is probably a delicacy somewhere."
@@ -38055,6 +38240,11 @@ msgstr "我不会向你这种生物下跪的！"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_DROPPER"
 msgid "Ah, the old \"drop from the ceiling and commit violent acts\" act."
 msgstr "啊，“从天而降并实施暴力行为”的老派做法。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HEALER"
+msgid "I suppose it's good to have a healthier alternative."
+msgstr "有更健康的选项当然是好事。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HIDER"
@@ -38095,6 +38285,11 @@ msgstr "你是不是比其他蜘蛛更好战？"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "It is having a flashback to the spider war..."
 msgstr "它正在梦中进行蜘蛛大战..."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_WHISTLE"
+msgid "Oh dear, it's quite sticky."
+msgstr "啊天啊，真黏啊。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPOILED_FISH"
@@ -41256,6 +41451,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We have already conquered this knowledge."
 msgstr "我们已经攻克了这一知识。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "The spiderchild is the only one who can tame those little beasts!"
+msgstr "那个蛛孩是唯一可以驯服这些小野兽的人！"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "The beast hath already been secured to its post."
@@ -42813,7 +43013,7 @@ msgstr "它完成了任务。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARCHIVE_RESONATOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARCHIVE_RESONATOR_ITEM"
-msgid "Tis the machine from my vision."
+msgid "'Tis the machine from my vision."
 msgstr "正是我预言中的机器。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARCHIVE_RUNE_STATUE.LINE_1
@@ -43138,7 +43338,7 @@ msgstr "治愈最深的战斗伤口。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BARNACLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BARNACLE"
-msgid "Tis a paltry bit of sea meat."
+msgid "'Tis a paltry bit of sea meat."
 msgstr "这只是一点微不足道的海肉。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BARNACLEPITA
@@ -45958,37 +46158,37 @@ msgstr "困于两个世界之间的灵魂。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTFLOWER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTFLOWER"
-msgid "Tis all that remains."
+msgid "'Tis all that remains."
 msgstr "只剩下了这个。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_ATTACK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_ATTACK"
-msgid "Tis a powerful elixir!"
+msgid "'Tis a powerful elixir!"
 msgstr "强力的药剂！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
-msgid "Tis a powerful elixir!"
+msgid "'Tis a powerful elixir!"
 msgstr "强力的药剂！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_RETALIATION
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
-msgid "Tis a powerful elixir!"
+msgid "'Tis a powerful elixir!"
 msgstr "强力的药剂！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SHIELD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SHIELD"
-msgid "Tis a powerful elixir!"
+msgid "'Tis a powerful elixir!"
 msgstr "强力的药剂！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
-msgid "Tis a powerful elixir!"
+msgid "'Tis a powerful elixir!"
 msgstr "强力的药剂！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SPEED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GHOSTLYELIXIR_SPEED"
-msgid "Tis a powerful elixir!"
+msgid "'Tis a powerful elixir!"
 msgstr "强力的药剂！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GIFT
@@ -47463,7 +47663,7 @@ msgstr "水分都消灭干净了！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATRACK_HERMIT.DONE_NOTMEAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATRACK_HERMIT.DONE_NOTMEAT"
-msgid "Tis as dry as an empty well!"
+msgid "'Tis as dry as an empty well!"
 msgstr "干如枯井！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATRACK_HERMIT.DRYING
@@ -47513,7 +47713,7 @@ msgstr "无疑是令人敬畏的勇士。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMHAT"
-msgid "Tis a deceitful mask."
+msgid "'Tis a deceitful mask."
 msgstr "此乃欺骗的面具。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMHEAD.BURNT
@@ -47538,7 +47738,7 @@ msgstr "这屋子是用鱼做的吗？"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMHOUSE_CRAFTED.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMHOUSE_CRAFTED.BURNT"
-msgid "Tis the way of things."
+msgid "'Tis the way of things."
 msgstr "世事无常。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMHOUSE_CRAFTED.GENERIC
@@ -47563,7 +47763,7 @@ msgstr "你们选出了酋长了吗？"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMTHRONE_CONSTRUCTION.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMTHRONE_CONSTRUCTION.BURNT"
-msgid "Tis a sad day for the fish beasts."
+msgid "'Tis a sad day for the fish beasts."
 msgstr "对鱼类猛兽来说这是悲伤的一天。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMTHRONE_CONSTRUCTION.GENERIC
@@ -47578,7 +47778,7 @@ msgstr "少了酋长，他们显得无所适从。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMWATCHTOWER_REGULAR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMWATCHTOWER_REGULAR"
-msgid "Tis a fine fortress for a fish beast."
+msgid "'Tis a fine fortress for a fish beast."
 msgstr "鱼类猛兽的坚固堡垒。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERM_PRINCE
@@ -48240,6 +48440,36 @@ msgstr "冥界无疑腐化了你！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "It slumbers soundly."
 msgstr "它睡得真香。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_DROPPER"
+msgid "They look like the little beasts, but lack the ferocity."
+msgstr "它们虽然看起来像小野兽，但却缺少了它们的凶猛。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_HEALER"
+msgid "They look like the little beasts, but lack the ferocity."
+msgstr "它们虽然看起来像小野兽，但却缺少了它们的凶猛。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_HIDER"
+msgid "They look like the little beasts, but lack the ferocity."
+msgstr "它们虽然看起来像小野兽，但却缺少了它们的凶猛。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_MOON"
+msgid "They look like the little beasts, but lack the ferocity."
+msgstr "它们虽然看起来像小野兽，但却缺少了它们的凶猛。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_SPITTER"
+msgid "They look like the little beasts, but lack the ferocity."
+msgstr "它们虽然看起来像小野兽，但却缺少了它们的凶猛。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUTATOR_WARRIOR"
+msgid "They look like the little beasts, but lack the ferocity."
+msgstr "它们虽然看起来像小野兽，但却缺少了它们的凶猛。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NATURE_BLUEPRINT"
@@ -49038,7 +49268,7 @@ msgstr "对付难吃的菜的有力武器。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PORTABLETENT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PORTABLETENT"
-msgid "Tis a finely made shelter indeed!"
+msgid "'Tis a finely made shelter indeed!"
 msgstr "这的确是一个很好的庇护所！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PORTABLETENT_ITEM
@@ -50583,7 +50813,7 @@ msgstr "能让亡灵勇士重获力量的小长屋。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.LOTS_OF_FLOWERS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.LOTS_OF_FLOWERS"
-msgid "Tis a fine monument indeed."
+msgid "'Tis a fine monument indeed."
 msgstr "好一个纪念碑。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SISTURN.SOME_FLOWERS
@@ -50851,6 +51081,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDERDEN"
 msgid "Crush them at the source!"
 msgstr "从源头上摧毁它们！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "The spiderchild has taken up the arts, has he?"
+msgstr "那个蛛孩开始搞艺术了？"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDEREGGSACK"
 msgid "Squashing these would be a waste of future battles."
@@ -50885,6 +51120,11 @@ msgstr "终于来了，对我能力的真正考验。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_DROPPER"
 msgid "You are so sneaky!"
 msgstr "你真卑鄙！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HEALER"
+msgid "Be you the healer of your clan?"
+msgstr "你就是你们部落的治愈者吗？"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HIDER"
@@ -50925,6 +51165,11 @@ msgstr "蜘蛛捍卫者。战斗！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "It is cowardly to attack a sleeping enemy."
 msgstr "攻击睡着的敌人是一种懦弱的行为。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_WHISTLE"
+msgid "'Tis a spider war horn."
+msgstr "此乃蜘蛛的战争号角。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPOILED_FISH"
@@ -53433,12 +53678,12 @@ msgstr "不过是一个完整款式的碎片。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTB_PATTERN_FRAGMENT_2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTB_PATTERN_FRAGMENT_2"
-msgid "Tis but a fragment of a complete pattern."
+msgid "'Tis but a fragment of a complete pattern."
 msgstr "不过是一个完整款式的碎片。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTB_PATTERN_FRAGMENT_3
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTB_PATTERN_FRAGMENT_3"
-msgid "Tis but a fragment of a complete pattern."
+msgid "'Tis but a fragment of a complete pattern."
 msgstr "不过是一个完整款式的碎片。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTB_POST
@@ -54085,6 +54330,11 @@ msgstr "额…我会让你休息的。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "That can already be made here."
 msgstr "那件事从这里就可以开始进行。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "I don't hold any power over them."
+msgstr "我号令不了它们。"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -55484,7 +55734,7 @@ msgstr "总算露出了你的本来面目。"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEAD"
 msgid "I don't know what to believe. All this time, I thought that They were..."
-msgstr "我也不知道该相信什么了。我总以为它们……"
+msgstr "我也不知道该相信什么了。我总以为他们……"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALTERGUARDIAN_PHASE3DEADORB"
@@ -61051,6 +61301,36 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "May you never wake."
 msgstr "永远别醒。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_DROPPER"
+msgid "How sickeningly endearing."
+msgstr "恶心的让人心疼。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_HEALER"
+msgid "How sickeningly endearing."
+msgstr "恶心的让人心疼。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_HIDER"
+msgid "I'm not eating that."
+msgstr "我不要吃这个。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_MOON"
+msgid "I'm not eating that."
+msgstr "我不要吃这个。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_SPITTER"
+msgid "How sickeningly endearing."
+msgstr "恶心的让人心疼。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUTATOR_WARRIOR"
+msgid "I'm not eating that."
+msgstr "我不要吃这个。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Florals. How saccharine."
@@ -63661,6 +63941,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDERDEN"
 msgid "They grow big here."
 msgstr "它们在这里长大。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Careful child, it's a slippery slope towards a career in the arts."
+msgstr "小心了，孩子，这是条通往艺术职业的下坡路。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDEREGGSACK"
 msgid "Squishy."
@@ -63695,6 +63980,11 @@ msgstr "或许我不该挡她的路。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_DROPPER"
 msgid "Creatures in this world evolve at a terrifying rate."
 msgstr "这个世界的生物进化的速度越来越恐怖了。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HEALER"
+msgid "I don't think that's one of mine."
+msgstr "那个不是我的。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HIDER"
@@ -63735,6 +64025,11 @@ msgstr "它是一个特殊品种。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I don't want to wake that one."
 msgstr "我可不想弄醒它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WHISTLE"
+msgid "It's probably covered in spider spit."
+msgstr "多半沾满了蜘蛛的口水。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPOILED_FISH"
@@ -66606,6 +66901,26 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.GLASSED"
 msgid "There's too much glass in the way."
 msgstr "被好多玻璃挡住了。"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.ALREADY_BEDAZZLED
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.ALREADY_BEDAZZLED"
+msgid "We think we already decorated it pretty good."
+msgstr "我们觉得已经装饰得很好啦。"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.BURNING
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.BURNING"
+msgid "Aaah! Spiderfriends, your house!!"
+msgstr "啊！蜘蛛朋友们，你们的家！！"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.BURNT
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.BURNT"
+msgid "There isn't really much left to decorate..."
+msgstr "不剩什么好装饰的了……"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.FROZEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEDAZZLE.FROZEN"
+msgid "Hmm it might be hard to get our decorations to stick to ice..."
+msgstr "嗯，我们的装饰品很难粘在冰上……"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEGIN_QUEST.ONEGHOST
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BEGIN_QUEST.ONEGHOST"
 msgid "only_used_by_wendy"
@@ -66896,6 +67211,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We don't need two!"
 msgstr "我们不需要两个！"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "Okay everybody, follow us!"
+msgstr "好的，所有人都跟上我们！"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "Our beefalo isn't going anywhere."
@@ -67125,6 +67445,11 @@ msgstr "它是不是颠倒了？没有。它只是错了。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.TELLSTORY.GENERIC"
 msgid "only_used_by_walter"
 msgstr "only_used_by_walter"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.UPGRADE.BEDAZZLED
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.UPGRADE.BEDAZZLED"
+msgid "But we made it look so nice! Let's keep it the way it is."
+msgstr "我们好不容易让它变得这么好看！就让它保持原样吧。"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED"
@@ -73463,8 +73788,8 @@ msgstr "哦...我们不喜欢这个！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSPIDERDEN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSPIDERDEN"
-msgid "I don't want to be friends with those ones."
-msgstr "我不想和它们做朋友。"
+msgid "They're not so bad once you get to know them."
+msgstr "一旦你熟悉了，你就知道它们也没什么差。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GLASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSTORM_GLASS.GENERIC"
@@ -73860,6 +74185,36 @@ msgstr "比我们更像怪兽！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "We don't want to get closer."
 msgstr "我们不想再近了。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_DROPPER"
+msgid "Who wants a cookie?"
+msgstr "谁想吃曲奇饼？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_HEALER"
+msgid "Doesn't it look tasty?"
+msgstr "看起来很好吃吧？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_HIDER"
+msgid "We came up with the recipe all by ourselves!"
+msgstr "用什么材料都是我们自己想的！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_MOON"
+msgid "We made this cookie special!"
+msgstr "我们特别制作了这块曲奇饼！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_SPITTER"
+msgid "We made it look just like our friend!"
+msgstr "我们把它做得就像我们的朋友一样！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUTATOR_WARRIOR"
+msgid "We just know they're going to love it!"
+msgstr "我们就知道它们会喜欢它！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NATURE_BLUEPRINT"
@@ -76471,6 +76826,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERDEN"
 msgid "Looks cozy in there."
 msgstr "那里面看起来好舒服。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "We know what'll make our spiderfriends happy, decorating their house!"
+msgstr "我们知道怎样让我们的蜘蛛朋友开心，那就是装饰它们的房子！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDEREGGSACK"
 msgid "A portable friendship pod!"
@@ -76505,6 +76865,11 @@ msgstr "会生出小蜘蛛的长腿母蜘蛛？"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_DROPPER"
 msgid "Our friends live up there."
 msgstr "那儿住着我们的朋友。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HEALER"
+msgid "We feel better just having them around!"
+msgstr "只要有它们在身边，我们感觉就好多了！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HIDER"
@@ -76545,6 +76910,11 @@ msgstr "他会保护我们！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "They're so cute when they sleep."
 msgstr "他们睡着的时候好可爱。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WHISTLE"
+msgid "We can call our spider friends!"
+msgstr "我们可以呼叫蜘蛛朋友了！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPOILED_FISH"
@@ -79705,6 +80075,11 @@ msgstr "他们看起来很平和…我很快就回来。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Oh... my information's useless..."
 msgstr "哦...我的信息没用..."
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "They are Webber's friends, not mine."
+msgstr "这些是韦伯的朋友，不是我的。"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -86736,6 +87111,36 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Don't wake up."
 msgstr "不要醒过来。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_DROPPER"
+msgid "Webber sees the world in a most curious way."
+msgstr "韦伯以一种最奇特的方式看待世界。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_HEALER"
+msgid "It's the only thing smiling around here."
+msgstr "这是这里唯一在笑的东西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_HIDER"
+msgid "Very well, since you made the cookies you can bring one spider friend to our tea party."
+msgstr "好吧，既然你做了曲奇饼，那就允许你带一个蜘蛛朋友参加我们的茶会。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_MOON"
+msgid "Very well, since you made the cookies you can bring one spider friend to our tea party."
+msgstr "好吧，既然你做了曲奇饼，那就允许你带一个蜘蛛朋友参加我们的茶会。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_SPITTER"
+msgid "It's the only thing smiling around here."
+msgstr "这是这里唯一在笑的东西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Very well, since you made the cookies you can bring one spider friend to our tea party."
+msgstr "好吧，既然你做了曲奇饼，那就允许你带一个蜘蛛朋友参加我们的茶会。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Do you like this one, Abigail?"
@@ -89346,6 +89751,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERDEN"
 msgid "A nest of filth and villainy."
 msgstr "一窝乌合之众。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "I wonder if I might ask to borrow some colored pencils..."
+msgstr "我该不该开口借几根彩色铅笔……"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDEREGGSACK"
 msgid "A tiny package full of death and destruction."
@@ -89380,6 +89790,11 @@ msgstr "她像帝王般残酷。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_DROPPER"
 msgid "The darkness has drained the color from their fur."
 msgstr "黑暗褪去了它们身上的颜色。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HEALER"
+msgid "It's only prolonging the inevitable. How sad."
+msgstr "这只是在拖延不可避免的事情。多么可悲。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HIDER"
@@ -89420,6 +89835,11 @@ msgstr "夜行勇士！"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I must beware."
 msgstr "我必须小心。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WHISTLE"
+msgid "I don't think I want to play with that."
+msgstr "我可不想玩那个。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FISH"
@@ -92580,6 +93000,11 @@ msgstr "它们进入了快速眼动睡眠。不要打扰它们。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We've already taken note of this recipe."
 msgstr "我们已经记下了这个菜谱。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "I'm afraid this isn't my area of expertise."
+msgstr "恐怕这并非我的专业领域。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -99556,6 +99981,36 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "I see no reason to wake it."
 msgstr "没有理由吵醒它。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_DROPPER"
+msgid "They're lovely, dear."
+msgstr "亲爱的，它们很可爱。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_HEALER"
+msgid "They're lovely, dear."
+msgstr "亲爱的，它们很可爱。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_HIDER"
+msgid "How interesting! They appear to alter an arachnid's form when ingested."
+msgstr "多么有趣啊！它们被摄入后似乎会改变蛛形纲动物的形态。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_MOON"
+msgid "How interesting! They appear to alter an arachnid's form when ingested."
+msgstr "多么有趣啊！它们被摄入后似乎会改变蛛形纲动物的形态。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_SPITTER"
+msgid "They're lovely, dear."
+msgstr "亲爱的，它们很可爱。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUTATOR_WARRIOR"
+msgid "How interesting! They appear to alter an arachnid's form when ingested."
+msgstr "多么有趣啊！它们被摄入后似乎会改变蛛形纲动物的形态。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NATURE_BLUEPRINT"
 msgid "How delightful!"
@@ -100244,7 +100699,7 @@ msgstr "啊哈，你好，亲爱的%s！"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLAYER.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLAYER.GHOST"
 msgid "Poor dear. %s needs a heart to anchor them to this plane."
-msgstr "好可怜，%s需要一颗心将他们固定在这架飞机上。"
+msgstr "好可怜，%s需要一颗心将他们固定在这个位面上。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLAYER.MURDERER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLAYER.MURDERER"
@@ -102166,6 +102621,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERDEN"
 msgid "Fascinating. These spiders have a communal hive."
 msgstr "很有意思。这些蜘蛛的巢穴是共用的。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Be sure to tidy up when you're finished, young arachnid."
+msgstr "完成后一定要整理好，年轻的蛛形纲动物。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDEREGGSACK"
 msgid "A highly portable spider egg sack."
@@ -102200,6 +102660,11 @@ msgstr "那肯定就是蜘蛛们的首脑了吧。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_DROPPER"
 msgid "Ah, this species of arachnid has adapted to life on the cave ceiling."
 msgstr "啊，这种蛛形纲动物已经适应了悬挂在洞穴顶上的生活。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HEALER"
+msgid "This arachnid has evolved the ability to heal others around it."
+msgstr "这种蛛形纲动物进化出了治疗周围其他人的能力。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HIDER"
@@ -102240,6 +102705,11 @@ msgstr "它似乎是族群里的战士。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "A well deserved rest, no doubt."
 msgstr "它本就应该好好休息。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WHISTLE"
+msgid "Arachnids seem to find the sound quite agreeable."
+msgstr "蛛形纲动物似乎觉得这种声音很好听。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPOILED_FISH"
@@ -103919,7 +104389,7 @@ msgstr "啊哈，那个小丑。你好啊，亲爱的%s！"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WES.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WES.GHOST"
 msgid "Poor dear. %s needs a heart to anchor him to this plane."
-msgstr "亲爱的，%s需要一颗心脏把他固定在这架飞机上。"
+msgstr "亲爱的，%s需要一颗心脏把他固定在这个位面上。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WES.MURDERER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WES.MURDERER"
@@ -103984,7 +104454,7 @@ msgstr "知识派上了用场，不是吗，%s ？"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.ATTACKER"
 msgid "You like to test boundaries, don't you dear?"
-msgstr "亲爱的，你喜欢测试边界，不是吗？"
+msgstr "亲爱的，你喜欢试探底线，不是吗？"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.FIRESTARTER"
@@ -104039,7 +104509,7 @@ msgstr "%s，好像我们已经进入斗智斗勇的境界！"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.REVIVER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.REVIVER"
 msgid "You may know a thing or two after all, scientist!"
-msgstr "科学家，你最后还是会知道一两件事情！"
+msgstr "你还是知道一两件事的，科学家！"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINCH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINCH.GENERIC"
@@ -105169,7 +105639,7 @@ msgstr "没门。理我都懒得理。"
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.EMPTY"
 msgid "I need something to build with first!"
-msgstr "首先我需要一些建造材料。"
+msgstr "首先我需要一些建造材料！"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.INUSE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.INUSE"
@@ -105400,6 +105870,11 @@ msgstr "我可以把它放在他们的枕头下…？"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Awww, we already know that one!"
 msgstr "哦哦哦，我们已经知道那个了！"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "These jerks won't listen to me."
+msgstr "这些混蛋不听我的话。"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -112396,6 +112871,36 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "I don't wanna wake it."
 msgstr "我不想吵醒它。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_DROPPER"
+msgid "Eww, there's legs sticking out of it!"
+msgstr "呃，有腿伸出来了！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_HEALER"
+msgid "Eww, there's legs sticking out of it!"
+msgstr "呃，有腿伸出来了！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_HIDER"
+msgid "Give one to Wilson, I'm sure he'd loooove to try it! Heheh."
+msgstr "给威尔逊一个吧，我相信他一定很想试试！嘿嘿。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_MOON"
+msgid "Give one to Wilson, I'm sure he'd loooove to try it! Heheh."
+msgstr "给威尔逊一个吧，我相信他一定很想试试！嘿嘿。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_SPITTER"
+msgid "Eww, there's legs sticking out of it!"
+msgstr "恶，有腿伸出来了！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Give one to Wilson, I'm sure he'd loooove to try it! Heheh."
+msgstr "给威尔逊一个吧，我相信他一定很想试试！嘿嘿。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Once the flowers dry out they'll make nice kindling."
@@ -115006,6 +115511,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERDEN"
 msgid "That's just nasty."
 msgstr "真脏。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Hey Webber, it's way more fun to burn paper than to draw on it!"
+msgstr "嘿，韦伯，烧纸比在纸上画画好玩多了！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDEREGGSACK"
 msgid "Tons of tiny disgusting spiders."
@@ -115040,6 +115550,11 @@ msgstr "用火烧死它！"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_DROPPER"
 msgid "They come from above."
 msgstr "它们是从上面下来的。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HEALER"
+msgid "Ew, it stinks!"
+msgstr "呕，臭死了！"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HIDER"
@@ -115080,6 +115595,11 @@ msgstr "也许我可以...用火烧死它。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "Maybe I should just leave that one alone."
 msgstr "也许我不应该去打扰那家伙。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WHISTLE"
+msgid "Nu-uh, I'm not putting that thing anywhere near my face."
+msgstr "不——就不，我可不会让那个东西靠近我的脸蛋。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPOILED_FISH"
@@ -118245,6 +118765,11 @@ msgstr "他们休息了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We already got these schematics."
 msgstr "我们已经有这些图纸了。"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "Looks like I'm not the boss here."
+msgstr "看来我不是这里的老板。"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -125291,6 +125816,36 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Better than it being awake."
 msgstr "总比它醒着强。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_DROPPER"
+msgid "Hope those spiders have strong stomachs."
+msgstr "希望那些蜘蛛有强壮的胃。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_HEALER"
+msgid "Hope those spiders have strong stomachs."
+msgstr "希望那些蜘蛛有强壮的胃。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_HIDER"
+msgid "I don't think I'll be takin' a bite out of that."
+msgstr "我不会吃那个的。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_MOON"
+msgid "I don't think I'll be takin' a bite out of that."
+msgstr "我不会吃那个的。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_SPITTER"
+msgid "Hope those spiders have strong stomachs."
+msgstr "希望那些蜘蛛有强壮的胃。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUTATOR_WARRIOR"
+msgid "I don't think I'll be takin' a bite out of that."
+msgstr "我不会吃那个的。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Good thing I'm not allergic to pollen."
@@ -127901,6 +128456,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDERDEN"
 msgid "I'd rather not mess with that."
 msgstr "我宁可不要去招惹它。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Doing some home improvements, kiddo?"
+msgstr "搞家装啊，孩子？"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDEREGGSACK"
 msgid "I think it'd be unwise to plant this."
@@ -127935,6 +128495,11 @@ msgstr "最好别挡她的路。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_DROPPER"
 msgid "That's a nasty looking spider!"
 msgstr "那只蜘蛛看起来真恶心！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HEALER"
+msgid "You're a real stinker, you know that?"
+msgstr "你这一身味，你自己闻得到吗？"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HIDER"
@@ -127975,6 +128540,11 @@ msgstr "你被我踩在脚底下的样子肯定更好看。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "Lazy spider."
 msgstr "懒惰的蜘蛛。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_WHISTLE"
+msgid "Sure wish that kid would hang around a better crowd."
+msgstr "真希望那个孩子能跟更好的孩子们玩。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPOILED_FISH"
@@ -129179,7 +129749,7 @@ msgstr "找到了网状缓冲器！我这就给老板拿回去。"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_2
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_2"
 msgid "There's the boss' Widget Deflubber!"
-msgstr "这就是老板的除垢机了！"
+msgstr "这就是老板的装置除垢器了！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_3
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_3"
@@ -131135,6 +131705,11 @@ msgstr "朋友现在睡着了！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Little recipe is already in there!"
 msgstr "小菜谱已经在那里面了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "Eep! Creepy bugs not listen to Wolfgang!"
+msgstr "诶！这帮吓人的怪虫子不听沃尔夫冈的话！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -138116,6 +138691,36 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Please do not wake up."
 msgstr "千万别醒。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_DROPPER"
+msgid "Tiny spider will be crushed in Wolfgang's mighty jaws! Or maybe not."
+msgstr "小小的蜘蛛会被沃尔夫冈强大的下巴压碎！有这个可能。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_HEALER"
+msgid "Tiny spider will be crushed in Wolfgang's mighty jaws! Or maybe not."
+msgstr "小小的蜘蛛会被沃尔夫冈强大的下巴压碎！有这个可能。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_HIDER"
+msgid "Tiny spider will be crushed in Wolfgang's mighty jaws! Or maybe not."
+msgstr "小小的蜘蛛会被沃尔夫冈强大的下巴压碎！有这个可能。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_MOON"
+msgid "Tiny spider will be crushed in Wolfgang's mighty jaws! Or maybe not."
+msgstr "小小的蜘蛛会被沃尔夫冈强大的下巴压碎！有这个可能。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_SPITTER"
+msgid "Tiny spider will be crushed in Wolfgang's mighty jaws! Or maybe not."
+msgstr "小小的蜘蛛会被沃尔夫冈强大的下巴压碎！有这个可能。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Tiny spider will be crushed in Wolfgang's mighty jaws! Or maybe not."
+msgstr "小小的蜘蛛会被沃尔夫冈强大的下巴压碎！有这个可能。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers would be good against cow smell."
@@ -140726,6 +141331,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERDEN"
 msgid "The bugs are hiding in there."
 msgstr "虫子藏在那里面。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Monsterchild will draw Wolfgang next, yes?"
+msgstr "那个怪物孩子接下来会抽到沃尔夫冈，是吗？"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDEREGGSACK"
 msgid "Nasty spider eggs."
@@ -140760,6 +141370,11 @@ msgstr "哦，不！会走路的虫屋！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_DROPPER"
 msgid "Scary spider from above."
 msgstr "从天而降的可怕蜘蛛。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HEALER"
+msgid "Scary dust spider!"
+msgstr "吓人的灰尘蜘蛛！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HIDER"
@@ -140800,6 +141415,11 @@ msgstr "这只特别可怕。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I think not smart to poke it."
 msgstr "去捅它可不太好。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WHISTLE"
+msgid "Wolfgang not sure he wants to be at spider party..."
+msgstr "沃尔夫冈不确定他是否想参加蜘蛛派对……"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPOILED_FISH"
@@ -143960,6 +144580,11 @@ msgstr "让他们小睡一下。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "No sense having two of the same recipe."
 msgstr "没有必要拥有两个相同的菜谱。"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "They're not too keen on listenin' to me."
+msgstr "它们不太想听我的。"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -150936,6 +151561,36 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Let's not wake it."
 msgstr "可别弄醒了。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_DROPPER"
+msgid "Sorry little buddy, I think I'll have to pass."
+msgstr "对不起，小家伙，俺不吃这玩意。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_HEALER"
+msgid "Sorry little buddy, I think I'll have to pass."
+msgstr "对不起，小家伙，俺不吃这玩意。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_HIDER"
+msgid "Sorry little buddy, I think I'll have to pass."
+msgstr "对不起，小家伙，俺不吃这玩意。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_MOON"
+msgid "Sorry little buddy, I think I'll have to pass."
+msgstr "对不起，小家伙，俺不吃这玩意。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_SPITTER"
+msgid "Sorry little buddy, I think I'll have to pass."
+msgstr "对不起，小家伙，俺不吃这玩意。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Sorry little buddy, I think I'll have to pass."
+msgstr "对不起，小家伙，俺不吃这玩意。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NATURE_BLUEPRINT"
 msgid "All-natural and organic."
@@ -153546,6 +154201,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDERDEN"
 msgid "Holy Mackinaw! Look at that thing!"
 msgstr "好家伙！看那个东西！"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Always gotta support the arts."
+msgstr "总得支持艺术吧。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDEREGGSACK"
 msgid "Why would I want to carry that around?"
@@ -153580,6 +154240,11 @@ msgstr "你可不是我的女王！"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_DROPPER"
 msgid "They're smart to live away from the corruption."
 msgstr "它们很聪明，知道要远离腐烂物。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HEALER"
+msgid "It better stay far away if it knows what's good for it."
+msgstr "它要是识趣的话，应该离得远一点。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HIDER"
@@ -153620,6 +154285,11 @@ msgstr "它们现在变成黄色了？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "You're snoozin' fer a bruisin'."
 msgstr "你睡着的时候会被揍得鼻青脸肿的。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WHISTLE"
+msgid "Planning on havin' a little shindig?"
+msgstr "计划举行一个小聚会吗？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPOILED_FISH"
@@ -156780,6 +157450,11 @@ msgstr "等睡醒吧"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Already know it"
 msgstr "知道了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "Leggy Bugs don't listen"
+msgstr "细腿虫子不听"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -163816,6 +164491,36 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Naptime"
 msgstr "午觉时间"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_DROPPER"
+msgid "Belly stuff for Leggy Bugs?"
+msgstr "细腿虫子填肚子的东东？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_HEALER"
+msgid "Belly stuff for Leggy Bugs?"
+msgstr "细腿虫子填肚子的东东？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_HIDER"
+msgid "Belly stuff for Leggy Bugs?"
+msgstr "细腿虫子填肚子的东东？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_MOON"
+msgid "Belly stuff for Leggy Bugs?"
+msgstr "细腿虫子填肚子的东东？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_SPITTER"
+msgid "Belly stuff for Leggy Bugs?"
+msgstr "细腿虫子填肚子的东东？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Belly stuff for Leggy Bugs?"
+msgstr "细腿虫子填肚子的东东？"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Covered in friends"
@@ -166426,6 +167131,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERDEN"
 msgid "Home for Leggy Bugs"
 msgstr "细腿虫子们的家"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "Making pretty things"
+msgstr "在做漂亮的东西"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDEREGGSACK"
 msgid "Leggy Bug Babies inside"
@@ -166460,6 +167170,11 @@ msgstr "细腿虫子的妈妈"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_DROPPER"
 msgid "Aggh! Scary!"
 msgstr "啊啊！好吓人！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HEALER"
+msgid "Takes care of leggy friends"
+msgstr "会照顾细腿朋友"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HIDER"
@@ -166500,6 +167215,11 @@ msgstr "生气的细腿虫子"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "Sleepytime"
 msgstr "休息时间"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WHISTLE"
+msgid "Fweee!"
+msgstr "吁吁！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FISH"
@@ -169660,6 +170380,11 @@ msgstr "他们的心智现在位于另一个世界。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We cannot learn what we already know!"
 msgstr "已经知道了，不用再学了。"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "Fiddle dee dee, they won't listen to me!"
+msgstr "无稽之谈，它们居然不听使唤！"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -176681,6 +177406,36 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Its mind has fled far from here, hyuyu."
 msgstr "它的思想已经远离了这里，哼。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_DROPPER"
+msgid "A tasty treat for those tiny terrors!"
+msgstr "小小恐惧的小小美味！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_HEALER"
+msgid "A tasty treat for those tiny terrors!"
+msgstr "小小恐惧的小小美味！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_HIDER"
+msgid "A tasty treat for those tiny terrors!"
+msgstr "小小恐惧的小小美味！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_MOON"
+msgid "A tasty treat for those tiny terrors!"
+msgstr "小小恐惧的小小美味！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_SPITTER"
+msgid "A tasty treat for those tiny terrors!"
+msgstr "小小恐惧的小小美味！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATOR_WARRIOR"
+msgid "A tasty treat for those tiny terrors!"
+msgstr "小小恐惧的小小美味！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I suppose I'll reap what I sew, hyuyu!"
@@ -179291,6 +180046,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN"
 msgid "A leggy surprise awaits inside!"
 msgstr "里面好多蜘蛛！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "I should paint mustaches on the mortals while they're sleeping..."
+msgstr "我应该趁这些凡夫俗子们睡觉的时候给它们画上胡子……"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDEREGGSACK"
 msgid "They wiggle, wriggle, 'round inside."
@@ -179325,6 +180085,11 @@ msgstr "陛下，请不要伤害我！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_DROPPER"
 msgid "You look like you want to play!"
 msgstr "你看着想玩玩！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HEALER"
+msgid "I'm not sure I trust that strange orange dust."
+msgstr "我信不过那种古怪的橙尘。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HIDER"
@@ -179365,6 +180130,11 @@ msgstr "我可以吃他的灵魂。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "Sweetest dreams now."
 msgstr "做个好梦。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_WHISTLE"
+msgid "Hyuyu! Who knew spiders liked to whistle?"
+msgstr "哼！谁曾想蜘蛛喜欢吹哨？"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPOILED_FISH"
@@ -182535,6 +183305,11 @@ msgstr "起床！我有东西给你！"
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Oh! Knew that one already!"
 msgstr "噢！早就料到了！"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "Hey! Talking to you! Listen!!"
+msgstr "喂！我在跟你说话呢！你给我听好！！"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -189596,6 +190371,36 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "Night-night scary bird."
 msgstr "安安，吓人的小鸟。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_DROPPER"
+msgid "Webby boy make Merm cookie next!!"
+msgstr "韦伯小伙子，接下来给我做鱼人的曲奇饼！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_HEALER"
+msgid "Webby boy make Merm cookie next!!"
+msgstr "韦伯小伙子，接下来给我做鱼人的曲奇饼！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_HIDER"
+msgid "Webby boy make Merm cookie next!!"
+msgstr "韦伯小伙子，接下来给我做鱼人的曲奇饼！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_MOON"
+msgid "Webby boy make Merm cookie next!!"
+msgstr "韦伯小伙子，接下来给我做鱼人的曲奇饼！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_SPITTER"
+msgid "Webby boy make Merm cookie next!!"
+msgstr "韦伯小伙子，接下来给我做鱼人的曲奇饼！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATOR_WARRIOR"
+msgid "Webby boy make Merm cookie next!!"
+msgstr "韦伯小伙子，接下来给我做鱼人的曲奇饼！！"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Glurgh... this one ugly..."
@@ -192211,6 +193016,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDERDEN"
 msgid "Glurgh, stepped in sticky stuff!"
 msgstr "格勒格，踩到了黏黏的东西！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "What you making Webby boy?"
+msgstr "你在做什么呢，韦伯小伙子？"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDEREGGSACK"
 msgid "Blegh, this where baby Spiderfolk come from?"
@@ -192245,6 +193055,11 @@ msgstr "她是强大的女王！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_DROPPER"
 msgid "See you hiding up there, flort!"
 msgstr "我看到你在上面藏着，浮浪特！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HEALER"
+msgid "Glurgh, dusty spider!"
+msgstr "格勒格，一身灰尘的蜘蛛！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HIDER"
@@ -192285,6 +193100,11 @@ msgstr "蜘蛛人勇士……"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "It dreaming of spider things."
 msgstr "它在做蜘蛛的梦。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_WHISTLE"
+msgid "It tickly!"
+msgstr "它会滴滴响！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPOILED_FISH"
@@ -195445,6 +196265,11 @@ msgstr "该单元正忙于充电"
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "ERROR: DUPLICATE RECIPE DETECTED"
 msgstr "错误：发现重复的菜谱"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
+msgid "AS THE MINIONS OF MY MINION YOU SHOULD OBEY ME!"
+msgstr "你是我随从的随从，理应听命与我！"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
@@ -202411,6 +203236,36 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
 msgid "DO NOT WAKE UP"
 msgstr "不要醒来。"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_DROPPER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_DROPPER"
+msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgstr "粗糙且恶心。这是一个准确的描述"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HEALER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HEALER"
+msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgstr "粗糙且恶心。这是一个准确的描述"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HIDER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HIDER"
+msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgstr "粗糙且恶心。这是一个准确的描述"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_MOON
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_MOON"
+msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgstr "粗糙且恶心。这是一个准确的描述"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_SPITTER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_SPITTER"
+msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgstr "粗糙且恶心。这是一个准确的描述"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_WARRIOR
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_WARRIOR"
+msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgstr "粗糙且恶心。这是一个准确的描述"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NATURE_BLUEPRINT"
 msgid "DISGUSTING"
@@ -205021,6 +205876,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDERDEN"
 msgid "SPIDER SOURCE DETECTED"
 msgstr "检测到蜘蛛来源"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDERDEN_BEDAZZLER"
+msgid "ART IS POINTLESS"
+msgstr "艺术毫无意义"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDEREGGSACK"
 msgid "SPIDER POTENTIAL = 6"
@@ -205055,6 +205915,11 @@ msgstr "这些蜘蛛在君主制下生活"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_DROPPER"
 msgid "VERTICAL SPIDER SOURCE DETECTED"
 msgstr "检测到垂直方向上的蜘蛛来源"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HEALER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HEALER"
+msgid "SPIDER REPAIR UNIT"
+msgstr "蜘蛛修复单位"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HIDER"
@@ -205095,6 +205960,11 @@ msgstr "检测到更大的威胁"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "THREAT SUSPENDED"
 msgstr "威胁暂时解除"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_WHISTLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_WHISTLE"
+msgid "WHY MUST IT HAVE LEGS"
+msgstr "它为什么要有腿"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPOILED_FISH"
@@ -208093,7 +208963,7 @@ msgstr "最喜欢的食物"
 
 #. STRINGS.CHARACTER_BIOS.wathgrithr.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.desc"
-msgid "Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid’s stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...\nUntil one day, she was lost entirely."
+msgid "Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid's stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...\nUntil one day, she was lost entirely."
 msgstr "薇格弗德一向知道自己是为舞台而生。她首次登台就一鸣惊人，从默默无闻到声名鹊起不过一夜之间。拥趸们对她所饰演的高贵而又可怕的瓦尔基里勇士青睐有加。而她为了充分演绎这个角色也付出了诸多辛苦。她的舞台形象堪称完美……也许有些完美过了头。她之后扮演的其他角色在对比之下黯然失色；观众再也没有表现出那种如同蜜蜂对蜜糖的痴迷。薇格弗德的渐渐过气了，于是她只能醉心回忆追思昨日的辉煌，在自己的幻想中度日。\n直到有一天，她彻底迷失了。"
 
 #. STRINGS.CHARACTER_BIOS.wathgrithr.3.title
@@ -208153,13 +209023,13 @@ msgstr "最喜欢的食物"
 
 #. STRINGS.CHARACTER_BIOS.webber.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.webber.3.desc"
-msgid "Is yet to be revealed."
-msgstr "尚待揭晓。"
+msgid "Once upon a time, there was a young boy who lived with his family on a small farmstead. Though they lived humbly, the boy's home was filled with love, and he grew up happy and kind. The boy might have lived contentedly for the rest of his days if not for the sudden arrival of an old aquaintance, who came to the house beseeching the boy's father for his expertise on a strange and secretive project..."
+msgstr "很久以前，有一个小男孩和他的家人住在一个小农庄里。虽然生活艰苦，但家人对他十分疼爱，他就这么快乐而善良地成长着。若不是一位旧相识的突然到访，男孩本该心满意足地度过他的余生。然而这位不速之客竟恳求男孩的父亲为一个奇怪的秘密项目提供一些专业意见……"
 
 #. STRINGS.CHARACTER_BIOS.webber.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.webber.3.title"
-msgid "His Past..."
-msgstr "他的过去……"
+msgid "Along Came a Spider"
+msgstr "来了一只蜘蛛"
 
 #. STRINGS.CHARACTER_BIOS.wendy.1.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wendy.1.desc"
@@ -218411,6 +219281,36 @@ msgctxt "STRINGS.NAMES.MUTATED_PENGUIN"
 msgid "Moonrock Pengull"
 msgstr "月岩企鸥"
 
+#. STRINGS.NAMES.MUTATOR_DROPPER
+msgctxt "STRINGS.NAMES.MUTATOR_DROPPER"
+msgid "Dangler Switcherdoodle"
+msgstr "悬空者变身涂鸦"
+
+#. STRINGS.NAMES.MUTATOR_HEALER
+msgctxt "STRINGS.NAMES.MUTATOR_HEALER"
+msgid "Nurse Switcherdoodle"
+msgstr "护士变身涂鸦"
+
+#. STRINGS.NAMES.MUTATOR_HIDER
+msgctxt "STRINGS.NAMES.MUTATOR_HIDER"
+msgid "Cave Switcherdoodle"
+msgstr "洞穴变身涂鸦"
+
+#. STRINGS.NAMES.MUTATOR_MOON
+msgctxt "STRINGS.NAMES.MUTATOR_MOON"
+msgid "Shatter Switcherdoodle"
+msgstr "粉碎者变身涂鸦"
+
+#. STRINGS.NAMES.MUTATOR_SPITTER
+msgctxt "STRINGS.NAMES.MUTATOR_SPITTER"
+msgid "Spitter Switcherdoodle"
+msgstr "喷吐者变身涂鸦"
+
+#. STRINGS.NAMES.MUTATOR_WARRIOR
+msgctxt "STRINGS.NAMES.MUTATOR_WARRIOR"
+msgid "Warrior Switcherdoodle"
+msgstr "战士变身涂鸦"
+
 #. STRINGS.NAMES.NATURE_BLUEPRINT
 msgctxt "STRINGS.NAMES.NATURE_BLUEPRINT"
 msgid "Flowery Costume Pattern"
@@ -221231,6 +222131,11 @@ msgctxt "STRINGS.NAMES.SPIDERDEN"
 msgid "Spider Den"
 msgstr "蜘蛛巢"
 
+#. STRINGS.NAMES.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.NAMES.SPIDERDEN_BEDAZZLER"
+msgid "Den Decorating Set"
+msgstr "蛛巢装饰套装"
+
 #. STRINGS.NAMES.SPIDEREGGSACK
 msgctxt "STRINGS.NAMES.SPIDEREGGSACK"
 msgid "Spider Eggs"
@@ -221261,6 +222166,16 @@ msgctxt "STRINGS.NAMES.SPIDER_DROPPER"
 msgid "Dangling Depth Dweller"
 msgstr "穴居悬蛛"
 
+#. STRINGS.NAMES.SPIDER_HEALER
+msgctxt "STRINGS.NAMES.SPIDER_HEALER"
+msgid "Nurse Spider"
+msgstr "护士蜘蛛"
+
+#. STRINGS.NAMES.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.NAMES.SPIDER_HEALER_ITEM"
+msgid "Healing Glop"
+msgstr "治疗黏团"
+
 #. STRINGS.NAMES.SPIDER_HIDER
 msgctxt "STRINGS.NAMES.SPIDER_HIDER"
 msgid "Cave Spider"
@@ -221271,6 +222186,11 @@ msgctxt "STRINGS.NAMES.SPIDER_MOON"
 msgid "Shattered Spider"
 msgstr "破碎蜘蛛"
 
+#. STRINGS.NAMES.SPIDER_REPELLENT
+msgctxt "STRINGS.NAMES.SPIDER_REPELLENT"
+msgid "Shoo Box"
+msgstr "驱赶盒子"
+
 #. STRINGS.NAMES.SPIDER_SPITTER
 msgctxt "STRINGS.NAMES.SPIDER_SPITTER"
 msgid "Spitter"
@@ -221280,6 +222200,11 @@ msgstr "喷射蜘蛛"
 msgctxt "STRINGS.NAMES.SPIDER_WARRIOR"
 msgid "Spider Warrior"
 msgstr "蜘蛛战士"
+
+#. STRINGS.NAMES.SPIDER_WHISTLE
+msgctxt "STRINGS.NAMES.SPIDER_WHISTLE"
+msgid "Webby Whistle"
+msgstr "韦伯口哨"
 
 #. STRINGS.NAMES.SPOILED_FISH
 msgctxt "STRINGS.NAMES.SPOILED_FISH"
@@ -222309,7 +223234,7 @@ msgstr "怪异工具"
 #. STRINGS.NAMES.WAGSTAFF_TOOL_2
 msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_2"
 msgid "Widget Deflubber"
-msgstr "除垢机"
+msgstr "装置除垢器"
 
 #. STRINGS.NAMES.WAGSTAFF_TOOL_2_LAYMAN
 msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_2_LAYMAN"
@@ -223383,53 +224308,53 @@ msgstr "提图斯"
 
 #. STRINGS.PIGNAMES.100
 msgctxt "STRINGS.PIGNAMES.100"
-msgid "Moon Pie"
-msgstr "穆恩派"
+msgid "Hugo"
+msgstr "雨果"
 
 #. STRINGS.PIGNAMES.101
 msgctxt "STRINGS.PIGNAMES.101"
-msgid "Bagel"
-msgstr "贝果"
+msgid "Moon Pie"
+msgstr "穆恩派"
 
 #. STRINGS.PIGNAMES.102
 msgctxt "STRINGS.PIGNAMES.102"
-msgid "Biscuit"
-msgstr "比思凯特"
+msgid "Bagel"
+msgstr "贝果"
 
 #. STRINGS.PIGNAMES.103
 msgctxt "STRINGS.PIGNAMES.103"
-msgid "Bacon"
-msgstr "培根"
+msgid "Biscuit"
+msgstr "比思凯特"
 
 #. STRINGS.PIGNAMES.104
 msgctxt "STRINGS.PIGNAMES.104"
-msgid "Hamilton"
-msgstr "汉密尔顿"
+msgid "Bacon"
+msgstr "培根"
 
 #. STRINGS.PIGNAMES.105
 msgctxt "STRINGS.PIGNAMES.105"
-msgid "Hamms"
-msgstr "哈姆斯"
+msgid "Hamilton"
+msgstr "汉密尔顿"
 
 #. STRINGS.PIGNAMES.106
 msgctxt "STRINGS.PIGNAMES.106"
-msgid "Mr.P"
-msgstr "皮先生"
+msgid "Hamms"
+msgstr "哈姆斯"
 
 #. STRINGS.PIGNAMES.107
 msgctxt "STRINGS.PIGNAMES.107"
-msgid "Brownie"
-msgstr "布朗尼"
+msgid "Mr.P"
+msgstr "皮先生"
 
 #. STRINGS.PIGNAMES.108
 msgctxt "STRINGS.PIGNAMES.108"
-msgid "Butters"
-msgstr "黄油"
+msgid "Brownie"
+msgstr "布朗尼"
 
 #. STRINGS.PIGNAMES.109
 msgctxt "STRINGS.PIGNAMES.109"
-msgid "Tuna"
-msgstr "图纳"
+msgid "Butters"
+msgstr "黄油"
 
 #. STRINGS.PIGNAMES.11
 msgctxt "STRINGS.PIGNAMES.11"
@@ -223438,53 +224363,53 @@ msgstr "图密善"
 
 #. STRINGS.PIGNAMES.110
 msgctxt "STRINGS.PIGNAMES.110"
-msgid "Clover"
-msgstr "克洛弗"
+msgid "Tuna"
+msgstr "图纳"
 
 #. STRINGS.PIGNAMES.111
 msgctxt "STRINGS.PIGNAMES.111"
-msgid "Coco"
-msgstr "科科"
+msgid "Clover"
+msgstr "克洛弗"
 
 #. STRINGS.PIGNAMES.112
 msgctxt "STRINGS.PIGNAMES.112"
-msgid "Custard"
-msgstr "卡斯塔德"
+msgid "Coco"
+msgstr "科科"
 
 #. STRINGS.PIGNAMES.113
 msgctxt "STRINGS.PIGNAMES.113"
-msgid "Dumpling"
-msgstr "丹普林"
+msgid "Custard"
+msgstr "卡斯塔德"
 
 #. STRINGS.PIGNAMES.114
 msgctxt "STRINGS.PIGNAMES.114"
-msgid "Eggy"
-msgstr "艾基"
+msgid "Dumpling"
+msgstr "丹普林"
 
 #. STRINGS.PIGNAMES.115
 msgctxt "STRINGS.PIGNAMES.115"
-msgid "Kiwi"
-msgstr "奇维"
+msgid "Eggy"
+msgstr "艾基"
 
 #. STRINGS.PIGNAMES.116
 msgctxt "STRINGS.PIGNAMES.116"
-msgid "Weiner"
-msgstr "韦纳"
+msgid "Kiwi"
+msgstr "奇维"
 
 #. STRINGS.PIGNAMES.117
 msgctxt "STRINGS.PIGNAMES.117"
-msgid "Waffle"
-msgstr "华夫"
+msgid "Weiner"
+msgstr "韦纳"
 
 #. STRINGS.PIGNAMES.118
 msgctxt "STRINGS.PIGNAMES.118"
-msgid "Twinkie"
-msgstr "图安奇"
+msgid "Waffle"
+msgstr "华夫"
 
 #. STRINGS.PIGNAMES.119
 msgctxt "STRINGS.PIGNAMES.119"
-msgid "Truffle"
-msgstr "查夫"
+msgid "Twinkie"
+msgstr "图安奇"
 
 #. STRINGS.PIGNAMES.12
 msgctxt "STRINGS.PIGNAMES.12"
@@ -223493,53 +224418,53 @@ msgstr "涅尔瓦"
 
 #. STRINGS.PIGNAMES.120
 msgctxt "STRINGS.PIGNAMES.120"
-msgid "Tater"
-msgstr "塔特"
+msgid "Truffle"
+msgstr "查夫"
 
 #. STRINGS.PIGNAMES.121
 msgctxt "STRINGS.PIGNAMES.121"
-msgid "Cheddar"
-msgstr "切达"
+msgid "Tater"
+msgstr "塔特"
 
 #. STRINGS.PIGNAMES.122
 msgctxt "STRINGS.PIGNAMES.122"
-msgid "Pumpkin"
-msgstr "南瓜"
+msgid "Cheddar"
+msgstr "切达"
 
 #. STRINGS.PIGNAMES.123
 msgctxt "STRINGS.PIGNAMES.123"
-msgid "Oatey"
-msgstr "欧地"
+msgid "Pumpkin"
+msgstr "南瓜"
 
 #. STRINGS.PIGNAMES.124
 msgctxt "STRINGS.PIGNAMES.124"
-msgid "Oinkey"
-msgstr "欧恩基"
+msgid "Oatey"
+msgstr "欧地"
 
 #. STRINGS.PIGNAMES.125
 msgctxt "STRINGS.PIGNAMES.125"
-msgid "Nacho"
-msgstr "纳乔"
+msgid "Oinkey"
+msgstr "欧恩基"
 
 #. STRINGS.PIGNAMES.126
 msgctxt "STRINGS.PIGNAMES.126"
-msgid "Puffin"
-msgstr "帕芬"
+msgid "Nacho"
+msgstr "纳乔"
 
 #. STRINGS.PIGNAMES.127
 msgctxt "STRINGS.PIGNAMES.127"
-msgid "Doughnut"
-msgstr "多福纳特"
+msgid "Puffin"
+msgstr "帕芬"
 
 #. STRINGS.PIGNAMES.128
 msgctxt "STRINGS.PIGNAMES.128"
-msgid "Cabbage"
-msgstr "卡比基"
+msgid "Doughnut"
+msgstr "多福纳特"
 
 #. STRINGS.PIGNAMES.129
 msgctxt "STRINGS.PIGNAMES.129"
-msgid "Porky"
-msgstr "波奇"
+msgid "Cabbage"
+msgstr "卡比基"
 
 #. STRINGS.PIGNAMES.13
 msgctxt "STRINGS.PIGNAMES.13"
@@ -223548,53 +224473,53 @@ msgstr "图拉真"
 
 #. STRINGS.PIGNAMES.130
 msgctxt "STRINGS.PIGNAMES.130"
-msgid "Porkins"
-msgstr "波金斯"
+msgid "Porky"
+msgstr "波奇"
 
 #. STRINGS.PIGNAMES.131
 msgctxt "STRINGS.PIGNAMES.131"
-msgid "Porkbun"
-msgstr "波克本"
+msgid "Porkins"
+msgstr "波金斯"
 
 #. STRINGS.PIGNAMES.132
 msgctxt "STRINGS.PIGNAMES.132"
-msgid "Pepper"
-msgstr "佩珀"
+msgid "Porkbun"
+msgstr "波克本"
 
 #. STRINGS.PIGNAMES.133
 msgctxt "STRINGS.PIGNAMES.133"
-msgid "Gouda"
-msgstr "高德"
+msgid "Pepper"
+msgstr "佩珀"
 
 #. STRINGS.PIGNAMES.134
 msgctxt "STRINGS.PIGNAMES.134"
-msgid "Eggbert"
-msgstr "埃格伯尔特"
+msgid "Gouda"
+msgstr "高德"
 
 #. STRINGS.PIGNAMES.135
 msgctxt "STRINGS.PIGNAMES.135"
-msgid "Chip"
-msgstr "奇普"
+msgid "Eggbert"
+msgstr "埃格伯尔特"
 
 #. STRINGS.PIGNAMES.136
 msgctxt "STRINGS.PIGNAMES.136"
-msgid "Berry"
-msgstr "贝里"
+msgid "Chip"
+msgstr "奇普"
 
 #. STRINGS.PIGNAMES.137
 msgctxt "STRINGS.PIGNAMES.137"
-msgid "Crabby"
-msgstr "克拉比"
+msgid "Berry"
+msgstr "贝利"
 
 #. STRINGS.PIGNAMES.138
 msgctxt "STRINGS.PIGNAMES.138"
-msgid "Reuben"
-msgstr "鲁宾"
+msgid "Crabby"
+msgstr "克拉比"
 
 #. STRINGS.PIGNAMES.139
 msgctxt "STRINGS.PIGNAMES.139"
-msgid "Barley"
-msgstr "巴利"
+msgid "Reuben"
+msgstr "鲁宾"
 
 #. STRINGS.PIGNAMES.14
 msgctxt "STRINGS.PIGNAMES.14"
@@ -223603,31 +224528,36 @@ msgstr "哈德良"
 
 #. STRINGS.PIGNAMES.140
 msgctxt "STRINGS.PIGNAMES.140"
-msgid "Olive"
-msgstr "奥利弗"
+msgid "Barley"
+msgstr "巴利"
 
 #. STRINGS.PIGNAMES.141
 msgctxt "STRINGS.PIGNAMES.141"
-msgid "Pickles"
-msgstr "皮克尔斯"
+msgid "Olive"
+msgstr "奥利弗"
 
 #. STRINGS.PIGNAMES.142
 msgctxt "STRINGS.PIGNAMES.142"
-msgid "Wiggles"
-msgstr "威格斯"
+msgid "Pickles"
+msgstr "皮克尔斯"
 
 #. STRINGS.PIGNAMES.143
 msgctxt "STRINGS.PIGNAMES.143"
-msgid "Jerky"
-msgstr "风干肉"
+msgid "Wiggles"
+msgstr "威格斯"
 
 #. STRINGS.PIGNAMES.144
 msgctxt "STRINGS.PIGNAMES.144"
-msgid "Smelly"
-msgstr "史梅里"
+msgid "Jerky"
+msgstr "风干肉"
 
 #. STRINGS.PIGNAMES.145
 msgctxt "STRINGS.PIGNAMES.145"
+msgid "Smelly"
+msgstr "史梅里"
+
+#. STRINGS.PIGNAMES.146
+msgctxt "STRINGS.PIGNAMES.146"
 msgid "Salty"
 msgstr "索缇"
 
@@ -226366,6 +227296,36 @@ msgctxt "STRINGS.RECIPE_DESC.MUSHROOM_LIGHT2"
 msgid "Inspired by the lava lamp sciences."
 msgstr "受到火山岩浆灯饰学问的激发。"
 
+#. STRINGS.RECIPE_DESC.MUTATOR_DROPPER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_DROPPER"
+msgid "The flavor might catch you by surprise."
+msgstr "味道也许会让你惊喜。"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_HEALER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_HEALER"
+msgid "Extra grainy, so it has to be healthy!"
+msgstr "特别多的谷物，所以必须是健康的！"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_HIDER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_HIDER"
+msgid "Crunchy outside, soft inside."
+msgstr "外酥里嫩。"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_MOON
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_MOON"
+msgid "Its recipient will be over the moon!"
+msgstr "吃到它的人会快乐到月球去！"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_SPITTER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_SPITTER"
+msgid "It's the spitting image of a spider."
+msgstr "喷薄而出的蜘蛛形象。"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_WARRIOR
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_WARRIOR"
+msgid "Make the sweetest little bodyguards."
+msgstr "做最可爱的小保镖。"
+
 #. STRINGS.RECIPE_DESC.NIGHTLIGHT
 msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
 msgid "Light the night with your dreams."
@@ -227091,6 +228051,11 @@ msgctxt "STRINGS.RECIPE_DESC.SPICE_SUGAR"
 msgid "A dash of sweetness for peace of mind."
 msgstr "令人心平气和的甜美。"
 
+#. STRINGS.RECIPE_DESC.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.RECIPE_DESC.SPIDERDEN_BEDAZZLER"
+msgid "A nice home makes for a nice disposition."
+msgstr "一个好的家能培育出好的性格。"
+
 #. STRINGS.RECIPE_DESC.SPIDEREGGSACK
 msgctxt "STRINGS.RECIPE_DESC.SPIDEREGGSACK"
 msgid "Get a little help from your friends."
@@ -227100,6 +228065,21 @@ msgstr "跟你的朋友寻求点帮助。"
 msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
 msgid "Spiders will call you \"mom\"."
 msgstr "蜘蛛们会喊你\"妈妈\"。"
+
+#. STRINGS.RECIPE_DESC.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.SPIDER_HEALER_ITEM"
+msgid "Gross, gooey, and good for you!"
+msgstr "恶心，黏糊糊的，但对你有好处！"
+
+#. STRINGS.RECIPE_DESC.SPIDER_REPELLENT
+msgctxt "STRINGS.RECIPE_DESC.SPIDER_REPELLENT"
+msgid "Let your friends know you need some space."
+msgstr "让你的朋友知道你需要一些空间。"
+
+#. STRINGS.RECIPE_DESC.SPIDER_WHISTLE
+msgctxt "STRINGS.RECIPE_DESC.SPIDER_WHISTLE"
+msgid "Call your creepy crawly friends."
+msgstr "呼叫可怕的爬行动物朋友吧。"
 
 #. STRINGS.RECIPE_DESC.STAFF_TORNADO
 msgctxt "STRINGS.RECIPE_DESC.STAFF_TORNADO"
@@ -230036,6 +231016,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_batp"
 msgid "Look the part of a spooky Batilisk."
 msgstr "装扮成阴森可怖的洞穴蝙蝠。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_boy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_boy"
+msgid "Lovingly knitted with homespun goat wool."
+msgstr "用家纺的山羊毛精心编织而成。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_cook"
 msgid "Every kitchen needs a dishwasher."
@@ -230043,6 +231028,11 @@ msgstr "每个厨房都离不开一个洗碗工。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_formal"
+msgid "A black blazer with a red scarf."
+msgstr "黑西装搭配红领带。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_formalp"
 msgid "A black blazer with a red scarf."
 msgstr "黑西装搭配红领带。"
 
@@ -230071,13 +231061,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_rose"
 msgid "Wild flowers are just as beautiful as any fancy show rose."
 msgstr "野花的美一点也不输给华丽的玫瑰。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_rosep"
+msgid "Wild flowers are just as beautiful as any fancy show rose."
+msgstr "野花的美一点也不输给华丽的玫瑰。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_shadow"
 msgid "The hollowed out body of an elegant black widow."
 msgstr "优雅黑寡妇的身体被掏空了。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_shadowp"
+msgid "The hollowed out body of an elegant black widow."
+msgstr "优雅黑寡妇的身体被掏空了。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_survivor"
+msgid "Spiderwebs are pretty useful for bandaging scrapes."
+msgstr "蜘蛛网对包扎伤口大有裨益。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_survivorp"
 msgid "Spiderwebs are pretty useful for bandaging scrapes."
 msgstr "蜘蛛网对包扎伤口大有裨益。"
 
@@ -231455,6 +232460,11 @@ msgstr "你感到十分舒适，因为你得到了注视。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.farm_hoe_invisible"
 msgid "Convey an incredibly convincing impression of a garden hoe."
 msgstr "惟妙惟肖地模仿了园艺锄。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.farm_hoe_rustic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.farm_hoe_rustic"
+msgid "It seems to have been left neglected for some time."
+msgstr "它似乎已经被忽视了一段时间了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.featherfan_exotic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.featherfan_exotic"
@@ -233591,6 +234601,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_yule"
 msgid "Cozy slippers for someone with no interest in festivities and frivolity."
 msgstr "舒适的拖鞋，适合对节日的纷杂不屑一顾的人。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_webber_boy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_webber_boy"
+msgid "Made in the most practical color for young boys who like jumping in mud puddles."
+msgstr "非常最实用的颜色，适合所有喜欢在泥坑里跳腾的小男孩们。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_webber_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_webber_ice"
 msgid "A wintry pair of plaid trousers."
@@ -234221,6 +235236,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking_item"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.mast_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_nautical"
+msgid "Brave the open sea with the stone-faced resilience of a fearsome Rockjaw."
+msgstr "像岩石大白鲨一样，坚毅地航向大海吧。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_nautical_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_nautical_item"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.mast_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose"
 msgid "This striking sail comes adorned with a rose crest."
@@ -234445,6 +235470,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.orangestaff_victorian"
 msgid "n/a"
 msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_boy_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_boy_items"
+msgid "This Homespun Chest contains the following skin items: Homespun Garden Hoe, Homespun Watering Can, and Homespun Seed Pouch."
+msgstr "这个家纺箱子包含下列的皮肤物品：家纺园艺锄、家纺浇水壶和家纺种子袋。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wormwood
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wormwood"
@@ -235231,6 +236261,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wb_4"
 msgid "This chest contains 75000 Bolts of Cloth!"
 msgstr "这个箱子包含75000布卷！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_boy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_boy"
+msgid "This Chest contains Webber: The Farmspider, the Woolen Jumper and Farmspider Trousers."
+msgstr "这个箱子包含韦伯：农场蜘蛛，羊毛毛衣和农场蜘蛛裤。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_deluxe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_deluxe"
+msgid "This Deluxe Wardrobe contains Webber's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Farmspider skin items."
+msgstr "该豪华衣柜包含韦伯的全套皮肤，贵宾、玫瑰、幸存者、凯旋，和农场蜘蛛皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_formal"
+msgid "This Chest contains Webber's complete set of Guest of Honor skin items."
+msgstr "这个箱子包含了韦伯的全套贵宾皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_rose"
+msgid "This Chest contains Webber's complete set of Roseate skin items."
+msgstr "这个箱子包含了韦伯的全套玫瑰皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_shadow"
+msgid "This Chest contains Webber's complete set of Triumphant skin items."
+msgstr "这个箱子包含了韦伯的全套凯旋皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_survivor"
+msgid "This Chest contains Webber's complete set of Survivor skin items."
+msgstr "这个箱子包含了韦伯的全套幸存者皮肤物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe"
 msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Nostalgic skin items."
@@ -235901,6 +236961,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_marshhouse"
 msgid "Equip this item to change your character's background portrait."
 msgstr "装备此物品以更改你的角色背景画像。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mastnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mastnautical"
+msgid "Equip this item to change your character's background portrait.\n\nBeware the stony maw of the Rockjaw."
+msgstr "装备这件物品即可更改角色的背景画像。\n\n当心岩石大白鲨的岩石之咬。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab"
 msgid "Equip this item to change your character's background portrait.\n\nA troubled mind makes a troubled Laboratory."
@@ -236525,6 +237590,11 @@ msgstr "将你的头像设为疯狂科学仪器。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mandrake"
 msgid "Set your profile icon to squeaky mandrake.\n\n\"MEEP!\""
 msgstr "将你的头像设为吱嘎乱叫的曼德拉草。\n\n\"咪！\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_mast_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mast_nautical"
+msgid "Set your profile icon to a Rockjaw Sail."
+msgstr "将你的头像设为岩石大白鲨风帆。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_merm
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_merm"
@@ -237426,6 +238496,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.saltbox_victorian"
 msgid "Stylish and practical food storage."
 msgstr "时尚和实用兼顾的食物储存工具。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.seedpouch_rustic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.seedpouch_rustic"
+msgid "Sturdily hand-stitched for rambunctious gardeners."
+msgstr "手工缝制而成，异常坚固，适合粗放的园丁。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_feathered
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_feathered"
 msgid "A shovel for the self-reliant adventurer."
@@ -237876,6 +238951,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_victorian"
 msgid "Warly's developed a taste for adventure and is heading out to sea."
 msgstr "沃利喜欢上了冒险，正向大海出发。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wateringcan_rustic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wateringcan_rustic"
+msgid "With a little care and attention, it could be good as new."
+msgstr "只要稍加保养，它就可以像新的一样好。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin"
 msgid "Fashionable accessory for those forced to wander this world on Halloween Night."
@@ -238101,6 +239181,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_bat"
 msgid "This webbed beard's just batty!"
 msgstr "这网状的胡须真是太疯狂了!"
 
+#. STRINGS.SKIN_DESCRIPTIONS.webber_beard_boy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_boy"
+msgid "Webber always wanted a beard just like his father's."
+msgstr "韦伯一直想长出像爸爸一样的胡须。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.webber_beard_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_formal"
 msgid "It's quite difficult to keep webs nice and tidy, but Webber does his best."
@@ -238151,6 +239236,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_wrestler"
 msgid "Where does the silky fur end and the silky beard begin?"
 msgstr "丝质的毛发和丝质的胡须从哪里开始呢？"
 
+#. STRINGS.SKIN_DESCRIPTIONS.webber_boy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_boy"
+msgid "Webber's memories of his old appearance have gotten a little fuzzy over time."
+msgstr "随着时间的推移，韦伯对以前外表的记忆已经变得有些模糊了。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.webber_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_combatant"
 msgid "Webber's used to fending for himself."
@@ -238163,6 +239253,11 @@ msgstr "韦伯很喜欢在厨房里帮忙。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.webber_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_formal"
+msgid "Webber takes parties seriously."
+msgstr "韦伯对聚会相当重视。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.webber_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_formalp"
 msgid "Webber takes parties seriously."
 msgstr "韦伯对聚会相当重视。"
 
@@ -238196,13 +239291,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_rose"
 msgid "The rosebuds are tangled in there real good."
 msgstr "那么玫瑰花苞缠在那儿可真好看啊。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.webber_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_rosep"
+msgid "The rosebuds are tangled in there real good."
+msgstr "那么玫瑰花苞缠在那儿可真好看啊。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.webber_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_shadow"
 msgid "Dark spiders have poisonous fangs."
 msgstr "黑蜘蛛的爪子有毒。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.webber_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_shadowp"
+msgid "Dark spiders have poisonous fangs."
+msgstr "黑蜘蛛的爪子有毒。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.webber_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_survivor"
+msgid "Webber looks a little worse for the wear."
+msgstr "韦伯的衣服已经磨损得有点糟糕了。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.webber_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_survivorp"
 msgid "Webber looks a little worse for the wear."
 msgstr "韦伯的衣服已经磨损得有点糟糕了。"
 
@@ -239149,7 +240259,7 @@ msgstr "不是所有的龙都垂涎黄金，沃拓克斯守卫着成群的灵魂
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_ice"
 msgid "Deer Wortox could try to rein in his prankster tendencies, but what fun would that be?"
-msgstr "小鹿沃托克斯也可以试着控制恶作剧的冲动，但那样有意思吗？"
+msgstr "小鹿沃拓克斯也可以试着控制恶作剧的冲动，但那样有意思吗？"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur"
@@ -239174,7 +240284,7 @@ msgstr "沃拓克斯在扮演一个生气的哥布林。"
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_victorian"
 msgid "Traditionally, grotesques were made to ward off mischievous spirits... Wortox never got the memo."
-msgstr "传统的石像鬼是用来驱赶爱恶作剧的鬼怪……沃托克斯不知道这事。"
+msgstr "传统的石像鬼是用来驱赶爱恶作剧的鬼怪……沃拓克斯不知道这事。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_cave"
@@ -240766,6 +241876,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_webber_batp"
 msgid "Batilisk Costume Top"
 msgstr "洞穴蝙蝠造型上衣"
 
+#. STRINGS.SKIN_NAMES.body_webber_boy
+msgctxt "STRINGS.SKIN_NAMES.body_webber_boy"
+msgid "Woolen Jumper"
+msgstr "羊毛毛衣"
+
 #. STRINGS.SKIN_NAMES.body_webber_cook
 msgctxt "STRINGS.SKIN_NAMES.body_webber_cook"
 msgid "Webber's Gorge Garb"
@@ -240773,6 +241888,11 @@ msgstr "韦伯的暴食服装"
 
 #. STRINGS.SKIN_NAMES.body_webber_formal
 msgctxt "STRINGS.SKIN_NAMES.body_webber_formal"
+msgid "Formal Jacket"
+msgstr "正装"
+
+#. STRINGS.SKIN_NAMES.body_webber_formalp
+msgctxt "STRINGS.SKIN_NAMES.body_webber_formalp"
 msgid "Formal Jacket"
 msgstr "正装"
 
@@ -240801,13 +241921,28 @@ msgctxt "STRINGS.SKIN_NAMES.body_webber_rose"
 msgid "Mossrose Drapery"
 msgstr "苔藓玫瑰服"
 
+#. STRINGS.SKIN_NAMES.body_webber_rosep
+msgctxt "STRINGS.SKIN_NAMES.body_webber_rosep"
+msgid "Mossrose Drapery"
+msgstr "苔藓玫瑰服"
+
 #. STRINGS.SKIN_NAMES.body_webber_shadow
 msgctxt "STRINGS.SKIN_NAMES.body_webber_shadow"
 msgid "Shadow Spider Body"
 msgstr "暗影蜘蛛体"
 
+#. STRINGS.SKIN_NAMES.body_webber_shadowp
+msgctxt "STRINGS.SKIN_NAMES.body_webber_shadowp"
+msgid "Shadow Spider Body"
+msgstr "暗影蜘蛛体"
+
 #. STRINGS.SKIN_NAMES.body_webber_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_webber_survivor"
+msgid "Bandaged Body"
+msgstr "缠满绷带的躯体"
+
+#. STRINGS.SKIN_NAMES.body_webber_survivorp
+msgctxt "STRINGS.SKIN_NAMES.body_webber_survivorp"
 msgid "Bandaged Body"
 msgstr "缠满绷带的躯体"
 
@@ -242185,6 +243320,11 @@ msgstr "维多利亚眼球伞"
 msgctxt "STRINGS.SKIN_NAMES.farm_hoe_invisible"
 msgid "Pantomimed Garden Hoe"
 msgstr "拟真园艺锄"
+
+#. STRINGS.SKIN_NAMES.farm_hoe_rustic
+msgctxt "STRINGS.SKIN_NAMES.farm_hoe_rustic"
+msgid "Homespun Garden Hoe"
+msgstr "家纺园艺锄"
 
 #. STRINGS.SKIN_NAMES.featherfan_exotic
 msgctxt "STRINGS.SKIN_NAMES.featherfan_exotic"
@@ -244321,6 +245461,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_waxwell_yule"
 msgid "Homebody House Slippers"
 msgstr "家居拖鞋"
 
+#. STRINGS.SKIN_NAMES.legs_webber_boy
+msgctxt "STRINGS.SKIN_NAMES.legs_webber_boy"
+msgid "Farmspider Knee Pants"
+msgstr "农场蜘蛛中裤"
+
 #. STRINGS.SKIN_NAMES.legs_webber_ice
 msgctxt "STRINGS.SKIN_NAMES.legs_webber_ice"
 msgid "Snowspider Slacks"
@@ -244629,7 +245774,7 @@ msgstr "冬季盛宴龙蝇"
 #. STRINGS.SKIN_NAMES.loading_farming
 msgctxt "STRINGS.SKIN_NAMES.loading_farming"
 msgid "Reap What You Sow"
-msgstr "种豆得豆"
+msgstr "种瓜得瓜"
 
 #. STRINGS.SKIN_NAMES.loading_farming2
 msgctxt "STRINGS.SKIN_NAMES.loading_farming2"
@@ -244951,6 +246096,16 @@ msgctxt "STRINGS.SKIN_NAMES.mast_crabking_item"
 msgid "Crab King Sail"
 msgstr "帝王蟹风帆"
 
+#. STRINGS.SKIN_NAMES.mast_nautical
+msgctxt "STRINGS.SKIN_NAMES.mast_nautical"
+msgid "Rockjaw Sail"
+msgstr "岩石大白鲨风帆"
+
+#. STRINGS.SKIN_NAMES.mast_nautical_item
+msgctxt "STRINGS.SKIN_NAMES.mast_nautical_item"
+msgid "Rockjaw Sail"
+msgstr "岩石大白鲨风帆"
+
 #. STRINGS.SKIN_NAMES.mast_rose
 msgctxt "STRINGS.SKIN_NAMES.mast_rose"
 msgid "Roseate Sail"
@@ -245175,6 +246330,11 @@ msgstr "腐败魔杖"
 msgctxt "STRINGS.SKIN_NAMES.orangestaff_victorian"
 msgid "Fanciful Explorer"
 msgstr "华丽懒人魔杖"
+
+#. STRINGS.SKIN_NAMES.pack_boy_items
+msgctxt "STRINGS.SKIN_NAMES.pack_boy_items"
+msgid "Homespun Chest"
+msgstr "家纺箱子"
 
 #. STRINGS.SKIN_NAMES.pack_character_wormwood
 msgctxt "STRINGS.SKIN_NAMES.pack_character_wormwood"
@@ -245961,6 +247121,36 @@ msgctxt "STRINGS.SKIN_NAMES.pack_wb_4"
 msgid "Humongous Bolt Chest"
 msgstr "超级大布卷箱子"
 
+#. STRINGS.SKIN_NAMES.pack_webber_boy
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_boy"
+msgid "Webber Farmspider Chest"
+msgstr "韦伯农场蜘蛛箱子"
+
+#. STRINGS.SKIN_NAMES.pack_webber_deluxe
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_deluxe"
+msgid "Webber Deluxe Wardrobe"
+msgstr "韦伯豪华衣柜"
+
+#. STRINGS.SKIN_NAMES.pack_webber_formal
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_formal"
+msgid "Webber Guest of Honor Chest"
+msgstr "韦伯贵宾箱子"
+
+#. STRINGS.SKIN_NAMES.pack_webber_rose
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_rose"
+msgid "Webber Roseate Chest"
+msgstr "韦伯玫瑰箱子"
+
+#. STRINGS.SKIN_NAMES.pack_webber_shadow
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_shadow"
+msgid "Webber Triumphant Chest"
+msgstr "韦伯凯旋箱子"
+
+#. STRINGS.SKIN_NAMES.pack_webber_survivor
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_survivor"
+msgid "Webber Survivor Chest"
+msgstr "韦伯幸存者箱子"
+
 #. STRINGS.SKIN_NAMES.pack_wendy_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_wendy_deluxe"
 msgid "Wendy Deluxe Wardrobe"
@@ -246631,6 +247821,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_marshhouse"
 msgid "Mermhouse Portrait"
 msgstr "鱼人屋背景"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_mastnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mastnautical"
+msgid "Rockjaw Portrait"
+msgstr "岩石大白鲨画像"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_messylab
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_messylab"
 msgid "Mad Scientific Portrait"
@@ -247255,6 +248450,11 @@ msgstr "疯狂科学家实验室"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mandrake"
 msgid "Mandrake"
 msgstr "曼德拉草"
+
+#. STRINGS.SKIN_NAMES.profileflair_mast_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_mast_nautical"
+msgid "Rockjaw Sail"
+msgstr "岩石大白鲨风帆"
 
 #. STRINGS.SKIN_NAMES.profileflair_merm
 msgctxt "STRINGS.SKIN_NAMES.profileflair_merm"
@@ -248156,6 +249356,11 @@ msgctxt "STRINGS.SKIN_NAMES.saltbox_victorian"
 msgid "Victorian Salt Box"
 msgstr "维多利亚盐罐"
 
+#. STRINGS.SKIN_NAMES.seedpouch_rustic
+msgctxt "STRINGS.SKIN_NAMES.seedpouch_rustic"
+msgid "Homespun Seed Pouch"
+msgstr "家纺种子袋"
+
 #. STRINGS.SKIN_NAMES.shovel_feathered
 msgctxt "STRINGS.SKIN_NAMES.shovel_feathered"
 msgid "Hunters Shovel"
@@ -248606,6 +249811,11 @@ msgctxt "STRINGS.SKIN_NAMES.warly_victorian"
 msgid "The Victorian"
 msgstr "维多利亚"
 
+#. STRINGS.SKIN_NAMES.wateringcan_rustic
+msgctxt "STRINGS.SKIN_NAMES.wateringcan_rustic"
+msgid "Homespun Watering Can"
+msgstr "家纺浇水壶"
+
 #. STRINGS.SKIN_NAMES.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.watermelonhat_pumpkin"
 msgid "Fashion Pumpkin"
@@ -248831,6 +250041,11 @@ msgctxt "STRINGS.SKIN_NAMES.webber_beard_bat"
 msgid "Silky Webilisk Beard"
 msgstr "蛛丝蝙蝠胡须"
 
+#. STRINGS.SKIN_NAMES.webber_beard_boy
+msgctxt "STRINGS.SKIN_NAMES.webber_beard_boy"
+msgid "Silky Farmspider Beard"
+msgstr "农场蜘蛛蛛丝胡须"
+
 #. STRINGS.SKIN_NAMES.webber_beard_formal
 msgctxt "STRINGS.SKIN_NAMES.webber_beard_formal"
 msgid "Silky Formal Beard"
@@ -248881,6 +250096,11 @@ msgctxt "STRINGS.SKIN_NAMES.webber_beard_wrestler"
 msgid "Silky El Tigre Cub Beard"
 msgstr "蛛丝小老虎胡须"
 
+#. STRINGS.SKIN_NAMES.webber_boy
+msgctxt "STRINGS.SKIN_NAMES.webber_boy"
+msgid "The Farmspider"
+msgstr "农场蜘蛛"
+
 #. STRINGS.SKIN_NAMES.webber_combatant
 msgctxt "STRINGS.SKIN_NAMES.webber_combatant"
 msgid "The Challenger"
@@ -248893,6 +250113,11 @@ msgstr "厨师"
 
 #. STRINGS.SKIN_NAMES.webber_formal
 msgctxt "STRINGS.SKIN_NAMES.webber_formal"
+msgid "Guest of Honor"
+msgstr "贵宾"
+
+#. STRINGS.SKIN_NAMES.webber_formalp
+msgctxt "STRINGS.SKIN_NAMES.webber_formalp"
 msgid "Guest of Honor"
 msgstr "贵宾"
 
@@ -248926,13 +250151,28 @@ msgctxt "STRINGS.SKIN_NAMES.webber_rose"
 msgid "The Roseate"
 msgstr "玫瑰"
 
+#. STRINGS.SKIN_NAMES.webber_rosep
+msgctxt "STRINGS.SKIN_NAMES.webber_rosep"
+msgid "The Roseate"
+msgstr "玫瑰"
+
 #. STRINGS.SKIN_NAMES.webber_shadow
 msgctxt "STRINGS.SKIN_NAMES.webber_shadow"
 msgid "The Triumphant"
 msgstr "凯旋"
 
+#. STRINGS.SKIN_NAMES.webber_shadowp
+msgctxt "STRINGS.SKIN_NAMES.webber_shadowp"
+msgid "The Triumphant"
+msgstr "凯旋"
+
 #. STRINGS.SKIN_NAMES.webber_survivor
 msgctxt "STRINGS.SKIN_NAMES.webber_survivor"
+msgid "The Survivor"
+msgstr "幸存者"
+
+#. STRINGS.SKIN_NAMES.webber_survivorp
+msgctxt "STRINGS.SKIN_NAMES.webber_survivorp"
 msgid "The Survivor"
 msgstr "幸存者"
 
@@ -250286,6 +251526,11 @@ msgctxt "STRINGS.SKIN_QUOTES.webber_bat_p"
 msgid "\"Raaar! ...That's our bat noise.\""
 msgstr "\"哇！……那是我们蝙蝠的声音。\""
 
+#. STRINGS.SKIN_QUOTES.webber_boy
+msgctxt "STRINGS.SKIN_QUOTES.webber_boy"
+msgid "\"We were so lonely back then...\""
+msgstr "“那时候我们好孤单……”"
+
 #. STRINGS.SKIN_QUOTES.webber_combatant
 msgctxt "STRINGS.SKIN_QUOTES.webber_combatant"
 msgid "\"We don't want to fight if we don't have to.\""
@@ -250298,6 +251543,11 @@ msgstr "\"我们来做饭吧！\""
 
 #. STRINGS.SKIN_QUOTES.webber_formal
 msgctxt "STRINGS.SKIN_QUOTES.webber_formal"
+msgid "\"We like parties!\""
+msgstr "\"我们喜欢聚会！\""
+
+#. STRINGS.SKIN_QUOTES.webber_formalp
+msgctxt "STRINGS.SKIN_QUOTES.webber_formalp"
 msgid "\"We like parties!\""
 msgstr "\"我们喜欢聚会！\""
 
@@ -250326,13 +251576,28 @@ msgctxt "STRINGS.SKIN_QUOTES.webber_rose"
 msgid "\"The rose shelters our fur from the morning dew.\""
 msgstr "\"玫瑰帮我们的皮毛遮挡晨露。\""
 
+#. STRINGS.SKIN_QUOTES.webber_rosep
+msgctxt "STRINGS.SKIN_QUOTES.webber_rosep"
+msgid "\"The rose shelters our fur from the morning dew.\""
+msgstr "\"玫瑰帮我们的皮毛遮挡晨露。\""
+
 #. STRINGS.SKIN_QUOTES.webber_shadow
 msgctxt "STRINGS.SKIN_QUOTES.webber_shadow"
 msgid "\"Come closer - we are hungry!\""
 msgstr "\"靠近点——我们饿了！\""
 
+#. STRINGS.SKIN_QUOTES.webber_shadowp
+msgctxt "STRINGS.SKIN_QUOTES.webber_shadowp"
+msgid "\"Come closer - we are hungry!\""
+msgstr "\"靠近点——我们饿了！\""
+
 #. STRINGS.SKIN_QUOTES.webber_survivor
 msgctxt "STRINGS.SKIN_QUOTES.webber_survivor"
+msgid "\"I want to go home, but we can't find the way.\""
+msgstr "\"我想回家，但是我们找不到路。\""
+
+#. STRINGS.SKIN_QUOTES.webber_survivorp
+msgctxt "STRINGS.SKIN_QUOTES.webber_survivorp"
 msgid "\"I want to go home, but we can't find the way.\""
 msgstr "\"我想回家，但是我们找不到路。\""
 
@@ -251281,6 +252546,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT"
 msgid "Ancient Collection"
 msgstr "远古系列"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BOY
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BOY"
+msgid "Farmhand Collection"
+msgstr "农工系列"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS"
 msgid "Oasis Bound Collection"
@@ -251941,6 +253211,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE"
 msgid "Science Machine"
 msgstr "科学机器"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH"
+msgid "Seed Pack-It"
+msgstr "种子袋"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SHOVEL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SHOVEL"
 msgid "Shovel"
@@ -251974,7 +253249,7 @@ msgstr "传送焦点"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TELESTAFF
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TELESTAFF"
 msgid "Telelocator Staff"
-msgstr "传送魔杖之杖"
+msgstr "传送魔杖"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TENT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TENT"
@@ -252035,6 +253310,11 @@ msgstr "松树先锋队帽子"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WARDROBE"
 msgid "Wardrobe"
 msgstr "衣柜"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN"
+msgid "Watering Can"
+msgstr "浇水壶"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT"
@@ -253130,6 +254410,11 @@ msgstr "暗影"
 msgctxt "STRINGS.TABS.SLINGSHOTAMMO"
 msgid "Slingshot Ammo"
 msgstr "弹弓弹药"
+
+#. STRINGS.TABS.SPIDERCRAFT
+msgctxt "STRINGS.TABS.SPIDERCRAFT"
+msgid "Spider Care"
+msgstr "蜘蛛护理"
 
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
@@ -254534,7 +255819,7 @@ msgstr "在一场比赛中播种至少30粒种子"
 #. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE"
 msgid "Reap What You Sow"
-msgstr "种豆得豆"
+msgstr "种瓜得瓜"
 
 #. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC"
@@ -257655,6 +258940,11 @@ msgstr "使用科学机器制造一个原型！"
 msgctxt "STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR"
 msgid "Use a shadow manipulator to build a prototype!"
 msgstr "使用暗影操控器制造一个原型！"
+
+#. STRINGS.UI.CRAFTING.NEEDSSPIDERFRIENDSHIP
+msgctxt "STRINGS.UI.CRAFTING.NEEDSSPIDERFRIENDSHIP"
+msgid "Make friends with spiders to learn a recipe!"
+msgstr "与蜘蛛交朋友，学习配方！"
 
 #. STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING"
@@ -269659,7 +270949,7 @@ msgstr "你好啊，人类。我感觉到你拥有一个箱子！请别客气。
 #. STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.3
 msgctxt "STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START.3"
 msgid "Greetings, mortal. Come to receive gifts from the Shadow realm? You need only open your chests."
-msgstr "你好啊，人类。来接受暗影王国的礼物吗？只需要打开你的箱子就行。"
+msgstr "你好啊，人类。来接受暗影世界的礼物吗？只需要打开你的箱子就行。"
 
 #. STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.1
 msgctxt "STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.START_EMPTY.1"
@@ -269829,12 +271119,12 @@ msgstr "交易物品出错"
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1"
 msgid "Help a poor old trader out with a few more <rarity> items and I'll give ya a higher quality item in exchange. Guaranteed."
-msgstr "用几件更<rarity>的物品 来帮助我这个可怜的 老商人，作为交换， 我会给你更好的物品， 我保证。"
+msgstr "多拿几件<rarity>的物品 来帮助我这个可怜的 老商人，作为交换， 我会给你更好的物品， 我保证。"
 
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2"
 msgid "I'm gonna need a few more <rarity> items to make a trade. I gotta cover my overhead, ya know? But ya'll get a better item in exchange."
-msgstr "我需要几件更<rarity>的 物品来做交易。 我得贴补我的日常开支 ，你知道？但是 作为交换，我会 给你更好的物品。"
+msgstr "我还需要几件<rarity>的 物品来做交易。 我得贴补我的日常开支 ，你知道？但是 作为交换，我会 给你更好的物品。"
 
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3"
@@ -269849,7 +271139,7 @@ msgstr "这就是票据。只要再投 几个<rarity>物品 投入机器，你�
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1"
 msgid "Ya got tha rest of tha stuff I'm lookin' for? If not, come back in a few days an' there might be a new deal."
-msgstr "你有了我要的东西？ 如果没，几天后再来， 这里可能会有新交易！"
+msgstr "你有了我要的东西？ 如果没，几天后再来， 这里可能会有新交易。"
 
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2"
@@ -269884,7 +271174,7 @@ msgstr "慢慢来。我可以 在这站一整天。"
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4"
 msgid "My wagon's pulled by a nox. 'Es a good 'un, but 'e can't hold a candle to my old mule, Shadow."
-msgstr "我的货车是头牛拉的， 但这头牛比不上 我的暗影老骡子。"
+msgstr "我的货车是诺克斯的， 比不上 我的暗影老骡子。"
 
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5"
@@ -270014,12 +271304,12 @@ msgstr "如果你在冒险时 找到了任何物品， 你可以把你不需要�
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1"
 msgid "It'll be here in a jiffy."
-msgstr "我一眨眼就到。"
+msgstr "一眨眼的功夫就来了。"
 
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.2
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.2"
 msgid "I bet ya can't wait to see what comes out!"
-msgstr "我打赌你很期待 会出来什么。"
+msgstr "我打赌你很期待 会出来什么！"
 
 #. STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.3
 msgctxt "STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.3"
@@ -271624,7 +272914,7 @@ msgstr "快，我需要我的网状缓冲器！"
 #. STRINGS.WAGSTAFF_NPC_WANT_TOOL_2
 msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_2"
 msgid "Someone find me a Widget Deflubber!"
-msgstr "给我找个除垢机去！"
+msgstr "给我找个装置除垢器去！"
 
 #. STRINGS.WAGSTAFF_NPC_WANT_TOOL_3
 msgctxt "STRINGS.WAGSTAFF_NPC_WANT_TOOL_3"
