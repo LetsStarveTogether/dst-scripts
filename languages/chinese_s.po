@@ -2996,6 +2996,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "We already put something there."
 msgstr "我们已经把一些东西放在那里了。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "I can't fit them together in my pocket"
+msgstr "我的口袋不能同时装下它们"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.WRONGGEM"
 msgid "This gem won't work here."
@@ -13096,6 +13101,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HEALER"
 msgid "Oh wonderful. Now the spiders can heal themselves."
 msgstr "哦，太好了。现在蜘蛛可以自愈了。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "If I see any spiders around I'll be sure to give it to them. Maybe."
+msgstr "要是看到蜘蛛，我一定会把它送给它们。也许吧。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_HIDER"
 msgid "Gah! More spiders!"
@@ -13115,6 +13125,11 @@ msgstr "好的，月亮让它产生了变异。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Thank science, it stopped moving."
 msgstr "感谢科学，终于不动了。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_REPELLENT"
+msgid "If only science could make it work for me."
+msgstr "如果科学能让它为我所用就好了。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPIDER_SPITTER"
@@ -16255,6 +16270,11 @@ msgstr "沃比，我们要不要叫醒人家呢？"
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "It's already packed."
 msgstr "已经都满了。"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "I don't think that would be very comfy for the spider."
+msgstr "我不认为这对蜘蛛来说会很舒服。"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.WRONGGEM"
@@ -26046,6 +26066,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HEALER"
 msgid "Aw, what a helpful little guy!"
 msgstr "嗷，多么乐于助人的小家伙啊！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "It's like a first aid kit for spiders!"
+msgstr "它就像蜘蛛的急救箱一样！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_HIDER"
 msgid "Woah! You startled me!"
@@ -26065,6 +26090,11 @@ msgstr "哇，他们怎么会变成这样？我得仔细看看！"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "I could probably get close while they're sleeping."
 msgstr "我也许可以在他们睡觉的时候接近他们。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_REPELLENT"
+msgid "Aw, why would I want the spiders to go away?"
+msgstr "噢，我怎么会想要让蜘蛛离开呢？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SPIDER_SPITTER"
@@ -29205,6 +29235,11 @@ msgstr "它在睡觉。"
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "I'd have to take the other object out first."
 msgstr "我得先把另一件东西先拿出来。"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "I'm afraid that's a bit of a tight squeeze."
+msgstr "恐怕那样会有点挤。"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.WRONGGEM"
@@ -38246,6 +38281,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HEALER"
 msgid "I suppose it's good to have a healthier alternative."
 msgstr "有更健康的选项当然是好事。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "It only appeals to a very specific palate."
+msgstr "它只对一种非常特殊的舌头有吸引力。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HIDER"
 msgid "A spider that turtles!"
@@ -38265,6 +38305,11 @@ msgstr "这绝不是寻常的蜘蛛。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "I shouldn't disturb it's nap."
 msgstr "我不要扰蛛清梦。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_REPELLENT"
+msgid "Unfortunately, it seems only spiders can shoo other spiders."
+msgstr "不幸的是，似乎只有蜘蛛才能驱赶其他蜘蛛。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_SPITTER"
@@ -41395,6 +41440,11 @@ msgstr "睡得真香...晚点再说吧。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "One material at a time!"
 msgstr "一次用一种材料！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "It hath no use for such things while it's in my pocket."
+msgstr "它在我的口袋里用不到这种东西。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.WRONGGEM"
@@ -51126,6 +51176,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HEALER"
 msgid "Be you the healer of your clan?"
 msgstr "你就是你们部落的治愈者吗？"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "It is only fit for the small toothy beasts."
+msgstr "它只适合于牙齿比较小的野兽。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_HIDER"
 msgid "I'll smash you!"
@@ -51145,6 +51200,11 @@ msgstr "必定是赫尔的恶兽！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "It slumbers."
 msgstr "安眠中。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_REPELLENT"
+msgid "The spiderchild uses it to manage his horde."
+msgstr "那个蛛孩用它来管理他的部落。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_SPITTER"
@@ -54275,6 +54335,11 @@ msgstr "它彻底失去了知觉。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "Occupied."
 msgstr "已被占用。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "Its dapperness would be wasted in my pocket."
+msgstr "它这么帅，放我口袋里就浪费了。"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.WRONGGEM"
@@ -63986,6 +64051,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HEALER"
 msgid "I don't think that's one of mine."
 msgstr "那个不是我的。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Just in case I lose my mind entirely and want to heal those little pests."
+msgstr "留着它以防我完全失去理智，想要医治那些小害虫。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_HIDER"
 msgid "It's a tricky one."
@@ -64005,6 +64075,11 @@ msgstr "怪兽。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "I'd rather not wake it."
 msgstr "我可别弄醒它。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_REPELLENT"
+msgid "If only loud noises were really enough to deter them."
+msgstr "如果大声喧哗真的足以震慑它们，那就好了。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_SPITTER"
@@ -67155,6 +67230,11 @@ msgstr "呃...它现在睡得像头猪！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "Mom said to always finish my plate before seconds."
 msgstr "妈妈告诉我要吃完碗里的再夹新菜。"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "There's not enough room, we don't want to squish them by accident!"
+msgstr "没有足够的空间，我们不想一不小心就把它们压扁了！"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.WRONGGEM"
@@ -76871,6 +76951,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HEALER"
 msgid "We feel better just having them around!"
 msgstr "只要有它们在身边，我们感觉就好多了！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "It's good for fixing spider booboos."
+msgstr "它对修复蜘蛛伤口有好处。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HIDER"
 msgid "Friends!"
@@ -76890,6 +76975,11 @@ msgstr "这些朋友看着很奇怪。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Night-night, scary friend."
 msgstr "安安，吓人的朋友。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_REPELLENT"
+msgid "Ms. Wickerbottom said our friends need to go home if they don't behave."
+msgstr "薇克巴顿女士说我们的小伙伴要是不听话就得回家。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_SPITTER"
@@ -80020,6 +80110,11 @@ msgstr "下次吧。现在它正在体验临时死亡。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "There's no room..."
 msgstr "没有空间..."
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "I have a feeling the spider would get it all rumpled in my pocket."
+msgstr "我有预感蜘蛛会把它在我的口袋里弄得皱巴巴的。"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.WRONGGEM"
@@ -89796,6 +89891,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HEALER"
 msgid "It's only prolonging the inevitable. How sad."
 msgstr "这只是在拖延不可避免的事情。多么可悲。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Merely a temporary respite from the pain of the world."
+msgstr "对世界的痛苦来说，仅仅是暂时的喘息。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_HIDER"
 msgid "A cowardly spider."
@@ -89815,6 +89915,11 @@ msgstr "长腿的死神。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "It slumbers soundly."
 msgstr "它睡得真香。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_REPELLENT"
+msgid "Nothing I try seems to work well for me."
+msgstr "我真是试啥啥不行。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_SPITTER"
@@ -92945,6 +93050,11 @@ msgstr "它好像睡着了。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "Let's finish what's on our plate first, shall we?"
 msgstr "让我们先吃掉餐盘上有的东西，好吗？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "There simply isn't enough room for that."
+msgstr "根本没有地方装那个。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.WRONGGEM"
@@ -102666,6 +102776,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HEALER"
 msgid "This arachnid has evolved the ability to heal others around it."
 msgstr "这种蛛形纲动物进化出了治疗周围其他人的能力。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "This balm appears specially formulated to heal arachnids."
+msgstr "这种膏药似乎是专门为治疗蛛形纲动物而配制的。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HIDER"
 msgid "An arachnid with a thick carapace."
@@ -102685,6 +102800,11 @@ msgstr "土壤中的矿物质可能激发了它的敌意。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "How convenient, it's sleeping."
 msgstr "太好了，它在睡觉。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_REPELLENT"
+msgid "Unfortunately, it seems that the arachnids only respond to one of their kind."
+msgstr "不幸的是，似乎这些蛛形纲动物只对它们的同类有反应。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_SPITTER"
@@ -105815,6 +105935,11 @@ msgstr "现在不行。它在睡觉。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "Naw, can't make it fit."
 msgstr "不是，没办法让它合适。"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "Why does it need a hat when it's snug as a bug in my pocket?"
+msgstr "它在我的口袋里那么舒服，还要帽子做什么？"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.WRONGGEM"
@@ -115556,6 +115681,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HEALER"
 msgid "Ew, it stinks!"
 msgstr "呕，臭死了！"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Ewww it's all goopy!"
+msgstr "呃，黏死了！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_HIDER"
 msgid "What a frustrating jerk!"
@@ -115575,6 +115705,11 @@ msgstr "我必须把它烧了。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Now's the perfect time to burn it."
 msgstr "现在是烧它的最佳时间。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_REPELLENT"
+msgid "Well it might not work, but at least it makes noise!"
+msgstr "好吧，虽然可能不起作用，但至少能制造噪音！"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_SPITTER"
@@ -118710,6 +118845,11 @@ msgstr "他们休息了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "No sense wasting materials."
 msgstr "浪费可耻。"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "There just ain't enough space for that."
+msgstr "没地方装那个。"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.WRONGGEM"
@@ -128501,6 +128641,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HEALER"
 msgid "You're a real stinker, you know that?"
 msgstr "你这一身味，你自己闻得到吗？"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Doesn't look like good eatin' to me."
+msgstr "依我看并不好吃。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_HIDER"
 msgid "You know I can see you, right?"
@@ -128520,6 +128665,11 @@ msgstr "啊！它怎么了？？"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Down and out. For now."
 msgstr "暂时睡下了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_REPELLENT"
+msgid "Guess it can only be used by a spider specialist."
+msgstr "看来只能由蜘蛛专业人士操作。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER_SPITTER"
@@ -131650,6 +131800,11 @@ msgstr "它现在睡着了！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "Something is already put!"
 msgstr "某些东西已经放好了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "Wolfgang's pockets are too small for both bug and hat!"
+msgstr "沃尔夫冈的口袋太小，不能同时装下小虫和帽子！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.WRONGGEM"
@@ -141376,6 +141531,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HEALER"
 msgid "Scary dust spider!"
 msgstr "吓人的灰尘蜘蛛！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Wolfgang will leave yucky glop for spiders."
+msgstr "沃尔夫冈会把恶心的黏团留给蜘蛛们。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_HIDER"
 msgid "Is scared spider!"
@@ -141395,6 +141555,11 @@ msgstr "沃尔夫冈不喜欢那个！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Wolfgang will not disturb."
 msgstr "沃尔夫冈不会打扰。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_REPELLENT"
+msgid "Is clicky clacky spider box."
+msgstr "是一个咔哒咔哒的蜘蛛盒。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_SPITTER"
@@ -144526,6 +144691,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "I should probably use what's up there first."
 msgstr "我应该可能先用在上面的东西。"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "No sense dressing it up when no one's gonna see it, eh?"
+msgstr "反正在里面也没人看到，还打扮什么，诶？"
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.WRONGGEM"
 msgid "I don't think that one'll work here."
@@ -145029,7 +145199,7 @@ msgstr "哎哟，太热了！"
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CALL_BEEF
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CALL_BEEF"
 msgid "Hey bud, over here!"
-msgstr "喂伙计，看那边！"
+msgstr "嘿，伙计，到这来！"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CANFIX"
@@ -154246,6 +154416,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HEALER"
 msgid "It better stay far away if it knows what's good for it."
 msgstr "它要是识趣的话，应该离得远一点。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Looks like food for a bug."
+msgstr "看起来像是虫子吃的食物。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_HIDER"
 msgid "Tricky devil!"
@@ -154265,6 +154440,11 @@ msgstr "我不想跟它扯上任何关系。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Let sleeping dogs lie, eh?"
 msgstr "睡着了就别去打搅，对不？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_REPELLENT"
+msgid "A nice bit of woodworking there, kiddo."
+msgstr "这木工手艺可以啊，小屁孩。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_SPITTER"
@@ -157395,6 +157575,11 @@ msgstr "嘘..."
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "Too full"
 msgstr "太满了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "No room"
+msgstr "没地方"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.WRONGGEM"
@@ -167176,6 +167361,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HEALER"
 msgid "Takes care of leggy friends"
 msgstr "会照顾细腿朋友"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Gloopy"
+msgstr "黏啊黏"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HIDER"
 msgid "Shy?"
@@ -167195,6 +167385,11 @@ msgstr "夜晚的球惹你生气吗？"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Shh... sleepy"
 msgstr "嘘...困了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_REPELLENT"
+msgid "Clicky-clack!"
+msgstr "咔哒哒！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_SPITTER"
@@ -170325,6 +170520,11 @@ msgstr "他们的心智现在位于另一个世界。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "It is full already."
 msgstr "已经满了。"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "My pocket's too tight for that hat to sit right."
+msgstr "我的口袋太小，装不了。"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.WRONGGEM"
@@ -180091,6 +180291,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HEALER"
 msgid "I'm not sure I trust that strange orange dust."
 msgstr "我信不过那种古怪的橙尘。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "I think I'll make do without eating that goo."
+msgstr "我就不吃那黏糊的玩意。"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_HIDER"
 msgid "Spindly spider, begone, begone!"
@@ -180110,6 +180315,11 @@ msgstr "十分危险的蜘蛛，马上就会发动袭击。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Get some rest, little pest."
 msgstr "小害虫，熟睡中。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_REPELLENT"
+msgid "The easiest way to get rid of a spider is with a big shoo, hyuyu!"
+msgstr "摆脱蜘蛛的最简单的方法是猛吹哨子，哼！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_SPITTER"
@@ -183250,6 +183460,11 @@ msgstr "起床！我有礼物送你！"
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "It already full."
 msgstr "已经满了。"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "Spiderfolk no need hat in there."
+msgstr "蜘蛛人在里面不需要帽子。"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.WRONGGEM"
@@ -193061,6 +193276,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HEALER"
 msgid "Glurgh, dusty spider!"
 msgstr "格勒格，一身灰尘的蜘蛛！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "Glurgh, have funny smell."
+msgstr "格勒格，味道不对劲。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_HIDER"
 msgid "Grrr, scaredy spider!!"
@@ -193080,6 +193300,11 @@ msgstr "从来没见过那样的蜘蛛人。"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "Shhh..."
 msgstr "嘘..."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_REPELLENT"
+msgid "It goes clicky-clacky-clak!"
+msgstr "它会咔哒哒响！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SPIDER_SPITTER"
@@ -196210,6 +196435,11 @@ msgstr "该单元正忙于充电"
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.SLOTFULL"
 msgid "ERROR: MATERIALS ALREADY SELECTED"
 msgstr "错误：材料已经选定"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.SPIDERNOHAT
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.SPIDERNOHAT"
+msgid "WARNING: INSUFFICIENT WIGGLE ROOM"
+msgstr "警告：回旋余地不足"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.WRONGGEM
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.WRONGGEM"
@@ -205921,6 +206151,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HEALER"
 msgid "SPIDER REPAIR UNIT"
 msgstr "蜘蛛修复单位"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HEALER_ITEM"
+msgid "FOR ORGANIC REPAIRS ONLY. USELESS"
+msgstr "只能修理有机物。废物"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_HIDER"
 msgid "AN ARMORED SPIDER"
@@ -205940,6 +206175,11 @@ msgstr "你就不该活着"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_MOON.SLEEPING"
 msgid "POWERED DOWN... FOR NOW"
 msgstr "暂时关机了..."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_REPELLENT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_REPELLENT"
+msgid "IT LOOKS SUSPICIOUSLY TOY-LIKE"
+msgstr "看起来多半是玩具"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_SPITTER"
@@ -214344,7 +214584,7 @@ msgstr "天体英雄"
 #. STRINGS.NAMES.ALTERGUARDIAN_PHASE2SPIKE
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE2SPIKE"
 msgid "Moonglass Spike"
-msgstr "月光玻璃突刺"
+msgstr "月光玻璃尖刺"
 
 #. STRINGS.NAMES.ALTERGUARDIAN_PHASE3
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3"
@@ -221339,7 +221579,7 @@ msgstr "清凉夏装"
 #. STRINGS.NAMES.RELIC
 msgctxt "STRINGS.NAMES.RELIC"
 msgid "Relic"
-msgstr "废墟"
+msgstr "遗物"
 
 #. STRINGS.NAMES.RESEARCHLAB
 msgctxt "STRINGS.NAMES.RESEARCHLAB"
@@ -221544,32 +221784,32 @@ msgstr "铥矿皇冠"
 #. STRINGS.NAMES.RUINSRELIC_BOWL
 msgctxt "STRINGS.NAMES.RUINSRELIC_BOWL"
 msgid "Replica Relic Bowl"
-msgstr "遗迹复制品 碗"
+msgstr "遗物复制品 碗"
 
 #. STRINGS.NAMES.RUINSRELIC_CHAIR
 msgctxt "STRINGS.NAMES.RUINSRELIC_CHAIR"
 msgid "Replica Relic Chair"
-msgstr "遗迹复制品 椅子"
+msgstr "遗物复制品 椅子"
 
 #. STRINGS.NAMES.RUINSRELIC_CHIPBOWL
 msgctxt "STRINGS.NAMES.RUINSRELIC_CHIPBOWL"
 msgid "Replica Relic Dish"
-msgstr "遗迹复制品 盘子"
+msgstr "遗物复制品 盘子"
 
 #. STRINGS.NAMES.RUINSRELIC_PLATE
 msgctxt "STRINGS.NAMES.RUINSRELIC_PLATE"
 msgid "Replica Relic Plate"
-msgstr "遗迹复制品 碟子"
+msgstr "遗物复制品 碟子"
 
 #. STRINGS.NAMES.RUINSRELIC_TABLE
 msgctxt "STRINGS.NAMES.RUINSRELIC_TABLE"
 msgid "Replica Relic Table"
-msgstr "遗迹复制品 桌子"
+msgstr "遗物复制品 桌子"
 
 #. STRINGS.NAMES.RUINSRELIC_VASE
 msgctxt "STRINGS.NAMES.RUINSRELIC_VASE"
 msgid "Replica Relic Vase"
-msgstr "遗迹复制品 花瓶"
+msgstr "遗物复制品 花瓶"
 
 #. STRINGS.NAMES.RUINS_BAT
 msgctxt "STRINGS.NAMES.RUINS_BAT"
@@ -236263,8 +236503,8 @@ msgstr "这个箱子包含75000布卷！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_webber_boy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_boy"
-msgid "This Chest contains Webber: The Farmspider, the Woolen Jumper and Farmspider Trousers."
-msgstr "这个箱子包含韦伯：农场蜘蛛，羊毛毛衣和农场蜘蛛裤。"
+msgid "This Chest contains Webber: The Farmspider, the Woolen Jumper, Farmspider Trousers, and Silky Farmspider Beard."
+msgstr "这个箱子包含韦伯：农场蜘蛛，羊毛毛衣、农场蜘蛛裤和农场蜘蛛蛛丝胡须。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_webber_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_deluxe"
