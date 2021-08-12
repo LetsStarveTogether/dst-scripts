@@ -205123,37 +205123,37 @@ msgstr "不要醒来。"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_DROPPER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_DROPPER"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HEALER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HEALER"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HIDER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_HIDER"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_MOON
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_MOON"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_SPITTER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_SPITTER"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_WARRIOR"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_WATER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUTATOR_WATER"
-msgid "IT IS A CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
+msgid "IT IS CRUDE AND DISGUSTING. AN ACCURATE DEPICTION"
 msgstr "粗糙且恶心。这是一个准确的描述"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.NATURE_BLUEPRINT
@@ -221739,7 +221739,7 @@ msgstr "高出平均值的树干"
 #. STRINGS.NAMES.OCEANVINE
 msgctxt "STRINGS.NAMES.OCEANVINE"
 msgid "Mossy Vine"
-msgstr "苔藓腾条"
+msgstr "苔藓藤条"
 
 #. STRINGS.NAMES.OCEANVINE_COCOON
 msgctxt "STRINGS.NAMES.OCEANVINE_COCOON"
@@ -231631,6 +231631,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_handmedown"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_nature"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_rose"
 msgid "n/a"
@@ -231655,6 +231660,11 @@ msgstr "这朵花有很强的高级感。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_handmedown"
 msgid "Memories are not the only things that linger."
 msgstr "留下的不只是回忆。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.abigail_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_nature"
+msgid "Life is so fragile, like a butterfly's wings."
+msgstr "生命如蝉翼般脆弱。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_rose"
@@ -232871,6 +232881,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_ice"
 msgid "All bundled up and ready for the snow!"
 msgstr "裹得严严实实去玩雪！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_walter_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_nature"
+msgid "When braving the wild unknown, always pack a sensible cape."
+msgstr "在勇敢面对未知的野外环境时，一定要带一件合理的披风。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_walter_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_survivor"
 msgid "A seasoned Pioneer knows to never underestimate the wilderness."
@@ -232905,6 +232920,11 @@ msgstr "以前防水。现在不怎么防了。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_ice"
 msgid "A fine coat to keep out the chill."
 msgstr "一件御寒的精美大衣。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_warly_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_nature"
+msgid "Made by hand with woven natural fibers."
+msgstr "用天然纤维手工编织而成。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_rose"
@@ -233121,6 +233141,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_magma"
 msgid "The flaming skull is just for show."
 msgstr "那个燃烧的骷髅头只是做做样子罢了。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_nature"
+msgid "Look like a natural-born warrior spider."
+msgstr "看起来像一个天生的蜘蛛战士。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_punk"
 msgid "Spiderpunk. It's a thing now."
@@ -233215,6 +233240,11 @@ msgstr "装扮成诱人的食人花。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_magma"
 msgid "A frock of flames to fly like the phoenix."
 msgstr "熊熊燃烧的连衣裙像凤凰一样飞舞"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_nature"
+msgid "A delicate dress of wings and petals."
+msgstr "翅膀和花瓣做成的精致礼服。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_rose"
@@ -233861,6 +233891,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_minotaur"
 msgid "The torso of a clever and fearsome minotaur."
 msgstr "英明神武的牛头人的伟岸身躯。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wortox_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_nature"
+msgid "Many imps have the ability to quite literally become one with nature."
+msgstr "许多小恶魔都有能力与自然融为一体。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wortox_original
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_original"
 msgid "Complete with cozy neck fur!"
@@ -234081,10 +234116,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_eyebone_lamb"
 msgid "It's looking a bit sheepish."
 msgstr "看起来懒洋洋的。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.chester_eyebone_walrus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_eyebone_walrus"
+msgid "It's giving you a pointed look."
+msgstr "它用尖锐的眼光盯着你。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.chester_lamb
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_lamb"
 msgid "Everywhere the Survivors trek, this lamb is sure to go."
 msgstr "冒险家去哪，这只小羊就跟去哪。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.chester_walrus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_walrus"
+msgid "Waddle along with your blubbery little buddy."
+msgstr "和你的胖胖的小伙伴一起蹒跚而行吧。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower"
@@ -234826,6 +234871,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_ice"
 msgid "Frigidly fabulous footwear."
 msgstr "美艳动人的足具。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature"
+msgid "Soft soles for a gentle soul."
+msgstr "柔软的鞋底适合温柔的灵魂。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_warly_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_victorian"
 msgid "They're shined so brightly you can see your own reflection in them."
@@ -234881,6 +234931,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_webber_magma"
 msgid "Hot-foot it into the ring."
 msgstr "戴上它跳入火圈。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_webber_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_webber_nature"
+msgid "Feel the grass underneath your fuzzy spider feet."
+msgstr "感受你毛茸茸的蜘蛛脚下的草地吧。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_webber_punk"
 msgid "Arachnid combat boots."
@@ -234915,6 +234970,11 @@ msgstr "可爱的传统冬靴。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_magma"
 msgid "Tip-toe across the very ashes you rose from."
 msgstr "踮着脚尖小心地走过你出来时的灰烬。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_nature"
+msgid "Pink petaled slippers for flighty feet."
+msgstr "粉红色的花瓣拖鞋，适合飞行的脚丫。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_victorian"
@@ -235466,6 +235526,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork"
 msgid "A construct of deconstruction."
 msgstr "毁灭性武器。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hambat_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hambat_nautical"
+msgid "This portly pufferfish is trying to pass itself off as pork."
+msgstr "这条胖乎乎的河豚在努力把自己扮成猪肉。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hambat_potroast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hambat_potroast"
 msgid "Delicious, delicious murder."
@@ -235611,6 +235676,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_walter_ice"
 msgid "A pair of cozy mittens to keep your fingers warm while you're out exploring."
 msgstr "一双舒适的手套，让你在外出探险时，手指保持温暖。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_walter_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_walter_nature"
+msgid "These adventurous gloves are ready to take the reins!"
+msgstr "这些富有冒险精神的手套已经准备好主宰探险了！"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_warly_candyman
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_candyman"
 msgid "For hand-making each tasty treat with care."
@@ -235700,6 +235770,11 @@ msgstr "或许在战斗结束后你可以负责篱笆修剪工作。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma"
 msgid "Like little candle flames for your claws."
 msgstr "就像你的爪子上燃烧着蜡烛。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_nature"
+msgid "These spider claws are sharpened and ready for the hunt!"
+msgstr "这些蜘蛛爪被磨得很锋利，准备好去打猎了！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk"
@@ -236010,6 +236085,11 @@ msgstr "雕刻细腻，效果自然。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_minotaur"
 msgid "A pair of monstrous minotaur claws sporting golden bracers."
 msgstr "牛头人硕大的利爪。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_nature"
+msgid "Would you walk hand in hand with the forest folk?"
+msgstr "你愿意与森林里的人携手同行吗？"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_original
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_original"
@@ -236581,6 +236661,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_ice"
 msgid "Practical snow pants and boots to keep young adventurers warm and dry."
 msgstr "实用的雪裤和雪靴，让年轻的冒险家们保持温暖和干燥。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_walter_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_nature"
+msgid "The best part is they'll hide both mud stains and grass stains!"
+msgstr "最重要的是，它们可以同时掩盖泥渍和草渍!"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_walter_ventriloquist
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_ventriloquist"
 msgid "A frightfully fine pair of striped trousers."
@@ -236861,6 +236946,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_minotaur"
 msgid "This minotaur look is a-maze-ing!"
 msgstr "这个牛头人的造型帅呆了！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_nature"
+msgid "Don't be alarmed by the cloven hooves."
+msgstr "不要被那双蹄子惊吓到。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_original
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_original"
 msgid "Who needs pants when you have fur?"
@@ -236936,6 +237026,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot"
 msgid "Divert lightning bolts away from your body in style with the Electrobolt Diffuser 300X!"
 msgstr "避雷针300X让您时尚的导开闪电的电流！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_axiomvisus_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_axiomvisus_trailer"
+msgid "The torch will reveal the truth."
+msgstr "火把会揭示出真相。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_bearger_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_bearger_yule"
 msgid "Deafening roars fill the air with no hint of cessation,\nWho dares disturb Bearger's sweet hibernation?"
@@ -236980,6 +237075,11 @@ msgstr "黑夜一片死寂，直到这声音划破寂静。\n 看！茂密的灌
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dragonfly_yule"
 msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
 msgstr "岩浆在寒冷的冬夜燃烧，\n盛宴龙蝇在炽热的火焰中飞翔。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_eyeofthestorm_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_eyeofthestorm_trailer"
+msgid "Few things can set the Queen of the Constant herself on edge..."
+msgstr "很少有东西能让永恒领域的女王本人感到紧张……"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_farming
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_farming"
@@ -237106,6 +237206,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_warly_trailer"
 msgid "Warly will never give up hope that he'll see the sweet smile of his dear Maman again."
 msgstr "沃利从未放弃过再次看到妈妈甜美微笑的希望。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged_trailer"
+msgid "Sailing beneath the comforting shade of the Drift Wood's Great Tree, it's all too easy to forget the danger that dangles above."
+msgstr "在浮木森林舒适的大树荫下航行时，很容易就会忘记悬在头顶上的危险。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber"
 msgid "Webber could have easily seen his unique predicament as an affliction or a curse. Instead, he's chosen to view it as a second chance, and one that he fully intends not to waste."
@@ -237115,6 +237220,11 @@ msgstr "韦伯本可以把他这独特的状况视为苦难或诅咒。但相反
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast"
 msgid "\"We're super excited to watch everyone open the presents we got them.\""
 msgstr "\"看到大家打开我们送的礼物，我们感到超级兴奋。\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer"
+msgid "Some things simply can't be undone."
+msgstr "有些事情就是覆水难收。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy"
@@ -237155,6 +237265,11 @@ msgstr "揣测这个小丑的心理是愚人做的事情……尤其是在四月
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer2"
 msgid "Balloons are never as sturdy as one's imagination might suggest."
 msgstr "气球远远没有想象中那么坚固。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer3"
+msgid "The start of that fateful day, when Wes' bad luck ran amok."
+msgstr "再回到倒霉的那天，韦斯厄运就这么展开了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian"
@@ -238031,6 +238146,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_all"
 msgid "This Verdant Chest contains the original Verdant series. Contains skins for: Maxwell, Wigfrid, Woodie, Wes, Winona, and WX-78."
 msgstr "这个绿色箱子里有原创的绿色系列。包含以下角色的皮肤：麦斯威尔、薇格弗德、伍迪、韦斯、薇诺娜、WX-78。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_all2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_all2"
+msgid "This Fresh Verdant Chest contains the second addition to the Verdant skin series. Contains skins for: Walter, Warly, Webber, Wendy, Wortox, Wilson, and Wolfgang."
+msgstr "这个新鲜绿色箱子收录了第二次增加的绿色皮肤系列。包含下列角色的皮肤：沃尔特、沃利、韦伯、温蒂、沃拓克斯、威尔逊和沃尔夫冈。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_bundle
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_bundle"
+msgid "This Complete Verdant Chest contains the entire Verdant skin series. Contains skins for: Maxwell, Wigfrid, Woodie, Wes, Winona, WX-78, Walter, Warly, Webber, Wendy, Wortox, Wilson, and Wolfgang."
+msgstr "这个全套绿色箱子收录了完整的绿色系列皮肤。包含下列角色的皮肤：麦斯威尔、薇格弗德、伍迪、韦斯、薇诺娜、WX-78、沃尔特、沃利、韦伯、温蒂、沃拓克斯、威尔逊和沃尔夫冈。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_walter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_walter"
+msgid "This Verdant Chest contains Walter's complete set of Verdant skin items."
+msgstr "这个绿色箱子包含了沃尔特的全套绿色皮肤。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_warly
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_warly"
+msgid "This Verdant Chest contains Warly's complete set of Verdant skin items."
+msgstr "这个绿色箱子包含了沃利的全套绿色皮肤。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_nature_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_wathgrithr"
 msgid "This Verdant Chest contains Wigfrid's complete set of Verdant skin items."
@@ -238040,6 +238175,16 @@ msgstr "这个绿色箱子包含了薇格弗德的全套绿色皮肤。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_waxwell"
 msgid "This Verdant Chest contains Maxwell's complete set of Verdant skin items."
 msgstr "这个绿色箱子包含了麦斯威尔的全套绿色皮肤。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_webber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_webber"
+msgid "This Verdant Chest contains Webber's complete set of Verdant skin items."
+msgstr "这个绿色箱子包含了韦伯的全套绿色皮肤。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_wendy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_wendy"
+msgid "This Verdant Chest contains Wendy's complete set of Verdant skin items."
+msgstr "这个绿色箱子包含了温蒂的全套绿色皮肤。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes"
@@ -238056,6 +238201,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_woodie"
 msgid "This Verdant Chest contains Woodie's complete set of Verdant skin items."
 msgstr "这个绿色箱子包含了伍迪的全套绿色皮肤。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_nature_wortox
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_wortox"
+msgid "This Verdant Chest contains Wortox's complete set of Verdant skin items."
+msgstr "这个绿色箱子包含了沃拓克斯的全套绿色皮肤。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_nature_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_wx78"
 msgid "This Verdant Chest contains WX-78's complete set of Verdant skin items."
@@ -238070,6 +238220,11 @@ msgstr "《缺氧》礼物"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
 msgid "Don't Starve: Reign of Giants Gift"
 msgstr "饥荒《巨人国》礼物"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_seaside_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_seaside_items"
+msgid "This Seaside Chest contains the following belongings skin items: Shellacked Tackle Box, Shellacked Spectackler Box, Lighthouse Think Tank, Beach Tent, Peliclet, Pufflet, and Narwalrus Chester."
+msgstr "这个滨海箱子里有如下财物皮肤：贝壳钓具箱、贝壳超级钓具箱、灯塔智囊团、海滩帐篷、小鹈鹕、小海鹦、一角海象切斯特。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_spring_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_spring_bundle"
@@ -238711,6 +238866,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.parasol_spring"
 msgid "\"April showers bring May flowers.\""
 msgstr "\"四月雨催开五月花。\""
 
+#. STRINGS.SKIN_DESCRIPTIONS.perdling_pelican
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_pelican"
+msgid "Have you always wanted to have a seabird companion? Well now you peli-can!"
+msgstr "你是不是也曾想过有一只海鸟作伴？你现在就有小鹈鹕了！"
+
+#. STRINGS.SKIN_DESCRIPTIONS.perdling_pelican_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_pelican_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.perdling_puffin
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_puffin"
+msgid "Travel the seas with your own puffin pal."
+msgstr "跟属于你的海鹦小伙伴一起畅游大海吧。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.perdling_puffin_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_puffin_builder"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.perdling_rooster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_rooster"
 msgid "If you wanted a bouncy rooster companion by your side, then you're in cluck!"
@@ -238960,6 +239135,11 @@ msgstr "装备此物品以更改你的角色背景画像。\n\n一切都会消�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments"
 msgid "Equip this item to change your character's background portrait.\n\nOrnaments of dread."
 msgstr "装备此物品以更改你的角色背景画像。\n\n恐惧装饰物。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hambatnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hambatnautical"
+msgid "Equip this item to change your character's background portrait."
+msgstr "装备此物品以更改你的角色背景画像。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heart1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heart1"
@@ -239590,6 +239770,11 @@ msgstr "将你的头像设为糟糕的包装"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_goosemoose"
 msgid "Set your profile icon to a Goose. Or Moose. Or both."
 msgstr "将你的头像设为一只鹅。或者一头麋鹿。或者两个都设。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_hambat_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_hambat_nautical"
+msgid "Set your profile icon to a Fishy Bat."
+msgstr "将你的头像设为海鱼棒。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_heatrock_fire
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_heatrock_fire"
@@ -240566,6 +240751,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.saltbox_victorian"
 msgid "Stylish and practical food storage."
 msgstr "时尚和实用兼顾的食物储存工具。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.seafaring_prototyper_lighthouse
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.seafaring_prototyper_lighthouse"
+msgid "A beacon of nautical knowledge."
+msgstr "航海知识的灯塔。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.seedpouch_rustic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.seedpouch_rustic"
 msgid "Sturdily hand-stitched for rambunctious gardeners."
@@ -240646,6 +240836,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_wrestle"
 msgid "Let them try to wrestle this away from you."
 msgstr "让他们试着把它从你身上挣脱出来。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.stagehand_carpet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.stagehand_carpet"
+msgid "A \"table\" that would be a truly elegant addition to any unkempt wilderness base."
+msgstr "一张“桌子”，将会成为任何乱七八糟的荒野基地的非常优雅的添加物。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.stagehand_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.stagehand_cawnival"
+msgid "A small, festive \"table\" that reminds you of feathered friends."
+msgstr "一张小而喜庆的“桌子”，让你想起有羽毛的朋友。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.stagehand_dragonfly
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.stagehand_dragonfly"
+msgid "An \"endtable\" inspired by the most opulent of bloodthirsty monsters."
+msgstr "受到最多的嗜血怪兽启发的“茶几”。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.stagehand_vintage
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.stagehand_vintage"
+msgid "A quaint decorative \"table\" that would make your grandmother proud."
+msgstr "一张精巧的“装饰桌”，会让你的祖母为你感到自豪。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal"
 msgid "A blindingly beautiful staff, filled with the magic of stars."
@@ -240666,6 +240876,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.strawhat_floppy"
 msgid "Be like a little British lady in your garden!"
 msgstr "成为一个你花园中的小小的英国小姐！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.supertacklecontainer_shell
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.supertacklecontainer_shell"
+msgid "Made with the finest shells the sea could provide."
+msgstr "用海洋所能提供的最好的贝壳制成。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.tacklecontainer_shell
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tacklecontainer_shell"
+msgid "An excellent shellection."
+msgstr "贝壳制成的收藏品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.telebase_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.telebase_crystal"
 msgid "Some people would give an arm and a leg for this kind of power."
@@ -240675,6 +240895,11 @@ msgstr "它具有人人都渴求的力量。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.telestaff_crystal"
 msgid "All it takes is a bit of dark magic to travel in style!"
 msgstr "只需要一点黑魔法，就能潇洒出行!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.tent_beach
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tent_beach"
+msgid "Take a nap in the shade after a long day at the beach."
+msgstr "在海滩渡过漫长的一天后，在树荫下小憩片刻。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.tent_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tent_circus"
@@ -240916,6 +241141,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_ice"
 msgid "Walter is always sure to put on the proper winter wear before venturing out into the snow."
 msgstr "沃尔特在冒险进入雪地之前，一定会穿上合适的冬装。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.walter_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_nature"
+msgid "The natural world is full of dangers, and this stout-hearted adventurer is ready to face them all!"
+msgstr "自然界充满了危险，而这位坚毅的冒险家已经准备好面对所有的危险了!"
+
 #. STRINGS.SKIN_DESCRIPTIONS.walter_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_none"
 msgid "Walter's standard-issue Pinetree Pioneer uniform."
@@ -240950,6 +241180,11 @@ msgstr "想看谁是一把手，就看谁戴的帽子最大。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_ice"
 msgid "The pom-pom is actually very practical and necessary."
 msgstr "那个绒球其实是非常实用和必要的。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.walterhat_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_nature"
+msgid "It's like a cape for your head!"
+msgstr "像是头上披的斗篷一样！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_survivor"
@@ -241005,6 +241240,11 @@ msgstr "休闲帅气的渔夫装。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_ice"
 msgid "Warly has put together his finest outfit to attend the Snow Ball."
 msgstr "沃利为参加下雪舞会准备了最精致的礼服。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.warly_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_nature"
+msgid "Warly has found a deep appreciation for the natural world and all it provides."
+msgstr "沃利十分欣赏大自然所提供的一切。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.warly_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_none"
@@ -241276,6 +241516,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_magma"
 msgid "It's a good thing this webbing doesn't seem to be flammable."
 msgstr "好在这网带似乎不易燃。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.webber_beard_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_nature"
+msgid "Webber's beard is naturally stylish."
+msgstr "韦伯的胡须自然就是那么时髦。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.webber_beard_punk
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_punk"
 msgid "A look for only the most webellious spiders."
@@ -241345,6 +241590,11 @@ msgstr "韦伯从不需要买冬装。他自己就会做。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_magma"
 msgid "Add some much needed fire to your fur."
 msgstr "给你的绒毛多加一些你非常需要的火。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.webber_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_nature"
+msgid "Webber has learned to embrace the natural instincts of his spider side."
+msgstr "韦伯已经学会了拥抱蜘蛛身上的自然本能。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.webber_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_none"
@@ -241455,6 +241705,11 @@ msgstr "温蒂很喜欢这种发色。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_magma"
 msgid "Wendy, like Abigail, will rise from the ashes."
 msgstr "温蒂也像阿比盖尔一样来自灰烬。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_nature"
+msgid "Wendy used to love reading fairy tales with her sister."
+msgstr "温迪以前喜欢和她的妹妹一起读童话故事。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_none"
@@ -242336,6 +242591,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur"
 msgid "Wortox's mind is, admittedly, much like a labyrinth itself."
 msgstr "沃拓克斯的思想简直就是一个迷宫。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wortox_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_nature"
+msgid "Wortox often considers himself a force of nature."
+msgstr "沃拓克斯总认为自己是自然界的力量。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_none"
 msgid "Wortox has arrived, and he's ready to play some tricks!"
@@ -242491,6 +242751,11 @@ msgctxt "STRINGS.SKIN_NAMES.abigail_flower_handmedown"
 msgid "The Nostalgic"
 msgstr "怀旧"
 
+#. STRINGS.SKIN_NAMES.abigail_flower_nature
+msgctxt "STRINGS.SKIN_NAMES.abigail_flower_nature"
+msgid "The Verdant"
+msgstr "绿色系"
+
 #. STRINGS.SKIN_NAMES.abigail_flower_rose
 msgctxt "STRINGS.SKIN_NAMES.abigail_flower_rose"
 msgid "The Roseate"
@@ -242515,6 +242780,11 @@ msgstr "鬼宾"
 msgctxt "STRINGS.SKIN_NAMES.abigail_handmedown"
 msgid "The Nostalgic"
 msgstr "怀旧"
+
+#. STRINGS.SKIN_NAMES.abigail_nature
+msgctxt "STRINGS.SKIN_NAMES.abigail_nature"
+msgid "The Verdant"
+msgstr "绿色系"
 
 #. STRINGS.SKIN_NAMES.abigail_rose
 msgctxt "STRINGS.SKIN_NAMES.abigail_rose"
@@ -243731,6 +244001,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_walter_ice"
 msgid "Snowy Winter Coat"
 msgstr "冬雪大衣"
 
+#. STRINGS.SKIN_NAMES.body_walter_nature
+msgctxt "STRINGS.SKIN_NAMES.body_walter_nature"
+msgid "Adventurer's Garb"
+msgstr "冒险家服饰"
+
 #. STRINGS.SKIN_NAMES.body_walter_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_walter_survivor"
 msgid "Tattered Uniform"
@@ -243765,6 +244040,11 @@ msgstr "渔夫防水衣"
 msgctxt "STRINGS.SKIN_NAMES.body_warly_ice"
 msgid "Winter Soiree Jacket"
 msgstr "冬日晚礼服外套"
+
+#. STRINGS.SKIN_NAMES.body_warly_nature
+msgctxt "STRINGS.SKIN_NAMES.body_warly_nature"
+msgid "Druidic Tunic"
+msgstr "德鲁伊外衣"
 
 #. STRINGS.SKIN_NAMES.body_warly_rose
 msgctxt "STRINGS.SKIN_NAMES.body_warly_rose"
@@ -243981,6 +244261,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_webber_magma"
 msgid "Incombustible's Abdomen"
 msgstr "不会燃烧的腹部"
 
+#. STRINGS.SKIN_NAMES.body_webber_nature
+msgctxt "STRINGS.SKIN_NAMES.body_webber_nature"
+msgid "Warrior Spider Trappings"
+msgstr "蜘蛛战士陷阱"
+
 #. STRINGS.SKIN_NAMES.body_webber_punk
 msgctxt "STRINGS.SKIN_NAMES.body_webber_punk"
 msgid "Punk Shirt"
@@ -244075,6 +244360,11 @@ msgstr "食人花造型上衣"
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_magma"
 msgid "Phoenix's Dress"
 msgstr "凤凰连衣裙"
+
+#. STRINGS.SKIN_NAMES.body_wendy_nature
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_nature"
+msgid "Fluttery Dress"
+msgstr "飘逸的裙子"
 
 #. STRINGS.SKIN_NAMES.body_wendy_rose
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_rose"
@@ -244721,6 +245011,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wortox_minotaur"
 msgid "Minotaur Chest"
 msgstr "牛头人身体"
 
+#. STRINGS.SKIN_NAMES.body_wortox_nature
+msgctxt "STRINGS.SKIN_NAMES.body_wortox_nature"
+msgid "Wood Imp Torso"
+msgstr "木制小恶魔躯干"
+
 #. STRINGS.SKIN_NAMES.body_wortox_original
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_original"
 msgid "Forest Fawn Chest"
@@ -244941,10 +245236,20 @@ msgctxt "STRINGS.SKIN_NAMES.chester_eyebone_lamb"
 msgid "Woolly Eye Bone"
 msgstr "羊毛眼骨"
 
+#. STRINGS.SKIN_NAMES.chester_eyebone_walrus
+msgctxt "STRINGS.SKIN_NAMES.chester_eyebone_walrus"
+msgid "Narwalrus Eye Bone"
+msgstr "一角海象眼骨"
+
 #. STRINGS.SKIN_NAMES.chester_lamb
 msgctxt "STRINGS.SKIN_NAMES.chester_lamb"
 msgid "Woolly Chester"
 msgstr "羊毛切斯特"
+
+#. STRINGS.SKIN_NAMES.chester_walrus
+msgctxt "STRINGS.SKIN_NAMES.chester_walrus"
+msgid "Narwalrus Chester"
+msgstr "一角海象切斯特"
 
 #. STRINGS.SKIN_NAMES.coldfirepit_flower
 msgctxt "STRINGS.SKIN_NAMES.coldfirepit_flower"
@@ -245686,6 +245991,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_warly_ice"
 msgid "Winter Soiree Shoes"
 msgstr "冬季晚装鞋"
 
+#. STRINGS.SKIN_NAMES.feet_warly_nature
+msgctxt "STRINGS.SKIN_NAMES.feet_warly_nature"
+msgid "Soft Leather Shoes"
+msgstr "软皮鞋"
+
 #. STRINGS.SKIN_NAMES.feet_warly_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_warly_victorian"
 msgid "Naval Uniform Shoes"
@@ -245741,6 +246051,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_webber_magma"
 msgid "Incombustible's Feet"
 msgstr "不会燃烧的脚"
 
+#. STRINGS.SKIN_NAMES.feet_webber_nature
+msgctxt "STRINGS.SKIN_NAMES.feet_webber_nature"
+msgid "Warrior Spider Feet"
+msgstr "战士蜘蛛脚"
+
 #. STRINGS.SKIN_NAMES.feet_webber_punk
 msgctxt "STRINGS.SKIN_NAMES.feet_webber_punk"
 msgid "Punk Boots"
@@ -245775,6 +246090,11 @@ msgstr "雪孩子毛毡靴"
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_magma"
 msgid "Phoenix's Shoes"
 msgstr "凤凰鞋"
+
+#. STRINGS.SKIN_NAMES.feet_wendy_nature
+msgctxt "STRINGS.SKIN_NAMES.feet_wendy_nature"
+msgid "Lady's Slippers"
+msgstr "淑女拖鞋"
 
 #. STRINGS.SKIN_NAMES.feet_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_victorian"
@@ -246326,6 +246646,11 @@ msgctxt "STRINGS.SKIN_NAMES.greenstaff_clockwork"
 msgid "Clockwork Deconstruction Staff"
 msgstr "发条拆解魔杖"
 
+#. STRINGS.SKIN_NAMES.hambat_nautical
+msgctxt "STRINGS.SKIN_NAMES.hambat_nautical"
+msgid "Fishy Bat"
+msgstr "海鱼棒"
+
 #. STRINGS.SKIN_NAMES.hambat_potroast
 msgctxt "STRINGS.SKIN_NAMES.hambat_potroast"
 msgid "Pot Roastbat"
@@ -246471,6 +246796,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_walter_ice"
 msgid "Warm Mittens"
 msgstr "温暖手套"
 
+#. STRINGS.SKIN_NAMES.hand_walter_nature
+msgctxt "STRINGS.SKIN_NAMES.hand_walter_nature"
+msgid "Adventuring Gloves"
+msgstr "冒险手套"
+
 #. STRINGS.SKIN_NAMES.hand_warly_candyman
 msgctxt "STRINGS.SKIN_NAMES.hand_warly_candyman"
 msgid "Candy-Striped Gloves"
@@ -246560,6 +246890,11 @@ msgstr "恶魔爪子"
 msgctxt "STRINGS.SKIN_NAMES.hand_webber_magma"
 msgid "Incombustible's Claws"
 msgstr "不会燃烧的爪子"
+
+#. STRINGS.SKIN_NAMES.hand_webber_nature
+msgctxt "STRINGS.SKIN_NAMES.hand_webber_nature"
+msgid "Spider Warrior Claws"
+msgstr "蜘蛛战士利爪"
 
 #. STRINGS.SKIN_NAMES.hand_webber_punk
 msgctxt "STRINGS.SKIN_NAMES.hand_webber_punk"
@@ -246870,6 +247205,11 @@ msgstr "雕花手"
 msgctxt "STRINGS.SKIN_NAMES.hand_wortox_minotaur"
 msgid "Minotaur Mitts"
 msgstr "牛头人之手"
+
+#. STRINGS.SKIN_NAMES.hand_wortox_nature
+msgctxt "STRINGS.SKIN_NAMES.hand_wortox_nature"
+msgid "Wood Imp Hands"
+msgstr "木质小恶魔双手"
 
 #. STRINGS.SKIN_NAMES.hand_wortox_original
 msgctxt "STRINGS.SKIN_NAMES.hand_wortox_original"
@@ -247441,6 +247781,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_walter_ice"
 msgid "Snow Pants and Boots"
 msgstr "雪裤和短靴"
 
+#. STRINGS.SKIN_NAMES.legs_walter_nature
+msgctxt "STRINGS.SKIN_NAMES.legs_walter_nature"
+msgid "Adventuring Trousers"
+msgstr "冒险裤子"
+
 #. STRINGS.SKIN_NAMES.legs_walter_ventriloquist
 msgctxt "STRINGS.SKIN_NAMES.legs_walter_ventriloquist"
 msgid "Spooky Striped Pants"
@@ -247721,6 +248066,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wortox_minotaur"
 msgid "Minotaur Hooves"
 msgstr "牛头人牛蹄"
 
+#. STRINGS.SKIN_NAMES.legs_wortox_nature
+msgctxt "STRINGS.SKIN_NAMES.legs_wortox_nature"
+msgid "Wood Imp Haunches"
+msgstr "木质小恶魔双腿"
+
 #. STRINGS.SKIN_NAMES.legs_wortox_original
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_original"
 msgid "Forest Fawn Haunches"
@@ -247796,6 +248146,11 @@ msgctxt "STRINGS.SKIN_NAMES.lightning_rod_robot"
 msgid "Electrobolt Diffuser 300X"
 msgstr "避雷针300X"
 
+#. STRINGS.SKIN_NAMES.loading_axiomvisus_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_axiomvisus_trailer"
+msgid "Axiom Visus"
+msgstr "真实视野"
+
 #. STRINGS.SKIN_NAMES.loading_bearger_yule
 msgctxt "STRINGS.SKIN_NAMES.loading_bearger_yule"
 msgid "Grumpy Bearger"
@@ -247840,6 +248195,11 @@ msgstr "晃荡的眼睛"
 msgctxt "STRINGS.SKIN_NAMES.loading_dragonfly_yule"
 msgid "Winter's Feastfly"
 msgstr "冬季盛宴龙蝇"
+
+#. STRINGS.SKIN_NAMES.loading_eyeofthestorm_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_eyeofthestorm_trailer"
+msgid "Rumblings Above"
+msgstr "天空轰隆"
 
 #. STRINGS.SKIN_NAMES.loading_farming
 msgctxt "STRINGS.SKIN_NAMES.loading_farming"
@@ -247966,6 +248326,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_warly_trailer"
 msgid "Memories of Home"
 msgstr "家的回忆"
 
+#. STRINGS.SKIN_NAMES.loading_waterlogged_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_waterlogged_trailer"
+msgid "Waterlogged"
+msgstr "水中木"
+
 #. STRINGS.SKIN_NAMES.loading_webber
 msgctxt "STRINGS.SKIN_NAMES.loading_webber"
 msgid "Webber"
@@ -247975,6 +248340,11 @@ msgstr "韦伯"
 msgctxt "STRINGS.SKIN_NAMES.loading_webber_feast"
 msgid "Wrapping Webber"
 msgstr "包礼物的韦伯"
+
+#. STRINGS.SKIN_NAMES.loading_webber_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_webber_trailer"
+msgid "No Way Back"
+msgstr "已无后路"
 
 #. STRINGS.SKIN_NAMES.loading_wendy
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy"
@@ -248015,6 +248385,11 @@ msgstr "自我膨胀的想象"
 msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer2"
 msgid "Bearger"
 msgstr "熊獾"
+
+#. STRINGS.SKIN_NAMES.loading_wes_trailer3
+msgctxt "STRINGS.SKIN_NAMES.loading_wes_trailer3"
+msgid "C'est La Vie"
+msgstr "这就是生活"
 
 #. STRINGS.SKIN_NAMES.loading_wes_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wes_victorian"
@@ -248891,6 +249266,26 @@ msgctxt "STRINGS.SKIN_NAMES.pack_nature_all"
 msgid "Original Verdant Chest"
 msgstr "原创绿色箱子"
 
+#. STRINGS.SKIN_NAMES.pack_nature_all2
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_all2"
+msgid "Fresh Verdant Chest"
+msgstr "新鲜绿色箱子"
+
+#. STRINGS.SKIN_NAMES.pack_nature_bundle
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_bundle"
+msgid "Complete Verdant Chest"
+msgstr "全套绿色箱子"
+
+#. STRINGS.SKIN_NAMES.pack_nature_walter
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_walter"
+msgid "Walter Verdant Chest"
+msgstr "沃尔特绿色箱子"
+
+#. STRINGS.SKIN_NAMES.pack_nature_warly
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_warly"
+msgid "Warly Verdant Chest"
+msgstr "沃利绿色箱子"
+
 #. STRINGS.SKIN_NAMES.pack_nature_wathgrithr
 msgctxt "STRINGS.SKIN_NAMES.pack_nature_wathgrithr"
 msgid "Wigfrid Verdant Chest"
@@ -248900,6 +249295,16 @@ msgstr "薇格弗德绿色箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_nature_waxwell"
 msgid "Maxwell Verdant Chest"
 msgstr "麦斯威尔绿色箱子"
+
+#. STRINGS.SKIN_NAMES.pack_nature_webber
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_webber"
+msgid "Webber Verdant Chest"
+msgstr "韦伯绿色箱子"
+
+#. STRINGS.SKIN_NAMES.pack_nature_wendy
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_wendy"
+msgid "Wendy Verdant Chest"
+msgstr "温蒂绿色箱子"
 
 #. STRINGS.SKIN_NAMES.pack_nature_wes
 msgctxt "STRINGS.SKIN_NAMES.pack_nature_wes"
@@ -248916,6 +249321,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_nature_woodie"
 msgid "Woodie Verdant Chest"
 msgstr "伍迪绿色箱子"
 
+#. STRINGS.SKIN_NAMES.pack_nature_wortox
+msgctxt "STRINGS.SKIN_NAMES.pack_nature_wortox"
+msgid "Wortox Verdant Chest"
+msgstr "沃拓克斯绿色箱子"
+
 #. STRINGS.SKIN_NAMES.pack_nature_wx78
 msgctxt "STRINGS.SKIN_NAMES.pack_nature_wx78"
 msgid "WX-78 Verdant Chest"
@@ -248930,6 +249340,11 @@ msgstr "《缺氧》礼物"
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
 msgid "Don't Starve: Reign of Giants Gift"
 msgstr "饥荒《巨人国》礼物"
+
+#. STRINGS.SKIN_NAMES.pack_seaside_items
+msgctxt "STRINGS.SKIN_NAMES.pack_seaside_items"
+msgid "Seaside Chest"
+msgstr "海滨箱子"
 
 #. STRINGS.SKIN_NAMES.pack_spring_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_spring_bundle"
@@ -249571,6 +249986,26 @@ msgctxt "STRINGS.SKIN_NAMES.parasol_spring"
 msgid "Rosy Posy Parasol"
 msgstr "玫瑰阳伞"
 
+#. STRINGS.SKIN_NAMES.perdling_pelican
+msgctxt "STRINGS.SKIN_NAMES.perdling_pelican"
+msgid "Peliclet"
+msgstr "小鹈鹕"
+
+#. STRINGS.SKIN_NAMES.perdling_pelican_builder
+msgctxt "STRINGS.SKIN_NAMES.perdling_pelican_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_NAMES.perdling_puffin
+msgctxt "STRINGS.SKIN_NAMES.perdling_puffin"
+msgid "Pufflet"
+msgstr "小海鹦"
+
+#. STRINGS.SKIN_NAMES.perdling_puffin_builder
+msgctxt "STRINGS.SKIN_NAMES.perdling_puffin_builder"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_NAMES.perdling_rooster
 msgctxt "STRINGS.SKIN_NAMES.perdling_rooster"
 msgid "Rooslet"
@@ -249820,6 +250255,11 @@ msgstr "墓地背景"
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments"
 msgid "Hanging Horrors Portrait"
 msgstr "悬挂恐怖背景"
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_hambatnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_hambatnautical"
+msgid "Fishy Bat Portrait"
+msgstr "海鱼棒背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_heart1
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_heart1"
@@ -250450,6 +250890,11 @@ msgstr "糟糕的包装"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_goosemoose"
 msgid "Moose/Goose"
 msgstr "麋鹿鹅"
+
+#. STRINGS.SKIN_NAMES.profileflair_hambat_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_hambat_nautical"
+msgid "Fishy Bat"
+msgstr "海鱼棒"
 
 #. STRINGS.SKIN_NAMES.profileflair_heatrock_fire
 msgctxt "STRINGS.SKIN_NAMES.profileflair_heatrock_fire"
@@ -251426,6 +251871,11 @@ msgctxt "STRINGS.SKIN_NAMES.saltbox_victorian"
 msgid "Victorian Salt Box"
 msgstr "维多利亚盐罐"
 
+#. STRINGS.SKIN_NAMES.seafaring_prototyper_lighthouse
+msgctxt "STRINGS.SKIN_NAMES.seafaring_prototyper_lighthouse"
+msgid "Lighthouse Think Tank"
+msgstr "灯塔智囊团"
+
 #. STRINGS.SKIN_NAMES.seedpouch_rustic
 msgctxt "STRINGS.SKIN_NAMES.seedpouch_rustic"
 msgid "Homespun Seed Pouch"
@@ -251506,6 +251956,26 @@ msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_wrestle"
 msgid "Ultimate Spear"
 msgstr "终极长矛"
 
+#. STRINGS.SKIN_NAMES.stagehand_carpet
+msgctxt "STRINGS.SKIN_NAMES.stagehand_carpet"
+msgid "Austere Stagehand"
+msgstr "朴实舞台"
+
+#. STRINGS.SKIN_NAMES.stagehand_cawnival
+msgctxt "STRINGS.SKIN_NAMES.stagehand_cawnival"
+msgid "Cawnival Stagehand"
+msgstr "鸦年华舞台"
+
+#. STRINGS.SKIN_NAMES.stagehand_dragonfly
+msgctxt "STRINGS.SKIN_NAMES.stagehand_dragonfly"
+msgid "Dragonfly Stagehand"
+msgstr "龙蝇舞台"
+
+#. STRINGS.SKIN_NAMES.stagehand_vintage
+msgctxt "STRINGS.SKIN_NAMES.stagehand_vintage"
+msgid "Antique Stagehand"
+msgstr "古董舞台"
+
 #. STRINGS.SKIN_NAMES.starstaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.starstaff_crystal"
 msgid "Radiant Star Caller's Staff"
@@ -251526,6 +251996,16 @@ msgctxt "STRINGS.SKIN_NAMES.strawhat_floppy"
 msgid "Floppy Straw Hat"
 msgstr "松软稻草帽"
 
+#. STRINGS.SKIN_NAMES.supertacklecontainer_shell
+msgctxt "STRINGS.SKIN_NAMES.supertacklecontainer_shell"
+msgid "Shellacked Tackle Box"
+msgstr "贝壳钓具箱,"
+
+#. STRINGS.SKIN_NAMES.tacklecontainer_shell
+msgctxt "STRINGS.SKIN_NAMES.tacklecontainer_shell"
+msgid "Shellacked Spectackler Box"
+msgstr "贝壳超级钓具箱"
+
 #. STRINGS.SKIN_NAMES.telebase_crystal
 msgctxt "STRINGS.SKIN_NAMES.telebase_crystal"
 msgid "Sorcerer's Circle"
@@ -251535,6 +252015,11 @@ msgstr "巫师魔环"
 msgctxt "STRINGS.SKIN_NAMES.telestaff_crystal"
 msgid "Sorcerer's Staff"
 msgstr "巫师法杖"
+
+#. STRINGS.SKIN_NAMES.tent_beach
+msgctxt "STRINGS.SKIN_NAMES.tent_beach"
+msgid "Beach Tent"
+msgstr "海滩帐篷"
 
 #. STRINGS.SKIN_NAMES.tent_circus
 msgctxt "STRINGS.SKIN_NAMES.tent_circus"
@@ -251776,6 +252261,11 @@ msgctxt "STRINGS.SKIN_NAMES.walter_ice"
 msgid "The Snowfallen"
 msgstr "下雪"
 
+#. STRINGS.SKIN_NAMES.walter_nature
+msgctxt "STRINGS.SKIN_NAMES.walter_nature"
+msgid "The Verdant"
+msgstr "绿色系"
+
 #. STRINGS.SKIN_NAMES.walter_none
 msgctxt "STRINGS.SKIN_NAMES.walter_none"
 msgid "Walter"
@@ -251810,6 +252300,11 @@ msgstr "松树队长帽"
 msgctxt "STRINGS.SKIN_NAMES.walterhat_ice"
 msgid "Cozy Cap"
 msgstr "舒适帽"
+
+#. STRINGS.SKIN_NAMES.walterhat_nature
+msgctxt "STRINGS.SKIN_NAMES.walterhat_nature"
+msgid "Adventurer's Kerchief"
+msgstr "冒险家手帕"
 
 #. STRINGS.SKIN_NAMES.walterhat_survivor
 msgctxt "STRINGS.SKIN_NAMES.walterhat_survivor"
@@ -251865,6 +252360,11 @@ msgstr "渔夫"
 msgctxt "STRINGS.SKIN_NAMES.warly_ice"
 msgid "The Snowfallen"
 msgstr "下雪"
+
+#. STRINGS.SKIN_NAMES.warly_nature
+msgctxt "STRINGS.SKIN_NAMES.warly_nature"
+msgid "The Verdant"
+msgstr "绿色系"
 
 #. STRINGS.SKIN_NAMES.warly_none
 msgctxt "STRINGS.SKIN_NAMES.warly_none"
@@ -252136,6 +252636,11 @@ msgctxt "STRINGS.SKIN_NAMES.webber_beard_magma"
 msgid "Silky Magmatic Beard"
 msgstr "蛛丝岩浆胡须"
 
+#. STRINGS.SKIN_NAMES.webber_beard_nature
+msgctxt "STRINGS.SKIN_NAMES.webber_beard_nature"
+msgid "Silky Verdant Beard"
+msgstr "绿色蜘蛛丝胡须"
+
 #. STRINGS.SKIN_NAMES.webber_beard_punk
 msgctxt "STRINGS.SKIN_NAMES.webber_beard_punk"
 msgid "Silky Rebel Beard"
@@ -252205,6 +252710,11 @@ msgstr "下雪"
 msgctxt "STRINGS.SKIN_NAMES.webber_magma"
 msgid "The Magmatic"
 msgstr "岩浆"
+
+#. STRINGS.SKIN_NAMES.webber_nature
+msgctxt "STRINGS.SKIN_NAMES.webber_nature"
+msgid "The Verdant"
+msgstr "绿色系"
 
 #. STRINGS.SKIN_NAMES.webber_none
 msgctxt "STRINGS.SKIN_NAMES.webber_none"
@@ -252315,6 +252825,11 @@ msgstr "食人花温蒂之颅"
 msgctxt "STRINGS.SKIN_NAMES.wendy_magma"
 msgid "The Magmatic"
 msgstr "岩浆"
+
+#. STRINGS.SKIN_NAMES.wendy_nature
+msgctxt "STRINGS.SKIN_NAMES.wendy_nature"
+msgid "The Verdant"
+msgstr "绿色系"
 
 #. STRINGS.SKIN_NAMES.wendy_none
 msgctxt "STRINGS.SKIN_NAMES.wendy_none"
@@ -253196,6 +253711,11 @@ msgctxt "STRINGS.SKIN_NAMES.wortox_minotaur"
 msgid "The Minotaur"
 msgstr "牛头人"
 
+#. STRINGS.SKIN_NAMES.wortox_nature
+msgctxt "STRINGS.SKIN_NAMES.wortox_nature"
+msgid "The Verdant"
+msgstr "绿色系"
+
 #. STRINGS.SKIN_NAMES.wortox_none
 msgctxt "STRINGS.SKIN_NAMES.wortox_none"
 msgid "Essential Wortox"
@@ -253356,6 +253876,11 @@ msgctxt "STRINGS.SKIN_QUOTES.walter_ice"
 msgid "\"Brrr... it's a good thing you already have your own winter coat, Woby!\""
 msgstr "“哇……你已经有自己的冬季皮草了，沃比，真是件好事！”"
 
+#. STRINGS.SKIN_QUOTES.walter_nature
+msgctxt "STRINGS.SKIN_QUOTES.walter_nature"
+msgid "\"Every story needs a fearless adventurer and their trusty steed!\""
+msgstr "“每个故事都需要一个无畏的冒险家和他们值得信赖的坐骑！”"
+
 #. STRINGS.SKIN_QUOTES.walter_survivor
 msgctxt "STRINGS.SKIN_QUOTES.walter_survivor"
 msgid "\"I hope I don't lose any points for the state of my uniform.\""
@@ -253390,6 +253915,11 @@ msgstr "\"我只吃海鲜。\""
 msgctxt "STRINGS.SKIN_QUOTES.warly_ice"
 msgid "\"I'd say this look is best served cold.\""
 msgstr "“天气越冷，我这套装扮越是秀色可餐。”"
+
+#. STRINGS.SKIN_QUOTES.warly_nature
+msgctxt "STRINGS.SKIN_QUOTES.warly_nature"
+msgid "\"I only cook with natural ingredients.\""
+msgstr "“我只用天然材料烹饪。”"
 
 #. STRINGS.SKIN_QUOTES.warly_rose
 msgctxt "STRINGS.SKIN_QUOTES.warly_rose"
@@ -253636,6 +254166,11 @@ msgctxt "STRINGS.SKIN_QUOTES.webber_magma"
 msgid "\"We're like a walking volcano.\""
 msgstr "\"我们就像行走的火山。\""
 
+#. STRINGS.SKIN_QUOTES.webber_nature
+msgctxt "STRINGS.SKIN_QUOTES.webber_nature"
+msgid "\"Only the strongest spiders survive out here!\""
+msgstr "“在野外，只有最强壮的蜘蛛才能活下来！”"
+
 #. STRINGS.SKIN_QUOTES.webber_punk
 msgctxt "STRINGS.SKIN_QUOTES.webber_punk"
 msgid "\"Don't mess with us.\""
@@ -253740,6 +254275,11 @@ msgstr "\"太迷人了……\""
 msgctxt "STRINGS.SKIN_QUOTES.wendy_magma"
 msgid "\"My volcanic smoke shall encase the world in darkness.\""
 msgstr "\"我的火山灰会让这 世界笼罩在黑暗之中。\""
+
+#. STRINGS.SKIN_QUOTES.wendy_nature
+msgctxt "STRINGS.SKIN_QUOTES.wendy_nature"
+msgid "\"Do you believe in fairies? If you believe, clap your hands.\""
+msgstr "“你相信有仙女的存在吗？信的话，就拍拍手吧。”"
 
 #. STRINGS.SKIN_QUOTES.wendy_rose
 msgctxt "STRINGS.SKIN_QUOTES.wendy_rose"
@@ -254351,6 +254891,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wortox_minotaur"
 msgid "\"Won't you visit me at the heart of the labyrinth?\""
 msgstr "\"你会来迷宫中心看我吗?\""
 
+#. STRINGS.SKIN_QUOTES.wortox_nature
+msgctxt "STRINGS.SKIN_QUOTES.wortox_nature"
+msgid "\"Follow me into the forest deep, where impish sorts frolic and play!\""
+msgstr "“随我进入森林深处，那里有小恶魔在玩耍嬉戏。”"
+
 #. STRINGS.SKIN_QUOTES.wortox_original
 msgctxt "STRINGS.SKIN_QUOTES.wortox_original"
 msgid "\"Ol'Kramps says my powers should grow in soon. Hyuyu!\""
@@ -254760,6 +255305,11 @@ msgstr "促销系列"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE"
 msgid "Rose Collection"
 msgstr "玫瑰系列"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SEASIDE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SEASIDE"
+msgid "Seaside Collection"
+msgstr "海滨系列"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SHADOW
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SHADOW"
@@ -255281,6 +255831,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE"
 msgid "Science Machine"
 msgstr "科学机器"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO"
+msgid "Think Tank"
+msgstr "智囊团"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEEDPOUCH"
 msgid "Seed Pack-It"
@@ -255310,6 +255865,16 @@ msgstr "魔杖"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.STRAWHAT"
 msgid "Straw Hat"
 msgstr "草帽"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SUPERTACKLECONTAINER
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SUPERTACKLECONTAINER"
+msgid "Spectackler Box"
+msgstr "超级钓具箱"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TACKLECONTAINER
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TACKLECONTAINER"
+msgid "Tackle Box"
+msgstr "钓具箱"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TELEBASE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TELEBASE"
