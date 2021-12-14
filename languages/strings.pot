@@ -2978,11 +2978,6 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "This'd be easier if I had the item in front of me."
 msgstr ""
 
-#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.DANGER
-msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.DANGER"
-msgid "only_used_by_wolfang"
-msgstr ""
-
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.FULL
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.FULL"
 msgid "only_used_by_wolfang"
@@ -149148,11 +149143,6 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "Wolfgang no good at drawing pictures from head."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.DANGER
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.DANGER"
-msgid "Wolfgang can't think about lifting with scary things out!"
-msgstr ""
-
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.FULL"
 msgid "Is Wolfgang's turn for lifting now! Wait..."
@@ -276773,6 +276763,11 @@ msgctxt "STRINGS.TABS.SPIDERCRAFT"
 msgid "Spider Care"
 msgstr ""
 
+#. STRINGS.TABS.STRONGMAN
+msgctxt "STRINGS.TABS.STRONGMAN"
+msgid "Strongman"
+msgstr ""
+
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
 msgid "Survival"
@@ -285930,7 +285925,7 @@ msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
-msgid "October QoL\nBeta Build"
+msgid "Wolfgang\nBeta Build"
 msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
