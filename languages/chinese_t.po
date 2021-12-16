@@ -2981,11 +2981,6 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "This'd be easier if I had the item in front of me."
 msgstr "如果我面前有這東西，就比較容易了。"
 
-#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.DANGER
-msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.DANGER"
-msgid "only_used_by_wolfang"
-msgstr "only_used_by_wolfang"
-
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.FULL
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ENTER_GYM.FULL"
 msgid "only_used_by_wolfang"
@@ -149151,11 +149146,6 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "Wolfgang no good at drawing pictures from head."
 msgstr "沃爾夫岡不擅長從頭畫畫。"
 
-#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.DANGER
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.DANGER"
-msgid "Wolfgang can't think about lifting with scary things out!"
-msgstr "外面這麼多嚇人的東西，沃爾夫岡沒心思舉重！"
-
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ENTER_GYM.FULL"
 msgid "Is Wolfgang's turn for lifting now! Wait..."
@@ -258813,8 +258803,8 @@ msgstr "將你的頭像設置為柔和發光的鹽燈。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_lightningrodnautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_lightningrodnautical"
-msgid "Set your profile icon to a flashy Smite'ning Rod"
-msgstr "將你的頭像設為閃亮的懲戒避雷針"
+msgid "Set your profile icon to a flashy Smite'ning Rod."
+msgstr "將你的頭像設為閃亮的懲戒避雷針。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood"
@@ -259068,8 +259058,8 @@ msgstr "將你的頭像設為神秘的附魔水晶。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab3_monster
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab3_monster"
-msgid "Set your profile icon to the Monstrous Horror"
-msgstr "將你的角色圖示設為恐怖怪獸"
+msgid "Set your profile icon to the Monstrous Horror."
+msgstr "將你的角色圖示設為恐怖怪獸。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab_green
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab_green"
@@ -259563,7 +259553,7 @@ msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.rabbithouse_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.rabbithouse_carrat"
-msgid "A cozy abode fashioned after the adorable Carrat."
+msgid "A cozy abode fashioned after the adorable carrat."
 msgstr "可愛胡蘿蔔鼠風格的舒適居所。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.rabbithouse_yule
@@ -260023,12 +260013,12 @@ msgstr "真金火煉的姐妹情的象徵。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat"
-msgid "A torch made in honor of the clever Carrat."
+msgid "A torch made in honor of the clever carrat."
 msgstr "以胡蘿蔔鼠的榮譽打造的火炬。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt"
-msgid "A torch made in honor of the clever Carrat."
+msgid "A torch made in honor of the clever carrat."
 msgstr "以胡蘿蔔鼠的榮譽打造的火炬。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_pillar
@@ -277446,6 +277436,11 @@ msgctxt "STRINGS.TABS.SPIDERCRAFT"
 msgid "Spider Care"
 msgstr "蜘蛛護理"
 
+#. STRINGS.TABS.STRONGMAN
+msgctxt "STRINGS.TABS.STRONGMAN"
+msgid "Strongman"
+msgstr "強人"
+
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
 msgid "Survival"
@@ -285539,7 +285534,7 @@ msgstr "拿取"
 #. STRINGS.UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon
 msgctxt "STRINGS.UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.catcoon"
 msgid "A Catcoon"
-msgstr "浣熊貓"
+msgstr "浣貓"
 
 #. STRINGS.UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking
 msgctxt "STRINGS.UI.HUD.TROPHYSCALE_PREFAB_OVERRIDE_OWNER.crabking"
@@ -286603,8 +286598,8 @@ msgstr "退出"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
-msgid "October QoL\nBeta Build"
-msgstr "十月生活品質\n測試版本"
+msgid "Wolfgang\nBeta Build"
+msgstr "沃爾夫岡\n測試版本"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
