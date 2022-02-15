@@ -244768,6 +244768,11 @@ msgctxt "STRINGS.NAMES.MASTUPGRADE_LAMP_ITEM"
 msgid "Deck Illuminator"
 msgstr ""
 
+#. STRINGS.NAMES.MASTUPGRADE_LIGHTNINGROD
+msgctxt "STRINGS.NAMES.MASTUPGRADE_LIGHTNINGROD"
+msgid "Lightning Conductor"
+msgstr ""
+
 #. STRINGS.NAMES.MASTUPGRADE_LIGHTNINGROD_ITEM
 msgctxt "STRINGS.NAMES.MASTUPGRADE_LIGHTNINGROD_ITEM"
 msgid "Lightning Conductor"
@@ -266345,7 +266350,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorianitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorianitem"
-msgid "Stately and resplendent, like the moon itself."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thulecite
@@ -266355,7 +266360,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thuleciteitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thuleciteitem"
-msgid "Remnants of an Ancient civilization, before it fell to ruin."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_victorian
@@ -266365,7 +266370,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_victorianitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_ruins_victorianitem"
-msgid "Antique meets archaeological."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancient
@@ -266375,7 +266380,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancientitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancientitem"
-msgid "Crumbling stonework from a time long past."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_stone_victorian
@@ -266385,7 +266390,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_stone_victorianitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_victorianitem"
-msgid "Once an elegant pillar, now neglected and overgrown."
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_blue
@@ -286890,12 +286895,12 @@ msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.64
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.64"
-msgid "Toggle Say"
+msgid "Global Chat"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.65
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.65"
-msgid "Toggle Whisper"
+msgid "Whisper Chat"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.66
@@ -287618,6 +287623,26 @@ msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.99"
 msgid "C"
 msgstr ""
 
+#. STRINGS.UI.CONTROLSSCREEN.INPUTS.10.0
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.10.0"
+msgid "Unknown"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUTS.10.1
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.10.1"
+msgid "Unknown"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUTS.10.2
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.10.2"
+msgid " - No Bind - "
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUTS.11.0
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.11.0"
+msgid "Unknown"
+msgstr ""
+
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.0
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.0"
 msgid "Unknown"
@@ -287768,11 +287793,6 @@ msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.8.0"
 msgid "Unknown"
 msgstr ""
 
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.9.0
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.9.0"
-msgid "Unknown"
-msgstr ""
-
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.9.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.9.1"
 msgid "Unknown"
@@ -287786,6 +287806,16 @@ msgstr ""
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.1"
 msgid "Keyboard/Mouse"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.10
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.10"
+msgid "Switch Controller"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.11
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.11"
+msgid "Steam Deck"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2
