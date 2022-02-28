@@ -948,6 +948,46 @@ msgctxt "STRINGS.ACTIONS.OCEAN_TOSS"
 msgid "Toss"
 msgstr ""
 
+#. STRINGS.ACTIONS.OPEN_CRAFTING.COOKING
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.COOKING"
+msgid "Cook with"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.CRITTERS
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.CRITTERS"
+msgid "Look in"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.EXPERIEMENT
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.EXPERIEMENT"
+msgid "Brew with"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.GENERIC
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.GENERIC"
+msgid "Research at"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.OFFERING
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.OFFERING"
+msgid "Make offering at"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.READ
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.READ"
+msgid "Read"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.TRADE
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.TRADE"
+msgid "Trade with"
+msgstr ""
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.USE
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.USE"
+msgid "Use"
+msgstr ""
+
 #. STRINGS.ACTIONS.PET
 msgctxt "STRINGS.ACTIONS.PET"
 msgid "Pet"
@@ -3321,6 +3361,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.OCEAN_FISHING_POND.WRONGGEAR
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.OCEAN_FISHING_POND.WRONGGEAR"
 msgid "This rod wasn't made for pond fishing."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.OPEN_CRAFTING.PROFESSIONALCHEF
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.OPEN_CRAFTING.PROFESSIONALCHEF"
+msgid "I'm not a fancy enough chef for that."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.OPEN_CRAFTING.SHADOWMAGIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.OPEN_CRAFTING.SHADOWMAGIC"
+msgid "I shouldn't touch that. (todo)"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PICKUP.INUSE
@@ -7851,6 +7901,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "It's worth its weight in gold."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUMBBELL_MARBLE"
+msgid "I've trained my brain to be the strongest muscle in my body."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DURIAN
@@ -21536,6 +21591,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "Uh, m-maybe I should start with something a bit lighter."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUMBBELL_MARBLE"
+msgid "Oh... when he said it was made of marble, I kind of hoped he meant the tiny ones."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DURIAN
@@ -35323,6 +35383,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "What a dreadfully repetitive way to spend one's time."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUMBBELL_MARBLE"
+msgid "What a dreadfully repetitive way to spend one's time."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DURIAN"
 msgid "I could never forget a smell like that."
@@ -48998,6 +49063,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "All of my arm strength comes from whisking egg whites."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUMBBELL_MARBLE"
+msgid "All of my arm strength comes from whisking egg whites."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN"
 msgid "That odor..."
@@ -61836,6 +61906,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "He hath strength, next we must work on his bravery!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUMBBELL_MARBLE"
+msgid "Train well my friend, and join me in glorious battle!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DURIAN
@@ -75405,6 +75480,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUMBBELL_GOLDEN"
+msgid "It's not that impressive."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUMBBELL_MARBLE"
 msgid "It's not that impressive."
 msgstr ""
 
@@ -89005,6 +89085,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUMBBELL_GOLDEN"
+msgid "It looks so easy when Mr. Wolfgang does it..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUMBBELL_MARBLE"
 msgid "It looks so easy when Mr. Wolfgang does it..."
 msgstr ""
 
@@ -102643,6 +102728,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "It's almost as heavy as my heart."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUMBBELL_MARBLE"
+msgid "We all carry a great weight. His seems... a bit more literal, though."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DURIAN"
 msgid "Spiky and smelly!"
@@ -116220,6 +116310,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUMBBELL_GOLDEN"
+msgid "A bit of exercise can be quite beneficial to one's health."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUMBBELL_MARBLE"
 msgid "A bit of exercise can be quite beneficial to one's health."
 msgstr ""
 
@@ -129820,6 +129915,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUMBBELL_GOLDEN"
+msgid "Did he really need to make it so fancy?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUMBBELL_MARBLE"
 msgid "Did he really need to make it so fancy?"
 msgstr ""
 
@@ -143445,6 +143545,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUMBBELL_GOLDEN"
+msgid "Awful fancy for something you just pick up and put down over and over."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUMBBELL_MARBLE"
 msgid "Awful fancy for something you just pick up and put down over and over."
 msgstr ""
 
@@ -157093,6 +157198,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "Lift! Lift to get strong!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUMBBELL_MARBLE"
+msgid "Wolfgang will be strongest!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DURIAN"
 msgid "Is spiky smelly fruit."
@@ -170665,6 +170775,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUMBBELL_GOLDEN"
+msgid "I'll stick to lifting my axe."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUMBBELL_MARBLE"
 msgid "I'll stick to lifting my axe."
 msgstr ""
 
@@ -184281,6 +184396,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "Heavy!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUMBBELL_MARBLE"
+msgid "Heaaavy rocks"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DURIAN
@@ -197921,6 +198041,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUMBBELL_GOLDEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "It's neither dumb, nor a bell. Mortals are strange, indeed."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUMBBELL_MARBLE"
+msgid "Marbellous, simply marbellous!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DURIAN
@@ -211578,6 +211703,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "Muscly mustache man leave rocks everywhere."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUMBBELL_MARBLE"
+msgid "Muscly mustache man leave rocks everywhere."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DURIAN"
 msgid "Mmm... smell a bit like swamp!"
@@ -225168,6 +225298,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUMBBELL_GOLDEN"
 msgid "MINION UPGRADE EQUIPMENT"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUMBBELL_MARBLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUMBBELL_MARBLE"
+msgid "MINION UPGRADE EQUIPMENT"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DURIAN"
 msgid "GOOD THING I LACK A NOSE"
@@ -234570,7 +234705,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_BIOS.willow.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.willow.3.desc"
-msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all. Even as a child, Willow seemed to possess a knack for attracting bad luck. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she soon found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
+msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
 msgstr ""
 
 #. STRINGS.CHARACTER_BIOS.willow.3.title
@@ -242643,6 +242778,11 @@ msgctxt "STRINGS.NAMES.DUMBBELL_GOLDEN"
 msgid "Golden Dumbbell"
 msgstr ""
 
+#. STRINGS.NAMES.DUMBBELL_MARBLE
+msgctxt "STRINGS.NAMES.DUMBBELL_MARBLE"
+msgid "Marbell"
+msgstr ""
+
 #. STRINGS.NAMES.DURIAN
 msgctxt "STRINGS.NAMES.DURIAN"
 msgid "Durian"
@@ -247861,6 +248001,11 @@ msgstr ""
 #. STRINGS.NAMES.RUINS_BAT
 msgctxt "STRINGS.NAMES.RUINS_BAT"
 msgid "Thulecite Club"
+msgstr ""
+
+#. STRINGS.NAMES.RUINS_CAVEIN_OBSTACLE
+msgctxt "STRINGS.NAMES.RUINS_CAVEIN_OBSTACLE"
+msgid "Blocky Ruins"
 msgstr ""
 
 #. STRINGS.NAMES.RUINS_RUBBLE
@@ -253206,6 +253351,11 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.DUMBBELL_GOLDEN
 msgctxt "STRINGS.RECIPE_DESC.DUMBBELL_GOLDEN"
 msgid "The gold standard of weightlifting."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.DUMBBELL_MARBLE
+msgctxt "STRINGS.RECIPE_DESC.DUMBBELL_MARBLE"
+msgid "A quick way to a chiseled physique."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.EARMUFFSHAT
@@ -288428,9 +288578,19 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE"
 msgid "Use a science machine to build a prototype!"
 msgstr ""
 
+#. STRINGS.UI.CRAFTING.NEEDSFISHING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSFISHING"
+msgid "Use a Tackle Receptacle to build a prototype!"
+msgstr ""
+
 #. STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR"
 msgid "Use a shadow manipulator to build a prototype!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSSEAFARING_STATION
+msgctxt "STRINGS.UI.CRAFTING.NEEDSSEAFARING_STATION"
+msgid "Use a Think Tank to build a prototype!"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSSPIDERFRIENDSHIP
@@ -288456,6 +288616,46 @@ msgstr ""
 #. STRINGS.UI.CRAFTING.PROTOTYPE
 msgctxt "STRINGS.UI.CRAFTING.PROTOTYPE"
 msgid "Prototype"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP"
+msgid "Purchase"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_PRIZESHOP
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_PRIZESHOP"
+msgid "Purchase"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.CARTOGRAPHY
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.CARTOGRAPHY"
+msgid "Scribe"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.COOK
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.COOK"
+msgid "Cook"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE"
+msgid "Mix"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.ORPHANAGE
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.PERDOFFERING
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.PERDOFFERING"
+msgid "Offer"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.SCULPTING
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.SCULPTING"
+msgid "Create"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.RECIPEACTION.SOCKET
@@ -288561,6 +288761,221 @@ msgstr ""
 #. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM
 msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM"
 msgid "Earn coins to trade!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.ARMOUR
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.ARMOUR"
+msgid "Armour"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.CHARACTER
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CHARACTER"
+msgid "Character Items"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.CLOTHING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CLOTHING"
+msgid "Clothing"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.CONTAINERS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CONTAINERS"
+msgid "Storage Solutions"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.COOKING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.COOKING"
+msgid "Cooking"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.CRAFTING_STATION
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CRAFTING_STATION"
+msgid "All Crafting Stations"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.DECOR
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.DECOR"
+msgid "Decorations"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.EVERYTHING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.EVERYTHING"
+msgid "Everything"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.FAVORITES
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.FAVORITES"
+msgid "Favorites"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.FISHING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.FISHING"
+msgid "Fishing"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.GARDENING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.GARDENING"
+msgid "Food & Gardening"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.LIGHT
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.LIGHT"
+msgid "Light Sources"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.MAGIC
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.MAGIC"
+msgid "Shadow Magic"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.MODS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.MODS"
+msgid "Modded Items"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.PROTOTYPERS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.PROTOTYPERS"
+msgid "Prototypers & Stations"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.RAIN
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.RAIN"
+msgid "Rain Gear"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.REFINE
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.REFINE"
+msgid "Refined Materials"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.RESTORATION
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.RESTORATION"
+msgid "Healing"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.RIDING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.RIDING"
+msgid "Beefalo Riding"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.SEAFARING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.SEAFARING"
+msgid "Seafaring"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.SPECIAL_EVENT
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.SPECIAL_EVENT"
+msgid "Special Event"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.STRUCTURES
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.STRUCTURES"
+msgid "Structures"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.SUMMER
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.SUMMER"
+msgid "Summer Items"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.TOOLS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.TOOLS"
+msgid "Tools"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.WEAPONS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.WEAPONS"
+msgid "Weapons"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_FILTERS.WINTER
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.WINTER"
+msgid "Winter Items"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.CRAFTABLE
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.CRAFTABLE"
+msgid "Craftable"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.DEFAULT
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.DEFAULT"
+msgid "Default"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.NAME
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.NAME"
+msgid "Alphabetical"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.SORT_MODE_FMT
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.ANCIENT
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.ANCIENT"
+msgid "Ancient Pseudoscience"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"
+msgid "Cawnival Creation"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP"
+msgid "Trinket Trove"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY"
+msgid "Cartography"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CELESTIAL
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CELESTIAL"
+msgid "Celestial"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.FOODPROCESSING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.FOODPROCESSING"
+msgid "Seasonings"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP"
+msgid "Bottle Exchange"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.MADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.MADSCIENCE"
+msgid "Mad Science"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.ORPHANAGE
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.ORPHANAGE"
+msgid "Critters"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.SCULPTING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.SCULPTING"
+msgid "Sculptures"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.SHADOW
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.SHADOW"
+msgid "Codex Umbra"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING"
+msgid "Winter's Feast Cooking"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING"
+msgid "Offerings"
 msgstr ""
 
 #. STRINGS.UI.CREDITS.ALTGAMES.NAMES.1
@@ -290256,6 +290671,11 @@ msgstr ""
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.REVERTCHANGES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REVERTCHANGES"
 msgid "Revert Changes"
+msgstr ""
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROADS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROADS"
+msgid "Roads"
 msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK
@@ -292406,6 +292826,281 @@ msgstr ""
 #. STRINGS.UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE
 msgctxt "STRINGS.UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE"
 msgid "The Forge"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_BIND_CONTROLS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_BIND_CONTROLS"
+msgid "Play with Controls Settings in the Options Menu to fit your control needs."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE"
+msgid "Access the Server Commands menu from the Pause Screen to start votes or roll a dice."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DISABLE_TIPS"
+msgid "Is your mind already bursting with secret knowledge? You can turn off Loading Tips anytime in the Options menu."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE"
+msgid "When creating a new world, switch the Game Mode to Endless to allow you and your friends to revive themselves at the Florid Postern."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION"
+msgid "Hold {action} to automatically pick up nearby items and perform actions. Just make sure you're holding the right tool for the job!"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
+msgid "Hold {inspect} to inspect the world around you."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_PLAYER_STATUS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_PLAYER_STATUS"
+msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK"
+msgid "Server hosts can roll back one day or regenerate the world by accessing the Server Commands menu in the Pause Screen."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROTATE_CAMERA"
+msgid "Press {rotateleft} & {rotateright} to rotate your view of the world."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_SHOW_MAP"
+msgid "Press {map} to take a quick glance at your map."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_VIGNETTES"
+msgid "Customize your loading screens in the Vignette section of the Curio Cabinet if you're looking for a little change of scenery."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_WORLDGEN"
+msgid "Meddle with World Gen settings in the Options menu to shape a world to your liking."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK"
+msgid "Hold {attack} to attack enemies."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT"
+msgid "Press {chat} to talk to other players. If you wish to speak privately, press {whisper} to whisper to someone."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_DROP_ITEMS"
+msgid "Hold {modifier} and {secondary} to quick drop items from your inventory."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_FORCE_ATTACK"
+msgid "Hold {modifier} + {attack} to attack anything that looks at you sideways, even friends."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HALF_STACK"
+msgid "Hold {modifier} and {primary} on stacks of items in your inventory to quickly grab half the stack."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_HOLD_MOUSE"
+msgid "Hold down {primary} to automatically harvest nearby items or attack, whatever suits your fancy!"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INSPECT_SELF"
+msgid "Press {inspectself} to take a look at which item and character skins you are using."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS"
+msgid "Press {inv_0}-{inv_9} to quickly use items carried in your main inventory."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE"
+msgid "In the Constant, the darkness has a name. Have you met Charlie yet?"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_PAST"
+msgid "Maxwell (née William Carter) was once nothing more than a humble stage magician, until the discovery of a mysterious tome changed the course of his life forever."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_MAXWELL_SURVIVORS"
+msgid "Once the King of the Nightmare Throne, Maxwell now finds himself surviving alongside the very people he once tormented. Needless to say, it makes for a bit of an... awkward atmosphere."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_TIME"
+msgid "Time moves differently in the Constant. Instead of a monotonous forward march, seconds and eternities seem to throw caution to the wind and do-si-do backwards and forwards as they please."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WALTER"
+msgid "Walter's time in the Pinetree Pioneers has made him more prepared than most for surviving in the wilderness. Unfortunately, this is undermined somewhat by his blind fascination with monsters."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WARNING"
+msgid "\"Nothing here is what it seems. If you're reading this, keep an eye on the rabbits, don't trust the statues, and don't mistake that thing hanging in the night sky for the moon...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WEBBER"
+msgid "Once upon a time, a little boy was swallowed up whole by a big hungry spider. Now they share everything; a body, a mind, and the name Webber."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY"
+msgid "Nothing could ever come between Wendy and her twin sister Abigail. Some bonds transcend even death."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM"
+msgid "Wickerbottom is of the firm belief that the pen is mightier than the sword. Words hold great power when used correctly."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WILLOW"
+msgid "Nothing brings Willow more comfort than snuggling her faithful teddy bear Bernie, and committing a playful bit of arson."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WILSON_UNI"
+msgid "Wilson chose the path of an independent Gentleman Scientist after finding the university environment to be too stifling for a man of his ambitions. (The enormous bill the university sent him to pay for repairs to the chemistry lab had absolutely nothing to do with this.)"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WINONA_CHARLIE"
+msgid "Growing up, Winona always looked out for her younger sister. Even now, she can't help but feel that one day she'll be able to reach out into the darkness and pull Charlie back."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE
+msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE"
+msgid "Even with all the steps Woodie has taken to control his were-curse, there's little that can be done on nights when the moon is at its fullest."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_BERRYLURE
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_BERRYLURE"
+msgid "\"Last time I baited my hook with berries I caught more fish than I could carry, but when I tried today? Barely a nibble! Guess the berry trick only works on some of 'em.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_CAVES
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_CAVES"
+msgid "\"I finally worked up the courage to explore the underground caverns. To my surprise, I found there was ample light provided by a most curious glowing plant that seems to grow naturally throughout the cave system. I've harvested some bulbs for further study.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_CHARCOAL
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_CHARCOAL"
+msgid "\"You know what they say, you can't get charcoal without burning down a few trees!\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_COBBLEDROAD
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_COBBLEDROAD"
+msgid "\"Today I was surprised to come upon a cobbled road - how did this hallmark of civilization come to be in this untamed wilderness?\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_COMPASS
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_COMPASS"
+msgid "\"I experimented with making a rudimentary compass and discovered that this place does in fact seem to have a magnetic North. Curiously, it also pointed out the positions of my fellow camp mates who, as it turned out, had already crafted similar compasses of their own.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_COOKBOOK
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_COOKBOOK"
+msgid "\"Once I've perfected a recipe, I find it helpful to write it down. Luckily, I've been able to cobble together a rough cookbook for just such a thing out of some spare pieces of parchment. Now my mind is free to worry about more immediate things...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_DARKNESS
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_DARKNESS"
+msgid "\"They say the Shadow Queen herself comes at night to snatch up anyone foolish enough to wander in the dark...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_DIRT_PILE
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_DIRT_PILE"
+msgid "\"I stumbled upon a rather suspicious mound of dirt... perhaps it was left by a creature of some sort? This may require further investigation...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_FLARE
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_FLARE"
+msgid "\"A flare was sent up from the forest last night. I know I should have set out immediately to help, but... well... I suppose I hesitated too long by the comforting glow of my campfire, and before I knew it the flare had faded from view. I do hope whoever it was is alright...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_GARDENEERHAT
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_GARDENEERHAT"
+msgid "\"I've finally perfected my design for an ingenious (if I do say so myself) device that stores important garden-based knowledge. Certain naysayers might point out that it looks like nothing more than an overturned flowerpot worn on the head... some people simply don't have an eye for science.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_HEAT
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_HEAT"
+msgid "\"Blast this heat! Where's a nice, chilled drink when you need it?\" -M"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NAUGHTINESS
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NAUGHTINESS"
+msgid "\"We shouldn't hurt things that don't hurt us. If we're mean, bad old Mr. Krampus will come...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NEWRECIPES
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NEWRECIPES"
+msgid "\"Recipes are useful, but a true chef knows the importance of experimenting with new ingredients and flavors, and this world certainly provides an abundance of unusual things to choose from.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_OCEANEXPLORATION
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_OCEANEXPLORATION"
+msgid "\"What strange new islands and creatures might I encounter if I journey out to sea? I shudder to think... but curiosity has a tendency to get the better of me...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_PIG_AND_MONSTERS
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_PIG_AND_MONSTERS"
+msgid "\"The Pig men seem to harbor a deep dislike for the Constant's more monstrous denizens, attacking them on sight. While I personally can't blame them, it does pose a bit of a problem for some of my compatriots...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_REPLANTING
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_REPLANTING"
+msgid "\"The bushes I replanted by the camp are looking sickly... I suspect they'll require some extra care before they can produce any berries again.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_REVIVE
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_REVIVE"
+msgid "\"We nearly lost one of our number today. In a mad daze I created... something... that managed to pull our friend back to the land of the living, but... whatever it was, I fear I cannot rightfully say it was within the realm of science...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_RUN_AWAY
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_RUN_AWAY"
+msgid "\"It turns out that Koalephants are a bit hardier than I expected. I (quite sensibly) decided to take a... strategic retreat until I'm better prepared.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_SANITY
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_SANITY"
+msgid "\"I fear I may no longer be able to trust my own eyes. I've been catching glimpses of strange shadowy forms at the edges of my vision with increasing frequency... surely they can't really be there?\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_SCIENCE_MACHINE
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_SCIENCE_MACHINE"
+msgid "\"I find myself returning more and more frequently to my magnificent science machine, busying myself with prototyping new tools to aid in our survival. After all, I must do something to keep myself sane in this strange place...\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_TREEGUARD
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_TREEGUARD"
+msgid "\"Could've sworn I saw one of the trees movin' when I was out choppin' firewood... must've been a trick of the light.\" -W"
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_WETNESS
+msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_WETNESS"
+msgid "\"The rain is proving to be a greater hindrance than I first anticipated. As if being soaked to the bone isn't dreadful enough, my tools keep slipping from my hands when I try to make use of them!\" -W"
 msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.APPLY
@@ -295718,6 +296413,11 @@ msgctxt "STRINGS.UI.OPTIONS.DEFAULT"
 msgid "Default"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.DEFAULTCLOUDSAVES
+msgctxt "STRINGS.UI.OPTIONS.DEFAULTCLOUDSAVES"
+msgid "Default Save Type:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.DIM
 msgctxt "STRINGS.UI.OPTIONS.DIM"
 msgid "Dim"
@@ -295836,6 +296536,36 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.LANG_TITLE
 msgctxt "STRINGS.UI.OPTIONS.LANG_TITLE"
 msgid "Language Options"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.LOADING_TIPS
+msgctxt "STRINGS.UI.OPTIONS.LOADING_TIPS"
+msgid "Loading Tips"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.LOADING_TIPS_LORE_ONLY
+msgctxt "STRINGS.UI.OPTIONS.LOADING_TIPS_LORE_ONLY"
+msgid "Lore Only"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.LOADING_TIPS_SHOW_ALL
+msgctxt "STRINGS.UI.OPTIONS.LOADING_TIPS_SHOW_ALL"
+msgid "All"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.LOADING_TIPS_SHOW_NONE
+msgctxt "STRINGS.UI.OPTIONS.LOADING_TIPS_SHOW_NONE"
+msgid "None"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.LOADING_TIPS_TIPS_ONLY
+msgctxt "STRINGS.UI.OPTIONS.LOADING_TIPS_TIPS_ONLY"
+msgid "Tips Only"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.LOCAL_SAVES
+msgctxt "STRINGS.UI.OPTIONS.LOCAL_SAVES"
+msgid "Local Files"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.MORE
@@ -295973,6 +296703,11 @@ msgctxt "STRINGS.UI.OPTIONS.SNAPSHOTS"
 msgid "Server Snapshots"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.STEAM_CLOUD_SAVES
+msgctxt "STRINGS.UI.OPTIONS.STEAM_CLOUD_SAVES"
+msgid "Steam Cloud"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.TARGETLOCKING
 msgctxt "STRINGS.UI.OPTIONS.TARGETLOCKING"
 msgid "Target Locking:"
@@ -295980,7 +296715,7 @@ msgstr ""
 
 #. STRINGS.UI.OPTIONS.TEXTURESTREAMING
 msgctxt "STRINGS.UI.OPTIONS.TEXTURESTREAMING"
-msgid "Texture Streaming"
+msgid "Texture Streaming:"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.THREADEDRENDER
@@ -295993,44 +296728,229 @@ msgctxt "STRINGS.UI.OPTIONS.TITLE"
 msgid "Game Options"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_ADVANCED
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_ADVANCED"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.ADVANCED
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.ADVANCED"
 msgid "Modify advanced features of the game and user interface"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.AMBIENT
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.AMBIENT"
+msgid "The environment makes noise too, luckily you can control how loudly it does."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.ANIMATED_HEADS"
+msgid "Animates the survivor's heads in the menus."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.AUTOLOGIN
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.AUTOLOGIN"
+msgid "Log into your Klei account automatically when booting up Don't Starve Together."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.AUTOMODS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.AUTOMODS"
+msgid "Keep up to date with the mods of all the servers you join."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.AUTOPAUSE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.AUTOPAUSE"
+msgid "When you are the only player in the world, this will pause the game while you are in the ingame menus, crafting, or viewing the cookbook or plant registry. If there are other players in the world, only the server admin will have permissions to pause the game."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.BACKPACKMODE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.BACKPACKMODE"
+msgid "Change how the contents of the backpack are displayed. Integrated with the inventory bar or separated at the side of the screen."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.BLOOM
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.BLOOM"
+msgid "Increases the visual intensity of lights."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.BOATCAMERA
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.BOATCAMERA"
+msgid "Allows the camera to focus on your boat while sailing."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CINEMATICS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CINEMATICS"
 msgid "Sit back and watch a video"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_CONTROLS
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_CONTROLS"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE"
+msgid "Allows the server to auto-pause while the console screen is open."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS"
 msgid "Rebind which input does which in-game action"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_CONTROLS_CONSOLE
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_CONTROLS_CONSOLE"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS_CONSOLE"
 msgid "Check which control does which in-game action"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_GRAPHICS
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_GRAPHICS"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.DATACOLLECTION
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DATACOLLECTION"
+msgid "We collect metrics and telemetry on Don't Starve Together, including how long and how often you play. This information helps us troubleshoot the game, provide rewards, and improve your experience. Refer to https://www.klei.com/privacy-policy for more information."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES"
+msgid "Chooses whether new saves will be stored in the cloud or not by default."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAY"
+msgid "Got multiple screens? We've got you covered, choose where the game window goes when playing the game. (Fullscreen only)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAYAREA
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAYAREA"
+msgid "Maximize the screen size on your display."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.DISTORTION
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DISTORTION"
+msgid "Allows you to turn off screen distortions in the game, especially notable during moments of insanity."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS"
+msgid "Renders the ground shadow while under a canopy."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.FULLSCREEN
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.FULLSCREEN"
+msgid "Fill your screen with Don't Starve Together."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.FX
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.FX"
+msgid "Change how loud things are in the world."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.GRAPHICS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.GRAPHICS"
 msgid "Modify the graphics settings"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_LANGUAGES
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_LANGUAGES"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.HUDSIZE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.HUDSIZE"
+msgid "Customize the size of your Heads Up Display."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.INPUT
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INPUT"
+msgid "Controller or Keyboard? Play Don't Starve Together your way."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES"
 msgid "Select display language"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_MORE
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_MORE"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.LOADING_TIPS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.LOADING_TIPS"
+msgid "Learn more about the lore and the gameplay of Don't Starve while your world loads."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.MORE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.MORE"
 msgid "View additional options"
 msgstr ""
 
-#. STRINGS.UI.OPTIONS.TOOLTIP_SETTINGS
-msgctxt "STRINGS.UI.OPTIONS.TOOLTIP_SETTINGS"
+#. STRINGS.UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.MOVEMENTPREDICTION"
+msgid "Allows the game to predict your movements to compensate for any possible lag."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.MUSIC
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.MUSIC"
+msgid "Tone up or down the musical fanfare in your adventures."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.NETBOOKMODE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.NETBOOKMODE"
+msgid "Reduces the game's update frequency. (Only recommended for min-spec computers)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.REFRESHRATE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.REFRESHRATE"
+msgid "Customize how many times per second the game screen refreshes. (Fullscreen only)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.RESOLUTION
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.RESOLUTION"
+msgid "Change the game screen resolution. (Fullscreen only)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SCREENSHAKE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCREENSHAKE"
+msgid "Keep your camera static or allow it to shake freely in moments of high intensity."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY"
+msgid "Control the intensity of screen flashes during explosions and lightning strikes."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER"
+msgid "Use Steam's chat filters. This can be configured in Steam's setting in the section In-Game under Chat Filtering."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_FILTER"
+msgid "Filter out the profanity when browsing the server list. Filtered servers will have their names displayed as \"This server name has been filtered\" and can still be joined."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SETTINGS
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SETTINGS"
 msgid "Modify features of the game and user interface"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SHOWPASSWORD
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SHOWPASSWORD"
+msgid "Show or hide your passwords."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SMALLTEXTURES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SMALLTEXTURES"
+msgid "Reduces texture quality for better performance. (Only recommended for min-spec computers)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.TARGETLOCKING
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.TARGETLOCKING"
+msgid "Focus on one target at a time."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING"
+msgid "Reduces the memory overhead for textures. Enabling this should improve performance."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.THREADEDRENDER
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.THREADEDRENDER"
+msgid "Renders the game on a different core. Enabling this should improve performance."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION"
+msgid "Make your controller rumble at key gameplay moments."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.WALTERCAMERA
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.WALTERCAMERA"
+msgid "Allows the camera to focus on Walter while he tells campfire stories."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.WATHGRITHRFONT"
+msgid "Replaces Wigfrid's o's with ö's when she speaks."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.VIBRATION
@@ -298260,7 +299180,7 @@ msgstr ""
 
 #. STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
 msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST"
-msgid "Winters Feast"
+msgid "Winter's Feast"
 msgstr ""
 
 #. STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTB
@@ -298718,6 +299638,11 @@ msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CLAN_OPEN"
 msgid "Open"
 msgstr ""
 
+#. STRINGS.UI.SERVERCREATIONSCREEN.CLONE
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CLONE"
+msgid "Duplicate World"
+msgstr ""
+
 #. STRINGS.UI.SERVERCREATIONSCREEN.CLUSTERSLOT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CLUSTERSLOT"
 msgid "Save Folder"
@@ -298726,6 +299651,31 @@ msgstr ""
 #. STRINGS.UI.SERVERCREATIONSCREEN.CONTINUE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONTINUE"
 msgid "Continue"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERTCLOUDTOLOCAL"
+msgid "Convert To Local Save"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERTLOCALTOCLOUD"
+msgid "Convert To Cloud Save"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_CLOUD
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_CLOUD"
+msgid "cloud"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_LOCAL
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_LOCAL"
+msgid "local"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME"
+msgid "Copy of {worldname}"
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.CREATE
@@ -298745,7 +299695,7 @@ msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.DELETE_SLOT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.DELETE_SLOT"
-msgid "Delete Server"
+msgid "Delete World"
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.DISCARDCHANGES
@@ -298756,6 +299706,21 @@ msgstr ""
 #. STRINGS.UI.SERVERCREATIONSCREEN.EVENT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.EVENT"
 msgid "Event:"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.FAILED_CONVERT_DIALOG_FMT"
+msgid "Failed to convert world to {type} save, please try again later."
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.FAILED_COPYORCONVERT_TITLE"
+msgid "Error"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.FAILED_COPY_DIALOG"
+msgid "Failed to duplicate world, please try again later."
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.FORESTANDCAVES
@@ -298883,6 +299848,16 @@ msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT"
 msgid "Account"
 msgstr ""
 
+#. STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_SLOT
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_SLOT"
+msgid "Manage World"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_TEXT
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_TEXT"
+msgid "Local world files are available at:\nSAVEDATA:/{folder}/"
+msgstr ""
+
 #. STRINGS.UI.SERVERCREATIONSCREEN.MAXPLAYERS
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.MAXPLAYERS"
 msgid "Players:"
@@ -298906,6 +299881,11 @@ msgstr ""
 #. STRINGS.UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.MODSOUTOFDATEWARNINGTITLE"
 msgid "WARNING - Mods Out of Date"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.NAME_DUPLICATE_SLOT"
+msgid "Duplicate World Name:"
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.NEWGAME
@@ -299030,7 +300010,7 @@ msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER"
-msgid "Open {folder}"
+msgid "Open World Folder"
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY.CLAN
@@ -299276,6 +300256,11 @@ msgstr ""
 #. STRINGS.UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_TITLE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CLIENT_MODS_DISABLED_TITLE"
 msgid "Client Mods Disabled"
+msgstr ""
+
+#. STRINGS.UI.SERVERLISTINGSCREEN.CLOUD_SAVE_HOVER
+msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CLOUD_SAVE_HOVER"
+msgid "Cloud Save"
 msgstr ""
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.CONNECTION
@@ -300226,6 +301211,51 @@ msgstr ""
 #. STRINGS.UI.SKIN_PRESETS.TITLE
 msgctxt "STRINGS.UI.SKIN_PRESETS.TITLE"
 msgid "Clothing Presets"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.CROW_CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO"
+msgid "Year of the Beefalo"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT"
+msgid "Year of the Carrat"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CATCOON"
+msgid "Year of the Catcoon"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_GOBBLER"
+msgid "Year of the Gobbler"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_PIG"
+msgid "Year of the Pig King"
+msgstr ""
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_VARG"
+msgid "Year of the Varg"
 msgstr ""
 
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX
