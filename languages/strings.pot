@@ -289408,6 +289408,31 @@ msgctxt "STRINGS.UI.CRAFTING_FILTERS.WINTER"
 msgid "Winter Items"
 msgstr ""
 
+#. STRINGS.UI.CRAFTING_MENU.FAVORITE_ADD
+msgctxt "STRINGS.UI.CRAFTING_MENU.FAVORITE_ADD"
+msgid "Add Favorite"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.FAVORITE_REMOVE
+msgctxt "STRINGS.UI.CRAFTING_MENU.FAVORITE_REMOVE"
+msgid "Remove Favorite"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.NAVIGATION
+msgctxt "STRINGS.UI.CRAFTING_MENU.NAVIGATION"
+msgid "Navigation"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.NO_ITEMS
+msgctxt "STRINGS.UI.CRAFTING_MENU.NO_ITEMS"
+msgid "No items match the current filter."
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.PIN
+msgctxt "STRINGS.UI.CRAFTING_MENU.PIN"
+msgid "Pin"
+msgstr ""
+
 #. STRINGS.UI.CRAFTING_MENU.SEARCH
 msgctxt "STRINGS.UI.CRAFTING_MENU.SEARCH"
 msgid "Search"
@@ -289436,6 +289461,11 @@ msgstr ""
 #. STRINGS.UI.CRAFTING_MENU.SORT_MODE_FMT
 msgctxt "STRINGS.UI.CRAFTING_MENU.SORT_MODE_FMT"
 msgid "Sort Mode: {mode}"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING_MENU.UNPIN
+msgctxt "STRINGS.UI.CRAFTING_MENU.UNPIN"
+msgid "Unpin"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.ANCIENT
@@ -292706,16 +292736,6 @@ msgstr ""
 #. STRINGS.UI.HUD.CLOCKSURVIVED
 msgctxt "STRINGS.UI.HUD.CLOCKSURVIVED"
 msgid "Survived"
-msgstr ""
-
-#. STRINGS.UI.HUD.CRAFTING_PIN
-msgctxt "STRINGS.UI.HUD.CRAFTING_PIN"
-msgid "Pin"
-msgstr ""
-
-#. STRINGS.UI.HUD.CRAFTING_UNPIN
-msgctxt "STRINGS.UI.HUD.CRAFTING_UNPIN"
-msgid "Unpin"
 msgstr ""
 
 #. STRINGS.UI.HUD.CRITTER_TRAITS.COMBAT
@@ -296940,7 +296960,7 @@ msgstr ""
 
 #. STRINGS.UI.OPTIONS.AUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.AUTOPAUSE"
-msgid "Auto-pause:"
+msgid "Auto-Pause:"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.AUTOSAVE
@@ -297010,7 +297030,7 @@ msgstr ""
 
 #. STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE"
-msgid "Console Auto-pause:"
+msgid "Console Auto-Pause:"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.CONTROLS
@@ -297020,7 +297040,12 @@ msgstr ""
 
 #. STRINGS.UI.OPTIONS.CRAFTINGAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGAUTOPAUSE"
-msgid "Crafting Auto-pause:"
+msgid "Crafting Auto-Pause:"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Crafting Auto-Close"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE
@@ -297436,6 +297461,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
 msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
+msgid "Closes the crafting menu when building a structure that is placed in the world."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
