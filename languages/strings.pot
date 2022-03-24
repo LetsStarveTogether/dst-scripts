@@ -259358,9 +259358,19 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_spider_white"
 msgid "It's nice not to be the one getting eaten for a change."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.bundle_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_gothic"
+msgid "Somehow, even the bow can't make it cheery."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.bundle_vintage
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_vintage"
 msgid "This floral parchment wrap keeps goods as fresh as a daisy."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_gothic"
+msgid "Somehow, even the bow can't make it cheery."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_vintage
@@ -259436,6 +259446,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower"
 msgid "A frigid floral firepit."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_gothic"
+msgid "It evokes the feeling of a cold, gothic cathedral."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_teeth
@@ -259855,6 +259870,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.endtable_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.endtable_cawnival"
+msgid "A small, festive table that reminds you of feathered friends."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.endtable_cawnival_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.endtable_cawnival_alt"
 msgid "A small, festive table that reminds you of feathered friends."
 msgstr ""
 
@@ -260558,6 +260578,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_gate_gingerbread"
 msgid "Gingerbread is a surprisingly reliable building material."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.fence_gate_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_gate_gothic"
+msgid "Letting people in is overrated."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.fence_gate_picketbrown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_gate_picketbrown"
 msgid "The natural wood finish adds a warm, countrified touch."
@@ -260596,6 +260621,16 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.fence_gingerbread_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_gingerbread_item"
 msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.fence_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_gothic"
+msgid "A decorative way to say \"keep out\"."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.fence_gothic_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_gothic_item"
+msgid "A decorative way to say \"keep out\"."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.fence_picketbrown
@@ -260660,6 +260695,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.fencegate_gingerbread_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_gingerbread_item"
+msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_gothic_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_gothic_item"
 msgid "n/a"
 msgstr ""
 
@@ -261783,8 +261823,23 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_flower"
 msgid "A lightweight lantern to brighten your disposition."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_flower_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_flower_alt"
+msgid "A lightweight lantern to brighten your disposition."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_gothic"
+msgid "Somehow, even the light feels gloomy."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_mummy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy"
+msgid "It's certainly eye-catching!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt"
 msgid "It's certainly eye-catching!"
 msgstr ""
 
@@ -262528,6 +262583,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.lighter_haunteddoll"
 msgid "The fire from this lighter burns across all planes of existence simultaneously."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_gothic"
+msgid "Call down lightning from dark, brooding storm clouds."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical"
 msgid "Woe to this poor fish in particular."
@@ -262943,6 +263003,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking"
 msgid "Let your boat boast your victory over a colossal crustacean."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.mast_crabking_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking_alt"
+msgid "Let your boat boast your victory over a colossal crustacean."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_crabking_alt_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking_alt_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.mast_crabking_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking_item"
 msgid "n/a"
@@ -262963,9 +263033,34 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose"
 msgid "This striking sail comes adorned with a rose crest."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.mast_rose_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose_alt"
+msgid "This striking sail comes adorned with a rose crest."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_rose_alt_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose_alt_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.mast_rose_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_rose_item"
 msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mastupgrade_lightningrod_item_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mastupgrade_lightningrod_item_nautical"
+msgid "This sea monster has an appetite for electricity."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mastupgrade_lightningrod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mastupgrade_lightningrod_nautical"
+msgid "This sea monster has an appetite for electricity."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mastupgrade_lightningrod_nautical_top
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mastupgrade_lightningrod_nautical_top"
+msgid "This sea monster has an appetite for electricity."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mastupgradelamp_item_nautical
@@ -263225,6 +263320,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice"
+msgid "Try not to catch a cold."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice_alt"
 msgid "Try not to catch a cold."
 msgstr ""
 
@@ -263491,6 +263591,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78"
 msgid "This Gladiator Chest contains WX-78's complete set of Gladiator skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_gothic_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gothic_items"
+msgid "This Gothic Belongings Chest contains the following skin items: Gloomy Wrapping, Gothic Firepit, Gothic Fence, Stained Glass Gate, Gothic Lantern, Gothic Thundercaller, Derelict Manor, Gothic Alchemical Kiln, Gothic Scientific Instrument, Gothic Artificer's Table, Gothic Pillar, and Gothic Wardrobe."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_all
@@ -264688,6 +264793,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pickaxe_scythe"
 msgid "A terrible scythe to behold."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pickaxe_scythe_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pickaxe_scythe_alt"
+msgid "A terrible scythe to behold."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pickaxe_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pickaxe_victorian"
 msgid "An elegantly engraved silver pickaxe."
@@ -264706,6 +264816,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pighouse_cabin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pighouse_cabin"
 msgid "That pig will be snug as a bug in a rug."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pighouse_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pighouse_gothic"
+msgid "Despite years of neglect, this manor still maintains its imposing atmosphere."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pighouse_logcabin
@@ -264986,6 +265101,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelampnautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelampnautical"
 msgid "Equip this item to change your character's background portrait.\n\nThere's remerkable beauty within the terrifying depths of the sea."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelightningrodnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mastupgradelightningrodnautical"
+msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab
@@ -265646,6 +265766,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mastupgradelamp_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mastupgradelamp_nautical"
 msgid "Set your profile icon to a beautiful Nautical Lamp."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_mastupgradelightningrod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mastupgradelightningrod_nautical"
+msgid "Set your profile icon to a Serpentine Storm Eater."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_merm
@@ -266438,6 +266563,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_crystal"
 msgid "Crystals have long been thought to hold transformative powers, perfect for alchemical experiments."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab2_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_gothic"
+msgid "A moody design for a broody alchemists."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod"
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
@@ -266538,6 +266668,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre"
 msgid "n/a"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_gothic"
+msgid "A little pipe organ music in the background really helps the science flow."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab_green
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_green"
 msgid "It's positively oozing with scientific potential!"
@@ -266626,6 +266761,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.saltbox_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.saltbox_victorian"
 msgid "Stylish and practical food storage."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.sculptingtable_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.sculptingtable_gothic"
+msgid "Sculpt intricate stonework to your heart's content."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.seafaring_prototyper_lighthouse
@@ -266725,6 +266865,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.stagehand_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.stagehand_cawnival"
+msgid "A small, festive \"table\" that reminds you of feathered friends."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.stagehand_cawnival_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.stagehand_cawnival_alt"
 msgid "A small, festive \"table\" that reminds you of feathered friends."
 msgstr ""
 
@@ -267023,6 +267168,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thulecite"
 msgid "Remnants of an Ancient civilization, before it fell to ruin."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thulecite_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thulecite_alt"
+msgid "Remnants of an Ancient civilization, before it fell to ruin."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thulecite_alt_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thulecite_alt_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thuleciteitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_ruins_thuleciteitem"
 msgid "n/a"
@@ -267043,8 +267198,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancient"
 msgid "Crumbling stonework from a time long past."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancient_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancient_alt"
+msgid "Crumbling stonework from a time long past."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancient_alt_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancient_alt_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancientitem
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_ancientitem"
+msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wall_stone_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_gothic"
+msgid "An imposing column of intricately carved stone."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wall_stone_gothicitem
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_stone_gothicitem"
 msgid "n/a"
 msgstr ""
 
@@ -267211,6 +267386,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_crystal"
 msgid "Give your clothes that extra sparkle."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wardrobe_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_gothic"
+msgid "You could have sworn you heard a disapproving growl from deep within when you tried to hang up a Hawaiian shirt."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart
@@ -271498,9 +271678,19 @@ msgctxt "STRINGS.SKIN_NAMES.bugnet_spider_white"
 msgid "Cavernous Spidernet"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.bundle_gothic
+msgctxt "STRINGS.SKIN_NAMES.bundle_gothic"
+msgid "Gloomy Wrapping"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.bundle_vintage
 msgctxt "STRINGS.SKIN_NAMES.bundle_vintage"
 msgid "Parchment Paper"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.bundlewrap_gothic
+msgctxt "STRINGS.SKIN_NAMES.bundlewrap_gothic"
+msgid "Gloomy Wrapping"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.bundlewrap_vintage
@@ -271576,6 +271766,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.coldfirepit_flower
 msgctxt "STRINGS.SKIN_NAMES.coldfirepit_flower"
 msgid "Frostflower Firepit"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.coldfirepit_gothic
+msgctxt "STRINGS.SKIN_NAMES.coldfirepit_gothic"
+msgid "Gothic Firepit"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.coldfirepit_teeth
@@ -271995,6 +272190,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.endtable_cawnival
 msgctxt "STRINGS.SKIN_NAMES.endtable_cawnival"
+msgid "Cawnival Endtable"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.endtable_cawnival_alt
+msgctxt "STRINGS.SKIN_NAMES.endtable_cawnival_alt"
 msgid "Cawnival Endtable"
 msgstr ""
 
@@ -272698,6 +272898,11 @@ msgctxt "STRINGS.SKIN_NAMES.fence_gate_gingerbread"
 msgid "Gingerbread Gate"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.fence_gate_gothic
+msgctxt "STRINGS.SKIN_NAMES.fence_gate_gothic"
+msgid "Stained Glass Gate"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.fence_gate_picketbrown
 msgctxt "STRINGS.SKIN_NAMES.fence_gate_picketbrown"
 msgid "Walnut Garden Gate"
@@ -272736,6 +272941,16 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.fence_gingerbread_item
 msgctxt "STRINGS.SKIN_NAMES.fence_gingerbread_item"
 msgid "Gingerbread Fence"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.fence_gothic
+msgctxt "STRINGS.SKIN_NAMES.fence_gothic"
+msgid "Gothic Fence"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.fence_gothic_item
+msgctxt "STRINGS.SKIN_NAMES.fence_gothic_item"
+msgid "Gothic Fence"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.fence_picketbrown
@@ -272801,6 +273016,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.fencegate_gingerbread_item
 msgctxt "STRINGS.SKIN_NAMES.fencegate_gingerbread_item"
 msgid "Gingerbread Gate"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.fencegate_gothic_item
+msgctxt "STRINGS.SKIN_NAMES.fencegate_gothic_item"
+msgid "Stained Glass Gate"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.fencegate_picketbrown_item
@@ -273923,8 +274143,23 @@ msgctxt "STRINGS.SKIN_NAMES.lantern_flower"
 msgid "Paper Lantern"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.lantern_flower_alt
+msgctxt "STRINGS.SKIN_NAMES.lantern_flower_alt"
+msgid "Paper Lantern"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.lantern_gothic
+msgctxt "STRINGS.SKIN_NAMES.lantern_gothic"
+msgid "Gothic Lantern"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.lantern_mummy
 msgctxt "STRINGS.SKIN_NAMES.lantern_mummy"
+msgid "Monstrous Lantern"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.lantern_mummy_alt
+msgctxt "STRINGS.SKIN_NAMES.lantern_mummy_alt"
 msgid "Monstrous Lantern"
 msgstr ""
 
@@ -274668,6 +274903,11 @@ msgctxt "STRINGS.SKIN_NAMES.lighter_haunteddoll"
 msgid "Cursed Sterling Lighter"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.lightning_rod_gothic
+msgctxt "STRINGS.SKIN_NAMES.lightning_rod_gothic"
+msgid "Gothic Thundercaller"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.lightning_rod_nautical
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_nautical"
 msgid "Smite'ning Rod"
@@ -275083,6 +275323,16 @@ msgctxt "STRINGS.SKIN_NAMES.mast_crabking"
 msgid "Crab King Sail"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.mast_crabking_alt
+msgctxt "STRINGS.SKIN_NAMES.mast_crabking_alt"
+msgid "Crab King Sail"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mast_crabking_alt_item
+msgctxt "STRINGS.SKIN_NAMES.mast_crabking_alt_item"
+msgid "Crab King Sail"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.mast_crabking_item
 msgctxt "STRINGS.SKIN_NAMES.mast_crabking_item"
 msgid "Crab King Sail"
@@ -275103,9 +275353,34 @@ msgctxt "STRINGS.SKIN_NAMES.mast_rose"
 msgid "Roseate Sail"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.mast_rose_alt
+msgctxt "STRINGS.SKIN_NAMES.mast_rose_alt"
+msgid "Roseate Sail"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mast_rose_alt_item
+msgctxt "STRINGS.SKIN_NAMES.mast_rose_alt_item"
+msgid "Roseate Sail"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.mast_rose_item
 msgctxt "STRINGS.SKIN_NAMES.mast_rose_item"
 msgid "Roseate Sail"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mastupgrade_lightningrod_item_nautical
+msgctxt "STRINGS.SKIN_NAMES.mastupgrade_lightningrod_item_nautical"
+msgid "Serpentine Storm Eater"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mastupgrade_lightningrod_nautical
+msgctxt "STRINGS.SKIN_NAMES.mastupgrade_lightningrod_nautical"
+msgid "Serpentine Storm Eater"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mastupgrade_lightningrod_nautical_top
+msgctxt "STRINGS.SKIN_NAMES.mastupgrade_lightningrod_nautical_top"
+msgid "n/a"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.mastupgradelamp_item_nautical
@@ -275365,6 +275640,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.oceanfishingrod_ice
 msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_ice"
+msgid "Ice Fishing Rod"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.oceanfishingrod_ice_alt
+msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_ice_alt"
 msgid "Ice Fishing Rod"
 msgstr ""
 
@@ -275631,6 +275911,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_gladiator_wx78
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wx78"
 msgid "WX-78 Gladiator Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_gothic_items
+msgctxt "STRINGS.SKIN_NAMES.pack_gothic_items"
+msgid "Gothic Belongings Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_all
@@ -276828,6 +277113,11 @@ msgctxt "STRINGS.SKIN_NAMES.pickaxe_scythe"
 msgid "Rusted Scythe"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pickaxe_scythe_alt
+msgctxt "STRINGS.SKIN_NAMES.pickaxe_scythe_alt"
+msgid "Rusted Scythe"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pickaxe_victorian
 msgctxt "STRINGS.SKIN_NAMES.pickaxe_victorian"
 msgid "Fanciful Pickaxe"
@@ -276846,6 +277136,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pighouse_cabin
 msgctxt "STRINGS.SKIN_NAMES.pighouse_cabin"
 msgid "Thatched Cottage"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pighouse_gothic
+msgctxt "STRINGS.SKIN_NAMES.pighouse_gothic"
+msgid "Derelict Manor"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pighouse_logcabin
@@ -277126,6 +277421,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_mastupgradelampnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mastupgradelampnautical"
 msgid "Shellbound Portrait"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_mastupgradelightningrodnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mastupgradelightningrodnautical"
+msgid "Storm Eater Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_messylab
@@ -277786,6 +278086,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_mastupgradelamp_nautical
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mastupgradelamp_nautical"
 msgid "Shellbound Deck Illuminator"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_mastupgradelightningrod_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_mastupgradelightningrod_nautical"
+msgid "Serpentine Storm Eater"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_merm
@@ -278578,6 +278883,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab2_crystal"
 msgid "Arcane Crystalarium"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.researchlab2_gothic
+msgctxt "STRINGS.SKIN_NAMES.researchlab2_gothic"
+msgid "Gothic Alchemical Kiln"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.researchlab2_pod
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_pod"
 msgid "Alchemy Pod"
@@ -278678,6 +278988,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab4_witch_pyre"
 msgid "Prestiwitchatator"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.researchlab_gothic
+msgctxt "STRINGS.SKIN_NAMES.researchlab_gothic"
+msgid "Gothic Scientific Instrument"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.researchlab_green
 msgctxt "STRINGS.SKIN_NAMES.researchlab_green"
 msgid "Terrible Ooze Machine"
@@ -278766,6 +279081,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.saltbox_victorian
 msgctxt "STRINGS.SKIN_NAMES.saltbox_victorian"
 msgid "Victorian Salt Box"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.sculptingtable_gothic
+msgctxt "STRINGS.SKIN_NAMES.sculptingtable_gothic"
+msgid "Gothic Artificer's Table"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.seafaring_prototyper_lighthouse
@@ -278865,6 +279185,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.stagehand_cawnival
 msgctxt "STRINGS.SKIN_NAMES.stagehand_cawnival"
+msgid "Cawnival Stagehand"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.stagehand_cawnival_alt
+msgctxt "STRINGS.SKIN_NAMES.stagehand_cawnival_alt"
 msgid "Cawnival Stagehand"
 msgstr ""
 
@@ -279163,6 +279488,16 @@ msgctxt "STRINGS.SKIN_NAMES.wall_ruins_thulecite"
 msgid "Ancient Ornamental Wall"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wall_ruins_thulecite_alt
+msgctxt "STRINGS.SKIN_NAMES.wall_ruins_thulecite_alt"
+msgid "Ancient Ornamental Wall"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wall_ruins_thulecite_alt_item
+msgctxt "STRINGS.SKIN_NAMES.wall_ruins_thulecite_alt_item"
+msgid "Ancient Ornamental Wall"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wall_ruins_thuleciteitem
 msgctxt "STRINGS.SKIN_NAMES.wall_ruins_thuleciteitem"
 msgid "Ancient Ornamental Wall"
@@ -279183,9 +279518,29 @@ msgctxt "STRINGS.SKIN_NAMES.wall_stone_ancient"
 msgid "Ancient Stone Wall"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wall_stone_ancient_alt
+msgctxt "STRINGS.SKIN_NAMES.wall_stone_ancient_alt"
+msgid "Ancient Stone Wall"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wall_stone_ancient_alt_item
+msgctxt "STRINGS.SKIN_NAMES.wall_stone_ancient_alt_item"
+msgid "Ancient Stone Wall"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wall_stone_ancientitem
 msgctxt "STRINGS.SKIN_NAMES.wall_stone_ancientitem"
 msgid "Ancient Stone Wall"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wall_stone_gothic
+msgctxt "STRINGS.SKIN_NAMES.wall_stone_gothic"
+msgid "Gothic Pillar"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wall_stone_gothicitem
+msgctxt "STRINGS.SKIN_NAMES.wall_stone_gothicitem"
+msgid "Gothic Pillar"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wall_stone_victorian
@@ -279351,6 +279706,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wardrobe_crystal
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_crystal"
 msgid "Crystallized Cabinet"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wardrobe_gothic
+msgctxt "STRINGS.SKIN_NAMES.wardrobe_gothic"
+msgid "Gothic Wardrobe"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wardrobe_heart
@@ -282538,6 +282898,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FORMAL"
 msgid "Formal Collection"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.GOTHIC
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.GOTHIC"
+msgid "Gothic Collection"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED"
 msgid "Hallowed Nights Collection"
@@ -283108,6 +283473,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_LAMP"
 msgid "Deck Illuminator"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD"
+msgid "Lightning Conductor"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MEATRACK
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MEATRACK"
 msgid "Drying Rack"
@@ -283236,6 +283606,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SCIENCEMACHINE"
 msgid "Science Machine"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SCULPTINGTABLE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SCULPTINGTABLE"
+msgid "Potter's Wheel"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SEAFARINGPROTO
@@ -287465,7 +287840,7 @@ msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.47
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.47"
-msgid "Open Crafting"
+msgid "Open Crafting Menu"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.48
@@ -287616,6 +287991,21 @@ msgstr ""
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.74
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.74"
 msgid "Pause Server"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.75
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.75"
+msgid "Crafting Menu (mod)"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.76
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.76"
+msgid "Pinned Recipes Page Left"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.77
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.77"
+msgid "Pinned Recipes Page Right"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.8
@@ -293720,7 +294110,7 @@ msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_RUN_AWAY
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_RUN_AWAY"
-msgid "\"It turns out that Koalephants are a bit hardier than I expected. I (quite sensibly) decided to take a... strategic retreat until I'm better prepared.\" -W"
+msgid "\"It turns out that Koalefants are a bit hardier than I expected. I (quite sensibly) decided to take a... strategic retreat until I'm better prepared.\" -W"
 msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_SANITY
