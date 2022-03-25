@@ -238710,7 +238710,7 @@ msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.random"
-msgid "\nSelect a random character"
+msgid "\nSelect a random survivor"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter
@@ -252630,7 +252630,7 @@ msgstr ""
 
 #. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.random"
-msgid "\nSelect a random character"
+msgid "\nSelect a random survivor"
 msgstr ""
 
 #. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.walter
@@ -285715,7 +285715,7 @@ msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC"
-msgid "Play on a team with 6 unique characters and win without any teammates dying"
+msgid "Play on a team with 6 unique survivors and win without any teammates dying"
 msgstr ""
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE
@@ -289513,6 +289513,11 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF"
 msgid "Find ingredients \nto craft!"
 msgstr ""
 
+#. STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
+msgid "Find ingredients \nto prototype!"
+msgstr ""
+
 #. STRINGS.UI.CRAFTING.PLACE
 msgctxt "STRINGS.UI.CRAFTING.PLACE"
 msgid "Place"
@@ -289675,7 +289680,7 @@ msgstr ""
 
 #. STRINGS.UI.CRAFTING_FILTERS.CHARACTER
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.CHARACTER"
-msgid "Character Items"
+msgid "Survivor Items"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING_FILTERS.CLOTHING
@@ -292000,7 +292005,7 @@ msgstr ""
 
 #. STRINGS.UI.DATACOLLECTION_LOGIN.BODY
 msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.BODY"
-msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nCharacters and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
 msgstr ""
 
 #. STRINGS.UI.DATACOLLECTION_LOGIN.CONTINUE
@@ -294250,7 +294255,7 @@ msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT
 msgctxt "STRINGS.UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT"
-msgid "Random Character"
+msgid "Random Survivor"
 msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.READY
@@ -294265,7 +294270,7 @@ msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE
 msgctxt "STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE"
-msgid "Character Select"
+msgid "Survivor Select"
 msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY
@@ -295940,7 +295945,7 @@ msgstr ""
 
 #. STRINGS.UI.MORGUESCREEN.DECEASED_PS4
 msgctxt "STRINGS.UI.MORGUESCREEN.DECEASED_PS4"
-msgid "Character"
+msgid "Survivor"
 msgstr ""
 
 #. STRINGS.UI.MORGUESCREEN.DIED_AGE
@@ -296010,7 +296015,7 @@ msgstr ""
 
 #. STRINGS.UI.MORGUESCREEN.PLAYER_CHAR_PS4
 msgctxt "STRINGS.UI.MORGUESCREEN.PLAYER_CHAR_PS4"
-msgid "Character"
+msgid "Survivor"
 msgstr ""
 
 #. STRINGS.UI.MORGUESCREEN.PLAYER_NAME
@@ -298900,7 +298905,7 @@ msgstr ""
 
 #. STRINGS.UI.PLAYER_AVATAR.CHOOSING
 msgctxt "STRINGS.UI.PLAYER_AVATAR.CHOOSING"
-msgid "is choosing their character"
+msgid "is choosing their survivor"
 msgstr ""
 
 #. STRINGS.UI.PLAYER_AVATAR.CLOSE

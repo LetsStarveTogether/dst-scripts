@@ -238713,8 +238713,8 @@ msgstr "泰迪"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.random"
-msgid "\nSelect a random character"
-msgstr "\n選擇隨機人物"
+msgid "\nSelect a random survivor"
+msgstr "\n選擇一名隨機的冒險家"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter"
@@ -252633,8 +252633,8 @@ msgstr "PlayStation™Network"
 
 #. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.random"
-msgid "\nSelect a random character"
-msgstr "\n選擇一個隨機角色"
+msgid "\nSelect a random survivor"
+msgstr "\n選擇一名隨機的冒險家"
 
 #. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.walter
 msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.walter"
@@ -285718,8 +285718,8 @@ msgstr "團隊倖存者"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC"
-msgid "Play on a team with 6 unique characters and win without any teammates dying"
-msgstr "在一個包含 6 個唯一角色的團隊裡打贏遊戲而且沒有隊友死亡"
+msgid "Play on a team with 6 unique survivors and win without any teammates dying"
+msgstr "在一個包含6個獨特冒險家的團隊裡打贏遊戲而且沒有隊友死亡"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE"
@@ -289516,6 +289516,11 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF"
 msgid "Find ingredients \nto craft!"
 msgstr "請找齊\n合成材料！"
 
+#. STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
+msgid "Find ingredients \nto prototype!"
+msgstr "找齊 \n原型材料！"
+
 #. STRINGS.UI.CRAFTING.PLACE
 msgctxt "STRINGS.UI.CRAFTING.PLACE"
 msgid "Place"
@@ -289678,8 +289683,8 @@ msgstr "盔甲"
 
 #. STRINGS.UI.CRAFTING_FILTERS.CHARACTER
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.CHARACTER"
-msgid "Character Items"
-msgstr "人物物品"
+msgid "Survivor Items"
+msgstr "冒險家物品"
 
 #. STRINGS.UI.CRAFTING_FILTERS.CLOTHING
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.CLOTHING"
@@ -292003,8 +292008,8 @@ msgstr "是"
 
 #. STRINGS.UI.DATACOLLECTION_LOGIN.BODY
 msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.BODY"
-msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nCharacters and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
-msgstr "我們要求收集使用者資料以提供線上服務。禁用資料收集的玩家只能在離線模式下玩遊戲。\n \n線上遊戲中的角色和世界將無法使用。\n \n可以在\"選項\"功能表中修改\"資料收集\"設置。"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgstr "我們要求收集使用者資料以提供線上服務。禁用資料收集的玩家只能在離線模式下玩遊戲。\n \n線上遊戲中的冒險家和世界將無法使用。\n \n可以在\"選項\"功能表中修改\"資料收集\"設置。"
 
 #. STRINGS.UI.DATACOLLECTION_LOGIN.CONTINUE
 msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.CONTINUE"
@@ -294253,8 +294258,8 @@ msgstr "隨機"
 
 #. STRINGS.UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT
 msgctxt "STRINGS.UI.LOBBYSCREEN.RANDOMCHAR_BUTTONHINT"
-msgid "Random Character"
-msgstr "隨機人物"
+msgid "Random Survivor"
+msgstr "隨機冒險家"
 
 #. STRINGS.UI.LOBBYSCREEN.READY
 msgctxt "STRINGS.UI.LOBBYSCREEN.READY"
@@ -294268,8 +294273,8 @@ msgstr "選擇"
 
 #. STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE
 msgctxt "STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE"
-msgid "Character Select"
-msgstr "人物選擇"
+msgid "Survivor Select"
+msgstr "選擇冒險家"
 
 #. STRINGS.UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY
 msgctxt "STRINGS.UI.LOBBYSCREEN.SERVER_SHUTDOWN_BODY"
@@ -295943,8 +295948,8 @@ msgstr "死亡角色"
 
 #. STRINGS.UI.MORGUESCREEN.DECEASED_PS4
 msgctxt "STRINGS.UI.MORGUESCREEN.DECEASED_PS4"
-msgid "Character"
-msgstr "角色"
+msgid "Survivor"
+msgstr "冒險家"
 
 #. STRINGS.UI.MORGUESCREEN.DIED_AGE
 msgctxt "STRINGS.UI.MORGUESCREEN.DIED_AGE"
@@ -296013,8 +296018,8 @@ msgstr "臉"
 
 #. STRINGS.UI.MORGUESCREEN.PLAYER_CHAR_PS4
 msgctxt "STRINGS.UI.MORGUESCREEN.PLAYER_CHAR_PS4"
-msgid "Character"
-msgstr "角色"
+msgid "Survivor"
+msgstr "冒險家"
 
 #. STRINGS.UI.MORGUESCREEN.PLAYER_NAME
 msgctxt "STRINGS.UI.MORGUESCREEN.PLAYER_NAME"
@@ -298903,8 +298908,8 @@ msgstr "生存了"
 
 #. STRINGS.UI.PLAYER_AVATAR.CHOOSING
 msgctxt "STRINGS.UI.PLAYER_AVATAR.CHOOSING"
-msgid "is choosing their character"
-msgstr "在選擇他們的人物"
+msgid "is choosing their survivor"
+msgstr "正在選擇冒險家"
 
 #. STRINGS.UI.PLAYER_AVATAR.CLOSE
 msgctxt "STRINGS.UI.PLAYER_AVATAR.CLOSE"
