@@ -266568,7 +266568,7 @@ msgstr "一直以来，水晶都被认为具有强大的催化作用，非常适
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_gothic"
-msgid "A moody design for a broody alchemists."
+msgid "A moody design for broody alchemists."
 msgstr "适合忧郁炼金术士的惆怅风格。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
@@ -289448,8 +289448,8 @@ msgstr "建造"
 
 #. STRINGS.UI.CRAFTING.CANTRESEARCH
 msgctxt "STRINGS.UI.CRAFTING.CANTRESEARCH"
-msgid "Some things are unknowable."
-msgstr "有一些知识还不知道。"
+msgid "Some things must be discovered on your own."
+msgstr "有些东西必须靠自己去发现。"
 
 #. STRINGS.UI.CRAFTING.DEFAULT
 msgctxt "STRINGS.UI.CRAFTING.DEFAULT"
@@ -289463,7 +289463,7 @@ msgstr "取消暂停来制作。"
 
 #. STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgctxt "STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE"
-msgid "Use an alchemy engine to build a prototype!"
+msgid "Use an Alchemy Engine to build a prototype!"
 msgstr "使用炼金引擎制造一个原型！"
 
 #. STRINGS.UI.CRAFTING.NEEDCARNIVAL_HOSTSHOP_PLAZA
@@ -289476,25 +289476,110 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR"
 msgid "Use a Prestihatitator to build a prototype!"
 msgstr "使用灵子分解器制造一个原型！"
 
+#. STRINGS.UI.CRAFTING.NEEDSANCIENTALTAR_LOW
+msgctxt "STRINGS.UI.CRAFTING.NEEDSANCIENTALTAR_LOW"
+msgid "Find an ancient structure to craft this at."
+msgstr "找到可以制作这个的远古结构。"
+
 #. STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR"
-msgid "It seems that this altar is not fully functional!"
-msgstr "看起来这个祭坛不能完全正常工作！"
+msgid "Find a fully intact ancient structure to craft this at."
+msgstr "找到可以制作这个的完整远古结构。"
+
+#. STRINGS.UI.CRAFTING.NEEDSBEEFSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSBEEFSHRINE"
+msgid "Make an offering at the Beefalo Shrine!"
+msgstr "在皮弗娄牛神龛献上供品！"
+
+#. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA"
+msgid "Decorate a Cawnival Tree during the Cawnival!"
+msgstr "在鸦年华上装扮一棵鸦年华树！"
+
+#. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER"
+msgid "Find Corvus Goodfeather during the Cawnival!"
+msgstr "在鸦年华上找到良羽鸦！"
+
+#. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP"
+msgid "Purcase at the Cawnival's Prize Booth!"
+msgstr "在良羽鸦的奖品摊位购物！"
+
+#. STRINGS.UI.CRAFTING.NEEDSCATCOONSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCATCOONSHRINE"
+msgid "Make an offering at the Catcoon Shrine!"
+msgstr "在浣猫神龛献上供品！"
+
+#. STRINGS.UI.CRAFTING.NEEDSCHARACTER
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCHARACTER"
+msgid "Another survivor knows how to craft this."
+msgstr "另一名冒险家知道如何制作。"
 
 #. STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE
 msgctxt "STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE"
-msgid "Use a science machine to build a prototype!"
+msgid "Use a Science Machine to build a prototype!"
 msgstr "使用科学机器制造一个原型！"
+
+#. STRINGS.UI.CRAFTING.NEEDSCRITTERLAB
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCRITTERLAB"
+msgid "Find the Rock Den to adopt this!"
+msgstr "寻找岩石巢穴来领养它！"
 
 #. STRINGS.UI.CRAFTING.NEEDSFISHING
 msgctxt "STRINGS.UI.CRAFTING.NEEDSFISHING"
 msgid "Use a Tackle Receptacle to build a prototype!"
 msgstr "使用钓具容器制作一个原型！"
 
+#. STRINGS.UI.CRAFTING.NEEDSFOODPROCESSING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSFOODPROCESSING"
+msgid "Make a Portable Grinding Mill to get cooking!"
+msgstr "制作一个便携研磨器来开始烹饪！"
+
 #. STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR"
-msgid "Use a shadow manipulator to build a prototype!"
+msgid "Use a Shadow Manipulator to build a prototype!"
 msgstr "使用暗影操控器制造一个原型！"
+
+#. STRINGS.UI.CRAFTING.NEEDSHALLOWED_NIGHTS
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHALLOWED_NIGHTS"
+msgid "Available during Hallowed Nights!"
+msgstr "万圣夜期间可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L1
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L1"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "找一名友善之人完成这笔交易！"
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L2
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L2"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "找一名友善之人完成这笔交易！"
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L3
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L3"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "找一名友善之人完成这笔交易！"
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L4
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L4"
+msgid "Find someone friendly enough to make this trade!"
+msgstr "找一名友善之人完成这笔交易！"
+
+#. STRINGS.UI.CRAFTING.NEEDSMADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSMADSCIENCE"
+msgid "Brew at the Mad Scientist Lab!"
+msgstr "在疯狂科学家实验室酿制！"
+
+#. STRINGS.UI.CRAFTING.NEEDSPERDSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSPERDSHRINE"
+msgid "Make an offering at the Gobbler Shrine!"
+msgstr "在火鸡神龛献上供品！"
+
+#. STRINGS.UI.CRAFTING.NEEDSPIGSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSPIGSHRINE"
+msgid "Make an offering at the Pig Shrine!"
+msgstr "在猪神龛献上供品！"
 
 #. STRINGS.UI.CRAFTING.NEEDSSEAFARING_STATION
 msgctxt "STRINGS.UI.CRAFTING.NEEDSSEAFARING_STATION"
@@ -289508,8 +289593,8 @@ msgstr "与蜘蛛交朋友，学习配方！"
 
 #. STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING"
-msgid "Put stone on the wheel to create a Sculpting Block!"
-msgstr "把石头放在转轮上来制造一个雕刻石块！"
+msgid "Put refined stone on the wheel to create a sculpture!"
+msgstr "把磨好的石头放在轮子上来创作雕塑！"
 
 #. STRINGS.UI.CRAFTING.NEEDSTUFF
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF"
@@ -289520,6 +289605,56 @@ msgstr "请找齐\n合成材料！"
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
 msgid "Find ingredients \nto prototype!"
 msgstr "找齐 \n原型材料！"
+
+#. STRINGS.UI.CRAFTING.NEEDSTURFCRAFTING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSTURFCRAFTING"
+msgid "Use a Terra Firma Tamper to build a prototype!"
+msgstr "使用土地夯实器来制作一个原型！"
+
+#. STRINGS.UI.CRAFTING.NEEDSWARGSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSWARGSHRINE"
+msgid "Make an offering at the Varg Shrine!"
+msgstr "在座狼神龛献上供品！"
+
+#. STRINGS.UI.CRAFTING.NEEDSWINTERSFEASTCOOKING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSWINTERSFEASTCOOKING"
+msgid "Cook this festive meal in the Masonry Oven!"
+msgstr "用砖砌烤炉做这道节庆菜品！"
+
+#. STRINGS.UI.CRAFTING.NEEDSWINTERS_FEAST
+msgctxt "STRINGS.UI.CRAFTING.NEEDSWINTERS_FEAST"
+msgid "Available during Winter's Feast!"
+msgstr "在冬季盛宴期间可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTB
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTB"
+msgid "Available during Year of the Beefalo!"
+msgstr "在皮弗娄牛之年可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTC
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTC"
+msgid "Available during Year of the Carrat!"
+msgstr "在胡萝卜鼠之年可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTCATCOON
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTCATCOON"
+msgid "Available during Year of the Catcoon!"
+msgstr "在浣猫之年可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTG
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTG"
+msgid "Available during Year of the Gobbler!"
+msgstr "在火鸡之年可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTP
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTP"
+msgid "Available during Year of the Pig King!"
+msgstr "在猪王之年可用！"
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTV
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTV"
+msgid "Available during Year of the Varg!"
+msgstr "在座狼之年可用！"
 
 #. STRINGS.UI.CRAFTING.PLACE
 msgctxt "STRINGS.UI.CRAFTING.PLACE"
@@ -293836,11 +293971,6 @@ msgctxt "STRINGS.UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE"
 msgid "The Forge"
 msgstr "熔炉"
 
-#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_BIND_CONTROLS
-msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_BIND_CONTROLS"
-msgid "Play with Controls Settings in the Options Menu to fit your control needs."
-msgstr "在选项菜单中通过控制设置，调整你的操作输入。"
-
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE"
 msgid "Access the Server Commands menu from the Pause Screen to start votes or roll a dice."
@@ -293865,11 +293995,6 @@ msgstr "按住{action}就能自动捡起周围的物品和行动。不过要确�
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
 msgid "Hold {inspect} to inspect the world around you."
 msgstr "按住{inspect}检查你周围的世界。"
-
-#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_PLAYER_STATUS
-msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_PLAYER_STATUS"
-msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
-msgstr "按{playerstatus}键查看同行幸存者的状态。"
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK"
@@ -293900,6 +294025,11 @@ msgstr "在选项菜单中调整创世界的设置，生成一个符合你喜好
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK"
 msgid "Hold {attack} to attack enemies."
 msgstr "按住{attack}攻击敌人。"
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS"
+msgid "Play with Controls Settings in the Options Menu to fit your control needs."
+msgstr "在选项菜单中通过控制设置，调整你的操作输入。"
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT"
@@ -293935,6 +294065,11 @@ msgstr "按{inspectself}可以查看你正在使用的物品和人物皮肤。"
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS"
 msgid "Press {inv_0}-{inv_9} to quickly use items carried in your main inventory."
 msgstr "按{inv_0}-{inv_9}可以快捷使用你主要物品栏中的物品。"
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS"
+msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
+msgstr "按{playerstatus}键查看同行幸存者的状态。"
 
 #. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
 msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE"
@@ -297441,15 +297576,25 @@ msgctxt "STRINGS.UI.OPTIONS.CRAFTINGAUTOPAUSE"
 msgid "Crafting Auto-Pause:"
 msgstr "制作自动暂停："
 
+#. STRINGS.UI.OPTIONS.CRAFTINGHINTALLRECIPES
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGHINTALLRECIPES"
+msgid "Crafting Preview:"
+msgstr "制作预览："
+
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
-msgid "Crafting Auto-Close"
-msgstr "自动关闭制作"
+msgid "Crafting Auto-Close:"
+msgstr "自动关闭制作："
 
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE"
 msgid "Crafting Menu Size:"
 msgstr "制作目录大小："
+
+#. STRINGS.UI.OPTIONS.CRAFTING_HINTALL_ENABLED
+msgctxt "STRINGS.UI.OPTIONS.CRAFTING_HINTALL_ENABLED"
+msgid "All Recipes"
+msgstr "所有配方"
 
 #. STRINGS.UI.OPTIONS.CREDITS
 msgctxt "STRINGS.UI.OPTIONS.CREDITS"
@@ -297860,6 +298005,11 @@ msgstr "查看游戏中操作"
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
 msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
 msgstr "如果你是唯一的玩家，可以选择在打开制作目录时暂停游戏。"
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES"
+msgid "Preview the next available research tier or show all locked recipes."
+msgstr "预览下个可用的研究层级或显示所有锁定的配方。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"

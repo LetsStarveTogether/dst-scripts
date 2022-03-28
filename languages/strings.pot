@@ -266565,7 +266565,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_gothic"
-msgid "A moody design for a broody alchemists."
+msgid "A moody design for broody alchemists."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
@@ -289445,7 +289445,7 @@ msgstr ""
 
 #. STRINGS.UI.CRAFTING.CANTRESEARCH
 msgctxt "STRINGS.UI.CRAFTING.CANTRESEARCH"
-msgid "Some things are unknowable."
+msgid "Some things must be discovered on your own."
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.DEFAULT
@@ -289460,7 +289460,7 @@ msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgctxt "STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE"
-msgid "Use an alchemy engine to build a prototype!"
+msgid "Use an Alchemy Engine to build a prototype!"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDCARNIVAL_HOSTSHOP_PLAZA
@@ -289473,14 +289473,54 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR"
 msgid "Use a Prestihatitator to build a prototype!"
 msgstr ""
 
+#. STRINGS.UI.CRAFTING.NEEDSANCIENTALTAR_LOW
+msgctxt "STRINGS.UI.CRAFTING.NEEDSANCIENTALTAR_LOW"
+msgid "Find an ancient structure to craft this at."
+msgstr ""
+
 #. STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR"
-msgid "It seems that this altar is not fully functional!"
+msgid "Find a fully intact ancient structure to craft this at."
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSBEEFSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSBEEFSHRINE"
+msgid "Make an offering at the Beefalo Shrine!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_PLAZA"
+msgid "Decorate a Cawnival Tree during the Cawnival!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_HOSTSHOP_WANDER"
+msgid "Find Corvus Goodfeather during the Cawnival!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP"
+msgid "Purcase at the Cawnival's Prize Booth!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSCATCOONSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCATCOONSHRINE"
+msgid "Make an offering at the Catcoon Shrine!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSCHARACTER
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCHARACTER"
+msgid "Another survivor knows how to craft this."
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE
 msgctxt "STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE"
-msgid "Use a science machine to build a prototype!"
+msgid "Use a Science Machine to build a prototype!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSCRITTERLAB
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCRITTERLAB"
+msgid "Find the Rock Den to adopt this!"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSFISHING
@@ -289488,9 +289528,54 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSFISHING"
 msgid "Use a Tackle Receptacle to build a prototype!"
 msgstr ""
 
+#. STRINGS.UI.CRAFTING.NEEDSFOODPROCESSING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSFOODPROCESSING"
+msgid "Make a Portable Grinding Mill to get cooking!"
+msgstr ""
+
 #. STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR"
-msgid "Use a shadow manipulator to build a prototype!"
+msgid "Use a Shadow Manipulator to build a prototype!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSHALLOWED_NIGHTS
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHALLOWED_NIGHTS"
+msgid "Available during Hallowed Nights!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L1
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L1"
+msgid "Find someone friendly enough to make this trade!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L2
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L2"
+msgid "Find someone friendly enough to make this trade!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L3
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L3"
+msgid "Find someone friendly enough to make this trade!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L4
+msgctxt "STRINGS.UI.CRAFTING.NEEDSHERMITCRABSHOP_L4"
+msgid "Find someone friendly enough to make this trade!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSMADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSMADSCIENCE"
+msgid "Brew at the Mad Scientist Lab!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSPERDSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSPERDSHRINE"
+msgid "Make an offering at the Gobbler Shrine!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSPIGSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSPIGSHRINE"
+msgid "Make an offering at the Pig Shrine!"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSSEAFARING_STATION
@@ -289505,7 +289590,7 @@ msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING"
-msgid "Put stone on the wheel to create a Sculpting Block!"
+msgid "Put refined stone on the wheel to create a sculpture!"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSTUFF
@@ -289516,6 +289601,56 @@ msgstr ""
 #. STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF_PROTOTYPE"
 msgid "Find ingredients \nto prototype!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSTURFCRAFTING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSTURFCRAFTING"
+msgid "Use a Terra Firma Tamper to build a prototype!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSWARGSHRINE
+msgctxt "STRINGS.UI.CRAFTING.NEEDSWARGSHRINE"
+msgid "Make an offering at the Varg Shrine!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSWINTERSFEASTCOOKING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSWINTERSFEASTCOOKING"
+msgid "Cook this festive meal in the Masonry Oven!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSWINTERS_FEAST
+msgctxt "STRINGS.UI.CRAFTING.NEEDSWINTERS_FEAST"
+msgid "Available during Winter's Feast!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTB
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTB"
+msgid "Available during Year of the Beefalo!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTC
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTC"
+msgid "Available during Year of the Carrat!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTCATCOON
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTCATCOON"
+msgid "Available during Year of the Catcoon!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTG
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTG"
+msgid "Available during Year of the Gobbler!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTP
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTP"
+msgid "Available during Year of the Pig King!"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.NEEDSYOTV
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTV"
+msgid "Available during Year of the Varg!"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.PLACE
@@ -293833,11 +293968,6 @@ msgctxt "STRINGS.UI.LAVAARENA_SUMMARY_PANEL.TAB_TITLE"
 msgid "The Forge"
 msgstr ""
 
-#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_BIND_CONTROLS
-msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_BIND_CONTROLS"
-msgid "Play with Controls Settings in the Options Menu to fit your control needs."
-msgstr ""
-
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_DICEVOTE"
 msgid "Access the Server Commands menu from the Pause Screen to start votes or roll a dice."
@@ -293861,11 +293991,6 @@ msgstr ""
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
 msgid "Hold {inspect} to inspect the world around you."
-msgstr ""
-
-#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_PLAYER_STATUS
-msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_PLAYER_STATUS"
-msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
 msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
@@ -293896,6 +294021,11 @@ msgstr ""
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_ATTACK"
 msgid "Hold {attack} to attack enemies."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_BIND_CONTROLS"
+msgid "Play with Controls Settings in the Options Menu to fit your control needs."
 msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_CHAT
@@ -293931,6 +294061,11 @@ msgstr ""
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_INVENTORY_SLOTS"
 msgid "Press {inv_0}-{inv_9} to quickly use items carried in your main inventory."
+msgstr ""
+
+#. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS
+msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS"
+msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
 msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
@@ -297438,14 +297573,24 @@ msgctxt "STRINGS.UI.OPTIONS.CRAFTINGAUTOPAUSE"
 msgid "Crafting Auto-Pause:"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.CRAFTINGHINTALLRECIPES
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGHINTALLRECIPES"
+msgid "Crafting Preview:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
-msgid "Crafting Auto-Close"
+msgid "Crafting Auto-Close:"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE"
 msgid "Crafting Menu Size:"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.CRAFTING_HINTALL_ENABLED
+msgctxt "STRINGS.UI.OPTIONS.CRAFTING_HINTALL_ENABLED"
+msgid "All Recipes"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.CREDITS
@@ -297856,6 +298001,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
 msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES"
+msgid "Preview the next available research tier or show all locked recipes."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
