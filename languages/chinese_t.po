@@ -25143,7 +25143,7 @@ msgstr "它聞起來像枯葉。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANFISH_SMALL_7
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANFISH_SMALL_7"
-msgid "Hey little buddy! Get it, because it's got a bud on it's head?"
+msgid "Hey little buddy! Get it, because it's got a bud on its head?"
 msgstr "嘿，小夥伴！明白了吧，它的頭上有一個花苞？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANFISH_SMALL_8
@@ -204713,7 +204713,7 @@ msgstr "遭到永恆囚禁的植物。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUNKENCHEST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUNKENCHEST.GENERIC"
-msgid "I fear it's only a shell of it's former self."
+msgid "I fear it's only a shell of its former self."
 msgstr "就怕只是個空殼。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUNKENCHEST.LOCKED
@@ -288011,10 +288011,35 @@ msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.77"
 msgid "Pinned Recipes Page Right"
 msgstr "後一頁已固定的配方"
 
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.78
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.78"
+msgid "Inv 11"
+msgstr "物品欄11"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.79
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.79"
+msgid "Inv 12"
+msgstr "物品欄12"
+
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.8
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.8"
 msgid "Move Left"
 msgstr "向左移動"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.80
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.80"
+msgid "Inv 13"
+msgstr "物品欄13"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.81
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.81"
+msgid "Inv 14"
+msgstr "物品欄14"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.82
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.82"
+msgid "Inv 15"
+msgstr "物品欄15"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.9
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.9"
@@ -297586,6 +297611,16 @@ msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
 msgid "Crafting Auto-Close:"
 msgstr "自動關閉製作："
 
+#. STRINGS.UI.OPTIONS.CRAFTINGMENUNUMPINPAGES
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUNUMPINPAGES"
+msgid "Crafting Pin Pages:"
+msgstr "固定的製作配方："
+
+#. STRINGS.UI.OPTIONS.CRAFTINGMENUSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSENSITIVITY"
+msgid "Crafting Sensitivity:"
+msgstr "製作靈敏度："
+
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE"
 msgid "Crafting Menu Size:"
@@ -297720,6 +297755,11 @@ msgstr "融合"
 msgctxt "STRINGS.UI.OPTIONS.INTRO_MOVIE"
 msgid "Intro Movie"
 msgstr "介紹影片"
+
+#. STRINGS.UI.OPTIONS.INVENTORYSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.INVENTORYSENSITIVITY"
+msgid "Inventory Sensitivity:"
+msgstr "物品欄靈敏度："
 
 #. STRINGS.UI.OPTIONS.KLEI_ID_PREFIX
 msgctxt "STRINGS.UI.OPTIONS.KLEI_ID_PREFIX"
@@ -298016,6 +298056,16 @@ msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
 msgid "Closes the crafting menu when building a structure that is placed in the world."
 msgstr "在建造已經放置的建築時，關閉製作目錄。"
 
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES"
+msgid "Set how many pages of pinned recipes you would like to cycle through."
+msgstr "設置你想切換幾頁固定的配方。"
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the crafting menu."
+msgstr "調整流覽製作目錄時的靈敏度。"
+
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE"
 msgid "Customize the size of the crafting menu."
@@ -298075,6 +298125,11 @@ msgstr "自訂抬頭顯示的大小。"
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INPUT"
 msgid "Controller or Keyboard? Play Don't Starve Together your way."
 msgstr "手柄還是鍵盤？怎麼玩《饑荒連線版》由你定。"
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the inventory."
+msgstr "調整流覽物品欄時的靈敏度。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES"

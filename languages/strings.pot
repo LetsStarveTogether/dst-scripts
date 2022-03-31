@@ -25140,7 +25140,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANFISH_SMALL_7
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANFISH_SMALL_7"
-msgid "Hey little buddy! Get it, because it's got a bud on it's head?"
+msgid "Hey little buddy! Get it, because it's got a bud on its head?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANFISH_SMALL_8
@@ -204710,7 +204710,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUNKENCHEST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUNKENCHEST.GENERIC"
-msgid "I fear it's only a shell of it's former self."
+msgid "I fear it's only a shell of its former self."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUNKENCHEST.LOCKED
@@ -288008,9 +288008,34 @@ msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.77"
 msgid "Pinned Recipes Page Right"
 msgstr ""
 
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.78
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.78"
+msgid "Inv 11"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.79
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.79"
+msgid "Inv 12"
+msgstr ""
+
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.8
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.8"
 msgid "Move Left"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.80
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.80"
+msgid "Inv 13"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.81
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.81"
+msgid "Inv 14"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.82
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.82"
+msgid "Inv 15"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.9
@@ -297583,6 +297608,16 @@ msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
 msgid "Crafting Auto-Close:"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.CRAFTINGMENUNUMPINPAGES
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUNUMPINPAGES"
+msgid "Crafting Pin Pages:"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.CRAFTINGMENUSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSENSITIVITY"
+msgid "Crafting Sensitivity:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSIZE"
 msgid "Crafting Menu Size:"
@@ -297716,6 +297751,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.INTRO_MOVIE
 msgctxt "STRINGS.UI.OPTIONS.INTRO_MOVIE"
 msgid "Intro Movie"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.INVENTORYSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.INVENTORYSENSITIVITY"
+msgid "Inventory Sensitivity:"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.KLEI_ID_PREFIX
@@ -298013,6 +298053,16 @@ msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
 msgid "Closes the crafting menu when building a structure that is placed in the world."
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES"
+msgid "Set how many pages of pinned recipes you would like to cycle through."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the crafting menu."
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE"
 msgid "Customize the size of the crafting menu."
@@ -298071,6 +298121,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.INPUT
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INPUT"
 msgid "Controller or Keyboard? Play Don't Starve Together your way."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
+msgid "Adjust the input sensitivity while navigating through the inventory."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES
