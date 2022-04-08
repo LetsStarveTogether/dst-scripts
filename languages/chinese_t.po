@@ -994,7 +994,7 @@ msgstr "雕刻"
 #. STRINGS.ACTIONS.OPEN_CRAFTING.TRADE
 msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.TRADE"
 msgid "Trade with"
-msgstr "貿易"
+msgstr "交易"
 
 #. STRINGS.ACTIONS.OPEN_CRAFTING.USE
 msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.USE"
@@ -3365,6 +3365,11 @@ msgstr "我沒有選手參賽。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.INUSE"
 msgid "Someone beat me to the saddle!"
 msgstr "有人搶先騎上去了！"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Time to wake up!"
+msgstr "該醒醒了！"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -6844,7 +6849,7 @@ msgstr "一隻小鳥告訴我，這裡要多放點裝飾品。"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.LEVEL_3
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.LEVEL_3"
 msgid "This tree is caws for celebration!"
-msgstr "這事一棵慶祝之樹！"
+msgstr "這是一棵慶祝之樹！"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA_KIT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA_KIT"
@@ -17455,6 +17460,11 @@ msgstr "這一輪我和沃比看看就好了。"
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.INUSE"
 msgid "I guess this seat's occupied."
 msgstr "看來這個位子已經有人坐了。"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Sorry to wake you, but could you give me a ride?"
+msgstr "很抱歉弄醒你，能載我一程嗎？"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -31161,6 +31171,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.INUSE"
 msgid "Oh botheration. I was going to use that, you know!"
 msgstr "嗷，麻煩呐。我本來想用那個的，知道吧！"
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Wake up! There are places to go, things to be done!"
+msgstr "醒醒吧！還有地方要去，有事情要做！"
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I will not meet my end trampled beneath the hooves of an angry beefalo!"
@@ -37444,7 +37459,7 @@ msgstr "啊，青春。趁你還有的時候抓緊享受它吧。"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.LIVINGLOG
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.LIVINGLOG"
 msgid "This log is a lot livelier than it should be."
-msgstr "這跟木頭有點過於活潑了。"
+msgstr "這根木頭有點過於活潑了。"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.LIVINGTREE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.LIVINGTREE"
@@ -44966,6 +44981,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.INUSE"
 msgid "Oh. It must belong to someone else."
 msgstr "哦。這是屬於別人的。"
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Excusez-moi, but perhaps you can nap later?"
+msgstr "抱歉，但也許你可以晚點再打盹？"
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "Mon dieu. It's busy just now."
@@ -44984,7 +45004,7 @@ msgstr "unused_by_warly"
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.OPEN_CRAFTING.SHADOWMAGIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.OPEN_CRAFTING.SHADOWMAGIC"
 msgid "Maman used to keep a journal, before her memory went."
-msgstr "媽媽在記憶裡衰退前曾經寫過一本日記。"
+msgstr "媽媽在記憶力衰退前曾經寫過一本日記。"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.PICKUP.INUSE
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.PICKUP.INUSE"
@@ -57885,6 +57905,11 @@ msgstr "沒有自己的野獸，我是不會參加比賽的。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.INUSE"
 msgid "I'll need to be faster than that in battle!"
 msgstr "戰鬥中必須比那更快一點！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Rise, beastie! We ride!"
+msgstr "蘇醒吧，小野獸！讓我們一起馳騁吧！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -71511,6 +71536,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.INUSE"
 msgid "Once again the seat of power is stolen from me!"
 msgstr "我的力量之椅又被偷了！"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Get up, you lazy beast."
+msgstr "快起床，你這頭懶惰的野獸。"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "Perhaps I should take a step back."
@@ -78209,7 +78239,7 @@ msgstr "如果木牌沒有標記，那就一無是處。"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MINOTAUR"
 msgid "My my, the fuel has changed you."
-msgstr "天哪，那個燃料改變了你。"
+msgstr "天哪，那種燃料改變了你。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MINOTAURCHEST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MINOTAURCHEST"
@@ -85135,6 +85165,11 @@ msgstr "沒有皮弗婁牛是不能參賽的。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.INUSE"
 msgid "We didn't climb into the saddle in time!"
 msgstr "我們沒能及時爬進鞍座！"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Oops, were you sleeping?"
+msgstr "哎呀，你剛剛是在睡覺嗎？"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -98750,6 +98785,11 @@ msgstr "也許下次我能帶著自己的皮弗婁牛參賽……"
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.INUSE"
 msgid "I'll have to be quicker to the saddle next time."
 msgstr "下次我會更快點爬上鞍具。"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "It feels so cruel to wake it from its dreams..."
+msgstr "把它從夢中喚醒的感覺很殘酷……"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -112421,6 +112461,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.INUSE"
 msgid "Patience is required. I can ride this beefalo later."
 msgstr "需要耐心。我可以等會兒再騎這頭皮弗婁牛。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Up now, I require your services."
+msgstr "現在醒來吧，我需要你的服務。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "It would be ill-advised to approach that scuffle."
@@ -126035,6 +126080,11 @@ msgstr "我敢打賭，如果我燒點東西，比賽會刺激很多。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.INUSE"
 msgid "They beat me to the hairy beast. Maybe it's for the best."
 msgstr "他們比我先搶到了那毛獸。或許是件好事。"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Oh good you're awake, now let's get going!"
+msgstr "哦，很好，你醒了，那咱們就走吧！"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -139675,6 +139725,11 @@ msgstr "那我等下回合好了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.INUSE"
 msgid "Only one to a beef, hey?"
 msgstr "一頭牛只能坐一個，明白嗎？"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Up and at 'em, big guy!"
+msgstr "起來幹活了，大個子！"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -153376,6 +153431,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.INUSE"
 msgid "Hair-cow is occupied by another."
 msgstr "長毛奶牛在忙其他的事情。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Is time for waking, hair-cow!"
+msgstr "到了起床時間了，長毛奶牛！"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I cannot ride it now! Hair-cow is proving itself in battle!"
@@ -167011,6 +167071,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.INUSE"
 msgid "Maybe I can find a caribou to ride instead."
 msgstr "或許我能找到馴鹿來代替。"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Sorry there bud, time to get moving."
+msgstr "對不起，夥計，該走了。"
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I should wait for the dust to settle, eh?"
@@ -180625,6 +180690,11 @@ msgstr "現在我們還要等待"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.INUSE"
 msgid "Someone else's"
 msgstr "別人的"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "Upsie daisies!"
+msgstr "起床床了！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -194285,6 +194355,11 @@ msgstr "為什麼沒請我參加慶典？"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.INUSE"
 msgid "It has made a pact with another."
 msgstr "它已經和其他人制定了契約。"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "It's had its forty winks, methinks."
+msgstr "我看它還在打盹。"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -207956,6 +208031,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.INUSE"
 msgid "Let me on, florpt!"
 msgstr "讓我上去，浮浪噗的！"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "WAKE UP, BIG FUZZY!"
+msgstr "起來了，大絨毛！"
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "They look mad..."
@@ -210688,8 +210768,8 @@ msgstr "某種遺骸。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.BONESOUP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BONESOUP"
-msgid "Don't want it, florp"
-msgstr "不想要，浮浪噗"
+msgid "Don't want it, florp."
+msgstr "不想要，浮浪噗。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.BONESTEW
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BONESTEW"
@@ -213283,8 +213363,8 @@ msgstr "味道不錯，浮浪噗。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEENCANDY_7
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEENCANDY_7"
-msgid "Can eat yours if you don't want them, florp"
-msgstr "你那份不吃給我吃，浮浪噗"
+msgid "Can eat yours if you don't want them, florp."
+msgstr "你那份不吃給我吃，浮浪噗。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEENCANDY_8
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEENCANDY_8"
@@ -215318,8 +215398,8 @@ msgstr "長好大啊！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MUSHTREE_TALL_WEBBED
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUSHTREE_TALL_WEBBED"
-msgid "This one claimed by Spiderfolk"
-msgstr "這一個被蜘蛛人佔有了"
+msgid "This one claimed by Spiderfolk."
+msgstr "這一個被蜘蛛人佔有了。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATEDHOUND.DEAD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUTATEDHOUND.DEAD"
@@ -218313,8 +218393,8 @@ msgstr "洞穴岩石。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.STALAGMITE_TALL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.STALAGMITE_TALL"
-msgid "Big cave rock"
-msgstr "很大的洞穴岩石"
+msgid "Big cave rock."
+msgstr "很大的洞穴岩石。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.STALKER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.STALKER"
@@ -221655,6 +221735,11 @@ msgstr "我沒加入你們膽敢開始比賽"
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.INUSE"
 msgid "ERROR: MOUNT IN USE"
 msgstr "錯誤：已經被騎了"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.SLEEPING"
+msgid "SLEEP MODE DISABLED"
+msgstr "睡眠模式已禁用"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -250379,7 +250464,7 @@ msgstr "座狼"
 #. STRINGS.NAMES.WARGLET
 msgctxt "STRINGS.NAMES.WARGLET"
 msgid "Varglet"
-msgstr "小座狼"
+msgstr "青年座狼"
 
 #. STRINGS.NAMES.WARGSHRINE
 msgctxt "STRINGS.NAMES.WARGSHRINE"
@@ -287799,7 +287884,7 @@ msgstr "更換儲物箱（一半）"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.39
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.39"
 msgid "Force Inspect (mod)"
-msgstr "強制查看(模組)"
+msgstr "強制查看（複合鍵）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.4
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.4"
@@ -287809,17 +287894,17 @@ msgstr "查看"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.40
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.40"
 msgid "Force Attack (mod)"
-msgstr "強制攻擊(模組)"
+msgstr "強制攻擊（複合鍵）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.41
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.41"
 msgid "Force Container (mod)"
-msgstr "強制移入容器(模組)"
+msgstr "強制移入容器（複合鍵）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.42
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.42"
 msgid "Force Stack (mod)"
-msgstr "強制堆放(模組)"
+msgstr "強制堆放（複合鍵）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.43
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.43"
@@ -287999,7 +288084,7 @@ msgstr "暫停伺服器"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.75
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.75"
 msgid "Crafting Menu (mod)"
-msgstr "製作目錄（模組）"
+msgstr "製作目錄（複合鍵）"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.76
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.76"
@@ -288070,41 +288155,6 @@ msgstr "未知"
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.100"
 msgid "D"
 msgstr "D"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1000
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1000"
-msgid "Left Mouse Button"
-msgstr "滑鼠左鍵"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1001
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1001"
-msgid "Right Mouse Button"
-msgstr "滑鼠右鍵"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1002
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1002"
-msgid "Middle Mouse Button"
-msgstr "滑鼠中鍵"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1003
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1003"
-msgid "Mouse Scroll Up"
-msgstr "滑鼠滾輪上滾"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1004
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1004"
-msgid "Mouse Scroll Down"
-msgstr "滑鼠滾輪下滾"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1005
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1005"
-msgid "Mouse Button 4"
-msgstr "滑鼠按鈕4"
-
-#. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1006
-msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1006"
-msgid "Mouse Button 5"
-msgstr "滑鼠按鈕5"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.101
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.101"
@@ -289463,7 +289513,7 @@ msgstr "未知 '{food}'"
 
 #. STRINGS.UI.COOKBOOK.UNKNOWN_INGREDIENT_NAME
 msgctxt "STRINGS.UI.COOKBOOK.UNKNOWN_INGREDIENT_NAME"
-msgid "Unknown Ingredent '{ingredient}'"
+msgid "Unknown Ingredient '{ingredient}'"
 msgstr "未知原料 '{ingredient}'"
 
 #. STRINGS.UI.CRAFTING.BUILD
@@ -289475,6 +289525,11 @@ msgstr "建造"
 msgctxt "STRINGS.UI.CRAFTING.CANTRESEARCH"
 msgid "Some things must be discovered on your own."
 msgstr "有些東西必須靠自己去發現。"
+
+#. STRINGS.UI.CRAFTING.CRAFT_INGREDIENT
+msgctxt "STRINGS.UI.CRAFTING.CRAFT_INGREDIENT"
+msgid "Craft Ingredient"
+msgstr "製作原料"
 
 #. STRINGS.UI.CRAFTING.DEFAULT
 msgctxt "STRINGS.UI.CRAFTING.DEFAULT"
@@ -289528,7 +289583,7 @@ msgstr "在鴉年華上找到良羽鴉！"
 
 #. STRINGS.UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP
 msgctxt "STRINGS.UI.CRAFTING.NEEDSCARNIVAL_PRIZESHOP"
-msgid "Purcase at the Cawnival's Prize Booth!"
+msgid "Purchase at the Cawnival's Prize Booth!"
 msgstr "在良羽鴉的獎品攤位購物！"
 
 #. STRINGS.UI.CRAFTING.NEEDSCATCOONSHRINE
@@ -289690,6 +289745,11 @@ msgstr "放置"
 msgctxt "STRINGS.UI.CRAFTING.PROTOTYPE"
 msgid "Prototype"
 msgstr "原型"
+
+#. STRINGS.UI.CRAFTING.PROTOTYPE_INGREDIENT
+msgctxt "STRINGS.UI.CRAFTING.PROTOTYPE_INGREDIENT"
+msgid "Prototype Ingredient"
+msgstr "原型原料"
 
 #. STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP"
@@ -289889,7 +289949,7 @@ msgstr "釣魚"
 #. STRINGS.UI.CRAFTING_FILTERS.GARDENING
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.GARDENING"
 msgid "Food & Gardening"
-msgstr "食物和種植"
+msgstr "食物和耕種"
 
 #. STRINGS.UI.CRAFTING_FILTERS.LIGHT
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.LIGHT"
@@ -289909,7 +289969,7 @@ msgstr "模組物品"
 #. STRINGS.UI.CRAFTING_FILTERS.PROTOTYPERS
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.PROTOTYPERS"
 msgid "Prototypers & Stations"
-msgstr "原型和工作站"
+msgstr "原型工具和製作站"
 
 #. STRINGS.UI.CRAFTING_FILTERS.RAIN
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.RAIN"
@@ -289924,7 +289984,7 @@ msgstr "精煉材料"
 #. STRINGS.UI.CRAFTING_FILTERS.RESTORATION
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.RESTORATION"
 msgid "Healing"
-msgstr "正在康復"
+msgstr "治療"
 
 #. STRINGS.UI.CRAFTING_FILTERS.RIDING
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.RIDING"
@@ -289939,7 +289999,7 @@ msgstr "航行"
 #. STRINGS.UI.CRAFTING_FILTERS.SPECIAL_EVENT
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.SPECIAL_EVENT"
 msgid "Special Event"
-msgstr "特殊事件"
+msgstr "特別活動"
 
 #. STRINGS.UI.CRAFTING_FILTERS.STRUCTURES
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.STRUCTURES"
@@ -294214,7 +294274,7 @@ msgstr "“他們說暗影女王晚上出沒，專門抓走任何在黑暗中徘
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_DIRT_PILE
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_DIRT_PILE"
 msgid "\"I stumbled upon a rather suspicious mound of dirt... perhaps it was left by a creature of some sort? This may require further investigation...\" -W"
-msgstr "“我踩到一個相當可疑的泥團……也許它是由某種生物留下的？這可能需要進一步調查……”-W"
+msgstr "“我踩到一個相當可疑的土堆……也許它是由某種生物留下的？這可能需要進一步調查……”-W"
 
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_FLARE
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_FLARE"
@@ -301374,7 +301434,7 @@ msgstr "選擇存檔欄"
 #. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY"
 msgid "Day"
-msgstr "白天"
+msgstr "天"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_NEW
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_NEW"
