@@ -16723,6 +16723,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "I wonder if it dreams about scanning sheep."
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Looks like it's waiting for WX to pick it up [TODO]"
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YELLOWAMULET"
 msgid "Warm to the touch."
@@ -237985,7 +237990,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
-msgid "*Not a picky eater \n*Is charged by lightning, but damaged by water \n*Can upgrade with gears"
+msgid "*Can upgrade with circuits \n*Not a picky eater \n*Is charged by lightning, but damaged by water"
 msgstr ""
 
 #. STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
@@ -242821,6 +242826,196 @@ msgstr ""
 #. STRINGS.MERM2_TALK_TRADE.6
 msgctxt "STRINGS.MERM2_TALK_TRADE.6"
 msgid "Gnaw smile on you."
+msgstr ""
+
+#. STRINGS.MERMNAMES.1
+msgctxt "STRINGS.MERMNAMES.1"
+msgid "Flargle"
+msgstr ""
+
+#. STRINGS.MERMNAMES.10
+msgctxt "STRINGS.MERMNAMES.10"
+msgid "Glogh"
+msgstr ""
+
+#. STRINGS.MERMNAMES.11
+msgctxt "STRINGS.MERMNAMES.11"
+msgid "Glop"
+msgstr ""
+
+#. STRINGS.MERMNAMES.12
+msgctxt "STRINGS.MERMNAMES.12"
+msgid "Glot"
+msgstr ""
+
+#. STRINGS.MERMNAMES.13
+msgctxt "STRINGS.MERMNAMES.13"
+msgid "Glugh"
+msgstr ""
+
+#. STRINGS.MERMNAMES.14
+msgctxt "STRINGS.MERMNAMES.14"
+msgid "Glup"
+msgstr ""
+
+#. STRINGS.MERMNAMES.15
+msgctxt "STRINGS.MERMNAMES.15"
+msgid "Glurp"
+msgstr ""
+
+#. STRINGS.MERMNAMES.16
+msgctxt "STRINGS.MERMNAMES.16"
+msgid "Glurt"
+msgstr ""
+
+#. STRINGS.MERMNAMES.17
+msgctxt "STRINGS.MERMNAMES.17"
+msgid "Glurble"
+msgstr ""
+
+#. STRINGS.MERMNAMES.18
+msgctxt "STRINGS.MERMNAMES.18"
+msgid "Gogh"
+msgstr ""
+
+#. STRINGS.MERMNAMES.19
+msgctxt "STRINGS.MERMNAMES.19"
+msgid "Gop"
+msgstr ""
+
+#. STRINGS.MERMNAMES.2
+msgctxt "STRINGS.MERMNAMES.2"
+msgid "Flop"
+msgstr ""
+
+#. STRINGS.MERMNAMES.20
+msgctxt "STRINGS.MERMNAMES.20"
+msgid "Gopt"
+msgstr ""
+
+#. STRINGS.MERMNAMES.21
+msgctxt "STRINGS.MERMNAMES.21"
+msgid "Gorp"
+msgstr ""
+
+#. STRINGS.MERMNAMES.22
+msgctxt "STRINGS.MERMNAMES.22"
+msgid "Gort"
+msgstr ""
+
+#. STRINGS.MERMNAMES.23
+msgctxt "STRINGS.MERMNAMES.23"
+msgid "Gugh"
+msgstr ""
+
+#. STRINGS.MERMNAMES.24
+msgctxt "STRINGS.MERMNAMES.24"
+msgid "Gup"
+msgstr ""
+
+#. STRINGS.MERMNAMES.25
+msgctxt "STRINGS.MERMNAMES.25"
+msgid "Gupt"
+msgstr ""
+
+#. STRINGS.MERMNAMES.26
+msgctxt "STRINGS.MERMNAMES.26"
+msgid "Gurble"
+msgstr ""
+
+#. STRINGS.MERMNAMES.27
+msgctxt "STRINGS.MERMNAMES.27"
+msgid "Gurp"
+msgstr ""
+
+#. STRINGS.MERMNAMES.28
+msgctxt "STRINGS.MERMNAMES.28"
+msgid "Gurt"
+msgstr ""
+
+#. STRINGS.MERMNAMES.29
+msgctxt "STRINGS.MERMNAMES.29"
+msgid "Audrey"
+msgstr ""
+
+#. STRINGS.MERMNAMES.3
+msgctxt "STRINGS.MERMNAMES.3"
+msgid "Flot"
+msgstr ""
+
+#. STRINGS.MERMNAMES.30
+msgctxt "STRINGS.MERMNAMES.30"
+msgid "Jeffrey"
+msgstr ""
+
+#. STRINGS.MERMNAMES.31
+msgctxt "STRINGS.MERMNAMES.31"
+msgid "Johnny"
+msgstr ""
+
+#. STRINGS.MERMNAMES.32
+msgctxt "STRINGS.MERMNAMES.32"
+msgid "Isabella"
+msgstr ""
+
+#. STRINGS.MERMNAMES.33
+msgctxt "STRINGS.MERMNAMES.33"
+msgid "Madeline"
+msgstr ""
+
+#. STRINGS.MERMNAMES.34
+msgctxt "STRINGS.MERMNAMES.34"
+msgid "Michael"
+msgstr ""
+
+#. STRINGS.MERMNAMES.35
+msgctxt "STRINGS.MERMNAMES.35"
+msgid "Penelope"
+msgstr ""
+
+#. STRINGS.MERMNAMES.36
+msgctxt "STRINGS.MERMNAMES.36"
+msgid "Sarah"
+msgstr ""
+
+#. STRINGS.MERMNAMES.37
+msgctxt "STRINGS.MERMNAMES.37"
+msgid "Simon"
+msgstr ""
+
+#. STRINGS.MERMNAMES.38
+msgctxt "STRINGS.MERMNAMES.38"
+msgid "Trevor"
+msgstr ""
+
+#. STRINGS.MERMNAMES.4
+msgctxt "STRINGS.MERMNAMES.4"
+msgid "Flugh"
+msgstr ""
+
+#. STRINGS.MERMNAMES.5
+msgctxt "STRINGS.MERMNAMES.5"
+msgid "Flupt"
+msgstr ""
+
+#. STRINGS.MERMNAMES.6
+msgctxt "STRINGS.MERMNAMES.6"
+msgid "Flurgle"
+msgstr ""
+
+#. STRINGS.MERMNAMES.7
+msgctxt "STRINGS.MERMNAMES.7"
+msgid "Fopt"
+msgstr ""
+
+#. STRINGS.MERMNAMES.8
+msgctxt "STRINGS.MERMNAMES.8"
+msgid "Furp"
+msgstr ""
+
+#. STRINGS.MERMNAMES.9
+msgctxt "STRINGS.MERMNAMES.9"
+msgid "Furt"
 msgstr ""
 
 #. STRINGS.MERM_BATTLECRY.1.1
@@ -253470,6 +253665,11 @@ msgstr ""
 
 #. STRINGS.NAMES.WX78_SCANNER_ITEM
 msgctxt "STRINGS.NAMES.WX78_SCANNER_ITEM"
+msgid "Bio Scanalyzer"
+msgstr ""
+
+#. STRINGS.NAMES.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.NAMES.WX78_SCANNER_SUCCEEDED"
 msgid "Bio Scanalyzer"
 msgstr ""
 
