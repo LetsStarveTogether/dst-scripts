@@ -59375,7 +59375,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KITCOON_HIDANDSEEK_TOOFAR_RETURN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KITCOON_HIDANDSEEK_TOOFAR_RETURN"
-msgid "We have returned to the hunting grounds"
+msgid "We have returned to the hunting grounds."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KITCOON_HIDEANDSEEK_JOIN
@@ -226975,7 +226975,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BUNNYSTEW
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BUNNYSTEW"
-msgid "HA-HA. SLOW RABBIT GOT STEWED."
+msgid "HA-HA. SLOW RABBIT GOT STEWED"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BURNT_MARSH_BUSH
@@ -262278,6 +262278,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_formal"
 msgid "But of course it has a cummerbund."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_formalp"
+msgid "But of course it has a cummerbund."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_gladiator"
 msgid "Make sure your minions know who's top robot."
@@ -262298,6 +262303,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_nature"
 msgid "This chassis is all bark and no byte."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_retro"
+msgid "There is no heart to be found inside this metal monster."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_rhinorook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rhinorook"
 msgid "This Rook Hallowed Nights costume will give you a run for your money."
@@ -262313,13 +262323,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rose"
 msgid "Vines wrapped around wires, wires wrapped around vines."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rosep"
+msgid "Vines wrapped around wires, wires wrapped around vines."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadow"
 msgid "A dark automaton chassis with a lovely decorative gemstone."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadowp"
+msgid "A dark automaton chassis with a lovely decorative gemstone."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivor"
+msgid "It may have seen better days, but this body is still minimally functional."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivorp"
 msgid "It may have seen better days, but this body is still minimally functional."
 msgstr ""
 
@@ -263858,6 +263883,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_robot"
 msgid "Fires never had a chance."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical"
+msgid "Fit for only the finest fish."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown"
 msgid "This feather hat is so luxurious to the touch!"
@@ -264668,6 +264698,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_nature"
 msgid "Get in touch with nature with these clinging vine hand replacements."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro"
+msgid "All superfluous fingers have been eradicated for maximum efficiency."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian"
 msgid "These diving suit gloves are old and worn. They probably aren't waterproof anymore."
@@ -264881,6 +264916,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt"
 msgid "It's certainly eye-catching!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_retro"
+msgid "A powerful light, with only a negligible risk of electrocution."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
@@ -265608,6 +265648,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_ice"
 msgid "Built to resist even the bitterest cold."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_retro"
+msgid "You can't stop the march of progress."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_victorian"
 msgid "The bottom of this diving suit is just for show. It doesn't keep out water anymore."
@@ -265631,6 +265676,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical"
 msgid "Woe to this poor fish in particular."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_retro"
+msgid "Lightning - the energy source of the future!"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot
@@ -267018,6 +267068,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_oni_gift"
 msgid "Oxygen Not Included Gift"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_retro_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_retro_items"
+msgid "This Experimental Chest contains the following belongings skin items: Electrified Lantern, Experimental Energy Siphon, and Experimentation Apparatus."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
 msgid "Don't Starve: Reign of Giants Gift"
@@ -267653,6 +267708,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wurt_shadow"
 msgid "This Chest contains Wurt's complete set of Triumphant skin items."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_deluxe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_deluxe"
+msgid "This Deluxe Wardrobe contains WX-78's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Experimental skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_formal"
+msgid "This Chest contains WX-78's complete set of Guest of Honor skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro"
+msgid "This Chest contains WX-78's complete set of Experimental skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_rose"
+msgid "This Chest contains WX-78's complete set of Roseate skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_shadow"
+msgid "This Chest contains WX-78's complete set of Triumphant skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_survivor"
+msgid "This Chest contains WX-78's complete set of Survivor skin items."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yotc_builders
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yotc_builders"
 msgid "This Chest contains a plethora of belonging skins to remodel your base with."
@@ -268000,6 +268085,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_firesuppressorcircus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_firesuppressorcircus"
+msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_fishboxnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_fishboxnautical"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
@@ -268596,6 +268686,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_firesuppressor_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_firesuppressor_circus"
 msgid "Set your profile icon to an Amazing Snowball Juggler."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_fishbox_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_fishbox_nautical"
+msgid "Set your profile icon to a Silver Tuna Tin."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart
@@ -269718,6 +269813,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_green"
 msgid "It's positively oozing with scientific potential!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_retro"
+msgid "What will you do in the name of progress?"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush"
 msgid "Nothing like a fresh coat of spectral paint."
@@ -270436,6 +270536,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart"
 msgid "Love the new look."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine"
+msgid "This thorny wardrobe will have you looking sharp."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_yule
@@ -272008,6 +272113,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_formal"
 msgid "ERROR: DO NOT RECOGNIZE COMMAND \"MOUSTACHE.TWIRL\""
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_formalp"
+msgid "ERROR: DO NOT RECOGNIZE COMMAND \"MOUSTACHE.TWIRL\""
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator"
 msgid "WX-78's transformation into an organic killing machine proves all dreams are possible, if you only believe."
@@ -272033,6 +272143,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_none"
 msgid "Original design, version 1.0."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_retro"
+msgid "A bolt of lightning has brought this mechanical menace... to life!"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook"
 msgid "Rookiebot Costume"
@@ -272053,13 +272168,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rose"
 msgid "The organics have inextricably grown on WX-78... Regrettable."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rosep"
+msgid "The organics have inextricably grown on WX-78... Regrettable."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_shadow"
 msgid "This robot was evil before. Now they're double evil."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_shadowp"
+msgid "This robot was evil before. Now they're double evil."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_survivor"
+msgid "Exposure to the elements causes corrosion."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_survivorp"
 msgid "Exposure to the elements causes corrosion."
 msgstr ""
 
@@ -274598,6 +274728,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wx78_formal"
 msgid "Formal Body Shell"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_wx78_formalp
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_formalp"
+msgid "Formal Body Shell"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wx78_gladiator
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_gladiator"
 msgid "Cast Iron Chassis"
@@ -274618,6 +274753,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wx78_nature"
 msgid "Timber Golem Trunk"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_retro"
+msgid "Experimental Chassis"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_rhinorook"
 msgid "Rook Costume Top"
@@ -274633,13 +274773,28 @@ msgctxt "STRINGS.SKIN_NAMES.body_wx78_rose"
 msgid "Fieldrose Vessel"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_wx78_rosep
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_rosep"
+msgid "Fieldrose Vessel"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wx78_shadow
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_shadow"
 msgid "Shadow Chassis"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_wx78_shadowp
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_shadowp"
+msgid "Shadow Chassis"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wx78_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_survivor"
+msgid "Battered Body Case"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_wx78_survivorp
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_survivorp"
 msgid "Battered Body Case"
 msgstr ""
 
@@ -276178,6 +276333,11 @@ msgctxt "STRINGS.SKIN_NAMES.firesuppressor_robot"
 msgid "Fling-o-Tron 4000"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.fishbox_nautical
+msgctxt "STRINGS.SKIN_NAMES.fishbox_nautical"
+msgid "Silver Tuna Tin"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.flowerhat_crown
 msgctxt "STRINGS.SKIN_NAMES.flowerhat_crown"
 msgid "Feathered Wreath"
@@ -276988,6 +277148,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wx78_nature"
 msgid "Timber Golem Hands"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.hand_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.hand_wx78_retro"
+msgid "Experimental Graspers"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.hand_wx78_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_wx78_victorian"
 msgid "Diving Gauntlets"
@@ -277201,6 +277366,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.lantern_mummy_alt
 msgctxt "STRINGS.SKIN_NAMES.lantern_mummy_alt"
 msgid "Monstrous Lantern"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.lantern_retro
+msgctxt "STRINGS.SKIN_NAMES.lantern_retro"
+msgid "Electrified Lantern"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.lantern_tesla
@@ -277928,6 +278098,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wx78_ice"
 msgid "Sub-Zero Legs"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.legs_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.legs_wx78_retro"
+msgid "Ambulation Apparatus"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.legs_wx78_victorian
 msgctxt "STRINGS.SKIN_NAMES.legs_wx78_victorian"
 msgid "Diving Suit Bottom"
@@ -277951,6 +278126,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.lightning_rod_nautical
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_nautical"
 msgid "Smite'ning Rod"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.lightning_rod_retro
+msgctxt "STRINGS.SKIN_NAMES.lightning_rod_retro"
+msgid "Experimental Energy Siphon"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.lightning_rod_robot
@@ -279338,6 +279518,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_oni_gift"
 msgid "Oxygen Not Included Gift"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_retro_items
+msgctxt "STRINGS.SKIN_NAMES.pack_retro_items"
+msgid "Experimental Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_rog_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
 msgid "Don't Starve: Reign of Giants Gift"
@@ -279973,6 +280158,36 @@ msgctxt "STRINGS.SKIN_NAMES.pack_wurt_shadow"
 msgid "Wurt Triumphant Chest"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_wx78_deluxe
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_deluxe"
+msgid "WX-78 Deluxe Wardrobe"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wx78_formal
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_formal"
+msgid "WX-78 Guest of Honor Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_retro"
+msgid "WX-78 Experimental Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wx78_rose
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_rose"
+msgid "WX-78 Roseate Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wx78_shadow
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_shadow"
+msgid "WX-78 Shadow Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wx78_survivor
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_survivor"
+msgid "WX-78 Survivor Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_yotc_builders
 msgctxt "STRINGS.SKIN_NAMES.pack_yotc_builders"
 msgid "Builder's Belongings Chest"
@@ -280321,6 +280536,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_firesuppressorcircus
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_firesuppressorcircus"
 msgid "Amazing Snowball Juggler Portrait"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical"
+msgid "Silver Tuna Tin Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_flames
@@ -280916,6 +281136,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_firesuppressor_circus
 msgctxt "STRINGS.SKIN_NAMES.profileflair_firesuppressor_circus"
 msgid "Amazing Snowball Juggler"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_fishbox_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_fishbox_nautical"
+msgid "Silver Tuna Tin"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_food_berrytart
@@ -282038,6 +282263,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab_green"
 msgid "Terrible Ooze Machine"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.researchlab_retro
+msgctxt "STRINGS.SKIN_NAMES.researchlab_retro"
+msgid "Experimentation Apparatus"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.reskin_tool_brush
 msgctxt "STRINGS.SKIN_NAMES.reskin_tool_brush"
 msgid "Spectre Paintbrush"
@@ -282756,6 +282986,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wardrobe_heart
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_heart"
 msgid "Lover's Wardrobe"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wardrobe_vine
+msgctxt "STRINGS.SKIN_NAMES.wardrobe_vine"
+msgid "Brambleberry Wardrobe"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wardrobe_yule
@@ -284328,6 +284563,11 @@ msgctxt "STRINGS.SKIN_NAMES.wx78_formal"
 msgid "Guest of Honor"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wx78_formalp
+msgctxt "STRINGS.SKIN_NAMES.wx78_formalp"
+msgid "Guest of Honor"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wx78_gladiator
 msgctxt "STRINGS.SKIN_NAMES.wx78_gladiator"
 msgid "The Gladiator"
@@ -284353,6 +284593,11 @@ msgctxt "STRINGS.SKIN_NAMES.wx78_none"
 msgid "WX-78"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.wx78_retro"
+msgid "The Experiment"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.wx78_rhinorook"
 msgid "Rook Costume"
@@ -284373,13 +284618,28 @@ msgctxt "STRINGS.SKIN_NAMES.wx78_rose"
 msgid "The Roseate"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wx78_rosep
+msgctxt "STRINGS.SKIN_NAMES.wx78_rosep"
+msgid "The Roseate"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wx78_shadow
 msgctxt "STRINGS.SKIN_NAMES.wx78_shadow"
 msgid "The Triumphant"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wx78_shadowp
+msgctxt "STRINGS.SKIN_NAMES.wx78_shadowp"
+msgid "The Triumphant"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wx78_survivor
 msgctxt "STRINGS.SKIN_NAMES.wx78_survivor"
+msgid "The Survivor"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wx78_survivorp
+msgctxt "STRINGS.SKIN_NAMES.wx78_survivorp"
 msgid "The Survivor"
 msgstr ""
 
@@ -285658,6 +285918,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wx78_formal"
 msgid "\"I POLISHED MY CHASSIS FOR THE OCCASION\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.wx78_formalp
+msgctxt "STRINGS.SKIN_QUOTES.wx78_formalp"
+msgid "\"I POLISHED MY CHASSIS FOR THE OCCASION\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wx78_gladiator
 msgctxt "STRINGS.SKIN_QUOTES.wx78_gladiator"
 msgid "\"ALL FLESHLINGS WILL BE CRUSHED\""
@@ -285676,6 +285941,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.wx78_nature
 msgctxt "STRINGS.SKIN_QUOTES.wx78_nature"
 msgid "\"I AM THE ROOT OF ALL EVIL\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wx78_retro
+msgctxt "STRINGS.SKIN_QUOTES.wx78_retro"
+msgid "\"I AM THE FUTURE\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wx78_rhinorook
@@ -285698,13 +285968,28 @@ msgctxt "STRINGS.SKIN_QUOTES.wx78_rose"
 msgid "\"OVERGROWN. CIRCUITS BLOWN\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.wx78_rosep
+msgctxt "STRINGS.SKIN_QUOTES.wx78_rosep"
+msgid "\"OVERGROWN. CIRCUITS BLOWN\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wx78_shadow
 msgctxt "STRINGS.SKIN_QUOTES.wx78_shadow"
 msgid "\"NOW THE OUTSIDE MATCHES THE INSIDE. EVIL.\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.wx78_shadowp
+msgctxt "STRINGS.SKIN_QUOTES.wx78_shadowp"
+msgid "\"NOW THE OUTSIDE MATCHES THE INSIDE. EVIL.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wx78_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wx78_survivor"
+msgid "\"RUSTED AND BUSTED\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wx78_survivorp
+msgctxt "STRINGS.SKIN_QUOTES.wx78_survivorp"
 msgid "\"RUSTED AND BUSTED\""
 msgstr ""
 
@@ -286021,6 +286306,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION"
 msgid "Promotional Collection"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.RETRO
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.RETRO"
+msgid "Experimental Collection"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE
@@ -286391,6 +286681,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR"
 msgid "Ice Flingomatic"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX"
+msgid "Tin Fishin' Bin "
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT
