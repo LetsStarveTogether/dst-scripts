@@ -1501,7 +1501,7 @@ local function GetPickupAction(self, target, tool)
         return ACTIONS.CHECKTRAP
     elseif target:HasTag("minesprung") and not target:HasTag("mine_not_reusable") then
         return ACTIONS.RESETMINE
-    elseif target:HasTag("inactive") and target.replica.inventoryitem == nil then
+    elseif target:HasTag("inactive") and not target:HasTag("activatable_forcenopickup") and target.replica.inventoryitem == nil then
         return (not target:HasTag("wall") or self.inst:IsNear(target, 2.5)) and ACTIONS.ACTIVATE or nil
     
     elseif target.replica.inventoryitem ~= nil and
@@ -2437,7 +2437,7 @@ function PlayerController:OnUpdate(dt)
                 --Check for chain attacking first
                 local retarget = nil
                 local buffaction = self.inst:GetBufferedAction()
-                if (not self.ismastersim and not buffaction) or (buffaction and buffaction.action ~= ACTIONS.ATTACK) or self.actionholding then
+                if (attack_control == CONTROL_PRIMARY and not self.ismastersim and not buffaction) or (buffaction and buffaction.action ~= ACTIONS.ATTACK) or self.actionholding then
                     if self.inst.sg ~= nil then
                         retarget = self.inst.sg.statemem.attacktarget
                     elseif self.inst.replica.combat ~= nil then
