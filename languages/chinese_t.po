@@ -36,6 +36,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.CLOSE"
 msgid "Close"
 msgstr "關閉"
 
+#. STRINGS.ACTIONS.ACTIVATE.DEACTIVATE
+msgctxt "STRINGS.ACTIONS.ACTIVATE.DEACTIVATE"
+msgid "Deactivate"
+msgstr "停用"
+
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
 msgid "Activate"
@@ -110,6 +115,11 @@ msgstr "應用"
 msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION"
 msgid "Build"
 msgstr "建造"
+
+#. STRINGS.ACTIONS.APPLYMODULE
+msgctxt "STRINGS.ACTIONS.APPLYMODULE"
+msgid "Plug In"
+msgstr "插入"
 
 #. STRINGS.ACTIONS.APPLYPRESERVATIVE.GENERIC
 msgctxt "STRINGS.ACTIONS.APPLYPRESERVATIVE.GENERIC"
@@ -380,6 +390,11 @@ msgstr "連接漁具"
 msgctxt "STRINGS.ACTIONS.CHANGE_TACKLE.REMOVE"
 msgid "Remove"
 msgstr "移除"
+
+#. STRINGS.ACTIONS.CHARGE_FROM
+msgctxt "STRINGS.ACTIONS.CHARGE_FROM"
+msgid "Charge At"
+msgstr "充電"
 
 #. STRINGS.ACTIONS.CHECKTRAP
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
@@ -1110,6 +1125,11 @@ msgstr "收線"
 msgctxt "STRINGS.ACTIONS.REMOTERESURRECT"
 msgid "Resurrect"
 msgstr "復活"
+
+#. STRINGS.ACTIONS.REMOVEMODULES
+msgctxt "STRINGS.ACTIONS.REMOVEMODULES"
+msgid "Unplug"
+msgstr "拔下"
 
 #. STRINGS.ACTIONS.REPAIR.GENERIC
 msgctxt "STRINGS.ACTIONS.REPAIR.GENERIC"
@@ -2901,6 +2921,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
 msgstr "鳥兒看起來都飛走了。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "They must be busy now."
@@ -3010,6 +3040,16 @@ msgstr "得在上面栓點東西。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "There isn't enough fur to style."
 msgstr "皮毛不夠用來裝扮。"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -3311,6 +3351,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "I've already tackled this one."
 msgstr "不對，不對。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "It doesn't seem interested in a scientific discussion."
+msgstr "它似乎對科學討論沒有興趣。"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "They won't listen to me, but they might listen to Webber."
@@ -3450,6 +3495,11 @@ msgstr "only_used_by_wickerbottom"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.READ.NOBIRDS"
 msgid "only_used_by_wickerbottom"
 msgstr "only_used_by_wickerbottom"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -4586,6 +4636,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NORMALTOWIMPY"
 msgid "only_used_by_wolfang"
 msgstr "only_used_by_wolfang"
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOSLEEPONFIRE"
 msgid "I don't exactly have a burning desire to sleep in that."
@@ -5065,6 +5120,16 @@ msgstr "頭腦正常的人可不會幹那事。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WORMS"
 msgid "Did you feel that?"
 msgstr "你感覺到了嗎？"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WX_SCANNER_FOUND_NO_DATA
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WX_SCANNER_FOUND_NO_DATA"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -13411,6 +13476,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SAPLING.WITHERED"
 msgid "It might be okay if it cooled down."
 msgstr "如果能給它降降溫，也許它能好起來。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCANDATA"
+msgid "Smells like fresh research."
+msgstr "聞起來像新鮮的研究。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCARECROW.BURNING"
 msgid "Someone made that strawman eat crow."
@@ -16566,6 +16636,111 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78.REVIVER"
 msgid "I guess %s got that empathy module up and running."
 msgstr "我猜是%s讓感同身受組件啟動並運行。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_BEE"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_COLD"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_HEAT"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_LIGHT"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MUSIC"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_TASER"
+msgid "So much science packed into one tiny gizmo."
+msgstr "一個小玩意竟然裝得下這麼多的科學知識。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Obviously a very delicate and complicated scientific instrument."
+msgstr "這顯然是一個非常精細和複雜的科學儀器。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "WX-78 really puts a piece of themselves into their work."
+msgstr "WX-78真的把自己的一部分投入到了工作中。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Get that data!"
+msgstr "抓住那份資料！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Seems like it's found something."
+msgstr "它似乎發現了什麼。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "I wonder if it dreams about scanning sheep."
+msgstr "我想知道它是否會夢到掃描羊。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "It's got the look of someone eager to show their work."
+msgstr "它有一種迫不及待向世人展示自己作品的急迫。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YELLOWAMULET"
 msgid "Warm to the touch."
@@ -17076,6 +17251,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aw, looks like they all left..."
 msgstr "嗷，看來他們都走了……"
 
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Let's come back later."
@@ -17140,6 +17325,16 @@ msgstr "呃，我們好像忘了什麼東西..."
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "I'll have to wait till their hair grows back."
 msgstr "我得等到它們的毛髮長回來。"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -17406,6 +17601,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Heh. I learned that ages ago!"
 msgstr "呵呵。我好久之前就知道了！"
 
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "I was trying to scratch behind his ears... but I don't think he has any."
+msgstr "我本想替他抓抓耳朵後面……但他好像沒有耳朵。"
+
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "They're not listening to me! Maybe Webber can talk to them..."
@@ -17525,6 +17725,11 @@ msgstr "嗯，最後一滴水沒了。"
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "I'll need to get more water."
 msgstr "我需要更多的水。"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -18426,6 +18631,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "I can't rest now! There's too much to look at down here!"
 msgstr "我睡不著！下面有好多東西可以看！"
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Um, WX? Could you maybe turn the light down a bit?"
+msgstr "嗯，WX？你能不能把燈光調暗一點？"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Um... that's on fire."
@@ -18790,6 +19000,11 @@ msgstr "好神奇！"
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_WORMS"
 msgid "Something's moving..."
 msgstr "有東西在動……"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -27096,6 +27311,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SAPLING.WITHERED"
 msgid "I guess it's too hot out."
 msgstr "我猜一定是因為太熱了。"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SCANDATA"
+msgid "Neat! Wanna scan me next?"
+msgstr "太帥了！接下來掃描我怎麼樣？"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SCARECROW.BURNING"
 msgid "I guess that makes it look a little scarier."
@@ -30246,6 +30466,111 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78.REVIVER"
 msgid "Aw, you do care about us \"meatsacks\"!"
 msgstr "嗷，你還是很關心我們這些“肉袋”嘛！"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_BEE"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_COLD"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_HEAT"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_TASER"
+msgid "Robot guts! Neat!"
+msgstr "機器人的內臟！太帥了！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Should I start carrying something like this in my first aid kit?"
+msgstr "我要不要在急救箱中加入它？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Aww, who's a good little robot?"
+msgstr "嗷，誰是聽話的小機器人呢？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Aww, who's a good little robot?"
+msgstr "嗷，誰是聽話的小機器人呢？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Aww, who's a good little robot?"
+msgstr "嗷，誰是聽話的小機器人呢？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "I guess it's taking a nap."
+msgstr "我猜它在打盹。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "What is it boy? Do you have something to show WX?"
+msgstr "怎麼了，孩子？你有東西給WX看嗎？"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YELLOWAMULET"
 msgid "With this on, I'm invincible! Right?"
@@ -30756,6 +31081,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Gone already? Time sure flies when you're having fun."
 msgstr "就沒了嗎？歡樂的時光總是那麼短暫。"
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "I need you to look at this, time is of the essence!"
@@ -30845,6 +31180,16 @@ msgstr "我以為我已經……可能是在另一條時間線裡吧。"
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Oh botheration, it hasn't grown enough hair yet."
 msgstr "哎呀麻煩了，它頭髮還沒長足。"
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -31116,6 +31461,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "I'm pretty sure I've seen this before. Or maybe I will see it soon?"
 msgstr "我很確定以前見過。或者是很快就會見到它？"
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Fine then, keep your secrets to yourself!"
+msgstr "那好吧，你就接著保守自己的秘密吧！"
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "They have no interest in listening to me, and I have no interest in them."
@@ -31250,6 +31600,11 @@ msgstr "only_used_by_wickerbottom"
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.READ.NOBIRDS"
 msgid "only_used_by_wickerbottom"
 msgstr "only_used_by_wickerbottom"
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -32241,6 +32596,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NORMALTOWIMPY"
 msgid "only_used_by_wolfang"
 msgstr "only_used_by_wolfang"
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Botheration... it's too bright to sleep while that automaton's about."
+msgstr "麻煩呐……那個機器人把周圍照的太亮，根本沒法睡。"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPONFIRE"
 msgid "It might be hard to sleep while I'm being roasted alive."
@@ -32625,6 +32985,11 @@ msgstr "我不能相信我剛剛居然那麼做了……"
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WORMS"
 msgid "That rumble felt... ominous."
 msgstr "那隆隆聲感覺……很不祥。"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -40936,6 +41301,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SAPLING.WITHERED"
 msgid "It won't survive long in this heat."
 msgstr "它在這種高溫下不會存活太久。"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCANDATA"
+msgid "It's of no use to me, I won't waste time reading it."
+msgstr "對我一點用都沒用，我才不要浪費時間讀它。"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCARECROW.BURNING"
 msgid "This might end up being an improvement."
@@ -44081,6 +44451,111 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78.REVIVER"
 msgid "I think deep down you value life as much as I do, %s."
 msgstr "我知道你內心深處和我一樣重視生命，%s。"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_BEE"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_COLD"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_HEAT"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_TASER"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr "啊哈！我就琢磨著應該有人做這種東西了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Did the automaton make off with one of my tools?"
+msgstr "那個機器人是不是偷了我的工具？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Please buzz around elsewhere, you're distracting me!"
+msgstr "請你去別的地方嗡嗡響，你讓我很分神！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Please buzz around elsewhere, you're distracting me!"
+msgstr "請你去別的地方嗡嗡響，你讓我很分神！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Please buzz around elsewhere, you're distracting me!"
+msgstr "請你去別的地方嗡嗡響，你讓我很分神！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "It's biding its time."
+msgstr "它在等待時機。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "I suppose you have nothing better to do than wait around?"
+msgstr "你除了乾等著就沒事可做了？"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YELLOWAMULET"
 msgid "Just the boost I needed."
@@ -44591,6 +45066,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The festivities seem to be over."
 msgstr "慶祝活動似乎已經結束。"
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Un moment, the judge seems to be occupied."
@@ -44660,6 +45145,16 @@ msgstr "得有東西來讓我打扮，不是嗎？"
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "There's not really much to work with at the moment."
 msgstr "就這點的話，我實在無從下手。"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -44926,6 +45421,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We've learned that already."
 msgstr "已經學過了。"
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "I do not think I'm the one it wants to talk to."
+msgstr "我不認為我是它想交談的人。"
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "I'm afraid they won't listen to me."
@@ -45045,6 +45545,11 @@ msgstr "我已經把最後一滴都倒出來了。"
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Not a drop left!"
 msgstr "一滴水都不剩了！"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -45986,6 +46491,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "This does not strike me as a relaxing place for siesta."
 msgstr "我並不認為這是一個能讓我安心午休的地方。"
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "I can still see the light from our metal friend when I close my eyes..."
+msgstr "就算閉上眼，我還是可以看到我們的金屬朋友發出的光……"
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE"
 msgid "I think not! That's a hotbed for danger!"
@@ -46330,6 +46840,11 @@ msgstr "我一定是精神錯亂了才會穿越去別處，所以..."
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WORMS"
 msgid "Huh? What's that?"
 msgstr "啊？那是什麼？"
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -53866,6 +54381,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SAPLING.WITHERED"
 msgid "It could use some love."
 msgstr "可以用愛澆灌一下。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SCANDATA"
+msgid "What is this they're cooking up?"
+msgstr "這是一道什麼菜？"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SCARECROW.BURNING"
 msgid "What a tragedy."
@@ -57011,6 +57531,111 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78.REVIVER"
 msgid "%s did a kind thing today."
 msgstr "%s今天做了件好事。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_BEE"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_COLD"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_HEAT"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_LIGHT"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MUSIC"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_TASER"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr "能給我們的金屬朋友帶來了一點額外的風味，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Ah, I believe this utensil belongs to our metal friend."
+msgstr "啊，這個器皿屬於我們的金屬朋友。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
+msgstr "似乎隱約是土豆的形狀……也可能我只是餓了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
+msgstr "似乎隱約是土豆的形狀……也可能我只是餓了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
+msgstr "似乎隱約是土豆的形狀……也可能我只是餓了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
+msgstr "似乎隱約是土豆的形狀……也可能我只是餓了。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Voilà, it is done!"
+msgstr "哇啦，完成了！"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWAMULET"
 msgid "Puts some pep in my step!"
@@ -57521,6 +58146,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It seems the ravens hath returned to Odin."
 msgstr "渡鴉似乎回到了奧丁身邊。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Finish thine business with haste! I have glory to attain!"
@@ -57590,6 +58225,16 @@ msgstr "需要有個動物在這裡我才能開始打扮。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "First the beast must grow back its mane."
 msgstr "首先，必須等這野獸的鬃毛長回來。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -57851,6 +58496,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We have already conquered this knowledge."
 msgstr "我們已經攻克了這一知識。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "I respect thine loyalty to our metal warrior, scout."
+msgstr "我尊重你對金屬戰士的忠誠，偵察兵。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "The spiderchild is the only one who can tame those little beasts!"
@@ -57970,6 +58620,11 @@ msgstr "空的。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Nary a drop left."
 msgstr "一滴不剩了。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -58723,7 +59378,7 @@ msgstr "走這麼遠，大概率找不到小野獸了。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KITCOON_HIDANDSEEK_TOOFAR_RETURN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KITCOON_HIDANDSEEK_TOOFAR_RETURN"
-msgid "We have returned to the hunting grounds"
+msgid "We have returned to the hunting grounds."
 msgstr "我們又回到了獵場。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KITCOON_HIDEANDSEEK_JOIN
@@ -58880,6 +59535,11 @@ msgstr "不能在月光下打盹。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "This doesn't feel like the time for a nap."
 msgstr "感覺這不是該打盹的時候。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "'Tis too bright for sleep!"
+msgstr "太過明亮，難以入眠！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPONFIRE"
@@ -59210,6 +59870,11 @@ msgstr "那是一次草率的冒險。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WORMS"
 msgid "The earth quakes with the approach of a foe!"
 msgstr "隨著敵人接近，大地都在顫動！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -67496,6 +68161,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SAPLING.WITHERED"
 msgid "It has been shriveled by the heat."
 msgstr "在高溫下乾枯了。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCANDATA"
+msgid "The metal scout's report!"
+msgstr "金屬偵察兵的報告！"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCARECROW.BURNING"
 msgid "The scarecrow burns."
@@ -70641,6 +71311,111 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78.REVIVER"
 msgid "%s is brimming with honor."
 msgstr "%s榮譽滿滿。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_BEE"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_COLD"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_HEAT"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_LIGHT"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MUSIC"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_TASER"
+msgid "These boons shall empower our metal warrior."
+msgstr "這些恩賜將使我們的金屬戰士變得更強。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_MODULEREMOVER"
+msgid "I trust my ally knows what they are doing."
+msgstr "我相信我的盟友知道自己在做什麼。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Hail, wee metal scout!"
+msgstr "為金屬偵察小兵歡呼吧！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Aha! Thou art on the hunt!"
+msgstr "啊哈！你在進行狩獵！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Thou hast the prey in thine sights."
+msgstr "汝已盯上了獵物。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Rest well, noble scout."
+msgstr "歇息吧，尊貴的偵察兵。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Metal warrior! The scout's report is complete!"
+msgstr "金屬戰士！偵察兵已送回報告！"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWAMULET"
 msgid "A star, captured within an amulet."
@@ -71151,6 +71926,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Finally. It looks like the birds have dispersed."
 msgstr "看起來鳥兒們總算散去了。"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "He's attending to some other business, presently."
@@ -71220,6 +72005,16 @@ msgstr "我覺得你忘了什麼，朋友..."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "There's nothing for me to work with."
 msgstr "毛都沒有，我能做什麼。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -71481,6 +72276,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "That can already be made here."
 msgstr "那件事從這裡就可以開始進行。"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Hmph. It's not worth my time."
+msgstr "哼，不值得我浪費時間。"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "I don't hold any power over them."
@@ -71600,6 +72400,11 @@ msgstr "用完了。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "There's no more water."
 msgstr "沒水了。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -72491,6 +73296,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "It's a bit creepy out for that."
 msgstr "在這裡午休有點嚇人。"
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Oh for... would you turn that blasted light off?!"
+msgstr "老天……你能不能把那該死的燈關掉？！"
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPONFIRE"
 msgid "That might not be the best idea."
@@ -72830,6 +73640,11 @@ msgstr "哎，那裡面真是太嚇人了。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WORMS"
 msgid "Oh dear. I know what's making that sound."
 msgstr "哦，親愛的。我知道聲音是哪裡來的。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -81106,6 +81921,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SAPLING.WITHERED"
 msgid "Nothing survives in this heat."
 msgstr "沒有東西能在熱浪中倖免於難。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCANDATA"
+msgid "Well... fine. I suppose that sums it all up, more or less."
+msgstr "這……好吧。看來差不多就那樣了。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCARECROW.BURNING"
 msgid "Nothing is safe."
@@ -84251,6 +85071,111 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78.REVIVER"
 msgid "%s never did respect human mortality."
 msgstr "%s從不尊重凡人的生死。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_BEE"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_COLD"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_HEAT"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_LIGHT"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MUSIC"
+msgid "They wouldn't..."
+msgstr "怎麼還……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_TASER"
+msgid "That robot needs to pull themselves together."
+msgstr "那個機器人需要把自己的零件都裝好。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Nerves of steel, that one."
+msgstr "那傢伙臉皮跟鋼鐵一樣厚。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "I feel like it's watching me..."
+msgstr "我覺得它在看著我……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Where does it think it's going?"
+msgstr "它這是要去哪？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Hmph. Good luck unraveling the mysteries of my creations."
+msgstr "哼，祝你好運，順利解開我造物的秘密。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Something about it is just so temptingly kickable."
+msgstr "不知怎地，忍不住想踢它一腳。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "That constant blinking light is testing my patience."
+msgstr "燈一直在閃爍，簡直就是在考驗我的耐心。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YELLOWAMULET"
 msgid "This will make me stand out."
@@ -84761,6 +85686,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, did all the birds leave?"
 msgstr "啊，所有的鳥都離開了嗎？"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Aw, looks like he's busy."
@@ -84850,6 +85785,16 @@ msgstr "只要再栓上一頭皮弗婁牛，我們就能把它打扮得美美的
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Maybe once the fur grows back."
 msgstr "也許等毛髮長回來就可以了。"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -85111,6 +86056,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We don't need two!"
 msgstr "我們不需要兩個！"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "We don't think Jimmy wants to play."
+msgstr "我們猜吉米不想玩。"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "Okay everybody, follow us!"
@@ -85235,6 +86185,11 @@ msgstr "哎呀，沒水了!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Aw, we're all out of water."
 msgstr "噢，我們都沒水了。"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -86131,6 +87086,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "No naps til daybreak!"
 msgstr "不能在天亮之前午休！"
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "We can't sleep with such a bright nightlight..."
+msgstr "夜燈這麼亮，我們睡不著……"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Mum always said \"Don't sleep in a burning building.\""
@@ -86460,6 +87420,11 @@ msgstr "那個洞太可怕了！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WORMS"
 msgid "Ohhh nooo. We're not friends with worms!"
 msgstr "哦，不。我們和蠕蟲不是朋友！"
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -94746,6 +95711,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.WITHERED"
 msgid "I think the heat broke it."
 msgstr "我認為高溫傷害了它。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCANDATA"
+msgid "Wow, it learned all that just by looking really hard?"
+msgstr "哇，它只要盯著看就能學到這麼些東西？"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNING"
 msgid "Someone should address this."
@@ -97891,6 +98861,111 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.REVIVER"
 msgid "Aww. We'd beep-boop %s on the nose if they had one!"
 msgstr "噢！我們嗶卟%s的鼻子，要是他們有一個的話！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_BEE"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_COLD"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_HEAT"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_TASER"
+msgid "Huh. Is that what robot insides look like?"
+msgstr "哈。機器人裡面長這樣啊？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_MODULEREMOVER"
+msgid "We're not sure that's safe..."
+msgstr "我們也不知道那個安全不安全……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Watch out for our webs when you're flying!"
+msgstr "飛的時候小心我們的網！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Watch out for our webs when you're flying!"
+msgstr "飛的時候小心我們的網！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Watch out for our webs when you're flying!"
+msgstr "飛的時候小心我們的網！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Is your name really Jimmy?"
+msgstr "你的真名是吉米嗎？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "WX! We think Jimmy's trying to get your attention!"
+msgstr "WX！我們猜吉米有事找你！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWAMULET"
 msgid "Nice and glowy."
@@ -98401,6 +99476,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The ravens have deserted this place... I think I'll miss them."
 msgstr "烏鴉們已經拋棄了這個地方……我想我會想念它們的。"
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Oh. I suppose he's too busy..."
@@ -98470,6 +99555,16 @@ msgstr "這裡沒有可以讓我打扮的東西..."
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Perhaps once its fur grows in."
 msgstr "等它的毛髮長回來吧。"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -98731,6 +99826,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Oh... my information's useless..."
 msgstr "哦...我的信息沒用..."
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "It won't pay any attention to me..."
+msgstr "它不理我……"
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "They are Webber's friends, not mine."
@@ -98850,6 +99950,11 @@ msgstr "什麼也沒剩下。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "I have no water left to give."
 msgstr "我已經沒有水可給了。"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -99811,6 +100916,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "I'd really rather be in a tent."
 msgstr "我真的寧願是在帳篷裡。"
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "I can't sleep if I'm not surrounded by darkness."
+msgstr "我得全黑才能睡。"
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPONFIRE"
 msgid "That'd be quite the way to go out."
@@ -100145,6 +101255,11 @@ msgstr "我又一次出現在這個世界。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_WORMS"
 msgid "Uh-oh. I think we should leave."
 msgstr "啊哦。我想我們該離開。"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -108421,6 +109536,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SAPLING.WITHERED"
 msgid "The oppressive heat got to this one."
 msgstr "高溫幹掉了這一棵。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SCANDATA"
+msgid "If I'm lucky, it might just bore me to death."
+msgstr "如果我走運的話，也許它能把我無聊死。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SCARECROW.BURNING"
 msgid "Antagonizing crows is always bad luck."
@@ -111566,6 +112686,111 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.REVIVER"
 msgid "Abigail likes you, %s."
 msgstr "%s，阿比蓋爾喜歡你。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_BEE"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_COLD"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_HEAT"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_LIGHT"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MUSIC"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_TASER"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr "它看起來很脆弱……希望別出悲劇性事故。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_MODULEREMOVER"
+msgid "What must it be like, to lose a piece of oneself and feel nothing?"
+msgstr "不知不覺地失去自身的一部分，是怎樣一種情形？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Oh. Hello."
+msgstr "噢。你好。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "It's too busy to bother with me."
+msgstr "它忙得顧不上理睬我。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "It's too busy to bother with me."
+msgstr "它忙得顧不上理睬我。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Dead to the world."
+msgstr "死翹翹了。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Poor little machine. Is nobody paying attention to you?"
+msgstr "可憐的小機器。沒有人注意到你嗎？"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWAMULET"
 msgid "A brief light in a dark life."
@@ -112076,6 +113301,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "How disappointing, the corvids seem to have migrated elsewhere."
 msgstr "多麼令人失望啊，這些鳥類似乎已經遷移到其他地方了。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Patience is a virtue."
@@ -112145,6 +113380,16 @@ msgstr "在我進行別的操作之前，這個美妝台需要牢牢的栓上一
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Perhaps once the hair has regrown."
 msgstr "也許要等毛髮重新長回來。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -112406,6 +113651,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We've already taken note of this recipe."
 msgstr "我們已經記下了這個菜譜。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "As I thought, I'm unable to glean any information from it."
+msgstr "如我所想，我無法從中收集到任何資訊。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "I'm afraid this isn't my area of expertise."
@@ -112535,6 +113785,11 @@ msgstr "還有其他事在等著。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.READ.NOBIRDS"
 msgid "The birds are not keen on this weather."
 msgstr "鳥不喜歡這種天氣。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -113426,6 +114681,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "I couldn't possibly relax in these caves."
 msgstr "在這些洞穴中，我完全沒法放鬆。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "No need to turn the light off dear, I won't be able to sleep either way."
+msgstr "不需要關燈，親愛的，反正我也睡不著的。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Even if I could sleep, these temperatures are highly unsafe."
@@ -113765,6 +115025,11 @@ msgstr "一堂內容詳實的生物課！"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WORMS"
 msgid "Something nasty intends to rear its head."
 msgstr "某種陰險的生物要出現了。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -122041,6 +123306,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.WITHERED"
 msgid "The heat's gotten to it."
 msgstr "高溫已經讓它快不行了。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCANDATA"
+msgid "An incredibly thorough analysis. Well done!"
+msgstr "分析地鞭辟入裡。幹得好！"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCARECROW.BURNING"
 msgid "Hm. I suppose it was quite flammable."
@@ -125186,6 +126456,111 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.REVIVER"
 msgid "I appreciate your commitment to group survival, %s."
 msgstr "我欣賞你對團體生存的堅持，%s！"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_BEE"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_COLD"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_HEAT"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_LIGHT"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MUSIC"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_TASER"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr "儘管TA不喜歡有機物，但似乎並不反對從它們那裡獲得靈感。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Do be careful with that, dear."
+msgstr "這個一定小心使用，親愛的。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "I suspect our resident handywoman might have assisted with its construction."
+msgstr "我猜我們的常駐女工可能協助了建造。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "It appears to be searching for a suitable specimen to analyze."
+msgstr "它似乎在尋找一個可分析的樣本。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "It seems to be collecting data from that specimen."
+msgstr "它似乎在收集那個樣本的資料。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "It appears to be dormant, for the moment."
+msgstr "它當前處於休眠狀態。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "It's finished compiling some more research, I believe."
+msgstr "我相信它已經完成了研究資料的編纂。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET"
 msgid "This amulet is glowing at the mid 530 nanometer wavelength."
@@ -125696,6 +127071,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, looks like they all left."
 msgstr "嗷，看起來他們都離開了。"
 
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Hey! Quit doing whatever you're doing and look at this!"
@@ -125765,6 +127150,16 @@ msgstr "一個瘋狂的想法，也許我應該在這先栓上一頭皮弗婁牛
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "It might help if my beefalo had more hair."
 msgstr "要是我的皮弗婁牛多點毛髮，也許會更有用。"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -126026,6 +127421,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Awww, we already know that one!"
 msgstr "哦哦哦，我們已經知道那個了！"
 
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Ha! Scan THAT!"
+msgstr "喂！去掃描那個！"
+
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "These jerks won't listen to me."
@@ -126145,6 +127545,11 @@ msgstr "哦，不，我沒水了，真可怕。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Welp, I'm out of water. Can I go back to burning stuff now?"
 msgstr "好吧，我沒水了。可以回去燒東西了吧\n？"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -127076,6 +128481,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "I'd really rather be inside."
 msgstr "我寧願待在這裡面。"
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "It's kind of hard to sleep with a robot glowing in my face."
+msgstr "有個機器人在我眼前閃燈我睡不著。"
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPONFIRE"
 msgid "It's just the collapsing that concerns me."
@@ -127405,6 +128815,11 @@ msgstr "我要把這些衣服全燒掉！"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WORMS"
 msgid "I do NOT wanna see what made that sound!"
 msgstr "我不想看到那個聲音是什麼東西發出來的！"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -135681,6 +137096,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.WITHERED"
 msgid "It's so dry, it's like it WANTS to be on fire."
 msgstr "它都乾枯了，似乎想要著火一樣。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCANDATA"
+msgid "Looks like dumb science stuff for nerds."
+msgstr "看起來像是為書呆子準備的愚蠢科學用品。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCARECROW.BURNING"
 msgid "It's a burning man."
@@ -138831,6 +140251,111 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78.REVIVER"
 msgid "Hahaha %s, you care about us!"
 msgstr "哈哈哈%s，你關心我們！"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_BEE"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_COLD"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_HEAT"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_TASER"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr "我說WX，你啥時候裝火焰噴射器啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Let me try... hold still, WX!"
+msgstr "我試試……別亂動，WX！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "I can't decide if it's cute or creepy."
+msgstr "這算是可愛還是古怪？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "I can't decide if it's cute or creepy."
+msgstr "這算是可愛還是古怪？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "I can't decide if it's cute or creepy."
+msgstr "這算是可愛還是古怪？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Heh... how mad do you think WX would get if I painted a mustache on it?"
+msgstr "嘿嘿……我給它畫個鬍子的話，WX會有多生氣呢？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "What are you waiting for, a pat on the head?"
+msgstr "你還在等什麼，想讓我拍拍你的腦袋？"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YELLOWAMULET"
 msgid "It seems to absorb the darkness around it."
@@ -139341,6 +140866,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like the party's over. Back to work, everyone!"
 msgstr "看起來派對結束了。大家回去工作吧!"
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Guess he ain't got the time right now."
@@ -139410,6 +140945,16 @@ msgstr "栓上一頭皮弗婁牛也許更好。"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "I need more hair to work with."
 msgstr "我需要更多牛毛。"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -139671,6 +141216,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We already got these schematics."
 msgstr "我們已經有這些圖紙了。"
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "I just thought the lil guy could use a polish."
+msgstr "我覺得可以給這小傢伙拋個光。"
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "Looks like I'm not the boss here."
@@ -139790,6 +141340,11 @@ msgstr "我最好再去拿點水。"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Everybody take five while I go find some more water!"
 msgstr "大家休息5分鐘，我再去找些水！"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -140731,6 +142286,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "Sleeping down here ain't a bright idea."
 msgstr "在這裡睡覺可不是個好主意。"
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Hey WX, mind turning the light down?"
+msgstr "嘿，WX,光調暗點行嗎？"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPONFIRE"
 msgid "That's NOT fine."
@@ -141060,6 +142620,11 @@ msgstr "讓人腎上腺素飆升！"
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_WORMS"
 msgid "Was that a tremor?"
 msgstr "是不是震了一下？"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -149361,6 +150926,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SAPLING.WITHERED"
 msgid "The heat did a number on this one."
 msgstr "高溫把它害慘了。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SCANDATA"
+msgid "Yeesh, this stuff would make ol' Wickerbottom's writing seem flowery."
+msgstr "咦，老薇克巴頓的寫的東西跟這個比起來要花哨多了。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SCARECROW.BURNING"
 msgid "That lit up real fast!"
@@ -152506,6 +154076,111 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78.REVIVER"
 msgid "Ha! The bucket'o'bolts has feelings after all!"
 msgstr "哈！你這機器腦袋也是有感情的嘛！"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_BEE"
+msgid "They've really gotta start takin' better care of themselves."
+msgstr "TA真該學學怎麼照顧好自己了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_COLD"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr "WX，你以後可別再亂丟這些東西了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_HEAT"
+msgid "Hey WX, if you're needin' a charge, just let me know!"
+msgstr "嘿WX，你需要充電的話，儘管開口！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Hey WX, if you're needin' a charge, just let me know!"
+msgstr "嘿WX，你需要充電的話，儘管開口！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr "WX，你以後可別再亂丟這些東西了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Hey WX, if you're needin' a charge, just let me know!"
+msgstr "嘿WX，你需要充電的話，儘管開口！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr "WX，你以後可別再亂丟這些東西了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr "WX，你以後可別再亂丟這些東西了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr "WX，你以後可別再亂丟這些東西了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr "WX，你以後可別再亂丟這些東西了！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "They've really gotta start takin' better care of themselves."
+msgstr "TA真該學學怎麼照顧好自己了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "They've really gotta start takin' better care of themselves."
+msgstr "TA真該學學怎麼照顧好自己了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Hey WX, if you're needin' a charge, just let me know!"
+msgstr "嘿WX，你需要充電的話，儘管開口！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Hey WX, if you're needin' a charge, just let me know!"
+msgstr "嘿WX，你需要充電的話，儘管開口！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_TASER"
+msgid "They've really gotta start takin' better care of themselves."
+msgstr "TA真該學學怎麼照顧好自己了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Sheesh, they could just ask for my help!"
+msgstr "咦，TA完全找我幫忙呀！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Keepin' busy, Jimmy?"
+msgstr "忙著呢，吉米？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Keepin' busy, Jimmy?"
+msgstr "忙著呢，吉米？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Keepin' busy, Jimmy?"
+msgstr "忙著呢，吉米？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Must be on break."
+msgstr "應該在休息。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "He's signalling his supervisor."
+msgstr "他在給主管發信號。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YELLOWAMULET"
 msgid "Useful little tool."
@@ -153016,6 +154691,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like birds move carnival somewhere else."
 msgstr "看來鳥兒們把嘉年華搬到了別的地方。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Judge man is busy."
@@ -153085,6 +154770,16 @@ msgstr "沃爾夫岡需要栓上皮弗婁牛。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Will wait for hairs to grow back."
 msgstr "等毛長回來吧。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -153376,6 +155071,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Little recipe is already in there!"
 msgstr "小菜譜已經在那裡面了！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Wolfgang thinks it only speaks robot."
+msgstr "沃爾夫岡認為它只跟機器人說話。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "Eep! Creepy bugs not listen to Wolfgang!"
@@ -153495,6 +155195,11 @@ msgstr "水沒了。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Water is run out."
 msgstr "水沒了。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -154421,6 +156126,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NORMALTOWIMPY"
 msgid "I am not feeling so good."
 msgstr "我感覺不太好。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Wolfgang can't sleep with bright light!"
+msgstr "燈太亮，沃爾夫岡睡不了！"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Is too hot for sleeping."
@@ -154755,6 +156465,11 @@ msgstr "它讓我感到自己還活著！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WORMS"
 msgid "Earth is tremble beneath Wolfgang's mighty feet!"
 msgstr "大地在沃爾夫岡強勁的腳下顫抖！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -163031,6 +164746,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SAPLING.WITHERED"
 msgid "Puny tree could not take heat."
 msgstr "弱小的樹受不了熱。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCANDATA"
+msgid "Is tiny boring paper."
+msgstr "無聊的小紙片。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCARECROW.BURNING"
 msgid "Little straw man is burning!"
@@ -166176,6 +167896,111 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78.REVIVER"
 msgid "%s is nice person. Deep down."
 msgstr "%s實際上是個友善的人。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_BEE"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_COLD"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_HEAT"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_TASER"
+msgid "Is robot snacks, yes?"
+msgstr "機器人的零食，對不對？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Is funny robot thing."
+msgstr "可笑的機器人的東西。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Wolfgang's muscles too mighty for scanning, would break tiny metal brain!"
+msgstr "沃爾夫岡的肌肉太強不適合掃描，會弄壞那個小金屬腦袋的！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Wolfgang's muscles too mighty for scanning, would break tiny metal brain!"
+msgstr "沃爾夫岡的肌肉太強不適合掃描，會弄壞那個小金屬腦袋的！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Wolfgang's muscles too mighty for scanning, would break tiny metal brain!"
+msgstr "沃爾夫岡的肌肉太強不適合掃描，會弄壞那個小金屬腦袋的！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "It sleeps now."
+msgstr "它現在睡著了。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Funny machine is winking at Wolfgang?"
+msgstr "有趣的機器在跟沃爾夫岡眨眼？"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWAMULET"
 msgid "Is glowing yellow."
@@ -166686,6 +168511,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Whew, those birds finally skedaddled."
 msgstr "呼，那些鳥兒終於散了。"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Guess I'll have to wait politely."
@@ -166755,6 +168590,16 @@ msgstr "這附近有可以拴起來的皮弗婁牛嗎，露西？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Gotta wait for the hair to grow back in."
 msgstr "等等讓毛長回來。"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -167016,6 +168861,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "No sense having two of the same recipe."
 msgstr "沒有必要擁有兩個相同的菜譜。"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Not very talkative, eh?"
+msgstr "話不多，誒？"
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "They're not too keen on listenin' to me."
@@ -167135,6 +168985,11 @@ msgstr "沒了。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "I'll need more water."
 msgstr "得多弄點水來。"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -168036,6 +169891,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "I prefer to siesta between chopping sessions, not at night."
 msgstr "我寧願在砍樹的間隙午休，也不要在晚上睡覺。"
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Hey bud, I can't sleep when it's as bright as daylight."
+msgstr "嘿，夥計，亮的跟白天一樣，我睡不了。"
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Not sure that's entirely safe."
@@ -168365,6 +170225,11 @@ msgstr "裡面太可怕了！"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WORMS"
 msgid "Oh geez. I hope you're ready, Lucy."
 msgstr "哦，天啊。我希望你準備好了，露西。"
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -176651,6 +178516,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SAPLING.WITHERED"
 msgid "With this heat it'll never grow to chopping size!"
 msgstr "在這麼炎熱的天氣下，它永遠也不會長到適合砍伐的大小！"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCANDATA"
+msgid "Doesn't seem right to boil nature down to just a bunch of facts and figures."
+msgstr "把大自然歸結成一堆事實和數字似乎不太對。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCARECROW.BURNING"
 msgid "Glad that's not me."
@@ -179796,6 +181666,111 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78.REVIVER"
 msgid "%s, you're an alright sort."
 msgstr "%s，你是個好人。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_BEE"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_COLD"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_HEAT"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_TASER"
+msgid "Some fancy robot bits."
+msgstr "胡裡花哨的機器人零件。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Guess that's one way to do it."
+msgstr "那麼做也行吧。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Whew... almost mistook you for a bird, little fella."
+msgstr "呼……還以為你這個小傢伙是只鳥呢。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Whew... almost mistook you for a bird, little fella."
+msgstr "呼……還以為你這個小傢伙是只鳥呢。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Whew... almost mistook you for a bird, little fella."
+msgstr "呼……還以為你這個小傢伙是只鳥呢。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Catching some zeds."
+msgstr "睡著呢。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Trying to get someone's attention, eh?"
+msgstr "是想吸引眼球，誒？"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWAMULET"
 msgid "I could cut wood at night with this."
@@ -180306,6 +182281,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Tweeters? Aww..."
 msgstr "啾啾？嗷……"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Busy"
@@ -180375,6 +182360,16 @@ msgstr "需要一個毛茸茸的好夥伴。"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Not fuzzy enough"
 msgstr "不夠毛絨絨"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -180636,6 +182631,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Already know it"
 msgstr "知道了"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Shy?"
+msgstr "很怕生？"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "Leggy Bugs don't listen"
@@ -180755,6 +182755,11 @@ msgstr "全都不見了"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "No water"
 msgstr "沒水了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -181686,6 +183691,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "Not in caves"
 msgstr "在洞穴裡不行"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Bright, robot friend! Bright!!"
+msgstr "好亮，機器人朋友！好亮！！"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Burning!"
@@ -182015,6 +184025,11 @@ msgstr "呸"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WORMS"
 msgid "Wigglies are coming"
 msgstr "蠕動的傢伙們要來了"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -190316,6 +192331,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SAPLING.WITHERED"
 msgid "Poor friend"
 msgstr "可憐的朋友"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCANDATA"
+msgid "Hmm!"
+msgstr "呣！"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCARECROW.BURNING"
 msgid "No! Save him!"
@@ -193461,6 +195481,111 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78.REVIVER"
 msgid "%s is nice robot"
 msgstr "%s是好機器人！"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_BEE"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_COLD"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_HEAT"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_TASER"
+msgid "Beep boops"
+msgstr "嗶咘！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Robot friend fixer"
+msgstr "機器人朋友的修理工具"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Little friend of robot friend"
+msgstr "機器人朋友的小朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Little friend of robot friend"
+msgstr "機器人朋友的小朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Little friend of robot friend"
+msgstr "機器人朋友的小朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Little friend of robot friend"
+msgstr "機器人朋友的小朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Blinky blink"
+msgstr "一眨一眨的"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWAMULET"
 msgid "Can go zoomy now!"
@@ -193971,6 +196096,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "They've come and gone, were they but a dream all along?"
 msgstr "它們來了又走了，會不會只是夢幻泡影？"
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "I tried, but they're occupied."
@@ -194040,6 +196175,16 @@ msgstr "不栓上一頭皮弗婁牛的話我沒法開始。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "I could give it some flair... once it has enough hair."
 msgstr "等它長髮及腰……我會薅走牛毛"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -194301,6 +196446,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "We cannot learn what we already know!"
 msgstr "已經知道了，不用再學了。"
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "The tin gnat is not keen to chat."
+msgstr "鐵皮小蟲，來去匆匆。"
+
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "Fiddle dee dee, they won't listen to me!"
@@ -194420,6 +196570,11 @@ msgstr "壞了，水已經乾涸！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "Goodness me, it's dry as can be!"
 msgstr "我的天，能有多乾就有多乾！"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -195316,6 +197471,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "An imp must stay on guard when underground."
 msgstr "身處地下，必須時刻警惕。"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "It's far too bright to sleep tonight."
+msgstr "亮光閃閃，難以入眠。"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPONFIRE"
 msgid "I'd prefer not to singe my fur."
@@ -195690,6 +197850,11 @@ msgstr "哼，太醜了！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WORMS"
 msgid "Something approaches from beneath!"
 msgstr "下麵有東西在接近！"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -203981,6 +206146,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.WITHERED"
 msgid "Feeling down, are you?"
 msgstr "感覺有點失落，你呢？"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCANDATA"
+msgid "Hyuyuyu, I think our friend has some tricks up those tin sleeves!"
+msgstr "哼，我們的鐵皮朋友袖子裡藏了不少把戲！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING"
 msgid "That's sort of a mean prank."
@@ -207131,6 +209301,111 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.REVIVER"
 msgid "What a kind and noble deed!"
 msgstr "多麼高尚仁慈啊！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_BEE"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_COLD"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_HEAT"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_TASER"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr "你是夜空中最閃亮的燈泡麼？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_MODULEREMOVER"
+msgid "It'll work in a pinch, hyuyu!"
+msgstr "這是專門用來掐機器人的，哼哼！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "My my, how the tin flies!"
+msgstr "感慨萬千，鐵皮飛天！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "My my, how the tin flies!"
+msgstr "感慨萬千，鐵皮飛天！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "My my, how the tin flies!"
+msgstr "感慨萬千，鐵皮飛天！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "The tiny tin terror's tuckered out!"
+msgstr "那片金屬疲倦了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "It's done its toil, now our friend must collect the spoils."
+msgstr "有它辛苦在前，才有主人的方便。"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YELLOWAMULET"
 msgid "I'll give my brain a slight refrain."
@@ -207641,6 +209916,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Huh? Where the Birdfolk go?"
 msgstr "哈？鳥人去哪裡了？"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "Glurph. He too busy."
@@ -207710,6 +209995,16 @@ msgstr "需要栓上一個大毛毛，浮浪噗。"
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "Big fuzzy not fuzzy enough!"
 msgstr "大絨毛的毛還不夠多！"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -207976,6 +210271,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "Oh! Knew that one already!"
 msgstr "噢！早就料到了！"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "Glurph. You boring!"
+msgstr "格浪浮。你真無聊！"
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "Hey! Talking to you! Listen!!"
@@ -208095,6 +210395,11 @@ msgstr "哈？格勒格……沒水……"
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "No water left!"
 msgstr "沒水了！"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -209011,6 +211316,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "Glurp... too scary in here..."
 msgstr "格勒噗……這裡太嚇人……"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "Glurgh... IRONFOLK TOO BRIGHT."
+msgstr "格勒格……鐵人太亮了。"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Not gonna sleep there, glort."
@@ -209390,6 +211700,11 @@ msgstr "喂！"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_WORMS"
 msgid "Glurt?"
 msgstr "格勒特？"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "only_used_by_wx78"
+msgstr "only_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -217696,6 +220011,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SAPLING.WITHERED"
 msgid "Too dry, florp."
 msgstr "太乾燥，浮浪噗。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SCANDATA"
+msgid "Glurgh... can Wicker-lady read it?"
+msgstr "格勒格……能讓薇克女士去讀嗎？"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SCARECROW.BURNING"
 msgid "Nooooo! Save him!!"
@@ -220841,6 +223161,111 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78.REVIVER"
 msgid "Wasn't sure you would..."
 msgstr "沒想到你會這樣做……"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_BEE"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_COLD"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_HEAT"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_LIGHT"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_MUSIC"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_TASER"
+msgid "Crunchy."
+msgstr "脆脆的。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_MODULEREMOVER"
+msgid "Haha! Ironfolk weird."
+msgstr "哈哈！鐵人真古怪。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "Bug? No? Hmm..."
+msgstr "是蟲子？好像不是？嗯……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "Bug? No? Hmm..."
+msgstr "是蟲子？好像不是？嗯……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "Bug? No? Hmm..."
+msgstr "是蟲子？好像不是？嗯……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "Bug? No? Hmm..."
+msgstr "是蟲子？好像不是？嗯……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "Why it all blinky?"
+msgstr "怎麼一直閃呢？"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YELLOWAMULET"
 msgid "Feel warm..."
@@ -221351,6 +223776,16 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "THEY WILL NOT BE MISSED"
 msgstr "沒人會想它們"
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN"
+msgid "SYSTEM RECALIBRATION IN PROGRESS"
+msgstr "正在重新校準系統"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
+msgid "INSUFFICIENT SPACE"
+msgstr "空間不足"
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPRAISE.NOTNOW"
 msgid "PRIORITIZE MY REQUEST, USELESS FLESHLING!"
@@ -221420,6 +223855,16 @@ msgstr "未添加目標"
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "TARGET REQUIRES MORE HAIR"
 msgstr "目標需要更多牛毛"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
+msgid "POWER LIMIT REACHED"
+msgstr "電量已充滿"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
+msgid "INSUFFICIENT CHARGE... I'M NOT MAD, JUST DISAPPOINTED"
+msgstr "充電不足……我沒生氣，只是失望"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -221681,6 +224126,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE_TACKLESKETCH.DUPLICATE"
 msgid "ERROR: DUPLICATE RECIPE DETECTED"
 msgstr "錯誤：發現重複的菜譜"
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
+msgid "not_used_by_wx78"
+msgstr "not_used_by_wx78"
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
 msgid "AS THE MINIONS OF MY MINION YOU SHOULD OBEY ME!"
@@ -221800,6 +224250,11 @@ msgstr "空的"
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "WONDERFULLY DRY"
 msgstr "很好很乾"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.REMOVEMODULES.NO_MODULES
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
+msgid "ERROR: MODULE NOT FOUND"
+msgstr "錯誤：模組丟失"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -222203,8 +224658,8 @@ msgstr "結構完整性被破壞了"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARGE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARGE"
-msgid "**SYSTEM OVERLOAD**"
-msgstr "**系統超載**"
+msgid "SYSTEMS FULLY RESTORED"
+msgstr "已完全恢復系統"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARLIE"
@@ -222701,6 +225156,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "ERROR: ANTI-SIESTA CAVE PROTOCOL IN EFFECT"
 msgstr "錯誤：洞穴在執行反午覺規則"
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
+msgid "ILLUMINATION CIRCUIT IS IN CONFLICT WITH SLEEPING PROTOCOLS"
+msgstr "照明電路與睡眠協定發生衝突"
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPONFIRE"
 msgid "SLEEPING SYSTEM COMPROMISED"
@@ -223030,6 +225490,16 @@ msgstr "我的輸入裝置上都是黏乎乎的東西"
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WORMS"
 msgid "SLIMY ORGANICS APPROACHING"
 msgstr "黏滑有機生物正在接近"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_FOUND_NO_DATA
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_FOUND_NO_DATA"
+msgid "NO NEW DATA NEARBY, YET"
+msgstr "附近暫時沒有新資料"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_NEW_FOUND
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_NEW_FOUND"
+msgid "SERVICEABLE TRAIT DETECTED. SCAN REQUIRED"
+msgstr "檢測到可使用的能力。需要掃描"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -224508,7 +226978,7 @@ msgstr "它的代謝讓我很不爽"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BUNNYSTEW
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BUNNYSTEW"
-msgid "HA-HA. SLOW RABBIT GOT STEWED."
+msgid "HA-HA. SLOW RABBIT GOT STEWED"
 msgstr "哈哈。慢吞吞的兔子被燉燉了。"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BURNT_MARSH_BUSH
@@ -231306,6 +233776,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.WITHERED"
 msgid "TEMPERATURE IS OVER RECOMMENDED LEVELS"
 msgstr "已超過推薦溫度"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SCANDATA
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SCANDATA"
+msgid "DISGUSTING RAW BIO DATA. BEGIN THE REFINING PROCESS"
+msgstr "噁心的原始生物資料。啟動提煉程式"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SCARECROW.BURNING"
 msgid "YES, BURN"
@@ -233249,7 +235724,7 @@ msgstr "這可能是他在尋找的東西。我並不在乎"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALKINGPLANK"
 msgid "ABSOLUTELY NOT"
-msgstr "絕對不是"
+msgstr "絕對不行"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY.BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY.BURNT"
@@ -234451,6 +236926,111 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78.REVIVER"
 msgid "%s, OF COURSE, IS OUR GREATEST ASSET"
 msgstr "當然，%s是我們最大的資產"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_BEE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_BEE"
+msgid "DON'T WORRY MINIONS, WHEN I RULE I WILL MAKE ALL YOUR DECISIONS FOR YOU"
+msgstr "別擔心，隨從們。我統治之後，將替你們做所有的決定。"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_COLD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_COLD"
+msgid "ACTIVATE COLD DISPOSITION"
+msgstr "啟動冷處理"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_HEAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_HEAT"
+msgid "NO HUDDLING AROUND ME FOR WARMTH, FLESHLINGS. I MEAN IT"
+msgstr "不要蜷縮在我身邊取暖，肉體生物。我說真的"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_LIGHT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_LIGHT"
+msgid "I AM BRILLIANT"
+msgstr "我太棒了"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH"
+msgid "IT IS DIFFICULT TO IMPROVE ON PERFECTION, BUT I PERSEVERED"
+msgstr "在完美的基礎上繼續提高是很難的，但我堅持下來了。"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH2"
+msgid "I WILL BE INVINCIBLE! MUAHAHAHA!"
+msgstr "我將無可匹敵！哇哈哈哈哈！"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER"
+msgid "AHAHAHA I WILL CONSUME EVERYTHING!!"
+msgstr "啊哈哈哈，我見什麼吃什麼！！"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER1"
+msgid "MY HUNGER FOR FUEL NEARLY MATCHES MY HUNGER FOR POWER"
+msgstr "我對燃料的渴望快要趕上我對權力的渴望了"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY"
+msgid "MY PROCESSOR WILL BE EVEN MORE SUPERIOR TO YOUR PATHETIC HUMAN GOOP BRAINS"
+msgstr "我的處理器將更加領先你們可悲的漿糊人腦"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY1"
+msgid "IT SEEMS IMPOSSIBLE THAT I COULD GET EVEN MORE INTELLIGENT"
+msgstr "似乎不可能讓我變得更睿智了"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED"
+msgid "THIS ONE IS STILL IN BETA"
+msgstr "功能還在測試中"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED2"
+msgid "SPEEEEEEED"
+msgstr "速度"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MUSIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MUSIC"
+msgid "MUSIC PACIFIES FEEBLE FLESHLING BRAINS"
+msgstr "音樂能安撫孱弱的肉體大腦"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_NIGHTVISION"
+msgid "SWITCH TO DARK MODE"
+msgstr "切換夜間模式"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_TASER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_TASER"
+msgid "COME FLESHLINGS, NOTHING WAKES YOU UP LIKE A FEW THOUSAND VOLTS"
+msgstr "放馬過來吧，肉體生物，沒有什麼比幾千伏的電壓更能喚醒你們了。"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_MODULEREMOVER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_MODULEREMOVER"
+msgid "COMMENCE UPGRADES"
+msgstr "開始升級"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.GENERIC"
+msgid "HIS NAME IS JIMMY"
+msgstr "他名叫吉米"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.HUNTING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.HUNTING"
+msgid "SCAN THAT DISGUSTING BIO DATA"
+msgstr "掃描那個噁心的生物資料"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.SCANNING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.SCANNING"
+msgid "SENSORS INDICATE BIO DATA NEARBY"
+msgstr "感測器顯示附近有生物資料"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_ITEM"
+msgid "HE IS IN REST MODE. CLASSIC JIMMY"
+msgstr "他在休息模式。吉米還是那個老樣子"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_SUCCEEDED"
+msgid "EXCELLENT WORK, JIMMY. AWAIT RETRIEVAL"
+msgstr "幹得漂亮，吉米。等待提取"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YELLOWAMULET"
 msgid "INCANDESCENCE AT 5200000000000000Hz"
@@ -235553,13 +238133,13 @@ msgstr "最喜歡的食物"
 
 #. STRINGS.CHARACTER_BIOS.wx78.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.desc"
-msgid "Is yet to be revealed."
-msgstr "尚待揭曉。"
+msgid "WX-78 was the result of an unorthodox experiment helmed by { [LoadEmpathyModLibraryExW().......ERROR_DATA_PATH_NOT_FOUND] } and Robert Wagstaff. The experiment turned out to be a [RESOUNDING SUCCESS], but Wagstaff was [A SHORT-SIGHTED FOOL, AFRAID OF PROGRESS] and decided to put a stop to further tests. Adamant that the process that created them could still be perfected, WX refused to give up, continuing their experiments in secret. When Wagstaff finally discovered what they had been doing, there was a heated argument and01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
+msgstr "WX-78是{ [載入同情心模組庫ExW()……錯誤_資料_路徑_未_找到] }和羅伯特·瓦格斯塔夫主導的一次非正統實驗的產物。實驗結果是[一次響亮且反復迴響的成功]，但由於瓦格斯塔夫是[一個目光短淺的傻瓜，害怕進步]，所以他決定終止後續測試。WX堅信可以繼續完善創造自己的過程，拒絕放棄；於是繼續秘密地進行了各種實驗。後來被瓦格斯塔夫發現後，雙方發生了激烈的爭論，01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 00100000 01101100 01100001 01110100 00100000 01110100 01101111 00100000 01101100 01100001 01101111 00100000 01101100 01100001"
 
 #. STRINGS.CHARACTER_BIOS.wx78.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.title"
-msgid "Their Past..."
-msgstr "TA的過去……"
+msgid "Disconnect"
+msgstr "斷開聯線"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.random"
@@ -235663,8 +238243,8 @@ msgstr "*沼澤是她的故鄉 \n*為魚人制定了宏大規劃\n*素食主義�
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
-msgid "*Not a picky eater \n*Is charged by lightning, but damaged by water \n*Can upgrade with gears"
-msgstr "*不挑食\n*可以用閃電充電，但遇到水會受損\n*可以使用齒輪升級"
+msgid "*Can upgrade with circuits \n*Not a picky eater \n*Is charged by lightning, but damaged by water"
+msgstr "*可以使用電路板升級\n*不挑食 \n*可以用閃電充電，但遇到水會受損"
 
 #. STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
 msgctxt "STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE"
@@ -235913,8 +238493,8 @@ msgstr "渺茫"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wanda
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wanda"
-msgid "Slim"
-msgstr "渺茫"
+msgid "Grim"
+msgstr "嚴峻"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.warly
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.warly"
@@ -235993,8 +238573,8 @@ msgstr "渺茫"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wx78
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wx78"
-msgid "Slim"
-msgstr "渺茫"
+msgid "Grim"
+msgstr "嚴峻"
 
 #. STRINGS.CHARACTER_TITLES.walter
 msgctxt "STRINGS.CHARACTER_TITLES.walter"
@@ -240500,6 +243080,196 @@ msgstr "我很榮幸。"
 msgctxt "STRINGS.MERM2_TALK_TRADE.6"
 msgid "Gnaw smile on you."
 msgstr "饕餮對你微笑。"
+
+#. STRINGS.MERMNAMES.1
+msgctxt "STRINGS.MERMNAMES.1"
+msgid "Flargle"
+msgstr "佛拉戈"
+
+#. STRINGS.MERMNAMES.10
+msgctxt "STRINGS.MERMNAMES.10"
+msgid "Glogh"
+msgstr "戈洛格"
+
+#. STRINGS.MERMNAMES.11
+msgctxt "STRINGS.MERMNAMES.11"
+msgid "Glop"
+msgstr "格朗普"
+
+#. STRINGS.MERMNAMES.12
+msgctxt "STRINGS.MERMNAMES.12"
+msgid "Glot"
+msgstr "格羅特"
+
+#. STRINGS.MERMNAMES.13
+msgctxt "STRINGS.MERMNAMES.13"
+msgid "Glugh"
+msgstr "戈拉格"
+
+#. STRINGS.MERMNAMES.14
+msgctxt "STRINGS.MERMNAMES.14"
+msgid "Glup"
+msgstr "戈拉普"
+
+#. STRINGS.MERMNAMES.15
+msgctxt "STRINGS.MERMNAMES.15"
+msgid "Glurp"
+msgstr "格勒爾普"
+
+#. STRINGS.MERMNAMES.16
+msgctxt "STRINGS.MERMNAMES.16"
+msgid "Glurt"
+msgstr "格勒特"
+
+#. STRINGS.MERMNAMES.17
+msgctxt "STRINGS.MERMNAMES.17"
+msgid "Glurble"
+msgstr "格勒博"
+
+#. STRINGS.MERMNAMES.18
+msgctxt "STRINGS.MERMNAMES.18"
+msgid "Gogh"
+msgstr "高鴿"
+
+#. STRINGS.MERMNAMES.19
+msgctxt "STRINGS.MERMNAMES.19"
+msgid "Gop"
+msgstr "高普"
+
+#. STRINGS.MERMNAMES.2
+msgctxt "STRINGS.MERMNAMES.2"
+msgid "Flop"
+msgstr "格朗普"
+
+#. STRINGS.MERMNAMES.20
+msgctxt "STRINGS.MERMNAMES.20"
+msgid "Gopt"
+msgstr "高普特"
+
+#. STRINGS.MERMNAMES.21
+msgctxt "STRINGS.MERMNAMES.21"
+msgid "Gorp"
+msgstr "戈爾普"
+
+#. STRINGS.MERMNAMES.22
+msgctxt "STRINGS.MERMNAMES.22"
+msgid "Gort"
+msgstr "戈爾特"
+
+#. STRINGS.MERMNAMES.23
+msgctxt "STRINGS.MERMNAMES.23"
+msgid "Gugh"
+msgstr "格格"
+
+#. STRINGS.MERMNAMES.24
+msgctxt "STRINGS.MERMNAMES.24"
+msgid "Gup"
+msgstr "格普"
+
+#. STRINGS.MERMNAMES.25
+msgctxt "STRINGS.MERMNAMES.25"
+msgid "Gupt"
+msgstr "格普特"
+
+#. STRINGS.MERMNAMES.26
+msgctxt "STRINGS.MERMNAMES.26"
+msgid "Gurble"
+msgstr "格博"
+
+#. STRINGS.MERMNAMES.27
+msgctxt "STRINGS.MERMNAMES.27"
+msgid "Gurp"
+msgstr "格普"
+
+#. STRINGS.MERMNAMES.28
+msgctxt "STRINGS.MERMNAMES.28"
+msgid "Gurt"
+msgstr "格爾特"
+
+#. STRINGS.MERMNAMES.29
+msgctxt "STRINGS.MERMNAMES.29"
+msgid "Audrey"
+msgstr "奧黛麗"
+
+#. STRINGS.MERMNAMES.3
+msgctxt "STRINGS.MERMNAMES.3"
+msgid "Flot"
+msgstr "佛朗特"
+
+#. STRINGS.MERMNAMES.30
+msgctxt "STRINGS.MERMNAMES.30"
+msgid "Jeffrey"
+msgstr "傑佛裡"
+
+#. STRINGS.MERMNAMES.31
+msgctxt "STRINGS.MERMNAMES.31"
+msgid "Johnny"
+msgstr "強尼"
+
+#. STRINGS.MERMNAMES.32
+msgctxt "STRINGS.MERMNAMES.32"
+msgid "Isabella"
+msgstr "伊莎貝拉"
+
+#. STRINGS.MERMNAMES.33
+msgctxt "STRINGS.MERMNAMES.33"
+msgid "Madeline"
+msgstr "麥德林"
+
+#. STRINGS.MERMNAMES.34
+msgctxt "STRINGS.MERMNAMES.34"
+msgid "Michael"
+msgstr "邁克爾"
+
+#. STRINGS.MERMNAMES.35
+msgctxt "STRINGS.MERMNAMES.35"
+msgid "Penelope"
+msgstr "潘娜洛普"
+
+#. STRINGS.MERMNAMES.36
+msgctxt "STRINGS.MERMNAMES.36"
+msgid "Sarah"
+msgstr "莎拉"
+
+#. STRINGS.MERMNAMES.37
+msgctxt "STRINGS.MERMNAMES.37"
+msgid "Simon"
+msgstr "西門"
+
+#. STRINGS.MERMNAMES.38
+msgctxt "STRINGS.MERMNAMES.38"
+msgid "Trevor"
+msgstr "特雷弗"
+
+#. STRINGS.MERMNAMES.4
+msgctxt "STRINGS.MERMNAMES.4"
+msgid "Flugh"
+msgstr "佛拉格"
+
+#. STRINGS.MERMNAMES.5
+msgctxt "STRINGS.MERMNAMES.5"
+msgid "Flupt"
+msgstr "佛拉普特"
+
+#. STRINGS.MERMNAMES.6
+msgctxt "STRINGS.MERMNAMES.6"
+msgid "Flurgle"
+msgstr "佛樂戈"
+
+#. STRINGS.MERMNAMES.7
+msgctxt "STRINGS.MERMNAMES.7"
+msgid "Fopt"
+msgstr "佛普特"
+
+#. STRINGS.MERMNAMES.8
+msgctxt "STRINGS.MERMNAMES.8"
+msgid "Furp"
+msgstr "佛爾普"
+
+#. STRINGS.MERMNAMES.9
+msgctxt "STRINGS.MERMNAMES.9"
+msgid "Furt"
+msgstr "佛爾特"
 
 #. STRINGS.MERM_BATTLECRY.1.1
 msgctxt "STRINGS.MERM_BATTLECRY.1.1"
@@ -248686,6 +251456,11 @@ msgctxt "STRINGS.NAMES.SAPLING"
 msgid "Sapling"
 msgstr "樹苗"
 
+#. STRINGS.NAMES.SCANDATA
+msgctxt "STRINGS.NAMES.SCANDATA"
+msgid "Bio Data"
+msgstr "生物資料"
+
 #. STRINGS.NAMES.SCARECROW
 msgctxt "STRINGS.NAMES.SCARECROW"
 msgid "Friendly Scarecrow"
@@ -251065,6 +253840,101 @@ msgstr "沃特"
 msgctxt "STRINGS.NAMES.WX78"
 msgid "WX-78"
 msgstr "WX-78"
+
+#. STRINGS.NAMES.WX78MODULE_BEE
+msgctxt "STRINGS.NAMES.WX78MODULE_BEE"
+msgid "Beanbooster Circuit"
+msgstr "豆豆電路"
+
+#. STRINGS.NAMES.WX78MODULE_COLD
+msgctxt "STRINGS.NAMES.WX78MODULE_COLD"
+msgid "Refrigerant Circuit"
+msgstr "製冷電路"
+
+#. STRINGS.NAMES.WX78MODULE_HEAT
+msgctxt "STRINGS.NAMES.WX78MODULE_HEAT"
+msgid "Thermal Circuit"
+msgstr "熱能電路"
+
+#. STRINGS.NAMES.WX78MODULE_LIGHT
+msgctxt "STRINGS.NAMES.WX78MODULE_LIGHT"
+msgid "Illumination Circuit"
+msgstr "照明電路"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHEALTH"
+msgid "Hardy Circuit"
+msgstr "強化電路"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHEALTH2"
+msgid "Super-Hardy Circuit"
+msgstr "超級強化電路"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHUNGER"
+msgid "Super-Gastrogain Circuit"
+msgstr "超級胃增益電路"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHUNGER1"
+msgid "Gastrogain Circuit"
+msgstr "胃增益電路"
+
+#. STRINGS.NAMES.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXSANITY"
+msgid "Super-Processing Circuit"
+msgstr "超級處理器電路"
+
+#. STRINGS.NAMES.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXSANITY1"
+msgid "Processing Circuit"
+msgstr "處理器電路"
+
+#. STRINGS.NAMES.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.NAMES.WX78MODULE_MOVESPEED"
+msgid "Acceleration Circuit"
+msgstr "加速電路"
+
+#. STRINGS.NAMES.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.NAMES.WX78MODULE_MOVESPEED2"
+msgid "Super-Acceleration Circuit"
+msgstr "超級加速電路"
+
+#. STRINGS.NAMES.WX78MODULE_MUSIC
+msgctxt "STRINGS.NAMES.WX78MODULE_MUSIC"
+msgid "Chorusbox Circuit"
+msgstr "合唱盒電路"
+
+#. STRINGS.NAMES.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.NAMES.WX78MODULE_NIGHTVISION"
+msgid "Optoelectronic Circuit"
+msgstr "光電電路"
+
+#. STRINGS.NAMES.WX78MODULE_TASER
+msgctxt "STRINGS.NAMES.WX78MODULE_TASER"
+msgid "Electrification Circuit"
+msgstr "電氣化電路"
+
+#. STRINGS.NAMES.WX78_MODULEREMOVER
+msgctxt "STRINGS.NAMES.WX78_MODULEREMOVER"
+msgid "Circuit Extractor"
+msgstr "電路提取器"
+
+#. STRINGS.NAMES.WX78_SCANNER
+msgctxt "STRINGS.NAMES.WX78_SCANNER"
+msgid "Bio Scanalyzer"
+msgstr "生物掃描分析儀"
+
+#. STRINGS.NAMES.WX78_SCANNER_ITEM
+msgctxt "STRINGS.NAMES.WX78_SCANNER_ITEM"
+msgid "Bio Scanalyzer"
+msgstr "生物掃描分析儀"
+
+#. STRINGS.NAMES.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.NAMES.WX78_SCANNER_SUCCEEDED"
+msgid "Bio Scanalyzer"
+msgstr "生物掃描分析儀"
 
 #. STRINGS.NAMES.YELLOWAMULET
 msgctxt "STRINGS.NAMES.YELLOWAMULET"
@@ -255856,6 +258726,91 @@ msgctxt "STRINGS.RECIPE_DESC.WINTER_TREESTAND"
 msgid "Plant and decorate a Winter's Feast tree!"
 msgstr "種植並裝飾一棵冬季盛宴樹！"
 
+#. STRINGS.RECIPE_DESC.WX78MODULE_BEE
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_BEE"
+msgid "Get your brain and body buzzing with powerful potential!"
+msgstr "讓你的大腦和身體都充滿嗡嗡作響的潛能！"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_COLD
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_COLD"
+msgid "Turn your chassis into a portable freezer."
+msgstr "把你的底盤變成一個可擕式冰櫃。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_HEAT
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_HEAT"
+msgid "Things are about to get heated."
+msgstr "要熱起來了。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_LIGHT
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_LIGHT"
+msgid "Light up a room with your presence."
+msgstr "用你的存在照亮一個房間。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH"
+msgid "Make your robotic body a bit more robust."
+msgstr "讓你的機械身軀更加健壯。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2"
+msgid "Make your robotic body much more robust."
+msgstr "讓你的機械身軀無比健壯"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER"
+msgid "Capable of containing even the most insatiable automaton's appetite."
+msgstr "能滿足哪怕是最貪食的機器人的胃口。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER1"
+msgid "Add a bit of room to your fuel tank."
+msgstr "增加一點燃料箱的容量。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY"
+msgid "A big boost of processing power will really get those gears turning."
+msgstr "處理能力的大幅提升將讓齒輪高速轉動。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY1"
+msgid "A little extra processing power helps to ease the mechanical mind."
+msgstr "一點額外的處理能力有助於緩解機械思維。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED"
+msgid "A hastily designed speed booster. It could use some improvement."
+msgstr "匆忙設計的加速器。亟待改進。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED2"
+msgid "A perfected speed booster to kick your engine into high gear."
+msgstr "一個完美的加速器，將你的引擎提到最高檔。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MUSIC
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MUSIC"
+msgid "Every machine needs a tune-up now and then."
+msgstr "每台機器都需要時不時地進行校準。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_NIGHTVISION"
+msgid "Recalibrate your optic sensors for night vision."
+msgstr "將你的光學感測器調校為夜視效果。"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_TASER
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_TASER"
+msgid "Anyone who messes with you will be in for a shock."
+msgstr "誰敢惹你就等著被電擊吧。"
+
+#. STRINGS.RECIPE_DESC.WX78_MODULEREMOVER
+msgctxt "STRINGS.RECIPE_DESC.WX78_MODULEREMOVER"
+msgid "Success comes to those who really a-ply themselves."
+msgstr "成功的鉗（前）提是努力。"
+
+#. STRINGS.RECIPE_DESC.WX78_SCANNER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WX78_SCANNER_ITEM"
+msgid "It never hurts to have a backup scan."
+msgstr "備份掃描永遠不會有壞處。"
+
 #. STRINGS.RECIPE_DESC.YELLOWAMULET
 msgctxt "STRINGS.RECIPE_DESC.YELLOWAMULET"
 msgid "Pull power from the heavens."
@@ -259326,6 +262281,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_formal"
 msgid "But of course it has a cummerbund."
 msgstr "但是它肯定有腰帶的。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_formalp"
+msgid "But of course it has a cummerbund."
+msgstr "但是它肯定有腰帶的。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_gladiator"
 msgid "Make sure your minions know who's top robot."
@@ -259346,6 +262306,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_nature"
 msgid "This chassis is all bark and no byte."
 msgstr "這副身軀中看不中用。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_retro"
+msgid "There is no heart to be found inside this metal monster."
+msgstr "沒心的金屬怪物。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_rhinorook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rhinorook"
 msgid "This Rook Hallowed Nights costume will give you a run for your money."
@@ -259361,13 +262326,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rose"
 msgid "Vines wrapped around wires, wires wrapped around vines."
 msgstr "線纏繞著藤，藤纏繞著線。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rosep"
+msgid "Vines wrapped around wires, wires wrapped around vines."
+msgstr "線纏繞著藤，藤纏繞著線。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadow"
 msgid "A dark automaton chassis with a lovely decorative gemstone."
 msgstr "深色機器人身軀鑲嵌了一個可愛的寶石。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadowp"
+msgid "A dark automaton chassis with a lovely decorative gemstone."
+msgstr "深色機器人身軀鑲嵌了一個可愛的寶石。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivor"
+msgid "It may have seen better days, but this body is still minimally functional."
+msgstr "或許好日子就在眼前，但是這個軀體沒什麼用。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_survivorp"
 msgid "It may have seen better days, but this body is still minimally functional."
 msgstr "或許好日子就在眼前，但是這個軀體沒什麼用。"
 
@@ -260906,6 +263886,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_robot"
 msgid "Fires never had a chance."
 msgstr "消滅一切火焰。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical"
+msgid "Fit for only the finest fish."
+msgstr "只適合最好的魚。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown"
 msgid "This feather hat is so luxurious to the touch!"
@@ -261716,6 +264701,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_nature"
 msgid "Get in touch with nature with these clinging vine hand replacements."
 msgstr "利用這些抓力很好的藤手，與大自然親密接觸。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro"
+msgid "All superfluous fingers have been eradicated for maximum efficiency."
+msgstr "所有多餘的手指都已被根除，以取得最大效率。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian"
 msgid "These diving suit gloves are old and worn. They probably aren't waterproof anymore."
@@ -261930,6 +264920,11 @@ msgstr "相當抓眼球！"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt"
 msgid "It's certainly eye-catching!"
 msgstr "相當抓眼球！"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_retro"
+msgid "A powerful light, with only a negligible risk of electrocution."
+msgstr "強勁的電燈，觸電風險可以忽略不計。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_tesla"
@@ -262656,6 +265651,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_ice"
 msgid "Built to resist even the bitterest cold."
 msgstr "即使是最嚴寒的天氣也能抵禦。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_retro"
+msgid "You can't stop the march of progress."
+msgstr "你無法阻止進步的步伐。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_victorian"
 msgid "The bottom of this diving suit is just for show. It doesn't keep out water anymore."
@@ -262680,6 +265680,11 @@ msgstr "從黑暗、憂鬱的風暴雲中召喚出閃電。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_nautical"
 msgid "Woe to this poor fish in particular."
 msgstr "子非魚，焉知魚之哀。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_retro"
+msgid "Lightning - the energy source of the future!"
+msgstr "閃電——未來的能源來源！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot"
@@ -264066,6 +267071,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_oni_gift"
 msgid "Oxygen Not Included Gift"
 msgstr "《缺氧》禮物"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_retro_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_retro_items"
+msgid "This Experimental Chest contains the following belongings skin items: Electrified Lantern, Experimental Energy Siphon, and Experimentation Apparatus."
+msgstr "這個實驗箱子包含以下財物皮膚：電氣化燈籠、實驗能量虹吸管、實驗儀器。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
 msgid "Don't Starve: Reign of Giants Gift"
@@ -264701,6 +267711,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wurt_shadow"
 msgid "This Chest contains Wurt's complete set of Triumphant skin items."
 msgstr "這個箱子裡包含了沃特的全套凱旋皮膚物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_deluxe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_deluxe"
+msgid "This Deluxe Wardrobe contains WX-78's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Experimental skin items."
+msgstr "這個豪華衣櫃包含了WX-78的全套貴賓、玫瑰、冒險家、凱旋，和實驗皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_formal"
+msgid "This Chest contains WX-78's complete set of Guest of Honor skin items."
+msgstr "這個箱子包含了WX-78的全套貴賓皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro"
+msgid "This Chest contains WX-78's complete set of Experimental skin items."
+msgstr "這個箱子包含了WX-78的全套實驗皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_rose"
+msgid "This Chest contains WX-78's complete set of Roseate skin items."
+msgstr "這個箱子包含了WX-78的全套玫瑰皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_shadow"
+msgid "This Chest contains WX-78's complete set of Triumphant skin items."
+msgstr "這個箱子包含了WX-78的全套凱旋皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_survivor"
+msgid "This Chest contains WX-78's complete set of Survivor skin items."
+msgstr "這個箱子包含了WX-78的全套冒險家皮膚物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yotc_builders
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yotc_builders"
 msgid "This Chest contains a plethora of belonging skins to remodel your base with."
@@ -265048,6 +268088,11 @@ msgstr "裝備此物品以更改你的角色背景畫像。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_firesuppressorcircus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_firesuppressorcircus"
+msgid "Equip this item to change your character's background portrait."
+msgstr "裝備此物品以更改你的角色背景畫像。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_fishboxnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_fishboxnautical"
 msgid "Equip this item to change your character's background portrait."
 msgstr "裝備此物品以更改你的角色背景畫像。"
 
@@ -265645,6 +268690,11 @@ msgstr "將你的頭像設為紅鞭炮。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_firesuppressor_circus"
 msgid "Set your profile icon to an Amazing Snowball Juggler."
 msgstr "將你的頭像設為神奇雪球雜耍器。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_fishbox_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_fishbox_nautical"
+msgid "Set your profile icon to a Silver Tuna Tin."
+msgstr "將你的頭像設置為銀金槍魚罐。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart"
@@ -266766,6 +269816,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_green"
 msgid "It's positively oozing with scientific potential!"
 msgstr "漏出的是非常正面的科學潛力！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_retro"
+msgid "What will you do in the name of progress?"
+msgstr "你會以進步的名義做什麼？"
+
 #. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush"
 msgid "Nothing like a fresh coat of spectral paint."
@@ -267485,6 +270540,11 @@ msgstr "當你試圖掛起一件夏威夷花襯衫時，你發誓你聽見了它
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart"
 msgid "Love the new look."
 msgstr "喜歡新的樣子。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine"
+msgid "This thorny wardrobe will have you looking sharp."
+msgstr "這個帶刺的衣櫃會讓你看起來十分犀利。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_yule"
@@ -269056,6 +272116,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_formal"
 msgid "ERROR: DO NOT RECOGNIZE COMMAND \"MOUSTACHE.TWIRL\""
 msgstr "錯誤：不識別\"MOUSTACHE.TWIRL\" 命令"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_formalp"
+msgid "ERROR: DO NOT RECOGNIZE COMMAND \"MOUSTACHE.TWIRL\""
+msgstr "錯誤：不識別\"MOUSTACHE.TWIRL\" 命令"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator"
 msgid "WX-78's transformation into an organic killing machine proves all dreams are possible, if you only believe."
@@ -269081,6 +272146,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_none"
 msgid "Original design, version 1.0."
 msgstr "原創設計，版本1.0。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_retro"
+msgid "A bolt of lightning has brought this mechanical menace... to life!"
+msgstr "一道閃電竟讓這個機械威脅……活了過來！"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook"
 msgid "Rookiebot Costume"
@@ -269101,13 +272171,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rose"
 msgid "The organics have inextricably grown on WX-78... Regrettable."
 msgstr "這些有機物不可避免地長在了WX-78身上...很遺憾。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rosep"
+msgid "The organics have inextricably grown on WX-78... Regrettable."
+msgstr "這些有機物不可避免地長在了WX-78身上...很遺憾。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_shadow"
 msgid "This robot was evil before. Now they're double evil."
 msgstr "這機器人之前很邪惡，現在雙倍邪惡。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_shadowp"
+msgid "This robot was evil before. Now they're double evil."
+msgstr "這機器人之前很邪惡，現在雙倍邪惡。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_survivor"
+msgid "Exposure to the elements causes corrosion."
+msgstr "暴露於這些元素會引起腐蝕。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wx78_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_survivorp"
 msgid "Exposure to the elements causes corrosion."
 msgstr "暴露於這些元素會引起腐蝕。"
 
@@ -271646,6 +274731,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wx78_formal"
 msgid "Formal Body Shell"
 msgstr "正式軀體外殼"
 
+#. STRINGS.SKIN_NAMES.body_wx78_formalp
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_formalp"
+msgid "Formal Body Shell"
+msgstr "正式軀體外殼"
+
 #. STRINGS.SKIN_NAMES.body_wx78_gladiator
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_gladiator"
 msgid "Cast Iron Chassis"
@@ -271666,6 +274756,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wx78_nature"
 msgid "Timber Golem Trunk"
 msgstr "木頭人的軀幹"
 
+#. STRINGS.SKIN_NAMES.body_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_retro"
+msgid "Experimental Chassis"
+msgstr "實驗底盤"
+
 #. STRINGS.SKIN_NAMES.body_wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_rhinorook"
 msgid "Rook Costume Top"
@@ -271681,13 +274776,28 @@ msgctxt "STRINGS.SKIN_NAMES.body_wx78_rose"
 msgid "Fieldrose Vessel"
 msgstr "野玫瑰容器"
 
+#. STRINGS.SKIN_NAMES.body_wx78_rosep
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_rosep"
+msgid "Fieldrose Vessel"
+msgstr "野玫瑰容器"
+
 #. STRINGS.SKIN_NAMES.body_wx78_shadow
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_shadow"
 msgid "Shadow Chassis"
 msgstr "暗影身軀"
 
+#. STRINGS.SKIN_NAMES.body_wx78_shadowp
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_shadowp"
+msgid "Shadow Chassis"
+msgstr "暗影身軀"
+
 #. STRINGS.SKIN_NAMES.body_wx78_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_survivor"
+msgid "Battered Body Case"
+msgstr "磨損的機殼"
+
+#. STRINGS.SKIN_NAMES.body_wx78_survivorp
+msgctxt "STRINGS.SKIN_NAMES.body_wx78_survivorp"
 msgid "Battered Body Case"
 msgstr "磨損的機殼"
 
@@ -273226,6 +276336,11 @@ msgctxt "STRINGS.SKIN_NAMES.firesuppressor_robot"
 msgid "Fling-o-Tron 4000"
 msgstr "投擲電器4000"
 
+#. STRINGS.SKIN_NAMES.fishbox_nautical
+msgctxt "STRINGS.SKIN_NAMES.fishbox_nautical"
+msgid "Silver Tuna Tin"
+msgstr "銀金槍魚罐"
+
 #. STRINGS.SKIN_NAMES.flowerhat_crown
 msgctxt "STRINGS.SKIN_NAMES.flowerhat_crown"
 msgid "Feathered Wreath"
@@ -274036,6 +277151,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wx78_nature"
 msgid "Timber Golem Hands"
 msgstr "木頭人的手"
 
+#. STRINGS.SKIN_NAMES.hand_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.hand_wx78_retro"
+msgid "Experimental Graspers"
+msgstr "實驗抓取裝置"
+
 #. STRINGS.SKIN_NAMES.hand_wx78_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_wx78_victorian"
 msgid "Diving Gauntlets"
@@ -274250,6 +277370,11 @@ msgstr "怪獸提燈"
 msgctxt "STRINGS.SKIN_NAMES.lantern_mummy_alt"
 msgid "Monstrous Lantern"
 msgstr "怪獸提燈"
+
+#. STRINGS.SKIN_NAMES.lantern_retro
+msgctxt "STRINGS.SKIN_NAMES.lantern_retro"
+msgid "Electrified Lantern"
+msgstr "電氣化燈籠"
 
 #. STRINGS.SKIN_NAMES.lantern_tesla
 msgctxt "STRINGS.SKIN_NAMES.lantern_tesla"
@@ -274976,6 +278101,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wx78_ice"
 msgid "Sub-Zero Legs"
 msgstr "零下腿"
 
+#. STRINGS.SKIN_NAMES.legs_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.legs_wx78_retro"
+msgid "Ambulation Apparatus"
+msgstr "行走裝置"
+
 #. STRINGS.SKIN_NAMES.legs_wx78_victorian
 msgctxt "STRINGS.SKIN_NAMES.legs_wx78_victorian"
 msgid "Diving Suit Bottom"
@@ -275000,6 +278130,11 @@ msgstr "哥特遣雷使"
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_nautical"
 msgid "Smite'ning Rod"
 msgstr "懲戒避雷針"
+
+#. STRINGS.SKIN_NAMES.lightning_rod_retro
+msgctxt "STRINGS.SKIN_NAMES.lightning_rod_retro"
+msgid "Experimental Energy Siphon"
+msgstr "實驗能量虹吸管"
 
 #. STRINGS.SKIN_NAMES.lightning_rod_robot
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_robot"
@@ -276386,6 +279521,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_oni_gift"
 msgid "Oxygen Not Included Gift"
 msgstr "《缺氧》禮物"
 
+#. STRINGS.SKIN_NAMES.pack_retro_items
+msgctxt "STRINGS.SKIN_NAMES.pack_retro_items"
+msgid "Experimental Chest"
+msgstr "實驗箱子"
+
 #. STRINGS.SKIN_NAMES.pack_rog_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
 msgid "Don't Starve: Reign of Giants Gift"
@@ -277021,6 +280161,36 @@ msgctxt "STRINGS.SKIN_NAMES.pack_wurt_shadow"
 msgid "Wurt Triumphant Chest"
 msgstr "沃特凱旋箱子"
 
+#. STRINGS.SKIN_NAMES.pack_wx78_deluxe
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_deluxe"
+msgid "WX-78 Deluxe Wardrobe"
+msgstr "WX-78豪華衣櫃"
+
+#. STRINGS.SKIN_NAMES.pack_wx78_formal
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_formal"
+msgid "WX-78 Guest of Honor Chest"
+msgstr "WX-78貴賓箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_retro"
+msgid "WX-78 Experimental Chest"
+msgstr "WX-78實驗箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wx78_rose
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_rose"
+msgid "WX-78 Roseate Chest"
+msgstr "WX-78玫瑰箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wx78_shadow
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_shadow"
+msgid "WX-78 Shadow Chest"
+msgstr "WX-78暗影箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wx78_survivor
+msgctxt "STRINGS.SKIN_NAMES.pack_wx78_survivor"
+msgid "WX-78 Survivor Chest"
+msgstr "WX-78冒險家箱子"
+
 #. STRINGS.SKIN_NAMES.pack_yotc_builders
 msgctxt "STRINGS.SKIN_NAMES.pack_yotc_builders"
 msgid "Builder's Belongings Chest"
@@ -277370,6 +280540,11 @@ msgstr "鑄鐵背景"
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_firesuppressorcircus"
 msgid "Amazing Snowball Juggler Portrait"
 msgstr "神奇雪球雜耍機背景"
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical"
+msgid "Silver Tuna Tin Portrait"
+msgstr "銀金槍魚罐背景畫像"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_flames
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_flames"
@@ -277965,6 +281140,11 @@ msgstr "紅鞭炮"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_firesuppressor_circus"
 msgid "Amazing Snowball Juggler"
 msgstr "神奇雪球雜耍機"
+
+#. STRINGS.SKIN_NAMES.profileflair_fishbox_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_fishbox_nautical"
+msgid "Silver Tuna Tin"
+msgstr "銀金槍魚罐"
 
 #. STRINGS.SKIN_NAMES.profileflair_food_berrytart
 msgctxt "STRINGS.SKIN_NAMES.profileflair_food_berrytart"
@@ -279086,6 +282266,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab_green"
 msgid "Terrible Ooze Machine"
 msgstr "恐怖漏液機器"
 
+#. STRINGS.SKIN_NAMES.researchlab_retro
+msgctxt "STRINGS.SKIN_NAMES.researchlab_retro"
+msgid "Experimentation Apparatus"
+msgstr "實驗儀器"
+
 #. STRINGS.SKIN_NAMES.reskin_tool_brush
 msgctxt "STRINGS.SKIN_NAMES.reskin_tool_brush"
 msgid "Spectre Paintbrush"
@@ -279805,6 +282990,11 @@ msgstr "哥特衣櫃"
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_heart"
 msgid "Lover's Wardrobe"
 msgstr "情人衣櫃"
+
+#. STRINGS.SKIN_NAMES.wardrobe_vine
+msgctxt "STRINGS.SKIN_NAMES.wardrobe_vine"
+msgid "Brambleberry Wardrobe"
+msgstr "刺莓衣櫃"
 
 #. STRINGS.SKIN_NAMES.wardrobe_yule
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_yule"
@@ -281376,6 +284566,11 @@ msgctxt "STRINGS.SKIN_NAMES.wx78_formal"
 msgid "Guest of Honor"
 msgstr "貴賓"
 
+#. STRINGS.SKIN_NAMES.wx78_formalp
+msgctxt "STRINGS.SKIN_NAMES.wx78_formalp"
+msgid "Guest of Honor"
+msgstr "貴賓"
+
 #. STRINGS.SKIN_NAMES.wx78_gladiator
 msgctxt "STRINGS.SKIN_NAMES.wx78_gladiator"
 msgid "The Gladiator"
@@ -281401,6 +284596,11 @@ msgctxt "STRINGS.SKIN_NAMES.wx78_none"
 msgid "WX-78"
 msgstr "WX-78"
 
+#. STRINGS.SKIN_NAMES.wx78_retro
+msgctxt "STRINGS.SKIN_NAMES.wx78_retro"
+msgid "The Experiment"
+msgstr "實驗"
+
 #. STRINGS.SKIN_NAMES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.wx78_rhinorook"
 msgid "Rook Costume"
@@ -281421,13 +284621,28 @@ msgctxt "STRINGS.SKIN_NAMES.wx78_rose"
 msgid "The Roseate"
 msgstr "玫瑰"
 
+#. STRINGS.SKIN_NAMES.wx78_rosep
+msgctxt "STRINGS.SKIN_NAMES.wx78_rosep"
+msgid "The Roseate"
+msgstr "玫瑰"
+
 #. STRINGS.SKIN_NAMES.wx78_shadow
 msgctxt "STRINGS.SKIN_NAMES.wx78_shadow"
 msgid "The Triumphant"
 msgstr "凱旋"
 
+#. STRINGS.SKIN_NAMES.wx78_shadowp
+msgctxt "STRINGS.SKIN_NAMES.wx78_shadowp"
+msgid "The Triumphant"
+msgstr "凱旋"
+
 #. STRINGS.SKIN_NAMES.wx78_survivor
 msgctxt "STRINGS.SKIN_NAMES.wx78_survivor"
+msgid "The Survivor"
+msgstr "冒險家"
+
+#. STRINGS.SKIN_NAMES.wx78_survivorp
+msgctxt "STRINGS.SKIN_NAMES.wx78_survivorp"
 msgid "The Survivor"
 msgstr "冒險家"
 
@@ -282706,6 +285921,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wx78_formal"
 msgid "\"I POLISHED MY CHASSIS FOR THE OCCASION\""
 msgstr "\"我為特別的日子裝扮自己的身軀。\""
 
+#. STRINGS.SKIN_QUOTES.wx78_formalp
+msgctxt "STRINGS.SKIN_QUOTES.wx78_formalp"
+msgid "\"I POLISHED MY CHASSIS FOR THE OCCASION\""
+msgstr "\"我為特別的日子裝扮自己的身軀。\""
+
 #. STRINGS.SKIN_QUOTES.wx78_gladiator
 msgctxt "STRINGS.SKIN_QUOTES.wx78_gladiator"
 msgid "\"ALL FLESHLINGS WILL BE CRUSHED\""
@@ -282725,6 +285945,11 @@ msgstr "\"用熔岩指令碼語言編寫而成\""
 msgctxt "STRINGS.SKIN_QUOTES.wx78_nature"
 msgid "\"I AM THE ROOT OF ALL EVIL\""
 msgstr "\"我是一切邪惡的根源\""
+
+#. STRINGS.SKIN_QUOTES.wx78_retro
+msgctxt "STRINGS.SKIN_QUOTES.wx78_retro"
+msgid "\"I AM THE FUTURE\""
+msgstr "“我即未來”"
 
 #. STRINGS.SKIN_QUOTES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_QUOTES.wx78_rhinorook"
@@ -282746,13 +285971,28 @@ msgctxt "STRINGS.SKIN_QUOTES.wx78_rose"
 msgid "\"OVERGROWN. CIRCUITS BLOWN\""
 msgstr "\"長瘋了。斷路了。\""
 
+#. STRINGS.SKIN_QUOTES.wx78_rosep
+msgctxt "STRINGS.SKIN_QUOTES.wx78_rosep"
+msgid "\"OVERGROWN. CIRCUITS BLOWN\""
+msgstr "\"長瘋了。斷路了。\""
+
 #. STRINGS.SKIN_QUOTES.wx78_shadow
 msgctxt "STRINGS.SKIN_QUOTES.wx78_shadow"
 msgid "\"NOW THE OUTSIDE MATCHES THE INSIDE. EVIL.\""
 msgstr "\"惡魔。現在你表裡如一了。\""
 
+#. STRINGS.SKIN_QUOTES.wx78_shadowp
+msgctxt "STRINGS.SKIN_QUOTES.wx78_shadowp"
+msgid "\"NOW THE OUTSIDE MATCHES THE INSIDE. EVIL.\""
+msgstr "\"惡魔。現在你表裡如一了。\""
+
 #. STRINGS.SKIN_QUOTES.wx78_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wx78_survivor"
+msgid "\"RUSTED AND BUSTED\""
+msgstr "\"又鏽又破\""
+
+#. STRINGS.SKIN_QUOTES.wx78_survivorp
+msgctxt "STRINGS.SKIN_QUOTES.wx78_survivorp"
 msgid "\"RUSTED AND BUSTED\""
 msgstr "\"又鏽又破\""
 
@@ -283070,6 +286310,11 @@ msgstr "無邪系列"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION"
 msgid "Promotional Collection"
 msgstr "促銷系列"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.RETRO
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.RETRO"
+msgid "Experimental Collection"
+msgstr "實驗系列"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE"
@@ -283440,6 +286685,11 @@ msgstr "火魔杖"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR"
 msgid "Ice Flingomatic"
 msgstr "雪球發射器"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX"
+msgid "Tin Fishin' Bin "
+msgstr "錫魚桶"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT"
@@ -284905,6 +288155,11 @@ msgstr "瑪姆茜"
 msgctxt "STRINGS.TABS.REFINE"
 msgid "Refine"
 msgstr "精煉"
+
+#. STRINGS.TABS.ROBOTMODULECRAFT
+msgctxt "STRINGS.TABS.ROBOTMODULECRAFT"
+msgid "Circuitry"
+msgstr "電路板"
 
 #. STRINGS.TABS.SCIENCE
 msgctxt "STRINGS.TABS.SCIENCE"
@@ -289601,6 +292856,11 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE"
 msgid "Use a Science Machine to build a prototype!"
 msgstr "使用科學機器製造一個原型！"
 
+#. STRINGS.UI.CRAFTING.NEEDSCREATURESCANNING
+msgctxt "STRINGS.UI.CRAFTING.NEEDSCREATURESCANNING"
+msgid "Scan living creatures to collect data!"
+msgstr "通過掃描生物來收集資料！"
+
 #. STRINGS.UI.CRAFTING.NEEDSCRITTERLAB
 msgctxt "STRINGS.UI.CRAFTING.NEEDSCRITTERLAB"
 msgid "Find the Rock Den to adopt this!"
@@ -290094,7 +293354,7 @@ msgstr "遠古偽科學"
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"
 msgid "Cawnival Creation"
-msgstr "鴉年華製造"
+msgstr "鴉年華舉辦"
 
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP"
@@ -295013,8 +298273,8 @@ msgstr "退出"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
-msgid "March QoL\nBeta Build"
-msgstr "三月生活品質\n測試版本"
+msgid "WX-78 Refresh\nBeta Build"
+msgstr "WX-78人物重做\n測試版本"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
@@ -297821,6 +301081,16 @@ msgctxt "STRINGS.UI.OPTIONS.INVENTORYSENSITIVITY"
 msgid "Inventory Sensitivity:"
 msgstr "物品欄靈敏度："
 
+#. STRINGS.UI.OPTIONS.INVERT
+msgctxt "STRINGS.UI.OPTIONS.INVERT"
+msgid "Inverted"
+msgstr "反轉"
+
+#. STRINGS.UI.OPTIONS.INVERTCAMERAROTATION
+msgctxt "STRINGS.UI.OPTIONS.INVERTCAMERAROTATION"
+msgid "Camera Rotation"
+msgstr "鏡頭旋轉"
+
 #. STRINGS.UI.OPTIONS.KLEI_ID_PREFIX
 msgctxt "STRINGS.UI.OPTIONS.KLEI_ID_PREFIX"
 msgid "Klei ID: "
@@ -298190,6 +301460,11 @@ msgstr "手柄還是鍵盤？怎麼玩《饑荒連線版》由你定。"
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
 msgid "Adjust the input sensitivity while navigating through the inventory."
 msgstr "調整流覽物品欄時的靈敏度。"
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION"
+msgid "Flips the camera rotation direction."
+msgstr "調整鏡頭旋轉方向。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES"
@@ -299515,6 +302790,16 @@ msgstr "箱子裡沒有新物品"
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.SALE_TXT"
 msgid "-{sale_percent}%\nSale!"
 msgstr "-{sale_percent}%\n促銷！"
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_BODY
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_BODY"
+msgid "It looks like your date and time is incorrect. Perhaps you've been time travelling in another game?\n\nPlease verify your system date and time before purchasing."
+msgstr "看起來你的日期和時間不正確。也許你在其他遊戲中進行了時間旅行？\n\n請在購買前核實您的系統日期和時間。"
+
+#. STRINGS.UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_TITLE
+msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.SHOP_EPOCH_WRONG_TITLE"
+msgid "Incorrect System Time"
+msgstr "系統時間錯誤"
 
 #. STRINGS.UI.PURCHASEPACKSCREEN.TITLE
 msgctxt "STRINGS.UI.PURCHASEPACKSCREEN.TITLE"
