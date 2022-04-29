@@ -263816,8 +263816,18 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole"
 msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
 msgstr "無底洞最好，但是有火的無底洞更好。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_hole_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole_alt"
+msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
+msgstr "無底洞最好，但是有火的無底洞更好。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln"
+msgid "A lovely stone kiln to house your coziest fires."
+msgstr "一個可愛的窯爐，裡面可以燒起舒適的火焰。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln_alt"
 msgid "A lovely stone kiln to house your coziest fires."
 msgstr "一個可愛的窯爐，裡面可以燒起舒適的火焰。"
 
@@ -270161,6 +270171,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_pillar"
 msgid "Doesn't burn any brighter or last any longer, but goodness-gosh if it isn't just the fanciest."
 msgstr "燃燒持續的時間不太長，也不是很明亮，不過就算不是最漂亮的，也同樣非常令人驚歎。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.torch_pillar_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_pillar_alt"
+msgid "Doesn't burn any brighter or last any longer, but goodness-gosh if it isn't just the fanciest."
+msgstr "燃燒持續的時間不太長，也不是很明亮，不過就算不是最漂亮的，也同樣非常令人驚歎。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.torch_pronged
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_pronged"
 msgid "A torch made from untrimmed twigs."
@@ -276266,8 +276281,18 @@ msgctxt "STRINGS.SKIN_NAMES.firepit_hole"
 msgid "Bottomless Pit"
 msgstr "無底洞"
 
+#. STRINGS.SKIN_NAMES.firepit_hole_alt
+msgctxt "STRINGS.SKIN_NAMES.firepit_hole_alt"
+msgid "Bottomless Pit"
+msgstr "無底洞"
+
 #. STRINGS.SKIN_NAMES.firepit_kiln
 msgctxt "STRINGS.SKIN_NAMES.firepit_kiln"
+msgid "Stone Kiln"
+msgstr "石窯"
+
+#. STRINGS.SKIN_NAMES.firepit_kiln_alt
+msgctxt "STRINGS.SKIN_NAMES.firepit_kiln_alt"
 msgid "Stone Kiln"
 msgstr "石窯"
 
@@ -282608,6 +282633,11 @@ msgstr "海螺火炬"
 
 #. STRINGS.SKIN_NAMES.torch_pillar
 msgctxt "STRINGS.SKIN_NAMES.torch_pillar"
+msgid "Carved Stone Torch"
+msgstr "雕刻石制火炬"
+
+#. STRINGS.SKIN_NAMES.torch_pillar_alt
+msgctxt "STRINGS.SKIN_NAMES.torch_pillar_alt"
 msgid "Carved Stone Torch"
 msgstr "雕刻石制火炬"
 
@@ -293910,6 +293940,21 @@ msgstr "Sarig Poyyara"
 msgctxt "STRINGS.UI.CREDITS.NAMES.71"
 msgid "Yan Fisch"
 msgstr "Yan Fisch"
+
+#. STRINGS.UI.CREDITS.NAMES.72
+msgctxt "STRINGS.UI.CREDITS.NAMES.72"
+msgid "Marcus Lo"
+msgstr "Marcus Lo"
+
+#. STRINGS.UI.CREDITS.NAMES.73
+msgctxt "STRINGS.UI.CREDITS.NAMES.73"
+msgid "Jordan Krahn"
+msgstr "Jordan Krahn"
+
+#. STRINGS.UI.CREDITS.NAMES.74
+msgctxt "STRINGS.UI.CREDITS.NAMES.74"
+msgid "Daniel MacGregor"
+msgstr "Daniel MacGregor"
 
 #. STRINGS.UI.CREDITS.NAMES.8
 msgctxt "STRINGS.UI.CREDITS.NAMES.8"
