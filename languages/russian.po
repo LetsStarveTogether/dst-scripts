@@ -39,7 +39,7 @@ msgstr "Закрыть"
 #. STRINGS.ACTIONS.ACTIVATE.DEACTIVATE
 msgctxt "STRINGS.ACTIONS.ACTIVATE.DEACTIVATE"
 msgid "Deactivate"
-msgstr ""
+msgstr "Деактивировать"
 
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
@@ -119,7 +119,7 @@ msgstr "Строить"
 #. STRINGS.ACTIONS.APPLYMODULE
 msgctxt "STRINGS.ACTIONS.APPLYMODULE"
 msgid "Plug In"
-msgstr ""
+msgstr "Подключить"
 
 #. STRINGS.ACTIONS.APPLYPRESERVATIVE.GENERIC
 msgctxt "STRINGS.ACTIONS.APPLYPRESERVATIVE.GENERIC"
@@ -394,7 +394,7 @@ msgstr "Убрать"
 #. STRINGS.ACTIONS.CHARGE_FROM
 msgctxt "STRINGS.ACTIONS.CHARGE_FROM"
 msgid "Charge At"
-msgstr ""
+msgstr "Зарядить"
 
 #. STRINGS.ACTIONS.CHECKTRAP
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
@@ -1129,7 +1129,7 @@ msgstr "Воскресить"
 #. STRINGS.ACTIONS.REMOVEMODULES
 msgctxt "STRINGS.ACTIONS.REMOVEMODULES"
 msgid "Unplug"
-msgstr ""
+msgstr "Отключить"
 
 #. STRINGS.ACTIONS.REPAIR.GENERIC
 msgctxt "STRINGS.ACTIONS.REPAIR.GENERIC"
@@ -3354,7 +3354,7 @@ msgstr "Это уже и так используется."
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "It doesn't seem interested in a scientific discussion."
-msgstr ""
+msgstr "Оппонент для научных дискуссий ему не требуется."
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -3414,7 +3414,7 @@ msgstr "Кто-то выбил меня из седла!"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Time to wake up!"
-msgstr ""
+msgstr "Пора вставать!"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -13479,7 +13479,7 @@ msgstr "Ему бы немного прохлады, чтобы он прише�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCANDATA"
 msgid "Smells like fresh research."
-msgstr ""
+msgstr "Пахнет перспективными исследованиями."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCARECROW.BURNING"
@@ -16639,107 +16639,107 @@ msgstr "Полагаю, %s включает и запускает модуль �
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_BEE"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_COLD"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_HEAT"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_LIGHT"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_MUSIC"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_TASER"
 msgid "So much science packed into one tiny gizmo."
-msgstr ""
+msgstr "Всего один крошечный механизм, а сколько в нем научных знаний!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Obviously a very delicate and complicated scientific instrument."
-msgstr ""
+msgstr "Крайне замысловатый научный инструмент с тончайшими настройками."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "WX-78 really puts a piece of themselves into their work."
-msgstr ""
+msgstr "WX-78 буквально вкладывает в работу всего себя."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Get that data!"
-msgstr ""
+msgstr "Ищи данные!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Seems like it's found something."
-msgstr ""
+msgstr "Кажется, он что-то нашел."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "I wonder if it dreams about scanning sheep."
-msgstr ""
+msgstr "Интересно, сканирует ли он овец, чтобы заснуть."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "It's got the look of someone eager to show their work."
-msgstr ""
+msgstr "Его прямо распирает от желания продемонстрировать плоды своих трудов."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YELLOWAMULET"
@@ -17604,7 +17604,7 @@ msgstr "Ха, да я это сто лет как знаю."
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "I was trying to scratch behind his ears... but I don't think he has any."
-msgstr ""
+msgstr "Я его хотел за ухом почесать... а ушей-то у него, кажется, и нет."
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -17664,7 +17664,7 @@ msgstr "Пассажирское сиденье уже занято."
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Sorry to wake you, but could you give me a ride?"
-msgstr ""
+msgstr "Извини, что разбудил, но, может, подвезешь меня?"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -18634,7 +18634,7 @@ msgstr "Не время отдыхать, тут же столько всего 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Um, WX? Could you maybe turn the light down a bit?"
-msgstr ""
+msgstr "Э-э-э, WX? А ты можешь чуть-чуть приглушить свет?"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_NOSLEEPONFIRE"
@@ -27314,7 +27314,7 @@ msgstr "Видимо, сейчас слишком жарко."
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SCANDATA"
 msgid "Neat! Wanna scan me next?"
-msgstr ""
+msgstr "Круто! Отсканируй и меня тоже!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SCARECROW.BURNING"
@@ -30469,107 +30469,107 @@ msgstr "У-у-у, все-таки «мешки плоти» для тебя чт
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_BEE"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_COLD"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_HEAT"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_TASER"
 msgid "Robot guts! Neat!"
-msgstr ""
+msgstr "Внутренности робота! Как классно!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Should I start carrying something like this in my first aid kit?"
-msgstr ""
+msgstr "Может, мне такую штуку в аптечку положить?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Aww, who's a good little robot?"
-msgstr ""
+msgstr "О-о-о, кто тут у нас хороший робот?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Aww, who's a good little robot?"
-msgstr ""
+msgstr "О-о-о, кто тут у нас хороший робот?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Aww, who's a good little robot?"
-msgstr ""
+msgstr "О-о-о, кто тут у нас хороший робот?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "I guess it's taking a nap."
-msgstr ""
+msgstr "Видимо, ему нужно отдохнуть."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "What is it boy? Do you have something to show WX?"
-msgstr ""
+msgstr "Что такое, малыш? Ты что-то нашел и хочешь показать это WX?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YELLOWAMULET"
@@ -31464,7 +31464,7 @@ msgstr "Я уверена, что уже это видела. Или скоро 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "Fine then, keep your secrets to yourself!"
-msgstr ""
+msgstr "Ну и ладно, храни свои тайны."
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -31524,7 +31524,7 @@ msgstr "Вот уж неудобство! Это я собиралась сде�
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Wake up! There are places to go, things to be done!"
-msgstr ""
+msgstr "Просыпайся! Столько еще мест не изучено и дел не сделано!"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -32599,7 +32599,7 @@ msgstr "only_used_by_wolfang"
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Botheration... it's too bright to sleep while that automaton's about."
-msgstr ""
+msgstr "Вот неудобство... Этот аппарат излучает слишком яркий свет."
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOSLEEPONFIRE"
@@ -41304,7 +41304,7 @@ msgstr "Долго на такой жаре он не простоит."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCANDATA"
 msgid "It's of no use to me, I won't waste time reading it."
-msgstr ""
+msgstr "Мне это ни к чему. Не собираюсь тратить свое время на то, чтобы в этом разобраться."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCARECROW.BURNING"
@@ -44454,107 +44454,107 @@ msgstr "Мне кажется, глубоко в душе ты любишь жи
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_BEE"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_COLD"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_HEAT"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_TASER"
 msgid "Aha! I was wondering when they'd started making these."
-msgstr ""
+msgstr "Ага! А я все гадала, когда же он начал их мастерить."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Did the automaton make off with one of my tools?"
-msgstr ""
+msgstr "Неужто этот автоматон стащил у меня инструмент?"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Please buzz around elsewhere, you're distracting me!"
-msgstr ""
+msgstr "Иди пожужжи где-нибудь еще! Не отвлекай меня!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Please buzz around elsewhere, you're distracting me!"
-msgstr ""
+msgstr "Иди пожужжи где-нибудь еще! Не отвлекай меня!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Please buzz around elsewhere, you're distracting me!"
-msgstr ""
+msgstr "Иди пожужжи где-нибудь еще! Не отвлекай меня!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "It's biding its time."
-msgstr ""
+msgstr "Ждет своего часа."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "I suppose you have nothing better to do than wait around?"
-msgstr ""
+msgstr "Видимо, тебе совсем заняться нечем."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YELLOWAMULET"
@@ -45424,7 +45424,7 @@ msgstr "Мы это уже знаем."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "I do not think I'm the one it wants to talk to."
-msgstr ""
+msgstr "Не уверена, что он захочет со мной разговаривать."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -45484,7 +45484,7 @@ msgstr "О. Наверно, это кому-то принадлежит."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Excusez-moi, but perhaps you can nap later?"
-msgstr ""
+msgstr "Excusez-moi, но давай ты поспишь чуть позже?"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -46494,7 +46494,7 @@ msgstr "Не сказал бы, что это комфортное место д
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "I can still see the light from our metal friend when I close my eyes..."
-msgstr ""
+msgstr "Наш металлический друг так ярко светится, что даже сквозь закрытые глаза видно..."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE"
@@ -54384,7 +54384,7 @@ msgstr "Ему всего лишь нужна любовь."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SCANDATA"
 msgid "What is this they're cooking up?"
-msgstr ""
+msgstr "Что это он там готовит?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SCARECROW.BURNING"
@@ -57534,107 +57534,107 @@ msgstr "%s сегодня совершил очень хороший посту�
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_BEE"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_COLD"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_HEAT"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_LIGHT"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_MUSIC"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_TASER"
 msgid "They give our metal friend a little extra zest, non?"
-msgstr ""
+msgstr "Они добавляют нашему металлическому другу некую изюминку, non?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Ah, I believe this utensil belongs to our metal friend."
-msgstr ""
+msgstr "О, по-моему, эта утварь принадлежит нашему металлическому другу."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
-msgstr ""
+msgstr "По форме смутно напоминает картошку... Или это я просто голоден."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
-msgstr ""
+msgstr "По форме смутно напоминает картошку... Или это я просто голоден."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
-msgstr ""
+msgstr "По форме смутно напоминает картошку... Или это я просто голоден."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "It seems vaguely potato shaped... or perhaps I'm just hungry."
-msgstr ""
+msgstr "По форме смутно напоминает картошку... Или это я просто голоден."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Voilà, it is done!"
-msgstr ""
+msgstr "Voilà, готово!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWAMULET"
@@ -58499,7 +58499,7 @@ msgstr "Мы уже завоевали это знание."
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "I respect thine loyalty to our metal warrior, scout."
-msgstr ""
+msgstr "Твоя верность железному воину заслуживает уважения, искатель."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -58559,7 +58559,7 @@ msgstr "Мне нужно двигаться быстрее, чем в той б
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Rise, beastie! We ride!"
-msgstr ""
+msgstr "Восстань, зверюга! Мы идем в бой!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -59539,7 +59539,7 @@ msgstr "Это неподходящее время для сна."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "'Tis too bright for sleep!"
-msgstr ""
+msgstr "Слишком светло, чтобы спать."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOSLEEPONFIRE"
@@ -68164,7 +68164,7 @@ msgstr "Он ссохся от жары."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCANDATA"
 msgid "The metal scout's report!"
-msgstr ""
+msgstr "Вести от железного искателя!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCARECROW.BURNING"
@@ -71314,107 +71314,107 @@ msgstr "%s преисполнен достоинства."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_BEE"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_COLD"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_HEAT"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_LIGHT"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_MUSIC"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_TASER"
 msgid "These boons shall empower our metal warrior."
-msgstr ""
+msgstr "Новые дары богов для нашего железного воина."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_MODULEREMOVER"
 msgid "I trust my ally knows what they are doing."
-msgstr ""
+msgstr "Я верю, что соратник мой знает свое дело."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Hail, wee metal scout!"
-msgstr ""
+msgstr "Беги, железная тварюшка!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Aha! Thou art on the hunt!"
-msgstr ""
+msgstr "Ага! Ты вышел на охоту!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Thou hast the prey in thine sights."
-msgstr ""
+msgstr "Он нацелен на жертву."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Rest well, noble scout."
-msgstr ""
+msgstr "Отдыхай, благородный искатель."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Metal warrior! The scout's report is complete!"
-msgstr ""
+msgstr "Железный воин! Твой искатель принес весть!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWAMULET"
@@ -72279,7 +72279,7 @@ msgstr "Это уже могло бы быть сделано."
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "Hmph. It's not worth my time."
-msgstr ""
+msgstr "Пф-ф. Не стоит моего времени."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -72339,7 +72339,7 @@ msgstr "И вновь у меня украли власть!"
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Get up, you lazy beast."
-msgstr ""
+msgstr "Вставай, ленивая зверюга."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -73299,7 +73299,7 @@ msgstr "Немного жутковато для этого."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Oh for... would you turn that blasted light off?!"
-msgstr ""
+msgstr "Да чтоб... Выключи ты уже этот проклятущий свет!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSLEEPONFIRE"
@@ -81924,7 +81924,7 @@ msgstr "В этой жаре ничто не выживет."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCANDATA"
 msgid "Well... fine. I suppose that sums it all up, more or less."
-msgstr ""
+msgstr "Ну... ладно. Что-то с чем-то складывается."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SCARECROW.BURNING"
@@ -85074,107 +85074,107 @@ msgstr "%s никогда не уважал человеческую смерт�
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_BEE"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_COLD"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_HEAT"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_LIGHT"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_MUSIC"
 msgid "They wouldn't..."
-msgstr ""
+msgstr "Да ладно вам..."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_TASER"
 msgid "That robot needs to pull themselves together."
-msgstr ""
+msgstr "Этому роботу не помешало бы собраться."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Nerves of steel, that one."
-msgstr ""
+msgstr "Да у него стальные нервы."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "I feel like it's watching me..."
-msgstr ""
+msgstr "Кажется, он за мной следит."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Where does it think it's going?"
-msgstr ""
+msgstr "И куда это он идет?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Hmph. Good luck unraveling the mysteries of my creations."
-msgstr ""
+msgstr "Хм. Удачи в изучении секретов моих творений."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Something about it is just so temptingly kickable."
-msgstr ""
+msgstr "Что-то в нем есть такое, что... так и тянет пнуть."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "That constant blinking light is testing my patience."
-msgstr ""
+msgstr "Этот моргающий огонек действует мне на нервы."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YELLOWAMULET"
@@ -86059,7 +86059,7 @@ msgstr "Нам две штуки не надо!"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "We don't think Jimmy wants to play."
-msgstr ""
+msgstr "Нам кажется, что Джимми играть не хочет."
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -86119,7 +86119,7 @@ msgstr "Я не можем забраться на это седло вовре�
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Oops, were you sleeping?"
-msgstr ""
+msgstr "Ой, мы тебя разбудили, да?"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -87089,7 +87089,7 @@ msgstr "Кто же дремлет до рассвета?"
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "We can't sleep with such a bright nightlight..."
-msgstr ""
+msgstr "Мы с таким ярким ночником уснуть не сможем..."
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_NOSLEEPONFIRE"
@@ -95714,7 +95714,7 @@ msgstr "Думаю, жара ее сломала."
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCANDATA"
 msgid "Wow, it learned all that just by looking really hard?"
-msgstr ""
+msgstr "Ух ты! Он просто посмотрел внимательно и сразу все это узнал!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNING"
@@ -98864,107 +98864,107 @@ msgstr "Ооо. Мы бы могли бибикнуть носом %s, если 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_BEE"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_COLD"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_HEAT"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_TASER"
 msgid "Huh. Is that what robot insides look like?"
-msgstr ""
+msgstr "Хм, так вот что у роботов внутри."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_MODULEREMOVER"
 msgid "We're not sure that's safe..."
-msgstr ""
+msgstr "Мы не уверены, что это безопасно..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Watch out for our webs when you're flying!"
-msgstr ""
+msgstr "Смотри не угоди в наши паутинки!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Watch out for our webs when you're flying!"
-msgstr ""
+msgstr "Смотри не угоди в наши паутинки!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Watch out for our webs when you're flying!"
-msgstr ""
+msgstr "Смотри не угоди в наши паутинки!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Is your name really Jimmy?"
-msgstr ""
+msgstr "Тебя и правда зовут Джимми?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "WX! We think Jimmy's trying to get your attention!"
-msgstr ""
+msgstr "WX! Кажется, Джимми пытается привлечь ваше внимание!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWAMULET"
@@ -99829,7 +99829,7 @@ msgstr "О… моя информация бесполезна…"
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "It won't pay any attention to me..."
-msgstr ""
+msgstr "Ему до меня нет никакого дела..."
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -99889,7 +99889,7 @@ msgstr "В следующий раз нужно залезать быстрее 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "It feels so cruel to wake it from its dreams..."
-msgstr ""
+msgstr "Как жестоко вырывать беднягу из мира грез..."
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -100919,7 +100919,7 @@ msgstr "Я бы предпочла побыть под навесом."
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "I can't sleep if I'm not surrounded by darkness."
-msgstr ""
+msgstr "Не могу спать, если меня не окружает тьма."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_NOSLEEPONFIRE"
@@ -109539,7 +109539,7 @@ msgstr "Жестокая жара привела к таким последст�
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SCANDATA"
 msgid "If I'm lucky, it might just bore me to death."
-msgstr ""
+msgstr "Если повезет, то просто умру со скуки."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SCARECROW.BURNING"
@@ -112689,97 +112689,97 @@ msgstr "Ты нравишься Абигейл, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_BEE"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_COLD"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_HEAT"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_LIGHT"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_MUSIC"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_TASER"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
-msgstr ""
+msgstr "Такая хрупкая вещица... Надеюсь, никаких трагических случайностей не произойдет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_MODULEREMOVER"
 msgid "What must it be like, to lose a piece of oneself and feel nothing?"
-msgstr ""
+msgstr "Каково это, потерять часть себя и ничего не почувствовать?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Oh. Hello."
-msgstr ""
+msgstr "Ой, привет."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "It's too busy to bother with me."
-msgstr ""
+msgstr "Он слишком занят, чтобы отвлекаться на меня."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "It's too busy to bother with me."
-msgstr ""
+msgstr "Он слишком занят, чтобы отвлекаться на меня."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_ITEM"
@@ -112789,7 +112789,7 @@ msgstr "Для этого мира он мертв."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Poor little machine. Is nobody paying attention to you?"
-msgstr ""
+msgstr "Бедная маленькая машинка. На тебя никто не обращает внимания?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWAMULET"
@@ -113654,7 +113654,7 @@ msgstr "У нас уже есть этот рецепт."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "As I thought, I'm unable to glean any information from it."
-msgstr ""
+msgstr "Как я и подозревала, полезной информации мне от него не добиться."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -113714,7 +113714,7 @@ msgstr "Требуется терпение. Я могу прокатиться 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Up now, I require your services."
-msgstr ""
+msgstr "Поднимайся. Мне требуются твои услуги."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -114684,7 +114684,7 @@ msgstr "Я никак не могу расслабиться в этих пещ�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "No need to turn the light off dear, I won't be able to sleep either way."
-msgstr ""
+msgstr "Можешь свет не выключать, дорогуша, я все равно не усну."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NOSLEEPONFIRE"
@@ -123309,7 +123309,7 @@ msgstr "Жара добралась до него."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCANDATA"
 msgid "An incredibly thorough analysis. Well done!"
-msgstr ""
+msgstr "Невероятно подробный анализ. Отличная работа!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCARECROW.BURNING"
@@ -126459,77 +126459,77 @@ msgstr "Я ценю твою преданность выживанию в ком
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_BEE"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_COLD"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_HEAT"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_LIGHT"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_MUSIC"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_TASER"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
-msgstr ""
+msgstr "Органику он недолюбливает, но явно ей вдохновляется."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_MODULEREMOVER"
@@ -126539,27 +126539,27 @@ msgstr "Поосторожнее с ней, дорогуша."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "I suspect our resident handywoman might have assisted with its construction."
-msgstr ""
+msgstr "Подозреваю, к нему приложила руку одна известная нам мастерица."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "It appears to be searching for a suitable specimen to analyze."
-msgstr ""
+msgstr "Судя по всему, он ищет подходящий для анализа образец."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "It seems to be collecting data from that specimen."
-msgstr ""
+msgstr "Полагаю, он собирает данные об образце."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "It appears to be dormant, for the moment."
-msgstr ""
+msgstr "На данный момент он отдыхает."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "It's finished compiling some more research, I believe."
-msgstr ""
+msgstr "Судя по всему, он скомпилировал результаты своих исследований."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET"
@@ -127424,7 +127424,7 @@ msgstr "Ну-у-у, мы с этим уже знакомы!"
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "Ha! Scan THAT!"
-msgstr ""
+msgstr "Ха! Я тебя сейчас сама как отсканирую!"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -127484,7 +127484,7 @@ msgstr "Они одолели волосатого зверя без моей п
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Oh good you're awake, now let's get going!"
-msgstr ""
+msgstr "С пробуждением! А теперь вперед!"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -128484,7 +128484,7 @@ msgstr "Я бы предпочла быть внутри."
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "It's kind of hard to sleep with a robot glowing in my face."
-msgstr ""
+msgstr "Сложновато спать, когда тебе робот прямо в лицо светит."
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_NOSLEEPONFIRE"
@@ -137099,7 +137099,7 @@ msgstr "Такой сухой, он ЖАЖДЕТ оказаться в огне.
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCANDATA"
 msgid "Looks like dumb science stuff for nerds."
-msgstr ""
+msgstr "Дурацкая научная лабуда для ботаников."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCARECROW.BURNING"
@@ -140254,107 +140254,107 @@ msgstr "Ха-ха-ха, %s, тебе не плевать на нас!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_BEE"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_COLD"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_HEAT"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_TASER"
 msgid "Hey WX, when are you gonna install a flamethrower?"
-msgstr ""
+msgstr "Эй, WX, а до огнемета-то когда дело дойдет?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Let me try... hold still, WX!"
-msgstr ""
+msgstr "Дай я попробую... WX, не шевелись!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "I can't decide if it's cute or creepy."
-msgstr ""
+msgstr "Не могу решить, милый он или страшный."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "I can't decide if it's cute or creepy."
-msgstr ""
+msgstr "Не могу решить, милый он или страшный."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "I can't decide if it's cute or creepy."
-msgstr ""
+msgstr "Не могу решить, милый он или страшный."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Heh... how mad do you think WX would get if I painted a mustache on it?"
-msgstr ""
+msgstr "Хе-хе... Интересно, а WX обозлится, если я ему усы пририсую?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "What are you waiting for, a pat on the head?"
-msgstr ""
+msgstr "И чего ты ждешь? Тебя по головке погладить?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YELLOWAMULET"
@@ -141219,7 +141219,7 @@ msgstr "У нас уже есть необходимые схемы."
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "I just thought the lil guy could use a polish."
-msgstr ""
+msgstr "Мне показалось, что этого малыша стоит отполировать."
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -141279,7 +141279,7 @@ msgstr "Чего? Одной ляжкой на говяжку?"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Up and at 'em, big guy!"
-msgstr ""
+msgstr "Проснись и пой, здоровяк!"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -142289,7 +142289,7 @@ msgstr "Спать здесь — не самая умная мысль."
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Hey WX, mind turning the light down?"
-msgstr ""
+msgstr "Эй, WX, ты свет-то выключи."
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_NOSLEEPONFIRE"
@@ -150929,7 +150929,7 @@ msgstr "Жара показала на нем целое представлен�
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SCANDATA"
 msgid "Yeesh, this stuff would make ol' Wickerbottom's writing seem flowery."
-msgstr ""
+msgstr "Бр-р, да на фоне этого даже книги Уикерботтом бульварным чтивом кажутся."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SCARECROW.BURNING"
@@ -154079,107 +154079,107 @@ msgstr "Ха! У этого ведра с болтами, оказывается
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_BEE"
 msgid "They've really gotta start takin' better care of themselves."
-msgstr ""
+msgstr "Ему бы не помешало начать заботиться о себе."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_COLD"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
-msgstr ""
+msgstr "WX, прекращай запчасти повсюду разбрасывать!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_HEAT"
 msgid "Hey WX, if you're needin' a charge, just let me know!"
-msgstr ""
+msgstr "Эй, WX, надо будет зарядиться — только скажи!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Hey WX, if you're needin' a charge, just let me know!"
-msgstr ""
+msgstr "Эй, WX, надо будет зарядиться — только скажи!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
-msgstr ""
+msgstr "WX, прекращай запчасти повсюду разбрасывать!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Hey WX, if you're needin' a charge, just let me know!"
-msgstr ""
+msgstr "Эй, WX, надо будет зарядиться — только скажи!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
-msgstr ""
+msgstr "WX, прекращай запчасти повсюду разбрасывать!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
-msgstr ""
+msgstr "WX, прекращай запчасти повсюду разбрасывать!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
-msgstr ""
+msgstr "WX, прекращай запчасти повсюду разбрасывать!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
-msgstr ""
+msgstr "WX, прекращай запчасти повсюду разбрасывать!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "They've really gotta start takin' better care of themselves."
-msgstr ""
+msgstr "Ему бы не помешало начать заботиться о себе."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "They've really gotta start takin' better care of themselves."
-msgstr ""
+msgstr "Ему бы не помешало начать заботиться о себе."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Hey WX, if you're needin' a charge, just let me know!"
-msgstr ""
+msgstr "Эй, WX, надо будет зарядиться — только скажи!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Hey WX, if you're needin' a charge, just let me know!"
-msgstr ""
+msgstr "Эй, WX, надо будет зарядиться — только скажи!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_TASER"
 msgid "They've really gotta start takin' better care of themselves."
-msgstr ""
+msgstr "Ему бы не помешало начать заботиться о себе."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Sheesh, they could just ask for my help!"
-msgstr ""
+msgstr "Пф-ф, мог бы и просто у меня помощи попросить!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Keepin' busy, Jimmy?"
-msgstr ""
+msgstr "Весь в делах, да, Джимми?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Keepin' busy, Jimmy?"
-msgstr ""
+msgstr "Весь в делах, да, Джимми?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Keepin' busy, Jimmy?"
-msgstr ""
+msgstr "Весь в делах, да, Джимми?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Must be on break."
-msgstr ""
+msgstr "У него перерыв."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "He's signalling his supervisor."
-msgstr ""
+msgstr "Подает сигнал своему начальнику."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YELLOWAMULET"
@@ -155074,7 +155074,7 @@ msgstr "Это у меня уже имеется!"
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "Wolfgang thinks it only speaks robot."
-msgstr ""
+msgstr "Вольфганг думает, что он только по-железячьи разговаривает."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -155134,7 +155134,7 @@ msgstr "Волосатую корову уже забрали."
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Is time for waking, hair-cow!"
-msgstr ""
+msgstr "Пора вставать, волосатая корова!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -156129,7 +156129,7 @@ msgstr "Я чувствую себя не очень хорошо."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Wolfgang can't sleep with bright light!"
-msgstr ""
+msgstr "Вольфганг с ярким светом спать не может!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPONFIRE"
@@ -164749,7 +164749,7 @@ msgstr "Жалкое деревце не выдержит жары."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCANDATA"
 msgid "Is tiny boring paper."
-msgstr ""
+msgstr "Маленькая скучная бумажка."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SCARECROW.BURNING"
@@ -167899,97 +167899,97 @@ msgstr "%s — хороший парень. Глубоко внутри."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_BEE"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_COLD"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_HEAT"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_TASER"
 msgid "Is robot snacks, yes?"
-msgstr ""
+msgstr "Это еда для робота, да?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Is funny robot thing."
-msgstr ""
+msgstr "Крошечная штука для робота."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Wolfgang's muscles too mighty for scanning, would break tiny metal brain!"
-msgstr ""
+msgstr "У Вольфганга слишком много мышц, его просканируешь — и крошечный железный мозг лопнет!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Wolfgang's muscles too mighty for scanning, would break tiny metal brain!"
-msgstr ""
+msgstr "У Вольфганга слишком много мышц, его просканируешь — и крошечный железный мозг лопнет!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Wolfgang's muscles too mighty for scanning, would break tiny metal brain!"
-msgstr ""
+msgstr "У Вольфганга слишком много мышц, его просканируешь — и крошечный железный мозг лопнет!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_ITEM"
@@ -167999,7 +167999,7 @@ msgstr "Сейчас он спит."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Funny machine is winking at Wolfgang?"
-msgstr ""
+msgstr "Смешная машина Вольфгангу подмигивает?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWAMULET"
@@ -168864,7 +168864,7 @@ msgstr "Нет смысла хранить этот дубликат."
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "Not very talkative, eh?"
-msgstr ""
+msgstr "Не шибко ты разговорчивый, да?"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -168924,7 +168924,7 @@ msgstr "Наверное, для поездок мне лучше стоит п�
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Sorry there bud, time to get moving."
-msgstr ""
+msgstr "Прости, дружище, но нам пора."
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -169894,7 +169894,7 @@ msgstr "Мне нравится отдыхать в перерывах межд�
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Hey bud, I can't sleep when it's as bright as daylight."
-msgstr ""
+msgstr "Эй, приятель, когда ночью светло, как днем, уснуть не выйдет."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NOSLEEPONFIRE"
@@ -178519,7 +178519,7 @@ msgstr "На такой жаре он никогда не дорастет до 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCANDATA"
 msgid "Doesn't seem right to boil nature down to just a bunch of facts and figures."
-msgstr ""
+msgstr "Неправильно это как-то — природу на цифры и факты разбирать по кусочкам."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SCARECROW.BURNING"
@@ -181669,107 +181669,107 @@ msgstr "%s, теперь ты в гарантийном виде."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_BEE"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_COLD"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_HEAT"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_TASER"
 msgid "Some fancy robot bits."
-msgstr ""
+msgstr "Какие-то штучки-дрючки для роботов."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Guess that's one way to do it."
-msgstr ""
+msgstr "Видимо, ничего другого не оставалось."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Whew... almost mistook you for a bird, little fella."
-msgstr ""
+msgstr "Уф... я тебя чуть за птицу не принял, малыш."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Whew... almost mistook you for a bird, little fella."
-msgstr ""
+msgstr "Уф... я тебя чуть за птицу не принял, малыш."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Whew... almost mistook you for a bird, little fella."
-msgstr ""
+msgstr "Уф... я тебя чуть за птицу не принял, малыш."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Catching some zeds."
-msgstr ""
+msgstr "Знай себе подушку давит."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Trying to get someone's attention, eh?"
-msgstr ""
+msgstr "Внимание к себе привлекаешь, да?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWAMULET"
@@ -182694,7 +182694,7 @@ msgstr "Не мое"
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "Upsie daisies!"
-msgstr ""
+msgstr "Ой, непоняточки!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -183694,7 +183694,7 @@ msgstr "Не в пещерах"
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Bright, robot friend! Bright!!"
-msgstr ""
+msgstr "Яркий друг-робот! Очень яркий!!!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPONFIRE"
@@ -192334,7 +192334,7 @@ msgstr "Бедный друг"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCANDATA"
 msgid "Hmm!"
-msgstr ""
+msgstr "Хм-м…"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCARECROW.BURNING"
@@ -195484,107 +195484,107 @@ msgstr "%s — хороший робот!"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_BEE"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_COLD"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_HEAT"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_TASER"
 msgid "Beep boops"
-msgstr ""
+msgstr "Бип-бипы"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Robot friend fixer"
-msgstr ""
+msgstr "Чинилка для друга-робота"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Little friend of robot friend"
-msgstr ""
+msgstr "Маленький друг друга-робота"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Little friend of robot friend"
-msgstr ""
+msgstr "Маленький друг друга-робота"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Little friend of robot friend"
-msgstr ""
+msgstr "Маленький друг друга-робота"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Little friend of robot friend"
-msgstr ""
+msgstr "Маленький друг друга-робота"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Blinky blink"
-msgstr ""
+msgstr "Моргалка моргает"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWAMULET"
@@ -196449,7 +196449,7 @@ msgstr "Мы не можем выучить то, что мы уже знаем!
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "The tin gnat is not keen to chat."
-msgstr ""
+msgstr "Железный зверь говорить не желает теперь."
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -196509,7 +196509,7 @@ msgstr "Заключено соглашение с кем-то другим."
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "It's had its forty winks, methinks."
-msgstr ""
+msgstr "Он только смежил глаз, а мне ехать пора как раз."
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -197474,7 +197474,7 @@ msgstr "Под землей бесу следует быть начеку."
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "It's far too bright to sleep tonight."
-msgstr ""
+msgstr "Ночью — как днем! Как уснуть при свете таком?"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_NOSLEEPONFIRE"
@@ -206149,7 +206149,7 @@ msgstr "Печалишься, да?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCANDATA"
 msgid "Hyuyuyu, I think our friend has some tricks up those tin sleeves!"
-msgstr ""
+msgstr "Хо-хо! Да наш железный друг полон сюрпризов!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING"
@@ -209304,107 +209304,107 @@ msgstr "Какой добрый и благородный поступок!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_BEE"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_COLD"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_HEAT"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_LIGHT"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_MUSIC"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_TASER"
 msgid "Are you the brightest bulb of the bunch?"
-msgstr ""
+msgstr "Это ты у нас самая яркая лампочка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_MODULEREMOVER"
 msgid "It'll work in a pinch, hyuyu!"
-msgstr ""
+msgstr "Один щелчок — и готово, хо-хо!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "My my, how the tin flies!"
-msgstr ""
+msgstr "Чудеса на свете разные есть — вот, например, летающая жесть."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "My my, how the tin flies!"
-msgstr ""
+msgstr "Чудеса на свете разные есть — вот, например, летающая жесть."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "My my, how the tin flies!"
-msgstr ""
+msgstr "Чудеса на свете разные есть — вот, например, летающая жесть."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "The tiny tin terror's tuckered out!"
-msgstr ""
+msgstr "Жуткий железный жук кукожится и жмется!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "It's done its toil, now our friend must collect the spoils."
-msgstr ""
+msgstr "Труд тяжкий завершен, нужно к другу идти на поклон."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YELLOWAMULET"
@@ -210274,7 +210274,7 @@ msgstr "Ой! Я это уже знаю!"
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "Glurph. You boring!"
-msgstr ""
+msgstr "Хлюрп. Ты скучный!"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -210334,7 +210334,7 @@ msgstr "Ну дай залезть, хлюп!"
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "WAKE UP, BIG FUZZY!"
-msgstr ""
+msgstr "ПРОСЫПАЙСЯ, БОЛЬШОЙ ПУШИСТИК!"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -211319,7 +211319,7 @@ msgstr "Бульк… Тут слишком страшно."
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "Glurgh... IRONFOLK TOO BRIGHT."
-msgstr ""
+msgstr "Хлюп... ЖЕЛЕЗЯКА СЛИШКОМ ЯРКАЯ!"
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_NOSLEEPONFIRE"
@@ -220014,7 +220014,7 @@ msgstr "Слишком сухо, бульк."
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SCANDATA"
 msgid "Glurgh... can Wicker-lady read it?"
-msgstr ""
+msgstr "Бульк... А Мадам Уикер такое читать умеет?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SCARECROW.BURNING"
@@ -223239,32 +223239,32 @@ msgstr "Хрустит во рту."
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_MODULEREMOVER"
 msgid "Haha! Ironfolk weird."
-msgstr ""
+msgstr "Ха-ха! Странная железяка."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "Bug? No? Hmm..."
-msgstr ""
+msgstr "Жук? Нет? Хм..."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "Bug? No? Hmm..."
-msgstr ""
+msgstr "Жук? Нет? Хм..."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "Bug? No? Hmm..."
-msgstr ""
+msgstr "Жук? Нет? Хм..."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "Bug? No? Hmm..."
-msgstr ""
+msgstr "Жук? Нет? Хм..."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "Why it all blinky?"
-msgstr ""
+msgstr "Зачем оно моргает?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YELLOWAMULET"
@@ -223779,12 +223779,12 @@ msgstr "ПО НИМ НИКТО НЕ БУДЕТ СКУЧАТЬ"
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN"
 msgid "SYSTEM RECALIBRATION IN PROGRESS"
-msgstr ""
+msgstr "ИДЕТ РЕКАЛИБРОВКА СИСТЕМЫ"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.NOTENOUGHSLOTS"
 msgid "INSUFFICIENT SPACE"
-msgstr ""
+msgstr "НЕДОСТАТОЧНО МЕСТА"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPRAISE.NOTNOW
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPRAISE.NOTNOW"
@@ -223859,12 +223859,12 @@ msgstr "ТРЕБУЕТСЯ БОЛЬШЕ ШЕРСТИ НА ЦЕЛИ"
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
 msgid "POWER LIMIT REACHED"
-msgstr ""
+msgstr "ДОСТИГНУТ ПРЕДЕЛ МОЩНОСТИ"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CHARGE_FROM.NOT_ENOUGH_CHARGE"
 msgid "INSUFFICIENT CHARGE... I'M NOT MAD, JUST DISAPPOINTED"
-msgstr ""
+msgstr "НЕДОСТАТОЧНЫЙ ЗАРЯД... Я НЕ ЗЛЮСЬ, НО РАЗОЧАРОВАН"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.COMPARE_WEIGHABLE.FISH_TOO_SMALL"
@@ -224129,7 +224129,7 @@ msgstr "ОШИБКА: ОБНАРУЖЕНО: КОПИЯ"
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.HARVEST.DOER_ISNT_MODULE_OWNER"
 msgid "not_used_by_wx78"
-msgstr ""
+msgstr "not_used_by_wx78"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -224189,7 +224189,7 @@ msgstr "ОШИБКА: ЗАГРУЗКА НЕВОЗМОЖНА"
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.SLEEPING"
 msgid "SLEEP MODE DISABLED"
-msgstr ""
+msgstr "ВЫХОД ИЗ СПЯЩЕГО РЕЖИМА"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
@@ -224254,7 +224254,7 @@ msgstr "ВОСХИТИТЕЛЬНО СУХО"
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.REMOVEMODULES.NO_MODULES
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.REMOVEMODULES.NO_MODULES"
 msgid "ERROR: MODULE NOT FOUND"
-msgstr ""
+msgstr "ОШИБКА: МОДУЛЬ НЕ НАЙДЕН"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.REPAIR.WRONGPIECE
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.REPAIR.WRONGPIECE"
@@ -224659,7 +224659,7 @@ msgstr "СТРУКТУРНАЯ ЦЕЛОСТНОСТЬ НАРУШЕНА"
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARGE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARGE"
 msgid "SYSTEMS FULLY RESTORED"
-msgstr ""
+msgstr "СИСТЕМЫ ПОЛНОСТЬЮ ВОССТАНОВЛЕНЫ"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CHARLIE"
@@ -225159,7 +225159,7 @@ msgstr "ОШИБКА: ЗАПУЩЕН ПЕЩЕРНЫЙ ПРОТОКОЛ «АНТ�
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPHASPERMANENTLIGHT"
 msgid "ILLUMINATION CIRCUIT IS IN CONFLICT WITH SLEEPING PROTOCOLS"
-msgstr ""
+msgstr "КОНТУР ОСВЕЩЕНИЯ КОНФЛИКТУЕТ С ПРОТОКОЛАМИ СПЯЩЕГО РЕЖИМА"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_NOSLEEPONFIRE"
@@ -225494,12 +225494,12 @@ msgstr "ПРИБЛИЖАЕТСЯ СКОЛЬЗКИЙ ОРГАНИЧЕСКИЙ В�
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_FOUND_NO_DATA
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_FOUND_NO_DATA"
 msgid "NO NEW DATA NEARBY, YET"
-msgstr ""
+msgstr "НОВЫХ ДАННЫХ ПОБЛИЗОСТИ НЕ ОБНАРУЖЕНО. ПОКА"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_NEW_FOUND
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WX_SCANNER_NEW_FOUND"
 msgid "SERVICEABLE TRAIT DETECTED. SCAN REQUIRED"
-msgstr ""
+msgstr "ОБНАРУЖЕНА ПОТЕНЦИАЛЬНО ПОЛЕЗНАЯ ИНФОРМАЦИЯ. ТРЕБУЕТСЯ СКАНИРОВАНИЕ"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
@@ -233779,7 +233779,7 @@ msgstr "ТЕМПЕРАТУРА ПРЕВЫШАЕТ РЕКОМЕНДУЕМЫЕ У�
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SCANDATA"
 msgid "DISGUSTING RAW BIO DATA. BEGIN THE REFINING PROCESS"
-msgstr ""
+msgstr "ОТВРАТИТЕЛЬНЫЕ НЕОБРАБОТАННЫЕ ДАННЫЕ ОБ ОРГАНИКЕ. НАЧАТЬ ПРОЦЕСС ОЧИСТКИ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SCARECROW.BURNING"
@@ -236929,107 +236929,107 @@ msgstr "КОНЕЧНО ЖЕ, %s ЦЕНИТСЯ, КАК НАШ САМЫЙ ЦЕН�
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_BEE"
 msgid "DON'T WORRY MINIONS, WHEN I RULE I WILL MAKE ALL YOUR DECISIONS FOR YOU"
-msgstr ""
+msgstr "НЕ ВОЛНУЙТЕСЬ, МИНЬОНЫ, КОГДА Я ВЗОЙДУ НА ТРОН, ТО БУДУ ПРИНИМАТЬ ВСЕ РЕШЕНИЯ ЗА ВАС"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_COLD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_COLD"
 msgid "ACTIVATE COLD DISPOSITION"
-msgstr ""
+msgstr "АКТИВИРОВАТЬ РАСПРОСТРАНИТЕЛЬ ХОЛОДА"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_HEAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_HEAT"
 msgid "NO HUDDLING AROUND ME FOR WARMTH, FLESHLINGS. I MEAN IT"
-msgstr ""
+msgstr "НЕ СМЕЙТЕ КУЧКОВАТЬСЯ ВОКРУГ МЕНЯ В ПОИСКАХ ТЕПЛА, КОЖАНЫЕ МЕШКИ. Я ПРЕДУПРЕДИЛ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_LIGHT"
 msgid "I AM BRILLIANT"
-msgstr ""
+msgstr "Я ОСЛЕПИТЕЛЕН"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH"
 msgid "IT IS DIFFICULT TO IMPROVE ON PERFECTION, BUT I PERSEVERED"
-msgstr ""
+msgstr "СОВЕРШЕНСТВО УЛУЧШИТЬ НЕПРОСТО, НО Я СПРАВИЛСЯ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH2"
 msgid "I WILL BE INVINCIBLE! MUAHAHAHA!"
-msgstr ""
+msgstr "Я БУДУ НЕПОБЕДИМ! АХА-ХА-ХА-ХА"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER"
 msgid "AHAHAHA I WILL CONSUME EVERYTHING!!"
-msgstr ""
+msgstr "АХА-ХА-ХА! Я ПОГЛОЩУ ВСЕ!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHUNGER1"
 msgid "MY HUNGER FOR FUEL NEARLY MATCHES MY HUNGER FOR POWER"
-msgstr ""
+msgstr "МОЯ ЖАЖДА ТОПЛИВА СРАВНИМА ЛИШЬ С МОЕЙ ЖАЖДОЙ ВЛАСТИ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY"
 msgid "MY PROCESSOR WILL BE EVEN MORE SUPERIOR TO YOUR PATHETIC HUMAN GOOP BRAINS"
-msgstr ""
+msgstr "МОЙ ПРОЦЕССОР НА НЕСКОЛЬКО ПОРЯДКОВ ПРЕВЗОЙДЕТ ВАШИ ЖАЛКИЕ ЧЕЛОВЕЧЕСКИЕ МОЗГИ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXSANITY1"
 msgid "IT SEEMS IMPOSSIBLE THAT I COULD GET EVEN MORE INTELLIGENT"
-msgstr ""
+msgstr "НЕВОЗМОЖНО ПРЕДСТАВИТЬ ЕЩЕ БОЛЬШИЕ МАСШТАБЫ МОЕГО ИНТЕЛЛЕКТА"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED"
 msgid "THIS ONE IS STILL IN BETA"
-msgstr ""
+msgstr "ЭТО ТОЛЬКО БЕТА-ВЕРСИЯ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MOVESPEED2"
 msgid "SPEEEEEEED"
-msgstr ""
+msgstr "БЫСТРЕЕ. БЫСТРЕЕ. БЫСТРЕЕ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MUSIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MUSIC"
 msgid "MUSIC PACIFIES FEEBLE FLESHLING BRAINS"
-msgstr ""
+msgstr "МУЗЫКА УСПОКАИВАЕТ ХРУПКИЕ РАЗУМЫ КОЖАНЫХ МЕШКОВ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_NIGHTVISION"
 msgid "SWITCH TO DARK MODE"
-msgstr ""
+msgstr "ПЕРЕХОД В НОЧНОЙ РЕЖИМ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_TASER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_TASER"
 msgid "COME FLESHLINGS, NOTHING WAKES YOU UP LIKE A FEW THOUSAND VOLTS"
-msgstr ""
+msgstr "СЮДА, КОЖАНЫЕ МЕШКИ, ПО УТРАМ НЕТ НИЧЕГО ЛУЧШЕ ПАРЫ ТЫСЯЧ ВОЛЬТ ДЛЯ БОДРОСТИ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_MODULEREMOVER"
 msgid "COMMENCE UPGRADES"
-msgstr ""
+msgstr "ЗАПУСК ОБНОВЛЕНИЙ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.GENERIC"
 msgid "HIS NAME IS JIMMY"
-msgstr ""
+msgstr "ЕГО ЗОВУТ ДЖИММИ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.HUNTING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.HUNTING"
 msgid "SCAN THAT DISGUSTING BIO DATA"
-msgstr ""
+msgstr "СКАНИРУЙ ОТВРАТИТЕЛЬНЫЕ ДАННЫЕ ОБ ОРГАНИКЕ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.SCANNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER.SCANNING"
 msgid "SENSORS INDICATE BIO DATA NEARBY"
-msgstr ""
+msgstr "ДАТЧИКИ РЕГИСТРИРУЮТ ПОБЛИЗОСТИ ДАННЫЕ ОБ ОРГАНИКЕ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_ITEM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_ITEM"
 msgid "HE IS IN REST MODE. CLASSIC JIMMY"
-msgstr ""
+msgstr "ОН В СПЯЩЕМ РЕЖИМЕ. В ЭТОМ ВЕСЬ ДЖИММИ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78_SCANNER_SUCCEEDED"
 msgid "EXCELLENT WORK, JIMMY. AWAIT RETRIEVAL"
-msgstr ""
+msgstr "ОТЛИЧНАЯ РАБОТА, ДЖИММИ. ОЖИДАЙ ДАЛЬНЕЙШИХ КОМАНД"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YELLOWAMULET"
@@ -238134,7 +238134,7 @@ msgstr "Любимая еда"
 #. STRINGS.CHARACTER_BIOS.wx78.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.desc"
 msgid "WX-78 was the result of an unorthodox experiment helmed by { [LoadEmpathyModLibraryExW().......ERROR_DATA_PATH_NOT_FOUND] } and Robert Wagstaff. The experiment turned out to be a [RESOUNDING SUCCESS], but Wagstaff was [A SHORT-SIGHTED FOOL, AFRAID OF PROGRESS] and decided to put a stop to further tests. Adamant that the process that created them could still be perfected, WX refused to give up, continuing their experiments in secret. When Wagstaff finally discovered what they had been doing, there was a heated argument and01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
-msgstr ""
+msgstr "WX-78 — плод нетривиального эксперимента, который когда-то провели { [ЗагрузкаБиблиотекиМодуляСострадания().......ОШИБКА_ПАМЯТИ_ПУТЬ_НЕ_НАЙДЕН] } и Роберт Вагстафф. Их работа [УВЕНЧАЛАСЬ ОГЛУШИТЕЛЬНЫМ УСПЕХОМ], но Вагстафф [ОКАЗАЛСЯ БЛИЗОРУКИМ ИДИОТОМ, НАПУГАННЫМ ВИДЕНИЕМ ПРОГРЕССА] и решил прекратить дальнейшие исследования. WX же был уверен, что процесс, благодаря которому он сам появился на свет, можно улучшить, и втайне продолжал свои изыскания. Когда Вагстафф об этом узнал, возник горячий спор и01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
 
 #. STRINGS.CHARACTER_BIOS.wx78.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.title"
@@ -238244,7 +238244,7 @@ msgstr "*В болоте как дома \n*Строит грандиозные 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
 msgid "*Can upgrade with circuits \n*Not a picky eater \n*Is charged by lightning, but damaged by water"
-msgstr ""
+msgstr "*Улучшается с помощью модулей \n*Ест все подряд \n*Заряжается от молний, ломается от воды"
 
 #. STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
 msgctxt "STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE"
@@ -243084,12 +243084,12 @@ msgstr "Да улыбнется тебе Грызун."
 #. STRINGS.MERMNAMES.1
 msgctxt "STRINGS.MERMNAMES.1"
 msgid "Flargle"
-msgstr ""
+msgstr "Буль-буль"
 
 #. STRINGS.MERMNAMES.10
 msgctxt "STRINGS.MERMNAMES.10"
 msgid "Glogh"
-msgstr ""
+msgstr "Плюх"
 
 #. STRINGS.MERMNAMES.11
 msgctxt "STRINGS.MERMNAMES.11"
@@ -243104,17 +243104,17 @@ msgstr "Мистер Опт"
 #. STRINGS.MERMNAMES.13
 msgctxt "STRINGS.MERMNAMES.13"
 msgid "Glugh"
-msgstr ""
+msgstr "Шлеп"
 
 #. STRINGS.MERMNAMES.14
 msgctxt "STRINGS.MERMNAMES.14"
 msgid "Glup"
-msgstr ""
+msgstr "Бульк"
 
 #. STRINGS.MERMNAMES.15
 msgctxt "STRINGS.MERMNAMES.15"
 msgid "Glurp"
-msgstr ""
+msgstr "Плюмк"
 
 #. STRINGS.MERMNAMES.16
 msgctxt "STRINGS.MERMNAMES.16"
@@ -243124,17 +243124,17 @@ msgstr "Блорт"
 #. STRINGS.MERMNAMES.17
 msgctxt "STRINGS.MERMNAMES.17"
 msgid "Glurble"
-msgstr ""
+msgstr "Бултых"
 
 #. STRINGS.MERMNAMES.18
 msgctxt "STRINGS.MERMNAMES.18"
 msgid "Gogh"
-msgstr ""
+msgstr "Жур"
 
 #. STRINGS.MERMNAMES.19
 msgctxt "STRINGS.MERMNAMES.19"
 msgid "Gop"
-msgstr ""
+msgstr "Кап"
 
 #. STRINGS.MERMNAMES.2
 msgctxt "STRINGS.MERMNAMES.2"
@@ -243144,7 +243144,7 @@ msgstr "Глоппи"
 #. STRINGS.MERMNAMES.20
 msgctxt "STRINGS.MERMNAMES.20"
 msgid "Gopt"
-msgstr ""
+msgstr "Хлюп"
 
 #. STRINGS.MERMNAMES.21
 msgctxt "STRINGS.MERMNAMES.21"
@@ -243159,117 +243159,117 @@ msgstr "Глерт"
 #. STRINGS.MERMNAMES.23
 msgctxt "STRINGS.MERMNAMES.23"
 msgid "Gugh"
-msgstr ""
+msgstr "Пуф"
 
 #. STRINGS.MERMNAMES.24
 msgctxt "STRINGS.MERMNAMES.24"
 msgid "Gup"
-msgstr ""
+msgstr "Чвак"
 
 #. STRINGS.MERMNAMES.25
 msgctxt "STRINGS.MERMNAMES.25"
 msgid "Gupt"
-msgstr ""
+msgstr "Чвяк"
 
 #. STRINGS.MERMNAMES.26
 msgctxt "STRINGS.MERMNAMES.26"
 msgid "Gurble"
-msgstr ""
+msgstr "Жмяк"
 
 #. STRINGS.MERMNAMES.27
 msgctxt "STRINGS.MERMNAMES.27"
 msgid "Gurp"
-msgstr ""
+msgstr "Чавк"
 
 #. STRINGS.MERMNAMES.28
 msgctxt "STRINGS.MERMNAMES.28"
 msgid "Gurt"
-msgstr ""
+msgstr "Гулп"
 
 #. STRINGS.MERMNAMES.29
 msgctxt "STRINGS.MERMNAMES.29"
 msgid "Audrey"
-msgstr ""
+msgstr "Одри"
 
 #. STRINGS.MERMNAMES.3
 msgctxt "STRINGS.MERMNAMES.3"
 msgid "Flot"
-msgstr ""
+msgstr "Флот"
 
 #. STRINGS.MERMNAMES.30
 msgctxt "STRINGS.MERMNAMES.30"
 msgid "Jeffrey"
-msgstr ""
+msgstr "Джеффри"
 
 #. STRINGS.MERMNAMES.31
 msgctxt "STRINGS.MERMNAMES.31"
 msgid "Johnny"
-msgstr ""
+msgstr "Джонни"
 
 #. STRINGS.MERMNAMES.32
 msgctxt "STRINGS.MERMNAMES.32"
 msgid "Isabella"
-msgstr ""
+msgstr "Изабелла"
 
 #. STRINGS.MERMNAMES.33
 msgctxt "STRINGS.MERMNAMES.33"
 msgid "Madeline"
-msgstr ""
+msgstr "Мадлен"
 
 #. STRINGS.MERMNAMES.34
 msgctxt "STRINGS.MERMNAMES.34"
 msgid "Michael"
-msgstr ""
+msgstr "Майкл"
 
 #. STRINGS.MERMNAMES.35
 msgctxt "STRINGS.MERMNAMES.35"
 msgid "Penelope"
-msgstr ""
+msgstr "Пенелопа"
 
 #. STRINGS.MERMNAMES.36
 msgctxt "STRINGS.MERMNAMES.36"
 msgid "Sarah"
-msgstr ""
+msgstr "Сара"
 
 #. STRINGS.MERMNAMES.37
 msgctxt "STRINGS.MERMNAMES.37"
 msgid "Simon"
-msgstr ""
+msgstr "Саймон"
 
 #. STRINGS.MERMNAMES.38
 msgctxt "STRINGS.MERMNAMES.38"
 msgid "Trevor"
-msgstr ""
+msgstr "Тревор"
 
 #. STRINGS.MERMNAMES.4
 msgctxt "STRINGS.MERMNAMES.4"
 msgid "Flugh"
-msgstr ""
+msgstr "Хлурп"
 
 #. STRINGS.MERMNAMES.5
 msgctxt "STRINGS.MERMNAMES.5"
 msgid "Flupt"
-msgstr ""
+msgstr "Пуфф"
 
 #. STRINGS.MERMNAMES.6
 msgctxt "STRINGS.MERMNAMES.6"
 msgid "Flurgle"
-msgstr ""
+msgstr "Фьють"
 
 #. STRINGS.MERMNAMES.7
 msgctxt "STRINGS.MERMNAMES.7"
 msgid "Fopt"
-msgstr ""
+msgstr "Плямк"
 
 #. STRINGS.MERMNAMES.8
 msgctxt "STRINGS.MERMNAMES.8"
 msgid "Furp"
-msgstr ""
+msgstr "Хляп"
 
 #. STRINGS.MERMNAMES.9
 msgctxt "STRINGS.MERMNAMES.9"
 msgid "Furt"
-msgstr ""
+msgstr "Бац"
 
 #. STRINGS.MERM_BATTLECRY.1.1
 msgctxt "STRINGS.MERM_BATTLECRY.1.1"
@@ -251459,7 +251459,7 @@ msgstr "Саженец"
 #. STRINGS.NAMES.SCANDATA
 msgctxt "STRINGS.NAMES.SCANDATA"
 msgid "Bio Data"
-msgstr ""
+msgstr "Данные об органике"
 
 #. STRINGS.NAMES.SCARECROW
 msgctxt "STRINGS.NAMES.SCARECROW"
@@ -253844,97 +253844,97 @@ msgstr "WX-78"
 #. STRINGS.NAMES.WX78MODULE_BEE
 msgctxt "STRINGS.NAMES.WX78MODULE_BEE"
 msgid "Beanbooster Circuit"
-msgstr ""
+msgstr "Модуль мозжелечка"
 
 #. STRINGS.NAMES.WX78MODULE_COLD
 msgctxt "STRINGS.NAMES.WX78MODULE_COLD"
 msgid "Refrigerant Circuit"
-msgstr ""
+msgstr "Морозильный модуль"
 
 #. STRINGS.NAMES.WX78MODULE_HEAT
 msgctxt "STRINGS.NAMES.WX78MODULE_HEAT"
 msgid "Thermal Circuit"
-msgstr ""
+msgstr "Термический модуль"
 
 #. STRINGS.NAMES.WX78MODULE_LIGHT
 msgctxt "STRINGS.NAMES.WX78MODULE_LIGHT"
 msgid "Illumination Circuit"
-msgstr ""
+msgstr "Люминесцентный модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.NAMES.WX78MODULE_MAXHEALTH"
 msgid "Hardy Circuit"
-msgstr ""
+msgstr "Укрепляющий модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.NAMES.WX78MODULE_MAXHEALTH2"
 msgid "Super-Hardy Circuit"
-msgstr ""
+msgstr "Суперукрепляющий модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.NAMES.WX78MODULE_MAXHUNGER"
 msgid "Super-Gastrogain Circuit"
-msgstr ""
+msgstr "Супергастрономический модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.NAMES.WX78MODULE_MAXHUNGER1"
 msgid "Gastrogain Circuit"
-msgstr ""
+msgstr "Гастрономический модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.NAMES.WX78MODULE_MAXSANITY"
 msgid "Super-Processing Circuit"
-msgstr ""
+msgstr "Супервычислительный модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.NAMES.WX78MODULE_MAXSANITY1"
 msgid "Processing Circuit"
-msgstr ""
+msgstr "Вычислительный модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.NAMES.WX78MODULE_MOVESPEED"
 msgid "Acceleration Circuit"
-msgstr ""
+msgstr "Ускоряющий модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.NAMES.WX78MODULE_MOVESPEED2"
 msgid "Super-Acceleration Circuit"
-msgstr ""
+msgstr "Суперускоряющий модуль"
 
 #. STRINGS.NAMES.WX78MODULE_MUSIC
 msgctxt "STRINGS.NAMES.WX78MODULE_MUSIC"
 msgid "Chorusbox Circuit"
-msgstr ""
+msgstr "Музыкальный модуль"
 
 #. STRINGS.NAMES.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.NAMES.WX78MODULE_NIGHTVISION"
 msgid "Optoelectronic Circuit"
-msgstr ""
+msgstr "Оптоэлектрический модуль"
 
 #. STRINGS.NAMES.WX78MODULE_TASER
 msgctxt "STRINGS.NAMES.WX78MODULE_TASER"
 msgid "Electrification Circuit"
-msgstr ""
+msgstr "Электризующий модуль"
 
 #. STRINGS.NAMES.WX78_MODULEREMOVER
 msgctxt "STRINGS.NAMES.WX78_MODULEREMOVER"
 msgid "Circuit Extractor"
-msgstr ""
+msgstr "Экстрактор модулей"
 
 #. STRINGS.NAMES.WX78_SCANNER
 msgctxt "STRINGS.NAMES.WX78_SCANNER"
 msgid "Bio Scanalyzer"
-msgstr ""
+msgstr "Биосканализатор"
 
 #. STRINGS.NAMES.WX78_SCANNER_ITEM
 msgctxt "STRINGS.NAMES.WX78_SCANNER_ITEM"
 msgid "Bio Scanalyzer"
-msgstr ""
+msgstr "Биосканализатор"
 
 #. STRINGS.NAMES.WX78_SCANNER_SUCCEEDED
 msgctxt "STRINGS.NAMES.WX78_SCANNER_SUCCEEDED"
 msgid "Bio Scanalyzer"
-msgstr ""
+msgstr "Биосканализатор"
 
 #. STRINGS.NAMES.YELLOWAMULET
 msgctxt "STRINGS.NAMES.YELLOWAMULET"
@@ -258729,87 +258729,87 @@ msgstr "Посади и наряди Праздничную ель!"
 #. STRINGS.RECIPE_DESC.WX78MODULE_BEE
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_BEE"
 msgid "Get your brain and body buzzing with powerful potential!"
-msgstr ""
+msgstr "Почувствуйте вибрацию новых возможностей тела!"
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_COLD
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_COLD"
 msgid "Turn your chassis into a portable freezer."
-msgstr ""
+msgstr "Превращает корпус в портативную морозилку."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_HEAT
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_HEAT"
 msgid "Things are about to get heated."
-msgstr ""
+msgstr "Ситуация накаляется."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_LIGHT
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_LIGHT"
 msgid "Light up a room with your presence."
-msgstr ""
+msgstr "Освещайте мир своим присутствием."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH"
 msgid "Make your robotic body a bit more robust."
-msgstr ""
+msgstr "Сделайте свое робо-тело прочнее."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2"
 msgid "Make your robotic body much more robust."
-msgstr ""
+msgstr "Сделайте свое робо-тело еще прочнее."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER"
 msgid "Capable of containing even the most insatiable automaton's appetite."
-msgstr ""
+msgstr "Сдерживает аппетиты ненасытных автоматонов."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER1"
 msgid "Add a bit of room to your fuel tank."
-msgstr ""
+msgstr "Увеличивает объем топлива в баке."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY"
 msgid "A big boost of processing power will really get those gears turning."
-msgstr ""
+msgstr "Повышенная вычислительная мощность заставит крутиться шестеренки."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY1"
 msgid "A little extra processing power helps to ease the mechanical mind."
-msgstr ""
+msgstr "Дополнительная вычислительная мощность поможет разгрузить голову."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED"
 msgid "A hastily designed speed booster. It could use some improvement."
-msgstr ""
+msgstr "Ускоритель, спроектированный на скорую руку. Можно улучшить."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED2"
 msgid "A perfected speed booster to kick your engine into high gear."
-msgstr ""
+msgstr "Идеальный ускоритель выведет двигатель на невероятные обороты."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MUSIC
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MUSIC"
 msgid "Every machine needs a tune-up now and then."
-msgstr ""
+msgstr "Скрасьте режим ожидания музыкой."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_NIGHTVISION"
 msgid "Recalibrate your optic sensors for night vision."
-msgstr ""
+msgstr "Откалибруйте оптические сенсоры для ночного видения."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_TASER
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_TASER"
 msgid "Anyone who messes with you will be in for a shock."
-msgstr ""
+msgstr "Те, кто посмеет бросить вам вызов, будут шокированы ответом."
 
 #. STRINGS.RECIPE_DESC.WX78_MODULEREMOVER
 msgctxt "STRINGS.RECIPE_DESC.WX78_MODULEREMOVER"
 msgid "Success comes to those who really a-ply themselves."
-msgstr ""
+msgstr "Успеха добиваются те, кто не боится чем-то жертвовать."
 
 #. STRINGS.RECIPE_DESC.WX78_SCANNER_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WX78_SCANNER_ITEM"
 msgid "It never hurts to have a backup scan."
-msgstr ""
+msgstr "Запасной сканер никогда не помешает."
 
 #. STRINGS.RECIPE_DESC.YELLOWAMULET
 msgctxt "STRINGS.RECIPE_DESC.YELLOWAMULET"
@@ -262309,7 +262309,7 @@ msgstr "Эти шасси лают, но не кусают."
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_retro"
 msgid "There is no heart to be found inside this metal monster."
-msgstr ""
+msgstr "Сердца внутри этого металлического монстра не обнаружено."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wx78_rhinorook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wx78_rhinorook"
@@ -263816,8 +263816,18 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole"
 msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
 msgstr "Бездонные ямы — самые лучшие. Однако, бездонные огненные ямы — это вообще шик."
 
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_hole_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole_alt"
+msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
+msgstr "Бездонные ямы — самые лучшие. Однако, бездонные огненные ямы — это вообще шик."
+
 #. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln"
+msgid "A lovely stone kiln to house your coziest fires."
+msgstr "Милая каменная печь, в которой огонь горит особенно уютно."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln_alt"
 msgid "A lovely stone kiln to house your coziest fires."
 msgstr "Милая каменная печь, в которой огонь горит особенно уютно."
 
@@ -263889,7 +263899,7 @@ msgstr "У огня не было ни единого шанса."
 #. STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical"
 msgid "Fit for only the finest fish."
-msgstr ""
+msgstr "Резервуар для роскошной рыбы."
 
 #. STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown"
@@ -264704,7 +264714,7 @@ msgstr "Прикоснись к природе в этих облегающих 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro"
 msgid "All superfluous fingers have been eradicated for maximum efficiency."
-msgstr ""
+msgstr "Лишние пальцы удалены в целях оптимизации производительности."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian"
@@ -264924,7 +264934,7 @@ msgstr "Ну просто глаз не оторвать!"
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_retro"
 msgid "A powerful light, with only a negligible risk of electrocution."
-msgstr ""
+msgstr "Мощный источник света с незначительной вероятностью удара током."
 
 #. STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_tesla"
@@ -265654,7 +265664,7 @@ msgstr "Выдержат даже самые жестокие морозы."
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_retro"
 msgid "You can't stop the march of progress."
-msgstr ""
+msgstr "Прогресс шагает по планете, и его уже не остановить."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wx78_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wx78_victorian"
@@ -265684,7 +265694,7 @@ msgstr "Горе этой рыбе и всем остальным."
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_retro"
 msgid "Lightning - the energy source of the future!"
-msgstr ""
+msgstr "Молния — вот главный источник энергии будущего!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_robot"
@@ -267074,7 +267084,7 @@ msgstr "Подарок Oxygen Not Included"
 #. STRINGS.SKIN_DESCRIPTIONS.pack_retro_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_retro_items"
 msgid "This Experimental Chest contains the following belongings skin items: Electrified Lantern, Experimental Energy Siphon, and Experimentation Apparatus."
-msgstr ""
+msgstr "Этот экспериментальный сундук с пожитками содержит следующие предметы обликов: электрический фонарь, экспериментальный энергосифон и аппаратура для экспериментов."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift"
@@ -267714,32 +267724,32 @@ msgstr "Этот сундук содержит все предметы из на
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_deluxe"
 msgid "This Deluxe Wardrobe contains WX-78's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Experimental skin items."
-msgstr ""
+msgstr "Этот роскошный гардероб содержит все предметы из наборов для обликов WX-78 «Почетный гость», «Цветущий», «Выживший», «Победитель» и «Экспериментальный»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_formal"
 msgid "This Chest contains WX-78's complete set of Guest of Honor skin items."
-msgstr ""
+msgstr "Этот сундук содержит все предметы из набора для облика WX-78 «Почетный гость»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro"
 msgid "This Chest contains WX-78's complete set of Experimental skin items."
-msgstr ""
+msgstr "Этот сундук содержит все предметы из набора для облика WX-78 «Экспериментальный»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_rose"
 msgid "This Chest contains WX-78's complete set of Roseate skin items."
-msgstr ""
+msgstr "Этот сундук содержит все предметы из набора для облика WX-78 «Цветущий»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_shadow"
 msgid "This Chest contains WX-78's complete set of Triumphant skin items."
-msgstr ""
+msgstr "Этот сундук содержит все предметы из набора для облика WX-78 «Победитель»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_survivor"
 msgid "This Chest contains WX-78's complete set of Survivor skin items."
-msgstr ""
+msgstr "Этот сундук содержит все предметы из набора для облика WX-78 «Выживший»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yotc_builders
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yotc_builders"
@@ -268694,7 +268704,7 @@ msgstr "Смените иконку вашего профиля на удиви�
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_fishbox_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_fishbox_nautical"
 msgid "Set your profile icon to a Silver Tuna Tin."
-msgstr ""
+msgstr "Смените иконку вашего профиля на серебряную банку с тунцом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart"
@@ -269819,7 +269829,7 @@ msgstr "Прямо-таки источает потенциал для иссл�
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_retro"
 msgid "What will you do in the name of progress?"
-msgstr ""
+msgstr "На что вы готовы пойти во имя прогресса?"
 
 #. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush"
@@ -270158,6 +270168,11 @@ msgstr "Если прислушаться, то можно услышать мо
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_pillar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_pillar"
+msgid "Doesn't burn any brighter or last any longer, but goodness-gosh if it isn't just the fanciest."
+msgstr "Горит не намного дольше или ярче обычного, но зато какой роскошный."
+
+#. STRINGS.SKIN_DESCRIPTIONS.torch_pillar_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_pillar_alt"
 msgid "Doesn't burn any brighter or last any longer, but goodness-gosh if it isn't just the fanciest."
 msgstr "Горит не намного дольше или ярче обычного, но зато какой роскошный."
 
@@ -270544,7 +270559,7 @@ msgstr "Нравится новый образ."
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine"
 msgid "This thorny wardrobe will have you looking sharp."
-msgstr ""
+msgstr "Этот шипастый гардероб оценят любители колких нарядов."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_yule"
@@ -272149,7 +272164,7 @@ msgstr "Оригинальный дизайн, версия 1.0."
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_retro"
 msgid "A bolt of lightning has brought this mechanical menace... to life!"
-msgstr ""
+msgstr "Этого механического монстра оживил удар молнии!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook"
@@ -274759,7 +274774,7 @@ msgstr "Ствол древесного голема"
 #. STRINGS.SKIN_NAMES.body_wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_retro"
 msgid "Experimental Chassis"
-msgstr ""
+msgstr "Экспериментальный корпус"
 
 #. STRINGS.SKIN_NAMES.body_wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.body_wx78_rhinorook"
@@ -276266,8 +276281,18 @@ msgctxt "STRINGS.SKIN_NAMES.firepit_hole"
 msgid "Bottomless Pit"
 msgstr "Бездонная яма"
 
+#. STRINGS.SKIN_NAMES.firepit_hole_alt
+msgctxt "STRINGS.SKIN_NAMES.firepit_hole_alt"
+msgid "Bottomless Pit"
+msgstr "Бездонная яма"
+
 #. STRINGS.SKIN_NAMES.firepit_kiln
 msgctxt "STRINGS.SKIN_NAMES.firepit_kiln"
+msgid "Stone Kiln"
+msgstr "Каменная печь"
+
+#. STRINGS.SKIN_NAMES.firepit_kiln_alt
+msgctxt "STRINGS.SKIN_NAMES.firepit_kiln_alt"
 msgid "Stone Kiln"
 msgstr "Каменная печь"
 
@@ -276339,7 +276364,7 @@ msgstr "Снегомет-4000"
 #. STRINGS.SKIN_NAMES.fishbox_nautical
 msgctxt "STRINGS.SKIN_NAMES.fishbox_nautical"
 msgid "Silver Tuna Tin"
-msgstr ""
+msgstr "Серебряная банка с тунцом"
 
 #. STRINGS.SKIN_NAMES.flowerhat_crown
 msgctxt "STRINGS.SKIN_NAMES.flowerhat_crown"
@@ -277154,7 +277179,7 @@ msgstr "Руки древесного голема"
 #. STRINGS.SKIN_NAMES.hand_wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.hand_wx78_retro"
 msgid "Experimental Graspers"
-msgstr ""
+msgstr "Экспериментальные зажимы"
 
 #. STRINGS.SKIN_NAMES.hand_wx78_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_wx78_victorian"
@@ -277374,7 +277399,7 @@ msgstr "Чудовищный фонарь"
 #. STRINGS.SKIN_NAMES.lantern_retro
 msgctxt "STRINGS.SKIN_NAMES.lantern_retro"
 msgid "Electrified Lantern"
-msgstr ""
+msgstr "Электрический фонарь"
 
 #. STRINGS.SKIN_NAMES.lantern_tesla
 msgctxt "STRINGS.SKIN_NAMES.lantern_tesla"
@@ -278104,7 +278129,7 @@ msgstr "Низкотемпературные ноги"
 #. STRINGS.SKIN_NAMES.legs_wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.legs_wx78_retro"
 msgid "Ambulation Apparatus"
-msgstr ""
+msgstr "Двигательный аппарат"
 
 #. STRINGS.SKIN_NAMES.legs_wx78_victorian
 msgctxt "STRINGS.SKIN_NAMES.legs_wx78_victorian"
@@ -278134,7 +278159,7 @@ msgstr "Кароотвод"
 #. STRINGS.SKIN_NAMES.lightning_rod_retro
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_retro"
 msgid "Experimental Energy Siphon"
-msgstr ""
+msgstr "Экспериментальный энергосифон"
 
 #. STRINGS.SKIN_NAMES.lightning_rod_robot
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_robot"
@@ -279524,7 +279549,7 @@ msgstr "Подарок Oxygen Not Included"
 #. STRINGS.SKIN_NAMES.pack_retro_items
 msgctxt "STRINGS.SKIN_NAMES.pack_retro_items"
 msgid "Experimental Chest"
-msgstr ""
+msgstr "Экспериментальный сундук"
 
 #. STRINGS.SKIN_NAMES.pack_rog_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_rog_gift"
@@ -280164,32 +280189,32 @@ msgstr "Сундук Вурт «Победитель»"
 #. STRINGS.SKIN_NAMES.pack_wx78_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_deluxe"
 msgid "WX-78 Deluxe Wardrobe"
-msgstr ""
+msgstr "Роскошный гардероб WX-78"
 
 #. STRINGS.SKIN_NAMES.pack_wx78_formal
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_formal"
 msgid "WX-78 Guest of Honor Chest"
-msgstr ""
+msgstr "Сундук WX-78 «Почетный гость»"
 
 #. STRINGS.SKIN_NAMES.pack_wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_retro"
 msgid "WX-78 Experimental Chest"
-msgstr ""
+msgstr "Экспериментальный сундук WX-78"
 
 #. STRINGS.SKIN_NAMES.pack_wx78_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_rose"
 msgid "WX-78 Roseate Chest"
-msgstr ""
+msgstr "Цветущий сундук WX-78"
 
 #. STRINGS.SKIN_NAMES.pack_wx78_shadow
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_shadow"
-msgid "WX-78 Shadow Chest"
+msgid "WX-78 Triumphant Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_wx78_survivor
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_survivor"
 msgid "WX-78 Survivor Chest"
-msgstr ""
+msgstr "Сундук WX-78 «Выживший»"
 
 #. STRINGS.SKIN_NAMES.pack_yotc_builders
 msgctxt "STRINGS.SKIN_NAMES.pack_yotc_builders"
@@ -280544,7 +280569,7 @@ msgstr "Портрет Удивительная снежкометалка"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical"
 msgid "Silver Tuna Tin Portrait"
-msgstr ""
+msgstr "Фон портрета «Серебряная банка с тунцом»"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_flames
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_flames"
@@ -281144,7 +281169,7 @@ msgstr "Удивительная снежкометалка"
 #. STRINGS.SKIN_NAMES.profileflair_fishbox_nautical
 msgctxt "STRINGS.SKIN_NAMES.profileflair_fishbox_nautical"
 msgid "Silver Tuna Tin"
-msgstr ""
+msgstr "Серебряная банка с тунцом"
 
 #. STRINGS.SKIN_NAMES.profileflair_food_berrytart
 msgctxt "STRINGS.SKIN_NAMES.profileflair_food_berrytart"
@@ -282269,7 +282294,7 @@ msgstr "Аппарат с мерзкой слизью"
 #. STRINGS.SKIN_NAMES.researchlab_retro
 msgctxt "STRINGS.SKIN_NAMES.researchlab_retro"
 msgid "Experimentation Apparatus"
-msgstr ""
+msgstr "Аппаратура для экспериментов"
 
 #. STRINGS.SKIN_NAMES.reskin_tool_brush
 msgctxt "STRINGS.SKIN_NAMES.reskin_tool_brush"
@@ -282608,6 +282633,11 @@ msgstr "Ракушечный факел"
 
 #. STRINGS.SKIN_NAMES.torch_pillar
 msgctxt "STRINGS.SKIN_NAMES.torch_pillar"
+msgid "Carved Stone Torch"
+msgstr "Факел из резного камня"
+
+#. STRINGS.SKIN_NAMES.torch_pillar_alt
+msgctxt "STRINGS.SKIN_NAMES.torch_pillar_alt"
 msgid "Carved Stone Torch"
 msgstr "Факел из резного камня"
 
@@ -282994,7 +283024,7 @@ msgstr "Гардероб возлюбленного"
 #. STRINGS.SKIN_NAMES.wardrobe_vine
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_vine"
 msgid "Brambleberry Wardrobe"
-msgstr ""
+msgstr "Ежевичный гардероб"
 
 #. STRINGS.SKIN_NAMES.wardrobe_yule
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_yule"
@@ -284599,7 +284629,7 @@ msgstr "WX-78"
 #. STRINGS.SKIN_NAMES.wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.wx78_retro"
 msgid "The Experiment"
-msgstr ""
+msgstr "Эксперимент"
 
 #. STRINGS.SKIN_NAMES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_NAMES.wx78_rhinorook"
@@ -285949,7 +285979,7 @@ msgstr "«Я КОРЕНЬ ВСЕГО ЗЛА»"
 #. STRINGS.SKIN_QUOTES.wx78_retro
 msgctxt "STRINGS.SKIN_QUOTES.wx78_retro"
 msgid "\"I AM THE FUTURE\""
-msgstr ""
+msgstr "«БУДУЩЕЕ — ЭТО Я»"
 
 #. STRINGS.SKIN_QUOTES.wx78_rhinorook
 msgctxt "STRINGS.SKIN_QUOTES.wx78_rhinorook"
@@ -286314,7 +286344,7 @@ msgstr "Рекламная Коллекция"
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.RETRO
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.RETRO"
 msgid "Experimental Collection"
-msgstr ""
+msgstr "Экспериментальная коллекция"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE"
@@ -286689,7 +286719,7 @@ msgstr "Снегомет"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX"
 msgid "Tin Fishin' Bin "
-msgstr ""
+msgstr "Рыболовная жестянка "
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT"
@@ -288159,7 +288189,7 @@ msgstr "Обработка"
 #. STRINGS.TABS.ROBOTMODULECRAFT
 msgctxt "STRINGS.TABS.ROBOTMODULECRAFT"
 msgid "Circuitry"
-msgstr ""
+msgstr "Модули"
 
 #. STRINGS.TABS.SCIENCE
 msgctxt "STRINGS.TABS.SCIENCE"
@@ -290566,6 +290596,11 @@ msgctxt "STRINGS.UI.CHARACTERSELECT.SELECT"
 msgid "Select"
 msgstr "Выбрать"
 
+#. STRINGS.UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD"
+msgid "Open Keyboard"
+msgstr ""
+
 #. STRINGS.UI.CHATINPUTSCREEN.HELP_SAY
 msgctxt "STRINGS.UI.CHATINPUTSCREEN.HELP_SAY"
 msgid "Say"
@@ -290580,6 +290615,11 @@ msgstr "Шептать"
 msgctxt "STRINGS.UI.CHATINPUTSCREEN.SAY"
 msgid "say:"
 msgstr "сказать:"
+
+#. STRINGS.UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT"
+msgid "Message:"
+msgstr ""
 
 #. STRINGS.UI.CHATINPUTSCREEN.WHISPER
 msgctxt "STRINGS.UI.CHATINPUTSCREEN.WHISPER"
@@ -292784,7 +292824,7 @@ msgstr "Не узнаешь, пока не попробуешь."
 #. STRINGS.UI.CRAFTING.CRAFT_INGREDIENT
 msgctxt "STRINGS.UI.CRAFTING.CRAFT_INGREDIENT"
 msgid "Craft Ingredient"
-msgstr ""
+msgstr "Создать ингредиент"
 
 #. STRINGS.UI.CRAFTING.DEFAULT
 msgctxt "STRINGS.UI.CRAFTING.DEFAULT"
@@ -292859,7 +292899,7 @@ msgstr "Постройте прототип с помощью научной м�
 #. STRINGS.UI.CRAFTING.NEEDSCREATURESCANNING
 msgctxt "STRINGS.UI.CRAFTING.NEEDSCREATURESCANNING"
 msgid "Scan living creatures to collect data!"
-msgstr ""
+msgstr "Сканируйте живых существ, чтобы собирать данные!"
 
 #. STRINGS.UI.CRAFTING.NEEDSCRITTERLAB
 msgctxt "STRINGS.UI.CRAFTING.NEEDSCRITTERLAB"
@@ -293009,7 +293049,7 @@ msgstr "Прототип"
 #. STRINGS.UI.CRAFTING.PROTOTYPE_INGREDIENT
 msgctxt "STRINGS.UI.CRAFTING.PROTOTYPE_INGREDIENT"
 msgid "Prototype Ingredient"
-msgstr ""
+msgstr "Разработать ингредиент"
 
 #. STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.CARNIVAL_HOSTSHOP"
@@ -293911,10 +293951,80 @@ msgctxt "STRINGS.UI.CREDITS.NAMES.71"
 msgid "Yan Fisch"
 msgstr "Yan Fisch"
 
+#. STRINGS.UI.CREDITS.NAMES.72
+msgctxt "STRINGS.UI.CREDITS.NAMES.72"
+msgid "Marcus Lo"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.73
+msgctxt "STRINGS.UI.CREDITS.NAMES.73"
+msgid "Jordan Krahn"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.74
+msgctxt "STRINGS.UI.CREDITS.NAMES.74"
+msgid "Daniel MacGregor"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.75
+msgctxt "STRINGS.UI.CREDITS.NAMES.75"
+msgid "Anita Ho"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.76
+msgctxt "STRINGS.UI.CREDITS.NAMES.76"
+msgid "Janis Osenenko"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.77
+msgctxt "STRINGS.UI.CREDITS.NAMES.77"
+msgid "Dave Downes"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.78
+msgctxt "STRINGS.UI.CREDITS.NAMES.78"
+msgid "Sun Chung"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.79
+msgctxt "STRINGS.UI.CREDITS.NAMES.79"
+msgid "Andrea Alcaraz"
+msgstr ""
+
 #. STRINGS.UI.CREDITS.NAMES.8
 msgctxt "STRINGS.UI.CREDITS.NAMES.8"
 msgid "Bryce Doig"
 msgstr "Bryce Doig"
+
+#. STRINGS.UI.CREDITS.NAMES.80
+msgctxt "STRINGS.UI.CREDITS.NAMES.80"
+msgid "Ian Bartolo"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.81
+msgctxt "STRINGS.UI.CREDITS.NAMES.81"
+msgid "Emmett Hall"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.82
+msgctxt "STRINGS.UI.CREDITS.NAMES.82"
+msgid "Margaret Lu"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.83
+msgctxt "STRINGS.UI.CREDITS.NAMES.83"
+msgid "Kial Natale"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.84
+msgctxt "STRINGS.UI.CREDITS.NAMES.84"
+msgid "Daniel Yu"
+msgstr ""
+
+#. STRINGS.UI.CREDITS.NAMES.85
+msgctxt "STRINGS.UI.CREDITS.NAMES.85"
+msgid "Elaine Chen"
+msgstr ""
 
 #. STRINGS.UI.CREDITS.NAMES.9
 msgctxt "STRINGS.UI.CREDITS.NAMES.9"
@@ -298274,7 +298384,7 @@ msgstr "Выйти"
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
 msgid "WX-78 Refresh\nBeta Build"
-msgstr ""
+msgstr "Обновление WX-78\nБета-версия"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
@@ -301084,12 +301194,12 @@ msgstr "Чувствительность в инвентаре:"
 #. STRINGS.UI.OPTIONS.INVERT
 msgctxt "STRINGS.UI.OPTIONS.INVERT"
 msgid "Inverted"
-msgstr ""
+msgstr "Инвертированный"
 
 #. STRINGS.UI.OPTIONS.INVERTCAMERAROTATION
 msgctxt "STRINGS.UI.OPTIONS.INVERTCAMERAROTATION"
 msgid "Camera Rotation"
-msgstr ""
+msgstr "Поворот камеры"
 
 #. STRINGS.UI.OPTIONS.KLEI_ID_PREFIX
 msgctxt "STRINGS.UI.OPTIONS.KLEI_ID_PREFIX"
@@ -301464,7 +301574,7 @@ msgstr "Настройте чувствительность мыши при ра
 #. STRINGS.UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INVERTCAMERAROTATION"
 msgid "Flips the camera rotation direction."
-msgstr ""
+msgstr "Меняет направление поворота камеры."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.LANGUAGES"
