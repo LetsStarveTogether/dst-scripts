@@ -7,7 +7,7 @@ local function onfueltype(self, fueltype, old_fueltype)
     end
 end
 
-local Fuel = Class(function(self, inst)
+local Fueler = Class(function(self, inst)
     self.inst = inst
     self.fuelvalue = 1
     self.fueltype = FUELTYPE.BURNABLE
@@ -18,21 +18,21 @@ nil,
     fueltype = onfueltype,
 })
 
-function Fuel:OnRemoveFromEntity()
+function Fueler:OnRemoveFromEntity()
     if self.fueltype ~= nil then
         self.inst:RemoveTag(self.fueltype.."_fuel")
     end
 end
 
-function Fuel:SetOnTakenFn(fn)
+function Fueler:SetOnTakenFn(fn)
     self.ontaken = fn
 end
 
-function Fuel:Taken(target)
+function Fueler:Taken(target)
     self.inst:PushEvent("fueltaken", {taker = target})
     if self.ontaken then
         self.ontaken(self.inst, target)
     end
 end
 
-return Fuel
+return Fueler

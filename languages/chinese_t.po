@@ -26,6 +26,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
 msgid "Wind"
 msgstr "上發條"
 
+#. STRINGS.ACTIONS.ACTIVATE.BUTTON
+msgctxt "STRINGS.ACTIONS.ACTIVATE.BUTTON"
+msgid "Press"
+msgstr "按"
+
 #. STRINGS.ACTIONS.ACTIVATE.CLIMB
 msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
@@ -90,6 +95,11 @@ msgstr "觸摸"
 msgctxt "STRINGS.ACTIONS.ACTIVATE.TURN"
 msgid "Turn"
 msgstr "轉"
+
+#. STRINGS.ACTIONS.ACTIVATE.WHEELSPIN_STOP
+msgctxt "STRINGS.ACTIONS.ACTIVATE.WHEELSPIN_STOP"
+msgid "Press"
+msgstr "按"
 
 #. STRINGS.ACTIONS.ADDCOMPOSTABLE
 msgctxt "STRINGS.ACTIONS.ADDCOMPOSTABLE"
@@ -2511,6 +2521,51 @@ msgctxt "STRINGS.BUNNYMANNAMES.9"
 msgid "Parsnip"
 msgstr "防風草"
 
+#. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.1"
+msgid "You're just giving this to me? Thanks!"
+msgstr "白白送我嗎？謝謝你！"
+
+#. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.2"
+msgid "Wow, I didn't even have to steal it- I mean, thanks!"
+msgstr "哇，我都不用偷了——謝謝啊！"
+
+#. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.3"
+msgid "They just give you stuff around here? Neat!"
+msgstr "你們這東西都白給啊？帥！"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.1"
+msgid "Did you hear that?\nYou don't think we were followed, do you?"
+msgstr "你聽到那個聲音了嗎？\n你說是不是有人跟蹤我們？"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.2"
+msgid "This sure is cozy."
+msgstr "舒坦。"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.3"
+msgid "It's nice to warm your talons by the fire."
+msgstr "用火暖暖爪爪真舒服。"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.4"
+msgid "There's been a mysterious murder here...\nAnd with any luck, we'll be back again next year! Cah-cah-cah!"
+msgstr "這裡發生了一起神秘的謀殺案……\n如果運氣好的話，我們明年還會再來的！ \n啞——啞——啞！"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.5"
+msgid "I wonder why the featherfree creatures are so scared of the dark?"
+msgstr "我想知道為什麼沒有羽毛的生物會怕黑？"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.6
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.6"
+msgid "Does anyone have some corn?"
+msgstr "誰有玉米？"
+
 #. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.1"
 msgid "Wow! It's so festive!"
@@ -2535,6 +2590,21 @@ msgstr "我想看看熱鬧！"
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.5"
 msgid "Have you checked out the Prize Booth yet?"
 msgstr "你去看過獎品攤位了嗎？"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.1"
+msgid "If I eat anymore, I'm gonna pop.\nHmm, pop... popcorn... mmmmm..."
+msgstr "我再吃幾口就要爆了。\n嗯，爆……爆米花……呣呣呣……"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.2"
+msgid "Do you think they're trying to fatten us up and eat us?\nNaw... they don't look that clever."
+msgstr "你覺得他們是想把我們養肥了再吃嗎？\n應該不是……他們看起來沒那麼聰明。"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.3"
+msgid "We're lucky that Corvus found this place."
+msgstr "好彩良羽鴉找到了這個地方。"
 
 #. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.1"
@@ -2566,6 +2636,21 @@ msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.6"
 msgid "I'm gonna tell my friends to wait until there's more set up."
 msgstr "我要告訴朋友們等佈置好了再來。"
 
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.1"
+msgid "All this Cawnival fun is making me peckish."
+msgstr "鴉年華真好玩，我肚子有點餓了。"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.2"
+msgid "Those snacks look so good...\nI'm sure they wouldn't mind if I snuck a bite..."
+msgstr "這些零食看起來很好吃……\n我偷吃一口應該沒事……"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.3"
+msgid "I'm starving after that long trip."
+msgstr "長途旅行可把我餓壞了。"
+
 #. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.1"
 msgid "Nicely set up."
@@ -2573,8 +2658,8 @@ msgstr "佈置得挺好。"
 
 #. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.2
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.2"
-msgid "There is never enough flair."
-msgstr "酷炫沒有盡頭。"
+msgid "It's alright... but it could use some flair."
+msgstr "還不錯……就是缺點炫酷的元素。"
 
 #. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.3
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.3"
@@ -2585,6 +2670,21 @@ msgstr "我見過比這個更好的鴉年華。"
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.4"
 msgid "The party is just getting started!"
 msgstr "派對才剛剛開始！"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.1"
+msgid "What a fun place, nobody chases us away!"
+msgstr "真是個好地方，沒人趕我們走！"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.2"
+msgid "Who was that, with the red fur? He seemed kinda familiar."
+msgstr "那個紅毛的是誰？他看起來有點眼熟。"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.3"
+msgid "I hope we can have the Cawnival here again next year."
+msgstr "希望明年還有鴉年華。"
 
 #. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.1"
@@ -2616,6 +2716,21 @@ msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.6"
 msgid "Have you won any prizes yet?"
 msgstr "你贏到獎品了嗎？"
 
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.1"
+msgid "It's nice to rest our wings a little.\nWe usually can't stay in one place too long."
+msgstr "讓翅膀稍微休息一下挺好。\n我們通常不能在一個地方呆得太久。"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.2"
+msgid "Have you seen the lady that watches the Cawnival at night?\nSquawck about creepy."
+msgstr "你見過鴉年華上夜班的女士嗎？\n嚇人得很呐。"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.3"
+msgid "Are you having fun? I sure am!"
+msgstr "你玩的開心嗎？我很開心！"
+
 #. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.1"
 msgid "You should decorate more."
@@ -2636,6 +2751,21 @@ msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.4"
 msgid "This must be your first Cawnival."
 msgstr "這應該是你的第一個鴉年華吧。"
 
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.1"
+msgid "Hey, mind sharing your snacks?"
+msgstr "嘿，要不要分享你的零食？"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.2"
+msgid "Where are we from? Oh you know, here and there..."
+msgstr "我們從哪裡來？我們來自五湖四海……"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.3"
+msgid "You stay here all year?\nWow, not having wings must be tough."
+msgstr "你一整年都待在這？\n沒翅膀確實慘。"
+
 #. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.1"
 msgid "You're doing a pretty good job."
@@ -2655,6 +2785,21 @@ msgstr "老實說，我見過比這更好的鴉年華。"
 msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.4"
 msgid "Gotta say, last year's Cawnival was better..."
 msgstr "不得不說，去年的鴉年華好多了……"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.1"
+msgid "So where do YOU come from? Just curious!"
+msgstr "那你是從哪來的？我挺好奇的！"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.2"
+msgid "I can't believe you'd never seen a Cawnival before we came!\nYou sure were missing out."
+msgstr "我們來以前你都沒見過鴉年華嗎？\n你錯過了太多。"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.3"
+msgid "You're pretty weird. Has anyone told you that?"
+msgstr "你真是個怪人。有人跟你這麼說過嗎？"
 
 #. STRINGS.CARNIVAL_CROWKID_GAME_GOTO.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.1"
@@ -2681,6 +2826,21 @@ msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.5"
 msgid "Oooh, that game's my favorite!"
 msgstr "噢，我最喜歡那個遊戲了！"
 
+#. STRINGS.CARNIVAL_CROWKID_HASGIFT.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_HASGIFT.1"
+msgid "What's with all the presents? This is starting to feel suspicious..."
+msgstr "這些禮物是怎麼回事？事情開始變得可疑了……"
+
+#. STRINGS.CARNIVAL_CROWKID_HASGIFT.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_HASGIFT.2"
+msgid "Thanks, but I've already got something!"
+msgstr "謝謝，不過我已經有了！"
+
+#. STRINGS.CARNIVAL_CROWKID_HASGIFT.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_HASGIFT.3"
+msgid "Sorry, busy. Maybe try someone else."
+msgstr "抱歉，我忙著呢。你找別人吧。"
+
 #. STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.1"
 msgid "What kind of game is that?"
@@ -2688,8 +2848,23 @@ msgstr "那是什麼遊戲啊？"
 
 #. STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.2
 msgctxt "STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.2"
-msgid "Are the featherless creatures fighting? I want to watch!"
+msgid "Are the featherfree creatures fighting? I want to watch!"
 msgstr "沒羽毛的生物在打架嗎？我想看！"
+
+#. STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.1"
+msgid "Oh... wow... um, that's okay, you keep it."
+msgstr "呃，這個……不用了，你還是自己留著吧。"
+
+#. STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.2"
+msgid "Aw, wouldn't ya know it, I'm actually allergic to that exact thing."
+msgstr "啊，不好意思，我對那個東西過敏。"
+
+#. STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.3"
+msgid "No thanks, I don't want it."
+msgstr "不用了，謝謝，我不想要。"
 
 #. STRINGS.CARNIVAL_CROWKID_SCARED.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.1"
@@ -2723,13 +2898,13 @@ msgstr "撤啊！"
 
 #. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.1
 msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.1"
-msgid "Yes, yes! This place will do nicely!"
-msgstr "行，行！這裡可以的！"
+msgid "Yes, yes! It's that most wonderful time of year again!"
+msgstr "對，對！又到了一年裡最精彩的時間了！"
 
 #. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.2
 msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.2"
-msgid "A perfect spot for my famous, fantabulous, (fiscally fruitful) Cawnival!"
-msgstr "這個位置簡直完美，就在這舉辦我舉世聞名、精彩絕倫，（利潤豐厚）的鴉年華吧！"
+msgid "I, the great Goodfeather, have graciously decided to return with my wondrous Cawnival!"
+msgstr "我，偉大而慷慨的良羽鴉，帶著妙不可言的鴉年華又回來啦！"
 
 #. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.3
 msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.3"
@@ -2750,6 +2925,21 @@ msgstr "世人給了我很多的名字，你可以叫我良羽鴉！"
 msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.6"
 msgid "\"Not yet mid-summer\", you say? Well my friend, the early bird gets the worm!"
 msgstr "你說“盛夏未至”？我的朋友，早起的鳥兒有蟲吃！"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.7
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.7"
+msgid "Oh lucky, lucky you, to be a stop on our flight of fancy!"
+msgstr "各位走運了。停一停、看一看、滿足你所有夢幻！"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.8
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.8"
+msgid "Be merry, for good old Goodfeather has returned with his spectacular Cawnival!"
+msgstr "歡樂，歡樂，老良羽鴉已經帶著他壯觀的鴉年華回來了！"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.9
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.9"
+msgid "Last year was so profitable- er, FUN, that we just couldn't stay away!"
+msgstr "去年非常有利可圖——呃，我是說快樂，所以我們今年也不能置身事外！"
 
 #. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.1
 msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.1"
@@ -6756,6 +6946,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "I've got a lot of experience in making things explode."
 msgstr "我在把東西弄炸方面積累了豐富的經驗。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "I think all these shiny decorations reflect well on me."
+msgstr "這些閃亮的裝飾品已經說明了一切。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "I have to build it myself? I should have known there'd be a catch."
+msgstr "我必須自己建造它？我早該料到的。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "I could watch it for hours."
@@ -6783,6 +6983,11 @@ msgstr "這種設計不是很常見。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "The thrill of discovery!"
+msgstr "探索的刺激！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "The thrill of discovery!"
 msgstr "探索的刺激！"
 
@@ -6880,6 +7085,71 @@ msgstr "它要我給它一些閃亮的東西才讓我玩。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Not to brag, but I've been called a bit of an egghead in the past."
 msgstr "不是我吹牛，我是這方面的行家。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "這還真是個快閃嘉年華。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "它要我給它一些閃亮的東西才讓我玩。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Physics don't always work the same way twice."
+msgstr "物理規律並不能時刻複現。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "它要我給它一些閃亮的東西才讓我玩。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Science compels me to press that big shiny button!"
+msgstr "科學迫使我按下那個閃亮的大按鈕！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "這還真是個快閃嘉年華。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "它要我給它一些閃亮的東西才讓我玩。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "I could calculate the trajectory, but it involves a lot of complicated numbers and squiggles."
+msgstr "我可以算出彈道，但這涉及到很多複雜的數位和演算。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "It's a little trapdoor."
+msgstr "這是一扇小活門。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "That target's really starting to bug me."
+msgstr "這個靶子讓我心癢癢了。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "這還真是個快閃嘉年華。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "它要我給它一些閃亮的東西才讓我玩。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "It turns out that spinning your wheels is actually very productive."
+msgstr "事實證明，旋轉你的車輪能帶來生產力。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_BALL"
@@ -20631,6 +20901,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "I just hope it doesn't startle Woby."
 msgstr "喜歡它別嚇到沃比。"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Wait a minute... I think it's made with cardboard and foil!"
+msgstr "等一下……我想這是用紙板和鋁箔做的！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "I'll have that up in a jiffy!"
+msgstr "我很快就會把它弄好！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "I kind of wish they had a bigger one."
@@ -20658,6 +20938,11 @@ msgstr "我要收集它！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "The suspense is killing me!"
+msgstr "懸念讓我心驚肉跳！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "The suspense is killing me!"
 msgstr "懸念讓我心驚肉跳！"
 
@@ -20755,6 +21040,71 @@ msgstr "它應該想要一枚代幣。"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "I bet I'd be pretty good at that!"
 msgstr "我打賭我會很在行！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "I'll have that up in a jiffy!"
+msgstr "我很快就會把它弄好！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "I think it wants me to give it a token."
+msgstr "它應該想要一枚代幣。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "I saw a marble game once back home, I always wanted to try it!"
+msgstr "我在老家見過彈珠遊戲，我一直想嘗試一下！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "I think it wants me to give it a token."
+msgstr "它應該想要一枚代幣。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "I just need to hit it at the right time..."
+msgstr "我只需要在正確的時間打中……"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "I'll have that up in a jiffy!"
+msgstr "我很快就會把它弄好！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "I think it wants me to give it a token."
+msgstr "它應該想要一枚代幣。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "All that slingshot practice should come in handy!"
+msgstr "打彈弓的練習應該能派上用場！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "I'd sure love to see what's down there."
+msgstr "我真想看看下面有什麼。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "I wonder what kind of bug that is?"
+msgstr "那是什麼蟲子啊？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "I'll have that up in a jiffy!"
+msgstr "我很快就會把它弄好！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "I think it wants me to give it a token."
+msgstr "它應該想要一枚代幣。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "It almost feels too easy."
+msgstr "簡直有點太過簡單了。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVAL_BALL"
@@ -34616,6 +34966,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "I... guess I could spare a moment or two to set it up."
 msgstr "我想我可以抽出一兩分鐘時間來設置它。"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "It's quite mesmerizing to watch."
+msgstr "看著看著就被它催眠了。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Oh, I suppose I have a moment or two to spare."
+msgstr "我倒是可以空出一點時間來。"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "What a delightful little mechanism!"
@@ -34643,6 +35003,11 @@ msgstr "它在壁爐上會看起來很可愛，比如放在一個精美的壁爐
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "I couldn't help it, I looked ahead and took a peek..."
+msgstr "我忍不住了，往前看了一眼，偷看了一下……"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "I couldn't help it, I looked ahead and took a peek..."
 msgstr "我忍不住了，往前看了一眼，偷看了一下……"
 
@@ -34740,6 +35105,71 @@ msgstr "這套機械沒有代幣是不會工作的。"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "This might be a tricky one."
 msgstr "這可能是一個棘手的問題。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "At least they're quick to assemble."
+msgstr "至少它們組裝起來很快。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "The mechanism won't work without a token."
+msgstr "這套機械沒有代幣是不會工作的。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "I'm not sure that there's any actual skill involved here."
+msgstr "這東西一點技術含量都沒。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "The mechanism won't work without a token."
+msgstr "這套機械沒有代幣是不會工作的。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Buttons are so much more efficient than levers."
+msgstr "按鈕就是比拉杆有效。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "At least they're quick to assemble."
+msgstr "至少它們組裝起來很快。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "The mechanism won't work without a token."
+msgstr "這套機械沒有代幣是不會工作的。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "My timing is impeccable, it's my aim that could use some work..."
+msgstr "我抓時機無可挑剔，只是瞄準需要一些練習……"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "It leads down into the game's inner workings."
+msgstr "它指向了遊戲的內部運作。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Could they not be a bit bigger?"
+msgstr "就不能再大一點？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "At least they're quick to assemble."
+msgstr "至少它們組裝起來很快。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "The mechanism won't work without a token."
+msgstr "這套機械沒有代幣是不會工作的。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "It's so wonderfully efficient!"
+msgstr "它是如此奇妙地高效！"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVAL_BALL"
@@ -48471,6 +48901,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "I'll have it whipped up in no time at all."
 msgstr "我三下五除二就能給它做好。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "It adds a lovely atmosphere, non?"
+msgstr "它增加了一種可愛的氣氛，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "I'll have it whipped up in no time at all."
+msgstr "我三下五除二就能給它做好。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Hm... I should cook some eggs for breakfast."
@@ -48498,6 +48938,11 @@ msgstr "這個就只有中等罕見了。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "I wonder what could be inside?"
+msgstr "不知道裡面是什麼？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "I wonder what could be inside?"
 msgstr "不知道裡面是什麼？"
 
@@ -48595,6 +49040,71 @@ msgstr "我應該給它喂點發光的東西。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Sometimes you must crack some eggs to get an omelette, non?"
 msgstr "有時候不打幾顆蛋是做不出煎蛋的，對不對？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "I'll have it whipped up in no time at all."
+msgstr "我三下五除二就能給它做好。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "I should feed it something shiny."
+msgstr "我應該給它喂點發光的東西。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Oh my, it's a good thing that isn't a real egg."
+msgstr "哦，天哪，還好不是真蛋。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "I should feed it something shiny."
+msgstr "我應該給它喂點發光的東西。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Shall I press it now? Or... now?"
+msgstr "我是現在按還是……現在按？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "I'll have it whipped up in no time at all."
+msgstr "我三下五除二就能給它做好。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "I should feed it something shiny."
+msgstr "我應該給它喂點發光的東西。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "A test of my timing skills, non?"
+msgstr "這是對我計時技能的考驗，不是嗎？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "A door, tres petite."
+msgstr "小扇嬌小的門。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Stay out of the nest... and my soup!"
+msgstr "離那個窩和我的湯都遠點！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "I'll have it whipped up in no time at all."
+msgstr "我三下五除二就能給它做好。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "I should feed it something shiny."
+msgstr "我應該給它喂點發光的東西。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "I'm quite good at this one!"
+msgstr "這個我很擅長！"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVAL_BALL"
@@ -61501,6 +62011,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "It will be built with utmost speed."
 msgstr "它將以最快的速度建成。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Alas, 'tis naught but fool's gold."
+msgstr "哼，不過是愚人的黃金罷了。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "It shall be done at once."
+msgstr "應當馬上進行。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "How cruel to be tormented by the sight of eggs I cannot eat!"
@@ -61528,6 +62048,11 @@ msgstr "渡鴉帶來的吉祥物！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "A box of mystery."
+msgstr "一盒神秘物品。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "A box of mystery."
 msgstr "一盒神秘物品。"
 
@@ -61625,6 +62150,71 @@ msgstr "它需要一代幣來證明我的價值。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "A test of one's mental prowess!"
 msgstr "一場記憶力的考驗!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "It will be built with utmost speed."
+msgstr "它將以最快的速度建成。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "It requires a token to prove my worthiness."
+msgstr "它需要一代幣來證明我的價值。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "The little ball must be possessed by some mischievous spirit."
+msgstr "小球一定是被某個惡作劇的精靈附身了。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "It requires a token to prove my worthiness."
+msgstr "它需要一代幣來證明我的價值。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Fire at will!"
+msgstr "隨意開火！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "It will be built with utmost speed."
+msgstr "它將以最快的速度建成。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "It requires a token to prove my worthiness."
+msgstr "它需要一代幣來證明我的價值。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "A test of marksmanship!"
+msgstr "一場射擊能力的考驗！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "'Tis not a door for a warrior of my size."
+msgstr "這扇門不適合我這樣體型的戰士。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Prepare to be slain!"
+msgstr "準備好受死吧！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "It will be built with utmost speed."
+msgstr "它將以最快的速度建成。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "It requires a token to prove my worthiness."
+msgstr "它需要一代幣來證明我的價值。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "All of the spoils without the challenge."
+msgstr "不用戰勝挑戰就能獲得戰利品。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVAL_BALL"
@@ -75271,6 +75861,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Must I do everything around here?"
 msgstr "這裡所有的事我都必須親力親為麼？"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Oh good. Wouldn't want anyone thinking we've got taste around here, would we?"
+msgstr "呵呵，徹底放棄對品位的追求了？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "There's no end to the work around here, it seems."
+msgstr "這裡的工作沒有盡頭，似乎是這樣。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Wonderful. It's even tackier than I imagined it would be."
@@ -75298,6 +75898,11 @@ msgstr "微不足道的東西。想當年我做的那才叫雕像……"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "Curiosity always seems to get the better of me."
+msgstr "我總是被好奇心牽著走。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Curiosity always seems to get the better of me."
 msgstr "我總是被好奇心牽著走。"
 
@@ -75395,6 +76000,71 @@ msgstr "它需要付款。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "A simple matter of memorization. I'll show you just how easy it is."
 msgstr "一個簡單的記憶問題。我秀給你看這有多容易。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "I suppose I'm expected to set this up myself?"
+msgstr "所以還指望我自己來搭這個？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "It requires payment."
+msgstr "它需要付款。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "I imagine some people might find this amusing."
+msgstr "我想有人還會覺得這個有趣吧。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "It requires payment."
+msgstr "它需要付款。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Well, I suppose a bit of destruction might be relaxing."
+msgstr "好吧，也許毀滅能帶來放鬆吧。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "I suppose I'm expected to set this up myself?"
+msgstr "所以還指望我自己來搭這個？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "It requires payment."
+msgstr "它需要付款。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Another mindless diversion."
+msgstr "又一個無腦的遊戲。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "What are they hiding down there..."
+msgstr "它們在下面藏了什麼……"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "I'm certain it's rigged."
+msgstr "我確信它被操縱了。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "I suppose I'm expected to set this up myself?"
+msgstr "所以還指望我自己來搭這個？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "It requires payment."
+msgstr "它需要付款。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "A meaningless victory."
+msgstr "毫無意義的勝利。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVAL_BALL"
@@ -86474,7 +87144,7 @@ msgstr "我們感覺有力氣了！"
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ATTACH_BUFF_ELECTRICATTACK
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ATTACH_BUFF_ELECTRICATTACK"
 msgid "With great lightning powers comes great responsibility!"
-msgstr "掌握了偉大的閃電力量，意味著要肩負更多責任！"
+msgstr "電力越大，責任越大！"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ATTACH_BUFF_MOISTUREIMMUNITY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ATTACH_BUFF_MOISTUREIMMUNITY"
@@ -89051,6 +89721,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "We can't wait to play with it!"
 msgstr "我們迫不及待地想玩這個遊戲！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Crows sure like shiny things, don't they?"
+msgstr "烏鴉特別喜歡閃亮的東西，對不對？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "We can put it together!"
+msgstr "我們可以裝好它！"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "We wish it was a little bigger so we could ride too!"
@@ -89078,6 +89758,11 @@ msgstr "我們會集齊所有的！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "We can't wait to see what's inside!"
+msgstr "我們等不及想看裡面有什麼！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "We can't wait to see what's inside!"
 msgstr "我們等不及想看裡面有什麼！"
 
@@ -89175,6 +89860,71 @@ msgstr "如果我們給它閃亮的東西，它就會讓我們玩。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "It's that one over there! Or... was it the other one..."
 msgstr "是那邊的那個！或者……是另一個……"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "We can help the birds set up."
+msgstr "我們可以幫鳥兒們組裝。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "It'll let us play if we give it something shiny."
+msgstr "如果我們給它閃亮的東西，它就會讓我們玩。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "We could watch the little ball bounce around all day."
+msgstr "我們看小球彈來彈去可以看一整天。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "It'll let us play if we give it something shiny."
+msgstr "如果我們給它閃亮的東西，它就會讓我們玩。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "We wanna press the big button!"
+msgstr "我們想按大按鈕！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "We can help the birds set up."
+msgstr "我們可以幫鳥兒們組裝。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "It'll let us play if we give it something shiny."
+msgstr "如果我們給它閃亮的東西，它就會讓我們玩。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Watch out for the baby bird!"
+msgstr "小心鳥寶寶！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "It's a little bird door."
+msgstr "是小鳥們的門。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Are the bugs the bad guys?"
+msgstr "蟲子是壞人嗎？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "We can help the birds set up."
+msgstr "我們可以幫鳥兒們組裝。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "It'll let us play if we give it something shiny."
+msgstr "如果我們給它閃亮的東西，它就會讓我們玩。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "We're winning!"
+msgstr "我們要贏了！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVAL_BALL"
@@ -102886,6 +103636,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "I suppose I should try to be useful..."
 msgstr "我想我應該努力成為一個有用的人……"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Such a simple thing, but somehow watching it makes my heart lighter."
+msgstr "如此簡單的東西卻不知為何能讓我心情放輕鬆。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "I suppose I should try to be useful..."
+msgstr "我想我應該努力成為一個有用的人……"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "I doubt those eggs will ever hatch."
@@ -102913,6 +103673,11 @@ msgstr "顏色雖然如此歡快，但我卻不鄙視它。多麼奇怪啊。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "What secrets does it hide?"
+msgstr "它藏了哪些秘密呢？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "What secrets does it hide?"
 msgstr "它藏了哪些秘密呢？"
 
@@ -103010,6 +103775,71 @@ msgstr "它想要點東西……要點發光的東西。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "I'm very good at remembering... aren't I, Abigail?"
 msgstr "我很擅長記憶……不是嗎，阿比蓋爾？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Can I... help set up the carnival?"
+msgstr "我能……幫忙建嘉年華嗎？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "It wants something first... something shiny."
+msgstr "它想要點東西……要點發光的東西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "The outcome is as unpredictable as life itself."
+msgstr "結果就像生活本身一樣不可預知。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "It wants something first... something shiny."
+msgstr "它想要點東西……要點發光的東西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "What a pretty button."
+msgstr "好漂亮的按鈕。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "Can I... help set up the carnival?"
+msgstr "我能……幫忙建嘉年華嗎？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "It wants something first... something shiny."
+msgstr "它想要點東西……要點發光的東西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "I think... I'd like to try to play..."
+msgstr "我想……我想試著玩玩……"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "It's a little door."
+msgstr "一扇小門。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "They were created only to suffer."
+msgstr "他們被創造出來只是為了受苦。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Can I... help set up the carnival?"
+msgstr "我能……幫忙建嘉年華嗎？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "It wants something first... something shiny."
+msgstr "它想要點東西……要點發光的東西。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Oh... I think I'm doing... well?"
+msgstr "哦……我想我做得……很好？"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVAL_BALL"
@@ -113499,7 +114329,7 @@ msgstr "這麼做是一種浪費。"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.DUPLICATE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.DUPLICATE"
 msgid "We've already taken note of this recipe."
-msgstr "我們已經記下了這個菜譜。"
+msgstr "我們已經記下了這個配方。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.FOODFULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.FOODFULL"
@@ -116656,6 +117486,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Let's just put it somewhere far away from the encampment."
 msgstr "我們就把它放在離營地很遠的地方吧。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "It doesn't actually \"catch\" the light of course, but merely reflects it."
+msgstr "當然，它實際上並不“捕捉”光線，而只是反射光線。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "I should be able to assemble it easily enough."
+msgstr "我應該能夠很容易地組裝它。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Those corvids are quite capable craftspeople."
@@ -116683,6 +117523,11 @@ msgstr "它似乎還比較罕見。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "How intriguing! I wonder what's inside?"
+msgstr "多麼耐人尋味啊！我想知道裡面有什麼？"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "How intriguing! I wonder what's inside?"
 msgstr "多麼耐人尋味啊！我想知道裡面有什麼？"
 
@@ -116780,6 +117625,71 @@ msgstr "我相信它需要用某種貨幣來啟動。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Ah! A simple test of one's aptitude for memorization."
 msgstr "啊！簡單的記憶力測試。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "It appears simple enough to construct."
+msgstr "它的構造似乎很簡單。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "I believe it requires a form of currency to start."
+msgstr "我相信它需要用某種貨幣來啟動。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "A game of odds and probability."
+msgstr "一場概率的遊戲。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "I believe it requires a form of currency to start."
+msgstr "我相信它需要用某種貨幣來啟動。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "This appears to trigger the firing mechanism."
+msgstr "這似乎能觸發射擊機制。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "It appears simple enough to construct."
+msgstr "它的構造似乎很簡單。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "I believe it requires a form of currency to start."
+msgstr "我相信它需要用某種貨幣來啟動。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "One's timing must be precise to win."
+msgstr "必須精確把握時機才能獲勝。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "Part of the mechanism for the game, I'd imagine."
+msgstr "我想這是遊戲機制的一部分。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "It appears the object is to hit the insects while sparing the birds."
+msgstr "初步看來，遊戲目標是在打擊昆蟲的同時放過鳥類。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "It appears simple enough to construct."
+msgstr "它的構造似乎很簡單。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "I believe it requires a form of currency to start."
+msgstr "我相信它需要用某種貨幣來啟動。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Curious. It seems that it's designed to be impossible to lose."
+msgstr "著實有趣。這樣設計誰都不會輸。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVAL_BALL"
@@ -130446,6 +131356,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Hehehe, this will be fun."
 msgstr "嘻嘻，這將會很有趣。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Oh yeah, that'll catch the firelight nicely!"
+msgstr "哦，是的，那會很好地捕捉到火光的。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Can somebody else put it together for me?"
+msgstr "有沒有人幫我裝這個啊？"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Can you imagine how great that would look if it was on fire?"
@@ -130473,6 +131393,11 @@ msgstr "如果我收集到足夠多的這些東西，我可以做一個相當好
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "Ooooh what's in the box?"
+msgstr "哦，盒子裡有什麼？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Ooooh what's in the box?"
 msgstr "哦，盒子裡有什麼？"
 
@@ -130570,6 +131495,71 @@ msgstr "我呃……從來沒到嘉年華玩過。我是要給它個什麼東西
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Too much brain work, this one gets the torch."
 msgstr "太費腦了，不如一把火燒了算了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Aw come on, I've got to set it up myself?"
+msgstr "拜託，還指望我親自裝啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "I've uh... never actually been to a carnival before. Do I give it something?"
+msgstr "我呃……從來沒到嘉年華玩過。我是要給它個什麼東西嗎？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Bounce that way! No, THAT way!!"
+msgstr "蹦到那邊去！不，是那個方向！！！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "I've uh... never actually been to a carnival before. Do I give it something?"
+msgstr "我呃……從來沒到嘉年華玩過。我是要給它個什麼東西嗎？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Fire! Fire!"
+msgstr "火！火！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "Aw come on, I've got to set it up myself?"
+msgstr "拜託，還指望我親自裝啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "I've uh... never actually been to a carnival before. Do I give it something?"
+msgstr "我呃……從來沒到嘉年華玩過。我是要給它個什麼東西嗎？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Ooh, games where you get to hit something are my favorite!"
+msgstr "哦，我最喜歡打東西的遊戲了。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "A little door to nowhere special."
+msgstr "這小門不通往任何地方。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Think fast, bugs!"
+msgstr "快想辦法，蟲子們！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Aw come on, I've got to set it up myself?"
+msgstr "拜託，還指望我親自裝啊？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "I've uh... never actually been to a carnival before. Do I give it something?"
+msgstr "我呃……從來沒到嘉年華玩過。我是要給它個什麼東西嗎？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Wow, I'm great at this game!"
+msgstr "哇，我對這個遊戲很在行！"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVAL_BALL"
@@ -144251,6 +145241,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Well, this thing's not gonna build itself."
 msgstr "這東西不會自己建好的。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "It really fancies the place up, doesn't it?"
+msgstr "它一下就讓這個地方變得花哨了，不是嗎？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Shouldn't take long to build."
+msgstr "應該用不了多久就能建好。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Not sure what I should do with this now that I built it..."
@@ -144278,6 +145278,11 @@ msgstr "有點可愛，我真是越來越喜歡它了。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "Alright, I gotta know what's inside..."
+msgstr "好吧，我必須知道裡面有什麼……"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Alright, I gotta know what's inside..."
 msgstr "好吧，我必須知道裡面有什麼……"
 
@@ -144375,6 +145380,71 @@ msgstr "我應該花一個代幣就可以玩了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Let's get crackin'! Ha!"
 msgstr "開裂吧！哈！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Gotta work before you can play."
+msgstr "必須先工作再玩。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "Looks like I just need a token to play."
+msgstr "我應該花一個代幣就可以玩了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "That little ball's got a mind of its own."
+msgstr "那顆小球有自己的想法。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "Looks like I just need a token to play."
+msgstr "我應該花一個代幣就可以玩了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "None of the buttons back at the factory were this fancy."
+msgstr "我們工廠裡可沒有這麼花哨的按鈕。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "Gotta work before you can play."
+msgstr "必須先工作再玩。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "Looks like I just need a token to play."
+msgstr "我應該花一個代幣就可以玩了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "I pride myself on being a straight-shooter! Ha!"
+msgstr "射擊如同做人，直來直往，哈！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "Looks like a tripping hazard to me."
+msgstr "看起來恐怕會絆到人。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Time for some pest control."
+msgstr "是時候進行害蟲控制了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Gotta work before you can play."
+msgstr "必須先工作再玩。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "Looks like I just need a token to play."
+msgstr "我應該花一個代幣就可以玩了。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Well would ya look at that, I'm winning!"
+msgstr "你看看，我要贏了！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVAL_BALL"
@@ -150804,7 +151874,7 @@ msgstr "戴著它會變成“傲慢之王”。"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.RUINS_BAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.RUINS_BAT"
 msgid "This thulecite stuff is incredible!"
-msgstr "這根圖勒法杖真是太棒了！"
+msgstr "這個銩礦做的玩意真是太棒了！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.RUINS_RUBBLE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.RUINS_RUBBLE"
@@ -158096,6 +159166,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Ah... reminds Wolfgang of circus days."
 msgstr "啊……讓沃爾夫岡想起了馬戲團的日子。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Is catching light? Wolfgang hopes it will share."
+msgstr "捕捉到的是光嗎？沃爾夫岡希望它能分享。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Ha! Is tiny and easy to make."
+msgstr "哈！很小，而且很容易做。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Little egg ride."
@@ -158123,6 +159203,11 @@ msgstr "沃爾夫岡沒有見過很多這樣的東西！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "What is in tiny secret box?"
+msgstr "小小的秘密盒子裡有什麼呢？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "What is in tiny secret box?"
 msgstr "小小的秘密盒子裡有什麼呢？"
 
@@ -158220,6 +159305,71 @@ msgstr "需要先給一枚代幣。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Birds make very tricky game."
 msgstr "鳥兒們這遊戲真棘手。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Ah... reminds Wolfgang of circus days."
+msgstr "啊……讓沃爾夫岡想起了馬戲團的日子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "Is needing token first."
+msgstr "需要先給一枚代幣。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Is cheating to pick up machine and shake little ball into right place?"
+msgstr "把機器舉起來搖一搖，讓小球到正確的位置算不算作弊？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "Is needing token first."
+msgstr "需要先給一枚代幣。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Is button for punching!"
+msgstr "可以重錘的按鈕！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "Ah... reminds Wolfgang of circus days."
+msgstr "啊……讓沃爾夫岡想起了馬戲團的日子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "Is needing token first."
+msgstr "需要先給一枚代幣。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Wolfgang will help mighty bird mama protect nest!"
+msgstr "沃爾夫岡會幫強大的鳥媽媽護巢！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "Little bird door."
+msgstr "小鳥門。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Wolfgang does not like bugs."
+msgstr "沃爾夫岡不喜歡蟲子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Ah... reminds Wolfgang of circus days."
+msgstr "啊……讓沃爾夫岡想起了馬戲團的日子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "Is needing token first."
+msgstr "需要先給一枚代幣。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Haha! Wolfgang is master of spinny wheel game!"
+msgstr "哈哈！沃爾夫岡是轉盤遊戲的大師！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVAL_BALL"
@@ -171856,6 +173006,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Gives you the most bang for your buck, eh?"
 msgstr "這可是大傢伙，誒？"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Argh, it flashed the sun in my eyes! Curse you, birds!!"
+msgstr "啊，它讓陽光閃到了我的眼睛！你們這些壞鳥！！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Maybe I've been overreactin'. A little decoration won't do any harm, eh?"
+msgstr "也許我反應過度了。小小的裝飾也沒壞處，誒？"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Those things better not hatch."
@@ -171883,6 +173043,11 @@ msgstr "我不會把那東西留在身邊。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "I can't stop wondering what's inside..."
+msgstr "我忍不住想知道裡面有什麼……"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "I can't stop wondering what's inside..."
 msgstr "我忍不住想知道裡面有什麼……"
 
@@ -171980,6 +173145,71 @@ msgstr "你想要閃亮的東西嗎？我這把閃亮的斧頭怎麼樣？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Mighty unsettling."
 msgstr "讓我很不安。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Those good-for-nothing birds can't even set up their own carnival?"
+msgstr "那些一無是處的鳥兒們連自己的嘉年華都不會建？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "You want somethin' shiny? How aboot my shiny axe!"
+msgstr "你想要閃亮的東西嗎？我這把閃亮的斧頭怎麼樣？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "They're trying to distract us, I'm sure those birds are plotting something..."
+msgstr "他們想分散我們的注意力，我肯定那些鳥兒又打壞算盤了……"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "You want somethin' shiny? How aboot my shiny axe!"
+msgstr "你想要閃亮的東西嗎？我這把閃亮的斧頭怎麼樣？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "It's gotta be a trap... you can't trust anything made by birds."
+msgstr "這肯定是個陷阱……你不能相信任何由鳥類製造的東西。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "Those good-for-nothing birds can't even set up their own carnival?"
+msgstr "那些一無是處的鳥兒們連自己的嘉年華都不會建？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "You want somethin' shiny? How aboot my shiny axe!"
+msgstr "你想要閃亮的東西嗎？我這把閃亮的斧頭怎麼樣？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Defend a nest? Of birds?!"
+msgstr "護巢？鳥窩？！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "What kinda horrible bird secrets are they hiding down there..."
+msgstr "它們在下面藏了什麼可怕的鳥秘密……"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "I'm supposed to hit the one that looks like a bird, right?"
+msgstr "我應該打那個看起來像鳥的，對嗎？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Those good-for-nothing birds can't even set up their own carnival?"
+msgstr "那些一無是處的鳥兒們連自己的嘉年華都不會建？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "You want somethin' shiny? How aboot my shiny axe!"
+msgstr "你想要閃亮的東西嗎？我這把閃亮的斧頭怎麼樣？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "It's too easy... what's the catch, eh?"
+msgstr "這太容易了……藏著什麼陷阱嗎，誒？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVAL_BALL"
@@ -185656,6 +186886,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Not finished yet"
 msgstr "還沒做好"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Friend holding treasure"
+msgstr "拿著寶貝的朋友"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Prize!"
+msgstr "獎品！"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Wheee!"
@@ -185683,6 +186923,11 @@ msgstr "真漂亮"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "Surprise"
+msgstr "驚喜"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Surprise"
 msgstr "驚喜"
 
@@ -185780,6 +187025,71 @@ msgstr "要發光的東西"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Remembery game, hmm..."
 msgstr "記東西的遊戲，嗯……"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Tweeter games!"
+msgstr "啾啾的遊戲！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "Needs shiny"
+msgstr "要發光的東西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Plunk plunk plop"
+msgstr "砰砰噗"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "Needs shiny"
+msgstr "要發光的東西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Pew pew!"
+msgstr "嘭嘭！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "Tweeter games!"
+msgstr "啾啾的遊戲！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "Needs shiny"
+msgstr "要發光的東西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Protect tweeters!"
+msgstr "保護啾啾！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "Hello? Hiding?"
+msgstr "你好？藏起來了？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Bad bugs"
+msgstr "壞蟲子"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Tweeter games!"
+msgstr "啾啾的遊戲！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "Needs shiny"
+msgstr "要發光的東西"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Spinny spin!"
+msgstr "轉轉轉！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVAL_BALL"
@@ -198054,7 +199364,7 @@ msgstr "呼呼！似乎還有更多的東西在等著我們！"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE2SPIKE"
 msgid "This imp will not be contained so easily."
-msgstr "本惡魔不會那麼容易被遏制。"
+msgstr "本惡魔不會那麼容易被困住。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE3"
@@ -199481,6 +200791,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Let's start things off with a bang, shall we? Hyuyuyu!"
 msgstr "讓我們轟轟烈烈地開始吧，好嗎？哼！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "Is that the glint of fairy gold?"
+msgstr "發光的是仙女身上的黃金嗎？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Nearly there."
+msgstr "接近了。"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "On and on and on it goes!"
@@ -199508,6 +200828,11 @@ msgstr "哼，多麼夢幻的發現！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "Hyuyu, how very mysterious!"
+msgstr "哼，真神奇！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Hyuyu, how very mysterious!"
 msgstr "哼，真神奇！"
 
@@ -199605,6 +200930,71 @@ msgstr "請允許我提出一個交易：給你閃亮的飾品來玩你的遊戲
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "This game is sure to test one's brain."
 msgstr "這個遊戲很考驗腦力。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "We're almost ready for the fun to begin!"
+msgstr "我們幾乎已經準備好了，可以開始玩了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "Allow me to propose a trade: one shiny trinket to play your game."
+msgstr "請允許我提出一個交易：給你閃亮的飾品來玩你的遊戲。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "There goes the ball, where will it fall?"
+msgstr "小球搖晃，掉落何方？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "Allow me to propose a trade: one shiny trinket to play your game."
+msgstr "請允許我提出一個交易：給你閃亮的飾品來玩你的遊戲。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Hyuyuyu! What does it do?"
+msgstr "哼哼！它能幹啥？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "We're almost ready for the fun to begin!"
+msgstr "我們幾乎已經準備好了，可以開始玩了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "Allow me to propose a trade: one shiny trinket to play your game."
+msgstr "請允許我提出一個交易：給你閃亮的飾品來玩你的遊戲。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "For this merry game, squashing bugs is the aim."
+msgstr "歡樂遊戲，目的——壓扁蟲子。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "A small trap door is set in the floor."
+msgstr "已在地板設置機關。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "I can't rest until I finish those pests!"
+msgstr "害蟲團滅之日才是我休息之時！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "We're almost ready for the fun to begin!"
+msgstr "我們幾乎已經準備好了，可以開始玩了！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "Allow me to propose a trade: one shiny trinket to play your game."
+msgstr "請允許我提出一個交易：給你閃亮的飾品來玩你的遊戲。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "It's easy to win, just give it a spin!"
+msgstr "想贏簡單，只需旋轉！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_BALL"
@@ -202729,7 +204119,7 @@ msgstr "凡人們什麼東西都喜歡拿來煲湯。"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOBSTERDINNER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOBSTERDINNER"
 msgid "I'm afraid I don't seafood the way most do."
-msgstr "我對海鮮的持保留意見。"
+msgstr "我對海鮮持保留意見。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOG.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOG.BURNING"
@@ -213331,6 +214721,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Gonna build it real good, florp!"
 msgstr "要把它建得非常好，浮浪噗！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "So shinyyyy..."
+msgstr "好耀眼……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "Gonna build it real good, florp!"
+msgstr "要把它建得非常好，浮浪噗！"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "Hee-hee, faster! Faster!!"
@@ -213358,6 +214758,11 @@ msgstr "雖然不是小吃，但還好啦。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "Open up!"
+msgstr "打開！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Open up!"
 msgstr "打開！"
 
@@ -213455,6 +214860,71 @@ msgstr "沒有閃亮的東西就玩不了……"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "Glurgh... not very good with counting..."
 msgstr "格勒格……不太會數數……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "It not look so hard to make, flort."
+msgstr "看起來不難做，浮浪特。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "Won't play without shiny thing..."
+msgstr "沒有閃亮的東西就玩不了……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Not allowed to take little ball? But it look fun to play with!"
+msgstr "不允許拿小球？但它看起來很好玩啊！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "Won't play without shiny thing..."
+msgstr "沒有閃亮的東西就玩不了……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "It mine!! Me press button!"
+msgstr "它是我的！我要按按鈕！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "It not look so hard to make, flort."
+msgstr "看起來不難做，浮浪特。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "Won't play without shiny thing..."
+msgstr "沒有閃亮的東西就玩不了……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "Never seen Birdfolk do that before."
+msgstr "以前沒見過鳥人們做那個。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "Where that go, florp?"
+msgstr "那個去哪了，浮浪噗？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "Hee-hee, bugs go smash!"
+msgstr "嘿嘿，去碾碎蟲子們！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "It not look so hard to make, flort."
+msgstr "看起來不難做，浮浪特。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "Won't play without shiny thing..."
+msgstr "沒有閃亮的東西就玩不了……"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "Mermfolk really good at games."
+msgstr "魚人最擅長遊戲了。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVAL_BALL"
@@ -227126,6 +228596,16 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "ASSEMBLY REQUIRED"
 msgstr "需要裝配"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "THE METALLIC ADDITION MAKES THE ORGANIC COMPONENT ALMOST TOLERABLE"
+msgstr "添加金屬後使有機成分幾乎可以被容忍了"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "ASSEMBLY REQUIRED"
+msgstr "需要裝配"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_EGGRIDE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_EGGRIDE"
 msgid "I HAVE SUCCESSFULLY TRAPPED THE EGGS"
@@ -227153,6 +228633,11 @@ msgstr "平庸"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "ITS CONTENTS HAVE BEEN OBFUSCATED"
+msgstr "其內容已被模糊化"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "ITS CONTENTS HAVE BEEN OBFUSCATED"
 msgstr "其內容已被模糊化"
 
@@ -227250,6 +228735,71 @@ msgstr "需要入場費"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
 msgid "STAND BACK ORGANICS, AND WATCH A SUPERIOR ROBOTIC BRAIN AT WORK"
 msgstr "躲開點，有機生物，學學高級機器大腦是怎麼運轉的吧"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "ASSEMBLY REQUIRED"
+msgstr "需要裝配"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "ENTRANCE FEE REQUIRED"
+msgstr "需要入場費"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "THE BALL WOULD FALL FASTER IF THERE WERE NO OBSTACLES. WHY IS IT LIKE THIS"
+msgstr "如果沒有障礙物，球會落得更快。為什麼會這樣"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "ENTRANCE FEE REQUIRED"
+msgstr "需要入場費"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "ACTIVATE CONFETTI PROJECTILE"
+msgstr "啟動才智彈射物"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "ASSEMBLY REQUIRED"
+msgstr "需要裝配"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "ENTRANCE FEE REQUIRED"
+msgstr "需要入場費"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "VIOLENCE! THIS IS EXACTLY WHAT THESE FESTIVITIES WERE MISSING"
+msgstr "暴力！那些節日活動缺的就是這個"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "I DON'T CARE"
+msgstr "我不在乎"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "PREPARE FOR YOUR DESTRUCTION"
+msgstr "準備好迎接你的毀滅"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "ASSEMBLY REQUIRED"
+msgstr "需要裝配"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "ENTRANCE FEE REQUIRED"
+msgstr "需要入場費"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "I AM SO GOOD AT THIS"
+msgstr "我很擅長這個"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVAL_BALL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVAL_BALL"
@@ -234044,22 +235594,22 @@ msgstr "它很邪惡，像我一樣"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.DEFAULT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.DEFAULT"
 msgid "%s DIED IN A PATHETIC HEAP. IT SEEMS %s WAS THE CAUSE"
-msgstr "%s很可憐地成堆死亡。似乎%s是死亡的原因。"
+msgstr "%s死成了一堆可悲的骸骨。死因似乎是%s。"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.FEMALE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.FEMALE"
 msgid "%s DIED IN A PATHETIC HEAP. IT SEEMS %s WAS THE CAUSE"
-msgstr "%s很可憐地成堆死亡。似乎%s是死亡的原因。"
+msgstr "%s死成了一堆可悲的骸骨。死因似乎是%s。"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.MALE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.MALE"
 msgid "%s DIED IN A PATHETIC HEAP. IT SEEMS %s WAS THE CAUSE"
-msgstr "%s很可憐地成堆死亡。似乎%s是死亡的原因。"
+msgstr "%s死成了一堆可悲的骸骨。死因似乎是%s。"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.ROBOT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SKELETON_PLAYER.ROBOT"
 msgid "%s DIED IN A PATHETIC HEAP. IT SEEMS %s WAS THE CAUSE"
-msgstr "%s很可憐地成堆死亡。似乎%s是死亡的原因。"
+msgstr "%s死成了一堆可悲的骸骨。死因似乎是%s。"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SKETCH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SKETCH"
@@ -236944,7 +238494,7 @@ msgstr "不要蜷縮在我身邊取暖，肉體生物。我說真的"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_LIGHT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_LIGHT"
 msgid "I AM BRILLIANT"
-msgstr "我太棒了"
+msgstr "我光芒萬丈"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_MAXHEALTH"
@@ -244254,7 +245804,7 @@ msgstr "熊皮"
 #. STRINGS.NAMES.BEAST_BLUEPRINT
 msgctxt "STRINGS.NAMES.BEAST_BLUEPRINT"
 msgid "Lucky Beast Costume Pattern"
-msgstr "幸運野獸禮服款式"
+msgstr "幸運獸禮服款式"
 
 #. STRINGS.NAMES.BEDROLL_FURRY
 msgctxt "STRINGS.NAMES.BEDROLL_FURRY"
@@ -244866,6 +246416,16 @@ msgctxt "STRINGS.NAMES.CARNIVALCANNON_STREAMER_KIT"
 msgid "Streamer Cannon Kit"
 msgstr "彩帶大炮套裝"
 
+#. STRINGS.NAMES.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_BANNER"
+msgid "Light Catcher"
+msgstr "光線捕捉器"
+
+#. STRINGS.NAMES.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_BANNER_KIT"
+msgid "Light Catcher Kit"
+msgstr "光線捕捉器套裝"
+
 #. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE1
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE1"
 msgid "Mini Ferris Wheel"
@@ -244896,6 +246456,16 @@ msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE3_KIT"
 msgid "Mini Pendulum Ride Kit"
 msgstr "迷你擺錘套裝"
 
+#. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE4
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE4"
+msgid "Mini Tower Drop"
+msgstr "小型跳樓機"
+
+#. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE4_KIT
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE4_KIT"
+msgid "Mini Tower Drop Kit"
+msgstr "小型跳樓機套裝"
+
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_COMMON
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_COMMON"
 msgid "Common Cawnival Statuette"
@@ -244903,8 +246473,13 @@ msgstr "普通鴉年華小雕像"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT"
-msgid "Mystery Box"
-msgstr "神秘盒子"
+msgid "Green Mystery Box"
+msgstr "綠色神秘盒子"
+
+#. STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON2"
+msgid "Gold Mystery Box"
+msgstr "金色神秘盒子"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_RARE
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_RARE"
@@ -245000,6 +246575,56 @@ msgstr "籃中蛋套裝"
 msgctxt "STRINGS.NAMES.CARNIVALGAME_MEMORY_STATION"
 msgid "Eggs in a Basket"
 msgstr "籃中蛋"
+
+#. STRINGS.NAMES.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.NAMES.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Birdhouse Ball Drop Kit"
+msgstr "鳥房落球套裝"
+
+#. STRINGS.NAMES.CARNIVALGAME_PUCKDROP_STATION
+msgctxt "STRINGS.NAMES.CARNIVALGAME_PUCKDROP_STATION"
+msgid "Birdhouse Ball Drop"
+msgstr "鳥房落球"
+
+#. STRINGS.NAMES.CARNIVALGAME_SHOOTING_BUTTON
+msgctxt "STRINGS.NAMES.CARNIVALGAME_SHOOTING_BUTTON"
+msgid "Button"
+msgstr "按鈕"
+
+#. STRINGS.NAMES.CARNIVALGAME_SHOOTING_BUTTON_OFF
+msgctxt "STRINGS.NAMES.CARNIVALGAME_SHOOTING_BUTTON_OFF"
+msgid "Nest Defender"
+msgstr "保衛鳥巢"
+
+#. STRINGS.NAMES.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.NAMES.CARNIVALGAME_SHOOTING_KIT"
+msgid "Nest Defender Kit"
+msgstr "保衛鳥巢套裝"
+
+#. STRINGS.NAMES.CARNIVALGAME_SHOOTING_STATION
+msgctxt "STRINGS.NAMES.CARNIVALGAME_SHOOTING_STATION"
+msgid "Nest Defender"
+msgstr "保衛鳥巢"
+
+#. STRINGS.NAMES.CARNIVALGAME_SHOOTING_TARGET
+msgctxt "STRINGS.NAMES.CARNIVALGAME_SHOOTING_TARGET"
+msgid "Target"
+msgstr "射擊靶"
+
+#. STRINGS.NAMES.CARNIVALGAME_SHOOTING_TARGET_OFF
+msgctxt "STRINGS.NAMES.CARNIVALGAME_SHOOTING_TARGET_OFF"
+msgid "Trapdoor"
+msgstr "活板門"
+
+#. STRINGS.NAMES.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.NAMES.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Cuckoo Spinwheel Kit"
+msgstr "布穀鳥轉盤套裝"
+
+#. STRINGS.NAMES.CARNIVALGAME_WHEELSPIN_STATION
+msgctxt "STRINGS.NAMES.CARNIVALGAME_WHEELSPIN_STATION"
+msgid "Cuckoo Spinwheel"
+msgstr "布穀鳥轉盤"
 
 #. STRINGS.NAMES.CARNIVAL_BALL
 msgctxt "STRINGS.NAMES.CARNIVAL_BALL"
@@ -245669,7 +247294,7 @@ msgstr "堆肥桶"
 #. STRINGS.NAMES.COMPOSTWRAP
 msgctxt "STRINGS.NAMES.COMPOSTWRAP"
 msgid "Compost Wrap"
-msgstr "肥料包"
+msgstr "堆肥包"
 
 #. STRINGS.NAMES.COOKBOOK
 msgctxt "STRINGS.NAMES.COOKBOOK"
@@ -245684,7 +247309,7 @@ msgstr "烤曼德拉草"
 #. STRINGS.NAMES.COOKEDMEAT
 msgctxt "STRINGS.NAMES.COOKEDMEAT"
 msgid "Cooked Meat"
-msgstr "烤大肉"
+msgstr "烤肉"
 
 #. STRINGS.NAMES.COOKEDMONSTERMEAT
 msgctxt "STRINGS.NAMES.COOKEDMONSTERMEAT"
@@ -247039,7 +248664,7 @@ msgstr "綠蘑菇"
 #. STRINGS.NAMES.GREEN_MUSHROOMHAT
 msgctxt "STRINGS.NAMES.GREEN_MUSHROOMHAT"
 msgid "Green Funcap"
-msgstr "綠色蘑菇帽"
+msgstr "綠蘑菇帽"
 
 #. STRINGS.NAMES.GROTTO_POOL_BIG
 msgctxt "STRINGS.NAMES.GROTTO_POOL_BIG"
@@ -251119,7 +252744,7 @@ msgstr "紅蘑菇"
 #. STRINGS.NAMES.RED_MUSHROOMHAT
 msgctxt "STRINGS.NAMES.RED_MUSHROOMHAT"
 msgid "Red Funcap"
-msgstr "紅色蘑菇帽"
+msgstr "紅蘑菇帽"
 
 #. STRINGS.NAMES.REEDS
 msgctxt "STRINGS.NAMES.REEDS"
@@ -252864,7 +254489,7 @@ msgstr "棋盤地板"
 #. STRINGS.NAMES.TURF_DECIDUOUS
 msgctxt "STRINGS.NAMES.TURF_DECIDUOUS"
 msgid "Deciduous Turf"
-msgstr "樺樹地皮"
+msgstr "落葉林地皮"
 
 #. STRINGS.NAMES.TURF_DESERTDIRT
 msgctxt "STRINGS.NAMES.TURF_DESERTDIRT"
@@ -253844,7 +255469,7 @@ msgstr "WX-78"
 #. STRINGS.NAMES.WX78MODULE_BEE
 msgctxt "STRINGS.NAMES.WX78MODULE_BEE"
 msgid "Beanbooster Circuit"
-msgstr "豆豆電路"
+msgstr "豆增壓電路"
 
 #. STRINGS.NAMES.WX78MODULE_COLD
 msgctxt "STRINGS.NAMES.WX78MODULE_COLD"
@@ -253964,7 +255589,7 @@ msgstr "皮弗婁牛神龕"
 #. STRINGS.NAMES.YOTB_BEEFALO_DOLL_BEAST
 msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_BEAST"
 msgid "Lucky Beast Beefalo Doll"
-msgstr "幸運野獸弗婁牛玩偶"
+msgstr "幸運獸弗婁牛玩偶"
 
 #. STRINGS.NAMES.YOTB_BEEFALO_DOLL_DOLL
 msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_DOLL"
@@ -256129,7 +257754,7 @@ msgstr "用歌聲慰藉你的心靈。"
 #. STRINGS.RECIPE_DESC.BEARGERVEST
 msgctxt "STRINGS.RECIPE_DESC.BEARGERVEST"
 msgid "A bear of a vest."
-msgstr "熊皮背心。"
+msgstr "像熊一樣的背心。"
 
 #. STRINGS.RECIPE_DESC.BEARGER_FUR
 msgctxt "STRINGS.RECIPE_DESC.BEARGER_FUR"
@@ -256304,7 +257929,7 @@ msgstr "抓蟲子用的。"
 #. STRINGS.RECIPE_DESC.BUNDLEWRAP
 msgctxt "STRINGS.RECIPE_DESC.BUNDLEWRAP"
 msgid "Part and parcel to bundling your stuff."
-msgstr "打包你的東西的部分和袋子。"
+msgstr "打包東西的必要工具。"
 
 #. STRINGS.RECIPE_DESC.BUSHHAT
 msgctxt "STRINGS.RECIPE_DESC.BUSHHAT"
@@ -256346,6 +257971,11 @@ msgctxt "STRINGS.RECIPE_DESC.CARNIVALCANNON_STREAMER_KIT"
 msgid "Create an explosion... of fun!"
 msgstr "創造爆炸性的……樂趣！"
 
+#. STRINGS.RECIPE_DESC.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_BANNER_KIT"
+msgid "Take a shine to some bauble-strung branches."
+msgstr "枝頭掛著閃光的小飾品。"
+
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE1_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE1_KIT"
 msgid "A cracking addition to your decor."
@@ -256361,10 +257991,20 @@ msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE3_KIT"
 msgid "Get in the swing of summer fun!"
 msgstr "盡情享受夏天的樂趣吧！"
 
+#. STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE4_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE4_KIT"
+msgid "The new height of Cawnival decor."
+msgstr "鴉年華裝扮的新高。"
+
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT"
-msgid "What could be inside?"
-msgstr "裡面會是什麼？"
+msgid "What could be inside this mysterious green box?"
+msgstr "這個神秘的綠盒子裡會有什麼呢？"
+
+#. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON2"
+msgid "What could be inside this mysterious gold box?"
+msgstr "這個神秘的金盒子裡會有什麼呢？"
 
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_LAMP_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_LAMP_KIT"
@@ -256395,6 +258035,21 @@ msgstr "追回失控的蛋。"
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_MEMORY_KIT"
 msgid "Count your eggs before they hatch."
 msgstr "在你的蛋孵化前數清楚數量。"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_PUCKDROP_KIT"
+msgid "Bounce the ball safely to its nest."
+msgstr "把球安全地彈到它的窩裡。"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_SHOOTING_KIT"
+msgid "Keep pests from bugging the nest."
+msgstr "防止害蟲進入巢穴。"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "Spinning and winning in equal measure."
+msgstr "旋轉然後勝利。"
 
 #. STRINGS.RECIPE_DESC.CARNIVAL_BALL
 msgctxt "STRINGS.RECIPE_DESC.CARNIVAL_BALL"
@@ -258369,7 +260024,7 @@ msgstr "精心製作成棋盤狀的大理石地磚。"
 #. STRINGS.RECIPE_DESC.TURF_DECIDUOUS
 msgctxt "STRINGS.RECIPE_DESC.TURF_DECIDUOUS"
 msgid "A chunk of deciduous forest floor."
-msgstr "一塊樺樹森林地皮。"
+msgstr "一塊落葉林地皮。"
 
 #. STRINGS.RECIPE_DESC.TURF_DESERTDIRT
 msgctxt "STRINGS.RECIPE_DESC.TURF_DESERTDIRT"
@@ -258754,7 +260409,7 @@ msgstr "讓你的機械身軀更加健壯。"
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2"
 msgid "Make your robotic body much more robust."
-msgstr "讓你的機械身軀無比健壯"
+msgstr "讓你的機械身軀無比健壯。"
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER"
@@ -258824,7 +260479,7 @@ msgstr "召喚一個小星星。"
 #. STRINGS.RECIPE_DESC.YOTB_BEEFALOSHRINE
 msgctxt "STRINGS.RECIPE_DESC.YOTB_BEEFALOSHRINE"
 msgid "Make offerings to the steadfast beefalo."
-msgstr "供奉堅毅的皮弗婁牛。"
+msgstr "供奉堅毅之皮弗婁牛。"
 
 #. STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_1
 msgctxt "STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_1"
@@ -259840,6 +261495,16 @@ msgstr "時間和呵護能修補每一顆心。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye"
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
 msgstr "此重生護符由戰鬥大師普格納的熔爐鍛造。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.anchor_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.anchor_nautical"
+msgid "After many long years adrift, this anchor has been slowly reclaimed by the sea."
+msgstr "在經歷了漫長的水上時光後，這只錨已經慢慢地被大海回收了。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.anchor_nautical_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.anchor_nautical_item"
+msgid "After many long years adrift, this anchor has been slowly reclaimed by the sea."
+msgstr "在經歷了漫長的水上時光後，這只錨已經慢慢地被大海回收了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.armor_dragonfly_fangedcollar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_dragonfly_fangedcollar"
@@ -262426,6 +264091,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_spider_white"
 msgid "It's nice not to be the one getting eaten for a change."
 msgstr "不用被吃掉了，真好。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.bundle_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_cawnival"
+msgid "Keep the memories of the Cawnival fresh in your mind, even after it wraps up."
+msgstr "讓記憶中長存鴉年華的美好，哪怕它已遠去。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.bundle_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_gothic"
 msgid "Somehow, even the bow can't make it cheery."
@@ -262436,6 +264106,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_vintage"
 msgid "This floral parchment wrap keeps goods as fresh as a daisy."
 msgstr "這種印花包裝紙能讓被包裹的東西像雛菊一樣新鮮。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_cawnival"
+msgid "Keep the memories of the Cawnival fresh in your mind, even after it wraps up."
+msgstr "讓記憶中長存鴉年華的美好，哪怕它已遠去。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_gothic"
 msgid "Somehow, even the bow can't make it cheery."
@@ -262445,6 +264120,11 @@ msgstr "不知何故，即使是蝴蝶結也不能使它變得歡快。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_vintage"
 msgid "This floral parchment wrap keeps goods as fresh as a daisy."
 msgstr "這種印花包裝紙能讓被包裹的東西像雛菊一樣新鮮。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.bushhat_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bushhat_cawnival"
+msgid "Sparkling shrubbery might not have been the best choice of camouflage."
+msgstr "閃閃發光的灌木叢可能不是最好的偽裝選擇。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.campfire_cabin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.campfire_cabin"
@@ -264796,6 +266476,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.heatrock_fire"
 msgid "A vibrant flame extracted in crystallized form from a passionate soul."
 msgstr "從激情四射的靈魂中提取的烈焰結晶。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hivehat_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hivehat_cawnival"
+msgid "Dress like Cawnival royalty."
+msgstr "打扮得像鴉年華的皇室一樣。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hutch_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hutch_fantasy"
 msgid "The most charming amphibian you'll ever meet."
@@ -265713,7 +267398,7 @@ msgstr "震耳欲聾的咆哮回蕩在空中，沒完沒了似的。\n 誰這麼
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_carnival1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_carnival1"
-msgid "Every year, crows from far and wide flock to the Midsumer Cawnival to take part in its famed attractions."
+msgid "Every year, crows from far and wide flock to the Midsummer Cawnival to take part in its famed attractions."
 msgstr "每年，來自四面八方的烏鴉都會蜂擁而至，參加盛夏鴉年華舉世聞名的各種活動。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_carnival2
@@ -266291,6 +267976,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.multitool_axe_pickaxe_pickaxeaxe"
 msgid "How much could a pickaxe axe?"
 msgstr "一把鶴嘴鋤能刨多少東西？"
 
+#. STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_cawnival"
+msgid "These mushrooms have a warm glow that reminds you of summer."
+msgstr "這些蘑菇散發出溫暖的光芒，讓人聯想到夏天。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_lily
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_lily"
 msgid "If a suaver lamp was ever made out of a mushroom, the world has yet to see it."
@@ -266465,6 +268155,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_boy_items"
 msgid "This Homespun Chest contains the following skin items: Homespun Garden Hoe, Homespun Watering Can, and Homespun Seed Pouch."
 msgstr "這個家紡箱子包含下列的皮膚物品：家紡園藝鋤、家紡澆水壺和家紡種子袋。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items"
+msgid "This Midsummer Cawnival Chest contains the following skin items: Cawnival Wrapping, Cawnival Shrub Hat, Cawnival Crown, Cawnival Lamp, Midsummer Frest, Cawnival Siesta Spot, and Cawnival Tammie."
+msgstr "這個盛夏鴉年華箱子包含下列皮膚物品：鴉年華包裝紙、鴉年華灌木叢帽、鴉年華王冠、鴉年華燈、盛夏背心、鴉年華遮陽棚和鴉年華貝雷帽。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda"
@@ -267976,6 +269671,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue"
 msgid "Equip this item to change your character's background portrait."
 msgstr "裝備此物品以更改你的角色背景畫像。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_anchornautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_anchornautical"
+msgid "Equip this item to change your character's background portrait."
+msgstr "裝備此物品以更改你的角色背景畫像。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_arrowsignpostcircus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_arrowsignpostcircus"
 msgid "Equip this item to change your character's background portrait."
@@ -268545,6 +270245,11 @@ msgstr "跟地裡那些沒用的土豆有點關係。別再像個蠢蛋一樣用
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
 msgstr "將你的頭像設為阿比蓋爾之花。\n\n阿比蓋爾之花是溫蒂那去世的孿生姐妹的唯一紀念品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_anchor_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_anchor_nautical"
+msgid "Set your profile icon to a Rusty Anchor."
+msgstr "將你的頭像設為一隻生銹船錨。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus"
@@ -269701,6 +271406,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.razor_straight"
 msgid "Get ready for another close shave."
 msgstr "感受剃刀貼臉後的鋒利吧。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.reflectivevest_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reflectivevest_cawnival"
+msgid "Stay cool and well-dressed in your Cawnival best."
+msgstr "穿上鴉年華的盛裝，保持清涼。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_alchemytable
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_alchemytable"
 msgid "Everything a potion maker needs."
@@ -269719,7 +271429,7 @@ msgstr "適合憂鬱煉金術士的惆悵風格。"
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod"
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
-msgstr "這個列印艙使用太空時代的噴塗技術，進行非太空時代的煉金術。真時髦！"
+msgstr "這個打印艙使用太空時代的打印技術，進行非太空時代的煉金術。真時髦！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient"
@@ -269951,6 +271661,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_victorian"
 msgid "A lovely shovel with decorative silver engravings."
 msgstr "一把帶有銀色雕飾的可愛的鏟子。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.siestahut_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.siestahut_cawnival"
+msgid "Between all those Cawnival games, a quick siesta might be just the ticket."
+msgstr "在鴉年華的遊戲期間，偶爾小憩片刻也是極好的。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.skeletonhat_shadowhelmet
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.skeletonhat_shadowhelmet"
 msgid "Thick shadows for thick skulls."
@@ -270046,15 +271761,15 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.starstaff_portal"
 msgid "Call on the power of otherworldly stars."
 msgstr "召喚異世界星星的力量。"
 
-#. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_item_nautical
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_item_nautical"
-msgid "n/a"
-msgstr "n/a"
-
 #. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_nautical"
 msgid "It never hurts to keep an extra eye out on the ocean."
 msgstr "多一隻眼盯著大海總不會錯。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_nautical_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_nautical_item"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.strawhat_bonnet
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.strawhat_bonnet"
@@ -270395,6 +272110,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_blue"
 msgid "Trade in your old moth-eaten Tam o' Shanter for a new moth-eaten Tam o' Shanter!"
 msgstr "拿老的被飛蛾咬破的貝雷帽來換一個新的被飛蛾咬破的貝雷帽吧！"
+
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_cawnival"
+msgid "This bonny cap will have you crowing with delight."
+msgstr "這頂帽子能帶給你頂呱呱的快樂。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.walter_bee
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_bee"
@@ -272306,6 +274026,16 @@ msgctxt "STRINGS.SKIN_NAMES.amulet_red_occulteye"
 msgid "Clairvoyant Life Amulet"
 msgstr "洞悉生命護符"
 
+#. STRINGS.SKIN_NAMES.anchor_nautical
+msgctxt "STRINGS.SKIN_NAMES.anchor_nautical"
+msgid "Rusty Anchor"
+msgstr "生銹船錨"
+
+#. STRINGS.SKIN_NAMES.anchor_nautical_item
+msgctxt "STRINGS.SKIN_NAMES.anchor_nautical_item"
+msgid "Rusty Anchor"
+msgstr "生銹船錨"
+
 #. STRINGS.SKIN_NAMES.armor_dragonfly_fangedcollar
 msgctxt "STRINGS.SKIN_NAMES.armor_dragonfly_fangedcollar"
 msgid "Jagged Dragonfly Armor"
@@ -272464,7 +274194,7 @@ msgstr "蝙蝠背包"
 #. STRINGS.SKIN_NAMES.backpack_beefalo
 msgctxt "STRINGS.SKIN_NAMES.backpack_beefalo"
 msgid "Beefalo Carryall"
-msgstr "皮弗婁牛旅行包"
+msgstr "皮弗婁旅行包"
 
 #. STRINGS.SKIN_NAMES.backpack_buckle_grey_pewter
 msgctxt "STRINGS.SKIN_NAMES.backpack_buckle_grey_pewter"
@@ -274891,6 +276621,11 @@ msgctxt "STRINGS.SKIN_NAMES.bugnet_spider_white"
 msgid "Cavernous Spidernet"
 msgstr "巨穴蛛網"
 
+#. STRINGS.SKIN_NAMES.bundle_cawnival
+msgctxt "STRINGS.SKIN_NAMES.bundle_cawnival"
+msgid "Cawnival Wrapping"
+msgstr "鴉年華包裝紙"
+
 #. STRINGS.SKIN_NAMES.bundle_gothic
 msgctxt "STRINGS.SKIN_NAMES.bundle_gothic"
 msgid "Gloomy Wrapping"
@@ -274901,6 +276636,11 @@ msgctxt "STRINGS.SKIN_NAMES.bundle_vintage"
 msgid "Parchment Paper"
 msgstr "包裝紙"
 
+#. STRINGS.SKIN_NAMES.bundlewrap_cawnival
+msgctxt "STRINGS.SKIN_NAMES.bundlewrap_cawnival"
+msgid "Cawnival Wrapping"
+msgstr "鴉年華包裝紙"
+
 #. STRINGS.SKIN_NAMES.bundlewrap_gothic
 msgctxt "STRINGS.SKIN_NAMES.bundlewrap_gothic"
 msgid "Gloomy Wrapping"
@@ -274910,6 +276650,11 @@ msgstr "憂鬱包裝紙"
 msgctxt "STRINGS.SKIN_NAMES.bundlewrap_vintage"
 msgid "Parchment Paper"
 msgstr "包裝紙"
+
+#. STRINGS.SKIN_NAMES.bushhat_cawnival
+msgctxt "STRINGS.SKIN_NAMES.bushhat_cawnival"
+msgid "Cawnival Shrub Hat"
+msgstr "鴉年華灌木叢帽"
 
 #. STRINGS.SKIN_NAMES.campfire_cabin
 msgctxt "STRINGS.SKIN_NAMES.campfire_cabin"
@@ -277261,6 +279006,11 @@ msgctxt "STRINGS.SKIN_NAMES.heatrock_fire"
 msgid "Metamorphosed Flame"
 msgstr "變形火焰"
 
+#. STRINGS.SKIN_NAMES.hivehat_cawnival
+msgctxt "STRINGS.SKIN_NAMES.hivehat_cawnival"
+msgid "Cawnival Crown"
+msgstr "鴉年華王冠"
+
 #. STRINGS.SKIN_NAMES.hutch_fantasy
 msgctxt "STRINGS.SKIN_NAMES.hutch_fantasy"
 msgid "Frog Prince Hutch"
@@ -278756,6 +280506,11 @@ msgctxt "STRINGS.SKIN_NAMES.multitool_axe_pickaxe_pickaxeaxe"
 msgid "Pickaxe Axe"
 msgstr "鎬斧"
 
+#. STRINGS.SKIN_NAMES.mushroom_light2_cawnival
+msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_cawnival"
+msgid "Cawnival Lamp"
+msgstr "鴉年華燈"
+
 #. STRINGS.SKIN_NAMES.mushroom_light2_lily
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_lily"
 msgid "Lilycap Light"
@@ -278930,6 +280685,11 @@ msgstr "華麗懶人魔杖"
 msgctxt "STRINGS.SKIN_NAMES.pack_boy_items"
 msgid "Homespun Chest"
 msgstr "家紡箱子"
+
+#. STRINGS.SKIN_NAMES.pack_cawnival_items
+msgctxt "STRINGS.SKIN_NAMES.pack_cawnival_items"
+msgid "Midsummer Cawnival Chest"
+msgstr "盛夏鴉年華箱子"
 
 #. STRINGS.SKIN_NAMES.pack_character_wanda
 msgctxt "STRINGS.SKIN_NAMES.pack_character_wanda"
@@ -280441,6 +282201,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue"
 msgid "Beast of Hunger Portrait"
 msgstr "饑餓之獸背景"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_anchornautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_anchornautical"
+msgid "Rusty Anchor Chain Portrait"
+msgstr "生銹船錨鎖鏈背景"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_arrowsignpostcircus
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_arrowsignpostcircus"
 msgid "Spectacular Stationary Wayfinder Portrait"
@@ -280519,7 +282284,7 @@ msgstr "秋季樺栗樹背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_dragonflychestkraken
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_dragonflychestkraken"
 msgid "Leviathan Portrait"
-msgstr "利維坦畫像"
+msgstr "利維坦背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_dragonflyfurnacecrystal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_dragonflyfurnacecrystal"
@@ -280569,7 +282334,7 @@ msgstr "神奇雪球雜耍機背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_fishboxnautical"
 msgid "Silver Tuna Tin Portrait"
-msgstr "銀金槍魚罐背景畫像"
+msgstr "銀金槍魚罐背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_flames
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_flames"
@@ -280704,7 +282469,7 @@ msgstr "魚人屋背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_mastnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mastnautical"
 msgid "Rockjaw Portrait"
-msgstr "岩石大白鯊畫像"
+msgstr "岩石大白鯊背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_mastupgradelampnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mastupgradelampnautical"
@@ -280759,7 +282524,7 @@ msgstr "漂亮鍋子背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_portal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_portal"
 msgid "Mossy Gateway Portrait"
-msgstr "苔蘚大門畫像"
+msgstr "苔蘚大門背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_pothanger
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_pothanger"
@@ -280789,7 +282554,7 @@ msgstr "純銀豐饒背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_rabbithouseyule
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_rabbithouseyule"
 msgid "Topsy-Turvy Treehouse Portrait"
-msgstr "倒掛樹屋背景畫像"
+msgstr "倒掛樹屋背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus"
@@ -280809,12 +282574,12 @@ msgstr "附魔水晶背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_researchlab3monster
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_researchlab3monster"
 msgid "Monstrous Horror Portrait"
-msgstr "恐怖怪獸畫像"
+msgstr "恐怖怪獸背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_researchlabgreen
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_researchlabgreen"
 msgid "Green Ooze Portrait"
-msgstr "綠色漏液背景畫像"
+msgstr "綠色漏液背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_rocks
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_rocks"
@@ -280829,7 +282594,7 @@ msgstr "絢麗之門背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_saltboxnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_saltboxnautical"
 msgid "Briny Deep Portrait"
-msgstr "深海畫像"
+msgstr "深海背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_saltboxshaker
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_saltboxshaker"
@@ -280869,7 +282634,7 @@ msgstr "狩獵之路背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_telebasecrystal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_telebasecrystal"
 msgid "Dark Magic Portrait"
-msgstr "黑魔法畫像"
+msgstr "黑魔法背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_telestaffcrystal
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_telestaffcrystal"
@@ -280899,7 +282664,7 @@ msgstr "神奇馴獸師帽背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_torchnautical
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_torchnautical"
 msgid "Conch Torch Portrait"
-msgstr "海螺火炬背景畫像"
+msgstr "海螺火炬背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus"
@@ -280914,7 +282679,7 @@ msgstr "水晶背景"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_wardrobeyule
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_wardrobeyule"
 msgid "Winter Wardrobe Portrait"
-msgstr "冬季衣櫃畫像"
+msgstr "冬季衣櫃背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winter"
@@ -281010,6 +282775,11 @@ msgstr "土豆杯"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
 msgstr "阿比蓋爾之花"
+
+#. STRINGS.SKIN_NAMES.profileflair_anchor_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_anchor_nautical"
+msgid "Rusty Anchor"
+msgstr "生銹船錨"
 
 #. STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
 msgctxt "STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus"
@@ -282166,6 +283936,11 @@ msgctxt "STRINGS.SKIN_NAMES.razor_straight"
 msgid "Straight Razor"
 msgstr "折疊式剃刀"
 
+#. STRINGS.SKIN_NAMES.reflectivevest_cawnival
+msgctxt "STRINGS.SKIN_NAMES.reflectivevest_cawnival"
+msgid "Midsummer Frest"
+msgstr "盛夏背心"
+
 #. STRINGS.SKIN_NAMES.researchlab2_alchemytable
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_alchemytable"
 msgid "Alchemy Table"
@@ -282416,6 +284191,11 @@ msgctxt "STRINGS.SKIN_NAMES.shovel_victorian"
 msgid "Fanciful Shovel"
 msgstr "華麗鏟子"
 
+#. STRINGS.SKIN_NAMES.siestahut_cawnival
+msgctxt "STRINGS.SKIN_NAMES.siestahut_cawnival"
+msgid "Cawnival Siesta Spot"
+msgstr "鴉年華遮陽棚"
+
 #. STRINGS.SKIN_NAMES.skeletonhat_shadowhelmet
 msgctxt "STRINGS.SKIN_NAMES.skeletonhat_shadowhelmet"
 msgid "Shadow Helmet"
@@ -282511,13 +284291,13 @@ msgctxt "STRINGS.SKIN_NAMES.starstaff_portal"
 msgid "Star Staff"
 msgstr "星星魔杖"
 
-#. STRINGS.SKIN_NAMES.steeringwheel_item_nautical
-msgctxt "STRINGS.SKIN_NAMES.steeringwheel_item_nautical"
+#. STRINGS.SKIN_NAMES.steeringwheel_nautical
+msgctxt "STRINGS.SKIN_NAMES.steeringwheel_nautical"
 msgid "Skittersquid Helm"
 msgstr "魷魚方向舵"
 
-#. STRINGS.SKIN_NAMES.steeringwheel_nautical
-msgctxt "STRINGS.SKIN_NAMES.steeringwheel_nautical"
+#. STRINGS.SKIN_NAMES.steeringwheel_nautical_item
+msgctxt "STRINGS.SKIN_NAMES.steeringwheel_nautical_item"
 msgid "Skittersquid Helm"
 msgstr "魷魚方向舵"
 
@@ -282860,6 +284640,11 @@ msgstr "維多利亞石牆"
 msgctxt "STRINGS.SKIN_NAMES.walrushat_blue"
 msgid "Seabreeze Tammie"
 msgstr "海風貝雷帽"
+
+#. STRINGS.SKIN_NAMES.walrushat_cawnival
+msgctxt "STRINGS.SKIN_NAMES.walrushat_cawnival"
+msgid "Cawnival Tammie"
+msgstr "鴉年華貝雷帽"
 
 #. STRINGS.SKIN_NAMES.walter_bee
 msgctxt "STRINGS.SKIN_NAMES.walter_bee"
@@ -286201,6 +287986,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CAVE"
 msgid "Abyssal Collection"
 msgstr "深淵系列"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CAWNIVAL
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CAWNIVAL"
+msgid "Cawnival Collection"
+msgstr "鴉年華系列"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CHEF
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CHEF"
 msgid "Head Chef Collection"
@@ -286511,6 +288301,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.AMULET_RED"
 msgid "Life Giving Amulet"
 msgstr "重生護符"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ANCHOR
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ANCHOR"
+msgid "Anchor"
+msgstr "錨"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMORGRASS"
 msgid "Grass Suit"
@@ -286610,6 +288405,11 @@ msgstr "捕蟲網"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUNDLE"
 msgid "Bundled Supplies"
 msgstr "捆綁物資"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUSHHAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUSHHAT"
+msgid "Bush Hat"
+msgstr "灌木叢帽"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.CAMPFIRE"
@@ -286786,6 +288586,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.HEATROCK"
 msgid "Thermal Stone"
 msgstr "暖石"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.HIVEHAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.HIVEHAT"
+msgid "Bee Queen Crown"
+msgstr "蜂王冠"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.HUTCH
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.HUTCH"
 msgid "Hutch"
@@ -286941,6 +288746,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAZOR"
 msgid "Razor"
 msgstr "剃刀"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.REFLECTIVEVEST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.REFLECTIVEVEST"
+msgid "Summer Frest"
+msgstr "清涼夏裝"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RESKIN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RESKIN"
 msgid "Clean Sweeper"
@@ -286995,6 +288805,11 @@ msgstr "種子袋"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SHOVEL"
 msgid "Shovel"
 msgstr "鏟子"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SIESTAHUT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SIESTAHUT"
+msgid "Siesta Lean-to"
+msgstr "遮陽篷"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.SKELETONHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.SKELETONHAT"
@@ -293079,12 +294894,12 @@ msgstr "攪拌"
 #. STRINGS.UI.CRAFTING.RECIPEACTION.ORPHANAGE
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.ORPHANAGE"
 msgid "Adopt"
-msgstr "採用"
+msgstr "領養"
 
 #. STRINGS.UI.CRAFTING.RECIPEACTION.PERDOFFERING
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.PERDOFFERING"
 msgid "Offer"
-msgstr "供品"
+msgstr "供奉"
 
 #. STRINGS.UI.CRAFTING.RECIPEACTION.SCULPTING
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.SCULPTING"
@@ -293124,12 +294939,12 @@ msgstr "攪拌"
 #. STRINGS.UI.CRAFTING.TABACTION.ORPHANAGE
 msgctxt "STRINGS.UI.CRAFTING.TABACTION.ORPHANAGE"
 msgid "Adopt"
-msgstr "採用"
+msgstr "領養"
 
 #. STRINGS.UI.CRAFTING.TABACTION.PERDOFFERING
 msgctxt "STRINGS.UI.CRAFTING.TABACTION.PERDOFFERING"
 msgid "Offer"
-msgstr "提供"
+msgstr "供奉"
 
 #. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE
 msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE"
@@ -293449,7 +295264,7 @@ msgstr "冬季盛宴烹飪"
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING"
 msgid "Offerings"
-msgstr "供品"
+msgstr "供奉"
 
 #. STRINGS.UI.CREDITS.ALTGAMES.NAMES.1
 msgctxt "STRINGS.UI.CREDITS.ALTGAMES.NAMES.1"
@@ -297729,7 +299544,7 @@ msgstr "“我發誓，我在外面砍柴的時候看到其中一棵樹在動…
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_WETNESS
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_WETNESS"
 msgid "\"The rain is proving to be a greater hindrance than I first anticipated. As if being soaked to the bone isn't dreadful enough, my tools keep slipping from my hands when I try to make use of them!\" -W"
-msgstr "“這張暴雨比我想的還要大。我渾身上下都淋成了落湯雞，手裡的工具也拿不牢，一下就滑落到了地上！” -W"
+msgstr "“這場暴雨比我想的還要大。我渾身上下都淋成了落湯雞，手裡的工具也拿不牢，一下就滑落到了地上！” -W"
 
 #. STRINGS.UI.LOBBYSCREEN.APPLY
 msgctxt "STRINGS.UI.LOBBYSCREEN.APPLY"
@@ -300249,7 +302064,7 @@ msgstr "這個伺服器僅允許在相同局域網的玩家連接。"
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_SLOT_RESERVATION"
 msgid "Attempt to join server failed because remaining player slots are reserved. Please try again once a slot frees up."
-msgstr "嘗試加入伺服器失敗，因為其餘玩家存檔欄已被保留。當存檔欄空出來之後，請再次嘗試。"
+msgstr "嘗試加入伺服器失敗，因為剩餘玩家位置已被預留。\n當位置空出來之後，請再次嘗試。"
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
@@ -300574,7 +302389,7 @@ msgstr "伺服器無法啟動"
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_SLOT_RESERVATION"
 msgid "Slot Reserved"
-msgstr "保留存檔欄"
+msgstr "預留位置"
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT"
@@ -303054,7 +304869,7 @@ msgstr "優雅"
 #. STRINGS.UI.RARITY.Event
 msgctxt "STRINGS.UI.RARITY.Event"
 msgid "Event (Limited-Time Use)"
-msgstr "事件（限時使用）"
+msgstr "活動（限時使用）"
 
 #. STRINGS.UI.RARITY.HeirloomClassy
 msgctxt "STRINGS.UI.RARITY.HeirloomClassy"
@@ -304674,7 +306489,7 @@ msgstr "單獨"
 #. STRINGS.UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.NEWHOST_TYPE.TOGETHER"
 msgid "Together"
-msgstr "連線版"
+msgstr "多人"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.NO
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.NO"
