@@ -269085,12 +269085,12 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_carrat"
-msgid "This vegetable costume is a bold choice for a candy holiday."
+msgid "A fine carrat dressing, prepared by an esteemed chef."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_carratp
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_carratp"
-msgid "This vegetable costume is a bold choice for a candy holiday."
+msgid "A fine carrat dressing, prepared by an esteemed chef."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_chef
@@ -310598,6 +310598,41 @@ msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES"
 msgid "Yes"
 msgstr ""
 
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_BODY
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_BODY"
+msgid "Unfortunately you will need to login to continue viewing this panel, would you like to try to login again?"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_NO
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_NO"
+msgid "No"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_TITLE
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_TITLE"
+msgid "Authentication Required"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_YES
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOLOGIN_YES"
+msgid "Yes"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_BODY
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_BODY"
+msgid "Unfortunately you will need to login to continue viewing this panel, but you do not allow data collection which is required to login.\n\nData Collection settings can be modified in the Options menu."
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_NOCHOICE
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_NOCHOICE"
+msgid "I understand"
+msgstr ""
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_TITLE
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_TITLE"
+msgid "Permissions Required"
+msgstr ""
+
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY"
 msgid "Through the Gateway"
@@ -312878,9 +312913,19 @@ msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE"
 msgid "Are you sure you want to create an offline world? This is a limited mode where only players on your Local Area Network can join. Players will not be able to receive or use Collection Items in this world."
 msgstr ""
 
+#. STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE_CANSKIN
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYCREATE_CANSKIN"
+msgid "Are you sure you want to create an offline world? This is a limited mode where only players on your Local Area Network can join."
+msgstr ""
+
 #. STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME"
 msgid "You are resuming an offline world. Only users on your Local Area Network will be able to join this world. Players will not be able to receive or use Collection Items in this world."
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME_CANSKIN
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODEBODYRESUME_CANSKIN"
+msgid "You are resuming an offline world. Only users on your Local Area Network will be able to join this world."
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.OFFLINEMODETITLE
@@ -314033,6 +314078,11 @@ msgctxt "STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_BODY"
 msgid "You are now in offline mode.\nYour item collection is not available in offline mode.\nPlease check your connection and log in again."
 msgstr ""
 
+#. STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_BODY_CANSKIN
+msgctxt "STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_BODY_CANSKIN"
+msgid "You are now in offline mode.\nPlease check your connection and log in again."
+msgstr ""
+
 #. STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_TITLE
 msgctxt "STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_TITLE"
 msgid "Network Connection Lost"
@@ -314721,6 +314771,11 @@ msgstr ""
 #. STRINGS.UI.TRADESCREEN.NO_RECIPES
 msgctxt "STRINGS.UI.TRADESCREEN.NO_RECIPES"
 msgid "No offers"
+msgstr ""
+
+#. STRINGS.UI.TRADESCREEN.OFFLINE
+msgctxt "STRINGS.UI.TRADESCREEN.OFFLINE"
+msgid "The Trade Inn is not available in offline mode."
 msgstr ""
 
 #. STRINGS.UI.TRADESCREEN.OK
@@ -315466,6 +315521,11 @@ msgstr ""
 #. STRINGS.UI.TRADESCREEN.SOLD_OUT
 msgctxt "STRINGS.UI.TRADESCREEN.SOLD_OUT"
 msgid "Sold Out"
+msgstr ""
+
+#. STRINGS.UI.TRADESCREEN.SORRY
+msgctxt "STRINGS.UI.TRADESCREEN.SORRY"
+msgid "Sorry"
 msgstr ""
 
 #. STRINGS.UI.TRADESCREEN.SPECIALS
