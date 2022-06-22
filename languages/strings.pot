@@ -633,6 +633,11 @@ msgctxt "STRINGS.ACTIONS.EAT"
 msgid "Eat"
 msgstr ""
 
+#. STRINGS.ACTIONS.EMPTY_CONTAINER
+msgctxt "STRINGS.ACTIONS.EMPTY_CONTAINER"
+msgid "Empty"
+msgstr ""
+
 #. STRINGS.ACTIONS.ENTER_GYM
 msgctxt "STRINGS.ACTIONS.ENTER_GYM"
 msgid "Enter"
@@ -16055,6 +16060,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALKINGPLANK"
+msgid "Couldn't we have just made a lifeboat?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALKINGPLANK_GRASS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALKINGPLANK_GRASS"
 msgid "Couldn't we have just made a lifeboat?"
 msgstr ""
 
@@ -261118,6 +261128,11 @@ msgctxt "STRINGS.NAMES.WALKINGPLANK"
 msgid "Plank"
 msgstr ""
 
+#. STRINGS.NAMES.WALKINGPLANK_GRASS
+msgctxt "STRINGS.NAMES.WALKINGPLANK_GRASS"
+msgid "Plank"
+msgstr ""
+
 #. STRINGS.NAMES.WALL_HAY
 msgctxt "STRINGS.NAMES.WALL_HAY"
 msgid "Hay Wall"
@@ -274175,7 +274190,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_trailer"
-msgid "Wolfgang always prided himself on his strength, but after an embarrassing mishap reveals his might to be a touch exaggerated, he finds himself eager to accept any opportunity to get stronger... no matter how dubious the source."
+msgid "Wolfgang always prided himself on his strength, but after an embarrassing mishap revealed his might to be a touch exaggerated, he found himself eager to accept any opportunity to get stronger... no matter how dubious the source."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_woodie2_trailer
@@ -278790,7 +278805,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin"
-msgid "Fashionable accessory for those forced to wander this world on Halloween Night."
+msgid "A fashionable accessory for those forced to wander this world on Halloween Night."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant
@@ -279990,7 +280005,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wonkey_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wonkey_none"
-msgid "TODO"
+msgid "Just an ordinary monkey."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_combatant
