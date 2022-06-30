@@ -111650,7 +111650,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PIRATE_STASH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PIRATE_STASH"
-msgid "Oh... did I... find the treaure?"
+msgid "Oh... did I... find the treasure?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PITCHFORK
@@ -268948,6 +268948,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.birdcage_romantic"
 msgid "Perhaps the bird will enjoy its stay."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.boat_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_nautical"
+msgid "No one knows how long this boat has been lost at sea, or what became of its crew."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.boat_nautical_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_nautical_item"
+msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.boat_wagstaff
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_wagstaff"
+msgid "Why use wood when you can build a boat with sturdy, dependable metal?"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.boat_wagstaff_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_wagstaff_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_buttons_black_jet
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_buttons_black_jet"
 msgid "A shirt that buttons up the front, in a 'disilluminated black' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
@@ -269643,6 +269663,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_nature"
 msgid "Made by hand with woven natural fibers."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_warly_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_pirate"
+msgid "The outfit of a well seasoned pirate."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_rose"
 msgid "Richest embroidery adorns this rose-colored vest."
@@ -269691,6 +269716,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_nature"
 msgid "The folds of this fabric sway in the breeze, reminding the wearer of leaves on the wind."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_pirate"
+msgid "A buckled jacket befitting a high-ranking buccaneer."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_rose
@@ -270048,6 +270078,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_nature"
 msgid "These artist's tools are mostly for show. It's not easy to get ahold of paints in the wilderness."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wes_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_pirate"
+msgid "Some nautical accessories really help shell the look."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_rose"
 msgid "No outfit is too loud when you're a rosy-cheeked mime."
@@ -270206,6 +270241,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_magma"
 msgid "A frock with the power to appease the Fire Gods."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_willow_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_pirate"
+msgid "Keep your fiery flair, even out at sea."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_rose
@@ -270373,6 +270413,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_winona_nature"
 msgid "This delightful frock is cool and comfortable, perfect for an afternoon of gardening."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_winona_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_winona_pirate"
+msgid "You won't get fine threads like these on a sailor's pay."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_winona_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_winona_rose"
 msgid "Wild roses don't claim hillsides by being delicate."
@@ -270451,6 +270496,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_nature"
 msgid "A traditional garment embroidered with springtime flowers."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_pirate"
+msgid "After so much time at sea, this pirate's body is covered in mussels."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_rose
@@ -270551,6 +270601,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.body_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_nature"
 msgid "Tincap not included."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_woodie_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_pirate"
+msgid "Much rests on a shipwright's shoulders. They might as well be fashionable."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_woodie_rose
@@ -270683,6 +270738,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_original"
 msgid "Complete with cozy neck fur!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wortox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_pirate"
+msgid "An outfit for living fancy free out on the sea."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wortox_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_survivor"
 msgid "One doesn't survive in the forest this long without picking up a few tricks."
@@ -270701,6 +270761,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.body_wurt_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_formal"
 msgid "A shimmering gold fish belly."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wurt_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_pirate"
+msgid "This jewel-toned carapace seems awfully fancy for a common deck swab."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wurt_rose
@@ -271783,6 +271848,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature"
 msgid "Soft soles for a gentle soul."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_warly_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_pirate"
+msgid "For the pirate who treasures comfy footwear above all else."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_warly_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_victorian"
 msgid "They're shined so brightly you can see your own reflection in them."
@@ -271963,6 +272033,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_ice"
 msgid "A pair of stylish heels accented by a puff of rabbit fur."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_willow_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_pirate"
+msgid "Shoes so soft and quiet, no one will hear you scampering off with the gunpowder."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_willow_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_victorian"
 msgid "The cold of the cobblestones seeps right through them."
@@ -272026,6 +272101,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_nature"
 msgid "These whimsical hiking shoes will put a spring in anyone's step!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_pirate"
+msgid "A swash-buckle is like a regular buckle, but with more roguish flair."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_woodie_gladiator
@@ -272723,6 +272803,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_nature"
 msgid "These wrist coverings belong to someone who is at home in the woods."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_pirate"
+msgid "Wrist ruffles add dramatic flair to a pirate's ensemble."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_scarecrow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_scarecrow"
 msgid "Straw isn't quite as good as a fist for battle... unless your enemy has hay fever."
@@ -272908,6 +272993,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_magma"
 msgid "Impress a deity with these sacrificial bangles."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_pirate"
+msgid "A bracelet of \"borrowed\" gems."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_willow_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_victorian"
 msgid "These matchstick seller gloves do little to keep out the cold."
@@ -272976,6 +273066,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.hand_winona_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_nature"
 msgid "These once-thick gardening gloves are old and worn. They won't provide much protection anymore."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_pirate"
+msgid "A pair of hard working deck hands."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_winona_victorian
@@ -273051,6 +273146,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature"
 msgid "These wrist bands have been delicately woven by deft hands."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_pirate"
+msgid "A shipwright hand, and a shipleft hand to match."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_victorian
@@ -273133,6 +273233,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_original"
 msgid "The fuzzy paws of a sweet forest fawn."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_pirate"
+msgid "Glittery gold beads, procured through questionable means."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_survivor"
 msgid "Sharp goblin claws honed for wilderness survival."
@@ -273151,6 +273256,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_formal"
 msgid "Elegant and re-finned."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_pirate"
+msgid "These claws were made for pinching precious gems."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_rose
@@ -273813,6 +273923,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_ice"
 msgid "These fancy pants are ready for some winter festivities."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_warly_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_pirate"
+msgid "These pants have been weathered by many days at sea."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_rose"
 msgid "A handful of rose petals hides away in each pocket, awaiting a dramatic moment to be tossed in the air."
@@ -273836,6 +273951,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_nature"
 msgid "Too many snags on piercing thorns and grabbing branches have left this kilt in tatters."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_pirate"
+msgid "Nothing helps one get their sea legs like a fine pair of pirate boots."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_valkyrie
@@ -273886,6 +274006,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.legs_webber_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_webber_ice"
 msgid "A wintry pair of plaid trousers."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wes_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wes_pirate"
+msgid "Fancy boots tipped with ill-gotten gold."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wes_yule
@@ -273958,6 +274083,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_winona_nature"
 msgid "These old trousers have seen many an hour of hard labor."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_winona_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_winona_pirate"
+msgid "These sturdy boots won't be taking on water anytime soon."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_winona_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_winona_victorian"
 msgid "If the smithy floor is covered in hay, you never know when you might step on a nail."
@@ -274026,6 +274156,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_nature"
 msgid "These old trousers are as traditional as they are uncomfortable."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_pirate"
+msgid "It's great to have some ship carpentry experience under your belt. Pants aren't bad either."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_victorian
@@ -274098,6 +274233,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_original"
 msgid "Who needs pants when you have fur?"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_pirate"
+msgid "These trousers have seen more than their fair share of seafaring skirmishes."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_survivor"
 msgid "Live in the wilderness long enough and you'll have a few tails to tell, too."
@@ -274116,6 +274256,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_formal"
 msgid "Shine up your dancing scales."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_pirate"
+msgid "Most pirates have colorful tales, this one has a colorful tail."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_rose
@@ -274208,6 +274353,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_carnival2"
 msgid "A summer day spent with friends is caws for celebration!"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_carnival3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_carnival3"
+msgid "Every summer, you will find this jaunty fellow crowing about his famous Cawnival."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_catcoon
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_catcoon"
+msgid ""
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_charlie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_charlie"
 msgid "Don't let your guard down... there are eyes everywhere."
@@ -274288,6 +274443,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_grotto"
 msgid "You won't be able to run forever."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_grotto2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_grotto2"
+msgid "The Lunar Island wasn't the only consequence of the moon fragment's impact into the sea. It also revealed a part of the caves long since sealed away and forgotten. One might wonder if landing on that spot was really a coincidence..."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_lunacy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_lunacy"
 msgid "Open your mind to terrifying new possibilities."
@@ -274338,6 +274498,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_pigking"
 msgid "Legend has it the Pig King and his followers left their home long ago to rule freely in The Constant."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_pirates1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_pirates1"
+msgid "If you wish to sail the open sea, best beware the pirates of Moon Quay!"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_roadmap
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_roadmap"
 msgid "Could there be light at the end of the tunnel?"
@@ -274363,6 +274528,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_walter_trailer2"
 msgid "On a night like this, one doesn't want to travel alone."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wanda1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wanda1"
+msgid "Traveling back and forth through time gets disorienting after a while. Trying to remember the events of multiple timelines can make one appear a bit scatterbrained."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wanda_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wanda_trailer"
 msgid "Wanda has been trying to outrun her future for longer than she can remember - but after a split-second decision left her tangled up in the Constant's timestream, it might be her past that's finally catching up to her..."
@@ -274378,6 +274548,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_warly_trailer"
 msgid "Warly will never give up hope that he'll see the sweet smile of his dear Maman again."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged"
+msgid "These towering oceanic trees might offer a moment of respite from the dangers of the open sea, but nowhere in the Constant is truly safe for long."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged_trailer"
 msgid "Sailing beneath the comforting shade of the Drift Wood's Great Tree, it's all too easy to forget the danger that dangles above."
@@ -274386,6 +274561,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber"
 msgid "Webber could have easily seen his unique predicament as an affliction or a curse. Instead, he's chosen to view it as a second chance, and one that he fully intends not to waste."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_webber2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber2"
+msgid "These days, Webber doesn't have to go far to find a friend."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast
@@ -274426,6 +274606,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian"
 msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wes1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes1"
+msgid "Wes often gets carried away while performing his ballonomantic arts."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer
@@ -274528,6 +274713,21 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang"
 msgid "Whether in troupes or troops, Wolfgang has always thrived on the spirit of camaraderie. He considers the day he joined the survivors to be the moment his luck finally took a turn for the better."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang1"
+msgid "Lifting anything heavier than a potato will be an uphill battle for this... er, \"strongman\"..."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang2"
+msgid "This strongman is nearly at the top of his game."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang3"
+msgid "This is a strongman who has reached peak performance."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_feast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_feast"
 msgid "\"A mighty Winter's Feast makes Wolfgang even mightier!\""
@@ -274583,9 +274783,19 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wurt_trailer2"
 msgid "The cold wind howls. Trees stand tall and bare, their skeletal branches silhouetted against a broken moon."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wx1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx1"
+msgid "WX-78 takes the idea of self-improvement very literally."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma"
 msgid "WX-78 has a burning need to\nINCINERATE."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wx_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_trailer"
+msgid "After being confronted with a rush of memories from their past life, WX-78 quickly took matters into their own hands..."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_crabking
@@ -274606,6 +274816,16 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.mast_crabking_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking_item"
 msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_malbatross_wagstaff
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_malbatross_wagstaff"
+msgid "An impressive feat of engineering, cobbled together by an industrious mind."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_malbatross_wagstaff_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_malbatross_wagstaff_item"
+msgid "An impressive feat of engineering, cobbled together by an industrious mind."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_nautical
@@ -274763,6 +274983,26 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.missing"
 msgid "This item completely mystifies you."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.monkeyhatmedium_blue
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.monkeyhatmedium_blue"
+msgid "Let's see how pristine YOU look after a few weeks at sea."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.monkeyhatmedium_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.monkeyhatmedium_red"
+msgid "Judging by the smell, that \"gold\" stitched into the brim might actually be bits of banana peel..."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.monkeyhatsmall_beads
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.monkeyhatsmall_beads"
+msgid "You probably should have tried putting the necklace on before the bandana."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.monkeyhatsmall_belt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.monkeyhatsmall_belt"
+msgid "A look that says \"I ripped my pants, but didn't want to see them go to waste\"."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.moonstaff_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.moonstaff_crystal"
 msgid "A jeweled, opalescent staff, imbued with the moon's shimmering power."
@@ -274841,6 +275081,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_lava_4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_lava_4"
 msgid "This chest contains 4x\nForge Event curios."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.mysterybox_monkeyhat
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_monkeyhat"
+msgid "This chest contains 4x\nMoon Quay pirate hats."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
@@ -275578,6 +275823,56 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_oni_gift"
 msgid "Oxygen Not Included Gift"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all"
+msgid "This Swashbuckler Chest contains skins for: Wigfrid, Willow, Winona, Wortox, Warly, Wes, Wolfgang, Woodie, and Wurt."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_warly
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_warly"
+msgid "This Swashbuckler Chest contains Warly's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wathgrithr
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wathgrithr"
+msgid "This Swashbuckler Chest contains Wigfrid's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wes
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wes"
+msgid "This Swashbuckler Chest contains Wes' complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_willow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_willow"
+msgid "This Swashbuckler Chest contains Willow's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_winona
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_winona"
+msgid "This Swashbuckler Chest contains Winona's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wolfgang
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wolfgang"
+msgid "This Swashbuckler Chest contains Wolfgang's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_woodie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_woodie"
+msgid "This Swashbuckler Chest contains Woodie's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wortox
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wortox"
+msgid "This Swashbuckler Chest contains Wortox's complete set of Swashbuckler skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wurt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wurt"
+msgid "This Swashbuckler Chest contains Wurt's complete set of Swashbuckler skin items."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_retro_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_retro_items"
 msgid "This Experimental Chest contains the following belongings skin items: Electrified Lantern, Experimental Energy Siphon, and Experimentation Apparatus."
@@ -275746,6 +276041,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wx78"
 msgid "This Victorian Chest contains WX-78's complete set of Victorian skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wagstaffboat_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wagstaffboat_items"
+msgid "This Inventor's Excursion Chest contains the following belongings skin items: Scrap Metal Boat, Scrap Metal Mast, Hydraulic Steering System, and Emergency Exit."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_deluxe
@@ -276373,6 +276673,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_pelican_builder"
 msgid "n/a"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.perdling_pollyrogers
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_pollyrogers"
+msgid "This parrot pirate is prepared for plenty of pilfering!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.perdling_pollyrogers_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_pollyrogers_builder"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.perdling_puffin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.perdling_puffin"
 msgid "Travel the seas with your own puffin pal."
@@ -276515,6 +276825,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_boarlord
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_boarlord"
+msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_boatnautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_boatnautical"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
@@ -277101,6 +277416,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop"
 msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Nightmare Throne."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_boat_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_boat_nautical"
+msgid "Set your profile icon to an abandoned ship."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_catcoon
@@ -278573,6 +278893,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_nautical_item"
 msgid "n/a"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_wagstaff
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_wagstaff"
+msgid "One must stay the course, in the name of progress."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_wagstaff_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_wagstaff_item"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.strawhat_bonnet
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.strawhat_bonnet"
 msgid "Sometimes you want to feel like the heroine of a Jane Austen novel."
@@ -278826,6 +279156,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_spider"
 msgid "This itsy bitsy spider has no fear of rain."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.walkingplank_wagstaff
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_wagstaff"
+msgid "Safety codes require that employees have access to at least one exit at all times."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorian
@@ -279133,6 +279468,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_none"
 msgid "Warly's most comfortable outfit."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.warly_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_pirate"
+msgid "Warly felt that his usual ship's steward duties were getting a little bland."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_rose"
 msgid "A high court dinner demands guests look as rich as the meal in which they partake."
@@ -279146,6 +279486,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wateringcan_rustic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wateringcan_rustic"
 msgid "With a little care and attention, it could be good as new."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_banana
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_banana"
+msgid "Headwear so a-peeling, it's bananas."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
@@ -279206,6 +279551,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_none"
 msgid "Wigfrid's favorite costume."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_pirate"
+msgid "Wigfrid can command a ship almost as well as she commands the stage."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_rose
@@ -279698,6 +280048,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_none"
 msgid "Quintessential mime attire."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wes_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_pirate"
+msgid "Wes is a natural at finding treasure chests... unfortunately, they all seem to be invisible."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wes_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_rose"
 msgid "Wes always felt his rosy cheeks were his best feature."
@@ -279891,6 +280246,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.willow_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_none"
 msgid "A typical look for someone with fire on the brain."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.willow_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_pirate"
+msgid "It would be wise to keep Willow far away from the ship's gunpowder stores."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.willow_rose
@@ -280148,6 +280508,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.winona_none"
 msgid "The most sensible gear for a practical woman."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.winona_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winona_pirate"
+msgid "Winona's been known to run a tight ship."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.winona_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winona_rose"
 msgid "By any other name, she'd smell of engine grease."
@@ -280283,6 +280648,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wolfgang_none"
 msgid "A strongman in his purest essence."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wolfgang_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wolfgang_pirate"
+msgid "Wolfgang knows how to pull his own weight on a pirate ship."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wolfgang_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wolfgang_rose"
 msgid "This moustache doesn't tickle, it prickles."
@@ -280401,6 +280771,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_none"
 msgid "Time-tested lumberjack apparel."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.woodie_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_pirate"
+msgid "It'll be smooth sailing, as long as he doesn't sail under a full moon."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_rose
@@ -280578,6 +280953,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_original"
 msgid "Now this is a Wortox worth fawning over."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wortox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_pirate"
+msgid "One can get into a lot of mischief at sea."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_survivor"
 msgid "Wortox is playing the part of the grizzled goblin."
@@ -280601,6 +280981,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_none"
 msgid "Don't underestimate this little greenhorn!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wurt_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_pirate"
+msgid "When you're a thieving shrimp, the world's your oyster."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_rose
@@ -281483,6 +281868,26 @@ msgctxt "STRINGS.SKIN_NAMES.birdcage_romantic"
 msgid "Romantic Birdcage"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.boat_nautical
+msgctxt "STRINGS.SKIN_NAMES.boat_nautical"
+msgid "Abandoned Ship"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.boat_nautical_item
+msgctxt "STRINGS.SKIN_NAMES.boat_nautical_item"
+msgid "Abandoned Ship"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.boat_wagstaff
+msgctxt "STRINGS.SKIN_NAMES.boat_wagstaff"
+msgid "Scrap Metal Boat"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.boat_wagstaff_item
+msgctxt "STRINGS.SKIN_NAMES.boat_wagstaff_item"
+msgid "Scrap Metal Boat"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_buttons_black_jet
 msgctxt "STRINGS.SKIN_NAMES.body_buttons_black_jet"
 msgid "Buttoned Shirt"
@@ -282178,6 +282583,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_warly_nature"
 msgid "Druidic Tunic"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_warly_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_warly_pirate"
+msgid "Buccaneer's Blouse"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_warly_rose
 msgctxt "STRINGS.SKIN_NAMES.body_warly_rose"
 msgid "Sugar Rose Vest"
@@ -282226,6 +282636,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.body_wathgrithr_nature
 msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_nature"
 msgid "Grove Sentinel Tunic"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_pirate"
+msgid "Captain's Jacket"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wathgrithr_rose
@@ -282583,6 +282998,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wes_nature"
 msgid "Fauvist's Smock"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_wes_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_wes_pirate"
+msgid "Mariner's Frock Coat"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wes_rose
 msgctxt "STRINGS.SKIN_NAMES.body_wes_rose"
 msgid "Greenrose Ensemble"
@@ -282741,6 +283161,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.body_willow_magma
 msgctxt "STRINGS.SKIN_NAMES.body_willow_magma"
 msgid "Pyrestarter's Dress"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_willow_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_willow_pirate"
+msgid "Stowaway's Frock"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_willow_rose
@@ -282908,6 +283333,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_winona_nature"
 msgid "Gardening Apron"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_winona_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_winona_pirate"
+msgid "Helmswoman's Coat"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_winona_rose
 msgctxt "STRINGS.SKIN_NAMES.body_winona_rose"
 msgid "Coral Rose Slacks"
@@ -282986,6 +283416,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.body_wolfgang_nature
 msgctxt "STRINGS.SKIN_NAMES.body_wolfgang_nature"
 msgid "Springtime Lederhosen"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_wolfgang_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_wolfgang_pirate"
+msgid " Pirate's Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wolfgang_rose
@@ -283086,6 +283521,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.body_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.body_woodie_nature"
 msgid "Orchardist's Tunic"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_woodie_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_woodie_pirate"
+msgid "Shipwright's Mantle"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_woodie_rose
@@ -283218,6 +283658,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wortox_original"
 msgid "Forest Fawn Chest"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_wortox_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_wortox_pirate"
+msgid "Sea-Frayed Tunic"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wortox_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_survivor"
 msgid "Grimy Goblin Chest"
@@ -283236,6 +283681,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.body_wurt_formal
 msgctxt "STRINGS.SKIN_NAMES.body_wurt_formal"
 msgid "Fancy Ruffed Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_wurt_pirate
+msgctxt "STRINGS.SKIN_NAMES.body_wurt_pirate"
+msgid "Deck Swabster Shell"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wurt_rose
@@ -284318,6 +284768,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_warly_nature"
 msgid "Soft Leather Shoes"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.feet_warly_pirate
+msgctxt "STRINGS.SKIN_NAMES.feet_warly_pirate"
+msgid "Pirate Booties"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.feet_warly_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_warly_victorian"
 msgid "Naval Uniform Shoes"
@@ -284498,6 +284953,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_willow_ice"
 msgid "Coldfire Shoes"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.feet_willow_pirate
+msgctxt "STRINGS.SKIN_NAMES.feet_willow_pirate"
+msgid "Stowaway's Slippers"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.feet_willow_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_victorian"
 msgid "Street Peddler's Slippers"
@@ -284561,6 +285021,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.feet_wolfgang_nature
 msgctxt "STRINGS.SKIN_NAMES.feet_wolfgang_nature"
 msgid "Alpine Walking Shoes"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.feet_wolfgang_pirate
+msgctxt "STRINGS.SKIN_NAMES.feet_wolfgang_pirate"
+msgid "Swash-buckled Shoes"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_woodie_gladiator
@@ -285258,6 +285723,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wathgrithr_nature"
 msgid "Grove Sentinel Wristbands"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.hand_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_NAMES.hand_wathgrithr_pirate"
+msgid "Ruffled Cuffs"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.hand_wathgrithr_scarecrow
 msgctxt "STRINGS.SKIN_NAMES.hand_wathgrithr_scarecrow"
 msgid "Straw Tufts"
@@ -285443,6 +285913,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_willow_magma"
 msgid "Pyrestarter's Bracelets"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.hand_willow_pirate
+msgctxt "STRINGS.SKIN_NAMES.hand_willow_pirate"
+msgid "Gemstone Bracelets"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.hand_willow_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_willow_victorian"
 msgid "Street Peddler's Gloves"
@@ -285511,6 +285986,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.hand_winona_nature
 msgctxt "STRINGS.SKIN_NAMES.hand_winona_nature"
 msgid "Muddy Gardening Gloves"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.hand_winona_pirate
+msgctxt "STRINGS.SKIN_NAMES.hand_winona_pirate"
+msgid "Leather Hand Wraps"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.hand_winona_victorian
@@ -285586,6 +286066,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.hand_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.hand_woodie_nature"
 msgid "Orchardist's Bangles"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.hand_woodie_pirate
+msgctxt "STRINGS.SKIN_NAMES.hand_woodie_pirate"
+msgid "Shipwright's Cuffs"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.hand_woodie_victorian
@@ -285668,6 +286153,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wortox_original"
 msgid "Forest Fawn Paws"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.hand_wortox_pirate
+msgctxt "STRINGS.SKIN_NAMES.hand_wortox_pirate"
+msgid "Golden Bracelets"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.hand_wortox_survivor
 msgctxt "STRINGS.SKIN_NAMES.hand_wortox_survivor"
 msgid "Grimy Goblin Grapplers"
@@ -285686,6 +286176,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.hand_wurt_formal
 msgctxt "STRINGS.SKIN_NAMES.hand_wurt_formal"
 msgid "Dainty Fins"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.hand_wurt_pirate
+msgctxt "STRINGS.SKIN_NAMES.hand_wurt_pirate"
+msgid "Deck Swabster Claws"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.hand_wurt_rose
@@ -286348,6 +286843,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_warly_ice"
 msgid "Winter Soiree Pants"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.legs_warly_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_warly_pirate"
+msgid "Pirate Pantaloons"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.legs_warly_rose
 msgctxt "STRINGS.SKIN_NAMES.legs_warly_rose"
 msgid "Sugar Rose Legs"
@@ -286371,6 +286871,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.legs_wathgrithr_nature
 msgctxt "STRINGS.SKIN_NAMES.legs_wathgrithr_nature"
 msgid "Grove Sentinel Leggings"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.legs_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_wathgrithr_pirate"
+msgid "Captain's Buckled Boots"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_wathgrithr_valkyrie
@@ -286421,6 +286926,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.legs_webber_ice
 msgctxt "STRINGS.SKIN_NAMES.legs_webber_ice"
 msgid "Snowspider Slacks"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.legs_wes_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_wes_pirate"
+msgid "Mariner's Boots"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_wes_yule
@@ -286493,6 +287003,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_winona_nature"
 msgid "Gardening Trousers"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.legs_winona_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_winona_pirate"
+msgid "Helmswoman's Boots"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.legs_winona_victorian
 msgctxt "STRINGS.SKIN_NAMES.legs_winona_victorian"
 msgid "Blacksmith's Pants"
@@ -286561,6 +287076,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.legs_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.legs_woodie_nature"
 msgid "Orchardist's Pants"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.legs_woodie_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_woodie_pirate"
+msgid "Shipwright's Trousers"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_woodie_victorian
@@ -286633,6 +287153,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wortox_original"
 msgid "Forest Fawn Haunches"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.legs_wortox_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_wortox_pirate"
+msgid "Sea-Frayed Pants"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.legs_wortox_survivor
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_survivor"
 msgid "Grimy Goblin Hoofsies"
@@ -286651,6 +287176,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.legs_wurt_formal
 msgctxt "STRINGS.SKIN_NAMES.legs_wurt_formal"
 msgid "Fancy Finned Feet"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.legs_wurt_pirate
+msgctxt "STRINGS.SKIN_NAMES.legs_wurt_pirate"
+msgid "Deck Swabster Tail"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_wurt_rose
@@ -286743,6 +287273,16 @@ msgctxt "STRINGS.SKIN_NAMES.loading_carnival2"
 msgid "Day at the Cawnival"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_carnival3
+msgctxt "STRINGS.SKIN_NAMES.loading_carnival3"
+msgid "Goodfeather's Games"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_catcoon
+msgctxt "STRINGS.SKIN_NAMES.loading_catcoon"
+msgid "Year of the Catcoon"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_charlie
 msgctxt "STRINGS.SKIN_NAMES.loading_charlie"
 msgid "Nightfall"
@@ -286823,6 +287363,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_grotto"
 msgid "Narrow Escape"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_grotto2
+msgctxt "STRINGS.SKIN_NAMES.loading_grotto2"
+msgid "Lunar Grotto Discovery"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_lunacy
 msgctxt "STRINGS.SKIN_NAMES.loading_lunacy"
 msgid "Enlight the Darkness"
@@ -286873,6 +287418,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_pigking"
 msgid "Pig King"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_pirates1
+msgctxt "STRINGS.SKIN_NAMES.loading_pirates1"
+msgid "Pirate Raid"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_roadmap
 msgctxt "STRINGS.SKIN_NAMES.loading_roadmap"
 msgid "What Lies Ahead"
@@ -286898,6 +287448,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_walter_trailer2"
 msgid "A Cold Moonlit Night"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_wanda1
+msgctxt "STRINGS.SKIN_NAMES.loading_wanda1"
+msgid "The Timekeeper"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wanda_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_wanda_trailer"
 msgid "Long Shadows"
@@ -286913,6 +287468,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_warly_trailer"
 msgid "Memories of Home"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_waterlogged
+msgctxt "STRINGS.SKIN_NAMES.loading_waterlogged"
+msgid "Safe Arbor"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_waterlogged_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_waterlogged_trailer"
 msgid "Waterlogged"
@@ -286921,6 +287481,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.loading_webber
 msgctxt "STRINGS.SKIN_NAMES.loading_webber"
 msgid "Webber"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_webber2
+msgctxt "STRINGS.SKIN_NAMES.loading_webber2"
+msgid "Never Alone"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_webber_feast
@@ -286961,6 +287526,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.loading_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.loading_wendy_victorian"
 msgid "Mourning Weeds Wendy"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wes1
+msgctxt "STRINGS.SKIN_NAMES.loading_wes1"
+msgid "Ballonomancy"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_wes_trailer
@@ -287063,6 +287633,21 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang"
 msgid "Wolfgang"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_wolfgang1
+msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang1"
+msgid "Wimpy Wolfgang"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wolfgang2
+msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang2"
+msgid "Mighty Wolfgang"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wolfgang3
+msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang3"
+msgid "Mightiest Wolfgang"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wolfgang_feast
 msgctxt "STRINGS.SKIN_NAMES.loading_wolfgang_feast"
 msgid "Feasting Wolfgang"
@@ -287118,9 +287703,19 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wurt_trailer2"
 msgid "The Monster Marsh"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_wx1
+msgctxt "STRINGS.SKIN_NAMES.loading_wx1"
+msgid "Repairs"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_wx_magma
 msgctxt "STRINGS.SKIN_NAMES.loading_wx_magma"
 msgid "The Magmatic Automaton"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_wx_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wx_trailer"
+msgid "Disconnected"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.mast_crabking
@@ -287141,6 +287736,16 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.mast_crabking_item
 msgctxt "STRINGS.SKIN_NAMES.mast_crabking_item"
 msgid "Crab King Sail"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mast_malbatross_wagstaff
+msgctxt "STRINGS.SKIN_NAMES.mast_malbatross_wagstaff"
+msgid "Scrap Metal Mast"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mast_malbatross_wagstaff_item
+msgctxt "STRINGS.SKIN_NAMES.mast_malbatross_wagstaff_item"
+msgid "Scrap Metal Mast"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.mast_nautical
@@ -287298,6 +287903,26 @@ msgctxt "STRINGS.SKIN_NAMES.missing"
 msgid "Thingamabob"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.monkeyhatmedium_blue
+msgctxt "STRINGS.SKIN_NAMES.monkeyhatmedium_blue"
+msgid "Weathered Tricorn"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.monkeyhatmedium_red
+msgctxt "STRINGS.SKIN_NAMES.monkeyhatmedium_red"
+msgid "Gold-Trimmed Tricorn"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.monkeyhatsmall_beads
+msgctxt "STRINGS.SKIN_NAMES.monkeyhatsmall_beads"
+msgid "Beaded Bandana"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.monkeyhatsmall_belt
+msgctxt "STRINGS.SKIN_NAMES.monkeyhatsmall_belt"
+msgid "Belted Bandana"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.moonstaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.moonstaff_crystal"
 msgid "Prismatic Moon Caller's Staff"
@@ -287376,6 +288001,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.mysterybox_lava_4
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_lava_4"
 msgid "Pugna's War Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.mysterybox_monkeyhat
+msgctxt "STRINGS.SKIN_NAMES.mysterybox_monkeyhat"
+msgid "Moon Quay Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.mysterybox_nature_4
@@ -288113,6 +288743,56 @@ msgctxt "STRINGS.SKIN_NAMES.pack_oni_gift"
 msgid "Oxygen Not Included Gift"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_pirate_all
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_all"
+msgid "Swashbuckler Survivors Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_warly
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_warly"
+msgid "Warly Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_wathgrithr
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wathgrithr"
+msgid "Wigfrid Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_wes
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wes"
+msgid "Wes Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_willow
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_willow"
+msgid "Willow Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_winona
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_winona"
+msgid "Winona Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_wolfgang
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wolfgang"
+msgid "Wolfgang Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_woodie
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_woodie"
+msgid "Woodie Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_wortox
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wortox"
+msgid "Wortox Swashbuckler Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_pirate_wurt
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wurt"
+msgid "Wurt Swashbuckler Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_retro_items
 msgctxt "STRINGS.SKIN_NAMES.pack_retro_items"
 msgid "Experimental Chest"
@@ -288281,6 +288961,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_victorian_wx78
 msgctxt "STRINGS.SKIN_NAMES.pack_victorian_wx78"
 msgid "WX-78 Victorian Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wagstaffboat_items
+msgctxt "STRINGS.SKIN_NAMES.pack_wagstaffboat_items"
+msgid "Inventor's Excursion Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_walter_deluxe
@@ -288908,6 +289593,16 @@ msgctxt "STRINGS.SKIN_NAMES.perdling_pelican_builder"
 msgid "n/a"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.perdling_pollyrogers
+msgctxt "STRINGS.SKIN_NAMES.perdling_pollyrogers"
+msgid "Parrotlet"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.perdling_pollyrogers_builder
+msgctxt "STRINGS.SKIN_NAMES.perdling_pollyrogers_builder"
+msgid "n/a"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.perdling_puffin
 msgctxt "STRINGS.SKIN_NAMES.perdling_puffin"
 msgid "Pufflet"
@@ -289051,6 +289746,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_boarlord
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_boarlord"
 msgid "Battlemaster's Seat Portrait"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_boatnautical
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_boatnautical"
+msgid "Abandoned Ship Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_brokenclock
@@ -289636,6 +290336,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_bishop
 msgctxt "STRINGS.SKIN_NAMES.profileflair_bishop"
 msgid "Clockwork Bishop"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_boat_nautical
+msgctxt "STRINGS.SKIN_NAMES.profileflair_boat_nautical"
+msgid "Abandoned Ship"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_catcoon
@@ -291108,6 +291813,16 @@ msgctxt "STRINGS.SKIN_NAMES.steeringwheel_nautical_item"
 msgid "Skittersquid Helm"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.steeringwheel_wagstaff
+msgctxt "STRINGS.SKIN_NAMES.steeringwheel_wagstaff"
+msgid "Hydraulic Steering System"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.steeringwheel_wagstaff_item
+msgctxt "STRINGS.SKIN_NAMES.steeringwheel_wagstaff_item"
+msgid "Hydraulic Steering System"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.strawhat_bonnet
 msgctxt "STRINGS.SKIN_NAMES.strawhat_bonnet"
 msgid "Straw Bonnet"
@@ -291361,6 +292076,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.umbrella_spider
 msgctxt "STRINGS.SKIN_NAMES.umbrella_spider"
 msgid "Webrolly"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.walkingplank_wagstaff
+msgctxt "STRINGS.SKIN_NAMES.walkingplank_wagstaff"
+msgid "Emergency Exit"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wall_moonrock_victorian
@@ -291668,6 +292388,11 @@ msgctxt "STRINGS.SKIN_NAMES.warly_none"
 msgid "Warly"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.warly_pirate
+msgctxt "STRINGS.SKIN_NAMES.warly_pirate"
+msgid "The Swashbuckler"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.warly_rose
 msgctxt "STRINGS.SKIN_NAMES.warly_rose"
 msgid "The Roseate"
@@ -291681,6 +292406,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wateringcan_rustic
 msgctxt "STRINGS.SKIN_NAMES.wateringcan_rustic"
 msgid "Homespun Watering Can"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.watermelonhat_banana
+msgctxt "STRINGS.SKIN_NAMES.watermelonhat_banana"
+msgid "Banandana"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.watermelonhat_pumpkin
@@ -291741,6 +292471,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wathgrithr_none
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_none"
 msgid "Wigfrid"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wathgrithr_pirate
+msgctxt "STRINGS.SKIN_NAMES.wathgrithr_pirate"
+msgid "The Swashbuckler"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wathgrithr_rose
@@ -292233,6 +292968,11 @@ msgctxt "STRINGS.SKIN_NAMES.wes_none"
 msgid "Wes"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wes_pirate
+msgctxt "STRINGS.SKIN_NAMES.wes_pirate"
+msgid "The Swashbuckler"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wes_rose
 msgctxt "STRINGS.SKIN_NAMES.wes_rose"
 msgid "The Roseate"
@@ -292426,6 +293166,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.willow_none
 msgctxt "STRINGS.SKIN_NAMES.willow_none"
 msgid "Willow"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.willow_pirate
+msgctxt "STRINGS.SKIN_NAMES.willow_pirate"
+msgid "The Swashbuckler"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.willow_rose
@@ -292683,6 +293428,11 @@ msgctxt "STRINGS.SKIN_NAMES.winona_none"
 msgid "Winona"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.winona_pirate
+msgctxt "STRINGS.SKIN_NAMES.winona_pirate"
+msgid "The Swashbuckler"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.winona_rose
 msgctxt "STRINGS.SKIN_NAMES.winona_rose"
 msgid "The Roseate"
@@ -292818,6 +293568,11 @@ msgctxt "STRINGS.SKIN_NAMES.wolfgang_none"
 msgid "Wolfgang"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wolfgang_pirate
+msgctxt "STRINGS.SKIN_NAMES.wolfgang_pirate"
+msgid "The Swashbuckler"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wolfgang_rose
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_rose"
 msgid "The Roseate"
@@ -292936,6 +293691,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.woodie_none
 msgctxt "STRINGS.SKIN_NAMES.woodie_none"
 msgid "Woodie"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.woodie_pirate
+msgctxt "STRINGS.SKIN_NAMES.woodie_pirate"
+msgid "The Swashbuckler"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.woodie_rose
@@ -293113,6 +293873,11 @@ msgctxt "STRINGS.SKIN_NAMES.wortox_original"
 msgid "The Uncorrupted"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wortox_pirate
+msgctxt "STRINGS.SKIN_NAMES.wortox_pirate"
+msgid "The Swashbuckler"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wortox_survivor
 msgctxt "STRINGS.SKIN_NAMES.wortox_survivor"
 msgid "The Survivor"
@@ -293136,6 +293901,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wurt_none
 msgctxt "STRINGS.SKIN_NAMES.wurt_none"
 msgid "Essential Wurt"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wurt_pirate
+msgctxt "STRINGS.SKIN_NAMES.wurt_pirate"
+msgid "The Swashbuckler"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wurt_rose
@@ -293418,6 +294188,11 @@ msgctxt "STRINGS.SKIN_QUOTES.warly_nature"
 msgid "\"I only cook with natural ingredients.\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.warly_pirate
+msgctxt "STRINGS.SKIN_QUOTES.warly_pirate"
+msgid "\"I seem to have developed quite a taste for treasure.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.warly_rose
 msgctxt "STRINGS.SKIN_QUOTES.warly_rose"
 msgid "\"And just a dash of sweet rosewater.\""
@@ -293476,6 +294251,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.wathgrithr_nature
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_nature"
 msgid "\"I shall fight för the förest!\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wathgrithr_pirate
+msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_pirate"
+msgid "\"My name shall live ön forever, as the scöurge öf the seven seas!\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_rose
@@ -293948,6 +294728,11 @@ msgctxt "STRINGS.SKIN_QUOTES.willow_magma"
 msgid "\"All fire, all the time!!\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.willow_pirate
+msgctxt "STRINGS.SKIN_QUOTES.willow_pirate"
+msgid "\"Come onnnn, let me fire the cannon!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.willow_rose
 msgctxt "STRINGS.SKIN_QUOTES.willow_rose"
 msgid "\"A rose to symbolize the flames of passion.\""
@@ -294133,6 +294918,11 @@ msgctxt "STRINGS.SKIN_QUOTES.winona_nature"
 msgid "\"There's few things more satisfying than watchin' something grow.\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.winona_pirate
+msgctxt "STRINGS.SKIN_QUOTES.winona_pirate"
+msgid "\"Honest work will only get ya so far.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.winona_rose
 msgctxt "STRINGS.SKIN_QUOTES.winona_rose"
 msgid "\"Thought and conscientiousness nips all problems in the bud.\""
@@ -294216,6 +295006,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.wolfgang_nature
 msgctxt "STRINGS.SKIN_QUOTES.wolfgang_nature"
 msgid "\"The hills will ring with Wolfgang's mighty yodels!\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wolfgang_pirate
+msgctxt "STRINGS.SKIN_QUOTES.wolfgang_pirate"
+msgid "\"Wolfgang is mightiest pirate on the sea!\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wolfgang_rose
@@ -294326,6 +295121,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.woodie_nature
 msgctxt "STRINGS.SKIN_QUOTES.woodie_nature"
 msgid "\"Even the most majestic tree's gotta start as a seed.\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.woodie_pirate
+msgctxt "STRINGS.SKIN_QUOTES.woodie_pirate"
+msgid "\"It takes a lot of lumber to keep a boat ship-shape, eh?\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.woodie_rose
@@ -294473,6 +295273,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wortox_original"
 msgid "\"Ol'Kramps says my powers should grow in soon. Hyuyu!\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.wortox_pirate
+msgctxt "STRINGS.SKIN_QUOTES.wortox_pirate"
+msgid "\"We impish sorts do love our gold, hyuyu!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wortox_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wortox_survivor"
 msgid "\"Try not to cower in fear, my dear!\""
@@ -294491,6 +295296,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.wurt_formal
 msgctxt "STRINGS.SKIN_QUOTES.wurt_formal"
 msgid "\"Frilly and gilly, florp!\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wurt_pirate
+msgctxt "STRINGS.SKIN_QUOTES.wurt_pirate"
+msgid "\"Glurgh, no call me shrimp! Me big scary pirate!!\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wurt_rose
@@ -294938,6 +295748,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL"
 msgid "Uncorrupted Collection"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PIRATE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PIRATE"
+msgid "Swashbuckler Collection"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION"
 msgid "Promotional Collection"
@@ -295001,6 +295816,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN"
 msgid "Victorian Collection"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.WAGSTAFF
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.WAGSTAFF"
+msgid "Wagstaff Collection"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.WINTER
@@ -295196,6 +296016,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BIRDCAGE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BIRDCAGE"
 msgid "Birdcage"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOAT"
+msgid "Boat"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE
@@ -295463,6 +296288,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MASTUPGRADE_ROD"
 msgid "Lightning Conductor"
 msgstr ""
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAST_MALBATROSS
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAST_MALBATROSS"
+msgid "Winged Sail"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MEATRACK
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MEATRACK"
 msgid "Drying Rack"
@@ -295476,6 +296306,16 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN"
 msgid "Mini Sign"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MONKEY_MEDIUMHAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MONKEY_MEDIUMHAT"
+msgid "Captain's Tricorn"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MONKEY_SMALLHAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MONKEY_SMALLHAT"
+msgid "Pirate's Bandana"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MULTITOOL_AXE_PICKAXE
@@ -295696,6 +296536,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.UMBRELLA
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.UMBRELLA"
 msgid "Umbrella"
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALKINGPLANK
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALKINGPLANK"
+msgid "Plank"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK
@@ -309843,6 +310688,11 @@ msgctxt "STRINGS.UI.OPTIONS.GRAPHICS"
 msgid "Graphics"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.HUD
+msgctxt "STRINGS.UI.OPTIONS.HUD"
+msgid "HUD"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.HUDSIZE
 msgctxt "STRINGS.UI.OPTIONS.HUDSIZE"
 msgid "HUD Size:"
@@ -310246,6 +311096,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.GRAPHICS
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.GRAPHICS"
 msgid "Modify the graphics settings"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.HUD
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.HUD"
+msgid "Modify features of the user interface"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.HUDSIZE
