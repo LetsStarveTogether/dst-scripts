@@ -87704,7 +87704,7 @@ msgstr "谁允许猿猴玩火的？"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GENERIC"
 msgid "What are you looking at, ape?"
-msgstr "你愁啥，猿猴？"
+msgstr "你瞅啥，猿猴？"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GHOST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GHOST"
@@ -254201,6 +254201,11 @@ msgctxt "STRINGS.NAMES.DOCK_KIT"
 msgid "Dock Kit"
 msgstr "码头套装"
 
+#. STRINGS.NAMES.DOCK_WOODPOSTS
+msgctxt "STRINGS.NAMES.DOCK_WOODPOSTS"
+msgid "Dock Piling"
+msgstr "码头桩"
+
 #. STRINGS.NAMES.DOCK_WOODPOSTS_ITEM
 msgctxt "STRINGS.NAMES.DOCK_WOODPOSTS_ITEM"
 msgid "Dock Piling"
@@ -279161,10 +279166,15 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_spider"
 msgid "This itsy bitsy spider has no fear of rain."
 msgstr "小小蜘蛛不怕雨露。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.walkingplank_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_nautical"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.walkingplank_wagstaff
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_wagstaff"
-msgid "Safety codes require that employees have access to at least one exit at all times."
-msgstr "安全规定要求员工在任何时候都能接触到至少一个出口。"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorian"
@@ -292081,10 +292091,15 @@ msgctxt "STRINGS.SKIN_NAMES.umbrella_spider"
 msgid "Webrolly"
 msgstr "蜘蛛伞"
 
+#. STRINGS.SKIN_NAMES.walkingplank_nautical
+msgctxt "STRINGS.SKIN_NAMES.walkingplank_nautical"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_NAMES.walkingplank_wagstaff
 msgctxt "STRINGS.SKIN_NAMES.walkingplank_wagstaff"
-msgid "Emergency Exit"
-msgstr "紧急出口"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_NAMES.wall_moonrock_victorian
 msgctxt "STRINGS.SKIN_NAMES.wall_moonrock_victorian"
@@ -312009,7 +312024,7 @@ msgstr "是"
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_BODY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_BODY"
 msgid "Unfortunately you will need to login to continue viewing this panel, but you do not allow data collection which is required to login.\n\nData Collection settings can be modified in the Options menu."
-msgstr "很遗憾，你需要登录后才能继续查看此面板。你当前未允许数据收集，必须允许数据收集才可以登录。\r\n\r\n数据收集设置可以在选项菜单中修改。"
+msgstr "很遗憾，你需要登录后才能继续查看此面板。你当前未允许数据收集，必须允许数据收集才可以登录。\n\n数据收集设置可以在选项菜单中修改。"
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_NOCHOICE
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_NOPERMISSIONS_NOCHOICE"

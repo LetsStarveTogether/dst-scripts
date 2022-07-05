@@ -87704,7 +87704,7 @@ msgstr "誰允許猿猴玩火的？"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GENERIC"
 msgid "What are you looking at, ape?"
-msgstr "你愁啥，猿猴？"
+msgstr "你瞅啥，猿猴？"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GHOST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.GHOST"
@@ -254201,6 +254201,11 @@ msgctxt "STRINGS.NAMES.DOCK_KIT"
 msgid "Dock Kit"
 msgstr "碼頭套裝"
 
+#. STRINGS.NAMES.DOCK_WOODPOSTS
+msgctxt "STRINGS.NAMES.DOCK_WOODPOSTS"
+msgid "Dock Piling"
+msgstr "碼頭樁"
+
 #. STRINGS.NAMES.DOCK_WOODPOSTS_ITEM
 msgctxt "STRINGS.NAMES.DOCK_WOODPOSTS_ITEM"
 msgid "Dock Piling"
@@ -279161,10 +279166,15 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_spider"
 msgid "This itsy bitsy spider has no fear of rain."
 msgstr "小小蜘蛛不怕雨露。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.walkingplank_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_nautical"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.walkingplank_wagstaff
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_wagstaff"
-msgid "Safety codes require that employees have access to at least one exit at all times."
-msgstr "安全規定要求員工在任何時候都能接觸到至少一個出口。"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wall_moonrock_victorian"
@@ -292081,10 +292091,15 @@ msgctxt "STRINGS.SKIN_NAMES.umbrella_spider"
 msgid "Webrolly"
 msgstr "蜘蛛傘"
 
+#. STRINGS.SKIN_NAMES.walkingplank_nautical
+msgctxt "STRINGS.SKIN_NAMES.walkingplank_nautical"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_NAMES.walkingplank_wagstaff
 msgctxt "STRINGS.SKIN_NAMES.walkingplank_wagstaff"
-msgid "Emergency Exit"
-msgstr "緊急出口"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_NAMES.wall_moonrock_victorian
 msgctxt "STRINGS.SKIN_NAMES.wall_moonrock_victorian"
