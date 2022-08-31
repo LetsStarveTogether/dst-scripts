@@ -166033,7 +166033,7 @@ msgstr "它总是向上看。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EYEMASKHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EYEMASKHAT"
-msgid "Wolgang not fan of squishy hat."
+msgid "Wolfgang not fan of squishy hat."
 msgstr "沃尔夫冈不喜欢软绵绵的帽子。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EYEOFTERROR
@@ -250871,6 +250871,16 @@ msgctxt "STRINGS.KITCOON_NAMING.NAMES.86"
 msgid "Kira"
 msgstr "基拉"
 
+#. STRINGS.KITCOON_NAMING.NAMES.87
+msgctxt "STRINGS.KITCOON_NAMING.NAMES.87"
+msgid "Finch"
+msgstr "芬奇"
+
+#. STRINGS.KITCOON_NAMING.NAMES.88
+msgctxt "STRINGS.KITCOON_NAMING.NAMES.88"
+msgid "Mango"
+msgstr "芒果"
+
 #. STRINGS.KITCOON_NAMING.NAMES.9
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.9"
 msgid "Teddy"
@@ -274001,6 +274011,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wilson_ice"
 msgid "Pointy shoes for a frigid fellow."
 msgstr "给冷冰冰的家伙穿的尖鞋子。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wilson_madscientist
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wilson_madscientist"
+msgid "The metal buckles are excellent conductors. This was discovered the hard way."
+msgstr "金属扣是绝佳的导体，有人为这一发现付出了代价。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wilson_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wilson_victorian"
 msgid "Shoes that have tread on many a spilled concoction."
@@ -287066,6 +287081,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_wilson_ice"
 msgid "Hoarfrost Shoes"
 msgstr "冰霜鞋"
 
+#. STRINGS.SKIN_NAMES.feet_wilson_madscientist
+msgctxt "STRINGS.SKIN_NAMES.feet_wilson_madscientist"
+msgid "Mad Lab Shoes"
+msgstr "疯狂实验室鞋子"
+
 #. STRINGS.SKIN_NAMES.feet_wilson_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_wilson_victorian"
 msgid "Physician's Shoes"
@@ -297936,10 +297956,10 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LAVA"
 msgid "Forge Collection"
 msgstr "熔炉系列"
 
-#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR"
-msgid "Lunar Collection"
-msgstr "农历系列"
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR_NY
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR_NY"
+msgid "Lunar New Year Collection"
+msgstr "春节系列"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY"
@@ -300051,8 +300071,8 @@ msgctxt "STRINGS.THANKS_POPUP.HOTLAVA"
 msgid "That's hot!"
 msgstr "开始炽热！"
 
-#. STRINGS.THANKS_POPUP.LUNAR
-msgctxt "STRINGS.THANKS_POPUP.LUNAR"
+#. STRINGS.THANKS_POPUP.LUNAR_NY
+msgctxt "STRINGS.THANKS_POPUP.LUNAR_NY"
 msgid "Thanks for playing during the\nYear of the Gobbler event"
 msgstr "感谢您参与\n火鸡之年活动"
 
