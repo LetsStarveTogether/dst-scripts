@@ -87930,7 +87930,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TERRARIUM.WAITING_FOR_DARK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TERRARIUM.WAITING_FOR_DARK"
-msgid "It's power is coalescing."
+msgid "Its power is coalescing."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TERRARIUMCHEST.BURNT
@@ -223293,6 +223293,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_QUAKE"
 msgid "Ground shaking!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES"
+msgid "Aww... no honey inside..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "This one have pictures of birdies!"
@@ -223336,6 +223341,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
 msgid "There more than one kind of words to learn?! Glurgh..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON"
+msgid "Huh. Moon actually kinda boring."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN
@@ -251220,12 +251230,12 @@ msgstr ""
 
 #. STRINGS.CHARACTER_BIOS.wickerbottom.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.desc"
-msgid "Is yet to be revealed."
+msgid "When people meet Ms. Wickerbottom, most assume that what you see is what you get. She certainly looks every bit the typical librarian that she claims to be, as at home amongst the bookstacks as any creature in their native habitat. Nobody would raise an eyebrow at such a person being well-versed in a wide range of subjects. Who would spare a second thought if, upon further inquiry, her knowledge rivaled that of experts? And obviously, no one would think of questioning what a librarian might be involved in after hours, when the library doors are closed to the public..."
 msgstr ""
 
 #. STRINGS.CHARACTER_BIOS.wickerbottom.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.title"
-msgid "Her Past..."
+msgid "One For the Books"
 msgstr ""
 
 #. STRINGS.CHARACTER_BIOS.willow.1.desc
@@ -258080,7 +258090,7 @@ msgstr ""
 
 #. STRINGS.NAMES.BEEFALOFEED
 msgctxt "STRINGS.NAMES.BEEFALOFEED"
-msgid "Beefalo Feed"
+msgid "Steamed Twigs"
 msgstr ""
 
 #. STRINGS.NAMES.BEEFALOHAT
@@ -285645,7 +285655,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.walter_bee
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_bee"
-msgid "Buzzy Boy Costume"
+msgid "Walter's trying immersion therapy... for his allergies."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.walter_bee_d
@@ -286735,7 +286745,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_nature"
-msgid "What is a beard if not the topiary of the face?"
+msgid "What is a beard if not a topiary for your face?"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_pigguard
@@ -310893,6 +310903,11 @@ msgctxt "STRINGS.UI.COOKBOOK.PERISH_SLOWLY"
 msgid "Slowly"
 msgstr ""
 
+#. STRINGS.UI.COOKBOOK.PERISH_VERY_QUICKLY
+msgctxt "STRINGS.UI.COOKBOOK.PERISH_VERY_QUICKLY"
+msgid "Very Quickly"
+msgstr ""
+
 #. STRINGS.UI.COOKBOOK.PERISH_VERY_SLOWLY
 msgctxt "STRINGS.UI.COOKBOOK.PERISH_VERY_SLOWLY"
 msgid "Very Slowly"
@@ -326440,12 +326455,12 @@ msgstr ""
 
 #. STRINGS.UI.WORLDRESETDIALOG.REVIVE_1
 msgctxt "STRINGS.UI.WORLDRESETDIALOG.REVIVE_1"
-msgid "Haunt a {item1} to revive, or find another means."
+msgid "Haunt a {item1} to revive, or find another way."
 msgstr ""
 
 #. STRINGS.UI.WORLDRESETDIALOG.REVIVE_2
 msgctxt "STRINGS.UI.WORLDRESETDIALOG.REVIVE_2"
-msgid "Haunt a {item1} or {item2} to revive, or find another means."
+msgid "Haunt a {item1} or {item2} to revive, or find another way."
 msgstr ""
 
 #. STRINGS.UI.WORLDRESETDIALOG.SURVIVED_MSG
