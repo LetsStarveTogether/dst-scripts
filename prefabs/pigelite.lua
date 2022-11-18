@@ -258,7 +258,6 @@ local function MakePigElite(variation)
         inst:ListenForEvent("unequip", OnUnequip)
         inst:ListenForEvent("onignite", SetCheatFlag)
         inst:ListenForEvent("teleported", SetCheatFlag)
-        inst:ListenForEvent("rooted", SetCheatFlag)
 
         return inst
     end
