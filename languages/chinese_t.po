@@ -476,6 +476,11 @@ msgctxt "STRINGS.ACTIONS.CHOP"
 msgid "Chop"
 msgstr "砍"
 
+#. STRINGS.ACTIONS.CLOSESPELLBOOK
+msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK"
+msgid "Close"
+msgstr "關閉"
+
 #. STRINGS.ACTIONS.COMBINESTACK
 msgctxt "STRINGS.ACTIONS.COMBINESTACK"
 msgid "Combine Stack"
@@ -1466,6 +1471,11 @@ msgctxt "STRINGS.ACTIONS.STOPUSINGITEM.GENERIC"
 msgid "Stop"
 msgstr "停止"
 
+#. STRINGS.ACTIONS.STOPUSINGMAGICTOOL
+msgctxt "STRINGS.ACTIONS.STOPUSINGMAGICTOOL"
+msgid "Stop"
+msgstr "停止"
+
 #. STRINGS.ACTIONS.STOP_LIFT_DUMBBELL
 msgctxt "STRINGS.ACTIONS.STOP_LIFT_DUMBBELL"
 msgid "Stop Lifting"
@@ -1740,6 +1750,16 @@ msgstr "起名"
 msgctxt "STRINGS.ACTIONS.USEKLAUSSACKKEY"
 msgid "Unlock"
 msgstr "解鎖"
+
+#. STRINGS.ACTIONS.USEMAGICTOOL
+msgctxt "STRINGS.ACTIONS.USEMAGICTOOL"
+msgid "Use"
+msgstr "使用"
+
+#. STRINGS.ACTIONS.USESPELLBOOK
+msgctxt "STRINGS.ACTIONS.USESPELLBOOK"
+msgid "Read"
+msgstr "閱讀"
 
 #. STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.GENERIC
 msgctxt "STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.GENERIC"
@@ -3351,6 +3371,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I need to be quicker!"
 msgstr "我得快一點！"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.NO_MAX_SANITY
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.NO_MAX_SANITY"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.GENERIC"
 msgid "only_used_by_wanda"
@@ -3370,6 +3395,11 @@ msgstr "only_used_by_wanda"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.WARP_NO_POINTS_LEFT"
 msgid "only_used_by_wanda"
 msgstr "only_used_by_wanda"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CHANGEIN.BURNING"
@@ -4666,6 +4696,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ENTER_LIGHT"
 msgid "I can see again!"
 msgstr "我又可以看到東西了！"
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T1
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T1"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T2
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T2"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T3
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T3"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T4
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EQUIP_SHADOWLEVEL_T4"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EXITGYM.MIGHTY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_EXITGYM.MIGHTY"
 msgid "only_used_by_wolfang"
@@ -5370,6 +5420,11 @@ msgstr "它不喜歡那個。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SACREDCHEST_YES"
 msgid "I guess I'm worthy."
 msgstr "我認為我值得。"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHADOWLEVEL_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHADOWLEVEL_ITEM"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHELTER"
@@ -11016,6 +11071,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MADSCIENCE_LAB"
 msgid "Sanity is a small price to pay for science!"
 msgstr "為了科學就算瘋了又如何！"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MAGICIAN_CHEST"
+msgid "Why am I starting to feel a bit uneasy...?"
+msgstr "為什麼我開始感到有點不安了……？"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MALBATROSS"
 msgid "A fowl beast indeed!"
@@ -15826,6 +15886,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TOPHAT"
 msgid "What a nice hat."
 msgstr "多好的帽子。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "That hat just oozes style."
+msgstr "那頂帽子流露著時尚。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TORCH"
 msgid "Something to hold back the night."
@@ -17011,10 +17076,15 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELL.REVIVER"
 msgid "%s is using his powers for good."
 msgstr "%s他把能力用在正義的事業。"
 
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Spooky."
 msgstr "真可怕。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELLJOURNAL.NEEDSFUEL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXWELLJOURNAL.NEEDSFUEL"
+msgid "only_used_by_waxwell"
+msgstr "only_used_by_waxwell"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WEBBER.ATTACKER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WEBBER.ATTACKER"
@@ -19610,6 +19680,11 @@ msgstr "啊……我——我好像沒事了。"
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FLARE_SEEN"
 msgid "A signal! We should follow it!"
 msgstr "有信號！我們應該跟著它走！"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FREEDOM"
@@ -22414,7 +22489,7 @@ msgstr "它居然不是老鼠，我多少有點失望。"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_COOKED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_COOKED"
 msgid "Yup. It's a cooked carrot."
-msgstr "對。這是做熟的胡蘿蔔鼠。"
+msgstr "對。這是做熟的胡蘿蔔。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_OVERSIZED"
@@ -22424,7 +22499,7 @@ msgstr "我還指望著它會長出耳朵和鬍鬚呢……呵呵。"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_PLANTED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_PLANTED"
 msgid "Now we'll have more carrots. Yay."
-msgstr "我們會種出更多的蘿蔔。耶。"
+msgstr "現在我們有更多的胡蘿蔔了。耶。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARROT_SEEDS"
@@ -23029,7 +23104,7 @@ msgstr "現在吃幾口玉米穗應該很不錯。"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CORN_COOKED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CORN_COOKED"
 msgid "I don't have anything to fund-raise for out here..."
-msgstr "在這裡賣玉米也沒人買，籌集不了資金……"
+msgstr "在這裡賣爆米花也沒人買，籌集不了資金……"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CORN_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CORN_OVERSIZED"
@@ -25645,6 +25720,11 @@ msgstr "只要適應了這個氣味，其實味道還不錯！"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MADSCIENCE_LAB"
 msgid "Mad science is the best kind!"
 msgstr "瘋狂的科學就是最好的科學！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MAGICIAN_CHEST"
+msgid "C'mon Woby, just a little peek inside?"
+msgstr "來，沃比，看看裡面有什麼？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MALBATROSS"
@@ -30416,6 +30496,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TOPHAT"
 msgid "Seems a bit out of place out here in the wilderness."
 msgstr "在這荒郊野外，似乎有點格格不入。"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Do you think he can teach me how to pull rabbits out of it?"
+msgstr "他能教我從裡面掏出兔子的把戲嗎？"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TORCH"
 msgid "Is this what they use in England instead of flashlights?"
@@ -31601,8 +31686,8 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAXWELL.REVIVER"
 msgid "I was kind of having fun being a ghost..."
 msgstr "我變成鬼魂時也挺好玩的……"
 
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Maybe you could teach me some magic tricks? I'm a quick learner!"
 msgstr "你可以教我一些魔術戲法嗎？我學得很快！"
 
@@ -34316,6 +34401,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FLARE_SEEN"
 msgid "Was that a flare? I'd better hurry and see what's going on!"
 msgstr "那是一個信號彈嗎？我最好趕快去看看發生了什麼事！"
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FREEDOM"
 msgid "I-I'm free... I'm alive... h-ha! Ha h-haha! Hahahaha!!"
@@ -34906,11 +34996,6 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOOL_SLIP"
 msgid "I'm usually not such a butterfingers."
 msgstr "我平時不會丟三落四。"
 
-#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOOMANYBIRDS
-msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOOMANYBIRDS"
-msgid "only_used_by_waxwell_and_wicker"
-msgstr "only_used_by_waxwell_and_wicker"
-
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TORCH_OUT"
 msgid "My torch! I need to find another one quickly!"
@@ -34955,11 +35040,6 @@ msgstr "沒關係，我還有時間……"
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WASHED_ASHORE"
 msgid "I-I don't think I'm going on another boat for a while."
 msgstr "我——我想我最近不會再上船了。"
-
-#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_WAYTOOMANYBIRDS
-msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WAYTOOMANYBIRDS"
-msgid "only_used_by_waxwell_and_wicker"
-msgstr "only_used_by_waxwell_and_wicker"
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_WEAK_RAT
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WEAK_RAT"
@@ -40361,6 +40441,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MADSCIENCE_LAB"
 msgid "This is a bit outside my area of expertise..."
 msgstr "這有點超出我的專業領域……"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MAGICIAN_CHEST"
+msgid "Oh, what a handy little pocket dimension!"
+msgstr "這個袖珍尺寸太方便了！"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MALBATROSS"
 msgid "Of course this couldn't be just a quiet, pleasant boat trip..."
@@ -45161,6 +45246,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TOPHAT"
 msgid "I'd look like quite the gentlewoman in that!"
 msgstr "我戴上以後肯定英姿颯爽！"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "A bit drab for my tastes."
+msgstr "就我的口味而言，有些單調了。"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TORCH"
 msgid "It'll keep the darkness at bay. For a time, at least."
@@ -46341,8 +46431,8 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAXWELL.REVIVER"
 msgid "There is goodness in you yet, %s. Oh, don't look so embarrassed!"
 msgstr "你內心還是很善良的，%s。哎呀，你尷尬什麼！"
 
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Hm."
 msgstr "嗯。"
 
@@ -54901,6 +54991,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MADSCIENCE_LAB"
 msgid "Chemistry is just fancy cooking, non?"
 msgstr "化學就是高級烹飪，是不是？"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGICIAN_CHEST"
+msgid "Are you certain that whatever you put in there will come back?"
+msgstr "你確定把東西放進去以後還能拿回來嗎？"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MALBATROSS"
 msgid "Très mal, indeed."
@@ -59001,6 +59096,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TOPHAT"
 msgid "For a night out on the town...?"
 msgstr "晚上戴著它去城裡尋開心...？"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "I can't think of any occasion I'd wear that to."
+msgstr "我沒有戴它的場合。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TORCH"
 msgid "Not great for caramelizing crème brûlée, but it will do for seeing."
@@ -60181,8 +60281,8 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXWELL.REVIVER"
 msgid "%s isn't bad, just a little crunchy on the outside."
 msgstr "%s並不壞，只是有個堅硬的外殼."
 
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Maman used to keep a journal, before her memory went."
 msgstr "媽媽在記憶裡衰退前曾經寫過一本日記。"
 
@@ -62775,6 +62875,11 @@ msgstr "烈焰詛咒已經過去了。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLARE_SEEN"
 msgid "My allies beckon me!"
 msgstr "盟友在呼喚我！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FREEDOM"
@@ -68771,6 +68876,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MADSCIENCE_LAB"
 msgid "Be there method to this madness?"
 msgstr "有什麼辦法對付這種瘋狂嗎？"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MAGICIAN_CHEST"
+msgid "'Tis a wicked looking thing."
+msgstr "看上去充滿了邪惡。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MALBATROSS"
 msgid "I will slay the four-winged beast!"
@@ -73536,6 +73646,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TOPHAT"
 msgid "It doesn't match my costume."
 msgstr "它跟我的服裝不搭。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "It hath been touched by dark magic."
+msgstr "它被黑魔法觸碰過。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TORCH"
 msgid "Perfect for a nighttime assault."
@@ -74716,8 +74831,8 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAXWELL.REVIVER"
 msgid "%s has uncovered the kindness buried within his heart."
 msgstr "%s表現出埋藏在內心的慈悲之心。"
 
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "A tragic tale of woe and misery!"
 msgstr "充滿悲哀和痛苦的悲劇故事！"
 
@@ -76231,6 +76346,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Those blasted things move too fast!"
 msgstr "那些該死的東西移動得太快了！"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_MAX_SANITY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_MAX_SANITY"
+msgid "I fear my mind can't take the strain..."
+msgstr "恐怕我的意志受不了那種重壓……"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT"
+msgid "I'll need a top hat for this trick to work."
+msgstr "我需要頂高禮帽才能完成這個魔術。"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Oh. There go all my good pocket squares."
@@ -76424,7 +76549,7 @@ msgstr "這不算什麼好祭品，對吧？"
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.NOTGEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.NOTGEM"
 msgid "Even The Amazing Maxwell couldn't wring magic from that."
-msgstr "即使令人驚訝的麥斯威爾也沒辦法從那施展魔法。"
+msgstr "即使神奇的麥斯威爾也沒辦法從那施展魔法。"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.NOTSCULPTABLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.NOTSCULPTABLE"
@@ -77153,8 +77278,8 @@ msgstr "天花板開始坍塌了！"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE"
-msgid "Charlie? It's me! Maxwell!"
-msgstr "查理？是我！麥斯威爾！"
+msgid "I suppose it's best to keep up appearances..."
+msgstr "我還是要注意一下形象……"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE_ATTACK"
@@ -77321,6 +77446,26 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ENTER_LIGHT"
 msgid "Thank goodness for the light."
 msgstr "感謝亮光。"
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T1"
+msgid "What's this? My shadow puppets feel just a bit stronger..."
+msgstr "什麼情況？我的暗影傀儡感覺變強了……"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T2"
+msgid "I can feel the strength of my shadow puppets growing."
+msgstr "我能感受到暗影傀儡的力量在增加。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T3"
+msgid "Go, my shadow puppets! With this power, nothing will stand in our way."
+msgstr "去吧，我的暗影傀儡！沒有人能擋我們的路。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T4
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EQUIP_SHADOWLEVEL_T4"
+msgid "The shadow puppets I summon will be unstoppable!"
+msgstr "我召喚出的暗影傀儡將所向披靡！"
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EYEOFTERROR_ARRIVE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EYEOFTERROR_ARRIVE"
 msgid "Oh, what a magnificent horror."
@@ -77365,6 +77510,11 @@ msgstr "最壞的階段已經過去。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLARE_SEEN"
 msgid "Am I supposed to come running every time I spot a flare?"
 msgstr "每次看到信號我都要跑起來嗎？"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FREEDOM"
@@ -77810,6 +77960,11 @@ msgstr "它認為我不值得。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SACREDCHEST_YES"
 msgid "Was there ever a doubt?"
 msgstr "這有什麼疑問嗎？"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHADOWLEVEL_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHADOWLEVEL_ITEM"
+msgid "\nMy shadow puppets should be able to draw from its power..."
+msgstr "我的暗影傀儡應該能從它身上汲取力量……"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHELTER"
@@ -80288,8 +80443,8 @@ msgstr "難纏的觀眾。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIE_LECTURN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIE_LECTURN"
-msgid "She really expects me to... oh why not."
-msgstr "她真指望我……哦，為什麼不呢。"
+msgid "Misdirection, the oldest trick in the book. Well played, Charlie."
+msgstr "誤導，書中最古老的伎倆。幹得漂亮，查理。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIE_STAGE_POST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIE_STAGE_POST"
@@ -83346,6 +83501,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MADSCIENCE_LAB"
 msgid "How maddening."
 msgstr "真令人抓狂。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MAGICIAN_CHEST"
+msgid "If you're worried about getting stuck inside, don't rummage through my things."
+msgstr "如果你擔心被困在裡面，就別亂翻我的東西。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MALBATROSS"
 msgid "I've no desire to do battle with that thing."
@@ -85303,8 +85463,8 @@ msgstr "它受不了高溫。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PLAYBILL_THE_DOLL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PLAYBILL_THE_DOLL"
-msgid "Are you having fun?"
-msgstr "你玩得開心嗎？"
+msgid "I think she's enjoying this a bit too much."
+msgstr "她怎麼這麼喜歡這個。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PLAYER.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PLAYER.ATTACKER"
@@ -88111,6 +88271,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TOPHAT"
 msgid "Some fine haberdashery."
 msgstr "一件精美的服飾用品。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Tall, dark and dapper."
+msgstr "高大、黝黑、帥氣。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TORCH"
 msgid "It keeps Charlie at bay."
@@ -89291,10 +89456,15 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELL.REVIVER"
 msgid "Trust only yourself, hey %s?"
 msgstr "喂，%s，就相信你自己？"
 
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL"
-msgid "I'm so sorry, Charlie."
-msgstr "查理，我很抱歉。"
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL.GENERIC"
+msgid "The show must go on."
+msgstr "表演必須繼續。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL.NEEDSFUEL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL.NEEDSFUEL"
+msgid "It hungers for the fuel."
+msgstr "它渴望燃料。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WEBBER.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WEBBER.ATTACKER"
@@ -91900,6 +92070,11 @@ msgstr "呼，我們會更加小心，不會再碰奇怪的雜草了。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLARE_SEEN"
 msgid "Oh, someone's calling us to come over."
 msgstr "噢，有人在呼叫我們呢。"
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FREEDOM"
@@ -97891,6 +98066,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MADSCIENCE_LAB"
 msgid "Wow. Look at it bubble."
 msgstr "哇。瞧這泡泡。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAGICIAN_CHEST"
+msgid "Could we borrow it for hide-and-seek?"
+msgstr "能借給我們玩捉迷藏嗎？"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MALBATROSS"
 msgid "Woah! That's a big bird!"
@@ -102656,6 +102836,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOPHAT"
 msgid "Like father used to wear."
 msgstr "像父親以前戴的。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Not quite like father used to wear."
+msgstr "不像父親以前戴的那頂。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TORCH"
 msgid "This should keep us safe."
@@ -103836,8 +104021,8 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.REVIVER"
 msgid "Wow, %s is really nice! He's helping people!"
 msgstr "哇，%s真棒！他幫助人們！"
 
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "I don't think we should play with that..."
 msgstr "我認為我們不應該玩那個….."
 
@@ -106445,6 +106630,11 @@ msgstr "可惜，我還活著。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLARE_SEEN"
 msgid "Someone just shot a flare..."
 msgstr "有人發了個信號..."
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_FREEDOM"
@@ -112471,6 +112661,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MADSCIENCE_LAB"
 msgid "Madness lies within."
 msgstr "裡面充滿瘋狂。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MAGICIAN_CHEST"
+msgid "You can't use a magic box for hide-and-seek, that's cheating."
+msgstr "不能用變魔術的箱子來玩捉迷藏，那是作弊。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MALBATROSS"
 msgid "What a horrid bird!"
@@ -117236,6 +117431,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TOPHAT"
 msgid "A piece of finery to help forget the inescapable wild."
 msgstr "一件華美的服飾，幫助遺忘無法逃避的荒野。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "The darkness has changed it."
+msgstr "黑暗改變了它。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TORCH"
 msgid "A tiny bulwark against the night."
@@ -118416,8 +118616,8 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.REVIVER"
 msgid "He's gone from Sisyphus to Lazarus."
 msgstr "他重生了。"
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Do you want me to read you a story, Abigail?"
 msgstr "阿比蓋爾，你想要我給你讀故事嗎？"
 
@@ -121065,6 +121265,11 @@ msgstr "值得慶倖的是，這種毒素的影響似乎是暫時的。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FLARE_SEEN"
 msgid "Someone's fired a flare."
 msgstr "有人發了個信號。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FREEDOM"
@@ -127046,6 +127251,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MADSCIENCE_LAB"
 msgid "Mad science indeed!"
 msgstr "果然是瘋狂的科學！"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAGICIAN_CHEST"
+msgid "I must admit, I find his renewed interest in the Codex... unsettling."
+msgstr "我必須承認，他重燃對秘典的興趣……讓我感到不安。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MALBATROSS"
 msgid "It appears to be of the family Diomedeidae."
@@ -131811,6 +132021,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOPHAT"
 msgid "How bourgeois."
 msgstr "一看就是資產階級的東西。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "It has been imbued with an ectoplasmic residue."
+msgstr "它上面帶有一種靈質殘渣。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TORCH"
 msgid "An improvised handheld light."
@@ -132991,8 +133206,8 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAXWELL.REVIVER"
 msgid "There's good in you, %s."
 msgstr "你很好，%s。"
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "I'm not letting THAT in MY library!"
 msgstr "我不會讓那個出現在我的圖書館！"
 
@@ -135580,6 +135795,11 @@ msgstr "咦。我本來都有點習慣了。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLARE_SEEN"
 msgid "Woah, cool! Someone shot fire into the sky!"
 msgstr "喔，酷！有人向天空射了火焰。"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FREEDOM"
@@ -141591,6 +141811,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MADSCIENCE_LAB"
 msgid "I like the fire!"
 msgstr "我喜歡那團火！"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MAGICIAN_CHEST"
+msgid "What do you think would happen if I threw a lit match inside?"
+msgstr "如果我往裡面扔一根點燃的火柴，你認為會發生什麼？"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MALBATROSS"
 msgid "Uh... nice bird?"
@@ -146356,6 +146581,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TOPHAT"
 msgid "A top hat and a lighter, a perfect combination."
 msgstr "高禮帽和打火機，真是絕配。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Aww, I thought I saw smoke, but it's just Max's shadow gunk."
+msgstr "啊，我以為我看到了煙，但那只是麥斯威爾的暗影垃圾。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH"
 msgid "Fire is so pretty."
@@ -147541,8 +147771,8 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXWELL.REVIVER"
 msgid "Hahaha %s, you care about us!"
 msgstr "哈哈哈%s，你關心我們！"
 
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Would make a great bedtime story... for nightmares!"
 msgstr "裡頭的故事看了會做噩夢！"
 
@@ -150130,6 +150360,11 @@ msgstr "呼，我再也不想再試一次了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLARE_SEEN"
 msgid "A flare! Hold on, I'm comin'!"
 msgstr "有信號！堅持住，我來了！"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_FREEDOM"
@@ -156176,6 +156411,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MADSCIENCE_LAB"
 msgid "I can do some experimentin' with that."
 msgstr "我可以用那個做些實驗。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MAGICIAN_CHEST"
+msgid "I dunno if I want to stick my hand in there."
+msgstr "我還沒想好要不要伸手進去。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MALBATROSS"
 msgid "Yeesh, you're a big fella!"
@@ -160941,6 +161181,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TOPHAT"
 msgid "How bourgeoisie."
 msgstr "資本家的東西。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Max is a little too good at keepin' things under his hat."
+msgstr "麥斯太擅長把東西藏在帽子底下了。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TORCH"
 msgid "There's beauty in a simple design."
@@ -162121,8 +162366,8 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAXWELL.REVIVER"
 msgid "Nice job, ya big walnut."
 msgstr "幹得不錯，大傢伙。"
 
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "I don't trust that thing one bit."
 msgstr "那上面的一個字我都不信。"
 
@@ -164750,6 +164995,11 @@ msgstr "哈！小植物那點毒在沃爾夫岡強大的身軀裡待不了多久
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FLARE_SEEN"
 msgid "Sky fire! Wolfgang is coming, dear friend!"
 msgstr "天火！親愛的朋友，沃爾夫岡來了！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FREEDOM"
@@ -170751,6 +171001,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MADSCIENCE_LAB"
 msgid "Is making Wolfgang brain hurt."
 msgstr "讓沃爾夫岡大傷腦筋。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MAGICIAN_CHEST"
+msgid "Is little disappearing box."
+msgstr "愛玩消失的小箱子。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MALBATROSS"
 msgid "Big fishy bird!"
@@ -175516,6 +175771,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TOPHAT"
 msgid "Is good hat!"
 msgstr "這帽子不錯！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Wolfgang would rather wear something else."
+msgstr "沃爾夫岡寧願戴別的帽子。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TORCH"
 msgid "Attack night with fire stick!"
@@ -176696,8 +176956,8 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.REVIVER"
 msgid "%s is one of us. Ha ha! Yes!"
 msgstr "%s是我們的一員。哈哈！是的！"
 
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Wolfgang is glad he cannot read!"
 msgstr "沃爾夫岡很慶倖自己看不懂字！"
 
@@ -179285,6 +179545,11 @@ msgstr "很高興總算弄好了。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FLARE_SEEN"
 msgid "I should go check out that flare, eh?"
 msgstr "我應該去看看那個信號，對不？"
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FREEDOM"
@@ -185271,6 +185536,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MADSCIENCE_LAB"
 msgid "I prefer simpler things."
 msgstr "我比較喜歡簡單的東西。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MAGICIAN_CHEST"
+msgid "It sure beats international shipping."
+msgstr "肯定比國際航運要好。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MALBATROSS"
 msgid "It just had to be a giant bird."
@@ -188914,7 +189184,7 @@ msgstr "我們家鄉沒有這個。"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEASTACK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEASTACK"
 msgid "It's a sea stack."
-msgstr "海上有堆東西。"
+msgstr "一根海蝕柱。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEEDPOUCH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEEDPOUCH"
@@ -189448,8 +189718,8 @@ msgstr "有一天它可能會長成一棵樹的。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPORE_TALL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPORE_TALL.GENERIC"
-msgid "A flying green pinecone!"
-msgstr "一顆漂浮著的綠色松果！"
+msgid "A flying blue pinecone!"
+msgstr "一顆漂浮著的藍色松果！"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPORE_TALL.HELD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPORE_TALL.HELD"
@@ -190040,6 +190310,11 @@ msgstr "我看像是新的農作物種子。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOPHAT"
 msgid "It's too fancy."
 msgstr "太花哨了。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "I'll stick to a nice cozy toque, thanks."
+msgstr "我還是習慣無邊帽，謝謝了。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TORCH"
@@ -191221,8 +191496,8 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXWELL.REVIVER"
 msgid "You're growin' on me, %s. Like a fungus."
 msgstr "%s，你在對我施加影響。像真菌。"
 
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Trees made into... paper? How unholy!"
 msgstr "樹做成…紙？好罪惡！"
 
@@ -193810,6 +194085,11 @@ msgstr "感覺好些了"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLARE_SEEN"
 msgid "See friend make pretty light."
 msgstr "朋友做出了漂亮的光。"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FREEDOM"
@@ -199846,6 +200126,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MADSCIENCE_LAB"
 msgid "For making scaries"
 msgstr "用來製作驚嚇"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAGICIAN_CHEST"
+msgid "Magic box"
+msgstr "魔力箱"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MALBATROSS"
 msgid "Big Tweeter"
@@ -204611,6 +204896,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TOPHAT"
 msgid "Soft head thing"
 msgstr "柔軟的頭戴物"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Soft... and scary"
+msgstr "軟軟的……很嚇人"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TORCH"
 msgid "Fire Stick"
@@ -205791,8 +206081,8 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELL.REVIVER"
 msgid "Thank you, %s!"
 msgstr "謝謝你，%s！"
 
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Nope"
 msgstr "不"
 
@@ -208376,6 +208666,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLARE_SEEN"
 msgid "One of my friends is inviting me to play!"
 msgstr "朋友在邀請我去玩！"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FREEDOM"
 msgid "I am unbound!"
@@ -210164,7 +210459,7 @@ msgstr "聽說這麼處理可以保存的久一點。"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY"
 msgid "Mortals eat them as a snack."
-msgstr "發明人們把它們當零食吃。"
+msgstr "凡人們把它們當零食吃。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY_COOKED"
@@ -214415,6 +214710,11 @@ msgstr "聞起來很真實。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MADSCIENCE_LAB"
 msgid "A place to stew my magic brew."
 msgstr "燉我魔法釀酒的好地方。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAGICIAN_CHEST"
+msgid "A clever trick to transport things quick."
+msgstr "運輸東西的一條妙計。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MALBATROSS"
@@ -219181,6 +219481,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOPHAT"
 msgid "A stylish imp I'm fit to be!"
 msgstr "只有我最時尚！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Hyuyuyu, he's up to his old tricks!"
+msgstr "哼哼，他又玩那些老把戲了！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TORCH"
 msgid "I won't go astray if this lights my way."
@@ -220361,8 +220666,8 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAXWELL.REVIVER"
 msgid "Thank-you, thank-you %s!"
 msgstr "謝謝，%s！"
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "I don't think he knows how to use it."
 msgstr "他應該不會用。"
 
@@ -222966,6 +223271,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FLARE_SEEN"
 msgid "Fire in sky??"
 msgstr "天空著火了？？"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FREEDOM"
 msgid "Buh-bye!"
@@ -224244,7 +224554,7 @@ msgstr "沒有了。"
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ASPARAGUS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ASPARAGUS"
 msgid "Snack sticks!"
-msgstr "小吃棒!"
+msgstr "小吃棒！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ASPARAGUSSOUP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ASPARAGUSSOUP"
@@ -225869,7 +226179,7 @@ msgstr "長大！長大！"
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARROT_SEEDS"
 msgid "Make more tasty snacks!"
-msgstr "可以做出更美味的小吃！"
+msgstr "可以長出更美味的小吃！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARTOGRAPHYDESK.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARTOGRAPHYDESK.BURNING"
@@ -229085,6 +229395,11 @@ msgstr "土豆拼成了魚的樣子！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MADSCIENCE_LAB"
 msgid "Bubble, bubble!"
 msgstr "泡沫，泡沫！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MAGICIAN_CHEST"
+msgid "Magic hidey-place."
+msgstr "變魔術躲藏的地方。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MALBATROSS"
@@ -233856,6 +234171,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TOPHAT"
 msgid "Oooooh, fancy!"
 msgstr "噢，高級啊！"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "Glurgh, fancy hat got all gloopy."
+msgstr "格勒格，高級帽子變黏了。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TORCH"
 msgid "Fire stick."
@@ -235036,8 +235356,8 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAXWELL.REVIVER"
 msgid "You not seem so bad, florp."
 msgstr "你好像也沒那麼壞，浮浪噗。"
 
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "...Don't like stories in that book."
 msgstr "……不喜歡那本書裡的故事。"
 
@@ -237625,6 +237945,11 @@ msgstr "內部溫控已恢復"
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_FLARE_SEEN"
 msgid "MINION PING RECEIVED"
 msgstr "收到隨從的信號了"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_FOODMEMORY
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_FOODMEMORY"
+msgid "only_used_by_warly"
+msgstr "only_used_by_warly"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_FREEDOM"
@@ -243611,6 +243936,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MADSCIENCE_LAB"
 msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
 msgstr "兄弟！是什麼把你弄瘋了！"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MAGICIAN_CHEST
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MAGICIAN_CHEST"
+msgid "IF ONLY DATA COULD TRAVEL SO EASILY. THE CHAOS THAT COULD BE WROUGHT"
+msgstr "如果資料也能如此輕易地傳輸就好了。那樣就能製造極大的混亂了"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MALBATROSS"
 msgid "THE AWFUL WATER BIRD MUST DIE"
@@ -248376,6 +248706,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT"
 msgid "SOPHISTICATED"
 msgstr "精緻的"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT_MAGICIAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT_MAGICIAN"
+msgid "EXCELLENT. IT LOOKS MUCH MORE EVIL NOW"
+msgstr "非常好。它現在看起來更邪惡了"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TORCH"
 msgid "PRIMITIVE LIGHT SOURCE"
@@ -249556,8 +249891,8 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELL.REVIVER"
 msgid "%s IS SURPRISINGLY COMMITTED TO GROUP SURVIVAL"
 msgstr "令人驚訝的是，%s以團隊存亡為己任"
 
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELLJOURNAL
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELLJOURNAL"
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELLJOURNAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "GOOSEBUMPS ACTIVATED"
 msgstr "起雞皮疙瘩"
 
@@ -250993,8 +251328,8 @@ msgstr "無論薇格弗德以前是什麼，都因時間的沖刷\n和她精湛�
 
 #. STRINGS.CHARACTER_ABOUTME.waxwell
 msgctxt "STRINGS.CHARACTER_ABOUTME.waxwell"
-msgid "Formerly the Shadow King, lately Maxwell finds himself reacquainted with life among the commonfolk."
-msgstr "曾經的暗影王，也就是現在的麥斯威爾，漸\n漸重新熟悉了平民生活。"
+msgid "Formerly the Nightmare King, lately Maxwell finds himself reacquainted with life among the commonfolk."
+msgstr "曾經的夢魘之王，也就是現在的麥斯威爾，漸\n漸重新熟悉了平民生活。"
 
 #. STRINGS.CHARACTER_ABOUTME.webber
 msgctxt "STRINGS.CHARACTER_ABOUTME.webber"
@@ -251653,8 +251988,8 @@ msgstr "*精通戰鬥\n*吸收倒下的敵人的力量\n*重壓之下依然表�
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.waxwell"
-msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Was once the king of the world"
-msgstr "*衣冠楚楚，但很脆弱\n*可以用精神分裂出影分身\n*曾是世界之王"
+msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Draws power from shadowy equipment \n*Was once the king of the world"
+msgstr "*衣冠楚楚，但很脆弱\n*可以用精神分裂出暗影分身\n*能從暗影裝備汲取力量\n*曾是世界之王"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.webber
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.webber"
@@ -259864,7 +260199,7 @@ msgstr "餅乾切割機殼"
 #. STRINGS.NAMES.COOKINGRECIPECARD
 msgctxt "STRINGS.NAMES.COOKINGRECIPECARD"
 msgid "{item} Recipe Card"
-msgstr "{item}食譜"
+msgstr "{item}食譜卡"
 
 #. STRINGS.NAMES.COOKPOT
 msgctxt "STRINGS.NAMES.COOKPOT"
@@ -262421,6 +262756,11 @@ msgctxt "STRINGS.NAMES.MADSCIENCE_LAB"
 msgid "Mad Scientist Lab"
 msgstr "瘋狂科學家實驗室"
 
+#. STRINGS.NAMES.MAGICIAN_CHEST
+msgctxt "STRINGS.NAMES.MAGICIAN_CHEST"
+msgid "Magician's Chest"
+msgstr "魔術師箱子"
+
 #. STRINGS.NAMES.MAGIC_BLUEPRINT
 msgctxt "STRINGS.NAMES.MAGIC_BLUEPRINT"
 msgid "Blank Blueprint"
@@ -262819,12 +263159,12 @@ msgstr "鼴鼠"
 #. STRINGS.NAMES.MOLEBAT
 msgctxt "STRINGS.NAMES.MOLEBAT"
 msgid "Naked Mole Bat"
-msgstr "裸鼴鼠蝙蝠"
+msgstr "裸鼴蝠"
 
 #. STRINGS.NAMES.MOLEBATHILL
 msgctxt "STRINGS.NAMES.MOLEBATHILL"
 msgid "Naked Mole Bat Burrow"
-msgstr "裸鼴鼠蝙蝠山丘"
+msgstr "裸鼴蝠土丘"
 
 #. STRINGS.NAMES.MOLEHAT
 msgctxt "STRINGS.NAMES.MOLEHAT"
@@ -264719,7 +265059,7 @@ msgstr "甘露煮魚"
 #. STRINGS.NAMES.QUAGMIRE_FOOD_029
 msgctxt "STRINGS.NAMES.QUAGMIRE_FOOD_029"
 msgid "Stuffed Mushroom"
-msgstr "塞滿餡料的蘑菇"
+msgstr "釀蘑菇"
 
 #. STRINGS.NAMES.QUAGMIRE_FOOD_030
 msgctxt "STRINGS.NAMES.QUAGMIRE_FOOD_030"
@@ -265954,7 +266294,7 @@ msgstr "海鮮濃湯"
 #. STRINGS.NAMES.SEASTACK
 msgctxt "STRINGS.NAMES.SEASTACK"
 msgid "Sea Stack"
-msgstr "浮堆"
+msgstr "海蝕柱"
 
 #. STRINGS.NAMES.SEEDPOUCH
 msgctxt "STRINGS.NAMES.SEEDPOUCH"
@@ -266916,6 +267256,11 @@ msgctxt "STRINGS.NAMES.TOPHAT"
 msgid "Top Hat"
 msgstr "高禮帽"
 
+#. STRINGS.NAMES.TOPHAT_MAGICIAN
+msgctxt "STRINGS.NAMES.TOPHAT_MAGICIAN"
+msgid "Magician's Top Hat"
+msgstr "魔術師高禮帽"
+
 #. STRINGS.NAMES.TORCH
 msgctxt "STRINGS.NAMES.TORCH"
 msgid "Torch"
@@ -267384,17 +267729,17 @@ msgstr "月亮碼頭海灘地皮"
 #. STRINGS.NAMES.TURF_MOSAIC_BLUE
 msgctxt "STRINGS.NAMES.TURF_MOSAIC_BLUE"
 msgid "Blue Mosaic Flooring"
-msgstr "藍色馬賽克地面"
+msgstr "藍色馬賽克地板"
 
 #. STRINGS.NAMES.TURF_MOSAIC_GREY
 msgctxt "STRINGS.NAMES.TURF_MOSAIC_GREY"
 msgid "Grey Mosaic Flooring"
-msgstr "灰色馬賽克地面"
+msgstr "灰色馬賽克地板"
 
 #. STRINGS.NAMES.TURF_MOSAIC_RED
 msgctxt "STRINGS.NAMES.TURF_MOSAIC_RED"
 msgid "Red Mosaic Flooring"
-msgstr "紅色馬賽克地面"
+msgstr "紅色馬賽克地板"
 
 #. STRINGS.NAMES.TURF_MUD
 msgctxt "STRINGS.NAMES.TURF_MUD"
@@ -271921,6 +272266,11 @@ msgctxt "STRINGS.RECIPE_DESC.MADSCIENCE_LAB"
 msgid "Mad science has no limits. Except sanity."
 msgstr "瘋狂實驗無極限。唯獨神智有極限。"
 
+#. STRINGS.RECIPE_DESC.MAGICIAN_CHEST
+msgctxt "STRINGS.RECIPE_DESC.MAGICIAN_CHEST"
+msgid "Imprison your belongings in a shadowy vortex."
+msgstr "將你的物品囚禁在一個暗影漩渦中。"
+
 #. STRINGS.RECIPE_DESC.MALBATROSS_FEATHERED_WEAVE
 msgctxt "STRINGS.RECIPE_DESC.MALBATROSS_FEATHERED_WEAVE"
 msgid "A fine feathered fabric."
@@ -273035,6 +273385,11 @@ msgstr "慢慢去處病痛。"
 msgctxt "STRINGS.RECIPE_DESC.TOPHAT"
 msgid "The classiest hat of all."
 msgstr "最經典的帽子款式。"
+
+#. STRINGS.RECIPE_DESC.TOPHAT_MAGICIAN
+msgctxt "STRINGS.RECIPE_DESC.TOPHAT_MAGICIAN"
+msgid "Black magic goes with everything."
+msgstr "百搭的黑魔法。"
 
 #. STRINGS.RECIPE_DESC.TORCH
 msgctxt "STRINGS.RECIPE_DESC.TORCH"
@@ -274761,6 +275116,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_sanity_sharp"
 msgid "Black suits you."
 msgstr "黑色適合你。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.armor_sanity_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_sanity_wizard"
+msgid "This cloak clings to you like your own shadow."
+msgstr "這個斗篷會如影隨形地黏著你。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.armor_skeleton_shadowscalemail
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_skeleton_shadowscalemail"
 msgid "These shadows will hide your body from harm."
@@ -276176,6 +276536,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_formal"
 msgid "The delightful aroma of mothballs and decay wafts off it."
 msgstr "衛生球的芳香漸漸消逝，彌漫在空中。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_formalp"
+msgid "The delightful aroma of mothballs and decay wafts off it."
+msgstr "衛生球的芳香漸漸消逝，彌漫在空中。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_gladiator"
 msgid "Brew alchemical mixtures in style with this alchemist's robe top."
@@ -276211,13 +276576,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_rose"
 msgid "People should know better than to grow too close to you."
 msgstr "聰明一點的人都應該懂得不要太接近你。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_rosep"
+msgid "People should know better than to grow too close to you."
+msgstr "聰明一點的人都應該懂得不要太接近你。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_survivor"
 msgid "A tragic end to a once-dapper three piece suit."
 msgstr "整潔的三件套以悲劇收尾。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_survivorp"
+msgid "A tragic end to a once-dapper three piece suit."
+msgstr "整潔的三件套以悲劇收尾。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_unshadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_unshadow"
+msgid "This look hearkens back to a simpler time. You are missed, Charlie."
+msgstr "這個表情揭示了過去的簡單生活。查理，你迷失了自我。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_unshadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_unshadowp"
 msgid "This look hearkens back to a simpler time. You are missed, Charlie."
 msgstr "這個表情揭示了過去的簡單生活。查理，你迷失了自我。"
 
@@ -276230,6 +276610,11 @@ msgstr "伯爵專屬斗篷。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_victorian"
 msgid "The extravagant attire of an influential upper cruster."
 msgstr "一位極具影響力的上流社會名人的奢華裝束。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_wizard"
+msgid "The well-worn robes of a master practitioner of the dark arts."
+msgstr "一個黑暗藝術大師所穿的破舊長袍。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_yule"
@@ -278406,6 +278791,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_waxwell_nature"
 msgid "Ground yourself by feeling the earth beneath your feet."
 msgstr "直接感受腳下的土地，你會特別接地氣。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_waxwell_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_waxwell_wizard"
+msgid "The pointy shoes of a sharply dressed wizard."
+msgstr "所有衣著光鮮的巫師都必備的尖頭鞋。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_webber_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_webber_gladiator"
 msgid "Freshly sharpened spider toesies, ready for a fight."
@@ -279455,6 +279845,11 @@ msgstr "吸血紳士絕不會不帶手套就離開棺材。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_victorian"
 msgid "A pair of white gloves for a high class snob."
 msgstr "勢利的上流社會人士戴的白手套。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_wizard"
+msgid "These hands have cast more than their fair share of curses."
+msgstr "這雙手施展了無數的詛咒。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_yule"
@@ -281701,6 +282096,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.multitool_axe_pickaxe_pickaxeaxe"
 msgid "How much could a pickaxe axe?"
 msgstr "一把鶴嘴鋤能刨多少東西？"
 
+#. STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_an"
+msgid "Put this living work of art someplace where it will really shine!"
+msgstr "把這件鮮活的藝術作品放在一個真正能讓它發光的地方吧！"
+
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_cawnival"
 msgid "These mushrooms have a warm glow that reminds you of summer."
@@ -281820,6 +282220,11 @@ msgstr "一把由最烏黑的瀝青製成的劍，刀鋒帶出最黑暗的陰影
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.nightsword_sharp"
 msgid "Show them no mercy."
 msgstr "絕不留情。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.nightsword_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.nightsword_wizard"
+msgid "Your enemies are usually slain before the curse can take effect. A pity, really."
+msgstr "你的敵人通常在詛咒生效之前就被殺死了。真是遺憾。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.none"
@@ -282911,6 +283316,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_valkyrie2"
 msgid "This Chest contains Wigfrid's complete set of Winged Victory skin items, as well as the Winged Victory belongings skins."
 msgstr "這個箱子包含了薇格弗德的全套勝利之翼皮膚物品，以及勝利之翼財物皮膚。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_deluxe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_deluxe"
+msgid "This Deluxe Wardrobe contains Maxwell's complete set of Guest of Honor, Roseate, Survivor, Untriumphant, and Dark Wizard skin items."
+msgstr "該豪華衣櫃包含麥斯威爾的全套皮膚，貴賓、玫瑰、冒險家、潰敗，和黑巫師皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_formal"
+msgid "This Chest contains Maxwell's complete set of Guest of Honor skin items."
+msgstr "這個箱子包含了麥斯威爾的全套貴賓皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_rose"
+msgid "This Chest contains Maxwell's complete set of Roseate skin items."
+msgstr "這個箱子裡包含了麥斯威爾的全套玫瑰皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_survivor"
+msgid "This Chest contains Maxwell's complete set of Survivor skin items."
+msgstr "這個箱子裡包含了麥斯威爾的全套冒險家皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_unshadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_unshadow"
+msgid "This Chest contains Maxwell's complete set of Untriumphant skin items."
+msgstr "這個箱子裡包含了麥斯威爾的全套潰敗皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_wizard"
+msgid "This Chest contains Maxwell's complete set of Dark Wizard skin items."
+msgstr "這個箱子裡包含了麥斯威爾的全套黑巫師皮膚物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wb_0
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wb_0"
 msgid "This chest contains 3000 Bolts of Cloth!"
@@ -283120,6 +283555,11 @@ msgstr "這個寶箱包含薇諾娜的全套凱旋皮膚。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_winona_survivor"
 msgid "This Chest contains Winona's complete set of Survivor skin items."
 msgstr "這個寶箱包含薇諾娜的全套冒險家皮膚。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wizard_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wizard_items"
+msgid "This Dark Wizard's Effects Chest contains the following skin items: Cursed Cloak, Cursed Sabre, and Showman's Shadow Hat."
+msgstr "這個黑巫師裝備箱子包含了下列皮膚物品：詛咒斗篷、詛咒之劍和表演家的暗影帽。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wolfgang_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wolfgang_deluxe"
@@ -283881,6 +284321,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroom"
 msgid "Equip this item to change your character's background portrait."
 msgstr "裝備此物品以更改你的角色背景畫像。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlight2an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlight2an"
+msgid "Equip this item to change your character's background portrait."
+msgstr "裝備此物品以更改你的角色背景畫像。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_oven
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_oven"
 msgid "Equip this item to change your character's background portrait."
@@ -284565,6 +285010,11 @@ msgstr "將你的頭像設為一根棱鏡喚月者魔杖。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mudpie_yotp"
 msgid "Set your profile icon to a yummy Eight Treasures Mud Pie."
 msgstr "將你的頭像設為美味的八寶泥餡餅。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_light2an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_light2an"
+msgid "Set your profile icon to an Eclectic Glowcap."
+msgstr "將你的頭像設為一盞折衷蘑菇燈。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight"
@@ -285446,6 +285896,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_harlequin"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_spiked
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_spiked"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_wizard"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre"
 msgid "n/a"
@@ -285816,10 +286276,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_merchant"
 msgid "This hat lets everyone know that you have useful wares for sale."
 msgstr "戴上這頂帽子後，大家一看就知道你有好貨在賣。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.tophat_spiked
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_spiked"
+msgid "This hat is filled to the brim with dapper darkness."
+msgstr "這頂帽子充滿了瀟灑的黑暗氣息。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_witch_pyre
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_witch_pyre"
 msgid "A symbol of stake-burnt sisterhood."
 msgstr "真金火煉的姐妹情的象徵。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.tophat_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_wizard"
+msgid "Every self-respecting wizard requires a tall pointy hat."
+msgstr "每個有自尊心的巫師都需要一頂高高的尖帽。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat"
@@ -286194,7 +286664,7 @@ msgstr "野外求生的第一條準則就是學會什麼時候從視線中消失
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_ventriloquist
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_ventriloquist"
 msgid "Hats off to another chilling tale well told!"
-msgstr "向又一個驚心動魄的故事脫帽致敬，講得好!"
+msgstr "向又一個驚心動魄的故事脫帽致敬，講得好！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_victorian"
@@ -286491,6 +286961,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_formal"
 msgid "Against all possible odds Maxwell has become even more dapper."
 msgstr "克服所有困難後，麥斯威爾變得更加犀利了。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.waxwell_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_formalp"
+msgid "Against all possible odds Maxwell has become even more dapper."
+msgstr "克服所有困難後，麥斯威爾變得更加犀利了。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_gladiator"
 msgid "Maxwell is both dark AND brooding."
@@ -286536,13 +287011,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_rose"
 msgid "Ladies and gentlemen, a round of applause for our lovely assistant."
 msgstr "女士們先生們，請為我們可愛的助手熱烈鼓掌。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.waxwell_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_rosep"
+msgid "Ladies and gentlemen, a round of applause for our lovely assistant."
+msgstr "女士們先生們，請為我們可愛的助手熱烈鼓掌。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_survivor"
 msgid "This is Maxwell, the intrepid explorer."
 msgstr "這是麥斯威爾，他是勇敢的探險家。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.waxwell_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_survivorp"
+msgid "This is Maxwell, the intrepid explorer."
+msgstr "這是麥斯威爾，他是勇敢的探險家。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_unshadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_unshadow"
+msgid "Before it all went so wrong..."
+msgstr "在一切走向錯誤之前..."
+
+#. STRINGS.SKIN_DESCRIPTIONS.waxwell_unshadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_unshadowp"
 msgid "Before it all went so wrong..."
 msgstr "在一切走向錯誤之前..."
 
@@ -286555,6 +287045,11 @@ msgstr "這套吸血惡魔的裝扮似乎很適合他。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_victorian"
 msgid "Money and affluence have gone straight to this gentleman's head."
 msgstr "金錢和財富都直接進入了這位紳士的頭中。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.waxwell_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_wizard"
+msgid "Years spent steeped in dark magic have left Maxwell looking rather... wizened."
+msgstr "沉浸黑暗魔法後，麥斯威爾看起來相當……狡猾。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_yule"
@@ -288251,6 +288746,11 @@ msgctxt "STRINGS.SKIN_NAMES.armor_sanity_sharp"
 msgid "Corrupted Cloak"
 msgstr "腐敗斗篷"
 
+#. STRINGS.SKIN_NAMES.armor_sanity_wizard
+msgctxt "STRINGS.SKIN_NAMES.armor_sanity_wizard"
+msgid "Cursed Cloak"
+msgstr "詛咒斗篷"
+
 #. STRINGS.SKIN_NAMES.armor_skeleton_shadowscalemail
 msgctxt "STRINGS.SKIN_NAMES.armor_skeleton_shadowscalemail"
 msgid "Shadow Scalemail"
@@ -289666,6 +290166,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_waxwell_formal"
 msgid "Striking Tuxedo"
 msgstr "引人注目的晚禮服"
 
+#. STRINGS.SKIN_NAMES.body_waxwell_formalp
+msgctxt "STRINGS.SKIN_NAMES.body_waxwell_formalp"
+msgid "Striking Tuxedo"
+msgstr "引人注目的晚禮服"
+
 #. STRINGS.SKIN_NAMES.body_waxwell_gladiator
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_gladiator"
 msgid "Alchemist's Robe Top"
@@ -289701,13 +290206,28 @@ msgctxt "STRINGS.SKIN_NAMES.body_waxwell_rose"
 msgid "Twisted Rose Attire"
 msgstr "扭曲玫瑰服裝"
 
+#. STRINGS.SKIN_NAMES.body_waxwell_rosep
+msgctxt "STRINGS.SKIN_NAMES.body_waxwell_rosep"
+msgid "Twisted Rose Attire"
+msgstr "扭曲玫瑰服裝"
+
 #. STRINGS.SKIN_NAMES.body_waxwell_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_survivor"
 msgid "Frayed Finery"
 msgstr "磨損的服飾"
 
+#. STRINGS.SKIN_NAMES.body_waxwell_survivorp
+msgctxt "STRINGS.SKIN_NAMES.body_waxwell_survivorp"
+msgid "Frayed Finery"
+msgstr "磨損的服飾"
+
 #. STRINGS.SKIN_NAMES.body_waxwell_unshadow
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_unshadow"
+msgid "Unshadow Suit"
+msgstr "無影西裝"
+
+#. STRINGS.SKIN_NAMES.body_waxwell_unshadowp
+msgctxt "STRINGS.SKIN_NAMES.body_waxwell_unshadowp"
 msgid "Unshadow Suit"
 msgstr "無影西裝"
 
@@ -289720,6 +290240,11 @@ msgstr "吸血鬼斗篷"
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_victorian"
 msgid "Aristocrat's Fine Overcoat"
 msgstr "貴族的上等大衣"
+
+#. STRINGS.SKIN_NAMES.body_waxwell_wizard
+msgctxt "STRINGS.SKIN_NAMES.body_waxwell_wizard"
+msgid "Dark Wizard's Robe"
+msgstr "黑巫師長袍"
 
 #. STRINGS.SKIN_NAMES.body_waxwell_yule
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_yule"
@@ -291896,6 +292421,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_waxwell_nature"
 msgid "Dryad's Sandals"
 msgstr "樹妖的涼鞋"
 
+#. STRINGS.SKIN_NAMES.feet_waxwell_wizard
+msgctxt "STRINGS.SKIN_NAMES.feet_waxwell_wizard"
+msgid "Wizardly Winklepickers"
+msgstr "巫師尖頭鞋"
+
 #. STRINGS.SKIN_NAMES.feet_webber_gladiator
 msgctxt "STRINGS.SKIN_NAMES.feet_webber_gladiator"
 msgid "Fiend's Talons"
@@ -292946,6 +293476,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_victorian"
 msgid "Aristocrat's Fine Gloves"
 msgstr "貴族的上等手套"
 
+#. STRINGS.SKIN_NAMES.hand_waxwell_wizard
+msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_wizard"
+msgid "Wizened Hands"
+msgstr "巫師之手"
+
 #. STRINGS.SKIN_NAMES.hand_waxwell_yule
 msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_yule"
 msgid "Homebody Handrings"
@@ -292959,7 +293494,7 @@ msgstr "惡魔爪子"
 #. STRINGS.SKIN_NAMES.hand_webber_lunar
 msgctxt "STRINGS.SKIN_NAMES.hand_webber_lunar"
 msgid "Moonglass Pincers"
-msgstr "月光玻璃夾子"
+msgstr "月光玻璃鉗子"
 
 #. STRINGS.SKIN_NAMES.hand_webber_magma
 msgctxt "STRINGS.SKIN_NAMES.hand_webber_magma"
@@ -295191,6 +295726,11 @@ msgctxt "STRINGS.SKIN_NAMES.multitool_axe_pickaxe_pickaxeaxe"
 msgid "Pickaxe Axe"
 msgstr "鎬斧"
 
+#. STRINGS.SKIN_NAMES.mushroom_light2_an
+msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_an"
+msgid "Eclectic Glowcap"
+msgstr "折衷蘑菇燈"
+
 #. STRINGS.SKIN_NAMES.mushroom_light2_cawnival
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_cawnival"
 msgid "Cawnival Lamp"
@@ -295310,6 +295850,11 @@ msgstr "魔光劍"
 msgctxt "STRINGS.SKIN_NAMES.nightsword_sharp"
 msgid "Corrupted Blade"
 msgstr "腐敗刀鋒"
+
+#. STRINGS.SKIN_NAMES.nightsword_wizard
+msgctxt "STRINGS.SKIN_NAMES.nightsword_wizard"
+msgid "Cursed Sabre"
+msgstr "詛咒之劍"
 
 #. STRINGS.SKIN_NAMES.none
 msgctxt "STRINGS.SKIN_NAMES.none"
@@ -296401,6 +296946,36 @@ msgctxt "STRINGS.SKIN_NAMES.pack_wathgrithr_valkyrie2"
 msgid "Wigfrid Winged Victory Chest"
 msgstr "薇格弗德勝利之翼箱子"
 
+#. STRINGS.SKIN_NAMES.pack_waxwell_deluxe
+msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_deluxe"
+msgid "Maxwell Deluxe Wardrobe"
+msgstr "麥斯威爾豪華衣櫃"
+
+#. STRINGS.SKIN_NAMES.pack_waxwell_formal
+msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_formal"
+msgid "Maxwell Guest of Honor Chest"
+msgstr "麥斯威爾貴賓箱子"
+
+#. STRINGS.SKIN_NAMES.pack_waxwell_rose
+msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_rose"
+msgid "Maxwell Roseate Chest"
+msgstr "麥斯威爾玫瑰箱子"
+
+#. STRINGS.SKIN_NAMES.pack_waxwell_survivor
+msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_survivor"
+msgid "Maxwell Survivor Chest"
+msgstr "麥斯威爾冒險家箱子"
+
+#. STRINGS.SKIN_NAMES.pack_waxwell_unshadow
+msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_unshadow"
+msgid "Maxwell Untriumphant Chest"
+msgstr "麥斯威爾潰敗箱子"
+
+#. STRINGS.SKIN_NAMES.pack_waxwell_wizard
+msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_wizard"
+msgid "Maxwell Dark Wizard Chest"
+msgstr "麥斯威爾黑巫師箱子"
+
 #. STRINGS.SKIN_NAMES.pack_wb_0
 msgctxt "STRINGS.SKIN_NAMES.pack_wb_0"
 msgid "Tiny Bolt Chest"
@@ -296610,6 +297185,11 @@ msgstr "薇諾娜凱旋箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_winona_survivor"
 msgid "Winona Survivor Chest"
 msgstr "薇諾娜冒險家箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wizard_items
+msgctxt "STRINGS.SKIN_NAMES.pack_wizard_items"
+msgid "Dark Wizard's Effects Chest"
+msgstr "黑巫師裝備箱子"
 
 #. STRINGS.SKIN_NAMES.pack_wolfgang_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_wolfgang_deluxe"
@@ -297371,6 +297951,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroom"
 msgid "Mushroom Portrait"
 msgstr "蘑菇背景"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlight2an
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlight2an"
+msgid "Eclectic Glowcap Portrait"
+msgstr "折衷蘑菇燈背景"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_oven
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_oven"
 msgid "Warm Oven Portrait"
@@ -298055,6 +298640,11 @@ msgstr "棱鏡喚月者魔杖"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mudpie_yotp"
 msgid "Eight Treasures Mud Pie"
 msgstr "八寶泥餡餅"
+
+#. STRINGS.SKIN_NAMES.profileflair_mushroom_light2an
+msgctxt "STRINGS.SKIN_NAMES.profileflair_mushroom_light2an"
+msgid "Eclectic Glowcap"
+msgstr "折衷蘑菇燈"
 
 #. STRINGS.SKIN_NAMES.profileflair_nightlight
 msgctxt "STRINGS.SKIN_NAMES.profileflair_nightlight"
@@ -298936,6 +299526,16 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_harlequin"
 msgid "Prestifoolinator"
 msgstr "愚人靈子分解器"
 
+#. STRINGS.SKIN_NAMES.researchlab4_tophat_spiked
+msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_spiked"
+msgid "Showy Prestishadowtator"
+msgstr "炫技暗影站"
+
+#. STRINGS.SKIN_NAMES.researchlab4_tophat_wizard
+msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_wizard"
+msgid "Prestiwizhatator"
+msgstr "巫師站"
+
 #. STRINGS.SKIN_NAMES.researchlab4_witch_pyre
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_witch_pyre"
 msgid "Prestiwitchatator"
@@ -299306,10 +299906,20 @@ msgctxt "STRINGS.SKIN_NAMES.tophat_merchant"
 msgid "Merchant Hat"
 msgstr "商人帽"
 
+#. STRINGS.SKIN_NAMES.tophat_spiked
+msgctxt "STRINGS.SKIN_NAMES.tophat_spiked"
+msgid "Showman's Shadow Hat"
+msgstr "表演家的暗影帽"
+
 #. STRINGS.SKIN_NAMES.tophat_witch_pyre
 msgctxt "STRINGS.SKIN_NAMES.tophat_witch_pyre"
 msgid "Fiery Witch's Hat"
 msgstr "火爆女巫帽"
+
+#. STRINGS.SKIN_NAMES.tophat_wizard
+msgctxt "STRINGS.SKIN_NAMES.tophat_wizard"
+msgid "Dark Wizard's Hat"
+msgstr "黑巫師帽"
 
 #. STRINGS.SKIN_NAMES.torch_carrat
 msgctxt "STRINGS.SKIN_NAMES.torch_carrat"
@@ -299674,7 +300284,7 @@ msgstr "月之童子軍帽"
 #. STRINGS.SKIN_NAMES.walterhat_nature
 msgctxt "STRINGS.SKIN_NAMES.walterhat_nature"
 msgid "Adventurer's Kerchief"
-msgstr "冒險家手帕"
+msgstr "冒險家頭巾"
 
 #. STRINGS.SKIN_NAMES.walterhat_survivor
 msgctxt "STRINGS.SKIN_NAMES.walterhat_survivor"
@@ -299981,6 +300591,11 @@ msgctxt "STRINGS.SKIN_NAMES.waxwell_formal"
 msgid "Guest of Honor"
 msgstr "貴賓"
 
+#. STRINGS.SKIN_NAMES.waxwell_formalp
+msgctxt "STRINGS.SKIN_NAMES.waxwell_formalp"
+msgid "Guest of Honor"
+msgstr "貴賓"
+
 #. STRINGS.SKIN_NAMES.waxwell_gladiator
 msgctxt "STRINGS.SKIN_NAMES.waxwell_gladiator"
 msgid "The Gladiator"
@@ -300026,13 +300641,28 @@ msgctxt "STRINGS.SKIN_NAMES.waxwell_rose"
 msgid "The Roseate"
 msgstr "玫瑰"
 
+#. STRINGS.SKIN_NAMES.waxwell_rosep
+msgctxt "STRINGS.SKIN_NAMES.waxwell_rosep"
+msgid "The Roseate"
+msgstr "玫瑰"
+
 #. STRINGS.SKIN_NAMES.waxwell_survivor
 msgctxt "STRINGS.SKIN_NAMES.waxwell_survivor"
 msgid "The Survivor"
 msgstr "冒險家"
 
+#. STRINGS.SKIN_NAMES.waxwell_survivorp
+msgctxt "STRINGS.SKIN_NAMES.waxwell_survivorp"
+msgid "The Survivor"
+msgstr "冒險家"
+
 #. STRINGS.SKIN_NAMES.waxwell_unshadow
 msgctxt "STRINGS.SKIN_NAMES.waxwell_unshadow"
+msgid "The Untriumphant"
+msgstr "潰敗"
+
+#. STRINGS.SKIN_NAMES.waxwell_unshadowp
+msgctxt "STRINGS.SKIN_NAMES.waxwell_unshadowp"
 msgid "The Untriumphant"
 msgstr "潰敗"
 
@@ -300045,6 +300675,11 @@ msgstr "吸血鬼"
 msgctxt "STRINGS.SKIN_NAMES.waxwell_victorian"
 msgid "The Victorian"
 msgstr "維多利亞"
+
+#. STRINGS.SKIN_NAMES.waxwell_wizard
+msgctxt "STRINGS.SKIN_NAMES.waxwell_wizard"
+msgid "The Dark Wizard"
+msgstr "黑巫師"
 
 #. STRINGS.SKIN_NAMES.waxwell_yule
 msgctxt "STRINGS.SKIN_NAMES.waxwell_yule"
@@ -300094,7 +300729,7 @@ msgstr "蛛絲下雪鬍鬚"
 #. STRINGS.SKIN_NAMES.webber_beard_lunar
 msgctxt "STRINGS.SKIN_NAMES.webber_beard_lunar"
 msgid "Silky Moonbound Beard"
-msgstr "絲滑月亮須"
+msgstr "蛛絲月亮鬍鬚"
 
 #. STRINGS.SKIN_NAMES.webber_beard_magma
 msgctxt "STRINGS.SKIN_NAMES.webber_beard_magma"
@@ -300704,7 +301339,7 @@ msgstr "下雪鬍鬚"
 #. STRINGS.SKIN_NAMES.wilson_beard_lunar
 msgctxt "STRINGS.SKIN_NAMES.wilson_beard_lunar"
 msgid "Moonbound Beard"
-msgstr "月亮須"
+msgstr "月亮鬍鬚"
 
 #. STRINGS.SKIN_NAMES.wilson_beard_madscience
 msgctxt "STRINGS.SKIN_NAMES.wilson_beard_madscience"
@@ -301841,6 +302476,11 @@ msgctxt "STRINGS.SKIN_QUOTES.waxwell_formal"
 msgid "\"I just need to find my beautiful assistant.\""
 msgstr "\"我得找到我那漂亮的助理。\""
 
+#. STRINGS.SKIN_QUOTES.waxwell_formalp
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_formalp"
+msgid "\"I just need to find my beautiful assistant.\""
+msgstr "\"我得找到我那漂亮的助理。\""
+
 #. STRINGS.SKIN_QUOTES.waxwell_gladiator
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_gladiator"
 msgid "\"All those who oppose me shall perish!\""
@@ -301881,13 +302521,28 @@ msgctxt "STRINGS.SKIN_QUOTES.waxwell_rose"
 msgid "\"The thorned rose cannot help but prick. It is its nature.\""
 msgstr "\"帶刺的玫瑰除了紮人 就沒什麼用。這是它的天性。\""
 
+#. STRINGS.SKIN_QUOTES.waxwell_rosep
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_rosep"
+msgid "\"The thorned rose cannot help but prick. It is its nature.\""
+msgstr "\"帶刺的玫瑰除了紮人 就沒什麼用。這是它的天性。\""
+
 #. STRINGS.SKIN_QUOTES.waxwell_survivor
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_survivor"
 msgid "\"Say, pal, I don't look so good.\""
 msgstr "\"喂，朋友，我看起來不太好。\""
 
+#. STRINGS.SKIN_QUOTES.waxwell_survivorp
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_survivorp"
+msgid "\"Say, pal, I don't look so good.\""
+msgstr "\"喂，朋友，我看起來不太好。\""
+
 #. STRINGS.SKIN_QUOTES.waxwell_unshadow
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_unshadow"
+msgid "\"The poor unsuspecting fool has no idea what's coming.\""
+msgstr "\"這可憐又容易相信他人的傻蛋 並不知道將要發生什麼。\""
+
+#. STRINGS.SKIN_QUOTES.waxwell_unshadowp
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_unshadowp"
 msgid "\"The poor unsuspecting fool has no idea what's coming.\""
 msgstr "\"這可憐又容易相信他人的傻蛋 並不知道將要發生什麼。\""
 
@@ -301900,6 +302555,11 @@ msgstr "\"我喜歡這套衣服，非常有戲劇張力。\""
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_victorian"
 msgid "\"Hmph.\""
 msgstr "\"哼。\""
+
+#. STRINGS.SKIN_QUOTES.waxwell_wizard
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_wizard"
+msgid "\"So few dare to delve into the secrets of dark magic.\""
+msgstr "“鮮有人敢於深入研究黑魔法的奧秘。”"
 
 #. STRINGS.SKIN_QUOTES.waxwell_yule
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_yule"
@@ -303416,6 +304076,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.WINTER"
 msgid "Winter Collection"
 msgstr "冬季系列"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.WIZARD
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.WIZARD"
+msgid "Dark Wizard Collection"
+msgstr "黑巫師系列"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.YOTC
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.YOTC"
 msgid "Year of the Carrat Collection"
@@ -304381,6 +305046,31 @@ msgctxt "STRINGS.SONGS.WALTER_GLOMMER_GUTS.lines.5.message"
 msgid "And me without my spoon."
 msgstr "我手裡卻沒有勺子。"
 
+#. STRINGS.SPELLS.SHADOW_PILLARS
+msgctxt "STRINGS.SPELLS.SHADOW_PILLARS"
+msgid "Shadow Prison"
+msgstr "暗影囚牢"
+
+#. STRINGS.SPELLS.SHADOW_PROTECTOR
+msgctxt "STRINGS.SPELLS.SHADOW_PROTECTOR"
+msgid "Shadow Duelist"
+msgstr "暗影角鬥士"
+
+#. STRINGS.SPELLS.SHADOW_TRAP
+msgctxt "STRINGS.SPELLS.SHADOW_TRAP"
+msgid "Shadow Sneak"
+msgstr "暗影陷阱"
+
+#. STRINGS.SPELLS.SHADOW_UNSUMMON
+msgctxt "STRINGS.SPELLS.SHADOW_UNSUMMON"
+msgid "Return Shadows"
+msgstr "歸還暗影"
+
+#. STRINGS.SPELLS.SHADOW_WORKER
+msgctxt "STRINGS.SPELLS.SHADOW_WORKER"
+msgid "Shadow Servant"
+msgstr "暗影僕人"
+
 #. STRINGS.STACKMOD
 msgctxt "STRINGS.STACKMOD"
 msgid "Stack"
@@ -304993,8 +305683,8 @@ msgstr "魔魔法衝刺！"
 
 #. STRINGS.STAGEACTOR.ACT2_SCENE4.LINE43
 msgctxt "STRINGS.STAGEACTOR.ACT2_SCENE4.LINE43"
-msgid "Is that really how she remembers it?"
-msgstr "她真的那樣記得嗎？"
+msgid "I wonder just how much she really remembers."
+msgstr "我想知道她到底記得多少。"
 
 #. STRINGS.STAGEACTOR.ACT2_SCENE4.LINE44
 msgctxt "STRINGS.STAGEACTOR.ACT2_SCENE4.LINE44"
@@ -309459,17 +310149,17 @@ msgstr "用 {doodad_count} 個線軸編織此物品：{item_name}？\n\n你將�
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
 msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
-msgstr "把{count}份重複物品拆解為{doodad_count}線軸嗎？\n\n你將總共獲得{doodad_net}線軸。"
+msgstr "把{count}份重複物品拆解為{doodad_count}線軸嗎？\n\n你將擁有總計{doodad_net}線軸。"
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
 msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
-msgstr "把1份重複物品拆解為{doodad_count}線軸嗎？\n\n你將總共獲得{doodad_net}線軸。"
+msgstr "把1份重複物品拆解為{doodad_count}線軸嗎？\n\n你將擁有總計{doodad_net}線軸。"
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
 msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
-msgstr "是否將此 {item_name} 拆散成 {doodad_count} 個線軸？\n\n你會獲得總共 {doodad_net} 個線軸。\n線軸是用來編織“織造”珍寶。"
+msgstr "是否將此 {item_name} 拆散成 {doodad_count} 個線軸？\n\n你將擁有總計{doodad_net}線軸。\n線軸是用來編織“織造”珍寶。"
 
 #. STRINGS.UI.BARTERSCREEN.FAILED_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.FAILED_BODY"
@@ -314189,7 +314879,7 @@ msgstr "缺少預設名"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLEBATS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLEBATS"
 msgid "Naked Mole Bats"
-msgstr "裸鼴鼠蝙蝠"
+msgstr "裸鼴蝠"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES"
@@ -314551,6 +315241,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA"
 msgid "Dare you prove yourself in The Forge?"
 msgstr "你敢去熔爐裡證明你自己的實力嗎？"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT"
+msgid "A dark twist on the standard Don't Starve experience."
+msgstr "在標準《饑荒》體驗的基礎上添加黑暗基調。"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING"
 msgid "This preset came from a mod, but that mod isn't active right now!"
@@ -314690,6 +315385,11 @@ msgstr "無盡"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LAVAARENA"
 msgid "The Forge"
 msgstr "熔爐"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LIGHTS_OUT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LIGHTS_OUT"
+msgid "Lights Out"
+msgstr "暗無天日"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING"
@@ -315179,7 +315879,7 @@ msgstr "繼續"
 #. STRINGS.UI.DATACOLLECTION_LOGIN.TITLE
 msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.TITLE"
 msgid "Offline Mode"
-msgstr "線下模式"
+msgstr "離線模式"
 
 #. STRINGS.UI.DATACOLLECTION_POPUP.BODY
 msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.BODY"
@@ -315839,7 +316539,7 @@ msgstr "登錄"
 #. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE"
 msgid "Offline"
-msgstr "線下"
+msgstr "離線"
 
 #. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE"
@@ -317399,7 +318099,7 @@ msgstr "{num}/{max}"
 #. STRINGS.UI.LOBBYSCREEN.OFFLINE
 msgctxt "STRINGS.UI.LOBBYSCREEN.OFFLINE"
 msgid "Not Available Offline"
-msgstr "無法線下使用"
+msgstr "無法離線使用"
 
 #. STRINGS.UI.LOBBYSCREEN.PLAYER
 msgctxt "STRINGS.UI.LOBBYSCREEN.PLAYER"
@@ -317689,7 +318389,7 @@ msgstr "資料"
 #. STRINGS.UI.MAINSCREEN.CONSOLE_EDITION_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.CONSOLE_EDITION_TEXT"
 msgid "Console Edition"
-msgstr "控制台版本"
+msgstr "主機版"
 
 #. STRINGS.UI.MAINSCREEN.CONTINUE
 msgctxt "STRINGS.UI.MAINSCREEN.CONTINUE"
@@ -318239,7 +318939,7 @@ msgstr "進行線上遊戲必須擁有 PlayStation®Plus 會員身份。\n線上
 #. STRINGS.UI.MAINSCREEN.OFFLINE
 msgctxt "STRINGS.UI.MAINSCREEN.OFFLINE"
 msgid "Offline"
-msgstr "線下"
+msgstr "離線"
 
 #. STRINGS.UI.MAINSCREEN.OFFLINEMODE
 msgctxt "STRINGS.UI.MAINSCREEN.OFFLINEMODE"
@@ -318429,7 +319129,7 @@ msgstr "無法連接到 Steam"
 #. STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODEDESC"
 msgid "Couldn't connect to Steam (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
-msgstr "無法連接到 Steam 伺服器（進行維修或者是連接的問題）。線上遊戲的人物和世界不可用。要線下玩遊戲嗎？"
+msgstr "無法連接到 Steam 伺服器（進行維修或者是連接的問題）。線上遊戲的人物和世界不可用。要離線玩遊戲嗎？"
 
 #. STRINGS.UI.MAINSCREEN.SURE
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
@@ -320904,7 +321604,7 @@ msgstr "離線模式下您的選擇是不可用的。請登錄並再次嘗試。
 #. STRINGS.UI.OPTIONS.OFFLINE_MODE_TITLE
 msgctxt "STRINGS.UI.OPTIONS.OFFLINE_MODE_TITLE"
 msgid "Offline Mode"
-msgstr "線下模式"
+msgstr "離線模式"
 
 #. STRINGS.UI.OPTIONS.OK
 msgctxt "STRINGS.UI.OPTIONS.OK"
@@ -321094,7 +321794,7 @@ msgstr "查看遊戲中操作"
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGAUTOPAUSE"
 msgid "When you are the only player in the world, this will pause the game while the crafting menu is open."
-msgstr "如果你是唯一的玩家，可以選擇在打開製作目錄時暫停遊戲。"
+msgstr "如果你是唯一的玩家，可以選擇在打開製作菜單時暫停遊戲。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGHINTALLRECIPES"
@@ -321104,7 +321804,7 @@ msgstr "預覽下個可用的研究層級或顯示所有鎖定的配方。"
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUBUFFEREDBUILDAUTOCLOSE"
 msgid "Closes the crafting menu when building a structure that is placed in the world."
-msgstr "在建造已經放置的建築時，關閉製作目錄。"
+msgstr "在建造已經放置的建築時，關閉製作菜單。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUNUMPINPAGES"
@@ -321114,7 +321814,7 @@ msgstr "設置你想切換幾頁固定的配方。"
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSENSITIVITY"
 msgid "Adjust the input sensitivity while navigating through the crafting menu."
-msgstr "調整流覽製作目錄時的靈敏度。"
+msgstr "調整流覽製作菜單時的靈敏度。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRAFTINGMENUSIZE"
@@ -325114,17 +325814,17 @@ msgstr "科雷官方伺服器"
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE"
 msgid "Offline"
-msgstr "線下"
+msgstr "離線"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN"
 msgid "Are you sure you want to join an offline world? You will not be able to receive or use Collection Items in this world."
-msgstr "確定加入線下世界？您將無法收到或使用此世界中的收藏物品。"
+msgstr "確定加入離線世界？您將無法收到或使用此世界中的收藏物品。"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE"
 msgid "Offline World"
-msgstr "線下世界"
+msgstr "離線世界"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_DESC
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_DESC"
@@ -325144,7 +325844,7 @@ msgstr "您當前處於離線模式，無法加入線上世界。請登錄並再
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE"
 msgid "Offline"
-msgstr "線下"
+msgstr "離線"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE_PS4
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_TITLE_PS4"
@@ -325794,7 +326494,7 @@ msgstr "按"
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.STATUS_OFFLINE"
 msgid "Offline"
-msgstr "線下"
+msgstr "離線"
 
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE"
@@ -327413,43 +328113,43 @@ msgstr "沃利的調味品..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.22
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.22"
-msgid "a monarch's sorrow..."
-msgstr "帝王的悲傷…"
+msgid "Walter's Pioneer badges..."
+msgstr "沃爾特的先鋒隊獎章……"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.23
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.23"
-msgid "an inescapable nostalgia..."
-msgstr "揮之不去的鄉愁…"
+msgid "Wanda's timeline..."
+msgstr "旺達的時間線……"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.24
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.24"
-msgid "gold and marble..."
-msgstr "黃金和大理石…"
+msgid "Wurt's scales..."
+msgstr "沃特的鱗片……"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.25
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.25"
-msgid "thorns..."
-msgstr "尖刺…"
+msgid "Woby's tail wag..."
+msgstr "沃比搖尾巴……"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.26
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.26"
-msgid "unbreakable bonds..."
-msgstr "牢不可破的聯繫…"
+msgid "a monarch's sorrow..."
+msgstr "帝王的悲傷…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.27
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.27"
-msgid "intense friendship..."
-msgstr "深厚的友誼…"
+msgid "an inescapable nostalgia..."
+msgstr "揮之不去的鄉愁…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.28
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.28"
-msgid "common goals..."
-msgstr "共同目標…"
+msgid "gold and marble..."
+msgstr "黃金和大理石…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.29
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.29"
-msgid "a comforting togetherness..."
-msgstr "歡樂相聚…"
+msgid "thorns..."
+msgstr "尖刺…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.3
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.3"
@@ -327458,53 +328158,53 @@ msgstr "松樹..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.30
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.30"
-msgid "buckets and buckets of loot..."
-msgstr "成桶的戰利品..."
+msgid "unbreakable bonds..."
+msgstr "牢不可破的聯繫…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.31
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.31"
-msgid "game theory..."
-msgstr "遊戲理論..."
+msgid "intense friendship..."
+msgstr "深厚的友誼…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.32
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.32"
-msgid "poignant tragedy..."
-msgstr "心酸的悲劇…"
+msgid "common goals..."
+msgstr "共同目標…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.33
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.33"
-msgid "a hint of shadow..."
-msgstr "一絲幽影…"
+msgid "a comforting togetherness..."
+msgstr "歡樂相聚…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.34
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.34"
-msgid "food..."
-msgstr "食物..."
+msgid "buckets and buckets of loot..."
+msgstr "成桶的戰利品..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.35
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.35"
-msgid "lovely roses..."
-msgstr "可愛的玫瑰…"
+msgid "game theory..."
+msgstr "遊戲理論..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.36
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.36"
-msgid "gems..."
-msgstr "寶石…"
+msgid "poignant tragedy..."
+msgstr "心酸的悲劇…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.37
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.37"
-msgid "souls..."
-msgstr "靈魂..."
+msgid "a hint of shadow..."
+msgstr "一絲幽影…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.38
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.38"
-msgid "unspeakable things..."
-msgstr "無法言說的事情…"
+msgid "food..."
+msgstr "食物..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.39
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.39"
-msgid "primal instincts..."
-msgstr "原始本能…"
+msgid "lovely roses..."
+msgstr "可愛的玫瑰…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.4
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.4"
@@ -327513,18 +328213,73 @@ msgstr "蜘蛛..."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.40
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.40"
-msgid "terrible darkness..."
-msgstr "可怕的黑暗…"
+msgid "gems..."
+msgstr "寶石…"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.41
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.41"
+msgid "souls..."
+msgstr "靈魂..."
+
+#. STRINGS.UI.WORLDGEN.NOUNS.42
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.42"
+msgid "unspeakable things..."
+msgstr "無法言說的事情…"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.43
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.43"
+msgid "primal instincts..."
+msgstr "原始本能…"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.44
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.44"
+msgid "terrible darkness..."
+msgstr "可怕的黑暗…"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.45
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.45"
 msgid "a touch of magic..."
 msgstr "一點魔法…"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.46
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.46"
+msgid "unknowable machinations..."
+msgstr "不可知的機器……"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.47
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.47"
+msgid "plot thickeners..."
+msgstr "劇情增稠劑……"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.48
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.48"
+msgid "the \"moon\"..."
+msgstr "“月亮”……"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.49
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.49"
+msgid "a sliver of hope..."
+msgstr "一絲希望……"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.5
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.5"
 msgid "monsters..."
 msgstr "怪物..."
+
+#. STRINGS.UI.WORLDGEN.NOUNS.50
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.50"
+msgid "dramatic irony..."
+msgstr "戲劇性的反諷……"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.51
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.51"
+msgid "curious mechanisms..."
+msgstr "神奇的機制……"
+
+#. STRINGS.UI.WORLDGEN.NOUNS.52
+msgctxt "STRINGS.UI.WORLDGEN.NOUNS.52"
+msgid "unforeseen consequences..."
+msgstr "沒料到的後果……"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.6
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.6"
@@ -327704,12 +328459,12 @@ msgstr "希望你是和朋友一起玩，或者準備好了復活的方法。"
 #. STRINGS.UI.WORLDRESETDIALOG.REVIVE_1
 msgctxt "STRINGS.UI.WORLDRESETDIALOG.REVIVE_1"
 msgid "Haunt a {item1} to revive, or find another way."
-msgstr "通過鬧鬼{item1}或其他方式復活。"
+msgstr "通過作祟{item1}或其他方式復活。"
 
 #. STRINGS.UI.WORLDRESETDIALOG.REVIVE_2
 msgctxt "STRINGS.UI.WORLDRESETDIALOG.REVIVE_2"
 msgid "Haunt a {item1} or {item2} to revive, or find another way."
-msgstr "通過鬧鬼{item1}或者{item2}或其他方式復活。"
+msgstr "通過作祟{item1}或者{item2}或其他方式復活。"
 
 #. STRINGS.UI.WORLDRESETDIALOG.SURVIVED_MSG
 msgctxt "STRINGS.UI.WORLDRESETDIALOG.SURVIVED_MSG"
