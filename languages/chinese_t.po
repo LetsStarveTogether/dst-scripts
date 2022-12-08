@@ -28714,7 +28714,7 @@ msgstr "一把古怪的種子。"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.RABBIT.GENERIC"
 msgid "A real jackalope! Come here little guy!"
-msgstr "一個真正的豺狼！過來，小傢伙！"
+msgstr "一隻真正的鹿角兔！過來，小傢伙！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.RABBIT.HELD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.RABBIT.HELD"
@@ -90044,7 +90044,7 @@ msgstr "殺人不眨眼的惡魔！看我的力量！"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WOLFGANG.REVIVER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WOLFGANG.REVIVER"
 msgid "%s tethers lost spirits to this world."
-msgstr "%s把迷失的精靈放到這裡。"
+msgstr "%s把迷失的靈魂綁定到這個世界。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WONKEY.ATTACKER"
@@ -116354,7 +116354,7 @@ msgstr "父親曾經也跳過那種傻氣的舞蹈。"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOWDIGGER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOWDIGGER"
 msgid "Was he your brother?"
-msgstr "他是你哥哥嗎？"
+msgstr "他曾是你兄弟嗎？"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOWHEART
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOWHEART"
@@ -130944,7 +130944,7 @@ msgstr "...最近有沒有人看望過他？"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWDIGGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWDIGGER"
 msgid "Well, I suppose we did need an extra set of hands... Hm."
-msgstr "好吧，我想他們確實需要額外的人手…嗯。"
+msgstr "好吧，我想我們確實需要額外的人手…嗯。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWHEART
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWHEART"
@@ -148344,7 +148344,7 @@ msgstr "你好%s！"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WOLFGANG.GHOST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WOLFGANG.GHOST"
 msgid "Hey %s, did you know the heart's a muscle?"
-msgstr "嘿%s，你知道這個心臟有塊肌肉嗎？"
+msgstr "嘿%s，你知道心臟也是一塊肌肉嗎？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WOLFGANG.MURDERER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WOLFGANG.MURDERER"
@@ -177614,7 +177614,7 @@ msgstr "不怕鳥人，沃爾夫岡會幫忙的！"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.MOOSE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.MOOSE"
 msgid "Something different about beardman today."
-msgstr "今天鳥人有點不一樣。"
+msgstr "今天大鬍子有點不一樣。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.MOOSEGHOST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.MOOSEGHOST"
@@ -255359,7 +255359,7 @@ msgstr "*戰吼使附近盟友的下一次攻擊傷害力增加 25％\n*攻擊�
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.waxwell"
 msgid "*Summons Shadow Duelists after focusing attacks on a single target\n\n\nExpertise:\nBooks, Staves"
-msgstr "*針對一個目標集中攻擊多次後，召喚暗影決鬥者\n \n \n\n擅長：\n書本，魔杖"
+msgstr "*針對一個目標集中攻擊多次後，召喚暗影角鬥士\n \n \n\n擅長：\n書本，魔杖"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.webber
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.webber"
@@ -270554,7 +270554,7 @@ msgstr "*木頭在火上燃燒得更久\n \n \n \n*專長：\n烹飪"
 #. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
 msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson"
 msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
-msgstr "提高附近鍋子的效率\n*檢查食物，判斷它是否符合饕餮的渴望\n \n\n*專長：\n烹飪"
+msgstr "*提高附近鍋子的效率\n*檢查食物，判斷它是否符合饕餮的渴望\n \n\n*專長：\n烹飪"
 
 #. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona"
@@ -275326,6 +275326,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.batbat_scythe"
 msgid "Reap some grim bodies with this bat scythe."
 msgstr "用這把蝙蝠鐮刀收割陰森的屍體。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.beargervest_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.beargervest_yule"
+msgid "Snuggle up for a warm winter nap."
+msgstr "躺一個暖暖的冬日小憩。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_potato
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_potato"
 msgid "Sleeping on a potato sack usually leads to potato-filled dreams."
@@ -276356,6 +276361,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_formal"
 msgid "A striking outfit for a well-traveled guest."
 msgstr "對於一個飽經滄桑的客人來說，這是一套引人注目的裝扮。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wanda_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_ice"
+msgid "This heavy coat should keep you warm through any sudden drops in temperature."
+msgstr "不管氣溫如何驟降，這身厚重的大衣都能讓你保持溫暖。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_lunar"
 msgid "This style is truly ahead of its time."
@@ -276456,6 +276466,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_gladiator"
 msgid "This decorative battle armor is sure to strike fear into the foes of the Valkyrie."
 msgstr "這件帶有裝飾的戰甲能讓女武神的敵人們聞風喪膽。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_ice"
+msgid "Accented with heavy furs, to fight the cold."
+msgstr "綴有厚重的皮草，足以對抗寒冷。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_magma"
 msgid "Shroud yourself in the burning fires of Ragnarok."
@@ -276545,6 +276560,11 @@ msgstr "衛生球的芳香漸漸消逝，彌漫在空中。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_gladiator"
 msgid "Brew alchemical mixtures in style with this alchemist's robe top."
 msgstr "穿著這件煉金術士袍調製煉金藥水讓你時髦值爆表。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_ice"
+msgid "A fur-lined coat for one cool customer."
+msgstr "為一位很酷的顧客準備的毛皮內襯大衣。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampus"
@@ -276845,6 +276865,11 @@ msgstr "讓你的敵人閉嘴。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_harlequin"
 msgid "The loud pattern complements a silent wearer."
 msgstr "搶眼的圖案與沉默的穿戴者相得益彰。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wes_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_ice"
+msgid "A suit of glittering frost goes well with that mischievous twinkle in your eyes."
+msgstr "閃閃發光的冰晶與你眼中調皮的光芒相得益彰。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_magma"
@@ -277416,6 +277441,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_hockey"
 msgid "A jersey fit for the playoffs."
 msgstr "適合季後賽的球衣。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_woodie_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_ice"
+msgid "Even seasoned mountaineers bring an emergency horn (the mountains have amazing acoustics)."
+msgstr "即使是經驗豐富的登山者也要帶一個應急號角（因為山區的混響驚人的好）。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_woodie_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_magma"
 msgid "Sport a hot new look in this cool jacket and T-shirt combo."
@@ -277485,6 +277515,11 @@ msgstr "寒冬時節，四下無聲時，你能在森林中刺骨的寒風中聽
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_cactus"
 msgid "The spiky trunk of a cactus, embedded with a glittery purple gem."
 msgstr "多刺的仙人球主幹，鑲嵌著一顆發亮的紫色寶石。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wormwood_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_ice"
+msgid "An icy blue gem belies the warm-hearted soul within."
+msgstr "冰冷的藍寶石之下是溫暖的靈魂。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wormwood_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_lunar"
@@ -277590,6 +277625,11 @@ msgstr "你會和深淵生物融洽相處。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_formal"
 msgid "A shimmering gold fish belly."
 msgstr "發光的金魚肚。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wurt_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_ice"
+msgid "Despite the cold, there's a warm, fuzzy feeling in your chest."
+msgstr "儘管天氣寒冷，但你的毛絨絨的胸口總會湧上暖意。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wurt_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_pirate"
@@ -278716,6 +278756,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_formal"
 msgid "They're incredibly clean... in fact, they somehow always look brand new."
 msgstr "非常乾淨……事實上，它們不知為何看起來永遠是嶄新的。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_ice"
+msgid "These soft shoes will keep you sure-footed on ice floes."
+msgstr "這雙柔軟的鞋子讓你在浮冰上也能站穩。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_lunar"
 msgid "Few have walked the path of a lunar oracle, even fewer have looked this good doing it."
@@ -278760,6 +278805,11 @@ msgstr "擦的鋥亮，你能看到自己的倒影。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_gladiator"
 msgid "A pair of battlemaster's sandals to wear into the arena."
 msgstr "戰鬥大師在競技場裡穿的涼鞋。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_ice"
+msgid "What could be more daring than wearing sandals in the dead of winter?"
+msgstr "有什麼能比在嚴冬穿涼鞋更大膽的呢？"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_nature"
@@ -279055,6 +279105,11 @@ msgstr "純天然製品！"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_woodie_hockey"
 msgid "Woodie missed having a good pair of skates."
 msgstr "伍迪懷念有雙好的溜冰鞋的日子。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_woodie_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_woodie_ice"
+msgid "Dependable footwear for scaling icy slopes."
+msgstr "攀爬冰坡的可靠足具。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_woodie_nature"
@@ -279746,6 +279801,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_formal"
 msgid "It isn't a fancy occasion if you're not wearing gloves."
 msgstr "不戴手套，就算不上高級場合。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_ice"
+msgid "These arctic mittens will save you from frostbitten fingers."
+msgstr "這雙北極手套將保護你的手指免於凍傷。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_lunar"
 msgid "With these bracelets, a prophecy isn't the only statement you'll be making."
@@ -279780,6 +279840,11 @@ msgstr "戴上手套，方便照料最嬌嫩的玫瑰。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_gladiator"
 msgid "These fists are ready for glorious battle."
 msgstr "這對拳套是為光榮的戰鬥準備的。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_ice"
+msgid "It's not the cold, these hands were blue to begin with."
+msgstr "無關寒冷，這雙手本來就是藍色的。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma"
@@ -279830,6 +279895,11 @@ msgstr "白手套儘管有時代表欺騙，但確不失時尚。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_gladiator"
 msgid "The handwraps of an alchemist, skilled at battle."
 msgstr "精通戰鬥的煉金術士護手。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_ice"
+msgid "Keep those greedy mitts warm."
+msgstr "讓貪婪的雙手保持溫暖。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_lunar"
@@ -280161,6 +280231,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_hockey"
 msgid "These gloves were made to be thrown down."
 msgstr "這些手套做出來就是為了被扔掉的。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_ice"
+msgid "You'd better keep those hands warm if you want to reach the summit with all your fingers."
+msgstr "想要親手攀爬到山頂，首先要保持雙手的溫暖。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma"
 msgid "Studded gloves for peerless gripping of an axe."
@@ -280210,6 +280285,11 @@ msgstr "這雙‘乾草褐色’的手套看起來有保護功能，但其實並
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_cactus"
 msgid "Hands for prickling and tickling."
 msgstr "這雙手既可以刺傷人，也可以撓癢癢。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_ice"
+msgid "The cold winter air has these poor vines shaking like a leaf!"
+msgstr "冬天的冷空氣讓這條可憐的藤蔓像樹葉一樣顫抖！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_lunar"
@@ -281026,6 +281106,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_gladiator"
 msgid "The preferred armor of the deadly alchemist."
 msgstr "致命煉金術士鍾愛的護甲。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_ice"
+msgid "Walk around like you own the place (you do)."
+msgstr "像主人一樣四處走動（你確實是）。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_magma"
 msgid "Stomp out the fires in your enemies' belly."
@@ -281241,6 +281326,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_cactus"
 msgid "Look right at home scampering through the hot and arid deserts of the Constant."
 msgstr "這雙腿適合奔跑在永恆領域炎熱乾燥的沙漠。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_ice"
+msgid "Leaf your footprints in the freshly-fallen snow."
+msgstr "在剛落下的雪花中留下你的腳印。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wormwood_lunar"
 msgid "You were never really the down-to-earth type, anyway."
@@ -281325,6 +281415,11 @@ msgstr "就一直游泳吧！"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_formal"
 msgid "Shine up your dancing scales."
 msgstr "亮出你舞動的鱗片。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_ice"
+msgid "These fluffy bunny legs are hoping to hop someplace warm."
+msgstr "這對毛茸茸的兔腿希望能跳到一個溫暖的地方。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_pirate"
@@ -282721,8 +282816,18 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_all2"
 msgid "This Snowfallen Chest contains skins for: Walter, Warly, Wortox, WX-78, and Winona."
 msgstr "這個下雪箱子包含以下人物的皮膚：沃爾特、沃利、沃拓克斯、WX-78和薇諾娜。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_all3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_all3"
+msgid "This Snowfallen Chest contains skins for: Woodie, Wes, Maxwell, Wigfrid, Wormwood, Wurt, and Wanda."
+msgstr "這個下雪箱子包含了下列人物的皮膚：伍迪、韋斯、麥斯威爾、薇格弗德、沃姆伍德、沃特和旺達。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_bundle"
+msgid "This Snowfallen Chest contains the complete Snowfallen series of survivor skins."
+msgstr "這個下雪箱子包含了冒險家們的全套下雪系列皮膚。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_bundle2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_bundle2"
 msgid "This Snowfallen Chest contains the complete Snowfallen series of survivor skins."
 msgstr "這個下雪箱子包含了冒險家們的全套下雪系列皮膚。"
 
@@ -282731,10 +282836,25 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_walter"
 msgid "This Snowfallen Chest contains Walter's complete set of Snowfallen skin items."
 msgstr "這個下雪箱子包含了沃爾特的全套下雪系列皮膚物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wanda
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wanda"
+msgid "This Snowfallen Chest contains Wanda's complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有旺達的全套下雪皮膚物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_warly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_warly"
 msgid "This Snowfallen Chest contains Warly's complete set of Snowfallen skin items."
 msgstr "這個下雪箱子包含了沃利的全套下雪系列皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wathgrithr
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wathgrithr"
+msgid "This Snowfallen Chest contains Wigfrid's complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有薇格弗德的全套下雪皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_waxwell
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_waxwell"
+msgid "This Snowfallen Chest contains Maxwell's complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有麥斯威爾的全套下雪皮膚物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_webber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_webber"
@@ -282745,6 +282865,11 @@ msgstr "這個下雪箱子裡有韋伯的全套下雪皮膚物品。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wendy"
 msgid "This Snowfallen Chest contains Wendy's complete set of Snowfallen skin items."
 msgstr "這個下雪箱子裡有溫蒂的全套下雪皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wes
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wes"
+msgid "This Snowfallen Chest contains Wes' complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有韋斯的全套下雪皮膚物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wickerbottom
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wickerbottom"
@@ -282771,10 +282896,25 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wolfgang"
 msgid "This Snowfallen Chest contains Wolfgang's complete set of Snowfallen skin items."
 msgstr "這個下雪箱子裡有沃爾夫岡的全套下雪皮膚物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_woodie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_woodie"
+msgid "This Snowfallen Chest contains Woodie's complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有伍迪的全套下雪皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wormwood
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wormwood"
+msgid "This Snowfallen Chest contains Wormwood's complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有沃姆伍德的全套下雪皮膚物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wortox
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wortox"
 msgid "This Snowfallen Chest contains Wortox's complete set of Snowfallen skin items."
 msgstr "這個下雪箱子裡有沃拓克斯的全套下雪皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wurt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wurt"
+msgid "This Snowfallen Chest contains Wurt's complete set of Snowfallen skin items."
+msgstr "這個下雪箱子裡有沃特的全套下雪皮膚物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ice_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wx78"
@@ -283079,7 +283219,7 @@ msgstr "這個箱子包含了遊戲人物沃特：小個子、威爾遜角鬥士
 #. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2020
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2020"
 msgid "This Chest contains the playable character, Wortox: The Soul Starved, Wilson's Victorian skin set, Willow's Guest of Honor skin set, Wigfrid's Verdant skin set, Webber's Contenders skin set, the Weathered Spear, the Mini Beefalo Carryall, and the Sleepytime Ensemble."
-msgstr "這個箱子包含遊戲人物噬魂者沃拓克斯；威爾遜維多利亞皮膚套裝、薇洛貴賓皮膚套裝、薇格弗德綠色皮膚套裝，和韋伯競技者皮膚套裝；風霜長矛、迷你皮弗婁牛旅行包，以及全套的睡覺系列物品皮膚。"
+msgstr "這個箱子包含遊戲人物噬魂者沃拓克斯；威爾遜維多利亞皮膚套裝、薇洛貴賓皮膚套裝、薇格弗德綠色皮膚套裝，和韋伯競技者皮膚套裝；風霜長矛、迷你皮弗婁牛旅行包，以及全套的昏昏欲睡系列物品皮膚。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2021
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2021"
@@ -286701,6 +286841,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_formal"
 msgid "Wanda can always be counted on to arrive right on time."
 msgstr "旺達總是會準時到場。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wanda_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_ice"
+msgid "Venturing into the unknown can be a very chilling experience if one's not prepared."
+msgstr "沒準備好就冒然闖入未知領域可能會讓人心寒。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_lunar"
 msgid "Wanda sees a bright future for herself under the watchful eye of the moon."
@@ -286871,6 +287016,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_gladiator"
 msgid "The question was never IF Wigfrid would master the ring, but when."
 msgstr "薇格弗德主宰決鬥圈只是一個時間上的問題。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ice"
+msgid "This warrior is prepared to battle even the most brutal winters."
+msgstr "這位勇士隨時可以與最嚴酷的寒冬作戰。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_magma"
 msgid "Wigfrid is ready for Ragnarok."
@@ -286980,6 +287130,11 @@ msgstr "克服所有困難後，麥斯威爾變得更加犀利了。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_gladiator"
 msgid "Maxwell is both dark AND brooding."
 msgstr "麥斯威爾既黑暗又陰森。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.waxwell_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_ice"
+msgid "This venture capitalist's assets are completely frozen."
+msgstr "這位風險投資人的資產已經被完全凍結。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_krampus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_krampus"
@@ -287395,6 +287550,11 @@ msgstr "一塊溫暖的戰場。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_harlequin"
 msgid "Keeping the Survivors' spirits up is a fool's errand... so naturally, the job falls to Wes."
 msgstr "讓冒險家們保持精神充沛是愚人才會做的事情……所以這份工作自然落到了韋斯頭上。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wes_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_ice"
+msgid "This spritely fellow is ready to get up to some chilly hijinks."
+msgstr "這傢伙精神抖擻，又準備玩點冬天的把戲了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wes_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_magma"
@@ -288176,6 +288336,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_hockey"
 msgid "Woodie will never pass up an opportunity to hit the ice."
 msgstr "伍迪會抓住任何一個打擊冰面的機會。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.woodie_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_ice"
+msgid "Woodie feels quite at home surrounded by snow-capped mountains."
+msgstr "伍迪在雪山的群山環抱中找到了故鄉的感覺。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_magma"
 msgid "Woodie's confidence in battle is rooted in experience."
@@ -288285,6 +288450,11 @@ msgstr "我相當確定，發光漿果就長這樣。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_cactus"
 msgid "The closer you get to someone, the more you hurt them. At least when you're covered in spines."
 msgstr "跟一個人走的越近，就越容易傷到他們。尤其是當你全身都是刺的時候。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wormwood_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_ice"
+msgid "This sweet little snowdrop braved the cold just to see you!"
+msgstr "這片可愛的小雪花冒著嚴寒來見你！"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wormwood_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_lunar"
@@ -288410,6 +288580,11 @@ msgstr "沃特在黑暗深海中無所畏懼。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_formal"
 msgid "No need to fish for compliments in this elegant attire."
 msgstr "穿著這一身優雅裝扮，各種恭維不請自來。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wurt_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_ice"
+msgid "Wurt is starting to warm up to the idea of having fur."
+msgstr "沃特開始不那麼抗拒擁有皮毛了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_none"
@@ -288965,6 +289140,11 @@ msgstr "魔幻蝙蝠棒"
 msgctxt "STRINGS.SKIN_NAMES.batbat_scythe"
 msgid "Bat Scythe"
 msgstr "蝙蝠鐮刀"
+
+#. STRINGS.SKIN_NAMES.beargervest_yule
+msgctxt "STRINGS.SKIN_NAMES.beargervest_yule"
+msgid "Winter Hibearnation Vest"
+msgstr "冬季熊皮背心"
 
 #. STRINGS.SKIN_NAMES.bedroll_furry_potato
 msgctxt "STRINGS.SKIN_NAMES.bedroll_furry_potato"
@@ -289996,6 +290176,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wanda_formal"
 msgid "Traveling Ensemble"
 msgstr "旅行套裝"
 
+#. STRINGS.SKIN_NAMES.body_wanda_ice
+msgctxt "STRINGS.SKIN_NAMES.body_wanda_ice"
+msgid "Arctic Explorer's Coat"
+msgstr "極地探險家外套"
+
 #. STRINGS.SKIN_NAMES.body_wanda_lunar
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_lunar"
 msgid "Diviner Dress"
@@ -290096,6 +290281,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_gladiator"
 msgid "Battlemaster's Chestplate"
 msgstr "戰鬥大師的胸甲"
 
+#. STRINGS.SKIN_NAMES.body_wathgrithr_ice
+msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_ice"
+msgid "Frost Giant Tunic"
+msgstr "冰霜巨人外衣"
+
 #. STRINGS.SKIN_NAMES.body_wathgrithr_magma
 msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_magma"
 msgid "Surtr's Armor"
@@ -290185,6 +290375,11 @@ msgstr "引人注目的晚禮服"
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_gladiator"
 msgid "Alchemist's Robe Top"
 msgstr "煉金術士的長袍"
+
+#. STRINGS.SKIN_NAMES.body_waxwell_ice
+msgctxt "STRINGS.SKIN_NAMES.body_waxwell_ice"
+msgid "Ice Mogul Overcoat"
+msgstr "冰雪大亨大衣"
 
 #. STRINGS.SKIN_NAMES.body_waxwell_krampus
 msgctxt "STRINGS.SKIN_NAMES.body_waxwell_krampus"
@@ -290485,6 +290680,11 @@ msgstr "決鬥者的護甲"
 msgctxt "STRINGS.SKIN_NAMES.body_wes_harlequin"
 msgid "Fool's Ensemble"
 msgstr "愚人套裝"
+
+#. STRINGS.SKIN_NAMES.body_wes_ice
+msgctxt "STRINGS.SKIN_NAMES.body_wes_ice"
+msgid "Winter Sprite's Suit"
+msgstr "冬日精靈裝"
 
 #. STRINGS.SKIN_NAMES.body_wes_magma
 msgctxt "STRINGS.SKIN_NAMES.body_wes_magma"
@@ -291056,6 +291256,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_woodie_hockey"
 msgid "Hockey Jersey"
 msgstr "曲棍球球衣"
 
+#. STRINGS.SKIN_NAMES.body_woodie_ice
+msgctxt "STRINGS.SKIN_NAMES.body_woodie_ice"
+msgid "Mountaineer's Coat"
+msgstr "登山者外套"
+
 #. STRINGS.SKIN_NAMES.body_woodie_magma
 msgctxt "STRINGS.SKIN_NAMES.body_woodie_magma"
 msgid "Hot Rod's Jacket"
@@ -291125,6 +291330,11 @@ msgstr "寒冬護林人大衣"
 msgctxt "STRINGS.SKIN_NAMES.body_wormwood_cactus"
 msgid "Oasis Bound Trunk"
 msgstr "前往綠洲樹幹"
+
+#. STRINGS.SKIN_NAMES.body_wormwood_ice
+msgctxt "STRINGS.SKIN_NAMES.body_wormwood_ice"
+msgid "Snowdrop Trunk"
+msgstr "落雪樹樁"
 
 #. STRINGS.SKIN_NAMES.body_wormwood_lunar
 msgctxt "STRINGS.SKIN_NAMES.body_wormwood_lunar"
@@ -291230,6 +291440,11 @@ msgstr "深海胸部"
 msgctxt "STRINGS.SKIN_NAMES.body_wurt_formal"
 msgid "Fancy Ruffed Chest"
 msgstr "高貴荷葉領胸部"
+
+#. STRINGS.SKIN_NAMES.body_wurt_ice
+msgctxt "STRINGS.SKIN_NAMES.body_wurt_ice"
+msgid "Winter Rabbit Torso"
+msgstr "冬兔軀幹"
 
 #. STRINGS.SKIN_NAMES.body_wurt_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_wurt_pirate"
@@ -292356,6 +292571,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_wanda_formal"
 msgid "Polished Walking Shoes"
 msgstr "拋光戶外鞋"
 
+#. STRINGS.SKIN_NAMES.feet_wanda_ice
+msgctxt "STRINGS.SKIN_NAMES.feet_wanda_ice"
+msgid "Arctic Explorer's Shoes"
+msgstr "極地探險家鞋子"
+
 #. STRINGS.SKIN_NAMES.feet_wanda_lunar
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_lunar"
 msgid "Diviner Heels"
@@ -292400,6 +292620,11 @@ msgstr "海軍制服鞋"
 msgctxt "STRINGS.SKIN_NAMES.feet_wathgrithr_gladiator"
 msgid "Battlemaster's Sandals"
 msgstr "戰鬥大師的涼鞋"
+
+#. STRINGS.SKIN_NAMES.feet_wathgrithr_ice
+msgctxt "STRINGS.SKIN_NAMES.feet_wathgrithr_ice"
+msgid "Frost Giant Feet"
+msgstr "冰霜巨人雙足"
 
 #. STRINGS.SKIN_NAMES.feet_wathgrithr_nature
 msgctxt "STRINGS.SKIN_NAMES.feet_wathgrithr_nature"
@@ -292695,6 +292920,11 @@ msgstr "自由漫步鞋"
 msgctxt "STRINGS.SKIN_NAMES.feet_woodie_hockey"
 msgid "Hockey Skates"
 msgstr "曲棍球冰鞋"
+
+#. STRINGS.SKIN_NAMES.feet_woodie_ice
+msgctxt "STRINGS.SKIN_NAMES.feet_woodie_ice"
+msgid "Mountaineer's Boots"
+msgstr "登山者短靴"
 
 #. STRINGS.SKIN_NAMES.feet_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.feet_woodie_nature"
@@ -293386,6 +293616,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wanda_formal"
 msgid "Fine Traveling Gloves"
 msgstr "精美旅行手套"
 
+#. STRINGS.SKIN_NAMES.hand_wanda_ice
+msgctxt "STRINGS.SKIN_NAMES.hand_wanda_ice"
+msgid "Arctic Explorer's Mitts"
+msgstr "極地探險家手套"
+
 #. STRINGS.SKIN_NAMES.hand_wanda_lunar
 msgctxt "STRINGS.SKIN_NAMES.hand_wanda_lunar"
 msgid "Chunky Moonrock Bracelets"
@@ -293420,6 +293655,11 @@ msgstr "糖制玫瑰手套"
 msgctxt "STRINGS.SKIN_NAMES.hand_wathgrithr_gladiator"
 msgid "Battlemaster's Gauntlets"
 msgstr "戰鬥大師的拳套"
+
+#. STRINGS.SKIN_NAMES.hand_wathgrithr_ice
+msgctxt "STRINGS.SKIN_NAMES.hand_wathgrithr_ice"
+msgid "Frost Giant Hands"
+msgstr "冰霜巨人雙手"
 
 #. STRINGS.SKIN_NAMES.hand_wathgrithr_magma
 msgctxt "STRINGS.SKIN_NAMES.hand_wathgrithr_magma"
@@ -293470,6 +293710,11 @@ msgstr "驚豔手套"
 msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_gladiator"
 msgid "Alchemist's Handwraps"
 msgstr "煉金術士的手套"
+
+#. STRINGS.SKIN_NAMES.hand_waxwell_ice
+msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_ice"
+msgid "Ice Mogul Gloves"
+msgstr "冰雪大亨手套"
 
 #. STRINGS.SKIN_NAMES.hand_waxwell_lunar
 msgctxt "STRINGS.SKIN_NAMES.hand_waxwell_lunar"
@@ -293801,6 +294046,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_woodie_hockey"
 msgid "Hockey Mitts"
 msgstr "曲棍球手套"
 
+#. STRINGS.SKIN_NAMES.hand_woodie_ice
+msgctxt "STRINGS.SKIN_NAMES.hand_woodie_ice"
+msgid "Mountaineer's Cuffs"
+msgstr "登山者護腕"
+
 #. STRINGS.SKIN_NAMES.hand_woodie_magma
 msgctxt "STRINGS.SKIN_NAMES.hand_woodie_magma"
 msgid "Hot Rod's Driving Gloves"
@@ -293850,6 +294100,11 @@ msgstr "無保護作用的手套"
 msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_cactus"
 msgid "Oasis Bound Hands"
 msgstr "前往綠洲雙手"
+
+#. STRINGS.SKIN_NAMES.hand_wormwood_ice
+msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_ice"
+msgid "Frost-Chilled Vines"
+msgstr "霜凍藤蔓"
 
 #. STRINGS.SKIN_NAMES.hand_wormwood_lunar
 msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_lunar"
@@ -294666,6 +294921,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_waxwell_gladiator"
 msgid "Alchemist's Robe Bottom"
 msgstr "煉金術士的下擺"
 
+#. STRINGS.SKIN_NAMES.legs_waxwell_ice
+msgctxt "STRINGS.SKIN_NAMES.legs_waxwell_ice"
+msgid "Ice Mogul Trousers"
+msgstr "冰雪大亨手套"
+
 #. STRINGS.SKIN_NAMES.legs_waxwell_magma
 msgctxt "STRINGS.SKIN_NAMES.legs_waxwell_magma"
 msgid "Fissure's Cloths"
@@ -294881,6 +295141,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wormwood_cactus"
 msgid "Oasis Bound Legs"
 msgstr "前往綠洲雙腿"
 
+#. STRINGS.SKIN_NAMES.legs_wormwood_ice
+msgctxt "STRINGS.SKIN_NAMES.legs_wormwood_ice"
+msgid "Snowroot Boots"
+msgstr "雪根短靴"
+
 #. STRINGS.SKIN_NAMES.legs_wormwood_lunar
 msgctxt "STRINGS.SKIN_NAMES.legs_wormwood_lunar"
 msgid "Lune Root Legs"
@@ -294965,6 +295230,11 @@ msgstr "深淵腳蹼"
 msgctxt "STRINGS.SKIN_NAMES.legs_wurt_formal"
 msgid "Fancy Finned Feet"
 msgstr "優雅魚鰭腳"
+
+#. STRINGS.SKIN_NAMES.legs_wurt_ice
+msgctxt "STRINGS.SKIN_NAMES.legs_wurt_ice"
+msgid "Winter Rabbit Legs"
+msgstr "冬兔雙腿"
 
 #. STRINGS.SKIN_NAMES.legs_wurt_pirate
 msgctxt "STRINGS.SKIN_NAMES.legs_wurt_pirate"
@@ -296361,8 +296631,18 @@ msgctxt "STRINGS.SKIN_NAMES.pack_ice_all2"
 msgid "Snowfallen Survivors Chest, Part II"
 msgstr "下雪冒險家箱子，第二章"
 
+#. STRINGS.SKIN_NAMES.pack_ice_all3
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_all3"
+msgid "Snowfallen Survivors Chest, Part III"
+msgstr "下雪冒險家箱子，第三章"
+
 #. STRINGS.SKIN_NAMES.pack_ice_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_bundle"
+msgid "Complete Snowfallen Survivors Chest"
+msgstr "全套下雪冒險家箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ice_bundle2
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_bundle2"
 msgid "Complete Snowfallen Survivors Chest"
 msgstr "全套下雪冒險家箱子"
 
@@ -296371,10 +296651,25 @@ msgctxt "STRINGS.SKIN_NAMES.pack_ice_walter"
 msgid "Walter Snowfallen Chest"
 msgstr "沃爾特下雪箱子"
 
+#. STRINGS.SKIN_NAMES.pack_ice_wanda
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_wanda"
+msgid "Wanda Snowfallen Chest"
+msgstr "旺達下雪箱子"
+
 #. STRINGS.SKIN_NAMES.pack_ice_warly
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_warly"
 msgid "Warly Snowfallen Chest"
 msgstr "沃利下雪箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ice_wathgrithr
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_wathgrithr"
+msgid "Wigfrid Snowfallen Chest"
+msgstr "薇格弗德下雪箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ice_waxwell
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_waxwell"
+msgid "Maxwell Snowfallen Chest"
+msgstr "麥斯威爾下雪箱子"
 
 #. STRINGS.SKIN_NAMES.pack_ice_webber
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_webber"
@@ -296385,6 +296680,11 @@ msgstr "韋伯下雪箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_wendy"
 msgid "Wendy Snowfallen Chest"
 msgstr "溫蒂下雪箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ice_wes
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_wes"
+msgid "Wes Snowfallen Chest"
+msgstr "韋斯下雪箱子"
 
 #. STRINGS.SKIN_NAMES.pack_ice_wickerbottom
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_wickerbottom"
@@ -296411,10 +296711,25 @@ msgctxt "STRINGS.SKIN_NAMES.pack_ice_wolfgang"
 msgid "Wolfgang Snowfallen Chest"
 msgstr "沃爾夫岡下雪箱子"
 
+#. STRINGS.SKIN_NAMES.pack_ice_woodie
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_woodie"
+msgid "Woodie Snowfallen Chest"
+msgstr "伍迪下雪箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ice_wormwood
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_wormwood"
+msgid "Wormwood Snowfallen Chest"
+msgstr "沃姆伍德下雪箱子"
+
 #. STRINGS.SKIN_NAMES.pack_ice_wortox
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_wortox"
 msgid "Wortox Snowfallen Chest"
 msgstr "沃拓克斯下雪箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ice_wurt
+msgctxt "STRINGS.SKIN_NAMES.pack_ice_wurt"
+msgid "Wurt Snowfallen Chest"
+msgstr "沃特下雪箱子"
 
 #. STRINGS.SKIN_NAMES.pack_ice_wx78
 msgctxt "STRINGS.SKIN_NAMES.pack_ice_wx78"
@@ -300341,6 +300656,11 @@ msgctxt "STRINGS.SKIN_NAMES.wanda_formal"
 msgid "Guest of Honor"
 msgstr "貴賓"
 
+#. STRINGS.SKIN_NAMES.wanda_ice
+msgctxt "STRINGS.SKIN_NAMES.wanda_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
+
 #. STRINGS.SKIN_NAMES.wanda_lunar
 msgctxt "STRINGS.SKIN_NAMES.wanda_lunar"
 msgid "The Moonbound"
@@ -300511,6 +300831,11 @@ msgctxt "STRINGS.SKIN_NAMES.wathgrithr_gladiator"
 msgid "The Gladiator"
 msgstr "角鬥士"
 
+#. STRINGS.SKIN_NAMES.wathgrithr_ice
+msgctxt "STRINGS.SKIN_NAMES.wathgrithr_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
+
 #. STRINGS.SKIN_NAMES.wathgrithr_magma
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_magma"
 msgid "The Magmatic"
@@ -300620,6 +300945,11 @@ msgstr "貴賓"
 msgctxt "STRINGS.SKIN_NAMES.waxwell_gladiator"
 msgid "The Gladiator"
 msgstr "角鬥士"
+
+#. STRINGS.SKIN_NAMES.waxwell_ice
+msgctxt "STRINGS.SKIN_NAMES.waxwell_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
 
 #. STRINGS.SKIN_NAMES.waxwell_krampus
 msgctxt "STRINGS.SKIN_NAMES.waxwell_krampus"
@@ -301035,6 +301365,11 @@ msgstr "角鬥士"
 msgctxt "STRINGS.SKIN_NAMES.wes_harlequin"
 msgid "The Fool"
 msgstr "愚人"
+
+#. STRINGS.SKIN_NAMES.wes_ice
+msgctxt "STRINGS.SKIN_NAMES.wes_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
 
 #. STRINGS.SKIN_NAMES.wes_magma
 msgctxt "STRINGS.SKIN_NAMES.wes_magma"
@@ -301816,6 +302151,11 @@ msgctxt "STRINGS.SKIN_NAMES.woodie_hockey"
 msgid "The Team Player"
 msgstr "團隊精神"
 
+#. STRINGS.SKIN_NAMES.woodie_ice
+msgctxt "STRINGS.SKIN_NAMES.woodie_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
+
 #. STRINGS.SKIN_NAMES.woodie_magma
 msgctxt "STRINGS.SKIN_NAMES.woodie_magma"
 msgid "The Magmatic"
@@ -301925,6 +302265,11 @@ msgstr "發光漿果叢"
 msgctxt "STRINGS.SKIN_NAMES.wormwood_cactus"
 msgid "The Oasis Bound"
 msgstr "前往綠洲"
+
+#. STRINGS.SKIN_NAMES.wormwood_ice
+msgctxt "STRINGS.SKIN_NAMES.wormwood_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
 
 #. STRINGS.SKIN_NAMES.wormwood_lunar
 msgctxt "STRINGS.SKIN_NAMES.wormwood_lunar"
@@ -302050,6 +302395,11 @@ msgstr "深淵"
 msgctxt "STRINGS.SKIN_NAMES.wurt_formal"
 msgid "Guest of Honor"
 msgstr "貴賓"
+
+#. STRINGS.SKIN_NAMES.wurt_ice
+msgctxt "STRINGS.SKIN_NAMES.wurt_ice"
+msgid "The Snowfallen"
+msgstr "下雪"
 
 #. STRINGS.SKIN_NAMES.wurt_none
 msgctxt "STRINGS.SKIN_NAMES.wurt_none"
@@ -302296,6 +302646,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wanda_formal"
 msgid "\"Nothing is more fashionable than punctuality.\""
 msgstr "“沒有什麼比準時更時尚了。”"
 
+#. STRINGS.SKIN_QUOTES.wanda_ice
+msgctxt "STRINGS.SKIN_QUOTES.wanda_ice"
+msgid "\"Oh botheration, where have I gotten myself this time?\""
+msgstr "“嗷，麻煩呐。這次我把自己折騰到哪了？”"
+
 #. STRINGS.SKIN_QUOTES.wanda_lunar
 msgctxt "STRINGS.SKIN_QUOTES.wanda_lunar"
 msgid "\"My future will reveal itself in the phases of the moon.\""
@@ -302411,6 +302766,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_gladiator"
 msgid "\"My skill in battle is withöut peer.\""
 msgstr "\"我在戰場上無人能敵。\""
 
+#. STRINGS.SKIN_QUOTES.wathgrithr_ice
+msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_ice"
+msgid "\"Call forth the howling winds and biting cold, the jotunn fear them not!\""
+msgstr "“召喚出呼嘯的狂風和刺骨的寒冷吧，本巨人不畏懼它們！”"
+
 #. STRINGS.SKIN_QUOTES.wathgrithr_magma
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_magma"
 msgid "\"I fear nöt Surtr's flames!\""
@@ -302505,6 +302865,11 @@ msgstr "\"我得找到我那漂亮的助理。\""
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_gladiator"
 msgid "\"All those who oppose me shall perish!\""
 msgstr "\"逆我者亡！\""
+
+#. STRINGS.SKIN_QUOTES.waxwell_ice
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_ice"
+msgid "\"Nothing personal pal, the ice industry's a cold business.\""
+msgstr "“不是針對你，夥計，冰雪產業就是這麼冷酷。”"
 
 #. STRINGS.SKIN_QUOTES.waxwell_krampus
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_krampus"
@@ -303356,6 +303721,11 @@ msgctxt "STRINGS.SKIN_QUOTES.woodie_hockey"
 msgid "\"It's the best game you can name!\""
 msgstr "\"最好的體育項目\""
 
+#. STRINGS.SKIN_QUOTES.woodie_ice
+msgctxt "STRINGS.SKIN_QUOTES.woodie_ice"
+msgid "\"Snowy peaks are a Canadian's natural habitat.\""
+msgstr "“雪峰是加拿大人的自然棲息地。”"
+
 #. STRINGS.SKIN_QUOTES.woodie_magma
 msgctxt "STRINGS.SKIN_QUOTES.woodie_magma"
 msgid "\"Hope I don't burn the trees.\""
@@ -303430,6 +303800,11 @@ msgstr "\"聲音低一點。樹木在休息。\""
 msgctxt "STRINGS.SKIN_QUOTES.wormwood_cactus"
 msgid "\"Hug?\""
 msgstr "\"抱一抱？\""
+
+#. STRINGS.SKIN_QUOTES.wormwood_ice
+msgctxt "STRINGS.SKIN_QUOTES.wormwood_ice"
+msgid "\"Ch-chilly...\""
+msgstr "“冷——冷……”"
 
 #. STRINGS.SKIN_QUOTES.wormwood_lunar
 msgctxt "STRINGS.SKIN_QUOTES.wormwood_lunar"
@@ -303545,6 +303920,11 @@ msgstr "\"這個叫剩物（生物）發光……發光！\""
 msgctxt "STRINGS.SKIN_QUOTES.wurt_formal"
 msgid "\"Frilly and gilly, florp!\""
 msgstr "\"褶邊多，康乃馨， 浮浪噗！\""
+
+#. STRINGS.SKIN_QUOTES.wurt_ice
+msgctxt "STRINGS.SKIN_QUOTES.wurt_ice"
+msgid "\"Maybe fluff okay for wintertime, but scales better all other times!\""
+msgstr "“也許在冬天的時候，絨毛還可以，但其他時候的鱗片都會更好！”"
 
 #. STRINGS.SKIN_QUOTES.wurt_pirate
 msgctxt "STRINGS.SKIN_QUOTES.wurt_pirate"
@@ -304260,6 +304640,11 @@ msgstr "斧頭"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BACKPACK"
 msgid "Backpack"
 msgstr "背包"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEARGERVEST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEARGERVEST"
+msgid "Hibearnation Vest"
+msgstr "熊皮背心"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEDROLL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEDROLL"
@@ -314244,7 +314629,7 @@ msgstr "要放棄對世界所做的更改嗎？"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS"
 msgid "Do you want to discard the changes you made to your world settings?"
-msgstr "要放棄對世界選項所做的更改嗎？"
+msgstr "要放棄對世界規則所做的更改嗎？"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN"
@@ -314799,7 +315184,7 @@ msgstr "伏特羊"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR"
 msgid "Link Settings and Worldgen Presets into World Presets"
-msgstr "將選項和世界生成預設合成為世界預設"
+msgstr "將規則預設和世界生成預設合併為世界預設"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET"
@@ -314814,7 +315199,7 @@ msgstr "選擇世界預設"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS"
 msgid "Choose Settings Preset"
-msgstr "選擇選項預設"
+msgstr "選擇規則預設"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN"
@@ -315689,7 +316074,7 @@ msgstr "世界生成"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS"
 msgid "World Settings"
-msgstr "世界選項"
+msgstr "世界規則"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TALLBIRDS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TALLBIRDS"
@@ -315779,7 +316164,7 @@ msgstr "這個遊戲從一些我們不能很好識別的設置開始。"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR"
 msgid "Seperate World Presets into Settings and Worldgen Presets"
-msgstr "將世界預設拆分為選項和世界生成預設"
+msgstr "將世界預設拆分為規則預設和世界生成預設"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS"
@@ -325729,7 +326114,7 @@ msgstr "最低可加入人數："
 #. STRINGS.UI.SERVERLISTINGSCREEN.MISSINGDATABODY
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.MISSINGDATABODY"
 msgid "This server is not up to date. We cannot display its world settings."
-msgstr "此伺服器未更新。無法顯示其世界設置。"
+msgstr "此伺服器未更新。無法顯示其世界規則。"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.MISSINGDATATITLE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.MISSINGDATATITLE"
