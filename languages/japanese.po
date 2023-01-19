@@ -91,6 +91,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
 msgstr "洞くつ探検"
 
+#. STRINGS.ACTIONS.ACTIVATE.SPIN
+msgctxt "STRINGS.ACTIONS.ACTIVATE.SPIN"
+msgid "Spin"
+msgstr "回す"
+
 #. STRINGS.ACTIONS.ACTIVATE.SUMMONHOST
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SUMMONHOST"
 msgid "Ring"
@@ -3296,6 +3301,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
 msgstr "鳥もカーカーニバルも影も形もないな。"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I need a pillow to fight with!"
+msgstr "戦うためにはまくらが必要だ！"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.COOLDOWN"
 msgid "only_used_by_wx78"
@@ -4490,6 +4500,11 @@ msgstr "えらく寒い！"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_COMPASS_OUT"
 msgid "This compass doesn't point anymore."
 msgstr "針が動かなくなってしまった…"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_COZY_SLEEP"
+msgid "I feel so refreshed!"
+msgstr "気分爽快だ！"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CRAFTING_FAIL"
@@ -7191,6 +7206,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "I think I'll take it out for a spin."
 msgstr "取り出して回してみようかな。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "If only it didn't also smell like a beefalo."
+msgstr "においまでビーファロじゃなければよかったんだが。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP"
+msgid "It's soggier than I would like."
+msgstr "これはちょっとビショビショしすぎだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS"
+msgid "At least is smells nicer than the beefalo pillow."
+msgstr "ビーファロのまくらよりはましな臭いだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Who would sleep on this?"
+msgstr "誰がこの上で寝るんだ？"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESHARD"
 msgid "Bits of bone."
@@ -8131,6 +8166,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "It's not so bad when it isn't trying to kill you."
 msgstr "殺意を持って襲い掛かってこない時は悪くないんだけどね。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "I want to hug it, but the stone chafes."
+msgstr "ハグしてやりたいが、石は擦れて痛いんだ。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Now you're the one scared stiff!"
@@ -8500,6 +8540,11 @@ msgstr "女王の衣装だ。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It's a tree costume."
 msgstr "木の衣装だ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COZY_BUNNYMAN"
+msgid "They look so cozy."
+msgstr "とても心地が良さそうだ。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRABKING.GENERIC"
@@ -10120,6 +10165,31 @@ msgstr "止まれ！時間だ！物をハンマーで打つ時だ！"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy hammer for hitting things."
 msgstr "何かを叩くのに使える重いハンマーだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "If only it didn't also smell like a beefalo."
+msgstr "においまでビーファロじゃなければよかったんだが。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_KELP"
+msgid "It's soggier than I would like."
+msgstr "これはちょっとビショビショしすぎだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_PETALS"
+msgid "At least is smells nicer than the beefalo pillow."
+msgstr "ビーファロのまくらよりはましな臭いだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Who would sleep on this?"
+msgstr "誰がこの上で寝るんだ？"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAREBALL"
+msgid "At this point... I've eaten worse things."
+msgstr "今のところ...前に食べたもののほうがひどいな。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAWAIIANSHIRT"
@@ -12270,6 +12340,11 @@ msgstr "うわ、すごいな。これは…おいしそうだよ、ウェバー
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NATURE_BLUEPRINT"
 msgid "You really can't go wrong with flowers."
 msgstr "花柄は誰にでも似合うんだよ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTCAPHAT"
+msgid "No more bedhead for this scientist!"
+msgstr "これ以上この科学者に寝ぐせをつけないでくれ！"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTLIGHT"
@@ -18391,6 +18466,91 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTP_FOOD3"
 msgid "Nothing fancy."
 msgstr "大したものじゃない。"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "That rabbit can really light up a room."
+msgstr "このウサギは本当に部屋を明るくしてくれるな。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "That rabbit isn't lighting up anything."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I know just the place for it."
+msgstr "それにピッタリな場所を知っているぞ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "That rabbit can really light up a room."
+msgstr "このウサギは本当に部屋を明るくしてくれるな。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "That rabbit isn't lighting up anything."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I know just the place for it."
+msgstr "それにピッタリな場所を知っているぞ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "It's peaceful, for now."
+msgstr "安全だな...今のところは。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "I think we've all learned a lot here today."
+msgstr "今日ここでたくさんのことを学んだように思う。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "It must be built, for science!"
+msgstr "建てなくてはならない！科学のために！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD1"
+msgid "It's made with carrots, so science says it must be healthy."
+msgstr "ニンジンでできているということは、科学的に言えば健康的だということだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD2"
+msgid "Blue is the most scientific flavor."
+msgstr "青色からは何よりも科学的な雰囲気を感じる。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD3"
+msgid "A jiggly treat."
+msgstr "不安定なごちそうだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD4"
+msgid "Bunny-hop right into my mouth!"
+msgstr "ウサギが口の中に飛び込んできた！"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Smells like veggie barbecue."
+msgstr "野菜のバーベキューのような香りだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "That rabbit looks hungry."
+msgstr "あのウサギはお腹を空かせているようだ。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What to make..."
+msgstr "何を作ろうか…"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_TOKEN"
+msgid "I should be careful who I hand this out to."
+msgstr "これを渡す相手は慎重に決めなくては。"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Smells like scorched fur."
@@ -18545,6 +18705,11 @@ msgstr "ごめんね、これ着れないよね。"
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aw, looks like they all left..."
 msgstr "あーあ。みんないなくなっちゃった…"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Wait, I'm not prepared yet!"
+msgstr "待って！まだ準備ができてないよ！"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -19485,6 +19650,11 @@ msgstr "ブルブル…ど、どうにかして、体を温めないと。"
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_COMPASS_OUT"
 msgid "What...? I've never seen a compass do this before."
 msgstr "ん…？コンパスがこんな動きをするなんて初めてだ。"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_COZY_SLEEP"
+msgid "Wow, that was a good night's sleep!"
+msgstr "わあ！ぐっすり寝れたいい夜だったなあ！"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_CRAFTING_FAIL"
@@ -21841,6 +22011,26 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "A rudder might come in handy."
 msgstr "かじは役に立つはずだね。"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It's almost as good of a pillow as Woby!"
+msgstr "ウォービーと同じくらい良いまくらだね！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_KELP"
+msgid "Well, um... I guess there are worse things to use for a pillow?"
+msgstr "えっと、その...もっとひどいまくらもあるはず...だよね？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Don't worry, I already checked it for bees."
+msgstr "大丈夫。ハチがいるかどうかはもう確認したよ。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "It's not so bad, I once made a bed out of pine needles."
+msgstr "これ、そんなに悪くないよ。僕は昔、松でベッドを作ったことがあるからね。"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BONESHARD"
 msgid "It's a bone!"
@@ -22781,6 +22971,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "She was pretty angry at us, wasn't she Woby?"
 msgstr "ウォービー、こいつ僕らにすごく怒ってないかい？"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "He looks so happy! And hoppy!"
+msgstr "とっても幸せそう！心も体も弾んじゃうね！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "This statue is... a-maze-ing! Get it?"
@@ -23150,6 +23345,11 @@ msgstr "こんな素敵な衣装を外にほっぽらかしたのは誰？"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Who would leave such a nice costume out in the wilderness?"
 msgstr "こんな素敵な衣装を外にほっぽらかしたのは誰？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COZY_BUNNYMAN"
+msgid "They seem friendly!"
+msgstr "人懐っこいみたい！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CRABKING.GENERIC"
@@ -24770,6 +24970,31 @@ msgstr "モノを壊して生まれるモノもあるよね。"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy hammer for hitting things."
 msgstr "何かを叩くのに使える重いハンマーだ。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It's almost as good of a pillow as Woby!"
+msgstr "ウォービーと同じくらい良いまくらだね！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_KELP"
+msgid "Well, um... I guess there are worse things to use for a pillow?"
+msgstr "えっと、その...もっとひどいまくらもあるはず...だよね？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Don't worry, I already checked it for bees."
+msgstr "大丈夫。ハチがいるかどうかはもう確認したよ。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "It's not so bad, I once made a bed out of pine needles."
+msgstr "これ、そんなに悪くないよ。僕は昔、松でベッドを作ったことがあるからね。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAREBALL"
+msgid "That looks like something Woby spit up."
+msgstr "ウォービーが吐き出すやつに似てるね。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAWAIIANSHIRT"
@@ -26915,6 +27140,11 @@ msgstr "やあ、クッキー！ねえ、あれは何でできてるの？"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I hope it doesn't attract too many bees."
 msgstr "あんまりいっぱいハチが来ないといいね。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTCAPHAT"
+msgid "It's a little sleeping bag for your head."
+msgstr "頭用の小さな寝袋だね。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTLIGHT"
@@ -32991,6 +33221,91 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTP_FOOD3"
 msgid "Who ate all the good parts?"
 msgstr "美味しいとこを食べたの誰？"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It's nice to have a little extra firelight!"
+msgstr "ちょっとした火の明かりがあるのはいいね！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Don't worry, Woby and I will find some kindling for it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I'll have it set up in a jiffy!"
+msgstr "すぐに準備するよ！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It's nice to have a little extra firelight!"
+msgstr "ちょっとした火の明かりがあるのはいいね！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Don't worry, Woby and I will find some kindling for it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I'll have it set up in a jiffy!"
+msgstr "すぐに準備するよ！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "All fighting should be done with pillows."
+msgstr "どの戦いもまくらでするべきだよ。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "It's okay, everyone is wearing their safety gear!"
+msgstr "大丈夫。みんな安全装置を着てるからね！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I'll have it set up in a jiffy!"
+msgstr "すぐに準備するよ！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD1"
+msgid "Time for a dessert break!"
+msgstr "デザート休憩の時間だ！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD2"
+msgid "Is that what the moon tastes like?"
+msgstr "月ってこんな味なのかな？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD3"
+msgid "It's so jiggly!"
+msgstr "とってもグラグラだ！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD4"
+msgid "They're not marshmallows, but they're still pretty good!"
+msgstr "マシュマロではないけど、とってもいいね！"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "What a waste of good supplies..."
+msgstr "せっかくの素材が台無しだよ..."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "That's a hungry-looking rabbit statue."
+msgstr "お腹を空かせた見た目のウサギの像だね。"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What should we make, Woby?"
+msgstr "何を作ろうか、ウォービー？"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_TOKEN"
+msgid "It's rude to hit people with gloves. You might start a fight!"
+msgstr "手袋をつけて人を殴るのは失礼だよ。喧嘩になっちゃうよ！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "This is exactly why learning fire safety is so important!"
@@ -33145,6 +33460,11 @@ msgstr "ふん。あんた好き嫌いが多いタイプだね？"
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Gone already? Time sure flies when you're having fun."
 msgstr "もうない？楽しい時は本当に時間が飛んでっちゃう。"
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I can't just run in empty-handed!"
+msgstr "手ぶらじゃダメだよ！"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -34150,6 +34470,11 @@ msgstr "ブルルル…いつの間にこんなに寒くなったの？"
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_COMPASS_OUT"
 msgid "I'm not sure how this simple mechanism managed to break, but..."
 msgstr "どうしたらこんなに単純なメカニズムが壊れるのか…でも…"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_COZY_SLEEP"
+msgid "Ah, I feel fit as a fiddle!"
+msgstr "ああ、とても身体の調子がいいよ！"
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_CRAFTING_FAIL"
@@ -36586,6 +36911,26 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "I can't believe I didn't think of it sooner."
 msgstr "どうしてすぐに思いつかなかったんだろうね。"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It looks quite comfortable."
+msgstr "とても快適そうだね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_KELP"
+msgid "Who thought this was a good idea?"
+msgstr "誰だい、これがいい考えだって言ったのは？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_PETALS"
+msgid "What a lovely fragrance!"
+msgstr "なんて素敵な香りなんだい！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "It's horribly scratchy."
+msgstr "ひどくチクチクするね。"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BONESHARD"
 msgid "Whatever these bones belonged to is lost to time."
@@ -37526,6 +37871,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Why are there so many unpleasant statues?"
 msgstr "何でこんなにたくさん不気味な像があるの？"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "I suppose it wasn't the most unpleasant diversion."
+msgstr "最悪な娯楽ではなかったようだね。"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "This will help remind me not to venture too far in the caves..."
@@ -37895,6 +38245,11 @@ msgstr "女王のものみたいだね。"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It looks like a... tree costume?"
 msgstr "これは…木の衣装かい？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COZY_BUNNYMAN"
+msgid "Don't you have anything more important to do than lay about?"
+msgstr "寝転がること以上に重要なことなんてあるのかい？"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CRABKING.GENERIC"
@@ -39505,6 +39860,31 @@ msgstr "元に戻すのも時々必要だわ。"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy hammer for hitting things."
 msgstr "何かを叩くのに使える重いハンマーだ。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It looks quite comfortable."
+msgstr "とても快適そうだね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_KELP"
+msgid "Who thought this was a good idea?"
+msgstr "誰だい、これがいい考えだって言ったのは？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_PETALS"
+msgid "What a lovely fragrance!"
+msgstr "なんて素敵な香りなんだい！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "It's horribly scratchy."
+msgstr "ひどくチクチクするね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAREBALL"
+msgid "Disgusting!"
+msgstr "気色悪い！"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAWAIIANSHIRT"
@@ -41635,6 +42015,11 @@ msgstr "あれは絶対にクッキーじゃない。"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.NATURE_BLUEPRINT"
 msgid "A pretty garden-variety outfit, wouldn't you say?"
 msgstr "カワイイ庭のバリエーションの服だと思わない？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTCAPHAT"
+msgid "This is no time for a nap!"
+msgstr "寝ている暇はないよ！"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTLIGHT"
@@ -47736,6 +48121,91 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTP_FOOD3"
 msgid "This will fill me up for a while."
 msgstr "これでしばらくは満腹になるわ。"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "More light is always welcome."
+msgstr "明かりはいくらあってもいいもんだよ。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Oh botheration, the fire went out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I suppose I can spare a moment to set it up."
+msgstr "これを設置する暇くらいはありそうだね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "More light is always welcome."
+msgstr "明かりはいくらあってもいいもんだよ。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Oh botheration, the fire went out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I suppose I can spare a moment to set it up."
+msgstr "これを設置する暇くらいはありそうだね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "It's not in use at the moment."
+msgstr "今は使われてないようだね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "What an exhilarating lack of danger!"
+msgstr "危険じゃないってのは何とも爽快だねえ！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I suppose there are worse ways to spend one's time."
+msgstr "これよりも無駄な時間の使い方はあると思うよ。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD1"
+msgid "Oh, well, perhaps just a quick slice or two."
+msgstr "ああ、そうかい。なら、一切れ二切れもらおうかね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD2"
+msgid "I'd nearly forgotten what \"blue\" tasted like."
+msgstr "「青」の味がどんなか忘れるところだったよ。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD3"
+msgid "What a fashionable jelly dessert!"
+msgstr "なんてオシャレなゼリーのデザートなんだい！"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD4"
+msgid "What could be better than food on a stick?"
+msgstr "棒に刺さった食べ物より良いものはないね？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "That's an unfortunate turn of events."
+msgstr "これは不幸な結末だわ。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "That rabbit looks rather peckish."
+msgstr "あのウサギはだいぶ腹をすかせているようだね。"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "I wonder what trinkets it has to offer?"
+msgstr "一体どんな物をくれるんだろうね？"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_TOKEN"
+msgid "I demand satisfaction!"
+msgstr "私を満足させておくれ！"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Oh well, nothing to be done now."
@@ -47890,6 +48360,11 @@ msgstr "ノン、これダメだネ。"
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The festivities seem to be over."
 msgstr "お祭りは終わったみたいだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I think I am forgetting an important ingredient."
+msgstr "大事な素材を忘れている気がするヨ。"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -48820,6 +49295,11 @@ msgstr "ウウ…冷凍焼けしちゃいそうネ…"
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_COMPASS_OUT"
 msgid "Oh. I believe it broke."
 msgstr "んー、壊れたみたいネ"
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_COZY_SLEEP"
+msgid "Ah, what lovely dreams I had!"
+msgstr "あぁ！とってもステキな夢だったヨ！"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_CRAFTING_FAIL"
@@ -51211,6 +51691,26 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Aha! I thought my boat was missing something!"
 msgstr "アア！ちょうどボートに何か足りないと思っていたんだヨ！"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Soft and dense, like a well-baked loaf of bread."
+msgstr "柔らかいのに密度も高い...上手に焼けたパンみたいだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_KELP"
+msgid "Wet and unpleasant, like an old spinach salad."
+msgstr "ビショビショで不快...古くなったほうれん草サラダみたいだヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Light and airy, like a soufflé."
+msgstr "軽くてふわふわ...スフレみたいだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Stiff and scratchy, like a terrible biscotti."
+msgstr "硬くてガリガリ...出来の悪いビスケットみたいだヨ。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESHARD"
 msgid "I could make a hearty stock with these."
@@ -52151,6 +52651,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "I hope this won't bring us ill luck at sea..."
 msgstr "これのせいで海で悪いことがなければいいけどネ..."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "As far as battles go, it was probably the most pleasant."
+msgstr "今までの戦いの中で一番楽しかったかもしれないネ。"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Perhaps now you can keep watch over my crock pot."
@@ -52520,6 +53025,11 @@ msgstr "女王の衣装みたいだネ。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It seems to be a costume for a... tree?"
 msgstr "これはたぶん…木の衣装だネ？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COZY_BUNNYMAN"
+msgid "What a cozy-looking fellow."
+msgstr "すごく気持ちよさそうな見た目だネ。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CRABKING.GENERIC"
@@ -54140,6 +54650,31 @@ msgstr "肉をたたいて、やわらかくする道具ネ！"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy duty tenderizer."
 msgstr "これは肉をすご～く柔らかくしてくれるヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Soft and dense, like a well-baked loaf of bread."
+msgstr "柔らかいのに密度も高い...上手に焼けたパンみたいだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_KELP"
+msgid "Wet and unpleasant, like an old spinach salad."
+msgstr "ビショビショで不快...古くなったほうれん草サラダみたいだヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Light and airy, like a soufflé."
+msgstr "軽くてふわふわ...スフレみたいだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Stiff and scratchy, like a terrible biscotti."
+msgstr "硬くてガリガリ...出来の悪いビスケットみたいだヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAREBALL"
+msgid "The thought of anyone eating this wounds me deeply."
+msgstr "みんながこれを食べてると思うと気が滅入るヨ。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAWAIIANSHIRT"
@@ -56185,6 +56720,11 @@ msgstr "次は何か一緒にベイキングするネ？"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Made from natural ingredients."
 msgstr "天然の材料で作ったヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTCAPHAT"
+msgid "A short nap might be nice."
+msgstr "短い昼寝は最高だネ。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTLIGHT"
@@ -61586,6 +62126,91 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTP_FOOD3"
 msgid "I'd never turn my nose up at street food."
 msgstr "ボク、ストリートフードに手を出したことはないんだヨ。"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Ah, some lovely mood lighting!"
+msgstr "あぁ、ステキな雰囲気の明かりだネ！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "C'est dommage, its little fire has burnt out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Now, to find the perfect placement for it."
+msgstr "よし、これにピッタリの場所を探すヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Ah, some lovely mood lighting!"
+msgstr "あぁ、ステキな雰囲気の明かりだネ！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "C'est dommage, its little fire has burnt out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Now, to find the perfect placement for it."
+msgstr "よし、これにピッタリの場所を探すヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "No one seems to be using it right now."
+msgstr "今は誰も使っていないみたいだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "It's all fun and games until someone gets a mouthful of pillow fluff."
+msgstr "誰かの口が綿まみれになるまでお祭り騒ぎだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I have all my ingredients right here."
+msgstr "素材は全部ここに揃ってるヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD1"
+msgid "It's been so long since I've had such a scrumptious bite of carrot cake!"
+msgstr "こんなにおいしいニンジンケーキを食べたのは久しぶりだヨ！"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD2"
+msgid "A part of me expected it to be cheesecake."
+msgstr "心のどこかでチーズケーキを期待していたヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD3"
+msgid "A feast for the eyes and my stomach."
+msgstr "目とボクの胃のためのごちそうだネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD4"
+msgid "Perfectly doughy."
+msgstr "完全に生焼けだヨ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "A bit too well-done."
+msgstr "ちょっとよく焼きすぎたネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Are you hungry, monsieur?"
+msgstr "ムシュー、お腹が空いているノ？"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "I do enjoy a good rabbit stew. I should show them my appreciation."
+msgstr "おいしいウサギのシチューは好きだヨ。感謝を示さないとネ。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_TOKEN"
+msgid "Surely we can settle this without violence?"
+msgstr "暴力なしで取り引きできるよネ？"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Flame broiled."
@@ -61740,6 +62365,11 @@ msgstr "かような物を身に着ける鍛錬はしていないようだな。
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It seems the ravens hath returned to Odin."
 msgstr "カラスはオーディンのもとへ戻ったようだ。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Thou wouldst send me into the fray unarmed?"
+msgstr "汝、武器もなしに我に喧嘩しろというのか？"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -62680,6 +63310,11 @@ msgstr "ブルル、私の毛皮はどこだ！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_COMPASS_OUT"
 msgid "I fear I'm going to lose my way!"
 msgstr "これでは道を見失ってしまう！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_COZY_SLEEP"
+msgid "A well-rested warrior am I!"
+msgstr "我はよく休息をとれた戦士なり！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CRAFTING_FAIL"
@@ -65011,6 +65646,26 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It shall be done, with haste!"
 msgstr "急いで仕上げねばならぬ！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It is filled with the hair of the woolen beasties."
+msgstr "毛むくじゃらの獣の毛がいっぱい詰まっておる。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_KELP"
+msgid "'Tis a pillow from Njoror's domain."
+msgstr "ニジョルの領土から来たまくらだな。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_PETALS"
+msgid "As good a use as any for flimsy petals."
+msgstr "薄い花びらを上手に使っているな。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Only the strong-willed could sleep on such a thing."
+msgstr "強靭な意志を持つもののみが、かような物で寝ることができるのだ。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BONESHARD"
 msgid "Bits of our enemies."
@@ -65951,6 +66606,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "To honor our victory at sea!"
 msgstr "海での我等の勝利を祝して！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Their weapons were strange, but they possessed a warrior's spirit."
+msgstr "変わった武器だが、奴らは戦士の心をもっているぞ。"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "The beast guarded its treasure well, but not well enough."
@@ -66320,6 +66980,11 @@ msgstr "我は自分の衣しょ…いや、戦士の服をもっているぞ！
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COSTUME_TREE_BODY"
 msgid "I have my own costu- that is, warrior's garb!"
 msgstr "我は自分の衣しょ…いや、戦士の服をもっているぞ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COZY_BUNNYMAN"
+msgid "I am not fooled by their cozy exterior."
+msgstr "そんな親し気な外観には騙されんぞ！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRABKING.GENERIC"
@@ -67940,6 +68605,31 @@ msgstr "戦いというよりは労働用。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I am worthy!"
 msgstr "我には価値がある！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It is filled with the hair of the woolen beasties."
+msgstr "毛むくじゃらの獣の毛がいっぱい詰まっておる。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_KELP"
+msgid "'Tis a pillow from Njoror's domain."
+msgstr "ニジョルの領土から来たまくらだな。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_PETALS"
+msgid "As good a use as any for flimsy petals."
+msgstr "薄い花びらを上手に使っているな。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Only the strong-willed could sleep on such a thing."
+msgstr "強靭な意志を持つもののみが、かような物で寝ることができるのだ。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAREBALL"
+msgid "Ha! I am no coward, pass it this way!"
+msgstr "ふん！我は臆病者ではない！こっちにそれをよこせ！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAWAIIANSHIRT"
@@ -70070,6 +70760,11 @@ msgstr "小さき獣のようだが凶暴さに欠ける。"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers won't protect you in battle!"
 msgstr "花は戦で汝を守護することはなかろう。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTCAPHAT"
+msgid "Prepare for slumber!"
+msgstr "休息の準備だ！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTLIGHT"
@@ -76136,6 +76831,91 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTP_FOOD3"
 msgid "I shall consume it!"
 msgstr "喰らうてやろう！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Let us feast by the rabbit's torchlight!"
+msgstr "ウサギの火明かりでもてなすぞ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Its light burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Let us set the rabbit torch alight!"
+msgstr "我らでウサギの火明かりを設置しようぞ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Let us feast by the rabbit's torchlight!"
+msgstr "ウサギの火明かりでもてなすぞ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Its light burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Let us set the rabbit torch alight!"
+msgstr "我らでウサギの火明かりを設置しようぞ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Who will face me in the field of battle?"
+msgstr "さあ、我と戦場で対峙したい者は誰だ？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "There art a battle underway!"
+msgstr "戦闘の最中だ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "A test of might and bravery!"
+msgstr "力と勇気を試すのだ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD1"
+msgid "Bah! 'Tis naught but a meat-shaped veggie cake!"
+msgstr "むむ！これは肉の形をした野菜ケーキにすぎないな！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD2"
+msgid "I do not trust whatever lies within."
+msgstr "中に何が入っていようと信じぬぞ。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD3"
+msgid "A delicious sight indeed!"
+msgstr "本当に美味しそうな見た目だ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD4"
+msgid "A trio of tasty morsels."
+msgstr "美味しさ三兄弟だ！"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "It must have displeased the gods."
+msgstr "きっと神の怒りを買ったのだろう。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "What should be sacrificed to the beast's maw?"
+msgstr "獣の胃に何を捧げようか？"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "The rabbit seems pleased with my offering."
+msgstr "あのウサギは、どうやら我が供え物を気に入ったようだ。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_TOKEN"
+msgid "Who dares to face me in the ring?"
+msgstr "我とリング内で対峙するものはおらぬか？"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "It seems someone offered it a flame. I do not think it liked it."
@@ -76290,6 +77070,11 @@ msgstr "ああもう、バカバカしい。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Finally. It looks like the birds have dispersed."
 msgstr "ようやく鳥たちは散っていったようだ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "If I'm going to humiliate myself, I can at least do it properly."
+msgstr "自尊心を傷つけることが目的なら、それは達成できそうだな。"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -77295,6 +78080,11 @@ msgstr "私のハートは冷たく沈む。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COMPASS_OUT"
 msgid "The compass has fallen to pieces."
 msgstr "コンパスが壊れてしまったようだね"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COZY_SLEEP"
+msgid "That was a marginally more restful sleep than usual."
+msgstr "いつもの睡眠よりもほんの少しだけ質の良い眠りだったな。"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAFTING_FAIL"
@@ -79646,6 +80436,26 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Do I look like a common shipwright? Oh, very well..."
 msgstr "私がその辺の船大工に見えるのかね？そうかそうか...なるほどな..."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "What is the thread count on this?"
+msgstr "これのスレッドカウントはいかほどなのかね？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_KELP"
+msgid "Looking at it is making me seasick."
+msgstr "それを見ていると船酔いするのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Can you rightfully call a sack of potpourri a pillow?"
+msgstr "ポプリの寄せ集めは本当にまくらと呼べるのかね？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "It will either protect me or cut me to ribbons."
+msgstr "私のことを守ってくれるか、ズタズタに引き裂くかのどちらかだろうな。"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BONESHARD"
 msgid "Grind them bones."
@@ -80586,6 +81396,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Such a fowl-tempered bird."
 msgstr "なんともひどい気性の鳥。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Who put this ridiculous thing here?"
+msgstr "このばかげたものをここに置いたのは誰かね？"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Always keep things close to the chest, right pal?"
@@ -80955,6 +81770,11 @@ msgstr "衣装は提供されるようだな。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It seems the costumes are provided."
 msgstr "衣装は提供されるようだな。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COZY_BUNNYMAN"
+msgid "I could have sworn I left you all underground."
+msgstr "お前らはすべて地下に置いてきたはずなのだが。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CRABKING.GENERIC"
@@ -82565,6 +83385,31 @@ msgstr "他人の作業を打ち消すのはいい気分だ。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I would never resort to something so brutish."
 msgstr "私はこんな野蛮な方法で解決しないだろう。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "What is the thread count on this?"
+msgstr "これのスレッドカウントはいかほどなのかね？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_KELP"
+msgid "Looking at it is making me seasick."
+msgstr "それを見ていると船酔いするのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Can you rightfully call a sack of potpourri a pillow?"
+msgstr "ポプリの寄せ集めは本当にまくらと呼べるのかね？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "At least it will make a satisfying thwack."
+msgstr "少なくとも気持ちよく叩くことはできそうなのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAREBALL"
+msgid "You must be joking."
+msgstr "冗談だろう。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT"
@@ -84695,6 +85540,11 @@ msgstr "それは食べないぞ。"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Florals. How saccharine."
 msgstr "花か。甘ったるい。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTCAPHAT"
+msgid "I can't remember the last time I slept well."
+msgstr "もう久しいこと快眠などできていないのだよ。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTLIGHT"
@@ -90766,6 +91616,91 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTP_FOOD3"
 msgid "Nothing fancy, but it will do."
 msgstr "とりたて豪華ではないが、十分だろう。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Such unrefined decor."
+msgstr "なんとも上品でない装飾なのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Now it's not even useful."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Someone should set that up."
+msgstr "誰か設置してくれたまえ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Such unrefined decor."
+msgstr "なんとも上品でない装飾なのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Now it's not even useful."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Someone should set that up."
+msgstr "誰か設置してくれたまえ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Absolutely not."
+msgstr "絶対にダメなのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "I do enjoy watching people make fools of themselves."
+msgstr "他人が笑いものになっている様を見るのは最高に楽しいのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Surely that's a job for someone else?"
+msgstr "これは誰か別の者の仕事ではないかね？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD1"
+msgid "Cake shaped like a rabbit, how novel."
+msgstr "ウサギの形のケーキか。なかなかに奇抜なのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD2"
+msgid "What a mysterious flavor."
+msgstr "なんとも不思議な味なのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD3"
+msgid "A small piece of fruit, imprisoned in gelatin."
+msgstr "小さな果物がゼラチンに閉じ込められているのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD4"
+msgid "Far too sticky for my liking."
+msgstr "これはあまりにベタベタすぎて好みに合わないのだよ。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "A pity."
+msgstr "これは…残念だ…"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "It requires an offering."
+msgstr "これは供え物を求めている。"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What do you have in store for me?"
+msgstr "私に何をくれるのかね？"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_TOKEN"
+msgid "Care for a gentleman's duel?"
+msgstr "紳士の決闘が好みなのかね？"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Seems not everyone appreciates the little thieves."
@@ -90920,6 +91855,11 @@ msgstr "うーん、このままにしといたほうがよさそうだね。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, did all the birds leave?"
 msgstr "えー、鳥は皆いなくなっちゃったの？"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "We need a pillow first!"
+msgstr "まずはまくらが必要だ！"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -91875,6 +92815,11 @@ msgstr "ブルル… クモの毛ってあんまり温かくない。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_COMPASS_OUT"
 msgid "Uh oh, I broke it."
 msgstr "あ…壊しちゃった…"
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_COZY_SLEEP"
+msgid "We had such a good sleep!"
+msgstr "うーん！よく寝れたなあ！"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_CRAFTING_FAIL"
@@ -94201,6 +95146,26 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "We're good at spinning things!"
 msgstr "グルグル回すのならまかせて！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "A fluffy puffy pillow!"
+msgstr "ふかふかでもふもふのまくらだね！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_KELP"
+msgid "Is that pillow... dripping?"
+msgstr "あのまくら...水が垂れてる？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_PETALS"
+msgid "It's the nicest pillow we've ever smelled!"
+msgstr "今までで一番いいにおいのまくらだね！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Ah! This one's really scratchy..."
+msgstr "わあ！これとってもチクチクする..."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESHARD"
 msgid "Boney bits."
@@ -95141,6 +96106,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Not such a big bad bird now!"
 msgstr "もうそこまで悪い子じゃないみたい！"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "It's our most huggable statue."
+msgstr "何よりもギュッとしたくなる像だね。"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "We feel a bit bad for stealing their treasure."
@@ -95510,6 +96480,11 @@ msgstr "劇で着られるね！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COSTUME_TREE_BODY"
 msgid "We can wear it in the play!"
 msgstr "劇で着られるね！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COZY_BUNNYMAN"
+msgid "Can we join your slumber party?"
+msgstr "オレたちもパジャマパーティに参加していい？"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRABKING.GENERIC"
@@ -97130,6 +98105,31 @@ msgstr "ケオスと崩壊！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMMER_MJOLNIR"
 msgid "We're not strong enough to use it."
 msgstr "使いこなせる力はないよ。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "A fluffy puffy pillow!"
+msgstr "ふかふかでもふもふのまくらだね！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_KELP"
+msgid "Is that pillow... dripping?"
+msgstr "あのまくら...水が垂れてる？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_PETALS"
+msgid "It's the nicest pillow we've ever smelled!"
+msgstr "今までで一番いいにおいのまくらだね！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Ah! This one's really scratchy..."
+msgstr "わあ！これとってもチクチクする..."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAREBALL"
+msgid "Yuck! What a mean dare!"
+msgstr "ゲーッ！すっごい下品な挑発！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAWAIIANSHIRT"
@@ -99260,6 +100260,11 @@ msgstr "これは、特別おいしくできたんだよ！"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers are always nice."
 msgstr "花はいつでもすてきだよー。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTCAPHAT"
+msgid "Father used to wear a nightcap just like that."
+msgstr "おとうさんが昔そんな感じのナイトキャップを被っていたよ。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTLIGHT"
@@ -105326,6 +106331,91 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTP_FOOD3"
 msgid "Smells good."
 msgstr "いい匂い。"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It makes us feel safe and cozy."
+msgstr "それがあると安心するし居心地がいいね。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "We still like it, even without the light!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "It'd be a good night light."
+msgstr "きっと素敵な夜用の照明になるよ。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It makes us feel safe and cozy."
+msgstr "それがあると安心するし居心地がいいね。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "We still like it, even without the light!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "It'd be a good night light."
+msgstr "きっと素敵な夜用の照明になるよ。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Let's start a pillow fight!"
+msgstr "さあ、まくら合戦を始めよう！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "We want to play too!"
+msgstr "オレたちも遊びたい！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "It's okay Ms. Wickerbottom, we'll only be fighting with pillows!"
+msgstr "ウィッカーボトム先生、大丈夫だよ。まくらで戦うだけだから！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD1"
+msgid "It looks like cake, but it smells like veggies..."
+msgstr "ケーキみたいだけど...野菜みたいなにおいがする..."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD2"
+msgid "Mmm, the moon is tasty!"
+msgstr "わあ！お月様って美味しんだ！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD3"
+msgid "We kinda want to poke it."
+msgstr "なんだか突っついてみたいな。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD4"
+msgid "We can eat one puff, and share the rest with our friends!"
+msgstr "一口食べたら、残りは友だちと分けよう！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Oh no!"
+msgstr "なんてこったい！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Please don't bite us, we'll find something tastier for you to eat!"
+msgstr "オレたちを食べないで...何か美味しい食べ物を探してくるから！"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Do you have any fun things for us to play with?"
+msgstr "何か遊ぶのに使える面白いものを持ってない？"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_TOKEN"
+msgid "We shouldn't start fights... but do pillow fights count?"
+msgstr "喧嘩はしちゃだめだけど...まくら合戦はいいのかな？"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "I guess not everyone likes catcoons..."
@@ -105480,6 +106570,11 @@ msgstr "ダメ。私がバカだったわ。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The ravens have deserted this place... I think I'll miss them."
 msgstr "カラスたちは行ってしまった…寂しくはなるわね。"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I don't even have a pillow to fight with..."
+msgstr "戦うためのまくらさえも持ってないわ..."
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -106435,6 +107530,11 @@ msgstr "骨の髄まで凍えているわ。"
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_COMPASS_OUT"
 msgid "It feels the force of the earth no more."
 msgstr "もう、大地の力を感じ取れないみたい…"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_COZY_SLEEP"
+msgid "Such a peaceful slumber... but now I must wake."
+msgstr "とても心安らぐ睡眠だったのに...起きないといけないのね。"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_CRAFTING_FAIL"
@@ -108806,6 +109906,26 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "I could build a rudder, I suppose..."
 msgstr "舵なら作れるわ...たぶん。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "This one is just right. Except for the smell."
+msgstr "これはいいわね。匂い以外は。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_KELP"
+msgid "This one is too... kelpy."
+msgstr "これはちょっと...海藻のまますぎるわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_PETALS"
+msgid "This one is too soft."
+msgstr "これは柔らかすぎるわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "This one is too hard."
+msgstr "これは堅すぎるわね。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BONESHARD"
 msgid "Choking hazard."
@@ -109746,6 +110866,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "No more will she soar over the gloomy shoals."
 msgstr "もう憂鬱な海辺を飛べないわね。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "A fleeting moment of joy, captured in stone."
+msgstr "石に閉ざされたつかの間の喜びね。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "A testament to a lifetime spent alone in the dark."
@@ -110115,6 +111240,11 @@ msgstr "アビゲイル、一緒にオシャレして遊ばない？"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Shall we play a game of dress-up, Abigail?"
 msgstr "アビゲイル、一緒にオシャレして遊ばない？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COZY_BUNNYMAN"
+msgid "Poor creatures, sleep is only a temporary escape."
+msgstr "哀れな生き物ね。睡眠は一時的な逃避にすぎないのに。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CRABKING.GENERIC"
@@ -111725,6 +112855,31 @@ msgstr "世界を創造するのではなく、壊す道具よ…"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMMER_MJOLNIR"
 msgid "What a brutal implement."
 msgstr "残酷な道具ね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "This one is just right. Except for the smell."
+msgstr "これはいいわね。匂い以外は。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_KELP"
+msgid "This one is too... kelpy."
+msgstr "これはちょっと...海藻のまますぎるわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_PETALS"
+msgid "This one is too soft."
+msgstr "これは柔らかすぎるわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "This one is too hard."
+msgstr "これは堅すぎるわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAREBALL"
+msgid "What a horrid thing!"
+msgstr "なんて嫌なものなの！"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAWAIIANSHIRT"
@@ -113855,6 +115010,11 @@ msgstr "ウェバーはとても面白い視点で世界を見ているわ。"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Do you like this one, Abigail?"
 msgstr "こういうのは好き、アビゲイル？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTCAPHAT"
+msgid "There are so few comforts to be found in this wretched place."
+msgstr "この不幸な場所では安らぎなんて滅多にみつからないわ。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTLIGHT"
@@ -119921,6 +121081,91 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD3"
 msgid "It'll keep me alive a little longer."
 msgstr "これで少し寿命が延びるわね。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "The soft glow is... comforting."
+msgstr "柔らかな光は...気分が安らぐわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "What little comfort it gave is now gone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I should find a place for it to belong."
+msgstr "これを置く場所をみつけないとね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "The soft glow is... comforting."
+msgstr "柔らかな光は...気分が安らぐわね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "What little comfort it gave is now gone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I should find a place for it to belong."
+msgstr "これを置く場所をみつけないとね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "The ring is silent and still, for now."
+msgstr "リングは静かなままで動きはないわ。今のところはね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Can I... play next?"
+msgstr "私...次に遊んでもいいの？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "It might be... f-fun?"
+msgstr "き、きっと楽しい...よね？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD1"
+msgid "I think... I would like a bit of cake."
+msgstr "あの...少しでいいからケーキをもらえたら嬉しいんだけど。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD2"
+msgid "Now my lips have turned blue..."
+msgstr "私の唇、青色にっちゃった..."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD3"
+msgid "I'm sorry Abigail, I'd share if I could."
+msgstr "ごめんね、アビゲイル。できることなら、分けてあげるんだけど。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD4"
+msgid "It's sticky."
+msgstr "ベタベタするわ。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Poor Mr. Rabbit."
+msgstr "可哀想なウサギさん。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Are you hungry, Mr. Rabbit?"
+msgstr "ウサギさん、お腹が空いているの？"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "I should pay my respects."
+msgstr "きちんと敬意を表さないとね。"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_TOKEN"
+msgid "A duel to the death might help pass the time."
+msgstr "命を懸けた決闘なら、暇つぶしにもなるかしら。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "No more."
@@ -120075,6 +121320,11 @@ msgstr "マネキンのものではないのですね。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "How disappointing, the corvids seem to have migrated elsewhere."
 msgstr "これは残念。カラス科の鳥たちはどこかに渡っていってしまわれたのですね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I will require a pillow to participate."
+msgstr "参加するにはまくらが必要ですね。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -121070,6 +122320,11 @@ msgstr "周辺の温度が低いですね。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COMPASS_OUT"
 msgid "My compass has become demagnetized."
 msgstr "磁気が弱まってしまったようですね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COZY_SLEEP"
+msgid "I suppose it was worth a try."
+msgstr "試してみる価値がありましたね。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CRAFTING_FAIL"
@@ -123396,6 +124651,26 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It should improve the boat's maneuverability."
 msgstr "これで船の機動性が高まりますね。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "The woolen fibers of a beefalo's coat make for excellent padding."
+msgstr "ビーファロの毛皮の繊維は詰め物に最適なのですね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_KELP"
+msgid "What a fascinating use of kelp."
+msgstr "なんとも興味深い昆布の使い方です。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_PETALS"
+msgid "It gives off a delicate floral aroma."
+msgstr "上品な花の香りがしますね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "This seems ill-suited for a restful night's sleep."
+msgstr "これは夜に快眠するにはふさわしくありませんね。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BONESHARD"
 msgid "Remnants of a life well lived."
@@ -124336,6 +125611,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "I'll have to add an appendix to \"Birds of the World\"."
 msgstr "「世界の鳥」に付録ページを追加する必要があるようですね。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Those lagomorphs are quite the rascals."
+msgstr "あの兎形目たちは実に悪党ですね。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "A rather convincing likeness."
@@ -124705,6 +125985,11 @@ msgstr "どうやら演劇用の衣装のようです。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It appears to be a theatrical costume."
 msgstr "どうやら演劇用の衣装のようです。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COZY_BUNNYMAN"
+msgid "They look quite comfortable."
+msgstr "とても快適そうですね。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CRABKING.GENERIC"
@@ -126315,6 +127600,31 @@ msgstr "働き者のツール。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMMER_MJOLNIR"
 msgid "That looks much too strenuous."
 msgstr "それは非常に困難に見えますね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "The woolen fibers of a beefalo's coat make for excellent padding."
+msgstr "ビーファロの毛皮の繊維は詰め物に最適なのですね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_KELP"
+msgid "What a fascinating use of kelp."
+msgstr "なんとも興味深い昆布の使い方です。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_PETALS"
+msgid "It gives off a delicate floral aroma."
+msgstr "上品な花の香りがしますね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "This seems ill-suited for a restful night's sleep."
+msgstr "これは夜に快眠するにはふさわしくありませんね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAREBALL"
+msgid "A dare? What childish nonsense."
+msgstr "挑発ですか？なんて幼稚な戯言でしょう。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAWAIIANSHIRT"
@@ -128445,6 +129755,11 @@ msgstr "蜘蛛類がこれを食べたとき、姿が作り変わったように
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NATURE_BLUEPRINT"
 msgid "How delightful!"
 msgstr "とても愉快ですわ！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTCAPHAT"
+msgid "I'm afraid I have no use for it."
+msgstr "残念ながら私には必要ありません。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTLIGHT"
@@ -134511,6 +135826,91 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD3"
 msgid "I do enjoy a snack now and then."
 msgstr "たまにはおやつを食べるのもいいですね。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It provides ample reading light."
+msgstr "読書灯には十分な明るさですね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "It appears my reading light has run out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "It would look quite nice right over there."
+msgstr "あちらにあれば非常に見栄えが良いでしょう。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It provides ample reading light."
+msgstr "読書灯には十分な明るさですね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "It appears my reading light has run out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "It would look quite nice right over there."
+msgstr "あちらにあれば非常に見栄えが良いでしょう。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Ah. Silent, for now."
+msgstr "あら。静かですね。今のところは。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Now now, let's not get too rough!"
+msgstr "さあ始めましょう！ただし、あまり暴れすぎないようにするのですよ！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Let's build this far away from my reading area, shall we?"
+msgstr "私の読書スペースから遠いところに建てましょう。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD1"
+msgid "Putting carrots in your dessert does not make it healthy, I'm afraid."
+msgstr "残念ですが、ニンジンをデザートに置いたからといって健康的になるわけではありませんよ。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD2"
+msgid "\"Blue\" is an odd adjective for a flavor, but I can't disagree."
+msgstr "「青」は味を表現するのに滅多に使わない形容詞ですが、この場合あながち間違ってもいません。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD3"
+msgid "What a fascinating confection!"
+msgstr "なんて興味深いお菓子なのでしょう！"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD4"
+msgid "Cakes on a stick, what next?"
+msgstr "驚きました！棒に刺さったケーキですか。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Oh dear."
+msgstr "まったく…"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "The expression on this edifice suggests an offering of food may be appropriate."
+msgstr "食べ物を捧げてくれたら感謝するという意をこの建物は示しています。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "We must show our appreciation to the local lagomorphs."
+msgstr "地元の兎形目たちに感謝の意を示さなくてはなりませんね。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_TOKEN"
+msgid "Traditionally, being struck with a glove implies a challenge to a duel."
+msgstr "伝統的に、手袋で叩くというのは決闘を申し込むことを意味します。"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "The fire was overwhelming."
@@ -134665,6 +136065,11 @@ msgstr "もう、あたしの方が似合いそうじゃん。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, looks like they all left."
 msgstr "なーんだ、もう飛んでっちゃったのか。"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Hey, don't I need a pillow first?"
+msgstr "ねえ、まずはまくらがいるんじゃない？"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -135590,6 +136995,11 @@ msgstr "冷たい！しみる！"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COMPASS_OUT"
 msgid "Arrgh the needle is stuck!"
 msgstr "針が動かないんですけど！"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COZY_SLEEP"
+msgid "Wow, I think I needed that!"
+msgstr "わあ、あたしあれ欲しいかも！"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CRAFTING_FAIL"
@@ -137956,6 +139366,26 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Fiiiine, I'll put the stupid rudder on the stupid boat."
 msgstr "よーーし、このバカみたいな舵はあのバカみたいな船につけよっと。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Bernie's cuddlier than a hairy old pillow."
+msgstr "バーニーのほうが古くて毛むくじゃらのまくらより抱き心地がいいね。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_KELP"
+msgid "Ew, this pillow's full of wet junk!"
+msgstr "うえー...このまくら、どこもビショビショで使い物にならないよ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_PETALS"
+msgid "I guess that's one use for flowers."
+msgstr "これもお花の使い方のひとつなのかもね。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Pretty sure this is the worst pillow ever."
+msgstr "これが最悪なまくらだってのは確かだね。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BONESHARD"
 msgid "I don't think they make good tinder."
@@ -138896,6 +140326,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "She was a pretty tough old bird."
 msgstr "めっちゃタフな年寄り鳥だね。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Good times."
+msgstr "楽しい時間だったね。"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Pfft, I never needed a guardian. And I turned out fine!"
@@ -139265,6 +140700,11 @@ msgstr "出演者のひとりだったら、劇場は立ち入り禁止になら
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COSTUME_TREE_BODY"
 msgid "They can't ban you from the theater if you're part of the cast!"
 msgstr "出演者のひとりだったら、劇場は立ち入り禁止にならないよね！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COZY_BUNNYMAN"
+msgid "Ha, look at their dumb little faces!"
+msgstr "ほら、見てよ！あの小さな間抜け面を！"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CRABKING.GENERIC"
@@ -140875,6 +142315,31 @@ msgstr "鋭い道具のほうがいい。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMMER_MJOLNIR"
 msgid "That weapon looks boring."
 msgstr "つまらなそうな武器。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Bernie's cuddlier than a hairy old pillow."
+msgstr "バーニーのほうが古くて毛むくじゃらのまくらより抱き心地がいいね。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_KELP"
+msgid "Ew, this pillow's full of wet junk!"
+msgstr "うえー...このまくら、どこもビショビショで使い物にならないよ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_PETALS"
+msgid "I guess that's one use for flowers."
+msgstr "これもお花の使い方のひとつなのかもね。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "The worst pillow ever. I can't wait to hit someone with it!"
+msgstr "史上最悪のまくらだね。あ～、早くこれで誰かを叩きたいなあ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAREBALL"
+msgid "Haha, nasty! Wait, I'm not the one who has to eat it, am I?"
+msgstr "あはは、気持わるーい！待って！？あたしが食べないといけないわけじゃないよね？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAWAIIANSHIRT"
@@ -143005,6 +144470,11 @@ msgstr "ひとつウィルソンにあげよっと。ぜっ～～～～ったい
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Once the flowers dry out they'll make nice kindling."
 msgstr "お花っていうのはね、乾燥させるといい焚付になるの。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTCAPHAT"
+msgid "I've got a nightcap, now where's my candlestick?"
+msgstr "ナイトキャップは手に入れたけど、燭台はどこかしら？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTLIGHT"
@@ -149076,6 +150546,91 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD3"
 msgid "A little snack to fill my belly."
 msgstr "軽めのスナックで少しお腹が膨れる。"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Everything looks better in the firelight."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Looks like it needs some more fire!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "The more firelight around here, the better!"
+msgstr "こっちのほうは火の明かりがもっとあれば、断然よくなるわ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Everything looks better in the firelight."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Looks like it needs some more fire!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "The more firelight around here, the better!"
+msgstr "こっちのほうは火の明かりがもっとあれば、断然よくなるわ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Alright, who wants to get the stuffing knocked out of them?"
+msgstr "よし、中身をぶちまけたい人は誰？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Yeah! Get 'em!!"
+msgstr "いいね！やっちゃえ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Oh, this'll be fun..."
+msgstr "わあ、これは楽しくなるね..."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD1"
+msgid "Nice, the rabbits brought cake!"
+msgstr "すごい！ウサギがケーキを運んできたよ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD2"
+msgid "It sure tastes... blue?"
+msgstr "この味は...青？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD3"
+msgid "Eww, it looks like a big jelly eyeball."
+msgstr "うわー、巨大なゼリーの目玉みたい。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD4"
+msgid "I'll just pop those in my mouth, quick as a bunny."
+msgstr "脱兎の如き速さでポンと口に入れちゃうよ！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Now I'm smiling!"
+msgstr "満足！"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "I get the feeling it's hungry for something."
+msgstr "なんとなくなんだけど、何かを食べたそうにしているような気がするな。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What's it so smiley about?"
+msgstr "なんであんなに笑顔なんだろ？"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_TOKEN"
+msgid "I'm gonna go slap the biggest rabbit I can find!"
+msgstr "一番大きいウサギを見つけて叩こうっと！"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Heh."
@@ -149230,6 +150785,11 @@ msgstr "冗談さ！"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like the party's over. Back to work, everyone!"
 msgstr "パーティーはもう終わっちまったのか。ほらみんな、仕事に戻るぞ！"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Err, I think I'm missin' something."
+msgstr "あー、何か足りてないんじゃないか。"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -150165,6 +151725,11 @@ msgstr "ブルルル！ここ、凍った鋼みたいに寒いな！"
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_COMPASS_OUT"
 msgid "Shoddy handmade junk!"
 msgstr "粗末なお手製のゴミクズ！"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_COZY_SLEEP"
+msgid "I feel all bright-eyed and bushy-tailed!"
+msgstr "身体の奥底からやる気がみなぎってくるよ！"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_CRAFTING_FAIL"
@@ -152531,6 +154096,26 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Time to put this doo-hickey to the test."
 msgstr "この道具を試す時がきたよ。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It's cushy enough for me."
+msgstr "あたいからしたら十分柔らかいな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_KELP"
+msgid "It wouldn't be my first choice of pillow stuffing."
+msgstr "まくらの詰め物にするなら他のを優先するかな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Way too flimsy, there's no support at all!"
+msgstr "薄すぎる！まったく支えがないぞ！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Aww, it kinda makes me nostalgic for the old steel mill."
+msgstr "あぁ、昔の製鉄所のことを思い出して懐かしい気持ちになるよ。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BONESHARD"
 msgid "Whew. These got crunched real good."
@@ -153471,6 +155056,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "It tried to mess with the wrong gal."
 msgstr "あいつ、相手を間違えたみたいだ。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "It doesn't look like he has a care in the world."
+msgstr "悩み事があるようには見えないね。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "What a stone-faced brute."
@@ -153840,6 +155430,11 @@ msgstr "女王の衣装みたいだね。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Looks like a tree costume."
 msgstr "木の衣装みたいだね。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COZY_BUNNYMAN"
+msgid "What a bunch of slackers!"
+msgstr "怠け者だらけじゃないか！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CRABKING.GENERIC"
@@ -155460,6 +157055,31 @@ msgstr "あたい、これの使い方知ってる！"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I'm most effective with a tool in hand."
 msgstr "あたい、手に持ってる道具ではあんまり成果を出せないんだ。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It's cushy enough for me."
+msgstr "あたいからしたら十分柔らかいな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_KELP"
+msgid "It wouldn't be my first choice of pillow stuffing."
+msgstr "まくらの詰め物にするなら他のを優先するかな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Way too flimsy, there's no support at all!"
+msgstr "薄すぎる！まったく支えがないぞ！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Aww, it kinda makes me nostalgic for the old steel mill."
+msgstr "あぁ、昔の製鉄所のことを思い出して懐かしい気持ちになるよ。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAREBALL"
+msgid "Yuck!"
+msgstr "ゲーッ！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAWAIIANSHIRT"
@@ -157605,6 +159225,11 @@ msgstr "あたいは遠慮しておくよ。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Good thing I'm not allergic to pollen."
 msgstr "花粉症じゃなくて良かったよ。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTCAPHAT"
+msgid "A solid night's sleep'll help ya do a solid day's work."
+msgstr "夜にしっかり寝れば、昼にしっかりと働けるんだ。"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTLIGHT"
@@ -163671,6 +165296,91 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD3"
 msgid "Somethin' to chew on."
 msgstr "何か噛むもの。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "A little rustic for my tastes, but functional enough."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "It ain't much to look at without its light."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Gotta find a good place for it."
+msgstr "これにピッタリの場所をみつけてやろう。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "A little rustic for my tastes, but functional enough."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "It ain't much to look at without its light."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Gotta find a good place for it."
+msgstr "これにピッタリの場所をみつけてやろう。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Heh. Being an older sister trained me well for this."
+msgstr "あぁ。長女に生まれたから、こういうのは得意になったんだ。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Looks like a good way to let off some steam."
+msgstr "憂さ晴らしにちょうどよさげだな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Better get buildin'!"
+msgstr "建てちまった方がいいね！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD1"
+msgid "I guess a little cake break won't hurt anything."
+msgstr "ちょっとケーキ休憩をはさんでも、何も傷つかないと思うんだ。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD2"
+msgid "Can't quite pin down the flavor, but I like it!"
+msgstr "味を上手く言葉に表せないが、好きだな！"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD3"
+msgid "It looks like one of Warly's more fancy-pants desserts."
+msgstr "ワーリーの外見にこだわったデザートのひとつみたいだな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD4"
+msgid "Sweetness on a stick."
+msgstr "串に刺さった甘味だな。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Guess that's enough of that."
+msgstr "もう十分だろう。"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "I'm guessing it's hungry for somethin'."
+msgstr "何か食べたいんじゃないか？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "All this for a bunch of rabbits?"
+msgstr "これ全部ウサギたちのものなのか？"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_TOKEN"
+msgid "This'll get those layabouts off their fuzzy tushes!"
+msgstr "これであの怠け者どもも、もこもこの腰を上げて働くだろう！"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Aww. I was using that."
@@ -163825,6 +165535,11 @@ msgstr "布男のものじゃない。オレ様、持っておく。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like birds move carnival somewhere else."
 msgstr "鳥、カーニバルどこか移したようだ。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Wolfgang needs pillow for fighting!"
+msgstr "オレ様、戦うのにまくら必要！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -164780,6 +166495,11 @@ msgstr "ブルブルブル！凍りそう！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COMPASS_OUT"
 msgid "Little needle broke off!"
 msgstr "ちっこい針、取れた！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COZY_SLEEP"
+msgid "Wolfgang had nice dreams of fluffy bunnies."
+msgstr "オレ様、ふわふわウサギのいい夢見た。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAFTING_FAIL"
@@ -167146,6 +168866,26 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Will make boat extra turny, yes?"
 msgstr "船、もっとクルクルする？"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Is fluffy like hair-cow."
+msgstr "毛長牛みたいにふわふわ。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_KELP"
+msgid "Wolfgang does not know why anyone would do this."
+msgstr "オレ様、なんでこれするのか分からない。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Is very pretty pillow."
+msgstr "とってもかわいいまくら。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Is good thing Wolfgang has tough skin."
+msgstr "オレ様、硬い皮膚でよかった。"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BONESHARD"
 msgid "Wolfgang crush into even smaller bones!"
@@ -168086,6 +169826,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "How will bird fly if it is stone?"
 msgstr "石なのに、どうやって飛ぶ？"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Haha! Funny rabbit thought it could beat Wolfgang!"
+msgstr "ははは！おかしなウサギ、オレ様倒せると思ってる！"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Strong beast made from strong stone!"
@@ -168455,6 +170200,11 @@ msgstr "ちっこい衣装、オレ様の筋肉でも着られる？"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Can tiny costume fit over Wolfgang's muscles?"
 msgstr "ちっこい衣装、オレ様の筋肉でも着られる？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COZY_BUNNYMAN"
+msgid "Rabbits look ready for bedtime."
+msgstr "ウサギ、眠る準備できたみたい。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRABKING.GENERIC"
@@ -170065,6 +171815,31 @@ msgstr "鎌が必要！"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Wolfgang is ready for high striker!"
 msgstr "オレ様、強くて叩けるヤツ、使う！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Is fluffy like hair-cow."
+msgstr "毛長牛みたいにふわふわ。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_KELP"
+msgid "Wolfgang does not know why anyone would do this."
+msgstr "オレ様、なんでこれするのか分からない。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Is very pretty pillow."
+msgstr "とってもかわいいまくら。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Is good for smacking, but not sleeping."
+msgstr "叩くのに良い。けど、寝るのにダメ。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAREBALL"
+msgid "Wolfgang is not afraid to eat! Gulp..."
+msgstr "オレ様、食べるの怖くない！ゴクリ..."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAWAIIANSHIRT"
@@ -172195,6 +173970,11 @@ msgstr "オレ様のつおいアゴ、ちっこいクモ噛み砕く！かもし
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers would be good against cow smell."
 msgstr "お花、牛の臭い抑えるかも。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTCAPHAT"
+msgid "Is cozy sleeping hat."
+msgstr "ホッとする寝るときの帽子。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTLIGHT"
@@ -177388,8 +179168,8 @@ msgstr "オレ様、ちっこい果物のパン、信用しない。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD5
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD5"
-msgid "Ha! Wolfgang will eat log, just like beardman!"
-msgstr "ハッ！オレ様、丸太食べる、ヒゲのヤツみたい。"
+msgid "Ha! Is not real log, Wolfgang was not fooled!"
+msgstr "はっ！本物の木じゃない。オレ様、ダマされない！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD6
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD6"
@@ -178261,6 +180041,91 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTP_FOOD3"
 msgid "Is for making Wolfgang little bit mighty."
 msgstr "オレ様、少し強くなる。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Wolfgang likes rabbit night light."
+msgstr "オレ様、ウサギの夜の明かり好き。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Rabbit light ran out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Wolfgang will find good place for rabbit light."
+msgstr "オレ様、ウサギの明かりにピッタリの場所みつける。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Wolfgang likes rabbit night light."
+msgstr "オレ様、ウサギの夜の明かり好き。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Rabbit light ran out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Wolfgang will find good place for rabbit light."
+msgstr "オレ様、ウサギの明かりにピッタリの場所みつける。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Is time for pillow battle, yes?"
+msgstr "まくら合戦の時間？"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Haha! Is good fun!"
+msgstr "ははは！楽しい！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Do not worry, Wolfgang will put it in good spot."
+msgstr "大丈夫。オレ様、ちょうどいい場所に建てる。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD1"
+msgid "Wolfgang likes the funny rabbit cake."
+msgstr "オレ様、おかしなウサギケーキ好き。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD2"
+msgid "Ah. Wolfgang expected cheese."
+msgstr "あぁ。オレ様、チーズがよかった。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD3"
+msgid "Is funny wobble dessert."
+msgstr "おかしなぐらぐらデザート。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD4"
+msgid "Sticky chew puffs."
+msgstr "噛むとべとべとお菓子。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Goodbye rabbit."
+msgstr "バイバイ、ウサギ。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Rabbit is hungry! Wolfgang understands this."
+msgstr "ウサギ、お腹空いてる！オレ様、分かる。"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Is well-fed rabbit!"
+msgstr "丸々したウサギ！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_TOKEN"
+msgid "Who will face mighty Wolfgang in pillow fight?"
+msgstr "つおいオレ様、誰がまくら合戦挑んでくる？"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Poor tiny kitty."
@@ -178415,6 +180280,11 @@ msgstr "ああ？上手くいかねえみてえだな？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Whew, those birds finally skedaddled."
 msgstr "あん鳥ども、ようやく尻尾巻いて飛んでったんだな。一息つけるぜ。"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I should grab a pillow first, eh?"
+msgstr "まずはまくらを手に入れなきゃいけねえんじゃねえか？"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -179345,6 +181215,11 @@ msgstr "ちと寒みぃな！"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COMPASS_OUT"
 msgid "I'll always have the North in my heart."
 msgstr "針は動かねぇが、心はいつも北向いてるぜ"
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COZY_SLEEP"
+msgid "Sorry Luce, was I snorin'?"
+msgstr "すまねぇ、ルーシー。オレ、いびきかいてたか？"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CRAFTING_FAIL"
@@ -181676,6 +183551,26 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Better get it set up on the boat, eh?"
 msgstr "船に置いたほうがいいんじゃねえか？"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It's not filled with goose down, is it?"
+msgstr "ガチョウの綿毛が詰まってるわけじゃなさそうだな？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_KELP"
+msgid "At least it's not filled with feathers."
+msgstr "少なくとも羽根は詰まってねぇな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Smells like sleeping outside."
+msgstr "外で寝てるみたいな匂いがするぜ。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Still better than one that's stuffed with nasty feathers."
+msgstr "汚ねえ羽毛が詰まってるのよるはマシだな。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BONESHARD"
 msgid "I wish I knew how to make bread."
@@ -182616,6 +184511,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "I'm not puttin' that anywhere near my base."
 msgstr "自宅の近くには絶対置かねえぞ。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Someone worked hard on that."
+msgstr "誰かが頑張ったみてえだな。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Gotta say I prefer it to the original."
@@ -182985,6 +184885,11 @@ msgstr "オシャレな舞台用衣装ってとこか。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It's not as scratchy as it looks."
 msgstr "見た目ほどこそばゆくねぇな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COZY_BUNNYMAN"
+msgid "Looks like they're enjoyin' themselves."
+msgstr "楽しそうだな。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CRABKING.GENERIC"
@@ -184600,6 +186505,31 @@ msgstr "誰でも過ちは犯すものだろう？"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Packs a wallop."
 msgstr "こいつの一撃は強烈だ。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It's not filled with goose down, is it?"
+msgstr "ガチョウの綿毛が詰まってるわけじゃなさそうだな？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_KELP"
+msgid "At least it's not filled with feathers."
+msgstr "少なくとも羽根は詰まってねぇな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Smells like sleeping outside."
+msgstr "外で寝てるみたいな匂いがするぜ。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Still better than one that's stuffed with nasty feathers."
+msgstr "汚ねえ羽毛が詰まってるのよるはマシだな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAREBALL"
+msgid "It's for a dare, eh? Alright, I'll bite."
+msgstr "挑発か？いいぜ、のってやるよ。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAWAIIANSHIRT"
@@ -186735,6 +188665,11 @@ msgstr "悪ぃけど、オレは遠慮しとくぜ。"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NATURE_BLUEPRINT"
 msgid "All-natural and organic."
 msgstr "オールナチュラルかつオーガニックだぜ。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTCAPHAT"
+msgid "A good cap to wear when you're sawing logs."
+msgstr "丸太を着るときにピッタリの帽子だな。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTLIGHT"
@@ -192801,6 +194736,91 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD3"
 msgid "I don't need nothin' fancy."
 msgstr "手が込んだ食べ物なんてオレは興味ないんだ。"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Adds a nice rustic touch, eh?"
+msgstr "素朴な雰囲気が出るな？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Out like a light."
+msgstr "消えてしまっているようだ"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Alright Luce, where should we put it?"
+msgstr "あぁ、ルーシー。どこに置こうか？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Adds a nice rustic touch, eh?"
+msgstr "素朴な雰囲気が出るな？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Out like a light."
+msgstr "消えてしまっているようだ"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Alright Luce, where should we put it?"
+msgstr "あぁ、ルーシー。どこに置こうか？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Looks peaceful for now."
+msgstr "今のところ平和だな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Those pillows pack a wallop, eh?"
+msgstr "このまくらの一撃は強烈だろうな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Alright Luce, where should we put it?"
+msgstr "あぁ、ルーシー。どこに置こうか？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD1"
+msgid "Rabbits love carrots so much, they'll even put 'em in cakes."
+msgstr "ウサギってのはニンジンが大好物なんだ。ケーキに入れるくらいにな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD2"
+msgid "Whew. It's not givin' me the transformation tingles."
+msgstr "ふぅ。今回は変身する時特有の身体のうずきがなかったぜ。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD3"
+msgid "Looks like it's got a little snowcap on top."
+msgstr "てっぺんにちょっと雪をかぶってるみてえだな。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD4"
+msgid "I'll save the stick for a little midnight snack."
+msgstr "串は夜食にとっておくとしよう。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Can't win 'em all, eh?"
+msgstr "何事も上手くいかねえ時があるもんだ、なぁ？"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "This guy looks hungry."
+msgstr "こいつ、腹をすかしてるみてえだ。"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Let's see what we've got to work with!"
+msgstr "オレたち協力できることは何かあるか！"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_TOKEN"
+msgid "It doesn't feel polite to smack someone with a glove..."
+msgstr "手袋で誰かを叩くのは申し訳ねえ気がするな..."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "All burnt up."
@@ -192955,6 +194975,11 @@ msgstr "ダメそうだね、やめとこう"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Tweeters? Aww..."
 msgstr "ピヨピヨどこ？うう…"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Oh. Need head planter"
+msgstr "あっ、頭用プランターが必要だよ"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -193890,6 +195915,11 @@ msgstr "ブルルル...寒っ！"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COMPASS_OUT"
 msgid "Direction Thing broke"
 msgstr "方向のやつが壊れたよ"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COZY_SLEEP"
+msgid "Ahhh. Good morning!"
+msgstr "ふああ！おはよう！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CRAFTING_FAIL"
@@ -196246,6 +198276,26 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Can make the Floaty spin with this"
 msgstr "これでプカプカ、ぐるぐるできる"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Fluffy head planter... for trunk?"
+msgstr "ふかふか頭用プランターだ...体用かな？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_KELP"
+msgid "Wet head planter... for trunk?"
+msgstr "べちょべちょ頭用プランターだ...体用かな？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Aww, friends helped!"
+msgstr "わあ、お友だちが手伝ってくれたよ！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Scratchy head planter... for trunk?"
+msgstr "ちくちく頭用プランターだ...体用かな？"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BONESHARD"
 msgid "Sharp. Ouch!"
@@ -197186,6 +199236,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Bad Tweeter"
 msgstr "悪いピヨピヨだ"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Big Hopper"
+msgstr "大きなぴょんぴょん"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Scary"
@@ -197555,6 +199610,11 @@ msgstr "かわいい服"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Pretty clothes"
 msgstr "かわいい服"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COZY_BUNNYMAN"
+msgid "Hopper want to be friends?"
+msgstr "ぴょんぴょん、お友だちになりたい？"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CRABKING.GENERIC"
@@ -199175,6 +201235,31 @@ msgstr "ぶっこわすやつ"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Ugh! Can't lift it"
 msgstr "げえっ！持ち上げられないよ"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Fluffy head planter"
+msgstr "ふわふわ頭用プランター"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_KELP"
+msgid "Wet head planter"
+msgstr "べちょべちょ頭用プランター"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Aww, friends help make head planter"
+msgstr "わあ、お友だちが頭用プランター作るの手伝ってくれる"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Scratchy head planter"
+msgstr "ちくちく頭用プランター"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAREBALL"
+msgid "From Hoppers. Thanks!"
+msgstr "ぴょんぴょんがくれた。ありがとう！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAWAIIANSHIRT"
@@ -201320,6 +203405,11 @@ msgstr "脚の多い虫のおなかに入るもの？"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Covered in friends"
 msgstr "お友だちでいっぱいだね"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTCAPHAT"
+msgid "Sleepy hat"
+msgstr "ねむねむ帽子"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTLIGHT"
@@ -207386,6 +209476,91 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTP_FOOD3"
 msgid "Glub Glub on friends"
 msgstr "お友だちがブクブク"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Hopper holding light"
+msgstr "明かりを持ってるぴょんぴょん"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Night night, Hopper"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Hmmm, where put Hopper?"
+msgstr "うーん、ぴょんぴょんどこに置こう？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Hopper holding light"
+msgstr "明かりを持ってるぴょんぴょん"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Night night, Hopper"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Hmmm, where put Hopper?"
+msgstr "うーん、ぴょんぴょんどこに置こう？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Want to play?"
+msgstr "遊びたい？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Haha! Fun!"
+msgstr "あはは！楽しい！"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Where put Hopper ring?"
+msgstr "ぴょんぴょんリングどこに置こう？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD1"
+msgid "Hopper?"
+msgstr "ぴょんぴょん？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD2"
+msgid "Mmmmm..."
+msgstr "うーーーーん…"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD3"
+msgid "Looking?"
+msgstr "見てる？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD4"
+msgid "Squishy"
+msgstr "ぐにゃぐにゃ"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Oh"
+msgstr "おお"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Hopper hungry?"
+msgstr "ぴょんぴょんお腹空いた？"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Happy Hopper"
+msgstr "幸せぴょんぴょん"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_TOKEN"
+msgid "For hitting? Oh no..."
+msgstr "叩くのに使うの？うわぁ..."
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Fire so evil"
@@ -207540,6 +209715,11 @@ msgstr "残念だなあ、似合うと思ったのに。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "They've come and gone, were they but a dream all along?"
 msgstr "鳥たちはやってきて、そしていなくなった。もしかして、全部夢だったのかも？"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "A pillow must be promptly procured."
+msgstr "大至急まくらを調達せよ！"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -208470,6 +210650,11 @@ msgstr "やっと凍った！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_COMPASS_OUT"
 msgid "My compass has pass-ed out!"
 msgstr "ボクの方位磁針壊れちゃった！"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_COZY_SLEEP"
+msgid "This imp feels best after a cozy rest."
+msgstr "この小悪魔は気持ちよく休んだ後が一番最高の気分なんだ。"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CRAFTING_FAIL"
@@ -210841,6 +213026,26 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It's something or rudder!"
 msgstr "あれって、舵とかなんとかってやつだよね！"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "The beefiest pillow I ever did see."
+msgstr "今まで見た何よりも牛肉っぽいまくらだね。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_KELP"
+msgid "I'd never wish to sleep like a fish."
+msgstr "魚みたいに動いたまま寝ることになるのはごめんだね。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Armor doesn't often smell so nice!"
+msgstr "こんなに良い匂いのよろいは滅多にないよ！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "A nasty thing, it'll do well in the ring!"
+msgstr "卑劣な技...リングの中でこそ輝くね！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESHARD"
 msgid "Fragmented, like my thoughts!"
@@ -211781,6 +213986,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Oh my word, that was a feisty bird!"
 msgstr "うわー...うーんと怒りんぼの鳥だった。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Looking at it fills me with hoppiness, hyuyu!"
+msgstr "これ見てると心がぴょんぴょんと弾むようだよ！ヒューユー！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "It's as though the Minotaur met Medusa."
@@ -212155,6 +214365,11 @@ msgstr "ヒューユー！面白いゲームだね！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
 msgstr "ヒューユー！面白いゲームだね！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COZY_BUNNYMAN"
+msgid "How have you found your time above-ground?"
+msgstr "どうやって地表に出てきたの？"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING.GENERIC"
@@ -212643,7 +214858,7 @@ msgstr "ボクこんなの今まで見たことないよ！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_COOKED"
-msgid "My favourite treat... it can't be beat!"
+msgid "My favorite treat... it can't be beat!"
 msgstr "ボクのお気に入りのおやつ...サイッコウなんだ！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_OVERSIZED
@@ -213775,6 +215990,31 @@ msgstr "ボクのツノをおうちに連れて帰るため。"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Clamor for the hammer!"
 msgstr "ハンマーの叫び！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "The beefiest pillow I ever did see."
+msgstr "今まで見た何よりも牛肉っぽいまくらだね。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_KELP"
+msgid "I'd never wish to sleep like a fish."
+msgstr "魚みたいに動いたまま寝ることになるのはごめんだね。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_PETALS"
+msgid "For a sweet-smelling smack!"
+msgstr "これで叩いたら甘い匂いがするだろうね！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "A nasty thing, it'll do well in the ring!"
+msgstr "卑劣な技...リングの中でこそ輝くね！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAREBALL"
+msgid "Hyuyu! I see they're seasoned pranksters."
+msgstr "ヒューユー！彼らはベテランのいたずら者だね。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAWAIIANSHIRT"
@@ -215905,6 +218145,11 @@ msgstr "クモの悪ガキたちにとっては、これはごちそうなんだ
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I suppose I'll reap what I sew, hyuyu!"
 msgstr "目に入ったものを片っ端から刈ることにするよ。ヒューユー！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTCAPHAT"
+msgid "Keep your dreams warm and snug inside your sleepy head."
+msgstr "寝ている頭の中で夢を温かく心安らぐものに保てるんだ。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTLIGHT"
@@ -221976,6 +224221,91 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTP_FOOD3"
 msgid "Maybe just a little bite."
 msgstr "んー、ほんの一口だけ。"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It's my favorite light, but only by a hare."
+msgstr "兎にも角にも、この光は好きだなあ。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "The bunny burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I should place this rabbit now that I've nabbed it."
+msgstr "脱兎の勢いでウサギを設置しちゃおう。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It's my favorite light, but only by a hare."
+msgstr "兎にも角にも、この光は好きだなあ。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "The bunny burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I should place this rabbit now that I've nabbed it."
+msgstr "脱兎の勢いでウサギを設置しちゃおう。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Not a fight in sight."
+msgstr "まだ試合をしあってないみたい。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Pummeling pillows on parade, hyuyu!"
+msgstr "まくらが並んでるけど、まくらを並べないようにね。ヒューユー！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I'm pondering a place to put the pit."
+msgstr "落とし穴をどこに置こうか考えてるんだ。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD1"
+msgid "A funny shape for carrot cake."
+msgstr "変な形のニンジンケーキだね。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD2"
+msgid "Once in a blue moon I'll sample mortal food... but not today, hyuyu."
+msgstr "生き物の食べ物を食べると、ツキが落ちた気がしてブルーな気分になるんだ...今日はやめとくよ。ヒューユー。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD3"
+msgid "A jelly ball. That is all."
+msgstr "ゼリーは球状。感想は以上。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD4"
+msgid "This doughy treat, I will not eat."
+msgstr "生焼けの食べ物。食べないと言えるボクは生半可じゃない正直者。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "That's that."
+msgstr "しょうがないね。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Rumble and grumble, it wants a carrot!"
+msgstr "ゴロゴロ、グルグル...ニンジンが欲しいんだ！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Let us celebrate!"
+msgstr "お祝いしようよ！"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_TOKEN"
+msgid "A duel, a duel! To arms!"
+msgstr "決闘！決闘！戦闘準備！"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Well, that's that."
@@ -222130,6 +224460,11 @@ msgstr "ここには置かないほうがいいね。"
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Huh? Where the Birdfolk go?"
 msgstr "あれれ？バードフォークはどこ行っちゃったの？"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "WAIT!! Forgot pillow!"
+msgstr "待って！まくらを忘れてるよ！"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -223076,6 +225411,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_COMPASS_OUT"
 msgid "Spinny pointer broken. Didn't do it, florp!!"
 msgstr "スピニーポインターが壊れちゃった！何もやってないよ、フロープ！"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_COZY_SLEEP"
+msgid "Aww, was having such good dream..."
+msgstr "わぁ、とってもいい夢だったなあ..."
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_CRAFTING_FAIL"
 msgid "Nuh-uh, need more things."
@@ -223691,11 +226031,6 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_QUAKE"
 msgid "Ground shaking!"
 msgstr "地面が揺れるよ！"
 
-#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES
-msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES"
-msgid "Aww... no honey inside..."
-msgstr "うー...中にハチミツ入ってないね..."
-
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "This one have pictures of birdies!"
@@ -223740,11 +226075,6 @@ msgstr "ねえええ、言葉が違うんだよ！"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
 msgid "There more than one kind of words to learn?! Glurgh..."
 msgstr "言葉って何種類も覚えないといけないの！？グルーフ..."
-
-#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON
-msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON"
-msgid "Huh. Moon actually kinda boring."
-msgstr "へー。月って実は結構退屈なんだね。"
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN"
@@ -225516,6 +227846,26 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It boat stuff."
 msgstr "これ、船のやつ。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Blegh, it full of hair!"
+msgstr "ブレグ、毛がいっぱい！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_KELP"
+msgid "Ahh, slimy and nice!"
+msgstr "わー！ねばねばで最高！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Stinky ugly pillow!"
+msgstr "臭くて嫌なまくら！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Glurgh! Itchy!!"
+msgstr "グルーフ！かゆーい！"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BONESHARD"
 msgid "Piece of something dead."
@@ -226456,6 +228806,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "It very fancy looking statue."
 msgstr "それはとても豪華そうな像だよ。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Glurgh. Bunnyman get statue before Mermfolk?!"
+msgstr "グルーフ。バニーマン、マームフォークより先に像をゲットしたの！？"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "It good for scratching scales against."
@@ -226825,6 +229180,11 @@ msgstr "ブレグ、くさーい！お花みたい、フロープ！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Blegh, it stink like flowers, florp!"
 msgstr "ブレグ、くさーい！お花みたい、フロープ！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.COZY_BUNNYMAN"
+msgid "Hey! What they doing up here?"
+msgstr "ねえ！みんなここで何してるの？"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CRABKING.GENERIC"
@@ -228445,6 +230805,31 @@ msgstr "全部壊してしまえ！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Extra hitty hammer!"
 msgstr "エクストラヒットハンマー！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Blegh, it full of hair!"
+msgstr "ブレグ、毛がいっぱい！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_KELP"
+msgid "Ahh, slimy and nice!"
+msgstr "わー！ねばねばで最高！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Stinky ugly pillow!"
+msgstr "臭くて嫌なまくら！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "It good fighting pillow, nice and scratchy!"
+msgstr "戦うのにピッタリのまくら！素敵だけどチクチクする！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAREBALL"
+msgid "Glurgh, Bunnyman spit-up!"
+msgstr "グルーフ、バニーマン吐いた！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAWAIIANSHIRT"
@@ -230590,6 +232975,11 @@ msgstr "ウェビーボーイ！次はマームのクッキーを作ってよ！
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Glurgh... this one ugly..."
 msgstr "グルーフ…これはカッコワルいよ…"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTCAPHAT"
+msgid "Sleepy-time hat."
+msgstr "ねむねむ時間の帽子。"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTLIGHT"
@@ -236661,6 +239051,91 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTP_FOOD3"
 msgid "This insulting to fish."
 msgstr "これは魚を侮辱しているよ。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Ugly light statue."
+msgstr "醜い明かりの像ね。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Where light? Bunnyman not doing job!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Mermfolk light would be better."
+msgstr "マームフォークの明かりのほうがいいね。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Ugly light statue."
+msgstr "醜い明かりの像ね。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Where light? Bunnyman not doing job!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Mermfolk light would be better."
+msgstr "マームフォークの明かりのほうがいいね。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Hee-hee! Who wanna fight!?"
+msgstr "へっへー！誰が戦う？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Me next, me next!!"
+msgstr "次アタシね！次アタシね！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "We allowed to hit things? Yay!!"
+msgstr "叩いてもいいんだよね？やったー！！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD1"
+msgid "Grrr, will gobble you up, rabbit! Hee-hee."
+msgstr "グルル、食べちゃうぞ！ウサギ！へへ。"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD2"
+msgid "Yummy!"
+msgstr "美味しい！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD3"
+msgid "That really okay for eating?"
+msgstr "本当に食べても大丈夫なの？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD4"
+msgid "Not sharing!"
+msgstr "あげないよ！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Uh oh..."
+msgstr "あ～あ..."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Rabbit want carrot?"
+msgstr "ウサギ、ニンジンが欲しいのかな？"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Gimme stuff, big rabbit head!"
+msgstr "でっかいウサギの頭、何かちょうだい！"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_TOKEN"
+msgid "Hee-hee-hee... SMACK!"
+msgstr "へへへ...叩けー！"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Uh oh..."
@@ -236815,6 +239290,11 @@ msgstr "＊衣服袋は信用できません。このようなものを渡して
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "THEY WILL NOT BE MISSED"
 msgstr "＊彼らを恋しく思ったりはいたしません＊"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "ERROR: PILLOW REQUIRED FOR COMBAT"
+msgstr "＊エラー：戦闘にはまくらが必要です＊"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -237745,6 +240225,11 @@ msgstr "＊メカニズムが凍結しています＊"
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_COMPASS_OUT"
 msgid "MAGNETIC FIELD FAILURE"
 msgstr "＊磁気フィールドに異常発生＊"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_COZY_SLEEP"
+msgid "ENERGY RESTORED, PROCESSOR SPEED: OPTIMAL"
+msgstr "＊エネルギー回復。プロセッサー速度：理想的＊"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CRAFTING_FAIL"
@@ -240081,6 +242566,26 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "FOR BUILDING A STUPID RUDDER"
 msgstr "＊バカげた舵を作るのに使います＊"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "EXTRUDED BEEFALO DISGUSTINGNESS... IN A BAG"
+msgstr "＊突出したビーファロの気持ち悪さ...袋内で検知＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_KELP"
+msgid "WHO IS RESPONSIBLE FOR THIS. IT WAS THE GREEN ONE, WASN'T IT"
+msgstr "＊誰がこの責任者ですか。緑のやつではありませんでしたか＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_PETALS"
+msgid "FLOWERS ARE AN INEFFECTIVE CHOICE FOR ARMOR"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "THE ADDITION OF METAL HAS IMPROVED IT SUBSTANTIALLY"
+msgstr "＊金属を追加することで飛躍的に向上しました＊"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BONESHARD"
 msgid "PIECES OF STRUCTURAL SUPPORT SYSTEM"
@@ -240978,7 +243483,7 @@ msgstr "＊私の勝利の記録＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_EYEOFTERROR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_EYEOFTERROR"
-msgid "ORGANIC REDUCED TO MINERAL - TYPICAL."
+msgid "ORGANIC REDUCED TO MINERAL - TYPICAL"
 msgstr "＊無機物になった有機物—典型的です＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_FORMAL
@@ -241020,6 +243525,11 @@ msgstr "＊図の起動＊"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "HA! IT'S FUNNY BECAUSE IT IS DEAD NOW"
 msgstr "＊ハッ！死んでいるのですから面白いですね＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "THEY'RE SO MUCH BETTER WHEN THEY'RE NOT MOVING"
+msgstr "＊移動していないときのほうが遥かにいいですね＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MINOTAUR"
@@ -241390,6 +243900,11 @@ msgstr "＊舞台公演のためにインストールが必要です＊"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COSTUME_TREE_BODY"
 msgid "INSTALLATION REQUIRED FOR STAGE PERFORMANCE"
 msgstr "＊舞台公演のためにインストールが必要です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COZY_BUNNYMAN"
+msgid "WHO LET YOU OUT"
+msgstr "＊誰が出したのですか＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CRABKING.GENERIC"
@@ -243000,6 +245515,31 @@ msgstr "＊脱構築＊"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I WILL SMASH ALL WHO OPPOSE ME"
 msgstr "＊わたしに盾突くものはすべて潰します＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "EXTRUDED BEEFALO DISGUSTINGNESS... IN A BAG"
+msgstr "＊突出したビーファロの気持ち悪さ...袋内で検知＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_KELP"
+msgid "WHO IS RESPONSIBLE FOR THIS. IT WAS THE GREEN ONE, WASN'T IT"
+msgstr "＊誰がこの責任者ですか。緑のやつではありませんでしたか＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_PETALS"
+msgid "FLOWERS ARE AN INEFFECTIVE CHOICE FOR A WEAPON"
+msgstr "＊花は武器としてはふさわしくありません＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "THE ADDITION OF METAL HAS IMPROVED IT SUBSTANTIALLY"
+msgstr "＊金属を追加することで飛躍的に向上しました＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAREBALL"
+msgid "IT IS TECHNICALLY EDIBLE"
+msgstr "＊理論的には食べられます＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAWAIIANSHIRT"
@@ -245130,6 +247670,11 @@ msgstr "＊粗雑かつ汚らわしい。これは正確な描写です＊"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NATURE_BLUEPRINT"
 msgid "DISGUSTING"
 msgstr "＊気持ちが悪いです＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTCAPHAT"
+msgid "IT KEEPS THE PROCESSOR WARM"
+msgstr "＊プロセッサーを温め続けてくれます＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTLIGHT"
@@ -251196,6 +253741,91 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTP_FOOD3"
 msgid "BASIC FOODFUEL"
 msgstr "＊基礎的食物燃料＊"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "RABBIT-SHAPED LIGHT SOURCE"
+msgstr "＊ウサギの形をした光源です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "LIGHT DEACTIVATED"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I WILL FIND A SUITABLE LOCATION FOR IT"
+msgstr "＊これにピッタリの場所をみつけましょう＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "RABBIT-SHAPED LIGHT SOURCE"
+msgstr "＊ウサギの形をした光源です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "LIGHT DEACTIVATED"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I WILL FIND A SUITABLE LOCATION FOR IT"
+msgstr "＊これにピッタリの場所をみつけましょう＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "FIGHT FOR MY ENTERTAINMENT"
+msgstr "＊私の娯楽のために戦ってください＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "LET THEM FIGHT"
+msgstr "＊彼らを戦わせましょう＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "ASSEMBLY REQUIRED"
+msgstr "＊組み立てが必要です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD1"
+msgid "NO TRACE OF RABBIT DETECTED. DISAPPOINTING"
+msgstr "＊ウサギの痕跡は見つかりませんでした。残念です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD2"
+msgid "THE MOON IS DELICIOUS"
+msgstr "＊月は美味しいですね＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD3"
+msgid "THE MOON JELLY IS MINE"
+msgstr "＊月ゼリーは私のものです＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD4"
+msgid "SWEET EMPTY CALORIES"
+msgstr "＊甘くてカロリーは高いですが、栄養はほとんど含まれていません＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "DELETED"
+msgstr "＊削除されました＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "REQUIRES VEGETABLE OFFERING"
+msgstr "＊野菜の捧げものが必要です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "IT IS OPERATIONAL"
+msgstr "＊準備完了です＊"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_TOKEN"
+msgid "VIOLENCE INITIATOR"
+msgstr "＊暴力開始プログラム＊"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "TURNED OFF"
@@ -252525,6 +255155,226 @@ msgstr "{num}×{ing}"
 msgctxt "STRINGS.COOKINGRECIPECARD_DESC.INGREDIENTS_MORE"
 msgid ", {num}x {ing}"
 msgstr "、{num}×{ing}"
+
+#. STRINGS.COZY_RABBIT_ARENANOTEMPTY.1
+msgctxt "STRINGS.COZY_RABBIT_ARENANOTEMPTY.1"
+msgid "CRAMPED!"
+msgstr "きゅうくつ！"
+
+#. STRINGS.COZY_RABBIT_ARENANOTEMPTY.2
+msgctxt "STRINGS.COZY_RABBIT_ARENANOTEMPTY.2"
+msgid "PACKED!"
+msgstr "ぎゅうぎゅう！"
+
+#. STRINGS.COZY_RABBIT_CHEER.1
+msgctxt "STRINGS.COZY_RABBIT_CHEER.1"
+msgid "MOON!"
+msgstr "つき！"
+
+#. STRINGS.COZY_RABBIT_CHEER.2
+msgctxt "STRINGS.COZY_RABBIT_CHEER.2"
+msgid "SKY!"
+msgstr "そら！"
+
+#. STRINGS.COZY_RABBIT_CHEER.3
+msgctxt "STRINGS.COZY_RABBIT_CHEER.3"
+msgid "LIGHT!"
+msgstr "あかり！"
+
+#. STRINGS.COZY_RABBIT_CHEER.4
+msgctxt "STRINGS.COZY_RABBIT_CHEER.4"
+msgid "CELEBRATE!"
+msgstr "おまつり！"
+
+#. STRINGS.COZY_RABBIT_CHEER.5
+msgctxt "STRINGS.COZY_RABBIT_CHEER.5"
+msgid "PARTY!"
+msgstr "ぱーてぃー！"
+
+#. STRINGS.COZY_RABBIT_CHEER.6
+msgctxt "STRINGS.COZY_RABBIT_CHEER.6"
+msgid "SLEEPOVER!"
+msgstr "おとまり！"
+
+#. STRINGS.COZY_RABBIT_GETTOKEN.1
+msgctxt "STRINGS.COZY_RABBIT_GETTOKEN.1"
+msgid "GAME!"
+msgstr "げーむ！"
+
+#. STRINGS.COZY_RABBIT_GETTOKEN.2
+msgctxt "STRINGS.COZY_RABBIT_GETTOKEN.2"
+msgid "SERVED!"
+msgstr "めしあがれ！"
+
+#. STRINGS.COZY_RABBIT_GETTOKEN.3
+msgctxt "STRINGS.COZY_RABBIT_GETTOKEN.3"
+msgid "MATCH!"
+msgstr "しあい！"
+
+#. STRINGS.COZY_RABBIT_GREET.1
+msgctxt "STRINGS.COZY_RABBIT_GREET.1"
+msgid "PLAY?"
+msgstr "あそぶ？"
+
+#. STRINGS.COZY_RABBIT_GREET.2
+msgctxt "STRINGS.COZY_RABBIT_GREET.2"
+msgid "SNACK?"
+msgstr "おかし？"
+
+#. STRINGS.COZY_RABBIT_GREET.3
+msgctxt "STRINGS.COZY_RABBIT_GREET.3"
+msgid "HUG?"
+msgstr "はぐする？"
+
+#. STRINGS.COZY_RABBIT_MOON.1
+msgctxt "STRINGS.COZY_RABBIT_MOON.1"
+msgid "MOON!"
+msgstr "つき！"
+
+#. STRINGS.COZY_RABBIT_MOON.2
+msgctxt "STRINGS.COZY_RABBIT_MOON.2"
+msgid "SUBLIME!"
+msgstr "こーごーしい！"
+
+#. STRINGS.COZY_RABBIT_MOON.3
+msgctxt "STRINGS.COZY_RABBIT_MOON.3"
+msgid "GLOW!"
+msgstr "ぴかぴか！"
+
+#. STRINGS.COZY_RABBIT_MOON.4
+msgctxt "STRINGS.COZY_RABBIT_MOON.4"
+msgid "EYE!"
+msgstr "め！"
+
+#. STRINGS.COZY_RABBIT_NOARENA.1
+msgctxt "STRINGS.COZY_RABBIT_NOARENA.1"
+msgid "ARENA?"
+msgstr "ありーな？"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.1
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.1"
+msgid "HIDE!"
+msgstr "かくれる！"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.2
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.2"
+msgid "FLEE!"
+msgstr "逃げろ！"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.3
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.3"
+msgid "CRIME!"
+msgstr "はんざい！"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.4
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.4"
+msgid "SCATTER!"
+msgstr "かいさん！"
+
+#. STRINGS.COZY_RABBIT_PLANTPILLOW.1
+msgctxt "STRINGS.COZY_RABBIT_PLANTPILLOW.1"
+msgid "COZY"
+msgstr "かいてき"
+
+#. STRINGS.COZY_RABBIT_PLANTPILLOW.2
+msgctxt "STRINGS.COZY_RABBIT_PLANTPILLOW.2"
+msgid "NEST"
+msgstr "かくれが"
+
+#. STRINGS.COZY_RABBIT_PLANTPILLOW.3
+msgctxt "STRINGS.COZY_RABBIT_PLANTPILLOW.3"
+msgid "FRIENDS"
+msgstr "ともだち"
+
+#. STRINGS.COZY_RABBIT_QUESTION_DANGER.1
+msgctxt "STRINGS.COZY_RABBIT_QUESTION_DANGER.1"
+msgid "SAFE?"
+msgstr "あんぜん？"
+
+#. STRINGS.COZY_RABBIT_QUESTION_DANGER.2
+msgctxt "STRINGS.COZY_RABBIT_QUESTION_DANGER.2"
+msgid "DANGER?"
+msgstr "きけん？"
+
+#. STRINGS.COZY_RABBIT_QUESTION_DANGER.3
+msgctxt "STRINGS.COZY_RABBIT_QUESTION_DANGER.3"
+msgid "GONE?"
+msgstr "いった？"
+
+#. STRINGS.COZY_RABBIT_REJECTTOKEN.1
+msgctxt "STRINGS.COZY_RABBIT_REJECTTOKEN.1"
+msgid "BOOKED"
+msgstr "よやくした"
+
+#. STRINGS.COZY_RABBIT_REJECTTOKEN.2
+msgctxt "STRINGS.COZY_RABBIT_REJECTTOKEN.2"
+msgid "HAVE"
+msgstr "もってる"
+
+#. STRINGS.COZY_RABBIT_REJECTTOKEN.3
+msgctxt "STRINGS.COZY_RABBIT_REJECTTOKEN.3"
+msgid "BUSY"
+msgstr "いそがしい"
+
+#. STRINGS.COZY_RABBIT_SPIN.1
+msgctxt "STRINGS.COZY_RABBIT_SPIN.1"
+msgid "SPIN!"
+msgstr "まわる！"
+
+#. STRINGS.COZY_RABBIT_SPINGAMESTART.1
+msgctxt "STRINGS.COZY_RABBIT_SPINGAMESTART.1"
+msgid "PLAY!"
+msgstr "あそぶ！"
+
+#. STRINGS.COZY_RABBIT_SPINGAMESTART.2
+msgctxt "STRINGS.COZY_RABBIT_SPINGAMESTART.2"
+msgid "SPIN!"
+msgstr "まわる！"
+
+#. STRINGS.COZY_RABBIT_SPINGAMESTART.3
+msgctxt "STRINGS.COZY_RABBIT_SPINGAMESTART.3"
+msgid "CARROT!"
+msgstr "にんじん！"
+
+#. STRINGS.COZY_RABBIT_SPOILSPORT.1
+msgctxt "STRINGS.COZY_RABBIT_SPOILSPORT.1"
+msgid "SPOILSPORT"
+msgstr "じゃまもの"
+
+#. STRINGS.COZY_RABBIT_WINNER.1
+msgctxt "STRINGS.COZY_RABBIT_WINNER.1"
+msgid "EAT!"
+msgstr "たべる！"
+
+#. STRINGS.COZY_RABBIT_WINNER.2
+msgctxt "STRINGS.COZY_RABBIT_WINNER.2"
+msgid "{winner}"
+msgstr "{winner}"
+
+#. STRINGS.COZY_RABBIT_WINNER.3
+msgctxt "STRINGS.COZY_RABBIT_WINNER.3"
+msgid "{winner}"
+msgstr "{winner}"
+
+#. STRINGS.COZY_RABBIT_YAY.1
+msgctxt "STRINGS.COZY_RABBIT_YAY.1"
+msgid "YAY!"
+msgstr "わーい！"
+
+#. STRINGS.COZY_RABBIT_YAY.2
+msgctxt "STRINGS.COZY_RABBIT_YAY.2"
+msgid "WOOP!"
+msgstr "やったー！"
+
+#. STRINGS.COZY_RABBIT_YUM.1
+msgctxt "STRINGS.COZY_RABBIT_YUM.1"
+msgid "YUM!"
+msgstr "うまうま！"
+
+#. STRINGS.COZY_RABBIT_YUM.2
+msgctxt "STRINGS.COZY_RABBIT_YUM.2"
+msgid "YUMMY!"
+msgstr "おいしー！"
 
 #. STRINGS.CROWNAMES.1
 msgctxt "STRINGS.CROWNAMES.1"
@@ -258951,6 +261801,26 @@ msgctxt "STRINGS.NAMES.BOAT_ROTATOR_KIT"
 msgid "Rudder Kit"
 msgstr "舵キット"
 
+#. STRINGS.NAMES.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.NAMES.BODYPILLOW_BEEFALOWOOL"
+msgid "Beefalo Pillow Armor"
+msgstr "ビーファロのまくらアーマー"
+
+#. STRINGS.NAMES.BODYPILLOW_KELP
+msgctxt "STRINGS.NAMES.BODYPILLOW_KELP"
+msgid "Kelpy Pillow Armor"
+msgstr "昆布のまくらアーマー"
+
+#. STRINGS.NAMES.BODYPILLOW_PETALS
+msgctxt "STRINGS.NAMES.BODYPILLOW_PETALS"
+msgid "Flowery Pillow Armor"
+msgstr "花のまくらアーマー"
+
+#. STRINGS.NAMES.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.NAMES.BODYPILLOW_STEELWOOL"
+msgid "Steel Wool Pillow Armor"
+msgstr "スチールウールのまくらアーマー"
+
 #. STRINGS.NAMES.BONESHARD
 msgctxt "STRINGS.NAMES.BONESHARD"
 msgid "Bone Shards"
@@ -259986,6 +262856,21 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_MALBATROSS_SKETCH"
 msgid "Malbatross Figure Sketch"
 msgstr "極悪アルバトロスの駒のスケッチ"
 
+#. STRINGS.NAMES.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.NAMES.CHESSPIECE_MANRABBIT"
+msgid "Bunnyman Figure"
+msgstr "バニーマンの像"
+
+#. STRINGS.NAMES.CHESSPIECE_MANRABBIT_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_MANRABBIT_BUILDER"
+msgid "Bunnyman Figure"
+msgstr "バニーマンの像"
+
+#. STRINGS.NAMES.CHESSPIECE_MANRABBIT_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_MANRABBIT_SKETCH"
+msgid "Bunnyman Figure Sketch"
+msgstr "バニーマンの像のスケッチ"
+
 #. STRINGS.NAMES.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.NAMES.CHESSPIECE_MINOTAUR"
 msgid "Ancient Guardian Figure"
@@ -260270,6 +263155,11 @@ msgstr "女王の衣装"
 msgctxt "STRINGS.NAMES.COSTUME_TREE_BODY"
 msgid "Tree Costume"
 msgstr "木の衣装"
+
+#. STRINGS.NAMES.COZY_BUNNYMAN
+msgctxt "STRINGS.NAMES.COZY_BUNNYMAN"
+msgid "Cozy Bunnyman"
+msgstr "ホッとするバニーマン"
 
 #. STRINGS.NAMES.CRABKING
 msgctxt "STRINGS.NAMES.CRABKING"
@@ -261840,6 +264730,31 @@ msgstr "ハンマー"
 msgctxt "STRINGS.NAMES.HAMMER_MJOLNIR"
 msgid "Forging Hammer"
 msgstr "鍛造ハンマー"
+
+#. STRINGS.NAMES.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.NAMES.HANDPILLOW_BEEFALOWOOL"
+msgid "Beefalo Wool Pillow"
+msgstr "ビーファロのウールのまくら"
+
+#. STRINGS.NAMES.HANDPILLOW_KELP
+msgctxt "STRINGS.NAMES.HANDPILLOW_KELP"
+msgid "Kelp-Stuffed Pillow"
+msgstr "昆布まくら"
+
+#. STRINGS.NAMES.HANDPILLOW_PETALS
+msgctxt "STRINGS.NAMES.HANDPILLOW_PETALS"
+msgid "Flowery Pillow"
+msgstr "花まくら"
+
+#. STRINGS.NAMES.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.NAMES.HANDPILLOW_STEELWOOL"
+msgid "Steel Wool Pillow"
+msgstr "スチールウールまくら"
+
+#. STRINGS.NAMES.HAREBALL
+msgctxt "STRINGS.NAMES.HAREBALL"
+msgid "Hare Ball"
+msgstr "ノウサギ球"
 
 #. STRINGS.NAMES.HAWAIIANSHIRT
 msgctxt "STRINGS.NAMES.HAWAIIANSHIRT"
@@ -263700,6 +266615,11 @@ msgstr "ナミノリグモの似顔絵クッキー"
 msgctxt "STRINGS.NAMES.NATURE_BLUEPRINT"
 msgid "Flowery Costume Pattern"
 msgstr "衣装型紙「花まみれ」"
+
+#. STRINGS.NAMES.NIGHTCAPHAT
+msgctxt "STRINGS.NAMES.NIGHTCAPHAT"
+msgid "Nightcap"
+msgstr "ナイトキャップ"
 
 #. STRINGS.NAMES.NIGHTLIGHT
 msgctxt "STRINGS.NAMES.NIGHTLIGHT"
@@ -269026,6 +271946,76 @@ msgctxt "STRINGS.NAMES.YOTP_FOOD3"
 msgid "Fish Heads on a Stick"
 msgstr "棒に刺さった魚の頭"
 
+#. STRINGS.NAMES.YOTR_DECOR_1
+msgctxt "STRINGS.NAMES.YOTR_DECOR_1"
+msgid "Short Rabbit Lamp"
+msgstr "背の低いウサギランプ"
+
+#. STRINGS.NAMES.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.NAMES.YOTR_DECOR_1_ITEM"
+msgid "Short Rabbit Lamp"
+msgstr "背の低いウサギランプ"
+
+#. STRINGS.NAMES.YOTR_DECOR_2
+msgctxt "STRINGS.NAMES.YOTR_DECOR_2"
+msgid "Tall Rabbit Lamp"
+msgstr "背の高いウサギランプ"
+
+#. STRINGS.NAMES.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.NAMES.YOTR_DECOR_2_ITEM"
+msgid "Tall Rabbit Lamp"
+msgstr "背の高いウサギランプ"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING"
+msgid "Pillow Fight Pit"
+msgstr "まくら合戦会場"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_BELL
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_BELL"
+msgid "Pillow Fight Bell"
+msgstr "まくら合戦の鐘"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_KIT"
+msgid "Pillow Fight Pit Kit"
+msgstr "まくら合戦会場キット"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_TORCH
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_TORCH"
+msgid "Bunnyman Torch"
+msgstr "バニーマントーチ"
+
+#. STRINGS.NAMES.YOTR_FOOD1
+msgctxt "STRINGS.NAMES.YOTR_FOOD1"
+msgid "Bunny Roll"
+msgstr "ウサちゃんロール"
+
+#. STRINGS.NAMES.YOTR_FOOD2
+msgctxt "STRINGS.NAMES.YOTR_FOOD2"
+msgid "Moon Cake"
+msgstr "玉兎ケーキ"
+
+#. STRINGS.NAMES.YOTR_FOOD3
+msgctxt "STRINGS.NAMES.YOTR_FOOD3"
+msgid "Moon Jelly"
+msgstr "玉兎ゼリー"
+
+#. STRINGS.NAMES.YOTR_FOOD4
+msgctxt "STRINGS.NAMES.YOTR_FOOD4"
+msgid "Skewered Puffs"
+msgstr "串焼き菓子"
+
+#. STRINGS.NAMES.YOTR_RABBITSHRINE
+msgctxt "STRINGS.NAMES.YOTR_RABBITSHRINE"
+msgid "Bunnyman Shrine"
+msgstr "バニーマンの祭壇"
+
+#. STRINGS.NAMES.YOTR_TOKEN
+msgctxt "STRINGS.NAMES.YOTR_TOKEN"
+msgid "Glove of Challenge"
+msgstr "挑戦手袋"
+
 #. STRINGS.NAMES.YOT_CATCOONSHRINE
 msgctxt "STRINGS.NAMES.YOT_CATCOONSHRINE"
 msgid "Catcoon Shrine"
@@ -271216,6 +274206,26 @@ msgctxt "STRINGS.RECIPE_DESC.BOAT_ROTATOR_KIT"
 msgid "Row, row, rotate your boat."
 msgstr "漕げや漕げ、船の向きを変えるのだ。"
 
+#. STRINGS.RECIPE_DESC.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_BEEFALOWOOL"
+msgid "Beef up your pillow defenses."
+msgstr "牛の力でまくらの防御力を高めよう。"
+
+#. STRINGS.RECIPE_DESC.BODYPILLOW_KELP
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_KELP"
+msgid "A soggy suit of pillow armor."
+msgstr "一揃いのビショビショまくらアーマー。"
+
+#. STRINGS.RECIPE_DESC.BODYPILLOW_PETALS
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_PETALS"
+msgid "It offers minimal protection, but hopefully you'll still come out smelling like a rose."
+msgstr "最小限の防衛をしかないが、きっとその芳しさに幸運も引き寄せられてくるはずだ。"
+
+#. STRINGS.RECIPE_DESC.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_STEELWOOL"
+msgid "A wearable pillow that is as effective as it is unpleasant."
+msgstr "快適さはないが、その対価に見合うほどに効果的な着れるまくら。"
+
 #. STRINGS.RECIPE_DESC.BOOKSTATION
 msgctxt "STRINGS.RECIPE_DESC.BOOKSTATION"
 msgid "All books must be arranged using the Dewey Decimal System."
@@ -271685,6 +274695,16 @@ msgstr "海の惨劇を彫刻したもの。"
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MALBATROSS_SKETCH"
 msgid "A sculpture sketch of the mighty Malbatross."
 msgstr "強大なマルバトロスの像のラフスケッチ。"
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_BUILDER"
+msgid "A fluffy friend, made of rock."
+msgstr "岩製のもふもふの友達。"
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_SKETCH
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_SKETCH"
+msgid "A sculpture sketch of a playful Bunnyman."
+msgstr "遊び好きなバニーマンの像のスケッチ。"
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_MINOTAUR_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MINOTAUR_BUILDER"
@@ -272161,6 +275181,26 @@ msgctxt "STRINGS.RECIPE_DESC.HAMMER"
 msgid "Smashes all kinds of things."
 msgstr "いろいろな物をたたき壊す。"
 
+#. STRINGS.RECIPE_DESC.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_BEEFALOWOOL"
+msgid "It packs a woolly wallop!"
+msgstr "ふかふかの一撃を食らわせろ！"
+
+#. STRINGS.RECIPE_DESC.HANDPILLOW_KELP
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_KELP"
+msgid "Nobody likes a wet blanket. Wet pillows aren't much better."
+msgstr "水を差す人は誰からも嫌われる。水浸しのまくらもまた同様。"
+
+#. STRINGS.RECIPE_DESC.HANDPILLOW_PETALS
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_PETALS"
+msgid "A pillow packed with flower power."
+msgstr "フラワーパワーの詰まったまくら。"
+
+#. STRINGS.RECIPE_DESC.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_STEELWOOL"
+msgid "For folks who take their pillow fighting seriously."
+msgstr "まくら合戦を本気でしたい人向け。"
+
 #. STRINGS.RECIPE_DESC.HAWAIIANSHIRT
 msgctxt "STRINGS.RECIPE_DESC.HAWAIIANSHIRT"
 msgid "Fun in the sun. Or on Casual Fridays."
@@ -272480,6 +275520,11 @@ msgstr "最高の小さなボディガードを作り上げよう。"
 msgctxt "STRINGS.RECIPE_DESC.MUTATOR_WATER"
 msgid "They look simply mouthwatering!"
 msgstr "何だかヨダレが湧いてくる！"
+
+#. STRINGS.RECIPE_DESC.NIGHTCAPHAT
+msgctxt "STRINGS.RECIPE_DESC.NIGHTCAPHAT"
+msgid "A cap for your sleepy head."
+msgstr "眠たがり用の帽子。"
 
 #. STRINGS.RECIPE_DESC.NIGHTLIGHT
 msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
@@ -274115,6 +277160,46 @@ msgstr "何が隠れているのかな？"
 msgctxt "STRINGS.RECIPE_DESC.YOTP_FOOD3"
 msgid "Prosperity on a stick."
 msgstr "繁栄の串刺し。"
+
+#. STRINGS.RECIPE_DESC.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_1_ITEM"
+msgid "This lovable light makes any cave cozier."
+msgstr "この可愛らしい明かりがあればどんな洞窟も居心地のいいものに。"
+
+#. STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
+msgid "A rabbit statue with a real fire in its belly!"
+msgstr "お腹の中で本物の火が燃えているウサギの像。"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD1
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
+msgid "No bunnies were harmed in the making of this cake."
+msgstr "このケーキで迷惑を被るウサギはいない。"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD2
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD2"
+msgid "It's \"blue\" flavored!"
+msgstr "「青」の味がする！"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD3
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD3"
+msgid "This dessert looks almost too good to eat."
+msgstr "見た目が良すぎて食べるのに忍びない。"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD4
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD4"
+msgid "Puffy balls of chewy goodness."
+msgstr "歯ごたえ抜群の球状お菓子が連なっている。"
+
+#. STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE"
+msgid "Make offerings to the cozy Bunnyman."
+msgstr "好意的なバニーマンたちに捧げものをしよう。"
+
+#. STRINGS.RECIPE_DESC.YOTR_TOKEN
+msgctxt "STRINGS.RECIPE_DESC.YOTR_TOKEN"
+msgid "Tell a Bunnyman you'd like to try your hand at a pillow battle."
+msgstr "バニーマンにまくら合戦で腕試しがしたいと伝えよう。"
 
 #. STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE
 msgctxt "STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE"
@@ -276416,6 +279501,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_ice"
 msgid "A fine coat to keep out the chill."
 msgstr "寒気を寄せ付けない上質なコート。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_masquerade"
+msgid "The eclectic attire of a party-goer who savors every moment."
+msgstr "一瞬一瞬を楽しめるパーティ好き用のいいとこどり洋服。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_nature"
 msgid "Made by hand with woven natural fibers."
@@ -276886,6 +279976,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_mandrakep"
 msgid "A Hallowed Nights costume fashioned after a delightfully annoying vegetable."
 msgstr "笑っちゃうぐらい迷惑な植をモチーフにしたハロウィンの衣装。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wes_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_masquerade"
+msgid "The puffed shoulders are supposed to help one look confident."
+msgstr "肩のところが膨らんでいることで、自信ありげに見せることができる。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_nature"
 msgid "These artist's tools are mostly for show. It's not easy to get ahold of paints in the wilderness."
@@ -277085,6 +280180,11 @@ msgstr "冷たい炎と同じように、このマントとフロックドレス
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_magma"
 msgid "A frock with the power to appease the Fire Gods."
 msgstr "火の神をなだめる力を秘めたフロックドレス。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_willow_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_masquerade"
+msgid "A flowing dress of smoky black and burning red."
+msgstr "煙の黒色と燃え盛る赤色を取り入れた流れるようなドレス。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_pirate"
@@ -277451,6 +280551,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_magma"
 msgid "Sport a hot new look in this cool jacket and T-shirt combo."
 msgstr "このクールなジャケットとTシャツの組み合わせをホットに着こなそう。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_masquerade"
+msgid "Despite its posh appearance, you get the strange impression it would look more at home in the woods."
+msgstr "見た目は豪華だが、森の中のほうが似合うという不思議な印象を受ける。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_nature"
 msgid "Tincap not included."
@@ -277575,6 +280680,11 @@ msgstr "悪賢いドラゴンの鱗に覆われた胴。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_ice"
 msgid "Fluffy fur as cold and white as fallen snow under pale moonlight."
 msgstr "フカフカとした毛皮は、蒼い月夜の光を浴びる雪のように冷たく、そして白い。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wortox_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_masquerade"
+msgid "The draped fabric makes for a light and airy look."
+msgstr "布地を纏っていることで、ふわふわと軽い印象を受ける。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_minotaur"
@@ -278786,6 +281896,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_ice"
 msgid "Frigidly fabulous footwear."
 msgstr "冷淡で華麗な履物。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_masquerade"
+msgid "Perfect for capering around the dance floor."
+msgstr "ダンスフロアを跳ねまわるのに最適。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature"
 msgid "Soft soles for a gentle soul."
@@ -279010,6 +282125,11 @@ msgstr "アンティークな磁器人形の上品な靴。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_ice"
 msgid "A pair of stylish heels accented by a puff of rabbit fur."
 msgstr "パフとラビットファーをあしらったおしゃれなヒール。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_willow_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_masquerade"
+msgid "With these shoes, you'll be burning up the dance floor."
+msgstr "この靴があれば、フロアを燃え上がらせることもできる。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_willow_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_pirate"
@@ -279831,6 +282951,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_candyman"
 msgid "For hand-making each tasty treat with care."
 msgstr "愛情をこめて美味しいおやつを手作りします。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_masquerade"
+msgid "A nice pair of gloves gives any outfit a certain \"je ne sais quoi\"."
+msgstr "どんな服でも「イイカンジ」にする素敵な一対の手袋。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_rose"
 msgid "Gloved hands tend the finest roses."
@@ -280240,6 +283365,11 @@ msgstr "すべての指が揃った状態で登頂したいのなら、手は温
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma"
 msgid "Studded gloves for peerless gripping of an axe."
 msgstr "斧をギュッと掴めるスタッズ付きのグローブ。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_masquerade"
+msgid "The delicate fabric nearly masks the rough, calloused hands."
+msgstr "硬くてざらざらした手もかろうじて覆える繊細な布。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature"
@@ -281056,6 +284186,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_ice"
 msgid "These fancy pants are ready for some winter festivities."
 msgstr "冬の祝祭日に最適なおしゃれなスボン。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_masquerade"
+msgid "These cream and pistachio striped pants are a feast for the eyes."
+msgstr "クリームとピスタチオの縞模様がついたズボンは目の保養になる。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_warly_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_pirate"
 msgid "These pants have been weathered by many days at sea."
@@ -281150,6 +284285,11 @@ msgstr "冬を感じるチェック柄のズボン。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_webber_lunar"
 msgid "A thick layer of fluff to insulate you against the cold lunar landscape."
 msgstr "何層にも重なったふわふわが、月の寒さから守ってくれる。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wes_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wes_masquerade"
+msgid "These purple pants were made to dance."
+msgstr "この紫のズボンは踊るために作られた。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wes_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wes_pirate"
@@ -281301,6 +284441,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_magma"
 msgid "These boots are on fire."
 msgstr "燃えるブーツ。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_masquerade"
+msgid "The wearer of these boots is on the hunt for the punch bowl."
+msgstr "このブーツを履いた者はフルーツポンチ狩りに向かってしまう。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_nature"
 msgid "These old trousers are as traditional as they are uncomfortable."
@@ -281375,6 +284520,11 @@ msgstr "パンツの実力は過大評価されている、と思う者がここ
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_ice"
 msgid "If you follow mysterious hoofprints in the snow, you might find something other than a reindeer."
 msgstr "雪に踏みしめられた謎の足跡をたどっていけば、トナカイ以外の動物に出会えるかもしれない。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_masquerade"
+msgid "This guest is particularly light on their feet."
+msgstr "この客は特に動きが機敏だ。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_minotaur"
@@ -282221,6 +285371,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_victorian"
 msgid "Nothing creates an ambiance quite like a glowing fungus."
 msgstr "発光するキノコほど雰囲気を演出できる代物は存在しない。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_an"
+msgid "This mushlamp was made to dazzle."
+msgstr "このキノコランプは目くらましに使われる。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive"
 msgid "Merry and bright."
@@ -283046,6 +286201,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_wx78"
 msgid "This Magmatic Chest contains WX-78's complete set of Magmatic skin items."
 msgstr "こちらのマグマの宝箱には、WX-78のマグマのスキンアイテムが全て入っています。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1"
+msgid "This Masquerader Chest contains skins for: Willow, Warly, Wortox, Wes, and Woodie."
+msgstr "こちらの仮面舞踏会の参加者の宝箱には、次のスキンアイテムが入っています：ウィロー、ワーリー、ウォルトックス、ウェス、ウッディ。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items"
 msgid "This Musclebound Chest contains the following skin items: Potato Nap Sack, Hanging Bar, Elephant Pack and Boulder Bell."
@@ -283225,6 +286385,11 @@ msgstr "この宝箱には、プレイヤーキャラクターの「魂に飢え
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2021"
 msgid "This Chest contains the playable character, Wanda: The Timekeeper, Wilson's Snowfallen skin set, Willow's Victorian skin set, Walter's Guest of Honor skin set, Winona's Roseate skin set, the Rustic Torch, the Splumonkey Sack, and the Yawny Jammies Ensemble."
 msgstr "こちらの宝箱には、プレイヤーキャラクターの「時間を守りし者、ワンダ」、ウィルソンのスノーフォールのスキンセット、ウィローのビクトリアのスキンセット、ウォルターのフォーマルのスキンセット、ウィノナのバラ色のスキンセット、錆びつきたいまつ、スプルモンキーのバッグ、あくびするパジャマのアンサンブルが入っています。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2023
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2023"
+msgid "This Chest contains the playable character, Wortox: The Soul Starved, Wilson's Magmatic skin set, Wendy's Guest of Honor skin set with Abigail's Ghost of Honor item skin, Wolfgang's Pirate skin set, WX-78's Shadow skin set, the Gothic Scientific Instrument, the Gothic Lantern, and the Sleepytime Ensemble."
+msgstr "この宝箱には、プレイヤーキャラクターの「魂に飢えるもの、ウォルトックス」、ウィルソンのマグマのスキンセット、ウェンディのフォーマルスキンセット（アビゲイルのアイテムスキン「霊の主賓」付き）、ウルフガングの海賊のスキンセット、WX-78の影のスキンセット、ゴシックな科学機器、ゴシックなランタン、おやすみタイムの洋服が入っています。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift"
@@ -284476,6 +287641,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlight2an"
 msgid "Equip this item to change your character's background portrait."
 msgstr "このアイテムを装備すると、キャラクターのプロフィール背景が変わる。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlightan
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlightan"
+msgid "Equip this item to change your character's background portrait."
+msgstr "このアイテムを装備すると、キャラクターのプロフィール背景が変わる。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_oven
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_oven"
 msgid "Equip this item to change your character's background portrait."
@@ -285165,6 +288335,11 @@ msgstr "プロフィールアイコンをおいしい八宝泥パイにする。
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_light2an"
 msgid "Set your profile icon to an Eclectic Glowcap."
 msgstr "プロフィールアイコンをごちゃ混ぜグローキャップにする。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_lightan
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_lightan"
+msgid "Set your profile icon to a Mosaic Mushlamp."
+msgstr "プロフィールアイコンをモザイクキノコランプにする。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight"
@@ -286936,6 +290111,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_ice"
 msgid "Warly has put together his finest outfit to attend the Snow Ball."
 msgstr "ワーリーは雪合戦に参加するために、最高の服を用意してきた。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_masquerade"
+msgid "This mysterious gentleman has whipped up a cracking ensemble."
+msgstr "この謎の紳士は素晴らしい服を仕立て上げた。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.warly_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_nature"
 msgid "Warly has found a deep appreciation for the natural world and all it provides."
@@ -287576,6 +290756,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_mandrake_p"
 msgid "What's the sound of one mandrake meeping?"
 msgstr "マンドレイクの鳴き声は？"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wes_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_masquerade"
+msgid "This poor party guest seems too shy to join in any conversation."
+msgstr "可哀想なパーティの招待客は、内気すぎて会話に参加できていないようだ。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wes_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_nature"
 msgid "Wes is an avid landscape painter in his downtime."
@@ -287810,6 +290995,11 @@ msgstr "冷たい炎はウィローの好きな炎だ…熱い炎、暖かい炎
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_magma"
 msgid "Willow has never been so at home."
 msgstr "今までにない心地よさを感じるウィロー。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.willow_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_masquerade"
+msgid "This masked party-goer has a dangerous spark in her eyes..."
+msgstr "この仮面をつけたパーティ客は目に危険な光が宿っている。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.willow_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_none"
@@ -288346,6 +291536,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_magma"
 msgid "Woodie's confidence in battle is rooted in experience."
 msgstr "戦闘への自信は、それだけの経験があるから。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_masquerade"
+msgid "A refined gentleman, or a wolf in sheep's clothing?"
+msgstr "上品な紳士か。はたまた、偽善者か。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_nature"
 msgid "All Woodie needs is the sun, the rain, and his favourite tree seeds."
@@ -288520,6 +291715,11 @@ msgstr "ドラゴンがみんな金を集めると思ったら大間違い。ウ
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_ice"
 msgid "Deer Wortox could try to rein in his prankster tendencies, but what fun would that be?"
 msgstr "鹿のウォルトックスは、やろうと思えば悪戯心を抑えることができた。だがそんなことして楽しいだろうか？"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wortox_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_masquerade"
+msgid "This guest's angelic appearance might be masking a devilish trickster within."
+msgstr "この客の天使のような見た目は、その下にいるいたずら好きの悪魔を覆い隠しているに違いない。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur"
@@ -290231,6 +293431,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_warly_ice"
 msgid "Winter Soiree Jacket"
 msgstr "冬のソワレのジャケット"
 
+#. STRINGS.SKIN_NAMES.body_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_warly_masquerade"
+msgid "Extravagant Vest"
+msgstr "贅沢ベスト"
+
 #. STRINGS.SKIN_NAMES.body_warly_nature
 msgctxt "STRINGS.SKIN_NAMES.body_warly_nature"
 msgid "Druidic Tunic"
@@ -290701,6 +293906,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wes_mandrakep"
 msgid "Mandrake Costume Top"
 msgstr "マンドレイクのコスチューム（トップ）"
 
+#. STRINGS.SKIN_NAMES.body_wes_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_wes_masquerade"
+msgid "Fancy Jacket"
+msgstr "お洒落ジャケット"
+
 #. STRINGS.SKIN_NAMES.body_wes_nature
 msgctxt "STRINGS.SKIN_NAMES.body_wes_nature"
 msgid "Fauvist's Smock"
@@ -290900,6 +294110,11 @@ msgstr "冷炎のドレス"
 msgctxt "STRINGS.SKIN_NAMES.body_willow_magma"
 msgid "Pyrestarter's Dress"
 msgstr "点火のドレス"
+
+#. STRINGS.SKIN_NAMES.body_willow_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_willow_masquerade"
+msgid "Flamedancer Ballgown"
+msgstr "フレイムダンサーのロングドレス"
 
 #. STRINGS.SKIN_NAMES.body_willow_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_willow_pirate"
@@ -291266,6 +294481,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_woodie_magma"
 msgid "Hot Rod's Jacket"
 msgstr "ホットロッドのジャケット"
 
+#. STRINGS.SKIN_NAMES.body_woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_woodie_masquerade"
+msgid "Hunter Green Coat"
+msgstr "狩人の緑色コート"
+
 #. STRINGS.SKIN_NAMES.body_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.body_woodie_nature"
 msgid "Orchardist's Tunic"
@@ -291390,6 +294610,11 @@ msgstr "竜のチェスト"
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_ice"
 msgid "Reindeer Chest"
 msgstr "トナカイのチェスト"
+
+#. STRINGS.SKIN_NAMES.body_wortox_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_wortox_masquerade"
+msgid "Cherubic Toga"
+msgstr "天使のトーガ"
 
 #. STRINGS.SKIN_NAMES.body_wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_minotaur"
@@ -292601,6 +295826,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_warly_ice"
 msgid "Winter Soiree Shoes"
 msgstr "冬のソワレの靴"
 
+#. STRINGS.SKIN_NAMES.feet_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.feet_warly_masquerade"
+msgid "Dancing Shoes"
+msgstr "ダンシングシューズ"
+
 #. STRINGS.SKIN_NAMES.feet_warly_nature
 msgctxt "STRINGS.SKIN_NAMES.feet_warly_nature"
 msgid "Soft Leather Shoes"
@@ -292825,6 +296055,11 @@ msgstr "孤独な人形のシューズ"
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_ice"
 msgid "Coldfire Shoes"
 msgstr "冷炎の靴"
+
+#. STRINGS.SKIN_NAMES.feet_willow_masquerade
+msgctxt "STRINGS.SKIN_NAMES.feet_willow_masquerade"
+msgid "Hotstepper Heels"
+msgstr "イケイケヒール"
 
 #. STRINGS.SKIN_NAMES.feet_willow_pirate
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_pirate"
@@ -293646,6 +296881,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_warly_candyman"
 msgid "Candy-Striped Gloves"
 msgstr "キャンディストライプの手袋"
 
+#. STRINGS.SKIN_NAMES.hand_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.hand_warly_masquerade"
+msgid "Cuffed Glovelettes"
+msgstr "カフス付き手袋"
+
 #. STRINGS.SKIN_NAMES.hand_warly_rose
 msgctxt "STRINGS.SKIN_NAMES.hand_warly_rose"
 msgid "Sugar Rose Gloves"
@@ -294055,6 +297295,11 @@ msgstr "登山家のカフス"
 msgctxt "STRINGS.SKIN_NAMES.hand_woodie_magma"
 msgid "Hot Rod's Driving Gloves"
 msgstr "ホットロッドの運転手袋"
+
+#. STRINGS.SKIN_NAMES.hand_woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.hand_woodie_masquerade"
+msgid "Wrist Ruffles"
+msgstr "手首フリル"
 
 #. STRINGS.SKIN_NAMES.hand_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.hand_woodie_nature"
@@ -294871,6 +298116,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_warly_ice"
 msgid "Winter Soiree Pants"
 msgstr "冬のソワレのパンツ"
 
+#. STRINGS.SKIN_NAMES.legs_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_warly_masquerade"
+msgid "Extravagant Pants"
+msgstr "贅沢ズボン"
+
 #. STRINGS.SKIN_NAMES.legs_warly_pirate
 msgctxt "STRINGS.SKIN_NAMES.legs_warly_pirate"
 msgid "Pirate Pantaloons"
@@ -294965,6 +298215,11 @@ msgstr "雪グモのスラックス"
 msgctxt "STRINGS.SKIN_NAMES.legs_webber_lunar"
 msgid "Mutated Spider Legs"
 msgstr "変異グモのボトムス"
+
+#. STRINGS.SKIN_NAMES.legs_wes_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_wes_masquerade"
+msgid "Fancy Pants"
+msgstr "お洒落ズボン"
 
 #. STRINGS.SKIN_NAMES.legs_wes_pirate
 msgctxt "STRINGS.SKIN_NAMES.legs_wes_pirate"
@@ -295116,6 +298371,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_woodie_magma"
 msgid "Hot Rod's Pants"
 msgstr "ホットロッドのパンツ"
 
+#. STRINGS.SKIN_NAMES.legs_woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_woodie_masquerade"
+msgid "Fine Huntsman Boots"
+msgstr "凄腕猟師のブーツ"
+
 #. STRINGS.SKIN_NAMES.legs_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.legs_woodie_nature"
 msgid "Orchardist's Pants"
@@ -295190,6 +298450,11 @@ msgstr "竜の足"
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_ice"
 msgid "Reindeer Legs"
 msgstr "トナカイの脚"
+
+#. STRINGS.SKIN_NAMES.legs_wortox_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_wortox_masquerade"
+msgid "Clawed Feet"
+msgstr "かぎ爪の足"
 
 #. STRINGS.SKIN_NAMES.legs_wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_minotaur"
@@ -296036,6 +299301,11 @@ msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_victorian"
 msgid "Mushlamp Post"
 msgstr "キノコ街灯"
 
+#. STRINGS.SKIN_NAMES.mushroom_light_an
+msgctxt "STRINGS.SKIN_NAMES.mushroom_light_an"
+msgid "Mosaic Mushlamp"
+msgstr "モザイクキノコランプ"
+
 #. STRINGS.SKIN_NAMES.mushroom_light_festive
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light_festive"
 msgid "Festive Fungal Lamp"
@@ -296861,6 +300131,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_magma_wx78"
 msgid "WX-78 Magmatic Chest"
 msgstr "WX-78のマグマの宝箱"
 
+#. STRINGS.SKIN_NAMES.pack_masquerade_1
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_1"
+msgid "Masquerader Survivors Chest"
+msgstr "仮面舞踏会の参加者の生存者のチェスト"
+
 #. STRINGS.SKIN_NAMES.pack_mighty_items
 msgctxt "STRINGS.SKIN_NAMES.pack_mighty_items"
 msgid "Musclebound Chest"
@@ -297040,6 +300315,11 @@ msgstr "スターターパック2020"
 msgctxt "STRINGS.SKIN_NAMES.pack_starter_2021"
 msgid "Starter Pack 2021"
 msgstr "スターターパック2021"
+
+#. STRINGS.SKIN_NAMES.pack_starter_2023
+msgctxt "STRINGS.SKIN_NAMES.pack_starter_2023"
+msgid "Starter Pack 2023"
+msgstr "スターターパック2023"
 
 #. STRINGS.SKIN_NAMES.pack_sw_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_sw_gift"
@@ -298291,6 +301571,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlight2an"
 msgid "Eclectic Glowcap Portrait"
 msgstr "ごちゃ混ぜグローキャップの写真"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlightan
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlightan"
+msgid "Mosaic Mushlamp Portrait"
+msgstr "モザイクキノコランプの写真"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_oven
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_oven"
 msgid "Warm Oven Portrait"
@@ -298980,6 +302265,11 @@ msgstr "八宝泥パイ"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mushroom_light2an"
 msgid "Eclectic Glowcap"
 msgstr "ごちゃ混ぜグローキャップ"
+
+#. STRINGS.SKIN_NAMES.profileflair_mushroom_lightan
+msgctxt "STRINGS.SKIN_NAMES.profileflair_mushroom_lightan"
+msgid "Mosaic Mushlamp"
+msgstr "モザイクキノコランプ"
 
 #. STRINGS.SKIN_NAMES.profileflair_nightlight
 msgctxt "STRINGS.SKIN_NAMES.profileflair_nightlight"
@@ -300751,6 +304041,11 @@ msgctxt "STRINGS.SKIN_NAMES.warly_ice"
 msgid "The Snowfallen"
 msgstr "スノーフォール"
 
+#. STRINGS.SKIN_NAMES.warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.warly_masquerade"
+msgid "The Masquerader"
+msgstr "仮面舞踏会の参加者"
+
 #. STRINGS.SKIN_NAMES.warly_nature
 msgctxt "STRINGS.SKIN_NAMES.warly_nature"
 msgid "The Verdant"
@@ -301391,6 +304686,11 @@ msgctxt "STRINGS.SKIN_NAMES.wes_mandrake_p"
 msgid "Wesdrake Makeup"
 msgstr "ウェスドレイクのメイク"
 
+#. STRINGS.SKIN_NAMES.wes_masquerade
+msgctxt "STRINGS.SKIN_NAMES.wes_masquerade"
+msgid "The Masquerader"
+msgstr "仮面舞踏会の参加者"
+
 #. STRINGS.SKIN_NAMES.wes_nature
 msgctxt "STRINGS.SKIN_NAMES.wes_nature"
 msgid "The Verdant"
@@ -301625,6 +304925,11 @@ msgstr "スノーフォール"
 msgctxt "STRINGS.SKIN_NAMES.willow_magma"
 msgid "The Magmatic"
 msgstr "マグマ"
+
+#. STRINGS.SKIN_NAMES.willow_masquerade
+msgctxt "STRINGS.SKIN_NAMES.willow_masquerade"
+msgid "The Masquerader"
+msgstr "仮面舞踏会の参加者"
 
 #. STRINGS.SKIN_NAMES.willow_none
 msgctxt "STRINGS.SKIN_NAMES.willow_none"
@@ -302161,6 +305466,11 @@ msgctxt "STRINGS.SKIN_NAMES.woodie_magma"
 msgid "The Magmatic"
 msgstr "マグマ"
 
+#. STRINGS.SKIN_NAMES.woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.woodie_masquerade"
+msgid "The Masquerader"
+msgstr "仮面舞踏会の参加者"
+
 #. STRINGS.SKIN_NAMES.woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.woodie_nature"
 msgid "The Verdant"
@@ -302335,6 +305645,11 @@ msgstr "竜"
 msgctxt "STRINGS.SKIN_NAMES.wortox_ice"
 msgid "The Snowfallen"
 msgstr "スノーフォール"
+
+#. STRINGS.SKIN_NAMES.wortox_masquerade
+msgctxt "STRINGS.SKIN_NAMES.wortox_masquerade"
+msgid "The Masquerader"
+msgstr "仮面舞踏会の参加者"
 
 #. STRINGS.SKIN_NAMES.wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.wortox_minotaur"
@@ -302706,6 +306021,11 @@ msgctxt "STRINGS.SKIN_QUOTES.warly_ice"
 msgid "\"I'd say this look is best served cold.\""
 msgstr "「コレは冷やして食べるのが一番ダヨ」"
 
+#. STRINGS.SKIN_QUOTES.warly_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.warly_masquerade"
+msgid "\"An air of mystery is the secret ingredient for any good soiree.\""
+msgstr "「謎めいた雰囲気はソワレの隠し味だヨ」"
+
 #. STRINGS.SKIN_QUOTES.warly_nature
 msgctxt "STRINGS.SKIN_QUOTES.warly_nature"
 msgid "\"I only cook with natural ingredients.\""
@@ -302768,8 +306088,8 @@ msgstr "\"私の戦闘能力は他の追随を許さないです。\""
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_ice
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_ice"
-msgid "\"Call forth the howling winds and biting cold, the jotunn fear them not!\""
-msgstr "「轟く嵐と凍てつく寒さを引き起こせ。やつらを恐れるな、霜の巨人よ！」"
+msgid "\"Call förth the höwling winds and biting cöld, the jötnar fear them nöt!\""
+msgstr "「轟く風と凍てつく寒さを呼び起こせ、ヨツンよ彼らを恐れるな！」"
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_magma
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_magma"
@@ -303331,6 +306651,11 @@ msgctxt "STRINGS.SKIN_QUOTES.willow_magma"
 msgid "\"All fire, all the time!!\""
 msgstr "\"すべての火、すべての時間を！\""
 
+#. STRINGS.SKIN_QUOTES.willow_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.willow_masquerade"
+msgid "\"The flames taught me how to dance.\""
+msgstr "「炎が躍り方を教えてくれたんだ。」"
+
 #. STRINGS.SKIN_QUOTES.willow_pirate
 msgctxt "STRINGS.SKIN_QUOTES.willow_pirate"
 msgid "\"Come onnnn, let me fire the cannon!\""
@@ -303731,6 +307056,11 @@ msgctxt "STRINGS.SKIN_QUOTES.woodie_magma"
 msgid "\"Hope I don't burn the trees.\""
 msgstr "\"木を燃やさなければいいんだが。\""
 
+#. STRINGS.SKIN_QUOTES.woodie_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.woodie_masquerade"
+msgid "\"If Lucy's the belle of the ball, I guess that makes me the beast.\""
+msgstr "「ルーシーがパーティーの華なら、俺は野獣ってところだな。」"
+
 #. STRINGS.SKIN_QUOTES.woodie_nature
 msgctxt "STRINGS.SKIN_QUOTES.woodie_nature"
 msgid "\"Even the most majestic tree's gotta start as a seed.\""
@@ -303865,6 +307195,11 @@ msgstr "\"ボクとボクの魂の宝庫の間に入らないで。\""
 msgctxt "STRINGS.SKIN_QUOTES.wortox_ice"
 msgid "\"Don't slip up or you might get a face full of snow, hyuyu!\""
 msgstr "「滑って転んだら、雪が食べ放題だよ！ヒューユー！」"
+
+#. STRINGS.SKIN_QUOTES.wortox_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.wortox_masquerade"
+msgid "\"These masked events are the playgrounds of merry mischief-makers!\""
+msgstr "「この仮面イベントは、陽気なトラブルメーカーにピッタリの遊び場だね！」"
 
 #. STRINGS.SKIN_QUOTES.wortox_minotaur
 msgctxt "STRINGS.SKIN_QUOTES.wortox_minotaur"
@@ -304360,6 +307695,11 @@ msgstr "ムーンバウンドコレクション"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR_NY"
 msgid "Lunar New Year Collection"
 msgstr "旧正月コレクション"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MASQUERADE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MASQUERADE"
+msgid "Masquerade Collection"
+msgstr "仮面舞踏会コレクション"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY"
@@ -313546,6 +316886,11 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTP"
 msgid "Available during Year of the Pig King!"
 msgstr "「豚王の年」期間に利用可能です！"
 
+#. STRINGS.UI.CRAFTING.NEEDSYOTR
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTR"
+msgid "Available during Year of the Bunnyman!"
+msgstr "「バニーの年」期間に利用可能です！"
+
 #. STRINGS.UI.CRAFTING.NEEDSYOTV
 msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTV"
 msgid "Available during Year of the Varg!"
@@ -316240,6 +319585,11 @@ msgstr "ワーム"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BEEFALO"
 msgid "Year of the Beefalo"
 msgstr "ビーファロの年"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BUNNYMAN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BUNNYMAN"
+msgid "Year of the Bunnyman"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT"
@@ -319536,6 +322886,11 @@ msgctxt "STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODEDESC"
 msgid "Couldn't connect to Steam (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
 msgstr "Steamに接続できませんでした（定期メンテナンスまたは接続性の問題です）。オンラインゲームのキャラクターやワールドが利用できなくなります。オフラインでプレイしますか？"
 
+#. STRINGS.UI.MAINSCREEN.STORE_DISABLE
+msgctxt "STRINGS.UI.MAINSCREEN.STORE_DISABLE"
+msgid "You must be logged in to use the Klei Store."
+msgstr ""
+
 #. STRINGS.UI.MAINSCREEN.SURE
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
 msgid "Are you sure?"
@@ -321570,6 +324925,11 @@ msgstr "ワールドを生成中"
 msgctxt "STRINGS.UI.NOTIFICATION.WORLDGENERATING_SERVER"
 msgid "Generating World"
 msgstr "ワールドを生成中"
+
+#. STRINGS.UI.OBJECTOWNERSHIP
+msgctxt "STRINGS.UI.OBJECTOWNERSHIP"
+msgid "{owner}'s {object}"
+msgstr "{owner}の{object}"
 
 #. STRINGS.UI.OPTIONS.ACCEPT
 msgctxt "STRINGS.UI.OPTIONS.ACCEPT"
@@ -324751,6 +328111,11 @@ msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP"
 msgid "Year of the Pig King"
 msgstr "豚王の年"
 
+#. STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTR
+msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTR"
+msgid "Year of the Bunnyman"
+msgstr ""
+
 #. STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV
 msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV"
 msgid "Year of the Varg"
@@ -326850,6 +330215,11 @@ msgstr "冬のお祭り"
 msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO"
 msgid "Year of the Beefalo"
 msgstr "ビーファロの年"
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BUNNYMAN
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BUNNYMAN"
+msgid "Year of the Bunnyman"
+msgstr ""
 
 #. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT
 msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT"

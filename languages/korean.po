@@ -91,6 +91,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
 msgstr "동굴 탐험하기"
 
+#. STRINGS.ACTIONS.ACTIVATE.SPIN
+msgctxt "STRINGS.ACTIONS.ACTIVATE.SPIN"
+msgid "Spin"
+msgstr "돌리기"
+
 #. STRINGS.ACTIONS.ACTIVATE.SUMMONHOST
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SUMMONHOST"
 msgid "Ring"
@@ -3296,6 +3301,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
 msgstr "새들이 새장에서 날아가 버린 것 같아."
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I need a pillow to fight with!"
+msgstr "싸우려면 베개가 필요해!"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.APPLYMODULE.COOLDOWN"
 msgid "only_used_by_wx78"
@@ -4490,6 +4500,11 @@ msgstr "너무 춥다!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_COMPASS_OUT"
 msgid "This compass doesn't point anymore."
 msgstr "나침반의 바늘이 더는 작동하지 않는다."
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_COZY_SLEEP"
+msgid "I feel so refreshed!"
+msgstr "정말 상쾌한걸!"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CRAFTING_FAIL"
@@ -7191,6 +7206,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "I think I'll take it out for a spin."
 msgstr "배 타고 한 바퀴 돌고 올까 봐."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "If only it didn't also smell like a beefalo."
+msgstr "비팔로 냄새가 나지 않았다면 좋을 텐데."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP"
+msgid "It's soggier than I would like."
+msgstr "너무 축축해."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS"
+msgid "At least is smells nicer than the beefalo pillow."
+msgstr "적어도 비팔로 베개보다 좋은 냄새가 나네."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Who would sleep on this?"
+msgstr "누가 이런 베개를 베고 자고 싶겠어?"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESHARD"
 msgid "Bits of bone."
@@ -8131,6 +8166,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "It's not so bad when it isn't trying to kill you."
 msgstr "죽이려고 들지만 않으면 그렇게 나쁘진 않아."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "I want to hug it, but the stone chafes."
+msgstr "껴안아주고 싶은데, 피부가 쓸릴 것 같아."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Now you're the one scared stiff!"
@@ -8500,6 +8540,11 @@ msgstr "여왕 의상이다."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It's a tree costume."
 msgstr "나무 의상이다."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COZY_BUNNYMAN"
+msgid "They look so cozy."
+msgstr "정말 폭신해 보여."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRABKING.GENERIC"
@@ -10120,6 +10165,31 @@ msgstr "멈춰! 때가 왔다! 망치 시간!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy hammer for hitting things."
 msgstr "뭐든 내려치기 좋은 무거운 망치다."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "If only it didn't also smell like a beefalo."
+msgstr "비팔로 냄새가 나지 않았다면 좋을 텐데."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_KELP"
+msgid "It's soggier than I would like."
+msgstr "너무 축축해."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_PETALS"
+msgid "At least is smells nicer than the beefalo pillow."
+msgstr "적어도 비팔로 베개보다 좋은 냄새가 나네."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Who would sleep on this?"
+msgstr "누가 이런 베개를 베고 자고 싶겠어?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAREBALL"
+msgid "At this point... I've eaten worse things."
+msgstr "이제는... 이것보다 더한 것도 먹어 봤어."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAWAIIANSHIRT"
@@ -12270,6 +12340,11 @@ msgstr "오 와우, 그건 그러니까..맛있어 보여, 웨버!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NATURE_BLUEPRINT"
 msgid "You really can't go wrong with flowers."
 msgstr "꽃을 고른 건 정말 잘 한 일이야."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTCAPHAT"
+msgid "No more bedhead for this scientist!"
+msgstr "이제 이 과학자는 아침에 머리 뻗칠 일 없어!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTLIGHT"
@@ -18391,6 +18466,91 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTP_FOOD3"
 msgid "Nothing fancy."
 msgstr "별것 아니다."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "That rabbit can really light up a room."
+msgstr "저 토끼는 말 그대로 빛을 발하네."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "That rabbit isn't lighting up anything."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I know just the place for it."
+msgstr "어디에 놓으면 딱 좋을지 알겠어."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "That rabbit can really light up a room."
+msgstr "저 토끼는 말 그대로 빛을 발하네."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "That rabbit isn't lighting up anything."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I know just the place for it."
+msgstr "어디에 놓으면 딱 좋을지 알겠어."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "It's peaceful, for now."
+msgstr "평화롭네. 일단은 말이야."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "I think we've all learned a lot here today."
+msgstr "오늘 우리 모두 많은 교훈을 배운 것 같아."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "It must be built, for science!"
+msgstr "과학을 위해 만들어야 해!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD1"
+msgid "It's made with carrots, so science says it must be healthy."
+msgstr "당근으로 만들어졌어. 그러니 과학에 따르면 건강에 좋겠지."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD2"
+msgid "Blue is the most scientific flavor."
+msgstr "파란색은 가장 과학적인 맛이야."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD3"
+msgid "A jiggly treat."
+msgstr "물컹물컹한 별미야."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_FOOD4"
+msgid "Bunny-hop right into my mouth!"
+msgstr "내 입으로 총총 뛰어들어 오렴!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Smells like veggie barbecue."
+msgstr "채소 바비큐 냄새가 나네."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "That rabbit looks hungry."
+msgstr "저 토끼는 배고픈 것 같아."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What to make..."
+msgstr "뭘 만들까..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTR_TOKEN"
+msgid "I should be careful who I hand this out to."
+msgstr "누구한테 줄지 신중히 생각해야겠어."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Smells like scorched fur."
@@ -18545,6 +18705,11 @@ msgstr "미안, 그건 못 입는구나."
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aw, looks like they all left..."
 msgstr "앗..다들 가버린 듯..."
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Wait, I'm not prepared yet!"
+msgstr "잠깐, 난 아직 준비 안 됐어!"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -19485,6 +19650,11 @@ msgstr "으으... 모, 몸을 데울 방법을 차, 찾아야겠어."
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_COMPASS_OUT"
 msgid "What...? I've never seen a compass do this before."
 msgstr "이게 뭐지...? 나침반이 이러는 건 처음 봐."
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_COZY_SLEEP"
+msgid "Wow, that was a good night's sleep!"
+msgstr "이야, 정말 푹 잤네!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_CRAFTING_FAIL"
@@ -21841,6 +22011,26 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "A rudder might come in handy."
 msgstr "키가 있으면 유용할 거야."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It's almost as good of a pillow as Woby!"
+msgstr "거의 워비만큼이나 좋은 베개야!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_KELP"
+msgid "Well, um... I guess there are worse things to use for a pillow?"
+msgstr "음... 세상에 이것보다 안 좋은 베개가 있을까?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Don't worry, I already checked it for bees."
+msgstr "벌이 없는지 벌써 확인했으니 걱정하지 마."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "It's not so bad, I once made a bed out of pine needles."
+msgstr "이 정도면 괜찮네. 예전에 솔잎으로 침대를 만든 적도 있는데."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BONESHARD"
 msgid "It's a bone!"
@@ -22781,6 +22971,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "She was pretty angry at us, wasn't she Woby?"
 msgstr "우리한테 제법 화났던 것 같아. 그렇지, 워비?"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "He looks so happy! And hoppy!"
+msgstr "정말 행복해 보여! 콩콩 튀어다니네!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "This statue is... a-maze-ing! Get it?"
@@ -23150,6 +23345,11 @@ msgstr "도대체 누가 이렇게 멋진 의상을 아무 데나 놔두고 간 
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Who would leave such a nice costume out in the wilderness?"
 msgstr "도대체 누가 이렇게 멋진 의상을 아무 데나 놔두고 간 거야?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COZY_BUNNYMAN"
+msgid "They seem friendly!"
+msgstr "우호적인 것 같아!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CRABKING.GENERIC"
@@ -24770,6 +24970,31 @@ msgstr "뭘 만들려면 부숴야 할 때도 있지."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy hammer for hitting things."
 msgstr "뭐든 내려치기 좋은 무거운 망치다."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It's almost as good of a pillow as Woby!"
+msgstr "거의 워비만큼이나 좋은 베개야!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_KELP"
+msgid "Well, um... I guess there are worse things to use for a pillow?"
+msgstr "음... 세상에 이것보다 안 좋은 베개가 있을까?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Don't worry, I already checked it for bees."
+msgstr "벌이 없는지 벌써 확인했으니 걱정하지 마."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "It's not so bad, I once made a bed out of pine needles."
+msgstr "이 정도면 괜찮네. 예전에 솔잎으로 침대를 만든 적도 있는데."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAREBALL"
+msgid "That looks like something Woby spit up."
+msgstr "워비가 뱉은 것처럼 생겼어."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAWAIIANSHIRT"
@@ -26915,6 +27140,11 @@ msgstr "이봐, 쿠키! 음... 뭘로 만들었을까, 정확하게?"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I hope it doesn't attract too many bees."
 msgstr "너무 많은 꿀벌이 꼬이지는 않았으면 해."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTCAPHAT"
+msgid "It's a little sleeping bag for your head."
+msgstr "머리를 위한 작은 침낭이야."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.NIGHTLIGHT"
@@ -32991,6 +33221,91 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTP_FOOD3"
 msgid "Who ate all the good parts?"
 msgstr "맛있는 부분을 누가 다 먹었지?"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It's nice to have a little extra firelight!"
+msgstr "불빛이 더 있으면 좋지!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Don't worry, Woby and I will find some kindling for it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I'll have it set up in a jiffy!"
+msgstr "바로 설치해야지!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It's nice to have a little extra firelight!"
+msgstr "불빛이 더 있으면 좋지!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Don't worry, Woby and I will find some kindling for it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I'll have it set up in a jiffy!"
+msgstr "바로 설치해야지!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "All fighting should be done with pillows."
+msgstr "베개로만 싸워야 해."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "It's okay, everyone is wearing their safety gear!"
+msgstr "괜찮아. 다들 안전 장비를 차고 있으니까!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I'll have it set up in a jiffy!"
+msgstr "바로 설치해야지!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD1"
+msgid "Time for a dessert break!"
+msgstr "디저트 휴식 시간!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD2"
+msgid "Is that what the moon tastes like?"
+msgstr "달에서는 이런 맛이 나나?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD3"
+msgid "It's so jiggly!"
+msgstr "물컹물컹해!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_FOOD4"
+msgid "They're not marshmallows, but they're still pretty good!"
+msgstr "마시멜로는 아니지만 그래도 꽤 맛있네!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "What a waste of good supplies..."
+msgstr "좋은 보급품이 아깝게 됐어..."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "That's a hungry-looking rabbit statue."
+msgstr "저 토끼 조각상은 배고파 보이네."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What should we make, Woby?"
+msgstr "워비, 우리 뭐 만들까?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTR_TOKEN"
+msgid "It's rude to hit people with gloves. You might start a fight!"
+msgstr "장갑으로 사람을 때리는 건 무례한 짓이야. 싸움이 벌어질 수도 있다고!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "This is exactly why learning fire safety is so important!"
@@ -33145,6 +33460,11 @@ msgstr "흠. 취향이 까다로운 녀석이네."
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Gone already? Time sure flies when you're having fun."
 msgstr "벌써 갔어? 재미있을 때는 시간이 빨리 가버리지."
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I can't just run in empty-handed!"
+msgstr "빈손으로 뛰어들 수는 없어!"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -34150,6 +34470,11 @@ msgstr "ㅎㄷㄷ... 어-언제 이렇게 추워졌어?"
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_COMPASS_OUT"
 msgid "I'm not sure how this simple mechanism managed to break, but..."
 msgstr "이 간단한 메커니즘을 어떻게 깰 수 있었는지 모르겠지만..."
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_COZY_SLEEP"
+msgid "Ah, I feel fit as a fiddle!"
+msgstr "아, 힘이 펄펄 넘치네!"
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_CRAFTING_FAIL"
@@ -36586,6 +36911,26 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "I can't believe I didn't think of it sooner."
 msgstr "이걸 이제서야 생각해내다니."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It looks quite comfortable."
+msgstr "꽤 편안해 보여."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_KELP"
+msgid "Who thought this was a good idea?"
+msgstr "대체 누가 이런 끔찍한 생각을 한 거지?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_PETALS"
+msgid "What a lovely fragrance!"
+msgstr "정말 좋은 향기야!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "It's horribly scratchy."
+msgstr "끔찍할 정도로 까칠까칠해."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BONESHARD"
 msgid "Whatever these bones belonged to is lost to time."
@@ -37526,6 +37871,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Why are there so many unpleasant statues?"
 msgstr "불쾌한 조각상이 왜 이렇게 많아?"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "I suppose it wasn't the most unpleasant diversion."
+msgstr "그렇게 나쁘지는 않은 소일거리였어."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "This will help remind me not to venture too far in the caves..."
@@ -37895,6 +38245,11 @@ msgstr "여왕의 의상 같아."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It looks like a... tree costume?"
 msgstr "이건... 나무 의상인가?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COZY_BUNNYMAN"
+msgid "Don't you have anything more important to do than lay about?"
+msgstr "게으름 피우는 것 말고 달리 할 일이 없는 모양이지?"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CRABKING.GENERIC"
@@ -39505,6 +39860,31 @@ msgstr "때로는 일을 되돌려야 하지."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy hammer for hitting things."
 msgstr "뭐든 내려치기 좋은 무거운 망치다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It looks quite comfortable."
+msgstr "꽤 편안해 보여."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_KELP"
+msgid "Who thought this was a good idea?"
+msgstr "대체 누가 이런 끔찍한 생각을 한 거지?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_PETALS"
+msgid "What a lovely fragrance!"
+msgstr "정말 좋은 향기야!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "It's horribly scratchy."
+msgstr "끔찍할 정도로 까칠까칠해."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAREBALL"
+msgid "Disgusting!"
+msgstr "역겹군!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAWAIIANSHIRT"
@@ -41635,6 +42015,11 @@ msgstr "그것들은 확실히 쿠키가 아니야."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.NATURE_BLUEPRINT"
 msgid "A pretty garden-variety outfit, wouldn't you say?"
 msgstr "예쁜데 흔해 빠진 복장, 그렇지 안하?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTCAPHAT"
+msgid "This is no time for a nap!"
+msgstr "낮잠 잘 시간이 없다!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.NIGHTLIGHT"
@@ -47736,6 +48121,91 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTP_FOOD3"
 msgid "This will fill me up for a while."
 msgstr "잠시 동안 배가 든든하겠네."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "More light is always welcome."
+msgstr "빛은 많을수록 좋지."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Oh botheration, the fire went out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I suppose I can spare a moment to set it up."
+msgstr "잠시 이걸 설치할 시간은 있겠지."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "More light is always welcome."
+msgstr "빛은 많을수록 좋지."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Oh botheration, the fire went out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I suppose I can spare a moment to set it up."
+msgstr "잠시 이걸 설치할 시간은 있겠지."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "It's not in use at the moment."
+msgstr "지금은 사용 중이 아니야."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "What an exhilarating lack of danger!"
+msgstr "아주 신나고 위험하지도 않아!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I suppose there are worse ways to spend one's time."
+msgstr "이게 최악의 소일거리는 아니지."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD1"
+msgid "Oh, well, perhaps just a quick slice or two."
+msgstr "아, 잠시 한두 조각만 먹지 뭐."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD2"
+msgid "I'd nearly forgotten what \"blue\" tasted like."
+msgstr "\"파란색\"이 어떤 맛인지 잊을 뻔했는데."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD3"
+msgid "What a fashionable jelly dessert!"
+msgstr "아주 멋진 젤리 디저트네!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_FOOD4"
+msgid "What could be better than food on a stick?"
+msgstr "막대기에 꽂힌 음식이 최고지."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "That's an unfortunate turn of events."
+msgstr "그것은 불행한 사건의 전환입니다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "That rabbit looks rather peckish."
+msgstr "저 토끼는 출출해 보여."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "I wonder what trinkets it has to offer?"
+msgstr "어떤 장신구를 주려나?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTR_TOKEN"
+msgid "I demand satisfaction!"
+msgstr "날 만족시켜줘!"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Oh well, nothing to be done now."
@@ -47890,6 +48360,11 @@ msgstr "아니, 불가능해."
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The festivities seem to be over."
 msgstr "축제는 끝난 것 같아."
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I think I am forgetting an important ingredient."
+msgstr "중요한 재료를 깜빡한 것 같아."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -48820,6 +49295,11 @@ msgstr "나... 얼어붙고 있어..."
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_COMPASS_OUT"
 msgid "Oh. I believe it broke."
 msgstr "아, 망가진 것 같아."
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_COZY_SLEEP"
+msgid "Ah, what lovely dreams I had!"
+msgstr "아, 정말 행복한 꿈이었어!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_CRAFTING_FAIL"
@@ -51211,6 +51691,26 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Aha! I thought my boat was missing something!"
 msgstr "아하! 내 배에 뭔가 빠진 것 같다 했지!"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Soft and dense, like a well-baked loaf of bread."
+msgstr "잘 구운 빵처럼 부드럽고 촘촘해."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_KELP"
+msgid "Wet and unpleasant, like an old spinach salad."
+msgstr "오래된 시금치 샐러드처럼 축축하고 불쾌해."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Light and airy, like a soufflé."
+msgstr "수플레처럼 가볍고 폭신해!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Stiff and scratchy, like a terrible biscotti."
+msgstr "형편없는 비스코티처럼 뻣뻣하고 까칠까칠해."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESHARD"
 msgid "I could make a hearty stock with these."
@@ -52151,6 +52651,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "I hope this won't bring us ill luck at sea..."
 msgstr "바다에서 불운을 불러오지 않았으면..."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "As far as battles go, it was probably the most pleasant."
+msgstr "전투 중에서는 가장 기분 좋은 경험이었어."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Perhaps now you can keep watch over my crock pot."
@@ -52520,6 +53025,11 @@ msgstr "여왕에 걸맞은 의상인 것 같군."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It seems to be a costume for a... tree?"
 msgstr "이건... 나무를 위한 의상인 것 같은데?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COZY_BUNNYMAN"
+msgid "What a cozy-looking fellow."
+msgstr "정말 푹신해 보이는 친구네."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CRABKING.GENERIC"
@@ -54140,6 +54650,31 @@ msgstr "소고기를 연하게 만들어 주지!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAMMER_MJOLNIR"
 msgid "It's a heavy duty tenderizer."
 msgstr "튼튼한 연육기다."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Soft and dense, like a well-baked loaf of bread."
+msgstr "잘 구운 빵처럼 부드럽고 촘촘해."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_KELP"
+msgid "Wet and unpleasant, like an old spinach salad."
+msgstr "오래된 시금치 샐러드처럼 축축하고 불쾌해."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Light and airy, like a soufflé."
+msgstr "수플레처럼 가볍고 폭신해!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Stiff and scratchy, like a terrible biscotti."
+msgstr "형편없는 비스코티처럼 뻣뻣하고 까칠까칠해."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAREBALL"
+msgid "The thought of anyone eating this wounds me deeply."
+msgstr "누가 이걸 먹는다는 생각만 해도 마음이 아파."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAWAIIANSHIRT"
@@ -56185,6 +56720,11 @@ msgstr "다음에는 같이 구워볼까, 농(아닌가)?"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Made from natural ingredients."
 msgstr "천연 성분으로 만들었나봐."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTCAPHAT"
+msgid "A short nap might be nice."
+msgstr "잠깐 눈 좀 붙이면 좋겠네."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTLIGHT"
@@ -61586,6 +62126,91 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTP_FOOD3"
 msgid "I'd never turn my nose up at street food."
 msgstr "길거리 음식은 언제나 환영이지."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Ah, some lovely mood lighting!"
+msgstr "아, 분위기 좋은 조명이네!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "C'est dommage, its little fire has burnt out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Now, to find the perfect placement for it."
+msgstr "이제 어디 놓으면 딱 좋을지 찾아야겠어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Ah, some lovely mood lighting!"
+msgstr "아, 분위기 좋은 조명이네!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "C'est dommage, its little fire has burnt out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Now, to find the perfect placement for it."
+msgstr "이제 어디 놓으면 딱 좋을지 찾아야겠어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "No one seems to be using it right now."
+msgstr "아무도 안 쓰고 있는 것 같아."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "It's all fun and games until someone gets a mouthful of pillow fluff."
+msgstr "누구 입에 베개 솜이 왕창 들어가기 전까지는 재미있지."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I have all my ingredients right here."
+msgstr "재료가 다 있어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD1"
+msgid "It's been so long since I've had such a scrumptious bite of carrot cake!"
+msgstr "이렇게 맛난 당근 케이크를 먹어보는 건 오랜만이야!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD2"
+msgid "A part of me expected it to be cheesecake."
+msgstr "한편으로는 치즈케이크이기를 바랐는데."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD3"
+msgid "A feast for the eyes and my stomach."
+msgstr "맛도 있고 눈요기에도 좋네."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_FOOD4"
+msgid "Perfectly doughy."
+msgstr "쫄깃쫄깃한 게 완벽해."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "A bit too well-done."
+msgstr "너무 익었어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Are you hungry, monsieur?"
+msgstr "배고픈가요, 무슈?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "I do enjoy a good rabbit stew. I should show them my appreciation."
+msgstr "잘 만든 토끼 스튜는 정말 맛있지. 감사를 표해야겠어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTR_TOKEN"
+msgid "Surely we can settle this without violence?"
+msgstr "평화롭게 해결할 수 없을까?"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Flame broiled."
@@ -61740,6 +62365,11 @@ msgstr "이런 걸 옮기는 훈련은 안 받았군."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It seems the ravens hath returned to Odin."
 msgstr "까마귀가 오딘에게 돌아온 것 같아."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Thou wouldst send me into the fray unarmed?"
+msgstr "무기도 없이 날 전장으로 내보내겠다고?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -62680,6 +63310,11 @@ msgstr "덜덜덜이군요! 모피가 어디 있지요!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_COMPASS_OUT"
 msgid "I fear I'm going to lose my way!"
 msgstr "길을 잃을까 두려워!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_COZY_SLEEP"
+msgid "A well-rested warrior am I!"
+msgstr "이 전사는 편안한 휴식을 취했도다!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CRAFTING_FAIL"
@@ -65011,6 +65646,26 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It shall be done, with haste!"
 msgstr "즉시 만들겠다!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It is filled with the hair of the woolen beasties."
+msgstr "북실북실한 짐승의 털로 채워져 있군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_KELP"
+msgid "'Tis a pillow from Njoror's domain."
+msgstr "뇨르드의 영역에서 난 베개군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_PETALS"
+msgid "As good a use as any for flimsy petals."
+msgstr "연약한 꽃잎의 좋은 사용처로군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Only the strong-willed could sleep on such a thing."
+msgstr "오직 강한 의지를 가진 이만이 저걸 베고 잘 수 있으리라."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BONESHARD"
 msgid "Bits of our enemies."
@@ -65951,6 +66606,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "To honor our victory at sea!"
 msgstr "바다에서 거둔 승리를 기념하는 것이군!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Their weapons were strange, but they possessed a warrior's spirit."
+msgstr "저들이 가진 무기는 기묘하나, 저들에게는 전사의 영혼이 깃들어 있도다."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "The beast guarded its treasure well, but not well enough."
@@ -66320,6 +66980,11 @@ msgstr "내게는 이미 의상... 아니, 전사의 옷이 있다!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COSTUME_TREE_BODY"
 msgid "I have my own costu- that is, warrior's garb!"
 msgstr "내게는 이미 의상... 아니, 전사의 옷이 있다!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COZY_BUNNYMAN"
+msgid "I am not fooled by their cozy exterior."
+msgstr "나는 저 포근한 겉모습에 속지 않는다."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRABKING.GENERIC"
@@ -67940,6 +68605,31 @@ msgstr "전투보다는 노동에 어울리는군요."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I am worthy!"
 msgstr "나에겐 자격이 있다!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It is filled with the hair of the woolen beasties."
+msgstr "북실북실한 짐승의 털로 채워져 있군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_KELP"
+msgid "'Tis a pillow from Njoror's domain."
+msgstr "뇨르드의 영역에서 난 베개군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_PETALS"
+msgid "As good a use as any for flimsy petals."
+msgstr "연약한 꽃잎의 좋은 사용처로군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Only the strong-willed could sleep on such a thing."
+msgstr "오직 강한 의지를 가진 이만이 저걸 베고 잘 수 있으리라."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAREBALL"
+msgid "Ha! I am no coward, pass it this way!"
+msgstr "흥! 난 겁쟁이가 아니다. 이리 줘봐라!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAWAIIANSHIRT"
@@ -70070,6 +70760,11 @@ msgstr "작은 짐승처럼 보이지만 사납지는 않아."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers won't protect you in battle!"
 msgstr "꽃이 전투에서 널 보호하지는 않아!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTCAPHAT"
+msgid "Prepare for slumber!"
+msgstr "잠잘 준비를 해라!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.NIGHTLIGHT"
@@ -76136,6 +76831,91 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTP_FOOD3"
 msgid "I shall consume it!"
 msgstr "내가 먹어야지!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Let us feast by the rabbit's torchlight!"
+msgstr "토끼의 횃불 아래에서 연회를 열자!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Its light burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Let us set the rabbit torch alight!"
+msgstr "토끼 횃불에 불을 붙이자!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Let us feast by the rabbit's torchlight!"
+msgstr "토끼의 횃불 아래에서 연회를 열자!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Its light burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Let us set the rabbit torch alight!"
+msgstr "토끼 횃불에 불을 붙이자!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Who will face me in the field of battle?"
+msgstr "누가 전장에서 나와 맞서겠는가?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "There art a battle underway!"
+msgstr "전투가 벌어지고 있다!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "A test of might and bravery!"
+msgstr "힘과 용기의 시련이군!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD1"
+msgid "Bah! 'Tis naught but a meat-shaped veggie cake!"
+msgstr "흥! 고기 모양을 한 채소 케이크에 불과하군!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD2"
+msgid "I do not trust whatever lies within."
+msgstr "안에 뭐가 들었는지 몰라도, 난 못 믿겠다."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD3"
+msgid "A delicious sight indeed!"
+msgstr "정말 군침 도는 광경이로군!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_FOOD4"
+msgid "A trio of tasty morsels."
+msgstr "맛있는 음식 조각이 세 개 있군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "It must have displeased the gods."
+msgstr "신들을 노하게 한 게 틀림없다."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "What should be sacrificed to the beast's maw?"
+msgstr "짐승의 아가리에 어떤 제물을 바쳐야 할까?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "The rabbit seems pleased with my offering."
+msgstr "토끼가 내 제물에 흡족해 하는 모양이다."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTR_TOKEN"
+msgid "Who dares to face me in the ring?"
+msgstr "누가 감히 경기장에서 나와 맞서겠는가?"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "It seems someone offered it a flame. I do not think it liked it."
@@ -76290,6 +77070,11 @@ msgstr "아니, 그러면 우스꽝스러울 거다."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Finally. It looks like the birds have dispersed."
 msgstr "마지막이다. 새가 흩뿌려 놓은 것 같아."
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "If I'm going to humiliate myself, I can at least do it properly."
+msgstr "이왕 수치스러운 일을 할 거라면 적어도 제대로 해야겠지."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -77295,6 +78080,11 @@ msgstr "심장이 차가워지고 있군."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COMPASS_OUT"
 msgid "The compass has fallen to pieces."
 msgstr "나침반이 조각 났군."
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COZY_SLEEP"
+msgid "That was a marginally more restful sleep than usual."
+msgstr "평소보다 아주 조금 더 편안한 잠이었어."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAFTING_FAIL"
@@ -79646,6 +80436,26 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Do I look like a common shipwright? Oh, very well..."
 msgstr "내가 조선공 따위로 보이나? 아, 어쩔 수 없지..."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "What is the thread count on this?"
+msgstr "이건 몇 수짜리 원단으로 만들었지?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_KELP"
+msgid "Looking at it is making me seasick."
+msgstr "보기만 해도 뱃멀미가 나는군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Can you rightfully call a sack of potpourri a pillow?"
+msgstr "꽃잎을 채운 자루도 베개라고 할 수 있나?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "It will either protect me or cut me to ribbons."
+msgstr "날 지켜주든지 아니면 날 조각조각 잘라버리겠군."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BONESHARD"
 msgid "Grind them bones."
@@ -80586,6 +81396,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Such a fowl-tempered bird."
 msgstr "성격이 더러운 새군."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Who put this ridiculous thing here?"
+msgstr "누가 이 우스꽝스러운 물건을 여기 갖다 놓은 거지?"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Always keep things close to the chest, right pal?"
@@ -80955,6 +81770,11 @@ msgstr "의상은 제공되는 모양이군."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It seems the costumes are provided."
 msgstr "의상은 제공되는 모양이군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COZY_BUNNYMAN"
+msgid "I could have sworn I left you all underground."
+msgstr "분명 너희를 전부 지하에 놔두고 온 줄 알았는데."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CRABKING.GENERIC"
@@ -82565,6 +83385,31 @@ msgstr "다른 자의 작업을 망치는 것은 기분이 좋지."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I would never resort to something so brutish."
 msgstr "저런 무식한 것은 절대로 쓰지 않겠어."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "What is the thread count on this?"
+msgstr "이건 몇 수짜리 원단으로 만들었지?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_KELP"
+msgid "Looking at it is making me seasick."
+msgstr "보기만 해도 뱃멀미가 나는군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Can you rightfully call a sack of potpourri a pillow?"
+msgstr "꽃잎을 채운 자루도 베개라고 할 수 있나?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "At least it will make a satisfying thwack."
+msgstr "적어도 만족스러운 찰싹 소리가 나긴 하겠군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAREBALL"
+msgid "You must be joking."
+msgstr "지금 농담하는 거지?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT"
@@ -84695,6 +85540,11 @@ msgstr "안 먹어."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Florals. How saccharine."
 msgstr "꽃무늬네. 달디 달다."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTCAPHAT"
+msgid "I can't remember the last time I slept well."
+msgstr "마지막으로 푹 잔 게 언제인지 기억도 안 나는군."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTLIGHT"
@@ -90766,6 +91616,91 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTP_FOOD3"
 msgid "Nothing fancy, but it will do."
 msgstr "대단하진 않지만 어쩔 수 없지."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Such unrefined decor."
+msgstr "아주 투박한 장식이군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Now it's not even useful."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Someone should set that up."
+msgstr "누가 저걸 설치해야겠는걸."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Such unrefined decor."
+msgstr "아주 투박한 장식이군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Now it's not even useful."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Someone should set that up."
+msgstr "누가 저걸 설치해야겠는걸."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Absolutely not."
+msgstr "절대 안 돼."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "I do enjoy watching people make fools of themselves."
+msgstr "사람들이 바보짓 하는 걸 구경하는 게 재밌긴 하지."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Surely that's a job for someone else?"
+msgstr "다른 사람이 하면 안 되나?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD1"
+msgid "Cake shaped like a rabbit, how novel."
+msgstr "토끼처럼 생긴 케이크라니, 뻔하기도 하지."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD2"
+msgid "What a mysterious flavor."
+msgstr "정말 신비로운 맛이군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD3"
+msgid "A small piece of fruit, imprisoned in gelatin."
+msgstr "젤라틴 안에 갇힌 작은 과일 조각이군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_FOOD4"
+msgid "Far too sticky for my liking."
+msgstr "내 취향에 비해 너무 쫀득해."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "A pity."
+msgstr "한심하군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "It requires an offering."
+msgstr "제물을 요구하는군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What do you have in store for me?"
+msgstr "내게 뭘 줄 거냐?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOTR_TOKEN"
+msgid "Care for a gentleman's duel?"
+msgstr "신사로서 나와 결투하겠나?"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Seems not everyone appreciates the little thieves."
@@ -90920,6 +91855,11 @@ msgstr "그냥 우리가 가지고 있는 게 낫겠어."
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, did all the birds leave?"
 msgstr "앗, 새들이 다 떠났나?"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "We need a pillow first!"
+msgstr "우선 베개가 필요해!"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -91875,6 +92815,11 @@ msgstr "추워... 거미 털은 안 따뜻하다."
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_COMPASS_OUT"
 msgid "Uh oh, I broke it."
 msgstr "어라, 망가졌다."
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_COZY_SLEEP"
+msgid "We had such a good sleep!"
+msgstr "잘 잤다!"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_CRAFTING_FAIL"
@@ -94201,6 +95146,26 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "We're good at spinning things!"
 msgstr "이걸 만들면 배를 빙글빙글 돌릴 수 있어!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "A fluffy puffy pillow!"
+msgstr "폭신폭신 복슬복슬 베개야!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_KELP"
+msgid "Is that pillow... dripping?"
+msgstr "지금 저 베개에서... 물이 뚝뚝 떨어지는 거야?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_PETALS"
+msgid "It's the nicest pillow we've ever smelled!"
+msgstr "지금까지 냄새를 맡아 본 베개 중 가장 좋아!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Ah! This one's really scratchy..."
+msgstr "아! 이 베개는 무척 까칠까칠해..."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESHARD"
 msgid "Boney bits."
@@ -95141,6 +96106,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Not such a big bad bird now!"
 msgstr "이제는 커다랗고 못된 새가 아니다!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "It's our most huggable statue."
+msgstr "이렇게 껴안기 좋은 조각상은 처음이야."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "We feel a bit bad for stealing their treasure."
@@ -95510,6 +96480,11 @@ msgstr "연극할 때 입으면 되겠다!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COSTUME_TREE_BODY"
 msgid "We can wear it in the play!"
 msgstr "연극할 때 입으면 되겠다!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COZY_BUNNYMAN"
+msgid "Can we join your slumber party?"
+msgstr "우리도 밤샘 파티에 참여해도 돼?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRABKING.GENERIC"
@@ -97130,6 +98105,31 @@ msgstr "혼돈과 파괴다!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMMER_MJOLNIR"
 msgid "We're not strong enough to use it."
 msgstr "우리는 너무 약해서 이걸 사용할 수 없다."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "A fluffy puffy pillow!"
+msgstr "폭신폭신 복슬복슬 베개야!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_KELP"
+msgid "Is that pillow... dripping?"
+msgstr "지금 저 베개에서... 물이 뚝뚝 떨어지는 거야?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_PETALS"
+msgid "It's the nicest pillow we've ever smelled!"
+msgstr "지금까지 냄새를 맡아 본 베개 중 가장 좋아!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Ah! This one's really scratchy..."
+msgstr "아! 이 베개는 무척 까칠까칠해..."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAREBALL"
+msgid "Yuck! What a mean dare!"
+msgstr "우웩! 그런 걸 시키다니 못됐어!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAWAIIANSHIRT"
@@ -99260,6 +100260,11 @@ msgstr "알고보니 정말 좋은 거였어!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers are always nice."
 msgstr "꽃은 언제나 좋아."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTCAPHAT"
+msgid "Father used to wear a nightcap just like that."
+msgstr "아빠가 쓰던 취침용 모자랑 비슷해."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTLIGHT"
@@ -105326,6 +106331,91 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTP_FOOD3"
 msgid "Smells good."
 msgstr "맛있는 냄새가 난다."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It makes us feel safe and cozy."
+msgstr "안전하고 포근한 느낌이 들어."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "We still like it, even without the light!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "It'd be a good night light."
+msgstr "야간등으로 쓰면 좋겠어."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It makes us feel safe and cozy."
+msgstr "안전하고 포근한 느낌이 들어."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "We still like it, even without the light!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "It'd be a good night light."
+msgstr "야간등으로 쓰면 좋겠어."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Let's start a pillow fight!"
+msgstr "베개 싸움 하자!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "We want to play too!"
+msgstr "우리도 놀고 싶어!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "It's okay Ms. Wickerbottom, we'll only be fighting with pillows!"
+msgstr "괜찮아요, 위커바텀 씨. 베개로만 싸울 거예요!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD1"
+msgid "It looks like cake, but it smells like veggies..."
+msgstr "케이크처럼 생겼는데 채소 냄새가 나..."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD2"
+msgid "Mmm, the moon is tasty!"
+msgstr "으음, 달은 참 맛있구나!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD3"
+msgid "We kinda want to poke it."
+msgstr "우리 찔러보고 싶어."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_FOOD4"
+msgid "We can eat one puff, and share the rest with our friends!"
+msgstr "우리가 하나 먹고, 나머지는 친구들한테 나눠주자!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Oh no!"
+msgstr "이런!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Please don't bite us, we'll find something tastier for you to eat!"
+msgstr "제발 물지 마. 우리가 더 맛있는 먹이를 찾아 줄게!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Do you have any fun things for us to play with?"
+msgstr "우리한테 줄 재밌는 장난감 있어?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTR_TOKEN"
+msgid "We shouldn't start fights... but do pillow fights count?"
+msgstr "싸움을 벌이면 안 돼... 그런데 베개 싸움도 포함되나?"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "I guess not everyone likes catcoons..."
@@ -105480,6 +106570,11 @@ msgstr "아니, 그건 바보 같은 짓이야."
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The ravens have deserted this place... I think I'll miss them."
 msgstr "까마귀들이 여길 떠났어... 보고 싶을 거야."
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I don't even have a pillow to fight with..."
+msgstr "싸울 때 쓸 베개도 없어..."
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -106435,6 +107530,11 @@ msgstr "뼛속까지 춥네."
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_COMPASS_OUT"
 msgid "It feels the force of the earth no more."
 msgstr "지구의 힘을 더 이상 느끼지 못해."
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_COZY_SLEEP"
+msgid "Such a peaceful slumber... but now I must wake."
+msgstr "정말 평화로운 잠이었어... 하지만 이제 일어나야 해."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_CRAFTING_FAIL"
@@ -108806,6 +109906,26 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "I could build a rudder, I suppose..."
 msgstr "키를 만들 수 있겠네..."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "This one is just right. Except for the smell."
+msgstr "이게 딱 좋네. 냄새만 빼면 말이야."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_KELP"
+msgid "This one is too... kelpy."
+msgstr "이건 너무... 다시마스러워."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_PETALS"
+msgid "This one is too soft."
+msgstr "이건 너무 부드러워."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "This one is too hard."
+msgstr "이건 너무 딱딱해."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BONESHARD"
 msgid "Choking hazard."
@@ -109746,6 +110866,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "No more will she soar over the gloomy shoals."
 msgstr "이제는 암울한 모래톱 위로 날아오르지 못하겠지."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "A fleeting moment of joy, captured in stone."
+msgstr "찰나의 즐거움을 돌 안에 담았구나."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "A testament to a lifetime spent alone in the dark."
@@ -110115,6 +111240,11 @@ msgstr "옷 입히기 놀이 할까, 아비게일?"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Shall we play a game of dress-up, Abigail?"
 msgstr "옷 입히기 놀이 할까, 아비게일?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COZY_BUNNYMAN"
+msgid "Poor creatures, sleep is only a temporary escape."
+msgstr "불쌍하기도 하지. 잠은 일시적인 도피일 뿐이야."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CRABKING.GENERIC"
@@ -111725,6 +112855,31 @@ msgstr "이 망치는 뭘 만들기보다는... 파괴하는 데 쓰이지..."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMMER_MJOLNIR"
 msgid "What a brutal implement."
 msgstr "야만적인 무기야."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "This one is just right. Except for the smell."
+msgstr "이게 딱 좋네. 냄새만 빼면 말이야."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_KELP"
+msgid "This one is too... kelpy."
+msgstr "이건 너무... 다시마스러워."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_PETALS"
+msgid "This one is too soft."
+msgstr "이건 너무 부드러워."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "This one is too hard."
+msgstr "이건 너무 딱딱해."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAREBALL"
+msgid "What a horrid thing!"
+msgstr "끔찍하기도 하지!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAWAIIANSHIRT"
@@ -113855,6 +115010,11 @@ msgstr "웨버는 호기심이 넘치는 시선으로 세상을 바라보지."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Do you like this one, Abigail?"
 msgstr "이게 마음에 들어, 아비게일?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTCAPHAT"
+msgid "There are so few comforts to be found in this wretched place."
+msgstr "이 끔찍한 곳에서 편안함은 찾아보기 힘들지."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTLIGHT"
@@ -119921,6 +121081,91 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD3"
 msgid "It'll keep me alive a little longer."
 msgstr "내 생명을 조금 연장시켜주겠지."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "The soft glow is... comforting."
+msgstr "저 부드러운 빛을 보면... 마음이 편안해져."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "What little comfort it gave is now gone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I should find a place for it to belong."
+msgstr "어디에 놔야 할지 찾아봐야겠어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "The soft glow is... comforting."
+msgstr "저 부드러운 빛을 보면... 마음이 편안해져."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "What little comfort it gave is now gone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I should find a place for it to belong."
+msgstr "어디에 놔야 할지 찾아봐야겠어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "The ring is silent and still, for now."
+msgstr "지금은 경기장에 고요와 적막뿐이야."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Can I... play next?"
+msgstr "다음에는... 나도 해도 돼?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "It might be... f-fun?"
+msgstr "혹시... 재, 재밌지 않을까?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD1"
+msgid "I think... I would like a bit of cake."
+msgstr "음... 케이크를 좀 먹고 싶어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD2"
+msgid "Now my lips have turned blue..."
+msgstr "입술이 파란색이 됐네..."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD3"
+msgid "I'm sorry Abigail, I'd share if I could."
+msgstr "미안해 아비게일, 나도 할 수 있으면 나눠먹고 싶어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD4"
+msgid "It's sticky."
+msgstr "쫀득해."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Poor Mr. Rabbit."
+msgstr "불쌍한 토끼 씨."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Are you hungry, Mr. Rabbit?"
+msgstr "배고프신가요, 토끼 씨?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "I should pay my respects."
+msgstr "예를 표해야겠어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_TOKEN"
+msgid "A duel to the death might help pass the time."
+msgstr "죽음과 결투를 하면 시간 때우기 좋을지도 몰라."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "No more."
@@ -120075,6 +121320,11 @@ msgstr "그건 마네킹에 어울리지 않아."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "How disappointing, the corvids seem to have migrated elsewhere."
 msgstr "실망스럽게도 까마귀는 다른 곳으로 이사갔나봐."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I will require a pillow to participate."
+msgstr "참가하려면 베개가 필요해."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -121070,6 +122320,11 @@ msgstr "주변 온도가 낮아졌어."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COMPASS_OUT"
 msgid "My compass has become demagnetized."
 msgstr "나침반의 자성이 사라졌는데."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COZY_SLEEP"
+msgid "I suppose it was worth a try."
+msgstr "시도해 볼만한 가치는 있었어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CRAFTING_FAIL"
@@ -123396,6 +124651,26 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It should improve the boat's maneuverability."
 msgstr "배의 기동성을 개선해 주겠군."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "The woolen fibers of a beefalo's coat make for excellent padding."
+msgstr "비팔로 털의 섬유는 베개 속을 채우기에 좋지."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_KELP"
+msgid "What a fascinating use of kelp."
+msgstr "다시마를 이렇게 쓰다니, 아주 흥미롭군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_PETALS"
+msgid "It gives off a delicate floral aroma."
+msgstr "섬세한 꽃 향기가 나는군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "This seems ill-suited for a restful night's sleep."
+msgstr "밤에 푹 잘 때 쓰기에는 부적합해 보여."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BONESHARD"
 msgid "Remnants of a life well lived."
@@ -124336,6 +125611,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "I'll have to add an appendix to \"Birds of the World\"."
 msgstr "\"세계의 새들\"에 부록을 추가해야겠군."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Those lagomorphs are quite the rascals."
+msgstr "저 토끼목 포유동물은 참 짓궂은 녀석들이군."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "A rather convincing likeness."
@@ -124705,6 +125985,11 @@ msgstr "연극 의상인가 보군."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It appears to be a theatrical costume."
 msgstr "연극 의상인가 보군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COZY_BUNNYMAN"
+msgid "They look quite comfortable."
+msgstr "꽤 편안해 보이는군."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CRABKING.GENERIC"
@@ -126315,6 +127600,31 @@ msgstr "노동자의 도구인데."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMMER_MJOLNIR"
 msgid "That looks much too strenuous."
 msgstr "너무 힘들 것 같은데."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "The woolen fibers of a beefalo's coat make for excellent padding."
+msgstr "비팔로 털의 섬유는 베개 속을 채우기에 좋지."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_KELP"
+msgid "What a fascinating use of kelp."
+msgstr "다시마를 이렇게 쓰다니, 아주 흥미롭군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_PETALS"
+msgid "It gives off a delicate floral aroma."
+msgstr "섬세한 꽃 향기가 나는군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "This seems ill-suited for a restful night's sleep."
+msgstr "밤에 푹 잘 때 쓰기에는 부적합해 보여."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAREBALL"
+msgid "A dare? What childish nonsense."
+msgstr "그걸 먹으라고? 유치하기는."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAWAIIANSHIRT"
@@ -128445,6 +129755,11 @@ msgstr "흥미로워! 먹으면 거미류이 형태로 모양을 바꾸나봐."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NATURE_BLUEPRINT"
 msgid "How delightful!"
 msgstr "정말 기쁘다고!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTCAPHAT"
+msgid "I'm afraid I have no use for it."
+msgstr "내겐 필요 없는 물건이야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTLIGHT"
@@ -134511,6 +135826,91 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD3"
 msgid "I do enjoy a snack now and then."
 msgstr "나도 가끔은 간식을 즐긴다고."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It provides ample reading light."
+msgstr "독서하기에 충분히 밝군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "It appears my reading light has run out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "It would look quite nice right over there."
+msgstr "저기 놓으면 딱 좋겠어."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It provides ample reading light."
+msgstr "독서하기에 충분히 밝군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "It appears my reading light has run out."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "It would look quite nice right over there."
+msgstr "저기 놓으면 딱 좋겠어."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Ah. Silent, for now."
+msgstr "아. 지금은 조용하군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Now now, let's not get too rough!"
+msgstr "자, 자. 너무 거칠게 하지는 마!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Let's build this far away from my reading area, shall we?"
+msgstr "내 독서 구역에서 멀리 떨어진 곳에 짓자고."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD1"
+msgid "Putting carrots in your dessert does not make it healthy, I'm afraid."
+msgstr "디저트에 당근을 넣는다고 해서 몸에 좋아지는 건 아니야."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD2"
+msgid "\"Blue\" is an odd adjective for a flavor, but I can't disagree."
+msgstr "\"파란색 맛\"이라니 말이 좀 이상하지만, 틀린 말도 아니야."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD3"
+msgid "What a fascinating confection!"
+msgstr "아주 놀라운 간식이군!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD4"
+msgid "Cakes on a stick, what next?"
+msgstr "케이크를 막대기에 꽂다니. 말세야, 말세."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Oh dear."
+msgstr "맙소사."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "The expression on this edifice suggests an offering of food may be appropriate."
+msgstr "저 건물의 표정을 보니 음식을 바치는 게 좋을 것 같아."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "We must show our appreciation to the local lagomorphs."
+msgstr "이곳 토끼목 포유동물에게 감사를 표해야겠어."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_TOKEN"
+msgid "Traditionally, being struck with a glove implies a challenge to a duel."
+msgstr "전통적으로 장갑으로 때리는 건 결투를 신청한다는 의미지."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "The fire was overwhelming."
@@ -134665,6 +136065,11 @@ msgstr "아니, 나한테 더 어울려."
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, looks like they all left."
 msgstr "앗..다들 가버렸나봐..."
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Hey, don't I need a pillow first?"
+msgstr "우선 베개를 구해야 하지 않나?"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -135590,6 +136995,11 @@ msgstr "추운걸! 타는걸!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COMPASS_OUT"
 msgid "Arrgh the needle is stuck!"
 msgstr "바늘이 안 움직여!"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COZY_SLEEP"
+msgid "Wow, I think I needed that!"
+msgstr "우와, 많이 피곤했나 봐!"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CRAFTING_FAIL"
@@ -137956,6 +139366,26 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Fiiiine, I'll put the stupid rudder on the stupid boat."
 msgstr "어휴, 알겠어. 내가 그 바보 같은 배에 이 바보 같은 키 설치할게."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Bernie's cuddlier than a hairy old pillow."
+msgstr "낡은 털북숭이 베개보다 버니가 더 폭신폭신해."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_KELP"
+msgid "Ew, this pillow's full of wet junk!"
+msgstr "우웩, 이 베개는 축축한 쓰레기로 가득하잖아!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_PETALS"
+msgid "I guess that's one use for flowers."
+msgstr "꽃을 이렇게 쓸 수도 있겠네."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Pretty sure this is the worst pillow ever."
+msgstr "아마 사상 최악의 베개일 거야."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BONESHARD"
 msgid "I don't think they make good tinder."
@@ -138896,6 +140326,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "She was a pretty tough old bird."
 msgstr "제법 강한 새였지."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Good times."
+msgstr "좋은 한 때였지."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Pfft, I never needed a guardian. And I turned out fine!"
@@ -139265,6 +140700,11 @@ msgstr "출연진의 일부면 극장에 출입 금지당할 염려도 없지!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COSTUME_TREE_BODY"
 msgid "They can't ban you from the theater if you're part of the cast!"
 msgstr "출연진의 일부면 극장에 출입 금지당할 염려도 없지!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COZY_BUNNYMAN"
+msgid "Ha, look at their dumb little faces!"
+msgstr "하, 저 멍청한 얼굴 좀 봐!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CRABKING.GENERIC"
@@ -140875,6 +142315,31 @@ msgstr "난 뾰족한 도구가 더 좋은걸."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMMER_MJOLNIR"
 msgid "That weapon looks boring."
 msgstr "따분해 보이는 무기인걸."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Bernie's cuddlier than a hairy old pillow."
+msgstr "낡은 털북숭이 베개보다 버니가 더 폭신폭신해."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_KELP"
+msgid "Ew, this pillow's full of wet junk!"
+msgstr "우웩, 이 베개는 축축한 쓰레기로 가득하잖아!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_PETALS"
+msgid "I guess that's one use for flowers."
+msgstr "꽃을 이렇게 쓸 수도 있겠네."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "The worst pillow ever. I can't wait to hit someone with it!"
+msgstr "최악의 베개야. 어서 이걸로 누굴 후려치고 싶어!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAREBALL"
+msgid "Haha, nasty! Wait, I'm not the one who has to eat it, am I?"
+msgstr "하하, 역겨워라! 잠깐, 내가 먹어야 하는 건 아니지?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAWAIIANSHIRT"
@@ -143005,6 +144470,11 @@ msgstr "하나는 윌슨 줘, 저어어엉말 시도해보고 싶을 거야! 헤
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Once the flowers dry out they'll make nice kindling."
 msgstr "꽃이 마르면 불쏘시개로 쓰기 좋을 걸."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTCAPHAT"
+msgid "I've got a nightcap, now where's my candlestick?"
+msgstr "취침용 모자는 있는데, 내 양초는 어디 있지?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTLIGHT"
@@ -149076,6 +150546,91 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD3"
 msgid "A little snack to fill my belly."
 msgstr "내 배를 채울 작은 간식인걸."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Everything looks better in the firelight."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Looks like it needs some more fire!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "The more firelight around here, the better!"
+msgstr "불빛은 많을수록 좋아!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Everything looks better in the firelight."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Looks like it needs some more fire!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "The more firelight around here, the better!"
+msgstr "불빛은 많을수록 좋아!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Alright, who wants to get the stuffing knocked out of them?"
+msgstr "좋아, 누굴 흠씬 때려줄까?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Yeah! Get 'em!!"
+msgstr "그래! 공격해!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Oh, this'll be fun..."
+msgstr "아, 재밌겠네..."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD1"
+msgid "Nice, the rabbits brought cake!"
+msgstr "좋아, 토끼들이 케이크를 가져왔어!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD2"
+msgid "It sure tastes... blue?"
+msgstr "정말... 파란색 맛이네."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD3"
+msgid "Eww, it looks like a big jelly eyeball."
+msgstr "우웩. 커다란 젤리 눈알 같아 보여."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_FOOD4"
+msgid "I'll just pop those in my mouth, quick as a bunny."
+msgstr "토끼처럼 빠르게 입에 넣을 거야."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Now I'm smiling!"
+msgstr "저걸 보니 미소가 떠오르는걸."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "I get the feeling it's hungry for something."
+msgstr "뭔가 먹고 싶어하는 것 같아."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "What's it so smiley about?"
+msgstr "왜 저렇게 빙긋 웃고 있지?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTR_TOKEN"
+msgid "I'm gonna go slap the biggest rabbit I can find!"
+msgstr "가장 큰 토끼를 후려칠 거야!"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Heh."
@@ -149230,6 +150785,11 @@ msgstr "농담이야!"
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like the party's over. Back to work, everyone!"
 msgstr "파티는 끝난 것 같아. 다시 일하자, 친구들!"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Err, I think I'm missin' something."
+msgstr "어... 뭔가 빼먹은 것 같은데."
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -150165,6 +151725,11 @@ msgstr "덜덜덜! 여긴 꽁꽁 언 강철처럼 춥다!"
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_COMPASS_OUT"
 msgid "Shoddy handmade junk!"
 msgstr "조잡한 수제 고물이군!"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_COZY_SLEEP"
+msgid "I feel all bright-eyed and bushy-tailed!"
+msgstr "기운이 넘쳐!"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_CRAFTING_FAIL"
@@ -152531,6 +154096,26 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Time to put this doo-hickey to the test."
 msgstr "그럼 어디 한번 사용해 볼까?"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It's cushy enough for me."
+msgstr "이 정도면 충분히 푹신해."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_KELP"
+msgid "It wouldn't be my first choice of pillow stuffing."
+msgstr "베개를 채우기에 좋은 재료는 아닌 것 같은데."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Way too flimsy, there's no support at all!"
+msgstr "너무 약해. 푹푹 꺼지잖아!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Aww, it kinda makes me nostalgic for the old steel mill."
+msgstr "아아, 옛날 제철소 추억이 떠오르네."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BONESHARD"
 msgid "Whew. These got crunched real good."
@@ -153471,6 +155056,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "It tried to mess with the wrong gal."
 msgstr "괴롭힐 상대를 잘못 골랐지."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "It doesn't look like he has a care in the world."
+msgstr "아무런 걱정거리도 없는 것 같아."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "What a stone-faced brute."
@@ -153840,6 +155430,11 @@ msgstr "여왕 의상인 것 같아."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Looks like a tree costume."
 msgstr "나무 의상인 것 같아."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COZY_BUNNYMAN"
+msgid "What a bunch of slackers!"
+msgstr "이런 게으름뱅이들!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CRABKING.GENERIC"
@@ -155460,6 +157055,31 @@ msgstr "내가 사용할 줄 아는 거다!"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I'm most effective with a tool in hand."
 msgstr "난 공구를 들고 있을 때 가장 위력을 발휘한다."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It's cushy enough for me."
+msgstr "이 정도면 충분히 푹신해."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_KELP"
+msgid "It wouldn't be my first choice of pillow stuffing."
+msgstr "베개를 채우기에 좋은 재료는 아닌 것 같은데."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Way too flimsy, there's no support at all!"
+msgstr "너무 약해. 푹푹 꺼지잖아!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Aww, it kinda makes me nostalgic for the old steel mill."
+msgstr "아아, 옛날 제철소 추억이 떠오르네."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAREBALL"
+msgid "Yuck!"
+msgstr "우웩!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAWAIIANSHIRT"
@@ -157605,6 +159225,11 @@ msgstr "한 입도 먹지 않을 거야."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Good thing I'm not allergic to pollen."
 msgstr "꽃가루 알레르기가 없어서 다행이야."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTCAPHAT"
+msgid "A solid night's sleep'll help ya do a solid day's work."
+msgstr "하룻밤 푹 자면 온종일도 일할 수 있어."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.NIGHTLIGHT"
@@ -163671,6 +165296,91 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD3"
 msgid "Somethin' to chew on."
 msgstr "씹기 좋은 간식거리군."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "A little rustic for my tastes, but functional enough."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "It ain't much to look at without its light."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Gotta find a good place for it."
+msgstr "어디 놓으면 좋을지 찾아봐야겠어."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "A little rustic for my tastes, but functional enough."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "It ain't much to look at without its light."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Gotta find a good place for it."
+msgstr "어디 놓으면 좋을지 찾아봐야겠어."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Heh. Being an older sister trained me well for this."
+msgstr "헤. 여동생이 있어서 훈련은 충분히 했어."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Looks like a good way to let off some steam."
+msgstr "스트레스 풀기 좋은 방법 같은데."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Better get buildin'!"
+msgstr "어서 지어볼까?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD1"
+msgid "I guess a little cake break won't hurt anything."
+msgstr "케이크 먹으면서 잠시 쉬어도 되겠지."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD2"
+msgid "Can't quite pin down the flavor, but I like it!"
+msgstr "정확히 어떤 맛인지는 모르겠는데, 그래도 맛있어!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD3"
+msgid "It looks like one of Warly's more fancy-pants desserts."
+msgstr "왈리의 거창한 디저트 같이 생겼네."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_FOOD4"
+msgid "Sweetness on a stick."
+msgstr "막대기에 꽂힌 달콤한 간식이야."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Guess that's enough of that."
+msgstr "다 불타버렸네."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "I'm guessing it's hungry for somethin'."
+msgstr "뭔가 먹고 싶은 모양이야."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "All this for a bunch of rabbits?"
+msgstr "웬 토끼들을 위해 이 고생을 한다고?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTR_TOKEN"
+msgid "This'll get those layabouts off their fuzzy tushes!"
+msgstr "이러면 저 게으름뱅이들이 몸을 움직이겠지!"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Aww. I was using that."
@@ -163825,6 +165535,11 @@ msgstr "천 인간한테 안 어울린다. 볼프강이 계속 가지고 있는�
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like birds move carnival somewhere else."
 msgstr "새들이 축제를 다른 곳으로 옮기는 것 같아."
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Wolfgang needs pillow for fighting!"
+msgstr "볼프강 싸울 때 쓸 베개 필요하다!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -164780,6 +166495,11 @@ msgstr "떨리는구나! 얼어붙겠구나!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COMPASS_OUT"
 msgid "Little needle broke off!"
 msgstr "작은 바늘이 부러졌다!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COZY_SLEEP"
+msgid "Wolfgang had nice dreams of fluffy bunnies."
+msgstr "볼프강 복슬복슬한 토끼 꿈 꿨다."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAFTING_FAIL"
@@ -167146,6 +168866,26 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Will make boat extra turny, yes?"
 msgstr "배가 더 돌아가게 해 준다."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Is fluffy like hair-cow."
+msgstr "털소처럼 복슬복슬하다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_KELP"
+msgid "Wolfgang does not know why anyone would do this."
+msgstr "볼프강 누가 왜 이런 짓을 하는지 모른다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Is very pretty pillow."
+msgstr "아주 예쁜 베개다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Is good thing Wolfgang has tough skin."
+msgstr "볼프강 피부가 튼튼해서 다행이다."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BONESHARD"
 msgid "Wolfgang crush into even smaller bones!"
@@ -168086,6 +169826,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "How will bird fly if it is stone?"
 msgstr "돌로 만든 새가 어떻게 날아다니냐?"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Haha! Funny rabbit thought it could beat Wolfgang!"
+msgstr "하하! 우스운 토끼가 볼프강 이길 수 있다고 생각했다!"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Strong beast made from strong stone!"
@@ -168455,6 +170200,11 @@ msgstr "쪼끄만 의상이 볼프강 근육에 맞을까?"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Can tiny costume fit over Wolfgang's muscles?"
 msgstr "쪼끄만 의상이 볼프강 근육에 맞을까?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COZY_BUNNYMAN"
+msgid "Rabbits look ready for bedtime."
+msgstr "토끼가 잠잘 준비 된 것 같다."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRABKING.GENERIC"
@@ -170065,6 +171815,31 @@ msgstr "낫이 필요하다!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Wolfgang is ready for high striker!"
 msgstr "볼프강은 센 무기가 좋다!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Is fluffy like hair-cow."
+msgstr "털소처럼 복슬복슬하다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_KELP"
+msgid "Wolfgang does not know why anyone would do this."
+msgstr "볼프강 누가 왜 이런 짓을 하는지 모른다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Is very pretty pillow."
+msgstr "아주 예쁜 베개다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Is good for smacking, but not sleeping."
+msgstr "때리기에는 좋지만 베고 자기에는 안 좋다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAREBALL"
+msgid "Wolfgang is not afraid to eat! Gulp..."
+msgstr "볼프강 먹는 거 안 무섭다! 꿀꺽..."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAWAIIANSHIRT"
@@ -172195,6 +173970,11 @@ msgstr "작은 거미는 볼프강의 턱에 박살날 거야! 아니면 아닐 
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Flowers would be good against cow smell."
 msgstr "소 냄새에는 꽃이 좋아."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTCAPHAT"
+msgid "Is cozy sleeping hat."
+msgstr "잠잘 때 쓰는 포근한 모자다."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTLIGHT"
@@ -177388,8 +179168,8 @@ msgstr "볼프강은 과일 빵을 신뢰하지 않는다."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD5
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD5"
-msgid "Ha! Wolfgang will eat log, just like beardman!"
-msgstr "핫! 볼프강이 수염 친구처럼 통나무를 먹을 것이다!"
+msgid "Ha! Is not real log, Wolfgang was not fooled!"
+msgstr "하! 진짜 통나무 아니다. 볼프강 안 속았다!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD6
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD6"
@@ -178261,6 +180041,91 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTP_FOOD3"
 msgid "Is for making Wolfgang little bit mighty."
 msgstr "볼프강을 약간만 깅히게 만든다."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Wolfgang likes rabbit night light."
+msgstr "볼프강 토끼 야간등 좋다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Rabbit light ran out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Wolfgang will find good place for rabbit light."
+msgstr "볼프강이 토끼 불 놓기 좋은 곳 찾는다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Wolfgang likes rabbit night light."
+msgstr "볼프강 토끼 야간등 좋다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Rabbit light ran out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Wolfgang will find good place for rabbit light."
+msgstr "볼프강이 토끼 불 놓기 좋은 곳 찾는다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Is time for pillow battle, yes?"
+msgstr "베개 싸움 시간 맞나?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Haha! Is good fun!"
+msgstr "하하! 즐겁다!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Do not worry, Wolfgang will put it in good spot."
+msgstr "볼프강이 좋은 곳에 놓을 테니 걱정하지 마라."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD1"
+msgid "Wolfgang likes the funny rabbit cake."
+msgstr "볼프강 폭신한 토끼 케이크 좋다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD2"
+msgid "Ah. Wolfgang expected cheese."
+msgstr "아. 볼프강은 치즈 기대했다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD3"
+msgid "Is funny wobble dessert."
+msgstr "웃긴 탱글탱글 디저트다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_FOOD4"
+msgid "Sticky chew puffs."
+msgstr "쫀득한 간식이다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Goodbye rabbit."
+msgstr "잘 가, 토끼."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Rabbit is hungry! Wolfgang understands this."
+msgstr "토끼 배고프다! 볼프강 이해한다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Is well-fed rabbit!"
+msgstr "토끼 배불리 먹었다!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTR_TOKEN"
+msgid "Who will face mighty Wolfgang in pillow fight?"
+msgstr "누가 베개 싸움에서 힘센 볼프강이랑 싸울 거냐?"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Poor tiny kitty."
@@ -178415,6 +180280,11 @@ msgstr "안되겠지, 그치?"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Whew, those birds finally skedaddled."
 msgstr "휴, 그 새들이 마침내 서둘러 떠나버렸네."
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "I should grab a pillow first, eh?"
+msgstr "우선 베개를 가져와야겠지, 그치?"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -179345,6 +181215,11 @@ msgstr "좀 춥잖아!"
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COMPASS_OUT"
 msgid "I'll always have the North in my heart."
 msgstr "내 마음은 언제나 북쪽에 있잖아."
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COZY_SLEEP"
+msgid "Sorry Luce, was I snorin'?"
+msgstr "미안, 루시. 내가 코 골았나?"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CRAFTING_FAIL"
@@ -181676,6 +183551,26 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Better get it set up on the boat, eh?"
 msgstr "배에 설치해야겠지?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "It's not filled with goose down, is it?"
+msgstr "거위 털로 채운 건 아니지?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_KELP"
+msgid "At least it's not filled with feathers."
+msgstr "적어도 깃털로 채우지는 않았네."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Smells like sleeping outside."
+msgstr "야외에서 잘 때 같은 냄새가 나."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Still better than one that's stuffed with nasty feathers."
+msgstr "그래도 역겨운 깃털로 채운 베개보다는 낫네."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BONESHARD"
 msgid "I wish I knew how to make bread."
@@ -182616,6 +184511,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "I'm not puttin' that anywhere near my base."
 msgstr "내 기지 근처에는 안 둘 거야."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Someone worked hard on that."
+msgstr "누가 열심히 만들었어."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Gotta say I prefer it to the original."
@@ -182985,6 +184885,11 @@ msgstr "근사한 연극 의상이야."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COSTUME_TREE_BODY"
 msgid "It's not as scratchy as it looks."
 msgstr "보기보다 거칠지 않아."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COZY_BUNNYMAN"
+msgid "Looks like they're enjoyin' themselves."
+msgstr "재밌게 놀고 있는 것 같아."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CRABKING.GENERIC"
@@ -184600,6 +186505,31 @@ msgstr "누구나 실수할 때도 있는 법이잖아?"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Packs a wallop."
 msgstr "아주 힘이 세지."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "It's not filled with goose down, is it?"
+msgstr "거위 털로 채운 건 아니지?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_KELP"
+msgid "At least it's not filled with feathers."
+msgstr "적어도 깃털로 채우지는 않았네."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Smells like sleeping outside."
+msgstr "야외에서 잘 때 같은 냄새가 나."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Still better than one that's stuffed with nasty feathers."
+msgstr "그래도 역겨운 깃털로 채운 베개보다는 낫네."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAREBALL"
+msgid "It's for a dare, eh? Alright, I'll bite."
+msgstr "내가 걸린 거야? 좋아, 먹을게."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAWAIIANSHIRT"
@@ -186735,6 +188665,11 @@ msgstr "미안 작은 친구, 내가 통과해서 가야 할 것 같아."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NATURE_BLUEPRINT"
 msgid "All-natural and organic."
 msgstr "모두 천연이고 유기농이야."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTCAPHAT"
+msgid "A good cap to wear when you're sawing logs."
+msgstr "통나무를 톱질할 때 쓰기 좋은 모자야."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTLIGHT"
@@ -192801,6 +194736,91 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD3"
 msgid "I don't need nothin' fancy."
 msgstr "음식은 고급일 필요 없지."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Adds a nice rustic touch, eh?"
+msgstr "시골 분위기가 나게 해주네, 그치?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Out like a light."
+msgstr "불이 꺼졌군."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Alright Luce, where should we put it?"
+msgstr "좋아, 루시. 이걸 어디 두면 좋을까?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Adds a nice rustic touch, eh?"
+msgstr "시골 분위기가 나게 해주네, 그치?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Out like a light."
+msgstr "불이 꺼졌군."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Alright Luce, where should we put it?"
+msgstr "좋아, 루시. 이걸 어디 두면 좋을까?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Looks peaceful for now."
+msgstr "지금은 평온해 보여."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Those pillows pack a wallop, eh?"
+msgstr "저 베개에 맞으면 아플 것 같아, 그치?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Alright Luce, where should we put it?"
+msgstr "좋아, 루시. 이걸 어디 두면 좋을까?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD1"
+msgid "Rabbits love carrots so much, they'll even put 'em in cakes."
+msgstr "토끼들이 당근을 어찌나 좋아하는지 케이크에도 넣었네."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD2"
+msgid "Whew. It's not givin' me the transformation tingles."
+msgstr "휴. 먹어도 변신할 것 같은 느낌은 안 들어."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD3"
+msgid "Looks like it's got a little snowcap on top."
+msgstr "윗부분이 눈 덮인 산봉우리처럼 생겼네."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_FOOD4"
+msgid "I'll save the stick for a little midnight snack."
+msgstr "막대기는 야식으로 먹게 아껴놔야지."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Can't win 'em all, eh?"
+msgstr "항상 이길 수는 없는 법이지, 그치?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "This guy looks hungry."
+msgstr "배고파 보여."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Let's see what we've got to work with!"
+msgstr "뭐가 있는지 한번 볼까?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTR_TOKEN"
+msgid "It doesn't feel polite to smack someone with a glove..."
+msgstr "장갑으로 때리다니 무례한 것 같은데..."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "All burnt up."
@@ -192955,6 +194975,11 @@ msgstr "거기 안 가"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Tweeters? Aww..."
 msgstr "짹짹이? 어우..."
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "Oh. Need head planter"
+msgstr "아. 머리 화분 필요해"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -193890,6 +195915,11 @@ msgstr "으으... 추워!"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COMPASS_OUT"
 msgid "Direction Thing broke"
 msgstr "방향 물건이 고장 났어"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COZY_SLEEP"
+msgid "Ahhh. Good morning!"
+msgstr "아아. 좋은 아침!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CRAFTING_FAIL"
@@ -196246,6 +198276,26 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "Can make the Floaty spin with this"
 msgstr "둥둥이가 돌아가게 해"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Fluffy head planter... for trunk?"
+msgstr "줄기에 쓰는 폭신한 머리 화분...?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_KELP"
+msgid "Wet head planter... for trunk?"
+msgstr "줄기에 쓰는 축축한 머리 화분...?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Aww, friends helped!"
+msgstr "아아, 친구들이 도와줬어!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Scratchy head planter... for trunk?"
+msgstr "줄기에 쓰는 까칠까칠한 머리 화분...?"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BONESHARD"
 msgid "Sharp. Ouch!"
@@ -197186,6 +199236,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Bad Tweeter"
 msgstr "나쁜 짹짹이야"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Big Hopper"
+msgstr "커다란 깡총이"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "Scary"
@@ -197555,6 +199610,11 @@ msgstr "예쁜 옷"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Pretty clothes"
 msgstr "예쁜 옷"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COZY_BUNNYMAN"
+msgid "Hopper want to be friends?"
+msgstr "깡총이 친구 되고 싶어?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CRABKING.GENERIC"
@@ -199175,6 +201235,31 @@ msgstr "부수는 도구야"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Ugh! Can't lift it"
 msgstr "윽! 못 들겠어"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Fluffy head planter"
+msgstr "폭신한 머리 화분"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_KELP"
+msgid "Wet head planter"
+msgstr "축축한 머리 화분"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Aww, friends help make head planter"
+msgstr "아아, 친구들이 머리 화분 만드는 거 도와줬어"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "Scratchy head planter"
+msgstr "까칠까칠한 머리 화분"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAREBALL"
+msgid "From Hoppers. Thanks!"
+msgstr "깡총이가 줬어. 고마워!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAWAIIANSHIRT"
@@ -201320,6 +203405,11 @@ msgstr "긴 다리 벌레를 위해 배에 달린 거?"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Covered in friends"
 msgstr "친구로 덮였어"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTCAPHAT"
+msgid "Sleepy hat"
+msgstr "쿨쿨 모자"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTLIGHT"
@@ -207386,6 +209476,91 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTP_FOOD3"
 msgid "Glub Glub on friends"
 msgstr "친구들에게 꽂은 뽀글이야"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Hopper holding light"
+msgstr "빛을 든 깡총이"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Night night, Hopper"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Hmmm, where put Hopper?"
+msgstr "흐음, 깡총이 어디 두지?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Hopper holding light"
+msgstr "빛을 든 깡총이"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Night night, Hopper"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Hmmm, where put Hopper?"
+msgstr "흐음, 깡총이 어디 두지?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Want to play?"
+msgstr "놀고 싶어?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Haha! Fun!"
+msgstr "하하! 재미있어!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "Where put Hopper ring?"
+msgstr "깡총이 경기장 어디 두지?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD1"
+msgid "Hopper?"
+msgstr "깡총이?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD2"
+msgid "Mmmmm..."
+msgstr "냠냠..."
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD3"
+msgid "Looking?"
+msgstr "보고 있어?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_FOOD4"
+msgid "Squishy"
+msgstr "물컹해"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Oh"
+msgstr "아"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Hopper hungry?"
+msgstr "깡총이 배고파?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Happy Hopper"
+msgstr "행복한 깡총이"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTR_TOKEN"
+msgid "For hitting? Oh no..."
+msgstr "때리는 데 써? 이런..."
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Fire so evil"
@@ -207540,6 +209715,11 @@ msgstr "아, 안타깝군. 네게 어울릴 줄 알았는데."
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "They've come and gone, were they but a dream all along?"
 msgstr "왔다가 사라졌다, 그저 꿈일 뿐이었을까?"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "A pillow must be promptly procured."
+msgstr "베개를 손에 넣어야 해."
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -208470,6 +210650,11 @@ msgstr "드디어 꽁꽁 얼었어!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_COMPASS_OUT"
 msgid "My compass has pass-ed out!"
 msgstr "내 나침반이 뻗었어!"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_COZY_SLEEP"
+msgid "This imp feels best after a cozy rest."
+msgstr "나는 푹 쉰 후에 컨디션이 가장 좋지."
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CRAFTING_FAIL"
@@ -210841,6 +213026,26 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It's something or rudder!"
 msgstr "이게 뭐지? 키인가?"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "The beefiest pillow I ever did see."
+msgstr "이렇게 \"소소\"한 베개는 처음 보는군."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_KELP"
+msgid "I'd never wish to sleep like a fish."
+msgstr "물고기처럼 자고 싶지 않아."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Armor doesn't often smell so nice!"
+msgstr "이렇게 좋은 냄새가 나는 갑옷은 흔치 않는데!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "A nasty thing, it'll do well in the ring!"
+msgstr "끔찍한 무기군. 경기장에서 쓸모가 있겠어!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESHARD"
 msgid "Fragmented, like my thoughts!"
@@ -211781,6 +213986,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "Oh my word, that was a feisty bird!"
 msgstr "맙소사, 정말 사나운 새였지!"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Looking at it fills me with hoppiness, hyuyu!"
+msgstr "보기만 해도 마음이 \"콩콩\" 뛰는군. 휴우!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "It's as though the Minotaur met Medusa."
@@ -212155,6 +214365,11 @@ msgstr "휴우우, 아주 재밌는 놀이군!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
 msgstr "휴우우, 아주 재밌는 놀이군!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COZY_BUNNYMAN"
+msgid "How have you found your time above-ground?"
+msgstr "지상에서의 삶은 어때?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING.GENERIC"
@@ -212643,7 +214858,7 @@ msgstr "이런 건 처음 봐!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_COOKED"
-msgid "My favourite treat... it can't be beat!"
+msgid "My favorite treat... it can't be beat!"
 msgstr "내가 제일 좋아하는 음식...을 대신할 수는 없지!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_OVERSIZED
@@ -213775,6 +215990,31 @@ msgstr "무엇이든 쾅쾅 내려치는 데 쓰는 거지."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Clamor for the hammer!"
 msgstr "망치는 땅땅거리지!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "The beefiest pillow I ever did see."
+msgstr "이렇게 \"소소\"한 베개는 처음 보는군."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_KELP"
+msgid "I'd never wish to sleep like a fish."
+msgstr "물고기처럼 자고 싶지 않아."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_PETALS"
+msgid "For a sweet-smelling smack!"
+msgstr "때릴 때 달콤한 향기가 풍기겠어!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "A nasty thing, it'll do well in the ring!"
+msgstr "끔찍한 무기군. 경기장에서 쓸모가 있겠어!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAREBALL"
+msgid "Hyuyu! I see they're seasoned pranksters."
+msgstr "휴우! 노련한 장난꾸러기들이군."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAWAIIANSHIRT"
@@ -215905,6 +218145,11 @@ msgstr "그 쪼끄만 공포의 대상에게 줄 맛있는 간식이야!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I suppose I'll reap what I sew, hyuyu!"
 msgstr "꿰매는 대로 거두겠지, 흐유!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTCAPHAT"
+msgid "Keep your dreams warm and snug inside your sleepy head."
+msgstr "잠잘 때 머릿속 꿈을 따뜻하게 유지해 줘."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTLIGHT"
@@ -221976,6 +224221,91 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTP_FOOD3"
 msgid "Maybe just a little bite."
 msgstr "아주 조금만."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "It's my favorite light, but only by a hare."
+msgstr "아주 마음에 드는 불이야."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "The bunny burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I should place this rabbit now that I've nabbed it."
+msgstr "이 토끼를 둘 곳을 찾아야겠어."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "It's my favorite light, but only by a hare."
+msgstr "아주 마음에 드는 불이야."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "The bunny burns no more."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I should place this rabbit now that I've nabbed it."
+msgstr "이 토끼를 둘 곳을 찾아야겠어."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Not a fight in sight."
+msgstr "아무도 안 싸우고 있군."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Pummeling pillows on parade, hyuyu!"
+msgstr "베개 축제다, 휴우!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "I'm pondering a place to put the pit."
+msgstr "경기장을 어디에 두면 좋을까?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD1"
+msgid "A funny shape for carrot cake."
+msgstr "우습게 생긴 당근 케이크군."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD2"
+msgid "Once in a blue moon I'll sample mortal food... but not today, hyuyu."
+msgstr "난 아주 가끔씩 인간 음식을 맛보지... 하지만 오늘은 아니야. 휴우."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD3"
+msgid "A jelly ball. That is all."
+msgstr "젤리 공이군."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_FOOD4"
+msgid "This doughy treat, I will not eat."
+msgstr "쫀득한 간식이군. 안 먹을 거야."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "That's that."
+msgstr "이걸로 끝이네."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Rumble and grumble, it wants a carrot!"
+msgstr "꼬르륵 꼬르륵, 당근을 원하는군!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Let us celebrate!"
+msgstr "경사 났네!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTR_TOKEN"
+msgid "A duel, a duel! To arms!"
+msgstr "결투다, 결투! 무기를 들어라!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Well, that's that."
@@ -222130,6 +224460,11 @@ msgstr "거기 놓을 수 없어."
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Huh? Where the Birdfolk go?"
 msgstr "뭐? 그 조류족은 어디로 가?"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "WAIT!! Forgot pillow!"
+msgstr "잠깐!! 베개 깜빡했어!"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -223076,6 +225411,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_COMPASS_OUT"
 msgid "Spinny pointer broken. Didn't do it, florp!!"
 msgstr "빙글빙글 도는 바늘 망가졌어. 나 아니야, 뻐끔!!"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_COZY_SLEEP"
+msgid "Aww, was having such good dream..."
+msgstr "에이, 좋은 꿈 꾸고 있었는데..."
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_CRAFTING_FAIL"
 msgid "Nuh-uh, need more things."
@@ -223691,11 +226031,6 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_QUAKE"
 msgid "Ground shaking!"
 msgstr "땅 흔들린다!"
 
-#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES
-msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES"
-msgid "Aww... no honey inside..."
-msgstr "에이... 안에 꿀이 없네..."
-
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "This one have pictures of birdies!"
@@ -223740,11 +226075,6 @@ msgstr "뭐야? 다른 말로 되어 있잖아!"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
 msgid "There more than one kind of words to learn?! Glurgh..."
 msgstr "배워야 하는 말이 더 있다고?! 빠끔빠끔..."
-
-#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON
-msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON"
-msgid "Huh. Moon actually kinda boring."
-msgstr "흠. 사실 달은 재미없어."
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN"
@@ -225516,6 +227846,26 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It boat stuff."
 msgstr "배에 쓰는 거야."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "Blegh, it full of hair!"
+msgstr "우웩, 털로 가득해!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_KELP"
+msgid "Ahh, slimy and nice!"
+msgstr "아아, 미끈거리고 좋아!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_PETALS"
+msgid "Stinky ugly pillow!"
+msgstr "냄새나고 못생긴 베개!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Glurgh! Itchy!!"
+msgstr "빠끔빠끔! 따가워!!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BONESHARD"
 msgid "Piece of something dead."
@@ -226456,6 +228806,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "It very fancy looking statue."
 msgstr "아주 근사한 조각상이야."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "Glurgh. Bunnyman get statue before Mermfolk?!"
+msgstr "빠끔빠끔! 어인족보다 토끼인간 조각상이 먼저 생겨?!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_MINOTAUR"
 msgid "It good for scratching scales against."
@@ -226825,6 +229180,11 @@ msgstr "웩, 꽃 냄새 나. 뻐끔."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Blegh, it stink like flowers, florp!"
 msgstr "웩, 꽃 냄새 나. 뻐끔."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.COZY_BUNNYMAN"
+msgid "Hey! What they doing up here?"
+msgstr "이봐! 여기 위에서 뭐 하는 거야?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CRABKING.GENERIC"
@@ -228445,6 +230805,31 @@ msgstr "다 부숴!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAMMER_MJOLNIR"
 msgid "Extra hitty hammer!"
 msgstr "더 센 망치야!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "Blegh, it full of hair!"
+msgstr "우웩, 털로 가득해!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_KELP"
+msgid "Ahh, slimy and nice!"
+msgstr "아아, 미끈거리고 좋아!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_PETALS"
+msgid "Stinky ugly pillow!"
+msgstr "냄새나고 못생긴 베개!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "It good fighting pillow, nice and scratchy!"
+msgstr "까칠까칠하고 좋은 싸움 베개야!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAREBALL"
+msgid "Glurgh, Bunnyman spit-up!"
+msgstr "빠끔빠끔, 토끼인간이 토했어!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAWAIIANSHIRT"
@@ -230590,6 +232975,11 @@ msgstr "다음은 웨비 보이가 어인쿠키를 만들어!!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NATURE_BLUEPRINT"
 msgid "Glurgh... this one ugly..."
 msgstr "빠끔빠끔... 이거 못생겼어..."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTCAPHAT"
+msgid "Sleepy-time hat."
+msgstr "드르렁 모자."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.NIGHTLIGHT"
@@ -236661,6 +239051,91 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTP_FOOD3"
 msgid "This insulting to fish."
 msgstr "이건 물고기 모욕이야."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "Ugly light statue."
+msgstr "못생긴 불 조각상이야."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "Where light? Bunnyman not doing job!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "Mermfolk light would be better."
+msgstr "어인족 불이 더 좋을 텐데."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "Ugly light statue."
+msgstr "못생긴 불 조각상이야."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "Where light? Bunnyman not doing job!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "Mermfolk light would be better."
+msgstr "어인족 불이 더 좋을 텐데."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "Hee-hee! Who wanna fight!?"
+msgstr "히히! 누구 나랑 싸울래!?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "Me next, me next!!"
+msgstr "다음은 나야! 내 차례!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "We allowed to hit things? Yay!!"
+msgstr "때려도 돼? 만세!!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD1"
+msgid "Grrr, will gobble you up, rabbit! Hee-hee."
+msgstr "그르릉! 너 먹어치울 거야, 토끼! 히히."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD2"
+msgid "Yummy!"
+msgstr "맛있다!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD3"
+msgid "That really okay for eating?"
+msgstr "정말 먹어도 돼?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_FOOD4"
+msgid "Not sharing!"
+msgstr "안 나눠줄 거야!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "Uh oh..."
+msgstr "이런..."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "Rabbit want carrot?"
+msgstr "토끼 당근 먹고 싶어?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "Gimme stuff, big rabbit head!"
+msgstr "물건 줘, 커다란 토끼 머리!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOTR_TOKEN"
+msgid "Hee-hee-hee... SMACK!"
+msgstr "히히히... 퍽!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "Uh oh..."
@@ -236815,6 +239290,11 @@ msgstr "천 자루에 이런 걸 맡길 수 없음"
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "THEY WILL NOT BE MISSED"
 msgstr "그들은 놓치지 않을 것임."
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
+msgid "ERROR: PILLOW REQUIRED FOR COMBAT"
+msgstr "오류: 전투 시 베개 필요"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.APPLYMODULE.COOLDOWN"
@@ -237745,6 +240225,11 @@ msgstr "장치가 얼고 있음"
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_COMPASS_OUT"
 msgid "MAGNETIC FIELD FAILURE"
 msgstr "자장 실패"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_COZY_SLEEP
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_COZY_SLEEP"
+msgid "ENERGY RESTORED, PROCESSOR SPEED: OPTIMAL"
+msgstr "에너지 복구, 프로세서 속도: 최적"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CRAFTING_FAIL"
@@ -240081,6 +242566,26 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "FOR BUILDING A STUPID RUDDER"
 msgstr "바보 같은 키를 만드는 데 씀"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "EXTRUDED BEEFALO DISGUSTINGNESS... IN A BAG"
+msgstr "혐오스러운 비팔로 압출 성형물... 자루에 담김"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_KELP"
+msgid "WHO IS RESPONSIBLE FOR THIS. IT WAS THE GREEN ONE, WASN'T IT"
+msgstr "누구 짓이냐. 보나 마나 초록색 녀석의 짓으로 추정됨"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_PETALS"
+msgid "FLOWERS ARE AN INEFFECTIVE CHOICE FOR ARMOR"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "THE ADDITION OF METAL HAS IMPROVED IT SUBSTANTIALLY"
+msgstr "금속이 추가되어 크게 향상됨"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BONESHARD"
 msgid "PIECES OF STRUCTURAL SUPPORT SYSTEM"
@@ -240978,7 +243483,7 @@ msgstr "본좌께서 승리한 때를 상기시킴"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_EYEOFTERROR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_EYEOFTERROR"
-msgid "ORGANIC REDUCED TO MINERAL - TYPICAL."
+msgid "ORGANIC REDUCED TO MINERAL - TYPICAL"
 msgstr "미네랄로 환원된 유기물 - 일반적임"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_FORMAL
@@ -241020,6 +243525,11 @@ msgstr "형체 부팅 중"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MALBATROSS"
 msgid "HA! IT'S FUNNY BECAUSE IT IS DEAD NOW"
 msgstr "하하! 이제 죽어서 재미있음"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MANRABBIT"
+msgid "THEY'RE SO MUCH BETTER WHEN THEY'RE NOT MOVING"
+msgstr "안 움직일 때 훨씬 나음"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_MINOTAUR"
@@ -241390,6 +243900,11 @@ msgstr "무대 공연을 하려면 이걸 설치해야 함"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COSTUME_TREE_BODY"
 msgid "INSTALLATION REQUIRED FOR STAGE PERFORMANCE"
 msgstr "무대 공연을 하려면 이걸 설치해야 함"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.COZY_BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COZY_BUNNYMAN"
+msgid "WHO LET YOU OUT"
+msgstr "누가 꺼내 준 거냐"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CRABKING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CRABKING.GENERIC"
@@ -243000,6 +245515,31 @@ msgstr "해체"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAMMER_MJOLNIR"
 msgid "I WILL SMASH ALL WHO OPPOSE ME"
 msgstr "본체에게 저항하는 이는 모두 파괴할 것임"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
+msgid "EXTRUDED BEEFALO DISGUSTINGNESS... IN A BAG"
+msgstr "혐오스러운 비팔로 압출 성형물... 자루에 담김"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_KELP"
+msgid "WHO IS RESPONSIBLE FOR THIS. IT WAS THE GREEN ONE, WASN'T IT"
+msgstr "누구 짓이냐. 보나 마나 초록색 녀석의 짓으로 추정됨"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_PETALS"
+msgid "FLOWERS ARE AN INEFFECTIVE CHOICE FOR A WEAPON"
+msgstr "꽃은 무기로 효과적이지 않음"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_STEELWOOL"
+msgid "THE ADDITION OF METAL HAS IMPROVED IT SUBSTANTIALLY"
+msgstr "금속이 추가되어 크게 향상됨"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HAREBALL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAREBALL"
+msgid "IT IS TECHNICALLY EDIBLE"
+msgstr "이론상으로는 먹을 수 있음"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAWAIIANSHIRT"
@@ -245130,6 +247670,11 @@ msgstr "조잡하고 역겨움. 정확한 묘사임."
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NATURE_BLUEPRINT"
 msgid "DISGUSTING"
 msgstr "역겨움"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTCAPHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTCAPHAT"
+msgid "IT KEEPS THE PROCESSOR WARM"
+msgstr "프로세서를 따뜻하게 유지해 줌"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTLIGHT"
@@ -251196,6 +253741,91 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTP_FOOD3"
 msgid "BASIC FOODFUEL"
 msgstr "기본 식품연료"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.GENERAL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.GENERAL"
+msgid "RABBIT-SHAPED LIGHT SOURCE"
+msgstr "토끼 모양 광원임"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.OUT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1.OUT"
+msgid "LIGHT DEACTIVATED"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_1_ITEM"
+msgid "I WILL FIND A SUITABLE LOCATION FOR IT"
+msgstr "적합한 장소 물색하겠음"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.GENERAL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.GENERAL"
+msgid "RABBIT-SHAPED LIGHT SOURCE"
+msgstr "토끼 모양 광원임"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.OUT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2.OUT"
+msgid "LIGHT DEACTIVATED"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_DECOR_2_ITEM"
+msgid "I WILL FIND A SUITABLE LOCATION FOR IT"
+msgstr "적합한 장소 물색하겠음"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.GENERIC"
+msgid "FIGHT FOR MY ENTERTAINMENT"
+msgstr "싸워서 본좌를 즐겁게 하라"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_BELL.PLAYING"
+msgid "LET THEM FIGHT"
+msgstr "싸우게 해라"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FIGHTRING_KIT"
+msgid "ASSEMBLY REQUIRED"
+msgstr "조립 필요."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD1
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD1"
+msgid "NO TRACE OF RABBIT DETECTED. DISAPPOINTING"
+msgstr "토끼의 흔적 감지되지 않음. 실망함"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD2
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD2"
+msgid "THE MOON IS DELICIOUS"
+msgstr "달은 맛있음"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD3"
+msgid "THE MOON JELLY IS MINE"
+msgstr "달 젤리는 본좌의 것임"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD4
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD4"
+msgid "SWEET EMPTY CALORIES"
+msgstr "달콤한 영양가 없는 열량"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.BURNT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.BURNT"
+msgid "DELETED"
+msgstr "삭제됨."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.EMPTY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.EMPTY"
+msgid "REQUIRES VEGETABLE OFFERING"
+msgstr "채소 제물이 필요함"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_RABBITSHRINE.GENERIC"
+msgid "IT IS OPERATIONAL"
+msgstr "운영 중임"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_TOKEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_TOKEN"
+msgid "VIOLENCE INITIATOR"
+msgstr "폭력 개시 장치"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YOT_CATCOONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOT_CATCOONSHRINE.BURNT"
 msgid "TURNED OFF"
@@ -252525,6 +255155,226 @@ msgstr "{ing} x{num}"
 msgctxt "STRINGS.COOKINGRECIPECARD_DESC.INGREDIENTS_MORE"
 msgid ", {num}x {ing}"
 msgstr ", {ing} x{num}"
+
+#. STRINGS.COZY_RABBIT_ARENANOTEMPTY.1
+msgctxt "STRINGS.COZY_RABBIT_ARENANOTEMPTY.1"
+msgid "CRAMPED!"
+msgstr "좁아!"
+
+#. STRINGS.COZY_RABBIT_ARENANOTEMPTY.2
+msgctxt "STRINGS.COZY_RABBIT_ARENANOTEMPTY.2"
+msgid "PACKED!"
+msgstr "자리 없어!"
+
+#. STRINGS.COZY_RABBIT_CHEER.1
+msgctxt "STRINGS.COZY_RABBIT_CHEER.1"
+msgid "MOON!"
+msgstr "달!"
+
+#. STRINGS.COZY_RABBIT_CHEER.2
+msgctxt "STRINGS.COZY_RABBIT_CHEER.2"
+msgid "SKY!"
+msgstr "하늘!"
+
+#. STRINGS.COZY_RABBIT_CHEER.3
+msgctxt "STRINGS.COZY_RABBIT_CHEER.3"
+msgid "LIGHT!"
+msgstr "빛!"
+
+#. STRINGS.COZY_RABBIT_CHEER.4
+msgctxt "STRINGS.COZY_RABBIT_CHEER.4"
+msgid "CELEBRATE!"
+msgstr "축하!"
+
+#. STRINGS.COZY_RABBIT_CHEER.5
+msgctxt "STRINGS.COZY_RABBIT_CHEER.5"
+msgid "PARTY!"
+msgstr "파티!"
+
+#. STRINGS.COZY_RABBIT_CHEER.6
+msgctxt "STRINGS.COZY_RABBIT_CHEER.6"
+msgid "SLEEPOVER!"
+msgstr "밤샘 파티!"
+
+#. STRINGS.COZY_RABBIT_GETTOKEN.1
+msgctxt "STRINGS.COZY_RABBIT_GETTOKEN.1"
+msgid "GAME!"
+msgstr "게임!"
+
+#. STRINGS.COZY_RABBIT_GETTOKEN.2
+msgctxt "STRINGS.COZY_RABBIT_GETTOKEN.2"
+msgid "SERVED!"
+msgstr "도전!"
+
+#. STRINGS.COZY_RABBIT_GETTOKEN.3
+msgctxt "STRINGS.COZY_RABBIT_GETTOKEN.3"
+msgid "MATCH!"
+msgstr "시합!"
+
+#. STRINGS.COZY_RABBIT_GREET.1
+msgctxt "STRINGS.COZY_RABBIT_GREET.1"
+msgid "PLAY?"
+msgstr "놀이?"
+
+#. STRINGS.COZY_RABBIT_GREET.2
+msgctxt "STRINGS.COZY_RABBIT_GREET.2"
+msgid "SNACK?"
+msgstr "간식?"
+
+#. STRINGS.COZY_RABBIT_GREET.3
+msgctxt "STRINGS.COZY_RABBIT_GREET.3"
+msgid "HUG?"
+msgstr "포옹?"
+
+#. STRINGS.COZY_RABBIT_MOON.1
+msgctxt "STRINGS.COZY_RABBIT_MOON.1"
+msgid "MOON!"
+msgstr "달!"
+
+#. STRINGS.COZY_RABBIT_MOON.2
+msgctxt "STRINGS.COZY_RABBIT_MOON.2"
+msgid "SUBLIME!"
+msgstr "숭고!"
+
+#. STRINGS.COZY_RABBIT_MOON.3
+msgctxt "STRINGS.COZY_RABBIT_MOON.3"
+msgid "GLOW!"
+msgstr "어슴푸레한 빛!"
+
+#. STRINGS.COZY_RABBIT_MOON.4
+msgctxt "STRINGS.COZY_RABBIT_MOON.4"
+msgid "EYE!"
+msgstr "눈!"
+
+#. STRINGS.COZY_RABBIT_NOARENA.1
+msgctxt "STRINGS.COZY_RABBIT_NOARENA.1"
+msgid "ARENA?"
+msgstr "경기장?"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.1
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.1"
+msgid "HIDE!"
+msgstr "숨어!"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.2
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.2"
+msgid "FLEE!"
+msgstr "도망쳐!"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.3
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.3"
+msgid "CRIME!"
+msgstr "범죄!"
+
+#. STRINGS.COZY_RABBIT_PANICHIT.4
+msgctxt "STRINGS.COZY_RABBIT_PANICHIT.4"
+msgid "SCATTER!"
+msgstr "흩어져!"
+
+#. STRINGS.COZY_RABBIT_PLANTPILLOW.1
+msgctxt "STRINGS.COZY_RABBIT_PLANTPILLOW.1"
+msgid "COZY"
+msgstr "포근해"
+
+#. STRINGS.COZY_RABBIT_PLANTPILLOW.2
+msgctxt "STRINGS.COZY_RABBIT_PLANTPILLOW.2"
+msgid "NEST"
+msgstr "둥지"
+
+#. STRINGS.COZY_RABBIT_PLANTPILLOW.3
+msgctxt "STRINGS.COZY_RABBIT_PLANTPILLOW.3"
+msgid "FRIENDS"
+msgstr "친구"
+
+#. STRINGS.COZY_RABBIT_QUESTION_DANGER.1
+msgctxt "STRINGS.COZY_RABBIT_QUESTION_DANGER.1"
+msgid "SAFE?"
+msgstr "안전?"
+
+#. STRINGS.COZY_RABBIT_QUESTION_DANGER.2
+msgctxt "STRINGS.COZY_RABBIT_QUESTION_DANGER.2"
+msgid "DANGER?"
+msgstr "위험?"
+
+#. STRINGS.COZY_RABBIT_QUESTION_DANGER.3
+msgctxt "STRINGS.COZY_RABBIT_QUESTION_DANGER.3"
+msgid "GONE?"
+msgstr "갔어?"
+
+#. STRINGS.COZY_RABBIT_REJECTTOKEN.1
+msgctxt "STRINGS.COZY_RABBIT_REJECTTOKEN.1"
+msgid "BOOKED"
+msgstr "일정 있다"
+
+#. STRINGS.COZY_RABBIT_REJECTTOKEN.2
+msgctxt "STRINGS.COZY_RABBIT_REJECTTOKEN.2"
+msgid "HAVE"
+msgstr "이미 있다"
+
+#. STRINGS.COZY_RABBIT_REJECTTOKEN.3
+msgctxt "STRINGS.COZY_RABBIT_REJECTTOKEN.3"
+msgid "BUSY"
+msgstr "바쁘다"
+
+#. STRINGS.COZY_RABBIT_SPIN.1
+msgctxt "STRINGS.COZY_RABBIT_SPIN.1"
+msgid "SPIN!"
+msgstr "돌려라!"
+
+#. STRINGS.COZY_RABBIT_SPINGAMESTART.1
+msgctxt "STRINGS.COZY_RABBIT_SPINGAMESTART.1"
+msgid "PLAY!"
+msgstr "놀아!"
+
+#. STRINGS.COZY_RABBIT_SPINGAMESTART.2
+msgctxt "STRINGS.COZY_RABBIT_SPINGAMESTART.2"
+msgid "SPIN!"
+msgstr "돌려라!"
+
+#. STRINGS.COZY_RABBIT_SPINGAMESTART.3
+msgctxt "STRINGS.COZY_RABBIT_SPINGAMESTART.3"
+msgid "CARROT!"
+msgstr "당근!"
+
+#. STRINGS.COZY_RABBIT_SPOILSPORT.1
+msgctxt "STRINGS.COZY_RABBIT_SPOILSPORT.1"
+msgid "SPOILSPORT"
+msgstr "흥 깨기는"
+
+#. STRINGS.COZY_RABBIT_WINNER.1
+msgctxt "STRINGS.COZY_RABBIT_WINNER.1"
+msgid "EAT!"
+msgstr "먹어!"
+
+#. STRINGS.COZY_RABBIT_WINNER.2
+msgctxt "STRINGS.COZY_RABBIT_WINNER.2"
+msgid "{winner}"
+msgstr "{winner}"
+
+#. STRINGS.COZY_RABBIT_WINNER.3
+msgctxt "STRINGS.COZY_RABBIT_WINNER.3"
+msgid "{winner}"
+msgstr "{winner}"
+
+#. STRINGS.COZY_RABBIT_YAY.1
+msgctxt "STRINGS.COZY_RABBIT_YAY.1"
+msgid "YAY!"
+msgstr "만세!"
+
+#. STRINGS.COZY_RABBIT_YAY.2
+msgctxt "STRINGS.COZY_RABBIT_YAY.2"
+msgid "WOOP!"
+msgstr "야호!"
+
+#. STRINGS.COZY_RABBIT_YUM.1
+msgctxt "STRINGS.COZY_RABBIT_YUM.1"
+msgid "YUM!"
+msgstr "냠!"
+
+#. STRINGS.COZY_RABBIT_YUM.2
+msgctxt "STRINGS.COZY_RABBIT_YUM.2"
+msgid "YUMMY!"
+msgstr "냠냠!"
 
 #. STRINGS.CROWNAMES.1
 msgctxt "STRINGS.CROWNAMES.1"
@@ -258951,6 +261801,26 @@ msgctxt "STRINGS.NAMES.BOAT_ROTATOR_KIT"
 msgid "Rudder Kit"
 msgstr "키 키트"
 
+#. STRINGS.NAMES.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.NAMES.BODYPILLOW_BEEFALOWOOL"
+msgid "Beefalo Pillow Armor"
+msgstr "비팔로 베개 갑옷"
+
+#. STRINGS.NAMES.BODYPILLOW_KELP
+msgctxt "STRINGS.NAMES.BODYPILLOW_KELP"
+msgid "Kelpy Pillow Armor"
+msgstr "다시마 베개 갑옷"
+
+#. STRINGS.NAMES.BODYPILLOW_PETALS
+msgctxt "STRINGS.NAMES.BODYPILLOW_PETALS"
+msgid "Flowery Pillow Armor"
+msgstr "꽃 베개 갑옷"
+
+#. STRINGS.NAMES.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.NAMES.BODYPILLOW_STEELWOOL"
+msgid "Steel Wool Pillow Armor"
+msgstr "강철 털 베개 갑옷"
+
 #. STRINGS.NAMES.BONESHARD
 msgctxt "STRINGS.NAMES.BONESHARD"
 msgid "Bone Shards"
@@ -259986,6 +262856,21 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_MALBATROSS_SKETCH"
 msgid "Malbatross Figure Sketch"
 msgstr "말바트로스 조각상 스케치"
 
+#. STRINGS.NAMES.CHESSPIECE_MANRABBIT
+msgctxt "STRINGS.NAMES.CHESSPIECE_MANRABBIT"
+msgid "Bunnyman Figure"
+msgstr "토끼인간 조각상"
+
+#. STRINGS.NAMES.CHESSPIECE_MANRABBIT_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_MANRABBIT_BUILDER"
+msgid "Bunnyman Figure"
+msgstr "토끼인간 조각상"
+
+#. STRINGS.NAMES.CHESSPIECE_MANRABBIT_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_MANRABBIT_SKETCH"
+msgid "Bunnyman Figure Sketch"
+msgstr "토끼인간 조각상 스케치"
+
 #. STRINGS.NAMES.CHESSPIECE_MINOTAUR
 msgctxt "STRINGS.NAMES.CHESSPIECE_MINOTAUR"
 msgid "Ancient Guardian Figure"
@@ -260270,6 +263155,11 @@ msgstr "여왕 의상"
 msgctxt "STRINGS.NAMES.COSTUME_TREE_BODY"
 msgid "Tree Costume"
 msgstr "나무 의상"
+
+#. STRINGS.NAMES.COZY_BUNNYMAN
+msgctxt "STRINGS.NAMES.COZY_BUNNYMAN"
+msgid "Cozy Bunnyman"
+msgstr "포근한 토끼인간"
 
 #. STRINGS.NAMES.CRABKING
 msgctxt "STRINGS.NAMES.CRABKING"
@@ -261840,6 +264730,31 @@ msgstr "망치질"
 msgctxt "STRINGS.NAMES.HAMMER_MJOLNIR"
 msgid "Forging Hammer"
 msgstr "대장간 망치"
+
+#. STRINGS.NAMES.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.NAMES.HANDPILLOW_BEEFALOWOOL"
+msgid "Beefalo Wool Pillow"
+msgstr "비팔로 털 베개"
+
+#. STRINGS.NAMES.HANDPILLOW_KELP
+msgctxt "STRINGS.NAMES.HANDPILLOW_KELP"
+msgid "Kelp-Stuffed Pillow"
+msgstr "다시마 넣은 베개"
+
+#. STRINGS.NAMES.HANDPILLOW_PETALS
+msgctxt "STRINGS.NAMES.HANDPILLOW_PETALS"
+msgid "Flowery Pillow"
+msgstr "꽃 베개"
+
+#. STRINGS.NAMES.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.NAMES.HANDPILLOW_STEELWOOL"
+msgid "Steel Wool Pillow"
+msgstr "강철 털 베개"
+
+#. STRINGS.NAMES.HAREBALL
+msgctxt "STRINGS.NAMES.HAREBALL"
+msgid "Hare Ball"
+msgstr "토끼 털 뭉치"
 
 #. STRINGS.NAMES.HAWAIIANSHIRT
 msgctxt "STRINGS.NAMES.HAWAIIANSHIRT"
@@ -263700,6 +266615,11 @@ msgstr "씽씽이 변신과자"
 msgctxt "STRINGS.NAMES.NATURE_BLUEPRINT"
 msgid "Flowery Costume Pattern"
 msgstr "꽃무늬 의상 패턴"
+
+#. STRINGS.NAMES.NIGHTCAPHAT
+msgctxt "STRINGS.NAMES.NIGHTCAPHAT"
+msgid "Nightcap"
+msgstr "취침용 모자"
 
 #. STRINGS.NAMES.NIGHTLIGHT
 msgctxt "STRINGS.NAMES.NIGHTLIGHT"
@@ -269026,6 +271946,76 @@ msgctxt "STRINGS.NAMES.YOTP_FOOD3"
 msgid "Fish Heads on a Stick"
 msgstr "생선 대가리 꼬치"
 
+#. STRINGS.NAMES.YOTR_DECOR_1
+msgctxt "STRINGS.NAMES.YOTR_DECOR_1"
+msgid "Short Rabbit Lamp"
+msgstr "짧은 토끼 램프"
+
+#. STRINGS.NAMES.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.NAMES.YOTR_DECOR_1_ITEM"
+msgid "Short Rabbit Lamp"
+msgstr "짧은 토끼 램프"
+
+#. STRINGS.NAMES.YOTR_DECOR_2
+msgctxt "STRINGS.NAMES.YOTR_DECOR_2"
+msgid "Tall Rabbit Lamp"
+msgstr "긴 토끼 램프"
+
+#. STRINGS.NAMES.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.NAMES.YOTR_DECOR_2_ITEM"
+msgid "Tall Rabbit Lamp"
+msgstr "긴 토끼 램프"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING"
+msgid "Pillow Fight Pit"
+msgstr "베개 싸움 경기장"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_BELL
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_BELL"
+msgid "Pillow Fight Bell"
+msgstr "베개 싸움 종"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_KIT"
+msgid "Pillow Fight Pit Kit"
+msgstr "베개 싸움 경기장 키트"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_TORCH
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_TORCH"
+msgid "Bunnyman Torch"
+msgstr "토끼인간 횃불"
+
+#. STRINGS.NAMES.YOTR_FOOD1
+msgctxt "STRINGS.NAMES.YOTR_FOOD1"
+msgid "Bunny Roll"
+msgstr "토끼 롤"
+
+#. STRINGS.NAMES.YOTR_FOOD2
+msgctxt "STRINGS.NAMES.YOTR_FOOD2"
+msgid "Moon Cake"
+msgstr "달 케이크"
+
+#. STRINGS.NAMES.YOTR_FOOD3
+msgctxt "STRINGS.NAMES.YOTR_FOOD3"
+msgid "Moon Jelly"
+msgstr "달 젤리"
+
+#. STRINGS.NAMES.YOTR_FOOD4
+msgctxt "STRINGS.NAMES.YOTR_FOOD4"
+msgid "Skewered Puffs"
+msgstr "경단 꼬치"
+
+#. STRINGS.NAMES.YOTR_RABBITSHRINE
+msgctxt "STRINGS.NAMES.YOTR_RABBITSHRINE"
+msgid "Bunnyman Shrine"
+msgstr "토끼인간 사원"
+
+#. STRINGS.NAMES.YOTR_TOKEN
+msgctxt "STRINGS.NAMES.YOTR_TOKEN"
+msgid "Glove of Challenge"
+msgstr "도전의 장갑"
+
 #. STRINGS.NAMES.YOT_CATCOONSHRINE
 msgctxt "STRINGS.NAMES.YOT_CATCOONSHRINE"
 msgid "Catcoon Shrine"
@@ -271216,6 +274206,26 @@ msgctxt "STRINGS.RECIPE_DESC.BOAT_ROTATOR_KIT"
 msgid "Row, row, rotate your boat."
 msgstr "배를 빙글빙글 돌린다."
 
+#. STRINGS.RECIPE_DESC.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_BEEFALOWOOL"
+msgid "Beef up your pillow defenses."
+msgstr "베개 방어력을 \"소소\"하게 높여 준다."
+
+#. STRINGS.RECIPE_DESC.BODYPILLOW_KELP
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_KELP"
+msgid "A soggy suit of pillow armor."
+msgstr "축축한 베개 갑옷."
+
+#. STRINGS.RECIPE_DESC.BODYPILLOW_PETALS
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_PETALS"
+msgid "It offers minimal protection, but hopefully you'll still come out smelling like a rose."
+msgstr "최소한의 보호만 제공하지만, 적어도 장미 향기가 나게 된다."
+
+#. STRINGS.RECIPE_DESC.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.RECIPE_DESC.BODYPILLOW_STEELWOOL"
+msgid "A wearable pillow that is as effective as it is unpleasant."
+msgstr "불쾌한 만큼 효과적인 입을 수 있는 베개."
+
 #. STRINGS.RECIPE_DESC.BOOKSTATION
 msgctxt "STRINGS.RECIPE_DESC.BOOKSTATION"
 msgid "All books must be arranged using the Dewey Decimal System."
@@ -271685,6 +274695,16 @@ msgstr "바다 골칫거리의 조각상."
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MALBATROSS_SKETCH"
 msgid "A sculpture sketch of the mighty Malbatross."
 msgstr "힘센 말바트로스의 조각 스케치."
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_BUILDER"
+msgid "A fluffy friend, made of rock."
+msgstr "돌로 만들어진 복슬복슬한 친구."
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_SKETCH
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MANRABBIT_SKETCH"
+msgid "A sculpture sketch of a playful Bunnyman."
+msgstr "장난꾸러기 토끼인간의 조각상 스케치."
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_MINOTAUR_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_MINOTAUR_BUILDER"
@@ -272161,6 +275181,26 @@ msgctxt "STRINGS.RECIPE_DESC.HAMMER"
 msgid "Smashes all kinds of things."
 msgstr "여러 가지를 부술 수 있다."
 
+#. STRINGS.RECIPE_DESC.HANDPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_BEEFALOWOOL"
+msgid "It packs a woolly wallop!"
+msgstr "\"소소\"하게 아프다!"
+
+#. STRINGS.RECIPE_DESC.HANDPILLOW_KELP
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_KELP"
+msgid "Nobody likes a wet blanket. Wet pillows aren't much better."
+msgstr "축축한 담요를 좋아하는 사람은 없다. 그리고 축축한 베개도 마찬가지다."
+
+#. STRINGS.RECIPE_DESC.HANDPILLOW_PETALS
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_PETALS"
+msgid "A pillow packed with flower power."
+msgstr "꽃의 힘이 담긴 베개."
+
+#. STRINGS.RECIPE_DESC.HANDPILLOW_STEELWOOL
+msgctxt "STRINGS.RECIPE_DESC.HANDPILLOW_STEELWOOL"
+msgid "For folks who take their pillow fighting seriously."
+msgstr "베개 싸움을 진지하게 받아들이는 사람을 위한 베개."
+
 #. STRINGS.RECIPE_DESC.HAWAIIANSHIRT
 msgctxt "STRINGS.RECIPE_DESC.HAWAIIANSHIRT"
 msgid "Fun in the sun. Or on Casual Fridays."
@@ -272480,6 +275520,11 @@ msgstr "가장 사랑스럽고 귀여운 보디가드를 만드세요."
 msgctxt "STRINGS.RECIPE_DESC.MUTATOR_WATER"
 msgid "They look simply mouthwatering!"
 msgstr "단순히 군침이 도는 것처럼 보여요!"
+
+#. STRINGS.RECIPE_DESC.NIGHTCAPHAT
+msgctxt "STRINGS.RECIPE_DESC.NIGHTCAPHAT"
+msgid "A cap for your sleepy head."
+msgstr "졸린 머리를 위한 모자."
 
 #. STRINGS.RECIPE_DESC.NIGHTLIGHT
 msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
@@ -274115,6 +277160,46 @@ msgstr "안에 무엇이 숨어있는가?"
 msgctxt "STRINGS.RECIPE_DESC.YOTP_FOOD3"
 msgid "Prosperity on a stick."
 msgstr "막대기 위의 번영."
+
+#. STRINGS.RECIPE_DESC.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_1_ITEM"
+msgid "This lovable light makes any cave cozier."
+msgstr "그 어떤 동굴도 포근하게 만들어 주는 사랑스러운 빛."
+
+#. STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
+msgid "A rabbit statue with a real fire in its belly!"
+msgstr "뱃속에 진짜 불이 타오르는 토끼 조각상!"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD1
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
+msgid "No bunnies were harmed in the making of this cake."
+msgstr "이 케이크를 제작하는 과정에서 토끼가 희생되지 않았다."
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD2
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD2"
+msgid "It's \"blue\" flavored!"
+msgstr "\"파란색\" 맛!"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD3
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD3"
+msgid "This dessert looks almost too good to eat."
+msgstr "너무 예뻐서 거의 먹을 수가 없는 디저트."
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD4
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD4"
+msgid "Puffy balls of chewy goodness."
+msgstr "쫀득하고 쫄깃한 공."
+
+#. STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE"
+msgid "Make offerings to the cozy Bunnyman."
+msgstr "포근한 토끼인간에게 제물을 바친다."
+
+#. STRINGS.RECIPE_DESC.YOTR_TOKEN
+msgctxt "STRINGS.RECIPE_DESC.YOTR_TOKEN"
+msgid "Tell a Bunnyman you'd like to try your hand at a pillow battle."
+msgstr "토끼인간에게 베개 싸움을 하고 싶다고 말한다."
 
 #. STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE
 msgctxt "STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE"
@@ -276416,6 +279501,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_ice"
 msgid "A fine coat to keep out the chill."
 msgstr "추위를 막아주는 고급 코트입니다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_masquerade"
+msgid "The eclectic attire of a party-goer who savors every moment."
+msgstr "매 순간을 음미하는 파티 참석자의 독특한 의상."
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_warly_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_nature"
 msgid "Made by hand with woven natural fibers."
@@ -276886,6 +279976,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_mandrakep"
 msgid "A Hallowed Nights costume fashioned after a delightfully annoying vegetable."
 msgstr "성가신 식물처럼 생긴 Hallowed Nights 의상이다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wes_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_masquerade"
+msgid "The puffed shoulders are supposed to help one look confident."
+msgstr "부풀어 오른 어깨가 자신감이 있어 보이게 해준다고 한다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wes_nature"
 msgid "These artist's tools are mostly for show. It's not easy to get ahold of paints in the wilderness."
@@ -277085,6 +280180,11 @@ msgstr "흡열불과 마찬가지로 이 복장은 착용자를 따뜻하게 해
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_magma"
 msgid "A frock with the power to appease the Fire Gods."
 msgstr "불의 신을 기쁘게 할 원피스."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_willow_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_masquerade"
+msgid "A flowing dress of smoky black and burning red."
+msgstr "연기 같은 검은색과 불타는 빨간색의 하늘하늘한 드레스."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_pirate"
@@ -277451,6 +280551,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_magma"
 msgid "Sport a hot new look in this cool jacket and T-shirt combo."
 msgstr "쿨한 재킷과 티셔츠 콤보로 열정의 패션을 만든다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_masquerade"
+msgid "Despite its posh appearance, you get the strange impression it would look more at home in the woods."
+msgstr "고급스러워 보이지만, 왠지 숲에 더 어울릴 것 같다는 이상한 느낌이 든다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_nature"
 msgid "Tincap not included."
@@ -277575,6 +280680,11 @@ msgstr "약삭빠른 용의 비늘 몸통."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_ice"
 msgid "Fluffy fur as cold and white as fallen snow under pale moonlight."
 msgstr "창백한 달빛 아래 내린 눈처럼 차갑고 하얀 솜털입니다."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wortox_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_masquerade"
+msgid "The draped fabric makes for a light and airy look."
+msgstr "늘어진 옷감이 가볍고 하늘하늘한 느낌을 준다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_minotaur"
@@ -278786,6 +281896,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_ice"
 msgid "Frigidly fabulous footwear."
 msgstr "격식있고 멋진 신발입니다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_masquerade"
+msgid "Perfect for capering around the dance floor."
+msgstr "무대에서 뛰어다니기 좋은 의상."
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_nature"
 msgid "Soft soles for a gentle soul."
@@ -279010,6 +282125,11 @@ msgstr "골동품 도자기 인형의 섬세한 신발."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_ice"
 msgid "A pair of stylish heels accented by a puff of rabbit fur."
 msgstr "토끼 모피로 장식한 세련된 하이힐."
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_willow_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_masquerade"
+msgid "With these shoes, you'll be burning up the dance floor."
+msgstr "이 신발이 있으면 무대를 뜨겁게 달굴 수 있다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_willow_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_pirate"
@@ -279831,6 +282951,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_candyman"
 msgid "For hand-making each tasty treat with care."
 msgstr "맛있는 간식을 하나씩 정성껏 만든다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_masquerade"
+msgid "A nice pair of gloves gives any outfit a certain \"je ne sais quoi\"."
+msgstr "어떤 의상에든 설명하기 힘든 느낌을 주는 멋진 장갑."
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_rose"
 msgid "Gloved hands tend the finest roses."
@@ -280240,6 +283365,11 @@ msgstr "손가락을 잃지 않고 정상에 오르려면 손을 따뜻하게 �
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma"
 msgid "Studded gloves for peerless gripping of an axe."
 msgstr "도끼를 잘 잡을 수 있게 해주는 스터드 달린 장갑."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_masquerade"
+msgid "The delicate fabric nearly masks the rough, calloused hands."
+msgstr "섬세한 옷감이 거칠고 못 박인 손을 거의 가려준다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature"
@@ -281056,6 +284186,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_ice"
 msgid "These fancy pants are ready for some winter festivities."
 msgstr "이 멋진 바지는 어느 겨울 축제에 갈 준비가 되었습니다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_masquerade"
+msgid "These cream and pistachio striped pants are a feast for the eyes."
+msgstr "크림색과 피스타치오색 줄무늬 바지가 눈 호강을 시켜준다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_warly_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_warly_pirate"
 msgid "These pants have been weathered by many days at sea."
@@ -281150,6 +284285,11 @@ msgstr "겨울 느낌의 플레드 셔츠 바지."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_webber_lunar"
 msgid "A thick layer of fluff to insulate you against the cold lunar landscape."
 msgstr "차가운 달의 환경으로부터 몸을 보호하며 체온을 유지시켜 주는 두꺼운 솜털 층."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wes_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wes_masquerade"
+msgid "These purple pants were made to dance."
+msgstr "이 보라색 바지는 춤출 때 입기 아주 좋다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wes_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wes_pirate"
@@ -281301,6 +284441,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_magma"
 msgid "These boots are on fire."
 msgstr "불 타는 부츠."
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_masquerade"
+msgid "The wearer of these boots is on the hunt for the punch bowl."
+msgstr "이 부츠를 신은 사람은 펀치 그릇을 찾고 있다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_woodie_nature"
 msgid "These old trousers are as traditional as they are uncomfortable."
@@ -281375,6 +284520,11 @@ msgstr "바지가 과대평가됐다고 생각하는 또 다른 생물."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_ice"
 msgid "If you follow mysterious hoofprints in the snow, you might find something other than a reindeer."
 msgstr "눈 속에서 신비한 발굽을 따라가다 보면 순록이 아닌 다른 것을 발견할 수도 있습니다."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_masquerade"
+msgid "This guest is particularly light on their feet."
+msgstr "이 손님은 특히나 발이 가볍다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_minotaur"
@@ -282221,6 +285371,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_victorian"
 msgid "Nothing creates an ambiance quite like a glowing fungus."
 msgstr "빛나는 곰팡이만큼 분위기를 조성하는 것은 없습니다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_an"
+msgid "This mushlamp was made to dazzle."
+msgstr "매우 눈부신 버섯 램프."
+
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive"
 msgid "Merry and bright."
@@ -283046,6 +286201,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_wx78"
 msgid "This Magmatic Chest contains WX-78's complete set of Magmatic skin items."
 msgstr "이 마그마질 상자에는 WX-78의 마그마질 아이템 종합 세트가 들어 있다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1"
+msgid "This Masquerader Chest contains skins for: Willow, Warly, Wortox, Wes, and Woodie."
+msgstr "이 가면무도회 상자에는 윌로우, 왈리, 워톡스, 웨스, 우디의 스킨이 들어 있다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items"
 msgid "This Musclebound Chest contains the following skin items: Potato Nap Sack, Hanging Bar, Elephant Pack and Boulder Bell."
@@ -283225,6 +286385,11 @@ msgstr "이 상자에는 플레이어블 캐릭터 워톡스: 영혼에 굶주�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2021"
 msgid "This Chest contains the playable character, Wanda: The Timekeeper, Wilson's Snowfallen skin set, Willow's Victorian skin set, Walter's Guest of Honor skin set, Winona's Roseate skin set, the Rustic Torch, the Splumonkey Sack, and the Yawny Jammies Ensemble."
 msgstr "이 상자에는 플레이어블 캐릭터 완다: 시간지기, 윌슨의 눈송이 스킨 세트, 윌로우의 빅토리아풍 스킨 세트, 월터의 주빈 스킨 세트. 위노나의 장밋빛 스킨 세트, 시골스러운 왯불, 동굴 원숭이 자루, 하품 나는 파자마 앙상블이 들어 있습니다."
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2023
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2023"
+msgid "This Chest contains the playable character, Wortox: The Soul Starved, Wilson's Magmatic skin set, Wendy's Guest of Honor skin set with Abigail's Ghost of Honor item skin, Wolfgang's Pirate skin set, WX-78's Shadow skin set, the Gothic Scientific Instrument, the Gothic Lantern, and the Sleepytime Ensemble."
+msgstr "이 상자에는 플레이어블 캐릭터 워톡스: 영혼에 굶주린 자, 윌슨의 마그마질 스킨 세트, 웬디의 주빈 스킨 세트와 아비게일의 초대 유령 아이템 스킨, 볼프강의 해적 스킨 세트, WX-78의 그림자 스킨 세트, 고딕 과학 기기, 고딕 랜턴, 수면시간 앙상블이 들어 있다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift"
@@ -284476,6 +287641,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlight2an"
 msgid "Equip this item to change your character's background portrait."
 msgstr "이 아이템을 장착하면 캐릭터의 배경 초상화가 변경된다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlightan
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_mushroomlightan"
+msgid "Equip this item to change your character's background portrait."
+msgstr "이 아이템을 장착하면 캐릭터의 배경 초상화가 변경된다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_oven
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_oven"
 msgid "Equip this item to change your character's background portrait."
@@ -285165,6 +288335,11 @@ msgstr "맛있는 팔보진흙파이로 프로필 아이콘을 설정한다."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_light2an"
 msgid "Set your profile icon to an Eclectic Glowcap."
 msgstr "다채로운 발광갓으로 프로필 아이콘을 설정한다."
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_lightan
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mushroom_lightan"
+msgid "Set your profile icon to a Mosaic Mushlamp."
+msgstr "모자이크 버섯 램프로 프로필 아이콘을 설정한다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight"
@@ -286936,6 +290111,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_ice"
 msgid "Warly has put together his finest outfit to attend the Snow Ball."
 msgstr "왈리는 눈꽃 무도회에 참석하기 위해 가장 멋진 의상을 입었습니다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_masquerade"
+msgid "This mysterious gentleman has whipped up a cracking ensemble."
+msgstr "이 수수께끼의 신사는 \"알\"찬 의상을 차려입었다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.warly_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_nature"
 msgid "Warly has found a deep appreciation for the natural world and all it provides."
@@ -287576,6 +290756,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_mandrake_p"
 msgid "What's the sound of one mandrake meeping?"
 msgstr "맨드레이크의 울음소리는 어떻게 들리는가?"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wes_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_masquerade"
+msgid "This poor party guest seems too shy to join in any conversation."
+msgstr "이 불쌍한 파티 손님은 너무 수줍어서 대화에 못 끼는 듯하다."
+
 #. STRINGS.SKIN_DESCRIPTIONS.wes_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_nature"
 msgid "Wes is an avid landscape painter in his downtime."
@@ -287810,6 +290995,11 @@ msgstr "흡열불은 윌로우가... 뜨거운 불, 따뜻한 불, 미지근한 
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_magma"
 msgid "Willow has never been so at home."
 msgstr "윌로우의 마음의 고향."
+
+#. STRINGS.SKIN_DESCRIPTIONS.willow_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_masquerade"
+msgid "This masked party-goer has a dangerous spark in her eyes..."
+msgstr "이 가면 쓴 파티광의 눈에서는 위험한 빛이 번득인다..."
 
 #. STRINGS.SKIN_DESCRIPTIONS.willow_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_none"
@@ -288346,6 +291536,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_magma"
 msgid "Woodie's confidence in battle is rooted in experience."
 msgstr "우디의 자신감은 경험에 뿌리를 내리고 있다."
 
+#. STRINGS.SKIN_DESCRIPTIONS.woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_masquerade"
+msgid "A refined gentleman, or a wolf in sheep's clothing?"
+msgstr "세련된 신사일까? 아니면 양의 탈을 뒤집어쓴 늑대일까?"
+
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_nature"
 msgid "All Woodie needs is the sun, the rain, and his favourite tree seeds."
@@ -288520,6 +291715,11 @@ msgstr "용이 모두 금을 탐내지는 않는다. 워톡스는 영혼 더미�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_ice"
 msgid "Deer Wortox could try to rein in his prankster tendencies, but what fun would that be?"
 msgstr "사슴 워톡스는 장난꾸러기 성향을 억제하려고 할 수 있지만 그게 무슨 재미가 있겠어요?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wortox_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_masquerade"
+msgid "This guest's angelic appearance might be masking a devilish trickster within."
+msgstr "이 손님의 천사 같은 외모 밑에는 악마 같은 장난꾸러기가 숨어있을지도 모른다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur"
@@ -290231,6 +293431,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_warly_ice"
 msgid "Winter Soiree Jacket"
 msgstr "겨울 야회 재킷"
 
+#. STRINGS.SKIN_NAMES.body_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_warly_masquerade"
+msgid "Extravagant Vest"
+msgstr "호화로운 조끼"
+
 #. STRINGS.SKIN_NAMES.body_warly_nature
 msgctxt "STRINGS.SKIN_NAMES.body_warly_nature"
 msgid "Druidic Tunic"
@@ -290701,6 +293906,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wes_mandrakep"
 msgid "Mandrake Costume Top"
 msgstr "맨드레이크 의상 상의"
 
+#. STRINGS.SKIN_NAMES.body_wes_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_wes_masquerade"
+msgid "Fancy Jacket"
+msgstr "근사한 재킷"
+
 #. STRINGS.SKIN_NAMES.body_wes_nature
 msgctxt "STRINGS.SKIN_NAMES.body_wes_nature"
 msgid "Fauvist's Smock"
@@ -290900,6 +294110,11 @@ msgstr "흡열불 드레스"
 msgctxt "STRINGS.SKIN_NAMES.body_willow_magma"
 msgid "Pyrestarter's Dress"
 msgstr "방화광의 드레스"
+
+#. STRINGS.SKIN_NAMES.body_willow_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_willow_masquerade"
+msgid "Flamedancer Ballgown"
+msgstr "불의 춤꾼 야회복"
 
 #. STRINGS.SKIN_NAMES.body_willow_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_willow_pirate"
@@ -291266,6 +294481,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_woodie_magma"
 msgid "Hot Rod's Jacket"
 msgstr "핫 로드 재킷"
 
+#. STRINGS.SKIN_NAMES.body_woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_woodie_masquerade"
+msgid "Hunter Green Coat"
+msgstr "사냥꾼의 녹색 코트"
+
 #. STRINGS.SKIN_NAMES.body_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.body_woodie_nature"
 msgid "Orchardist's Tunic"
@@ -291390,6 +294610,11 @@ msgstr "용 상자"
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_ice"
 msgid "Reindeer Chest"
 msgstr "순록 상자"
+
+#. STRINGS.SKIN_NAMES.body_wortox_masquerade
+msgctxt "STRINGS.SKIN_NAMES.body_wortox_masquerade"
+msgid "Cherubic Toga"
+msgstr "천사의 토가"
 
 #. STRINGS.SKIN_NAMES.body_wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.body_wortox_minotaur"
@@ -292601,6 +295826,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_warly_ice"
 msgid "Winter Soiree Shoes"
 msgstr "겨울 야회 신발"
 
+#. STRINGS.SKIN_NAMES.feet_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.feet_warly_masquerade"
+msgid "Dancing Shoes"
+msgstr "무도화"
+
 #. STRINGS.SKIN_NAMES.feet_warly_nature
 msgctxt "STRINGS.SKIN_NAMES.feet_warly_nature"
 msgid "Soft Leather Shoes"
@@ -292825,6 +296055,11 @@ msgstr "쓸쓸한 인형 메리 제인"
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_ice"
 msgid "Coldfire Shoes"
 msgstr "흡열불 신발"
+
+#. STRINGS.SKIN_NAMES.feet_willow_masquerade
+msgctxt "STRINGS.SKIN_NAMES.feet_willow_masquerade"
+msgid "Hotstepper Heels"
+msgstr "뜨끈뜨끈 하이힐"
 
 #. STRINGS.SKIN_NAMES.feet_willow_pirate
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_pirate"
@@ -293646,6 +296881,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_warly_candyman"
 msgid "Candy-Striped Gloves"
 msgstr "사탕 무늬 장갑"
 
+#. STRINGS.SKIN_NAMES.hand_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.hand_warly_masquerade"
+msgid "Cuffed Glovelettes"
+msgstr "커프스 달린 반장갑"
+
 #. STRINGS.SKIN_NAMES.hand_warly_rose
 msgctxt "STRINGS.SKIN_NAMES.hand_warly_rose"
 msgid "Sugar Rose Gloves"
@@ -294055,6 +297295,11 @@ msgstr "산악인의 커프스"
 msgctxt "STRINGS.SKIN_NAMES.hand_woodie_magma"
 msgid "Hot Rod's Driving Gloves"
 msgstr "핫 로드 운전용 장갑"
+
+#. STRINGS.SKIN_NAMES.hand_woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.hand_woodie_masquerade"
+msgid "Wrist Ruffles"
+msgstr "손목 러플"
 
 #. STRINGS.SKIN_NAMES.hand_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.hand_woodie_nature"
@@ -294871,6 +298116,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_warly_ice"
 msgid "Winter Soiree Pants"
 msgstr "겨울 야회 팬츠"
 
+#. STRINGS.SKIN_NAMES.legs_warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_warly_masquerade"
+msgid "Extravagant Pants"
+msgstr "호화로운 바지"
+
 #. STRINGS.SKIN_NAMES.legs_warly_pirate
 msgctxt "STRINGS.SKIN_NAMES.legs_warly_pirate"
 msgid "Pirate Pantaloons"
@@ -294965,6 +298215,11 @@ msgstr "눈거미 슬랙스"
 msgctxt "STRINGS.SKIN_NAMES.legs_webber_lunar"
 msgid "Mutated Spider Legs"
 msgstr "변형된 거미 다리"
+
+#. STRINGS.SKIN_NAMES.legs_wes_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_wes_masquerade"
+msgid "Fancy Pants"
+msgstr "근사한 바지"
 
 #. STRINGS.SKIN_NAMES.legs_wes_pirate
 msgctxt "STRINGS.SKIN_NAMES.legs_wes_pirate"
@@ -295116,6 +298371,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_woodie_magma"
 msgid "Hot Rod's Pants"
 msgstr "핫 로드 바지"
 
+#. STRINGS.SKIN_NAMES.legs_woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_woodie_masquerade"
+msgid "Fine Huntsman Boots"
+msgstr "고급 사냥꾼 부츠"
+
 #. STRINGS.SKIN_NAMES.legs_woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.legs_woodie_nature"
 msgid "Orchardist's Pants"
@@ -295190,6 +298450,11 @@ msgstr "용 다리"
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_ice"
 msgid "Reindeer Legs"
 msgstr "순록 다리"
+
+#. STRINGS.SKIN_NAMES.legs_wortox_masquerade
+msgctxt "STRINGS.SKIN_NAMES.legs_wortox_masquerade"
+msgid "Clawed Feet"
+msgstr "발톱 달린 발"
 
 #. STRINGS.SKIN_NAMES.legs_wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.legs_wortox_minotaur"
@@ -296036,6 +299301,11 @@ msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_victorian"
 msgid "Mushlamp Post"
 msgstr "머쉬램프 기둥"
 
+#. STRINGS.SKIN_NAMES.mushroom_light_an
+msgctxt "STRINGS.SKIN_NAMES.mushroom_light_an"
+msgid "Mosaic Mushlamp"
+msgstr "모자이크 버섯 램프"
+
 #. STRINGS.SKIN_NAMES.mushroom_light_festive
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light_festive"
 msgid "Festive Fungal Lamp"
@@ -296861,6 +300131,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_magma_wx78"
 msgid "WX-78 Magmatic Chest"
 msgstr "WX-78 마그마질 상자"
 
+#. STRINGS.SKIN_NAMES.pack_masquerade_1
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_1"
+msgid "Masquerader Survivors Chest"
+msgstr "가면무도회 생존자 상자"
+
 #. STRINGS.SKIN_NAMES.pack_mighty_items
 msgctxt "STRINGS.SKIN_NAMES.pack_mighty_items"
 msgid "Musclebound Chest"
@@ -297040,6 +300315,11 @@ msgstr "스타터 팩 2020"
 msgctxt "STRINGS.SKIN_NAMES.pack_starter_2021"
 msgid "Starter Pack 2021"
 msgstr "스타터 팩 2021"
+
+#. STRINGS.SKIN_NAMES.pack_starter_2023
+msgctxt "STRINGS.SKIN_NAMES.pack_starter_2023"
+msgid "Starter Pack 2023"
+msgstr "스타터 팩 2023"
 
 #. STRINGS.SKIN_NAMES.pack_sw_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_sw_gift"
@@ -298291,6 +301571,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlight2an"
 msgid "Eclectic Glowcap Portrait"
 msgstr "다채로운 발광갓 초상화"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlightan
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_mushroomlightan"
+msgid "Mosaic Mushlamp Portrait"
+msgstr "모자이크 버섯 램프 초상화"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_oven
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_oven"
 msgid "Warm Oven Portrait"
@@ -298980,6 +302265,11 @@ msgstr "팔보진흙파이"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_mushroom_light2an"
 msgid "Eclectic Glowcap"
 msgstr "다채로운 발광갓"
+
+#. STRINGS.SKIN_NAMES.profileflair_mushroom_lightan
+msgctxt "STRINGS.SKIN_NAMES.profileflair_mushroom_lightan"
+msgid "Mosaic Mushlamp"
+msgstr "모자이크 버섯 램프"
 
 #. STRINGS.SKIN_NAMES.profileflair_nightlight
 msgctxt "STRINGS.SKIN_NAMES.profileflair_nightlight"
@@ -300751,6 +304041,11 @@ msgctxt "STRINGS.SKIN_NAMES.warly_ice"
 msgid "The Snowfallen"
 msgstr "눈 덮인"
 
+#. STRINGS.SKIN_NAMES.warly_masquerade
+msgctxt "STRINGS.SKIN_NAMES.warly_masquerade"
+msgid "The Masquerader"
+msgstr "가면무도회"
+
 #. STRINGS.SKIN_NAMES.warly_nature
 msgctxt "STRINGS.SKIN_NAMES.warly_nature"
 msgid "The Verdant"
@@ -301391,6 +304686,11 @@ msgctxt "STRINGS.SKIN_NAMES.wes_mandrake_p"
 msgid "Wesdrake Makeup"
 msgstr "웨스드레이크 분장"
 
+#. STRINGS.SKIN_NAMES.wes_masquerade
+msgctxt "STRINGS.SKIN_NAMES.wes_masquerade"
+msgid "The Masquerader"
+msgstr "가면무도회"
+
 #. STRINGS.SKIN_NAMES.wes_nature
 msgctxt "STRINGS.SKIN_NAMES.wes_nature"
 msgid "The Verdant"
@@ -301625,6 +304925,11 @@ msgstr "눈 덮인"
 msgctxt "STRINGS.SKIN_NAMES.willow_magma"
 msgid "The Magmatic"
 msgstr "마그마질"
+
+#. STRINGS.SKIN_NAMES.willow_masquerade
+msgctxt "STRINGS.SKIN_NAMES.willow_masquerade"
+msgid "The Masquerader"
+msgstr "가면무도회"
 
 #. STRINGS.SKIN_NAMES.willow_none
 msgctxt "STRINGS.SKIN_NAMES.willow_none"
@@ -302161,6 +305466,11 @@ msgctxt "STRINGS.SKIN_NAMES.woodie_magma"
 msgid "The Magmatic"
 msgstr "마그마질"
 
+#. STRINGS.SKIN_NAMES.woodie_masquerade
+msgctxt "STRINGS.SKIN_NAMES.woodie_masquerade"
+msgid "The Masquerader"
+msgstr "가면무도회"
+
 #. STRINGS.SKIN_NAMES.woodie_nature
 msgctxt "STRINGS.SKIN_NAMES.woodie_nature"
 msgid "The Verdant"
@@ -302335,6 +305645,11 @@ msgstr "용"
 msgctxt "STRINGS.SKIN_NAMES.wortox_ice"
 msgid "The Snowfallen"
 msgstr "눈 덮인"
+
+#. STRINGS.SKIN_NAMES.wortox_masquerade
+msgctxt "STRINGS.SKIN_NAMES.wortox_masquerade"
+msgid "The Masquerader"
+msgstr "가면무도회"
 
 #. STRINGS.SKIN_NAMES.wortox_minotaur
 msgctxt "STRINGS.SKIN_NAMES.wortox_minotaur"
@@ -302706,6 +306021,11 @@ msgctxt "STRINGS.SKIN_QUOTES.warly_ice"
 msgid "\"I'd say this look is best served cold.\""
 msgstr "\"이 룩은 차갑게 준비하는 게 가장 좋아요.\""
 
+#. STRINGS.SKIN_QUOTES.warly_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.warly_masquerade"
+msgid "\"An air of mystery is the secret ingredient for any good soiree.\""
+msgstr "\"훌륭한 파티의 비밀 재료는 수수께끼 같은 분위기지.\""
+
 #. STRINGS.SKIN_QUOTES.warly_nature
 msgctxt "STRINGS.SKIN_QUOTES.warly_nature"
 msgid "\"I only cook with natural ingredients.\""
@@ -302768,8 +306088,8 @@ msgstr "\"내 전투 실력은 일류라고.\""
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_ice
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_ice"
-msgid "\"Call forth the howling winds and biting cold, the jotunn fear them not!\""
-msgstr "\"세찬 바람과 얼어붙는 듯한 추위를 불러와라. 요툰은 두렵지 않다!\""
+msgid "\"Call förth the höwling winds and biting cöld, the jötnar fear them nöt!\""
+msgstr "\"울부짖는 바람과 혹독한 추위를 불러라! 요툰은 바람과 추위가 두렵지 않으니!\""
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_magma
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_magma"
@@ -303331,6 +306651,11 @@ msgctxt "STRINGS.SKIN_QUOTES.willow_magma"
 msgid "\"All fire, all the time!!\""
 msgstr "\"다 불인걸, 언제나!!\""
 
+#. STRINGS.SKIN_QUOTES.willow_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.willow_masquerade"
+msgid "\"The flames taught me how to dance.\""
+msgstr "\"불이 춤추는 법을 알려줬어.\""
+
 #. STRINGS.SKIN_QUOTES.willow_pirate
 msgctxt "STRINGS.SKIN_QUOTES.willow_pirate"
 msgid "\"Come onnnn, let me fire the cannon!\""
@@ -303731,6 +307056,11 @@ msgctxt "STRINGS.SKIN_QUOTES.woodie_magma"
 msgid "\"Hope I don't burn the trees.\""
 msgstr "\"설마 나무를 태우게 되지는 않겠지.\""
 
+#. STRINGS.SKIN_QUOTES.woodie_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.woodie_masquerade"
+msgid "\"If Lucy's the belle of the ball, I guess that makes me the beast.\""
+msgstr "\"루시가 이 무도회에 미녀라면, 나는 야수겠네.\""
+
 #. STRINGS.SKIN_QUOTES.woodie_nature
 msgctxt "STRINGS.SKIN_QUOTES.woodie_nature"
 msgid "\"Even the most majestic tree's gotta start as a seed.\""
@@ -303865,6 +307195,11 @@ msgstr "\"영혼 더미랑 내 사이에 끼어들기만 해봐.\""
 msgctxt "STRINGS.SKIN_QUOTES.wortox_ice"
 msgid "\"Don't slip up or you might get a face full of snow, hyuyu!\""
 msgstr "\"미끄러지지 마, 안 그러면 얼굴에 눈으로 범벅될 거야, 휴유!\""
+
+#. STRINGS.SKIN_QUOTES.wortox_masquerade
+msgctxt "STRINGS.SKIN_QUOTES.wortox_masquerade"
+msgid "\"These masked events are the playgrounds of merry mischief-makers!\""
+msgstr "\"가면을 쓰는 행사는 흥겨운 장난꾸러기들의 놀이터지!\""
 
 #. STRINGS.SKIN_QUOTES.wortox_minotaur
 msgctxt "STRINGS.SKIN_QUOTES.wortox_minotaur"
@@ -304360,6 +307695,11 @@ msgstr "달의 속박 컬렉션"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR_NY"
 msgid "Lunar New Year Collection"
 msgstr "설날 컬렉션"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MASQUERADE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MASQUERADE"
+msgid "Masquerade Collection"
+msgstr "가면무도회 컬렉션"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MIGHTY"
@@ -313546,6 +316886,11 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTP"
 msgid "Available during Year of the Pig King!"
 msgstr "돼지 왕의 해에 이용 가능합니다!"
 
+#. STRINGS.UI.CRAFTING.NEEDSYOTR
+msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTR"
+msgid "Available during Year of the Bunnyman!"
+msgstr "토끼의 해 동안 이용 가능!"
+
 #. STRINGS.UI.CRAFTING.NEEDSYOTV
 msgctxt "STRINGS.UI.CRAFTING.NEEDSYOTV"
 msgid "Available during Year of the Varg!"
@@ -316240,6 +319585,11 @@ msgstr "동굴 벌레"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BEEFALO"
 msgid "Year of the Beefalo"
 msgstr "비팔로의 해"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BUNNYMAN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BUNNYMAN"
+msgid "Year of the Bunnyman"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT"
@@ -319536,6 +322886,11 @@ msgctxt "STRINGS.UI.MAINSCREEN.STEAMOFFLINEMODEDESC"
 msgid "Couldn't connect to Steam (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
 msgstr "(정기 점검 또는 연결 문제로 인해) Steam에 연결할 수 없었습니다. 온라인 게임의 캐릭터와 세계를 이용할 수 없습니다. 오프라인으로 진행하시겠습니까?"
 
+#. STRINGS.UI.MAINSCREEN.STORE_DISABLE
+msgctxt "STRINGS.UI.MAINSCREEN.STORE_DISABLE"
+msgid "You must be logged in to use the Klei Store."
+msgstr ""
+
 #. STRINGS.UI.MAINSCREEN.SURE
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
 msgid "Are you sure?"
@@ -321570,6 +324925,11 @@ msgstr "서버가 세계 생성 중"
 msgctxt "STRINGS.UI.NOTIFICATION.WORLDGENERATING_SERVER"
 msgid "Generating World"
 msgstr "세계 생성 중"
+
+#. STRINGS.UI.OBJECTOWNERSHIP
+msgctxt "STRINGS.UI.OBJECTOWNERSHIP"
+msgid "{owner}'s {object}"
+msgstr "{owner}의 {object}"
 
 #. STRINGS.UI.OPTIONS.ACCEPT
 msgctxt "STRINGS.UI.OPTIONS.ACCEPT"
@@ -324751,6 +328111,11 @@ msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP"
 msgid "Year of the Pig King"
 msgstr "돼지 왕의 해"
 
+#. STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTR
+msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTR"
+msgid "Year of the Bunnyman"
+msgstr ""
+
 #. STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV
 msgctxt "STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV"
 msgid "Year of the Varg"
@@ -326850,6 +330215,11 @@ msgstr "겨울 축제"
 msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BEEFALO"
 msgid "Year of the Beefalo"
 msgstr "비팔로의 해"
+
+#. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BUNNYMAN
+msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_BUNNYMAN"
+msgid "Year of the Bunnyman"
+msgstr ""
 
 #. STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT
 msgctxt "STRINGS.UI.SPECIAL_EVENT_NAMES.YEAR_OF_THE_CARRAT"
