@@ -277168,6 +277168,11 @@ msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
 msgid "A rabbit statue with a real fire in its belly!"
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT"
+msgid "Who will be the last pillowfighter standing?"
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.YOTR_FOOD1
 msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
 msgid "No bunnies were harmed in the making of this cake."
@@ -286201,6 +286206,31 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1"
 msgid "This Masquerader Chest contains skins for: Willow, Warly, Wortox, Wes, and Woodie."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_warly
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_warly"
+msgid "This Masquerader Chest contains Warly's complete set of Masquerade skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wes
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wes"
+msgid "This Masquerader Chest contains Wes' complete set of Masquerade skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_willow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_willow"
+msgid "This Masquerader Chest contains Willow's complete set of Masquerade skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_woodie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_woodie"
+msgid "This Masquerader Chest contains Woodie's complete set of Masquerade skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wortox
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wortox"
+msgid "This Masquerader Chest contains Wortox's complete set of Masquerade skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items
@@ -300131,6 +300161,31 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_masquerade_1
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_1"
 msgid "Masquerader Survivors Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_warly
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_warly"
+msgid "Warly Masquerade Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_wes
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_wes"
+msgid "Wes Masquerade Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_willow
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_willow"
+msgid "Willow Masquerade Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_woodie
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_woodie"
+msgid "Woodie Masquerade Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_wortox
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_wortox"
+msgid "Wortox Masquerade Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_mighty_items

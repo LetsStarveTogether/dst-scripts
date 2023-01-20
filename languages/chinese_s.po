@@ -253789,7 +253789,7 @@ msgstr "需要装配"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD1
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD1"
 msgid "NO TRACE OF RABBIT DETECTED. DISAPPOINTING"
-msgstr "没有侦测到兔子。\n失望"
+msgstr "没有侦测到兔子。失望"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTR_FOOD2"
@@ -277171,6 +277171,11 @@ msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
 msgid "A rabbit statue with a real fire in its belly!"
 msgstr "一尊肚子里真正有火的兔子雕像！"
 
+#. STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT"
+msgid "Who will be the last pillowfighter standing?"
+msgstr "究竟谁能成为屹立不倒的枕头战士呢？"
+
 #. STRINGS.RECIPE_DESC.YOTR_FOOD1
 msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
 msgid "No bunnies were harmed in the making of this cake."
@@ -277194,7 +277199,7 @@ msgstr "蓬松有嚼劲的球。"
 #. STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE
 msgctxt "STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE"
 msgid "Make offerings to the cozy Bunnyman."
-msgstr "向舒适的兔人献上供品。"
+msgstr "供奉舒适之兔人。"
 
 #. STRINGS.RECIPE_DESC.YOTR_TOKEN
 msgctxt "STRINGS.RECIPE_DESC.YOTR_TOKEN"
@@ -286205,6 +286210,31 @@ msgstr "这个岩浆箱子里有WX-78的全套岩浆皮肤物品。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_1"
 msgid "This Masquerader Chest contains skins for: Willow, Warly, Wortox, Wes, and Woodie."
 msgstr "这个假面舞会箱子包含以下人物的皮肤：薇洛、沃利、沃拓克斯、韦斯和伍迪。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_warly
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_warly"
+msgid "This Masquerader Chest contains Warly's complete set of Masquerade skin items."
+msgstr "这个假面舞会箱子包含了沃利的全套假面舞会皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wes
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wes"
+msgid "This Masquerader Chest contains Wes' complete set of Masquerade skin items."
+msgstr "这个假面舞会箱子包含了韦斯的全套假面舞会皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_willow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_willow"
+msgid "This Masquerader Chest contains Willow's complete set of Masquerade skin items."
+msgstr "这个假面舞会箱子包含了薇洛的全套假面舞会皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_woodie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_woodie"
+msgid "This Masquerader Chest contains Woodie's complete set of Masquerade skin items."
+msgstr "这个假面舞会箱子包含了伍迪的全套假面舞会皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wortox
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wortox"
+msgid "This Masquerader Chest contains Wortox's complete set of Masquerade skin items."
+msgstr "这个假面舞会箱子包含了沃拓克斯的全套假面舞会皮肤物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items"
@@ -300135,6 +300165,31 @@ msgstr "WX-78的岩浆箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_1"
 msgid "Masquerader Survivors Chest"
 msgstr "假面舞会冒险家箱子"
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_warly
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_warly"
+msgid "Warly Masquerade Chest"
+msgstr "沃利假面舞会箱子"
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_wes
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_wes"
+msgid "Wes Masquerade Chest"
+msgstr "韦斯假面舞会箱子"
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_willow
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_willow"
+msgid "Willow Masquerade Chest"
+msgstr "薇洛假面舞会箱子"
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_woodie
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_woodie"
+msgid "Woodie Masquerade Chest"
+msgstr "伍迪假面舞会箱子"
+
+#. STRINGS.SKIN_NAMES.pack_masquerade_wortox
+msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_wortox"
+msgid "Wortox Masquerade Chest"
+msgstr "沃拓克斯假面舞会箱子"
 
 #. STRINGS.SKIN_NAMES.pack_mighty_items
 msgctxt "STRINGS.SKIN_NAMES.pack_mighty_items"
