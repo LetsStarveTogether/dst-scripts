@@ -5301,6 +5301,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_QUAKE"
 msgid "That doesn't sound good."
 msgstr "聽起來不妙。"
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BEES
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BEES"
+msgid "only_used_by_wurt"
+msgstr "only_used_by_wurt"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "only_used_by_wurt"
@@ -5343,6 +5348,11 @@ msgstr "only_used_by_wurt"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
+msgid "only_used_by_wurt"
+msgstr "only_used_by_wurt"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_MOON
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_MOON"
 msgid "only_used_by_wurt"
 msgstr "only_used_by_wurt"
 
@@ -226031,6 +226041,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_QUAKE"
 msgid "Ground shaking!"
 msgstr "地在搖！"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES"
+msgid "Aww... no honey inside..."
+msgstr "噢……裡面沒有蜂蜜……"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "This one have pictures of birdies!"
@@ -226075,6 +226090,11 @@ msgstr "嘿，這些詞不一樣！"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
 msgid "There more than one kind of words to learn?! Glurgh..."
 msgstr "要學的字不止一種？！格勒格……"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON"
+msgid "Huh. Moon actually kinda boring."
+msgstr "哈。月亮其實很無聊。"
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN"
@@ -289281,6 +289301,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_retro"
 msgid "What will you do in the name of progress?"
 msgstr "你會以進步的名義做什麼？"
 
+#. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_bouquet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_bouquet"
+msgid "Begin your Valentine's Day decorating with a bouquet of fresh flowers."
+msgstr "用一束鮮花開始你的情人節裝點。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush"
 msgid "Nothing like a fresh coat of spectral paint."
@@ -303236,6 +303261,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab_retro"
 msgid "Experimentation Apparatus"
 msgstr "實驗儀器"
 
+#. STRINGS.SKIN_NAMES.reskin_tool_bouquet
+msgctxt "STRINGS.SKIN_NAMES.reskin_tool_bouquet"
+msgid "Lovely Bouquet"
+msgstr "可愛花束"
+
 #. STRINGS.SKIN_NAMES.reskin_tool_brush
 msgctxt "STRINGS.SKIN_NAMES.reskin_tool_brush"
 msgid "Spectre Paintbrush"
@@ -313999,7 +314029,7 @@ msgstr "拆散此物品會破開你的 {ensemble_name}，導致你無法獲取�
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
 msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
-msgstr "拆散這個物品後，將不能再使用{character}角色體遊戲。 已有的角色相關物品將不能直接使用， 但是你還是可以拆散它們。"
+msgstr "拆散這個物品後，將不能再使用{character}遊戲。 已有的角色相關物品將不能直接使用， 但是你還是可以拆散它們。"
 
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
