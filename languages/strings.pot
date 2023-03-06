@@ -277563,6 +277563,11 @@ msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BONESHARD"
 msgid "Transmute a Hound's Tooth into Bone Shards."
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.TRANSMUTE_CUTSTONE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_CUTSTONE"
+msgid "Transmute Marble into Cut Stone."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.TRANSMUTE_DREADSTONE
 msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_DREADSTONE"
 msgid "Transmute Pure Horror into Dreadstone"
@@ -277575,7 +277580,7 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_GOLDNUGGET
 msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_GOLDNUGGET"
-msgid "Transmute Nitre into a Gold Nugget."
+msgid "Transmute Nitre into Gold Nuggets."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_GREENGEM
@@ -277586,6 +277591,11 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.TRANSMUTE_HORRORFUEL
 msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_HORRORFUEL"
 msgid "Transmute Dreadstone into Pure Horror"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_HOUNDSTOOTH
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_HOUNDSTOOTH"
+msgid "Transmute Bone Shards into a Hounds Tooth."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_LOG
@@ -277613,6 +277623,11 @@ msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_NIGHTMAREFUEL"
 msgid "Transmute Pure Horror into Nightmarefuel"
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.TRANSMUTE_NITRE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_NITRE"
+msgid "Transmute Gold Nugget into a Nitre."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.TRANSMUTE_OPALPRECIOUSGEM
 msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_OPALPRECIOUSGEM"
 msgid "Transmute Many Gems into an Iridescent Gem."
@@ -277630,7 +277645,17 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_PURPLEGEM
 msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_PURPLEGEM"
-msgid "Transmute Blue Gems into Purple Gems."
+msgid "Transmute Blue and Red Gems into Purple Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_REDGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_REDGEM"
+msgid "Transmute Blue Gems into Red Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_ROCKS
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_ROCKS"
+msgid "Transmute Flint into Rocks."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_SMALLMEAT
@@ -279250,7 +279275,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.NEW_SKILL_POINT
 msgctxt "STRINGS.SKILLTREE.NEW_SKILL_POINT"
-msgid "Inspiration Strikes!"
+msgid "Insight Gained!"
 msgstr ""
 
 #. STRINGS.SKILLTREE.ONLINE_DATA_DOWNLOAD_FAILED
@@ -279285,22 +279310,27 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.RESPEC
 msgctxt "STRINGS.SKILLTREE.RESPEC"
-msgid "Reset Points"
+msgid "Reset Insight"
 msgstr ""
 
 #. STRINGS.SKILLTREE.SKILLPOINTS
 msgctxt "STRINGS.SKILLTREE.SKILLPOINTS"
-msgid "Inspiration"
+msgid "Insight"
 msgstr ""
 
 #. STRINGS.SKILLTREE.SKILLPOINTS_TO_SPEND
 msgctxt "STRINGS.SKILLTREE.SKILLPOINTS_TO_SPEND"
-msgid "Inspiration remaining"
+msgid "Insight Remaining"
 msgstr ""
 
 #. STRINGS.SKILLTREE.SKILLTREE
 msgctxt "STRINGS.SKILLTREE.SKILLTREE"
 msgid "Skillset"
+msgstr ""
+
+#. STRINGS.SKILLTREE.UNKNOWN
+msgctxt "STRINGS.SKILLTREE.UNKNOWN"
+msgid "PATH UNKNOWN"
 msgstr ""
 
 #. STRINGS.SKILLTREE.UNLOCKED
@@ -279310,7 +279340,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_DESC"
-msgid "Transform 6 Rot into Manure.\nTransform a Hound's Tooth into 2 Bone Shards."
+msgid "Transform 6 Rot into Manure.\nTransform 2 Hound's Teeth into a Bone Shards.\nTransform 2 Bone Shards into a Hound's Tooth."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_TITLE
@@ -279330,7 +279360,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_DESC"
-msgid "Transform 3 Red Gems into a Blue Gem.\nTransform 3 Blue Gems into a Purple Gem."
+msgid "Transform 3 Red Gems into a Blue Gem.\nTransform 3 Blue Gems into a Red Gem.\nTransform a Blue and Red Gem into a Purple Gem."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_TITLE
@@ -279340,7 +279370,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_DESC"
-msgid "Transform 3 Rocks into a Flint."
+msgid "Transform 3 Rocks into a Flint.\nTransform 2 Flint into Rocks."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_TITLE
@@ -279380,7 +279410,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_DESC"
-msgid "Transform 3 Nitre into a Gold Nugget."
+msgid "Transform 3 Nitre into a Gold Nugget.\nTransform 2 Gold Nuggets into Nitre."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_TITLE
@@ -279390,7 +279420,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_DESC"
-msgid "Transform 2 Cut Stone into Marble.\nTransform 3 Marble into Moon Rock."
+msgid "Transform 2 Cut Stone into Marble.\nTransform Marble into Cut Stone.\nTransform 2 Marble into Moon Rock."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_TITLE
@@ -279400,7 +279430,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_DESC"
-msgid "Transform Beard Hair into 2 Beefalo Hair.\n Transform 3 Beefalo Hair into Beard Hair."
+msgid "Transform Beard Hair into 2 Beefalo Hair.\n Transform 2 Beefalo Hair into Beard Hair."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_TITLE
