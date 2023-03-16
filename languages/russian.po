@@ -5301,6 +5301,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_QUAKE"
 msgid "That doesn't sound good."
 msgstr "Звучит не очень здорово."
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BEES
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BEES"
+msgid "only_used_by_wurt"
+msgstr "only_used_by_wurt"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "only_used_by_wurt"
@@ -5343,6 +5348,11 @@ msgstr "only_used_by_wurt"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
+msgid "only_used_by_wurt"
+msgstr "only_used_by_wurt"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_MOON
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_READ_BOOK.BOOK_MOON"
 msgid "only_used_by_wurt"
 msgstr "only_used_by_wurt"
 
@@ -5600,6 +5610,11 @@ msgstr "Жабе неинтересно."
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOOL_SLIP"
 msgid "Wow, that tool is slippery!"
 msgstr "Ого, этот инструмент такой скользкий!"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOOL_TOOWEAK"
+msgid "I need a stronger tool!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOOMANYBIRDS
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOOMANYBIRDS"
@@ -6145,6 +6160,11 @@ msgstr "Механизм работает на драгоценных камня
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMORDRAGONFLY"
 msgid "Hot mail!"
 msgstr "Горячая кольчуга!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMORDREADSTONE"
+msgid "Lightweight, sturdy, and snazzy!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMORGRASS"
@@ -8651,6 +8671,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUTSTONE"
 msgid "Seductively smooth."
 msgstr "Идеально гладкий."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Freeing him might not have been my best idea."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "I feel almost sorry for him."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "A pillar of impossibly hard stone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "There's something glinting inside the marble."
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEADLYFEAST"
 msgid "A most potent dish."
@@ -8880,6 +8920,16 @@ msgstr "Здесь еще должна была быть задняя часть
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRAGON_SCALES"
 msgid "They're still warm."
 msgstr "Она все еще теплая."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DREADSTONE"
+msgid "It seems to reflect shadows instead of light."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DREADSTONEHAT"
+msgid "To keep my brilliant brain safe and sound."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_LOG"
@@ -10325,6 +10375,11 @@ msgstr "На вкус как курица, но это не она."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HORN"
 msgid "It sounds like a beefalo field in there."
 msgstr "Звучит так, словно там поле бифало."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HORRORFUEL"
+msgid "It sends a terrible shiver down my spine."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOTCHILI"
@@ -16411,6 +16466,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_BADLANDS"
 msgid "Yet another ground type."
 msgstr "Еще один вид дерна."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_BEARD_RUG"
+msgid "It's a chunk of ground."
+msgstr "Это кусок земли."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CARPETFLOOR"
 msgid "It's surprisingly scratchy."
@@ -20446,6 +20506,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOOL_SLIP"
 msgid "I- I meant to do that!"
 msgstr "Я... Я так и хотел!"
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOOL_TOOWEAK"
+msgid "It's okay Woby, we just need to find a stronger tool!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_TORCH_OUT"
 msgid "Uh oh... this is usually the part when something bad happens."
@@ -20950,6 +21015,11 @@ msgstr "Знаешь, Воби, это ведь очень важные само
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMORDRAGONFLY"
 msgid "I still wish we could've been friends..."
 msgstr "Жалко, что мы так и не стали друзьями..."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMORDREADSTONE"
+msgid "It looks like an evil knight's armor. Neat!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMORGRASS"
@@ -23456,6 +23526,26 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CUTSTONE"
 msgid "It wasn't too hard!"
 msgstr "Не очень-то и сложно!"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER.GENERIC"
+msgid "I thought he'd be a bit happier to be free..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "We can't just leave him like that, Woby! We've gotta help him!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Oh, it's just a different kind of rock."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "Hey, what's that stuff inside?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DEADLYFEAST"
 msgid "Someone could get sick from eating that!"
@@ -23685,6 +23775,16 @@ msgstr "Не хочу быть задницей..."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DRAGON_SCALES"
 msgid "Was she a bug or a lizard?"
 msgstr "Интересно, это все-таки насекомое или рептилия?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DREADSTONE"
+msgid "It's just a rock, what's so scary about a rock?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DREADSTONEHAT"
+msgid "Never forget to wear your dark helmet."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DRIFTWOOD_LOG"
@@ -25130,6 +25230,11 @@ msgstr "Когда я был маленький, то очень их любил
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HORN"
 msgid "That'll make a decent bugle."
 msgstr "Отличный выйдет горн для побудки."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HORRORFUEL"
+msgid "It can't be THAT bad... can it?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HOTCHILI"
@@ -31176,6 +31281,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_BADLANDS"
 msgid "A patch of ground."
 msgstr "Кусочек земли."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_BEARD_RUG"
+msgid "A patch of ground."
+msgstr "Кусочек земли."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TURF_CARPETFLOOR"
 msgid "This reminds me of my living room back home."
@@ -35321,6 +35431,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOOL_SLIP"
 msgid "I'm usually not such a butterfingers."
 msgstr "Обычно у меня руки не настолько крюки."
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Oh botheration! I'll need something stronger than this..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TORCH_OUT"
 msgid "My torch! I need to find another one quickly!"
@@ -35850,6 +35965,11 @@ msgstr "Прекрасно, теперь у нас будет свет."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMORDRAGONFLY"
 msgid "I think it looks better on me than it did on the bug."
 msgstr "На мне выглядит куда лучше, чем на насекомом."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMORDREADSTONE"
+msgid "It should keep me well protected, at least."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMORGRASS"
@@ -38356,6 +38476,26 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CUTSTONE"
 msgid "Humans have been building with stone blocks for centuries."
 msgstr "Люди уже много веков строят дома из камня."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER.GENERIC"
+msgid "I knew I shouldn't have involved myself!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "I shouldn't involve myself in these things."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Oh botheration. I think I just remembered something..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "They seem breakable... but I don't think that'd be wise."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DEADLYFEAST"
 msgid "A most potent dish."
@@ -38575,6 +38715,16 @@ msgstr "Пф-ф, разве кто-то захочет идти в конце?"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DRAGON_SCALES"
 msgid "Fireproof material has served me well in the past. And future, come to think of it."
 msgstr "Огнеупорные материалы в прошлом меня никогда не подводили. Да и в будущем тоже, если подумать."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DREADSTONE"
+msgid "As off-putting as it is, it could be useful."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DREADSTONEHAT"
+msgid "That stone turned out to be rather useful."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DRIFTWOOD_LOG"
@@ -40020,6 +40170,11 @@ msgstr "Больше всего мне здесь нравится соус."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HORN"
 msgid "It belonged to a beefalo in the past."
 msgstr "Когда-то он принадлежал бифало."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HORRORFUEL"
+msgid "It gives me a terrible feeling..."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HOTCHILI"
@@ -46081,6 +46236,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TURF_BADLANDS"
 msgid "Why am I wasting time staring at the ground?"
 msgstr "Зачем я разглядываю землю? Время можно потратить с большей пользой!"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TURF_BEARD_RUG"
+msgid "Why am I wasting time staring at the ground?"
+msgstr "Зачем я разглядываю землю? Время можно потратить с большей пользой!"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TURF_CARPETFLOOR"
 msgid "I've missed carpet..."
@@ -50126,6 +50286,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_SLIP"
 msgid "Everything is slick..."
 msgstr "Все такое скользкое…"
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_TOOWEAK"
+msgid "No, this won't do..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TORCH_OUT"
 msgid "Come back, light!"
@@ -50630,6 +50795,11 @@ msgstr "Кажется, драгоценные камни тут очень ва
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORDRAGONFLY"
 msgid "Heavy and hot."
 msgstr "Тяжелый и горячий."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORDREADSTONE"
+msgid "A fine peice of armor."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORGRASS"
@@ -53136,6 +53306,26 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CUTSTONE"
 msgid "Compressed stones, nice presentation."
 msgstr "Спрессованные камни, интересная подача."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER.GENERIC"
+msgid "I have decided on fear!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "I don't know whether to feel fear or pity."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Ah zut, that stone is far too tough for me to break."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "Perhaps I could free the poor creature?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEADLYFEAST"
 msgid "I would not recommend this."
@@ -53365,6 +53555,16 @@ msgstr "Всегда рад принять участие в празднест�
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGON_SCALES"
 msgid "Hot to the touch!"
 msgstr "Горячо!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DREADSTONE"
+msgid "Terrible and beautiful all at once."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DREADSTONEHAT"
+msgid "My head feels safer already."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRIFTWOOD_LOG"
@@ -54810,6 +55010,11 @@ msgstr "Фастфуд — моя постыдная слабость. Ш-ш!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HORN"
 msgid "There's still some hairs inside."
 msgstr "Там все еще шерсть внутри."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HORRORFUEL"
+msgid "It makes my teeth chatter."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HOTCHILI"
@@ -60086,6 +60291,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BADLANDS"
 msgid "It's like an ingredient for the ground."
 msgstr "Похоже на ингредиент для пола."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEARD_RUG"
+msgid "It's like an ingredient for the ground."
+msgstr "Похоже на ингредиент для пола."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Make fists with your toes..."
@@ -64081,6 +64291,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOL_SLIP"
 msgid "Slippery devil!"
 msgstr "Скользкий дьявол!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOL_TOOWEAK"
+msgid "This meager tool hath not the strength to break it."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TORCH_OUT"
 msgid "My light is quenched!"
@@ -64585,6 +64800,11 @@ msgstr "Ему уже сделали подношение."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORDRAGONFLY"
 msgid "Excellent armor for the heat of battle."
 msgstr "Отличное оружие в пылу битвы."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORDREADSTONE"
+msgid "It will serve me well, despite its origins."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORGRASS"
@@ -67091,6 +67311,26 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTSTONE"
 msgid "Solid stone!"
 msgstr "Твердый камень!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER.GENERIC"
+msgid "You leave me no choice, beast! To arms!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "The beast hath been consumed by foul magic."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Only something of great might could crack that foul stone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "The pillar is weakened... mayhaps it could be broken."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEADLYFEAST"
 msgid "A most potent dish."
@@ -67320,6 +67560,16 @@ msgstr "Зверь — не зверь без хвоста."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRAGON_SCALES"
 msgid "Mystical scales."
 msgstr "Мистическая чешуя."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DREADSTONE"
+msgid "A stone of ill omen."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DREADSTONEHAT"
+msgid "Ready to bear the brunt of battle!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRIFTWOOD_LOG"
@@ -68765,6 +69015,11 @@ msgstr "Угощение!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HORN"
 msgid "How I long for battle."
 msgstr "Как же я тоскую по битве."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HORRORFUEL"
+msgid "The sight of it chills even my courageous Viking heart."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOTCHILI"
@@ -74791,6 +75046,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_BADLANDS"
 msgid "A piece of the battlefield."
 msgstr "Кусок поля битвы."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_BEARD_RUG"
+msgid "A piece of the battlefield."
+msgstr "Кусок поля битвы."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_CARPETFLOOR"
 msgid "It soaks up the blood of battle."
@@ -78871,6 +79131,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOL_SLIP"
 msgid "Drat."
 msgstr "Провались ты."
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOL_TOOWEAK"
+msgid "I'll need a more powerful tool."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TORCH_OUT"
 msgid "Curses. Another light down."
@@ -79375,6 +79640,11 @@ msgstr "Он высасывает энергию из драгоценных к�
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORDRAGONFLY"
 msgid "That's some fly mail."
 msgstr "А вот и почтовые мухи."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORDREADSTONE"
+msgid "Black never goes out of style."
+msgstr "Черный всегда в моде."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORGRASS"
@@ -81881,6 +82151,26 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CUTSTONE"
 msgid "The building blocks of civilization."
 msgstr "Строительные блоки цивилизации."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Say pal, why don't we talk this out?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "You went nosing around places you shouldn't have, didn't you?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "That stone would be useful, if only it could be broken."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "I can just make out something dark within."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEADLYFEAST"
 msgid "It smells... noxious."
@@ -82100,6 +82390,16 @@ msgstr "Задняя часть ужасного зверя."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DRAGON_SCALES"
 msgid "Fiery."
 msgstr "Огнеопасный."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DREADSTONE"
+msgid "Petrified nightmares."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DREADSTONEHAT"
+msgid "Darkness is never far from my mind."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DRIFTWOOD_LOG"
@@ -83545,6 +83845,11 @@ msgstr "По виду — как для детей, но все равно оч�
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HORN"
 msgid "Call forth the beasts!"
 msgstr "Созываю зверей!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HORRORFUEL"
+msgid "That's the good stuff."
+msgstr "Это хорошая штука."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOTCHILI"
@@ -89571,6 +89876,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_BADLANDS"
 msgid "Turf."
 msgstr "Дерн."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_BEARD_RUG"
+msgid "A bit gauche for my tastes."
+msgstr "Грубовато на мой вкус."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_CARPETFLOOR"
 msgid "That's a quality, high-pile carpet sample!"
@@ -93581,6 +93891,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOOL_SLIP"
 msgid "Hey! We were using that!"
 msgstr "Эй! Мы же ей пользуемся!"
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOOL_TOOWEAK"
+msgid "We don't think this tool's strong enough!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TORCH_OUT"
 msgid "Waah, our light went out!"
@@ -94085,6 +94400,11 @@ msgstr "Тут все готово."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORDRAGONFLY"
 msgid "Another creature casing."
 msgstr "Еще одна броня из животного."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORDREADSTONE"
+msgid "It's kinda scary, but it keeps us safe!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORGRASS"
@@ -96591,6 +96911,26 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTSTONE"
 msgid "Squared rocks."
 msgstr "Квадратные камни."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Hey! We were just trying to help!!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "He doesn't look like a normal pig. Or even a normal werepig."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "We can't break through it!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "We feel bad just leaving him like that..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEADLYFEAST"
 msgid "Scent of doom."
@@ -96820,6 +97160,16 @@ msgstr "Нам нравится хвостик!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGON_SCALES"
 msgid "They don't weigh much for scales."
 msgstr "Для чешуи не такие уж и тяжелые."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DREADSTONE"
+msgid "We're not sure if we like that rock."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DREADSTONEHAT"
+msgid "A pointy helmet to match our pointy teeth!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRIFTWOOD_LOG"
@@ -98265,6 +98615,11 @@ msgstr "Нам бы хотелось, чтобы они были похожи н
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORN"
 msgid "If this makes a mating call we're all in trouble."
 msgstr "Если он издает брачный зов, то у нас проблемы."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORRORFUEL"
+msgid "It makes our spider skin crawl."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOTCHILI"
@@ -104291,6 +104646,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_BADLANDS"
 msgid "Some ground that we dug up."
 msgstr "Немного земли, которую мы выкопали."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_BEARD_RUG"
+msgid "Some ground that we dug up."
+msgstr "Немного земли, которую мы выкопали."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Carpets! Just like in our old house."
@@ -108341,6 +108701,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOOL_SLIP"
 msgid "Oh well, I didn't need it anyways."
 msgstr "А, ну и ладно, все равно мне оно не нужно."
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOOL_TOOWEAK"
+msgid "It's not strong enough... like me..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_TORCH_OUT"
 msgid "Darkness has returned!"
@@ -108845,6 +109210,11 @@ msgstr "У него уже есть сокровище."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORDRAGONFLY"
 msgid "I'd wear it inside-out."
 msgstr "Я бы носила это наизнанку."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORDREADSTONE"
+msgid "Let the darkness surround me."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORGRASS"
@@ -111351,6 +111721,26 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTSTONE"
 msgid "The better to mark graves with."
 msgstr "Лучший способ украсить могилки."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Kindness only begets more pain..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "What a pitiful creature."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "It is too strong, and I am too weak."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "We are all tethered to this place in one way or another."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DEADLYFEAST"
 msgid "This, a fitting final meal."
@@ -111570,6 +111960,16 @@ msgstr "Это просто длинный хвост."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGON_SCALES"
 msgid "Scales of pain."
 msgstr "Чешуя боли."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DREADSTONE"
+msgid "It is cold... and beautiful."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DREADSTONEHAT"
+msgid "What's the point?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DRIFTWOOD_LOG"
@@ -113015,6 +113415,11 @@ msgstr "Мясо, порезанное на маленькие кусочки. �
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HORN"
 msgid "It sounds like there's a beefalo trapped inside."
 msgstr "Звучит словно там бифало попался в ловушку."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HORRORFUEL"
+msgid "There are always more horrors to come."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HOTCHILI"
@@ -119041,6 +119446,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_BADLANDS"
 msgid "Some ground."
 msgstr "Какая-то поверхность."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_BEARD_RUG"
+msgid "Some ground."
+msgstr "Какая-то поверхность."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Some ground."
@@ -123086,6 +123496,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOOL_SLIP"
 msgid "My grip!"
 msgstr "Под мою руку!"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOOL_TOOWEAK"
+msgid "This will require a more robust tool than I currently possess."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TORCH_OUT"
 msgid "I need another light."
@@ -123590,6 +124005,11 @@ msgstr "По-видимому, эти пьедесталы черпают эне
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORDRAGONFLY"
 msgid "Pyrotechnic armor!"
 msgstr "Пиротехническая броня!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORDREADSTONE"
+msgid "Extremely durable, and surprisingly lightweight."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORGRASS"
@@ -126096,6 +126516,26 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTSTONE"
 msgid "Some smoothed rock slabs."
 msgstr "Несколько отесанных каменных плит."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER.GENERIC"
+msgid "This creature has terrible manners."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "My, how did it end up in this state?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "It will require much greater force than I can muster to break it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "How odd... the marble appears to be encasing something."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEADLYFEAST"
 msgid "I'm not sure that's good to eat."
@@ -126315,6 +126755,16 @@ msgstr "Спина от костюма дракона."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGON_SCALES"
 msgid "Scales from an insect? Unheard of!"
 msgstr "Чешуя насекомого? Немыслимо!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DREADSTONE"
+msgid "Metamorphic, if I'm not mistaken."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DREADSTONEHAT"
+msgid "Thankfully, the material has no adverse effects on the mind."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRIFTWOOD_LOG"
@@ -127760,6 +128210,11 @@ msgstr "Подслащенное мясо на один укус."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORN"
 msgid "What an excellent specimen! I can almost hear the beefalo."
 msgstr "Какой прекрасный образец! Я почти слышу бифало!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORRORFUEL"
+msgid "Highly concentrated ectoplasmic residue."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOTCHILI"
@@ -133786,6 +134241,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_BADLANDS"
 msgid "The ground. You step on it."
 msgstr "Пол. На него наступают."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_BEARD_RUG"
+msgid "The ground. You step on it."
+msgstr "Пол. На него наступают."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CARPETFLOOR"
 msgid "The ground. You step on it."
@@ -137801,6 +138261,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TOOL_SLIP"
 msgid "Still got my lighter!"
 msgstr "Зажигалка все еще при мне!"
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Ugh. I'm gonna need something way stronger than this..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TORCH_OUT"
 msgid "My precious light is gone!"
@@ -138305,6 +138770,11 @@ msgstr "Уверена, никто не будет возражать, если 
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORDRAGONFLY"
 msgid "Yay! More FIRE!!!"
 msgstr "Ура! ЕЩЕ ОГНЯ!!!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORDREADSTONE"
+msgid "It's fine I guess."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORGRASS"
@@ -140811,6 +141281,26 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CUTSTONE"
 msgid "Perfectly squared for maximum enjoyment."
 msgstr "Идеально обтесан для максимального удовольствия."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER.GENERIC"
+msgid "You jerk! I was just trying to help!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "Looks like somebody's having a bad day."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "It won't break. I didn't try that hard, but still."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "How crazy would I have to be to try and break that pillar?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DEADLYFEAST"
 msgid "Fire didn't cure this dish of being nasty."
@@ -141030,6 +141520,16 @@ msgstr "Я хочу быть хвостом!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRAGON_SCALES"
 msgid "Oooooooh! I LIKE those."
 msgstr "О-о-о-о-о-о-о-о-о-о! ОБОЖАЮ такое!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DREADSTONE"
+msgid "Eww, why does this rock feel so cold and clammy?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DREADSTONEHAT"
+msgid "Do I have to wear it? On my head??"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRIFTWOOD_LOG"
@@ -142475,6 +142975,11 @@ msgstr "Медовые кусочки после встречи с моим жа
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HORN"
 msgid "I can hear those hairy beasts inside."
 msgstr "Я слышу этих волосатых тварей внутри."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HORRORFUEL"
+msgid "That must be what nightmares have nightmares about."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOTCHILI"
@@ -148501,6 +149006,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_BADLANDS"
 msgid "The ground is boring."
 msgstr "В земле нет ничего интересного."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_BEARD_RUG"
+msgid "Does it burn?"
+msgstr "Горят ли они?"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURF_CARPETFLOOR"
 msgid "The ground is boring."
@@ -152531,6 +153041,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOOL_SLIP"
 msgid "I meant to do that!"
 msgstr "Это я и имела в виду!"
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Maybe this ain't the right tool for the job..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TORCH_OUT"
 msgid "Out like a light."
@@ -153035,6 +153550,11 @@ msgstr "Кажется, источник питания нужен для все
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMORDRAGONFLY"
 msgid "Bit flashy, hey?"
 msgstr "Выглядит броско, да?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMORDREADSTONE"
+msgid "That's some real high-grade protective equipment."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMORGRASS"
@@ -155541,6 +156061,26 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CUTSTONE"
 msgid "Prepped and ready for the assembly line."
 msgstr "Наточен и готов к разделочной части."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Yeesh big guy, I was just tryin' to help you out!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "That pig's seen better days."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "I stand corrected. That rock ain't goin' nowhere."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "That marble doesn't look structurally sound to me."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DEADLYFEAST"
 msgid "Food poisoning and a half."
@@ -155770,6 +156310,16 @@ msgstr "Так вот бизнес и рушится."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGON_SCALES"
 msgid "Showy."
 msgstr "Показуха."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DREADSTONE"
+msgid "It's evil-lookin', but tough as nails."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DREADSTONEHAT"
+msgid "Lookin' sharp! Literally."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DRIFTWOOD_LOG"
@@ -157215,6 +157765,11 @@ msgstr "Неплохо!"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HORN"
 msgid "Watch out for the business end!"
 msgstr "Берегись краха бизнеса!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HORRORFUEL"
+msgid "Makes the usual nightmare goop look almost pleasant by comparison."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HOTCHILI"
@@ -163256,6 +163811,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_BADLANDS"
 msgid "That's a chunk of ground."
 msgstr "Это кусок земли."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_BEARD_RUG"
+msgid "That's a chunk of ground."
+msgstr "Это кусок земли."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TURF_CARPETFLOOR"
 msgid "That's a chunk of ground."
@@ -167296,6 +167856,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOL_SLIP"
 msgid "Is too slippery for holding!"
 msgstr "Слишком скользко, чтобы держаться!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Tool is weak! Wolfgang needs something mightier!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT"
 msgid "Oh no! The light is gone!"
@@ -167805,6 +168370,11 @@ msgstr "Внизу что-то непонятное гудит."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORDRAGONFLY"
 msgid "Wolfgang not need protection."
 msgstr "Вольфгангу не нужна защита."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORDREADSTONE"
+msgid "Wolfgang doesn't need scary rock armor!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORGRASS"
@@ -170311,6 +170881,26 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTSTONE"
 msgid "Rock was crushed to make brick!"
 msgstr "Камень обтесали, и получился кирпич!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER.GENERIC"
+msgid "H-how about friendly game of arm wrestle, yes?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "Angry piggie has gotten more muscles!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Mighty Wolfgang could... not break pillar."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "Mighty Wolfgang could break pillar!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEADLYFEAST"
 msgid "Look like evil food."
@@ -170530,6 +171120,16 @@ msgstr "Могучая спина!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGON_SCALES"
 msgid "Glowy scales."
 msgstr "Блестящие чешуйки."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DREADSTONE"
+msgid "Is just rock, not scary! ...Right?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DREADSTONEHAT"
+msgid "Ha! Wolfgang's head is already hard like a rock!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRIFTWOOD_LOG"
@@ -171975,6 +172575,11 @@ msgstr "Маленькие сладкие кусочки мяса — все р�
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HORN"
 msgid "Is hair-cow horn. Wolfgang hear hair-cow."
 msgstr "Рог волосатой коровы. Вольфганг слышит волосатую корову."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HORRORFUEL"
+msgid "S-scary..."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HOTCHILI"
@@ -178001,6 +178606,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_BADLANDS"
 msgid "Step stones."
 msgstr "Каменная лестница."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_BEARD_RUG"
+msgid "Is beard for the ground."
+msgstr "Борода для земли."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Step stones."
@@ -181986,6 +182596,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOOL_SLIP"
 msgid "The stuff of nightmares!"
 msgstr "Мой главный кошмар!"
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Guess this tool just ain't gonna cut it."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TORCH_OUT"
 msgid "My light ran out!"
@@ -182490,6 +183105,11 @@ msgstr "Видимо, тут больше ничего не нужно."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORDRAGONFLY"
 msgid "Plaid is all the armour I need."
 msgstr "Шотландка — и другой брони мне не надо."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORDREADSTONE"
+msgid "Luce says black ain't my colour."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORGRASS"
@@ -184996,6 +185616,26 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CUTSTONE"
 msgid "Part of the Canadian shield."
 msgstr "Часть Канадского щита."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Not even so much as a \"thank you\", eh?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "Whatever he's got better not be contagious."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "That's some firmly planted stone."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "Looks sturdy... ish."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEADLYFEAST"
 msgid "That doesn't smell quite right, eh."
@@ -185220,6 +185860,16 @@ msgstr "Ну, кто-то же должен."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRAGON_SCALES"
 msgid "I still don't believe in dragons."
 msgstr "Я все еще не верю в драконов."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DREADSTONE"
+msgid "There's something off aboot it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DREADSTONEHAT"
+msgid "Gotta protect the old noggin', eh?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRIFTWOOD_LOG"
@@ -186665,6 +187315,11 @@ msgstr "Одно из моих любимых блюд!"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HORN"
 msgid "I don't know if anyone should put their mouth on that."
 msgstr "Не знаю, стоит ли это себе в рот совать."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HORRORFUEL"
+msgid "That stuff can't be good for ya."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HOTCHILI"
@@ -192696,6 +193351,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_BADLANDS"
 msgid "Just some ground, eh?"
 msgstr "Просто земля, хм?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_BEARD_RUG"
+msgid "Just some ground, eh?"
+msgstr "Просто земля, хм?"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Too classy for my tastes."
@@ -196711,6 +197371,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOOL_SLIP"
 msgid "Whoops"
 msgstr "Ой-ой-ой"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Oh. Something else?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TORCH_OUT"
 msgid "Oh. Fire stick is out"
@@ -197215,6 +197880,11 @@ msgstr "Работает"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORDRAGONFLY"
 msgid "Fire Keeper Outer"
 msgstr "Огнераздувательный панцирь"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORDREADSTONE"
+msgid "Pretty rock clothes"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORGRASS"
@@ -199721,6 +200391,26 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CUTSTONE"
 msgid "Square stones"
 msgstr "Квадратные камни"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Why so mad?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "Stuck. Poor Twirly Tail"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Where you grow from?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "Where you grow from?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEADLYFEAST"
 msgid "Nope"
@@ -199950,6 +200640,16 @@ msgstr "Можно нахлобучить зад на голову"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGON_SCALES"
 msgid "Fiery clothes"
 msgstr "Одежда полыхалки"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DREADSTONE"
+msgid "Pretty"
+msgstr "Красиво"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DREADSTONEHAT"
+msgid "Rock for head"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRIFTWOOD_LOG"
@@ -201395,6 +202095,11 @@ msgstr "Сок жужжалок и крючкохвосты"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HORN"
 msgid "Branch?"
 msgstr "Ветка?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HORRORFUEL"
+msgid "Scary..."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOTCHILI"
@@ -207436,6 +208141,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_BADLANDS"
 msgid "Dirt"
 msgstr "Земля"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_BEARD_RUG"
+msgid "Not dirt"
+msgstr "Не земля"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Not dirt"
@@ -211461,6 +212171,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_SLIP"
 msgid "Whoops-a-doodle, hyuyu!"
 msgstr "Ту-ру-ру, хо-хо!"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_TOOWEAK"
+msgid "This tool is too weak for what I seek."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TORCH_OUT"
 msgid "Farewell, sweet flame!"
@@ -211965,6 +212680,11 @@ msgstr "Он крепко вцепился в свое сокровище."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMORDRAGONFLY"
 msgid "Ooo, I've always wanted to be scaly."
 msgstr "О, всегда мечтал стать чешуйчатым!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMORDREADSTONE"
+msgid "All blows will be blocked by this armor of rock."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMORGRASS"
@@ -214476,6 +215196,26 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CUTSTONE"
 msgid "Brick by brick, they say, they say."
 msgstr "Кирпичик за кирпичиком, как говорится."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER.GENERIC"
+msgid "I'm sensing the answer is foe."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "Friend or foe?"
+msgstr "Друг или враг?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Why hide this stone inside?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "A terrible fate, to be locked in this state."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEADLYFEAST"
 msgid "I desire this even less than regular food."
@@ -214705,6 +215445,16 @@ msgstr "Мой хвост — в самом хвосте!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGON_SCALES"
 msgid "I prefer fur to scales."
 msgstr "Шерсть мне милее чешуи."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DREADSTONE"
+msgid "A stone as black as night."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DREADSTONEHAT"
+msgid "A stone fortress for my brain."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRIFTWOOD_LOG"
@@ -216150,6 +216900,11 @@ msgstr "Кажется, выглядят они неплохо."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HORN"
 msgid "Phew! Not one of mine."
 msgstr "Фи! Моим не чета."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HORRORFUEL"
+msgid "A goop most foul."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOTCHILI"
@@ -222176,6 +222931,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_BADLANDS"
 msgid "Floor or ceiling, depending on your perspective."
 msgstr "Пол или потолок, все зависит от угла зрения."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_BEARD_RUG"
+msgid "Floor or ceiling, depending on your perspective."
+msgstr "Пол или потолок, все зависит от угла зрения."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Floor or ceiling, depending on your perspective."
@@ -226031,6 +226791,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_QUAKE"
 msgid "Ground shaking!"
 msgstr "Земля трясется!"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BEES"
+msgid "Aww... no honey inside..."
+msgstr "Эх... меда там нет."
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_BIRDS"
 msgid "This one have pictures of birdies!"
@@ -226075,6 +226840,11 @@ msgstr "Эй! Тут слова другие!"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_LIGHT_UPGRADED"
 msgid "There more than one kind of words to learn?! Glurgh..."
 msgstr "Мне еще и эти слова учить?! Хлюрп..."
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_MOON"
+msgid "Huh. Moon actually kinda boring."
+msgstr "Бе. Луна, оказывается, скучная."
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_READ_BOOK.BOOK_RAIN"
@@ -226280,6 +227050,11 @@ msgstr "Не уходи!"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TOOL_SLIP"
 msgid "Claws too slimy, florp."
 msgstr "Когти очень скользкие, бульк."
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TOOL_TOOWEAK"
+msgid "Grrr... need something stronger, florp!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TORCH_OUT"
@@ -226785,6 +227560,11 @@ msgstr "Просто блеск!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ARMORDRAGONFLY"
 msgid "More scales!!"
 msgstr "Больше чешуек!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ARMORDREADSTONE"
+msgid "So pretty... it mine!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ARMORGRASS"
@@ -229291,6 +230071,26 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CUTSTONE"
 msgid "It stone. It cut."
 msgstr "Кусок камня."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.GENERIC"
+msgid "Grrr! You just big stinky pig!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "Nyeeeeehhh!!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "Rock too hard for breaking, florp."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "Heehee, stinky pig all locked up!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DEADLYFEAST"
 msgid "Shouldn't eat that."
@@ -229520,6 +230320,16 @@ msgstr "Всегда хотела хвост!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DRAGON_SCALES"
 msgid "Pretty..."
 msgstr "Красивенько…"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DREADSTONE"
+msgid "Pretty rocks!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DREADSTONEHAT"
+msgid "It real good for headbutting, flort!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DRIFTWOOD_LOG"
@@ -230965,6 +231775,11 @@ msgstr "Пустая трата меда!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HORN"
 msgid "Toot toot!"
 msgstr "Ту-ту!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HORRORFUEL"
+msgid "I-is just goop! Not scared!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HOTCHILI"
@@ -237011,6 +237826,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_BADLANDS"
 msgid "Ground bit."
 msgstr "Кусочек земли."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_BEARD_RUG"
+msgid "Ground bit."
+msgstr "Кусочек земли."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Fuzzy ground."
@@ -240996,6 +241816,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_TOOL_SLIP"
 msgid "ERROR: TOOL GRIP COMPROMISED"
 msgstr "ОШИБКА: ИНСТРУМЕНТ ЗАХВАТА ПОДВЕРЖЕН РИСКУ"
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_TOOL_TOOWEAK
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_TOOL_TOOWEAK"
+msgid "INSUFFICIENT POWER. TOOL UPGRADE REQUIRED"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_TORCH_OUT"
 msgid "TORCH EXHAUSTED"
@@ -241505,6 +242330,11 @@ msgstr "ПОЛНОСТЬЮ РАБОТОСПОСОБЕН"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORDRAGONFLY"
 msgid "SCALES FUNCTION SIMILARLY TO MINIATURE FLAMETHROWERS"
 msgstr "ЧЕШУЯ СХОЖА С МИНИАТЮРНЫМИ ОГНЕМЕТАМИ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORDREADSTONE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORDREADSTONE"
+msgid "IT LOOKS GOOD ON ME"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORGRASS"
@@ -244011,6 +244841,26 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CUTSTONE"
 msgid "IMPROVED ROCKS"
 msgstr "УЛУЧШЕННЫЕ КАМНИ"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER.GENERIC"
+msgid "I THINK IT TOOK THE POINTING AND LAUGHING PERSONALLY"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER.IMPRISONED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER.IMPRISONED"
+msgid "THE FLESHSACK IS STUCK. LET US POINT AND LAUGH AT IT"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER_PILLAR.EXPOSED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER_PILLAR.EXPOSED"
+msgid "ERROR: MATERIAL IS TOO DENSE TO DESTROY"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER_PILLAR.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
+msgid "STRUCTURAL INTEGRITY COMPROMISED"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DEADLYFEAST"
 msgid "POISON DETECTED"
@@ -244230,6 +245080,16 @@ msgstr "ЭТО ДОСТАНЕТСЯ ПЛОХИМИ МИНЬОНАМ"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DRAGON_SCALES"
 msgid "FLAME-TREATED BODY PLATING"
 msgstr "ЗАКАЛЕННАЯ ТОРСОВАЯ ОБШИВКА"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DREADSTONE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DREADSTONE"
+msgid "IT IS HARD, COLD, AND EVIL. I LOVE IT"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DREADSTONEHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DREADSTONEHAT"
+msgid "ACCEPTABLE PROCESSOR PROTECTION"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DRIFTWOOD_LOG"
@@ -245675,6 +246535,11 @@ msgstr "ПОЖАЛУЙСТА, ВСТАВЬТЕ В РОТОВОЙ ОТСЕК"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HORN"
 msgid "UNHYGIENIC"
 msgstr "КАК НЕГИГИЕНИЧНО"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HORRORFUEL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HORRORFUEL"
+msgid "DARKNESS: 100%. NO SHADES OF GREY DETECTED"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HOTCHILI"
@@ -251701,6 +252566,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_BADLANDS"
 msgid "GROUND PARTS"
 msgstr "ЗЕМЕЛЬНЫЕ УЧАСТКИ"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_BEARD_RUG
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_BEARD_RUG"
+msgid "GROUND PARTS"
+msgstr "ЗЕМЕЛЬНЫЕ УЧАСТКИ"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_CARPETFLOOR"
 msgid "CARPET GROUND"
@@ -255480,6 +256350,181 @@ msgstr "Мерли"
 msgctxt "STRINGS.CROWNAMES.9"
 msgid "Swift"
 msgstr "Свифт"
+
+#. STRINGS.DAYWALKER_ATTACK.1
+msgctxt "STRINGS.DAYWALKER_ATTACK.1"
+msgid "HEH HEH HEH..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_ATTACK.2
+msgctxt "STRINGS.DAYWALKER_ATTACK.2"
+msgid "FREE... FREE!!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_ATTACK.3
+msgctxt "STRINGS.DAYWALKER_ATTACK.3"
+msgid "GRAAAR!!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_ATTACK.4
+msgctxt "STRINGS.DAYWALKER_ATTACK.4"
+msgid "PESTS!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_ATTACK.5
+msgctxt "STRINGS.DAYWALKER_ATTACK.5"
+msgid "ME DESTROY YOU!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_ATTACK.6
+msgctxt "STRINGS.DAYWALKER_ATTACK.6"
+msgid "IS MINE! MINE!!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_COLLIDE.1
+msgctxt "STRINGS.DAYWALKER_COLLIDE.1"
+msgid "OWWWWW!"
+msgstr "АЙ-АЙ-АЙ-АЙ!"
+
+#. STRINGS.DAYWALKER_COLLIDE.2
+msgctxt "STRINGS.DAYWALKER_COLLIDE.2"
+msgid "OOF!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_FAR.1
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_FAR.1"
+msgid "UUGH..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_FAR.2
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_FAR.2"
+msgid "...(growl)..."
+msgstr "…(р-р-р)…"
+
+#. STRINGS.DAYWALKER_IMPRISONED_FAR.3
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_FAR.3"
+msgid "ME FOUND IT FIRST... ME!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_FAR.4
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_FAR.4"
+msgid "...UUUGH..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_NEAR.1
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_NEAR.1"
+msgid "FREE... ME..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_NEAR.2
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_NEAR.2"
+msgid "...UUGH..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_NEAR.3
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_NEAR.3"
+msgid "COME... CLOSER..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_NEAR.4
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_NEAR.4"
+msgid "PLEASE..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_PILLAR_BREAKING.1
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_PILLAR_BREAKING.1"
+msgid "YES!"
+msgstr "ДА!"
+
+#. STRINGS.DAYWALKER_IMPRISONED_PILLAR_BREAKING.2
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_PILLAR_BREAKING.2"
+msgid "KEEP GOING!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_PILLAR_BREAKING.3
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_PILLAR_BREAKING.3"
+msgid "HURRY! HURRY!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_STRUGGLE.1
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_STRUGGLE.1"
+msgid "ITCHY!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_IMPRISONED_STRUGGLE.2
+msgctxt "STRINGS.DAYWALKER_IMPRISONED_STRUGGLE.2"
+msgid "CAN'T MOVE!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_LEECH_BITE.1
+msgctxt "STRINGS.DAYWALKER_LEECH_BITE.1"
+msgid "AHHH!"
+msgstr "А-А-А-А!"
+
+#. STRINGS.DAYWALKER_LEECH_BITE.2
+msgctxt "STRINGS.DAYWALKER_LEECH_BITE.2"
+msgid "OW!!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_POWERDOWN.1
+msgctxt "STRINGS.DAYWALKER_POWERDOWN.1"
+msgid "M-MY POWER..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_POWERDOWN.2
+msgctxt "STRINGS.DAYWALKER_POWERDOWN.2"
+msgid "THIS NOT OVER!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.1
+msgctxt "STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.1"
+msgid "CAN'T KEEP... ME HERE... FOREVER..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.2
+msgctxt "STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.2"
+msgid "ME FIND CRACK TO DARK PLACE... ME!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.3
+msgctxt "STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.3"
+msgid "POWER SHOULD BE FOR ME!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.4
+msgctxt "STRINGS.DAYWALKER_RE_IMPRISONED_NEAR.4"
+msgid "COWARDS!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_SHAKE_LEECHES.1
+msgctxt "STRINGS.DAYWALKER_SHAKE_LEECHES.1"
+msgid "OFF OF ME!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_SHAKE_LEECHES.2
+msgctxt "STRINGS.DAYWALKER_SHAKE_LEECHES.2"
+msgid "GET OFF!!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_SHAKE_LEECHES.3
+msgctxt "STRINGS.DAYWALKER_SHAKE_LEECHES.3"
+msgid "RAAAAUUGGHH!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_SHAKE_LEECHES.4
+msgctxt "STRINGS.DAYWALKER_SHAKE_LEECHES.4"
+msgid "VERMIN!"
+msgstr ""
+
+#. STRINGS.DAYWALKER_TIRED.1
+msgctxt "STRINGS.DAYWALKER_TIRED.1"
+msgid "HUFF... HUFF..."
+msgstr ""
+
+#. STRINGS.DAYWALKER_TIRED.2
+msgctxt "STRINGS.DAYWALKER_TIRED.2"
+msgid "BETTER... YES, MUCH BETTER."
+msgstr ""
 
 #. STRINGS.DESCRIBE_NULL
 msgctxt "STRINGS.DESCRIBE_NULL"
@@ -260996,6 +262041,11 @@ msgctxt "STRINGS.NAMES.ARMORDRAGONFLY"
 msgid "Scalemail"
 msgstr "Чешуйчатая броня"
 
+#. STRINGS.NAMES.ARMORDREADSTONE
+msgctxt "STRINGS.NAMES.ARMORDREADSTONE"
+msgid "Dreadstone Armor"
+msgstr ""
+
 #. STRINGS.NAMES.ARMORGRASS
 msgctxt "STRINGS.NAMES.ARMORGRASS"
 msgid "Grass Suit"
@@ -263316,6 +264366,16 @@ msgctxt "STRINGS.NAMES.DARKNESS"
 msgid "Darkness"
 msgstr "Тьма"
 
+#. STRINGS.NAMES.DAYWALKER
+msgctxt "STRINGS.NAMES.DAYWALKER"
+msgid "Nightmare Werepig"
+msgstr ""
+
+#. STRINGS.NAMES.DAYWALKER_PILLAR
+msgctxt "STRINGS.NAMES.DAYWALKER_PILLAR"
+msgid "Cracked Pillar"
+msgstr ""
+
 #. STRINGS.NAMES.DEADLYFEAST
 msgctxt "STRINGS.NAMES.DEADLYFEAST"
 msgid "Deadly Feast"
@@ -263505,6 +264565,16 @@ msgstr "Хвост Приносящего Удачу Зверя"
 msgctxt "STRINGS.NAMES.DRAGON_SCALES"
 msgid "Scales"
 msgstr "Чешуя"
+
+#. STRINGS.NAMES.DREADSTONE
+msgctxt "STRINGS.NAMES.DREADSTONE"
+msgid "Dreadstone"
+msgstr ""
+
+#. STRINGS.NAMES.DREADSTONEHAT
+msgctxt "STRINGS.NAMES.DREADSTONEHAT"
+msgid "Dreadstone Helm"
+msgstr ""
 
 #. STRINGS.NAMES.DRIFTWOOD_LOG
 msgctxt "STRINGS.NAMES.DRIFTWOOD_LOG"
@@ -264860,6 +265930,11 @@ msgstr "Наггетсы в меду"
 msgctxt "STRINGS.NAMES.HORN"
 msgid "Beefalo Horn"
 msgstr "Рог бифало"
+
+#. STRINGS.NAMES.HORRORFUEL
+msgctxt "STRINGS.NAMES.HORRORFUEL"
+msgid "Pure Horror"
+msgstr ""
 
 #. STRINGS.NAMES.HOT
 msgctxt "STRINGS.NAMES.HOT"
@@ -269311,6 +270386,11 @@ msgctxt "STRINGS.NAMES.SHADOW_KNIGHT"
 msgid "Shadow Knight"
 msgstr "Теневой конь"
 
+#. STRINGS.NAMES.SHADOW_LEECH
+msgctxt "STRINGS.NAMES.SHADOW_LEECH"
+msgid "Parasitic Shadeling"
+msgstr ""
+
 #. STRINGS.NAMES.SHADOW_ROOK
 msgctxt "STRINGS.NAMES.SHADOW_ROOK"
 msgid "Shadow Rook"
@@ -270555,6 +271635,11 @@ msgstr "Почвотрамбователь"
 msgctxt "STRINGS.NAMES.TURF_ARCHIVE"
 msgid "Ancient Stonework"
 msgstr "Древняя плитка"
+
+#. STRINGS.NAMES.TURF_BEARD_RUG
+msgctxt "STRINGS.NAMES.TURF_BEARD_RUG"
+msgid "Beard Hair Rug"
+msgstr "Ковер из бороды"
 
 #. STRINGS.NAMES.TURF_CARPETFLOOR
 msgctxt "STRINGS.NAMES.TURF_CARPETFLOOR"
@@ -273901,6 +274986,11 @@ msgctxt "STRINGS.RECIPE_DESC.ARMORDRAGONFLY"
 msgid "Armor with a fiery temper."
 msgstr "Броня со взрывным характером."
 
+#. STRINGS.RECIPE_DESC.ARMORDREADSTONE
+msgctxt "STRINGS.RECIPE_DESC.ARMORDREADSTONE"
+msgid "Have no fear, the darkness will protect you."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.ARMORGRASS
 msgctxt "STRINGS.RECIPE_DESC.ARMORGRASS"
 msgid "Provides a small amount of protection."
@@ -274900,6 +275990,11 @@ msgstr "Передняя часть звериного костюма."
 msgctxt "STRINGS.RECIPE_DESC.DRAGONTAILHAT"
 msgid "The caboose of a beast costume."
 msgstr "Задняя часть звериного костюма."
+
+#. STRINGS.RECIPE_DESC.DREADSTONEHAT
+msgctxt "STRINGS.RECIPE_DESC.DREADSTONEHAT"
+msgid "A sturdy helmet of blackest stone."
+msgstr ""
 
 #. STRINGS.RECIPE_DESC.DUMBBELL
 msgctxt "STRINGS.RECIPE_DESC.DUMBBELL"
@@ -276451,6 +277546,136 @@ msgctxt "STRINGS.RECIPE_DESC.TRANSISTOR"
 msgid "Science away! Bzzzt!"
 msgstr "Да здравствует наука! Бз-з-з!"
 
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BEARDHAIR
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEARDHAIR"
+msgid "Transmute Beefalo Hair into Beard Hair."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALODHAIR
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALODHAIR"
+msgid "Transmute Beard Hair into Beefalo Hair."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BLUEGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BLUEGEM"
+msgid "Transmute Red Gems into Blue Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BONESHARD
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BONESHARD"
+msgid "Transmute a Hound's Tooth into Bone Shards."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_CUTSTONE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_CUTSTONE"
+msgid "Transmute Marble into Cut Stone."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_DREADSTONE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_DREADSTONE"
+msgid "Transmute Pure Horror into Dreadstone."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_FLINT
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_FLINT"
+msgid "Transmute Rocks into Flint."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_GOLDNUGGET
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_GOLDNUGGET"
+msgid "Transmute Nitre into Gold Nuggets."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_GREENGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_GREENGEM"
+msgid "Transmute Yellow Gems into Green Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_HORRORFUEL
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_HORRORFUEL"
+msgid "Transmute Dreadstone into Pure Horror."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_HOUNDSTOOTH
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_HOUNDSTOOTH"
+msgid "Transmute Bone Shards into a Hounds Tooth."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_LOG
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_LOG"
+msgid "Transmute Twigs into a Log."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MARBLE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MARBLE"
+msgid "Transmute Cut Stone into Marble."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MEAT
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MEAT"
+msgid "Transmute Morsels into Meat."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MOONROCKNUGGET
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MOONROCKNUGGET"
+msgid "Transmute Marble into Moon Rock."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_NIGHTMAREFUEL
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_NIGHTMAREFUEL"
+msgid "Transmute Pure Horror into Nightmarefuel."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_NITRE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_NITRE"
+msgid "Transmute Gold Nugget into a Nitre."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_OPALPRECIOUSGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_OPALPRECIOUSGEM"
+msgid "Transmute Many Gems into an Iridescent Gem."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_ORANGEGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_ORANGEGEM"
+msgid "Transmute Purple Gems into Orange Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_POOP
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_POOP"
+msgid "Transmute Rot into Manure."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_PURPLEGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_PURPLEGEM"
+msgid "Transmute Blue and Red Gems into Purple Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_REDGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_REDGEM"
+msgid "Transmute Blue Gems into Red Gems."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_ROCKS
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_ROCKS"
+msgid "Transmute Flint into Rocks."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_SMALLMEAT
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_SMALLMEAT"
+msgid "Transmute Meat into Morsels."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_TWIGS
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_TWIGS"
+msgid "Transmute a Log into Twigs."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_YELLOWGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_YELLOWGEM"
+msgid "Transmute Orange Gems into Yellow Gems."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.TRAP
 msgctxt "STRINGS.RECIPE_DESC.TRAP"
 msgid "Capture small creatures."
@@ -277170,11 +278395,6 @@ msgstr "В таком приятном свете любая пещера каж
 msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
 msgid "A rabbit statue with a real fire in its belly!"
 msgstr "Статуя кролика с настоящим огоньком в животе!"
-
-#. STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT
-msgctxt "STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT"
-msgid "Who will be the last pillowfighter standing?"
-msgstr ""
 
 #. STRINGS.RECIPE_DESC.YOTR_FOOD1
 msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
@@ -278030,6 +279250,366 @@ msgstr "{quantifier} {adjective} {noun} {addition}"
 msgctxt "STRINGS.SIGNS.QUANT_ADJ_NOUN_FMT"
 msgid "{quantifier} {adjective} {noun}"
 msgstr "{quantifier} {adjective} {noun}"
+
+#. STRINGS.SKILLTREE.ACTIVATE
+msgctxt "STRINGS.SKILLTREE.ACTIVATE"
+msgid "Learn"
+msgstr "Изучать"
+
+#. STRINGS.SKILLTREE.ACTIVATED
+msgctxt "STRINGS.SKILLTREE.ACTIVATED"
+msgid "SKILL MASTERED"
+msgstr ""
+
+#. STRINGS.SKILLTREE.INFOPANEL
+msgctxt "STRINGS.SKILLTREE.INFOPANEL"
+msgid "Outfit"
+msgstr ""
+
+#. STRINGS.SKILLTREE.INFOPANEL_DESC
+msgctxt "STRINGS.SKILLTREE.INFOPANEL_DESC"
+msgid "Become a seasoned survivor!"
+msgstr ""
+
+#. STRINGS.SKILLTREE.LOCKED
+msgctxt "STRINGS.SKILLTREE.LOCKED"
+msgid "PATH LOCKED"
+msgstr ""
+
+#. STRINGS.SKILLTREE.NEW_SKILL_POINT
+msgctxt "STRINGS.SKILLTREE.NEW_SKILL_POINT"
+msgid "Insight Gained!"
+msgstr ""
+
+#. STRINGS.SKILLTREE.ONLINE_DATA_DOWNLOAD_FAILED
+msgctxt "STRINGS.SKILLTREE.ONLINE_DATA_DOWNLOAD_FAILED"
+msgid "Online skilltree data failed to sync. Using offline data."
+msgstr ""
+
+#. STRINGS.SKILLTREE.ONLINE_DATA_USER_OFFLINE
+msgctxt "STRINGS.SKILLTREE.ONLINE_DATA_USER_OFFLINE"
+msgid "Login to use online skilltree data."
+msgstr ""
+
+#. STRINGS.SKILLTREE.PANELS.ALCHEMY
+msgctxt "STRINGS.SKILLTREE.PANELS.ALCHEMY"
+msgid "ALCHEMY"
+msgstr ""
+
+#. STRINGS.SKILLTREE.PANELS.ALLEGIANCE
+msgctxt "STRINGS.SKILLTREE.PANELS.ALLEGIANCE"
+msgid "AFFINITY"
+msgstr ""
+
+#. STRINGS.SKILLTREE.PANELS.BEARD
+msgctxt "STRINGS.SKILLTREE.PANELS.BEARD"
+msgid "BEARD"
+msgstr ""
+
+#. STRINGS.SKILLTREE.PANELS.TORCH
+msgctxt "STRINGS.SKILLTREE.PANELS.TORCH"
+msgid "TORCH"
+msgstr ""
+
+#. STRINGS.SKILLTREE.RESPEC
+msgctxt "STRINGS.SKILLTREE.RESPEC"
+msgid "Reset Insight"
+msgstr ""
+
+#. STRINGS.SKILLTREE.SKILLPOINTS
+msgctxt "STRINGS.SKILLTREE.SKILLPOINTS"
+msgid "Insight"
+msgstr ""
+
+#. STRINGS.SKILLTREE.SKILLPOINTS_TO_SPEND
+msgctxt "STRINGS.SKILLTREE.SKILLPOINTS_TO_SPEND"
+msgid "Insight Remaining"
+msgstr ""
+
+#. STRINGS.SKILLTREE.SKILLTREE
+msgctxt "STRINGS.SKILLTREE.SKILLTREE"
+msgid "Skillset"
+msgstr ""
+
+#. STRINGS.SKILLTREE.UNKNOWN
+msgctxt "STRINGS.SKILLTREE.UNKNOWN"
+msgid "PATH UNKNOWN"
+msgstr ""
+
+#. STRINGS.SKILLTREE.UNLOCKED
+msgctxt "STRINGS.SKILLTREE.UNLOCKED"
+msgid "PATH UNLOCKED"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_DESC"
+msgid "Transform 6 Rot into Manure.\nTransform 2 Hound's Teeth into a Bone Shards.\nTransform 2 Bone Shards into a Hound's Tooth."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_10_TITLE"
+msgid "Transmute Icky III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_1_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_1_DESC"
+msgid "Transform 3 Twigs into a Log.\nTransform a Log into 2 Twigs."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_1_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_1_TITLE"
+msgid "Transmutation"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_DESC"
+msgid "Transform 2 Red Gems into a Blue Gem.\nTransform 2 Blue Gems into a Red Gem.\nTransform a Blue and Red Gem into a Purple Gem."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_2_TITLE"
+msgid "Transmute Gems I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_DESC"
+msgid "Transform 3 Rocks into a Flint.\nTransform 2 Flint into Rocks."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_3_TITLE"
+msgid "Transmute Ore I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_4_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_4_DESC"
+msgid "Transform 3 Morsels into a Meat.\nTransform a Meat into 2 Morsels."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_4_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_4_TITLE"
+msgid "Transmute Icky I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_5_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_5_DESC"
+msgid "Transform 3 Purple Gems into an Orange Gem.\nTransform 3 Orange Gems into a Yellow Gem."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_5_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_5_TITLE"
+msgid "Transmute Gems II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_6_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_6_DESC"
+msgid "Transform 3 Yellow Gems into a Green Gem.\nTransform 6 Gems of different colors into an Iridescent Gem."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_6_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_6_TITLE"
+msgid "Transmute Gems III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_DESC"
+msgid "Transform 3 Nitre into a Gold Nugget.\nTransform 2 Gold Nuggets into Nitre."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_7_TITLE"
+msgid "Transmute Ore II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_DESC"
+msgid "Transform 2 Cut Stone into Marble.\nTransform Marble into Cut Stone.\nTransform 2 Marble into Moon Rock."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_8_TITLE"
+msgid "Transmute Ore III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_DESC"
+msgid "Transform 2 Beard Hair into Beefalo Hair.\n Transform 2 Beefalo Hair into Beard Hair."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_TITLE"
+msgid "Transmute Icky II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_LOCK_1_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_LOCK_1_DESC"
+msgid "Learn 12 Skills to unlock."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_LOCK_2_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_LOCK_2_DESC"
+msgid "Find and defeat the Ancient Fuelweaver."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_SHADOW_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_SHADOW_DESC"
+msgid "The Queen will reward your loyalty with the secrets of Shadow Transmutation."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_SHADOW_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALLEGIANCE_SHADOW_TITLE"
+msgid "Shadow Courtier"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_1_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_1_DESC"
+msgid "Gain high insulation from your beard."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_1_LOCK_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_1_LOCK_DESC"
+msgid "Learn 3 Beard Skills to unlock."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_1_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_1_TITLE"
+msgid "Beard Insulation I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_2_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_2_DESC"
+msgid "Gain higher insulation from your beard."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_2_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_2_TITLE"
+msgid "Beard Insulation II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_3_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_3_DESC"
+msgid "Gain highest insulation from your beard."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_3_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_3_TITLE"
+msgid "Beard Insulation III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_4_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_4_DESC"
+msgid "Your magnificent beard grows a little faster."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_4_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_4_TITLE"
+msgid "Beard Growth I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_5_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_5_DESC"
+msgid "Your magnificent beard grows a fair amount faster."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_5_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_5_TITLE"
+msgid "Beard Growth II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_6_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_6_DESC"
+msgid "Your magnificent beard grows much faster."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_6_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_6_TITLE"
+msgid "Beard Growth III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_7_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_7_DESC"
+msgid "Stash food in your beard."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_BEARD_7_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_BEARD_7_TITLE"
+msgid "Beard Hair Storage"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_1_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_1_DESC"
+msgid "Torches last a little longer."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_1_LOCK_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_1_LOCK_DESC"
+msgid "Learn 3 Torch Skills to unlock."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_1_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_1_TITLE"
+msgid "Torch Longevity I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_2_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_2_DESC"
+msgid "Torches last a fair amount longer."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_2_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_2_TITLE"
+msgid "Torch Longevity II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_3_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_3_DESC"
+msgid "Torches last a lot longer."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_3_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_3_TITLE"
+msgid "Torch Longevity III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_4_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_4_DESC"
+msgid "Torches are a little brighter."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_4_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_4_TITLE"
+msgid "Torch Range I"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_5_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_5_DESC"
+msgid "Torches are a fair amount brighter."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_5_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_5_TITLE"
+msgid "Torch Range II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_6_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_6_DESC"
+msgid "Torches are a lot brighter."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_6_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_6_TITLE"
+msgid "Torch Range III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_7_DESC
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_7_DESC"
+msgid "Uses a scientifically formulated trajectory to always land right side up."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WILSON.WILSON_TORCH_7_TITLE
+msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_TORCH_7_TITLE"
+msgid "Torch Toss"
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_formal"
@@ -280236,6 +281816,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_yule"
 msgid "This heavy capelet will keep you warm and toasty."
 msgstr "Эта тяжелая накидка укроет от холодов и невзгод."
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_barber"
+msgid "A protective apron to keep your clothes as flawless as your hair."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wilson_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_cook"
 msgid "Starched and pressed, for the well-dressed chef."
@@ -280243,6 +281828,11 @@ msgstr "Накрахмаленный и выглаженный костюм из
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wilson_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_formal"
+msgid "Some events ask for white tie, and some ask for black tie. Well, this is red tie."
+msgstr "Для некоторых событий требуется белый галстук, а для некоторых — черный. Что ж, этот — красный."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wilson_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_formalp"
 msgid "Some events ask for white tie, and some ask for black tie. Well, this is red tie."
 msgstr "Для некоторых событий требуется белый галстук, а для некоторых — черный. Что ж, этот — красный."
 
@@ -280291,13 +281881,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_rose"
 msgid "Rose cultivation is truly a most delicate science."
 msgstr "Выращивание роз — поистине самая деликатная наука."
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wilson_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_rosep"
+msgid "Rose cultivation is truly a most delicate science."
+msgstr "Выращивание роз — поистине самая деликатная наука."
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wilson_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_shadow"
 msgid "A suit made of shadows. Quite the opposite of flashy."
 msgstr "Костюм, сотканный из теней. Обратно пропорционален костюму света."
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wilson_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_shadowp"
+msgid "A suit made of shadows. Quite the opposite of flashy."
+msgstr "Костюм, сотканный из теней. Обратно пропорционален костюму света."
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wilson_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_survivor"
+msgid "This outfit may have been attacked by weevils. Or something worse."
+msgstr "На такую одежду могут напасть долгоносики. Или еще кто похуже."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wilson_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_survivorp"
 msgid "This outfit may have been attacked by weevils. Or something worse."
 msgstr "На такую одежду могут напасть долгоносики. Или еще кто похуже."
 
@@ -281126,6 +282731,66 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.critterlab_gothic"
 msgid "What could reside in a place so dark and dour?"
 msgstr "Кто может жить в столь темном и мрачном месте?"
 
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved"
+msgid "Your dock will be open for monkey business in no time."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved2"
+msgid "Make your dock fit for a monkey Queen."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved2_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved2_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved3"
+msgid "This carved dock piling is a fine piece of handiwork."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved3_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved3_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_carved_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated"
+msgid "Nothing says fun like a fringe."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated2"
+msgid "All wrapped up and finished off with a delightful bow!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated2_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated2_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated3"
+msgid "Comes complete with a cute little cap."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated3_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated3_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated_item"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.dragonflychest_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonflychest_fantasy"
 msgid "The only thing that will placate this fearsome chest is a belly full of treasure."
@@ -281701,6 +283366,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_formal_lowheel_black_scribble"
 msgid "Low-heeled 'scribble black' colored dress shoes."
 msgstr "Модельные туфли на низком каблуке, цвета «черного каракуля»."
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_formal_lowheelp_black_scribble
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_formal_lowheelp_black_scribble"
+msgid "Low-heeled 'scribble black' colored dress shoes."
+msgstr "Модельные туфли на низком каблуке, цвета «черного каракуля»."
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_formal_stiletto_black_scribble
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_formal_stiletto_black_scribble"
 msgid "High-heeled 'scribble black' colored dress shoes."
@@ -282150,6 +283820,11 @@ msgstr "Холод брусчатки ощущается даже через п�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_yule"
 msgid "Sturdy and warm enough to keep out winter's chill."
 msgstr "Прочные и теплые, так что у зимнего холода не будет шансов."
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wilson_barber"
+msgid "Shoes worn by someone who takes great pride in their appearance."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wilson_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wilson_gladiator"
@@ -282756,6 +284431,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic4"
 msgid "Add these stones to create a grave atmosphere."
 msgstr "Создайте кладбищенскую атмосферу с помощью этих камней."
 
+#. STRINGS.SKIN_DESCRIPTIONS.greenstaff_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_an"
+msgid "Artfully break down old concepts to create something new."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork"
 msgid "A construct of deconstruction."
@@ -283226,8 +284906,18 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_yule"
 msgid "Warm hands, warm heart."
 msgstr "Теплые руки и сердце греют."
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_barber"
+msgid "These hands won't be complete without a barber's blade."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formal"
+msgid "These gloves will hide the chemical stains on your hands when you dress up for formal occasions."
+msgstr "Эти перчатки скроют следы химических ожогов на руках, когда вы оденетесь для особого случая."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formalp"
 msgid "These gloves will hide the chemical stains on your hands when you dress up for formal occasions."
 msgstr "Эти перчатки скроют следы химических ожогов на руках, когда вы оденетесь для особого случая."
 
@@ -284326,6 +286016,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_willow_magma"
 msgid "Made for dancing on fiery graves."
 msgstr "Созданы для танцев на горящих могилах."
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wilson_barber"
+msgid "Originally, barbers provided medical services like blood-letting; a fun little factoid that has nothing to do with these pants or their coloration."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wilson_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wilson_gladiator"
 msgid "A pair of fur-trimmed leggings and a broad leather belt."
@@ -285321,6 +287016,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.missing"
 msgid "This item completely mystifies you."
 msgstr "Этот предмет окружает тебя таинственностью."
 
+#. STRINGS.SKIN_DESCRIPTIONS.molehat_goggles
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.molehat_goggles"
+msgid "Two noses are better than one."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.monkeyhatmedium_blue
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.monkeyhatmedium_blue"
 msgid "Let's see how pristine YOU look after a few weeks at sea."
@@ -285355,6 +287055,11 @@ msgstr "Призывает леденящую душу магию луны."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.multitool_axe_pickaxe_pickaxeaxe"
 msgid "How much could a pickaxe axe?"
 msgstr "Этим топором и камень рубить можно."
+
+#. STRINGS.SKIN_DESCRIPTIONS.mushroom_farm_handmade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_farm_handmade"
+msgid "Create a cozy homestead for your fungal friends."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_an
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light2_an"
@@ -285551,10 +287256,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.orangestaff_victorian"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_barber_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_barber_items"
+msgid "This Barber's Kit contains the following skin items: Barber's Razor, Neat Effigy, and Oil Torch."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_boy_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_boy_items"
 msgid "This Homespun Chest contains the following skin items: Homespun Garden Hoe, Homespun Watering Can, and Homespun Seed Pouch."
 msgstr "Этот Деревенский сундук содержит следующие предметы обликов: деревенская садовая мотыга, деревенская лейка и деревенская сумка для семян."
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_builderspack_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_builderspack_items"
+msgid "This Decorator's Chest contains the following skin items: Cozy Mushroom Farm, Moggles 2.0, Koalefant Can, Cactus Water Can, Tasselled Post, Bundled Post, Red-Capped Post, Monkey Paw Post, Regal Post, Monkey Post, Seaworthy Scale, Fieldflower Farm Scale, and Whispering Mace."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items"
@@ -286866,10 +288581,40 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_willow_survivor"
 msgid "This Chest contains Willow's complete set of Survivor skin items."
 msgstr "Этот сундук содержит все предметы из набора для облика Уиллоу «Выживший»."
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_barber"
+msgid "This Chest contains Wilson's complete set of Barber skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_deluxe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_deluxe"
+msgid "This Deluxe Wardrobe contains Wilson's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Barber skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_formal"
+msgid "This Chest contains Wilson's complete set of Guest of Honor skin items."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_nature"
 msgid "This Spring Chest contains Wilson's complete set of Verdant skin items."
 msgstr "Этот Весенний сундук содержит все предметы из набора для облика Уилсона «Покрытый зеленью»."
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_rose"
+msgid "This Chest contains Wilson's complete set of Roseate skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_shadow"
+msgid "This Chest contains Wilson's complete set of Triumphant skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_survivor"
+msgid "This Chest contains Wilson's complete set of Survivor skin items."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe"
@@ -287546,6 +289291,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2"
 msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
 msgstr "Установите этот предмет, чтобы изменить фон портрета.\n\nУмирают все. Но не все остаются мертвыми."
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_greenstaffan
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_greenstaffan"
+msgid "Equip this item to change your character's background portrait."
+msgstr "Установите этот предмет, чтобы изменить фон портрета."
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments"
 msgid "Equip this item to change your character's background portrait.\n\nOrnaments of dread."
@@ -287946,6 +289696,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule7"
 msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
 msgstr "Установите этот предмет, чтобы изменить фон портрета.\n\nЕшь, пей и ликуй, ведь завтра тебя может ждать смерть."
 
+#. STRINGS.SKIN_DESCRIPTIONS.premiumwateringcan_koalefant
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.premiumwateringcan_koalefant"
+msgid "Can your watering can water as well as a Koalefant can?"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
@@ -288245,6 +290000,11 @@ msgstr "Смените иконку вашего профиля на небре�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_goosemoose"
 msgid "Set your profile icon to a Goose. Or Moose. Or both."
 msgstr "Смените иконку вашего профиля на Гуся. Или Лося. Или на то и другое."
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_greenstaff_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_greenstaff_an"
+msgid "Set your profile icon to a Nouveau Deconstructor."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_hambat_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_hambat_nautical"
@@ -289126,6 +290886,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.rainometer_circus"
 msgid "Guess the rainfall."
 msgstr "Предскажите объем осадков."
 
+#. STRINGS.SKIN_DESCRIPTIONS.razor_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.razor_barber"
+msgid "Cutting-edge barbering technology!"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.razor_scissors
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.razor_scissors"
 msgid "They're a shear delight."
@@ -289281,10 +291046,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_retro"
 msgid "What will you do in the name of progress?"
 msgstr "На что вы готовы пойти во имя прогресса?"
 
+#. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_bouquet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_bouquet"
+msgid "Begin your Valentine's Day decorating with a bouquet of fresh flowers."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reskin_tool_brush"
 msgid "Nothing like a fresh coat of spectral paint."
 msgstr "Спектральная краска — лучший помощник тех, кто всегда жалеет о своем выборе."
+
+#. STRINGS.SKIN_DESCRIPTIONS.resurrectionstatue_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.resurrectionstatue_barber"
+msgid "You wouldn't be caught dead with uncoiffed hair!"
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.resurrectionstone_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.resurrectionstone_fantasy"
@@ -289340,6 +291115,11 @@ msgstr "Праща и стрелы судьбы добрались до этог
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_lifecrystal"
 msgid "A shimmering, life-giving crystal."
 msgstr "Сверкающий кристалл, полный жизненной энергии."
+
+#. STRINGS.SKIN_DESCRIPTIONS.ruins_bat_arcane
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruins_bat_arcane"
+msgid "A weapon favored by forgotten warriors of old."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy"
@@ -289646,6 +291426,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_wizard"
 msgid "Every self-respecting wizard requires a tall pointy hat."
 msgstr "У каждого уважающего себя мага должна быть остроконечная шляпа."
 
+#. STRINGS.SKIN_DESCRIPTIONS.torch_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_barber"
+msgid "Keep burning the midnight oil."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.torch_carrat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat"
 msgid "A torch made in honor of the clever carrat."
@@ -289785,6 +291570,16 @@ msgstr "Время его путешествий уже ушло, но восп�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_vintage"
 msgid "Adds a nice, homey touch to any camp."
 msgstr "Добавит любому лагерю немного домашнего уюта."
+
+#. STRINGS.SKIN_DESCRIPTIONS.trophyscale_fish_handmade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.trophyscale_fish_handmade"
+msgid "What waits to be weighed 'neath the waves?"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.trophyscale_oversizedveggies_plant
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.trophyscale_oversizedveggies_plant"
+msgid "This hardy bloom is ready to weigh all your farm-fresh veggies."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.umbrella_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_circus"
@@ -290170,6 +291965,11 @@ msgstr "Званый вечер требует, чтобы гости потра
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_victorian"
 msgid "Warly's developed a taste for adventure and is heading out to sea."
 msgstr "Варли наконец распробовал на вкус приключения и теперь отправляется к морю."
+
+#. STRINGS.SKIN_DESCRIPTIONS.wateringcan_cactus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wateringcan_cactus"
+msgid "A prickly pear with water to spare."
+msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wateringcan_rustic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wateringcan_rustic"
@@ -291081,6 +292881,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_yule"
 msgid "Willow is ready to roast some chestnuts... and anything else she can get her hands on, really."
 msgstr "Уиллоу готова поджарить для всех каштаны... и все остальное, до чего она только сможет дотянуться."
 
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_barber"
+msgid "Some might find this barber's methods a bit too experimental for their taste."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_barber"
+msgid "Somehow, even in the wilderness, Wilson manages to maintain a neatly trimmed beard and a waxed moustache."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_beard_formal"
 msgid "It's important that Wilson keeps his beard honorable when things get hairy."
@@ -291161,6 +292971,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_formal"
 msgid "Formal Wilson is unhappy Wilson."
 msgstr "Парадный Уилсон — несчастный Уилсон."
 
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_formalp"
+msgid "Formal Wilson is unhappy Wilson."
+msgstr "Парадный Уилсон — несчастный Уилсон."
+
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_gladiator"
 msgid "Wilson is willing to take on any challenger."
@@ -291216,13 +293031,28 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_rose"
 msgid "Who knew rose dye was so permanent?"
 msgstr "Кто знал, что розовая краска такая стойкая?"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_rosep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_rosep"
+msgid "Who knew rose dye was so permanent?"
+msgstr "Кто знал, что розовая краска такая стойкая?"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_shadow"
 msgid "Wilson has learned the science of shadows."
 msgstr "Уилсон выучил науку теней."
 
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_shadowp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_shadowp"
+msgid "Wilson has learned the science of shadows."
+msgstr "Уилсон выучил науку теней."
+
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_survivor"
+msgid "As a scientist, Wilson is well equipped to investigate the natural world."
+msgstr "Уилсон, как любой ученый, хорошо экипирован для исследования мира природы."
+
+#. STRINGS.SKIN_DESCRIPTIONS.wilson_survivorp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_survivorp"
 msgid "As a scientist, Wilson is well equipped to investigate the natural world."
 msgstr "Уилсон, как любой ученый, хорошо экипирован для исследования мира природы."
 
@@ -294191,6 +296021,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_willow_yule"
 msgid "Heartwarming Frock"
 msgstr "Душегрея"
 
+#. STRINGS.SKIN_NAMES.body_wilson_barber
+msgctxt "STRINGS.SKIN_NAMES.body_wilson_barber"
+msgid "Barber's Apron"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wilson_cook
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_cook"
 msgid "Wilson's Gorge Garb"
@@ -294198,6 +296033,11 @@ msgstr "Наряд Глотки для Уилсона"
 
 #. STRINGS.SKIN_NAMES.body_wilson_formal
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_formal"
+msgid "Tuxedo"
+msgstr "Смокинг"
+
+#. STRINGS.SKIN_NAMES.body_wilson_formalp
+msgctxt "STRINGS.SKIN_NAMES.body_wilson_formalp"
 msgid "Tuxedo"
 msgstr "Смокинг"
 
@@ -294246,13 +296086,28 @@ msgctxt "STRINGS.SKIN_NAMES.body_wilson_rose"
 msgid "Gardenrose Attire"
 msgstr "Костюм садовой розы"
 
+#. STRINGS.SKIN_NAMES.body_wilson_rosep
+msgctxt "STRINGS.SKIN_NAMES.body_wilson_rosep"
+msgid "Gardenrose Attire"
+msgstr "Костюм садовой розы"
+
 #. STRINGS.SKIN_NAMES.body_wilson_shadow
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_shadow"
 msgid "Shadow Suit"
 msgstr "Теневой костюм"
 
+#. STRINGS.SKIN_NAMES.body_wilson_shadowp
+msgctxt "STRINGS.SKIN_NAMES.body_wilson_shadowp"
+msgid "Shadow Suit"
+msgstr "Теневой костюм"
+
 #. STRINGS.SKIN_NAMES.body_wilson_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_survivor"
+msgid "Rumpled Outfit"
+msgstr "Мятая одежда"
+
+#. STRINGS.SKIN_NAMES.body_wilson_survivorp
+msgctxt "STRINGS.SKIN_NAMES.body_wilson_survivorp"
 msgid "Rumpled Outfit"
 msgstr "Мятая одежда"
 
@@ -295081,6 +296936,66 @@ msgctxt "STRINGS.SKIN_NAMES.critterlab_gothic"
 msgid "Brooding Den"
 msgstr "Мрачное логово"
 
+#. STRINGS.SKIN_NAMES.dock_woodposts_carved
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_carved"
+msgid "Monkey Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_carved2
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_carved2"
+msgid "Regal Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_carved2_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_carved2_item"
+msgid "Regal Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_carved3
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_carved3"
+msgid "Monkey Paw Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_carved3_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_carved3_item"
+msgid "Monkey Paw Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_carved_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_carved_item"
+msgid "Monkey Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_decorated
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated"
+msgid "Tasselled Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_decorated2
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated2"
+msgid "Bundled Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_decorated2_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated2_item"
+msgid "Bundled Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_decorated3
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated3"
+msgid "Red-Capped Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_decorated3_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated3_item"
+msgid "Red-Capped Post"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_decorated_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated_item"
+msgid "Tasselled Post"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.dragonflychest_fantasy
 msgctxt "STRINGS.SKIN_NAMES.dragonflychest_fantasy"
 msgid "Beastly Chest"
@@ -295656,6 +297571,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_formal_lowheel_black_scribble"
 msgid "Low Heels"
 msgstr "Туфли на низком каблуке"
 
+#. STRINGS.SKIN_NAMES.feet_formal_lowheelp_black_scribble
+msgctxt "STRINGS.SKIN_NAMES.feet_formal_lowheelp_black_scribble"
+msgid "Low Heels"
+msgstr "Туфли на низком каблуке"
+
 #. STRINGS.SKIN_NAMES.feet_formal_stiletto_black_scribble
 msgctxt "STRINGS.SKIN_NAMES.feet_formal_stiletto_black_scribble"
 msgid "High Heels"
@@ -296105,6 +298025,11 @@ msgstr "Башмаки уличной торговки"
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_yule"
 msgid "Warm Winter Booties"
 msgstr "Теплые зимние ботики"
+
+#. STRINGS.SKIN_NAMES.feet_wilson_barber
+msgctxt "STRINGS.SKIN_NAMES.feet_wilson_barber"
+msgid "Gold-Tipped Derbys"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_wilson_gladiator
 msgctxt "STRINGS.SKIN_NAMES.feet_wilson_gladiator"
@@ -296711,6 +298636,11 @@ msgctxt "STRINGS.SKIN_NAMES.gravestone_gothic4"
 msgid "Gothic Gravestone"
 msgstr "Готическое надгробие"
 
+#. STRINGS.SKIN_NAMES.greenstaff_an
+msgctxt "STRINGS.SKIN_NAMES.greenstaff_an"
+msgid "Nouveau Deconstructor"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.greenstaff_clockwork
 msgctxt "STRINGS.SKIN_NAMES.greenstaff_clockwork"
 msgid "Clockwork Deconstruction Staff"
@@ -297181,8 +299111,18 @@ msgctxt "STRINGS.SKIN_NAMES.hand_willow_yule"
 msgid "Toasty Mitts"
 msgstr "Уютные варежки"
 
+#. STRINGS.SKIN_NAMES.hand_wilson_barber
+msgctxt "STRINGS.SKIN_NAMES.hand_wilson_barber"
+msgid "Clean-Cut Gloves"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.hand_wilson_formal
 msgctxt "STRINGS.SKIN_NAMES.hand_wilson_formal"
+msgid "Tuxedo Gloves"
+msgstr "Перчатки для смокинга"
+
+#. STRINGS.SKIN_NAMES.hand_wilson_formalp
+msgctxt "STRINGS.SKIN_NAMES.hand_wilson_formalp"
 msgid "Tuxedo Gloves"
 msgstr "Перчатки для смокинга"
 
@@ -298281,6 +300221,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_willow_magma"
 msgid "Pyrestarter's Socks"
 msgstr "Чулки поджигательницы"
 
+#. STRINGS.SKIN_NAMES.legs_wilson_barber
+msgctxt "STRINGS.SKIN_NAMES.legs_wilson_barber"
+msgid "Red Striped Trousers"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.legs_wilson_gladiator
 msgctxt "STRINGS.SKIN_NAMES.legs_wilson_gladiator"
 msgid "Forging Leggings"
@@ -299276,6 +301221,11 @@ msgctxt "STRINGS.SKIN_NAMES.missing"
 msgid "Thingamabob"
 msgstr "Штуковина"
 
+#. STRINGS.SKIN_NAMES.molehat_goggles
+msgctxt "STRINGS.SKIN_NAMES.molehat_goggles"
+msgid "Moggles 2.0"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.monkeyhatmedium_blue
 msgctxt "STRINGS.SKIN_NAMES.monkeyhatmedium_blue"
 msgid "Weathered Tricorn"
@@ -299310,6 +301260,11 @@ msgstr "Лунный посох"
 msgctxt "STRINGS.SKIN_NAMES.multitool_axe_pickaxe_pickaxeaxe"
 msgid "Pickaxe Axe"
 msgstr "Кирка-топор"
+
+#. STRINGS.SKIN_NAMES.mushroom_farm_handmade
+msgctxt "STRINGS.SKIN_NAMES.mushroom_farm_handmade"
+msgid "Cozy Mushroom Farm"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.mushroom_light2_an
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light2_an"
@@ -299506,10 +301461,20 @@ msgctxt "STRINGS.SKIN_NAMES.orangestaff_victorian"
 msgid "Fanciful Explorer"
 msgstr "Экстравагантный исследователь"
 
+#. STRINGS.SKIN_NAMES.pack_barber_items
+msgctxt "STRINGS.SKIN_NAMES.pack_barber_items"
+msgid "Barber's Kit"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_boy_items
 msgctxt "STRINGS.SKIN_NAMES.pack_boy_items"
 msgid "Homespun Chest"
 msgstr "Деревенский сундук"
+
+#. STRINGS.SKIN_NAMES.pack_builderspack_items
+msgctxt "STRINGS.SKIN_NAMES.pack_builderspack_items"
+msgid "Decorator's Chest"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_cawnival_items
 msgctxt "STRINGS.SKIN_NAMES.pack_cawnival_items"
@@ -300821,10 +302786,40 @@ msgctxt "STRINGS.SKIN_NAMES.pack_willow_survivor"
 msgid "Willow Survivor Chest"
 msgstr "Сундук Уиллоу «Выживший»"
 
+#. STRINGS.SKIN_NAMES.pack_wilson_barber
+msgctxt "STRINGS.SKIN_NAMES.pack_wilson_barber"
+msgid "Wilson Barber Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wilson_deluxe
+msgctxt "STRINGS.SKIN_NAMES.pack_wilson_deluxe"
+msgid "Wilson Deluxe Wardrobe"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wilson_formal
+msgctxt "STRINGS.SKIN_NAMES.pack_wilson_formal"
+msgid "Wilson Guest of Honor Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_wilson_nature
 msgctxt "STRINGS.SKIN_NAMES.pack_wilson_nature"
 msgid "Wilson Verdant Chest"
 msgstr "Зеленый сундук Уилсона"
+
+#. STRINGS.SKIN_NAMES.pack_wilson_rose
+msgctxt "STRINGS.SKIN_NAMES.pack_wilson_rose"
+msgid "Wilson Roseate Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wilson_shadow
+msgctxt "STRINGS.SKIN_NAMES.pack_wilson_shadow"
+msgid "Wilson Triumphant Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wilson_survivor
+msgctxt "STRINGS.SKIN_NAMES.pack_wilson_survivor"
+msgid "Wilson Survivor Chest"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_winona_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_winona_deluxe"
@@ -301501,6 +303496,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_graveyard2"
 msgid "Cemetery Portrait"
 msgstr "Изображение кладбища"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_greenstaffan
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_greenstaffan"
+msgid "Nouveau Deconstructor Portrait"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments"
 msgid "Hanging Horrors Portrait"
@@ -301901,6 +303901,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_yule7"
 msgid "Winter's Feast Foods"
 msgstr "Праздничные блюда"
 
+#. STRINGS.SKIN_NAMES.premiumwateringcan_koalefant
+msgctxt "STRINGS.SKIN_NAMES.premiumwateringcan_koalefant"
+msgid "Koalefant Can"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.profileflair_abigail_flower
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
@@ -302200,6 +304205,11 @@ msgstr "Небрежно упакованная коробка"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_goosemoose"
 msgid "Moose/Goose"
 msgstr "Лось/Гусь"
+
+#. STRINGS.SKIN_NAMES.profileflair_greenstaff_an
+msgctxt "STRINGS.SKIN_NAMES.profileflair_greenstaff_an"
+msgid "Nouveau Deconstructor"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_hambat_nautical
 msgctxt "STRINGS.SKIN_NAMES.profileflair_hambat_nautical"
@@ -303081,6 +305091,11 @@ msgctxt "STRINGS.SKIN_NAMES.rainometer_circus"
 msgid "The Magnificent Rainometer"
 msgstr "Великолепный дождеметр"
 
+#. STRINGS.SKIN_NAMES.razor_barber
+msgctxt "STRINGS.SKIN_NAMES.razor_barber"
+msgid "Barber's Razor"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.razor_scissors
 msgctxt "STRINGS.SKIN_NAMES.razor_scissors"
 msgid "Scissors"
@@ -303236,10 +305251,20 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab_retro"
 msgid "Experimentation Apparatus"
 msgstr "Аппаратура для экспериментов"
 
+#. STRINGS.SKIN_NAMES.reskin_tool_bouquet
+msgctxt "STRINGS.SKIN_NAMES.reskin_tool_bouquet"
+msgid "Lovely Bouquet"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.reskin_tool_brush
 msgctxt "STRINGS.SKIN_NAMES.reskin_tool_brush"
 msgid "Spectre Paintbrush"
 msgstr "Спектральная кисть"
+
+#. STRINGS.SKIN_NAMES.resurrectionstatue_barber
+msgctxt "STRINGS.SKIN_NAMES.resurrectionstatue_barber"
+msgid "Neat Effigy"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.resurrectionstone_fantasy
 msgctxt "STRINGS.SKIN_NAMES.resurrectionstone_fantasy"
@@ -303295,6 +305320,11 @@ msgstr "Сердце Херувима"
 msgctxt "STRINGS.SKIN_NAMES.reviver_lifecrystal"
 msgid "Life Crystal"
 msgstr "Кристалл жизни"
+
+#. STRINGS.SKIN_NAMES.ruins_bat_arcane
+msgctxt "STRINGS.SKIN_NAMES.ruins_bat_arcane"
+msgid "Whispering Mace"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.ruins_bat_heavy
 msgctxt "STRINGS.SKIN_NAMES.ruins_bat_heavy"
@@ -303601,6 +305631,11 @@ msgctxt "STRINGS.SKIN_NAMES.tophat_wizard"
 msgid "Dark Wizard's Hat"
 msgstr "Шляпа темного мага"
 
+#. STRINGS.SKIN_NAMES.torch_barber
+msgctxt "STRINGS.SKIN_NAMES.torch_barber"
+msgid "Oil Torch"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.torch_carrat
 msgctxt "STRINGS.SKIN_NAMES.torch_carrat"
 msgid "Carrat Torch"
@@ -303740,6 +305775,16 @@ msgstr "Чемодан Путешественника"
 msgctxt "STRINGS.SKIN_NAMES.treasurechest_vintage"
 msgid "Pastoral Chest"
 msgstr "Пасторальный сундук"
+
+#. STRINGS.SKIN_NAMES.trophyscale_fish_handmade
+msgctxt "STRINGS.SKIN_NAMES.trophyscale_fish_handmade"
+msgid "Seaworthy Scale"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.trophyscale_oversizedveggies_plant
+msgctxt "STRINGS.SKIN_NAMES.trophyscale_oversizedveggies_plant"
+msgid "Fieldflower Farm Scale"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.umbrella_circus
 msgctxt "STRINGS.SKIN_NAMES.umbrella_circus"
@@ -304125,6 +306170,11 @@ msgstr "Цветущий"
 msgctxt "STRINGS.SKIN_NAMES.warly_victorian"
 msgid "The Victorian"
 msgstr "Викторианец"
+
+#. STRINGS.SKIN_NAMES.wateringcan_cactus
+msgctxt "STRINGS.SKIN_NAMES.wateringcan_cactus"
+msgid "Cactus Water Can"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.wateringcan_rustic
 msgctxt "STRINGS.SKIN_NAMES.wateringcan_rustic"
@@ -305036,6 +307086,16 @@ msgctxt "STRINGS.SKIN_NAMES.willow_yule"
 msgid "The Merrymaker"
 msgstr "Заводила"
 
+#. STRINGS.SKIN_NAMES.wilson_barber
+msgctxt "STRINGS.SKIN_NAMES.wilson_barber"
+msgid "The Barber"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wilson_beard_barber
+msgctxt "STRINGS.SKIN_NAMES.wilson_beard_barber"
+msgid "Barber Beard"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wilson_beard_formal
 msgctxt "STRINGS.SKIN_NAMES.wilson_beard_formal"
 msgid "Beard of Honor"
@@ -305116,6 +307176,11 @@ msgctxt "STRINGS.SKIN_NAMES.wilson_formal"
 msgid "Guest of Honor"
 msgstr "Почетный гость"
 
+#. STRINGS.SKIN_NAMES.wilson_formalp
+msgctxt "STRINGS.SKIN_NAMES.wilson_formalp"
+msgid "Guest of Honor"
+msgstr "Почетный гость"
+
 #. STRINGS.SKIN_NAMES.wilson_gladiator
 msgctxt "STRINGS.SKIN_NAMES.wilson_gladiator"
 msgid "The Gladiator"
@@ -305171,13 +307236,28 @@ msgctxt "STRINGS.SKIN_NAMES.wilson_rose"
 msgid "The Roseate"
 msgstr "Цветущий"
 
+#. STRINGS.SKIN_NAMES.wilson_rosep
+msgctxt "STRINGS.SKIN_NAMES.wilson_rosep"
+msgid "The Roseate"
+msgstr "Цветущий"
+
 #. STRINGS.SKIN_NAMES.wilson_shadow
 msgctxt "STRINGS.SKIN_NAMES.wilson_shadow"
 msgid "The Triumphant"
 msgstr "Победитель"
 
+#. STRINGS.SKIN_NAMES.wilson_shadowp
+msgctxt "STRINGS.SKIN_NAMES.wilson_shadowp"
+msgid "The Triumphant"
+msgstr "Победитель"
+
 #. STRINGS.SKIN_NAMES.wilson_survivor
 msgctxt "STRINGS.SKIN_NAMES.wilson_survivor"
+msgid "The Survivor"
+msgstr "Выживший"
+
+#. STRINGS.SKIN_NAMES.wilson_survivorp
+msgctxt "STRINGS.SKIN_NAMES.wilson_survivorp"
 msgid "The Survivor"
 msgstr "Выживший"
 
@@ -306756,6 +308836,11 @@ msgctxt "STRINGS.SKIN_QUOTES.willow_yule"
 msgid "\"It's the perfect time of year for sitting in front of a roaring fire.\""
 msgstr "«Идеальное время года, чтобы сидеть перед ревущим пламенем»."
 
+#. STRINGS.SKIN_QUOTES.wilson_barber
+msgctxt "STRINGS.SKIN_QUOTES.wilson_barber"
+msgid "\"You, sir! How about a shave?\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wilson_combatant
 msgctxt "STRINGS.SKIN_QUOTES.wilson_combatant"
 msgid "\"This may prove to be my most dangerous experiment yet.\""
@@ -306768,6 +308853,11 @@ msgstr "«О да, я что-нибудь приготовлю»."
 
 #. STRINGS.SKIN_QUOTES.wilson_formal
 msgctxt "STRINGS.SKIN_QUOTES.wilson_formal"
+msgid "\"I hate parties.\""
+msgstr "«Ненавижу вечеринки»."
+
+#. STRINGS.SKIN_QUOTES.wilson_formalp
+msgctxt "STRINGS.SKIN_QUOTES.wilson_formalp"
 msgid "\"I hate parties.\""
 msgstr "«Ненавижу вечеринки»."
 
@@ -306821,13 +308911,28 @@ msgctxt "STRINGS.SKIN_QUOTES.wilson_rose"
 msgid "\"Perhaps I'll retire to a life of rose breeding.\""
 msgstr "«Пожалуй, проведу остаток жизни, выращивая розы»."
 
+#. STRINGS.SKIN_QUOTES.wilson_rosep
+msgctxt "STRINGS.SKIN_QUOTES.wilson_rosep"
+msgid "\"Perhaps I'll retire to a life of rose breeding.\""
+msgstr "«Пожалуй, проведу остаток жизни, выращивая розы»."
+
 #. STRINGS.SKIN_QUOTES.wilson_shadow
 msgctxt "STRINGS.SKIN_QUOTES.wilson_shadow"
 msgid "\"Mwahahaha!\""
 msgstr "«Муа-ха-ха-ха-ха!»"
 
+#. STRINGS.SKIN_QUOTES.wilson_shadowp
+msgctxt "STRINGS.SKIN_QUOTES.wilson_shadowp"
+msgid "\"Mwahahaha!\""
+msgstr "«Муа-ха-ха-ха-ха!»"
+
 #. STRINGS.SKIN_QUOTES.wilson_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wilson_survivor"
+msgid "\"There is a scientific solution, here. I know it.\""
+msgstr "«Тут все можно объяснить с научной точки зрения. Я-то знаю»."
+
+#. STRINGS.SKIN_QUOTES.wilson_survivorp
+msgctxt "STRINGS.SKIN_QUOTES.wilson_survivorp"
 msgid "\"There is a scientific solution, here. I know it.\""
 msgstr "«Тут все можно объяснить с научной точки зрения. Я-то знаю»."
 
@@ -307621,10 +309726,20 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ARTNOUVEAU"
 msgid "Art Nouveau Collection"
 msgstr "Коллекция «Ар-нуво»"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BARBER
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BARBER"
+msgid "Barber's Collection"
+msgstr ""
+
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BOY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BOY"
 msgid "Farmhand Collection"
 msgstr "Фермерская коллекция"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BUILDERS
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.BUILDERS"
+msgid "Decorator's Collection"
+msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS"
@@ -308156,6 +310271,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.CROCKPOT"
 msgid "Crock Pot"
 msgstr "Котелок"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.DOCK_WOODPOSTS
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.DOCK_WOODPOSTS"
+msgid "Dock Piling"
+msgstr "Доковая свая"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.DRAGONFLYCHEST
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.DRAGONFLYCHEST"
 msgid "Scaled Chest"
@@ -308391,6 +310511,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MINISIGN"
 msgid "Mini Sign"
 msgstr "Мини-Табличка"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MOLEHAT
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MOLEHAT"
+msgid "Moggles"
+msgstr "Кротокуляры"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MONKEY_MEDIUMHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MONKEY_MEDIUMHAT"
 msgid "Captain's Tricorn"
@@ -308405,6 +310530,11 @@ msgstr "Пиратская бандана"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MULTITOOL_AXE_PICKAXE"
 msgid "Pick/Axe"
 msgstr "Кирко-топор"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_FARM
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_FARM"
+msgid "Mushroom Planter"
+msgstr "Грибная плантация"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MUSHROOM_LIGHT"
@@ -308466,6 +310596,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.PITCHFORK"
 msgid "Pitchfork"
 msgstr "Вилы"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.PREMIUMWATERINGCAN
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.PREMIUMWATERINGCAN"
+msgid "Waterfowl Can"
+msgstr "Мальбалейка"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RABBITHOUSE"
 msgid "Rabbit Hutch"
@@ -308490,6 +310625,11 @@ msgstr "Летний свежилет"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RESKIN"
 msgid "Clean Sweeper"
 msgstr "Метелка"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.RESURRECTIONSTATUE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.RESURRECTIONSTATUE"
+msgid "Meat Effigy"
+msgstr "Мясное чучело"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.REVIVER
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.REVIVER"
@@ -308620,6 +310760,16 @@ msgstr "Ловушка"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TRAP_TEETH"
 msgid "Tooth Trap"
 msgstr "Клыкастая ловушка"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TROPHYSCALE_FISH
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TROPHYSCALE_FISH"
+msgid "Fish Scale-O-Matic"
+msgstr "Весы-аквариум"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TROPHYSCALE_OVERSIZEDVEGGIES
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TROPHYSCALE_OVERSIZEDVEGGIES"
+msgid "Produce Scale"
+msgstr "Плодовые весы"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.UMBRELLA
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.UMBRELLA"
@@ -316876,6 +319026,11 @@ msgctxt "STRINGS.UI.CRAFTING.NEEDSSEAFARING_STATION"
 msgid "Use a Think Tank to build a prototype!"
 msgstr "Постройте прототип с помощью бака мыслей!"
 
+#. STRINGS.UI.CRAFTING.NEEDSSKILL
+msgctxt "STRINGS.UI.CRAFTING.NEEDSSKILL"
+msgid "Learn new skills."
+msgstr ""
+
 #. STRINGS.UI.CRAFTING.NEEDSSPIDERFRIENDSHIP
 msgctxt "STRINGS.UI.CRAFTING.NEEDSSPIDERFRIENDSHIP"
 msgid "Make friends with spiders to learn a recipe!"
@@ -322468,8 +324623,8 @@ msgstr "Выйти"
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
-msgid "A Little Drama\nBeta Build"
-msgstr "A Little Drama\nБета-версия"
+msgid "Wilson Refresh\nBeta Build"
+msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE"
@@ -325116,6 +327271,11 @@ msgctxt "STRINGS.UI.OPTIONS.CLOSE"
 msgid "Close"
 msgstr "Закрыть"
 
+#. STRINGS.UI.OPTIONS.COMMANDWHEEL
+msgctxt "STRINGS.UI.OPTIONS.COMMANDWHEEL"
+msgid "Command / Emote Wheel Movement:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE"
 msgid "Console Auto-Pause:"
@@ -325596,6 +327756,11 @@ msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CINEMATICS"
 msgid "Sit back and watch a video"
 msgstr "Расслабьтесь и посмотрите видео"
 
+#. STRINGS.UI.OPTIONS.TOOLTIPS.COMMANDWHEEL
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.COMMANDWHEEL"
+msgid "Allows you to control your player movement and the Command / Emote Wheel independently."
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE"
 msgid "Allows the server to auto-pause while the console screen is open."
@@ -325795,6 +327960,11 @@ msgstr "Показывает и скрывает пароли."
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SMALLTEXTURES"
 msgid "Reduces texture quality for better performance. (Only recommended for min-spec computers)"
 msgstr "Снижает качество текстур для повышения производительности (только для компьютеров с минимальными характеристиками)."
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SMALLTEXTURES_CONSOLE
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SMALLTEXTURES_CONSOLE"
+msgid "Reduces texture quality for better performance.\n(Only recommended if you're having problems with your world)"
+msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.TARGETLOCKING
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.TARGETLOCKING"
@@ -326645,6 +328815,11 @@ msgstr "Наилучший друг:"
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS"
 msgid "Friendliest Friends"
 msgstr "Наилучшие друзья"
+
+#. STRINGS.UI.PLAYERSUMMARYSCREEN.MYSTERYBOX_DISABLE
+msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.MYSTERYBOX_DISABLE"
+msgid "You must be logged in to access the Treasury."
+msgstr ""
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.NEW_STUFF
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.NEW_STUFF"
