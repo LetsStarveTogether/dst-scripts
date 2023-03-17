@@ -277545,12 +277545,12 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_BEARDHAIR
 msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEARDHAIR"
-msgid "Transmute Beefalo Hair into Beard Hair."
+msgid "Transmute Beefalo Wool into Beard Hair."
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALODHAIR
-msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALODHAIR"
-msgid "Transmute Beard Hair into Beefalo Hair."
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALOWOOL
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALOWOOL"
+msgid "Transmute Beard Hair into Beefalo Wool."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.TRANSMUTE_BLUEGEM
@@ -279430,7 +279430,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_DESC
 msgctxt "STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_DESC"
-msgid "Transform 2 Beard Hair into Beefalo Hair.\n Transform 2 Beefalo Hair into Beard Hair."
+msgid "Transform 2 Beard Hair into Beefalo Wool.\n Transform 2 Beefalo Wool into Beard Hair."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILSON.WILSON_ALCHEMY_9_TITLE
@@ -287925,27 +287925,27 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_warly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_warly"
-msgid "This Masquerader Chest contains Warly's complete set of Masquerade skin items."
+msgid "This Masquerader Chest contains Warly's complete set of Masquerader skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wes
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wes"
-msgid "This Masquerader Chest contains Wes' complete set of Masquerade skin items."
+msgid "This Masquerader Chest contains Wes' complete set of Masquerader skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_willow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_willow"
-msgid "This Masquerader Chest contains Willow's complete set of Masquerade skin items."
+msgid "This Masquerader Chest contains Willow's complete set of Masquerader skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_woodie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_woodie"
-msgid "This Masquerader Chest contains Woodie's complete set of Masquerade skin items."
+msgid "This Masquerader Chest contains Woodie's complete set of Masquerader skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wortox
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_masquerade_wortox"
-msgid "This Masquerader Chest contains Wortox's complete set of Masquerade skin items."
+msgid "This Masquerader Chest contains Wortox's complete set of Masquerader skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mighty_items
@@ -292880,7 +292880,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_barber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_barber"
-msgid "Some might find this barber's methods a bit too experimental for their taste."
+msgid "Some might find this barber's methods a bit too experimental for their comfort."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_beard_barber
@@ -302130,27 +302130,27 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_masquerade_warly
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_warly"
-msgid "Warly Masquerade Chest"
+msgid "Warly Masquerader Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_masquerade_wes
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_wes"
-msgid "Wes Masquerade Chest"
+msgid "Wes Masquerader Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_masquerade_willow
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_willow"
-msgid "Willow Masquerade Chest"
+msgid "Willow Masquerader Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_masquerade_woodie
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_woodie"
-msgid "Woodie Masquerade Chest"
+msgid "Woodie Masquerader Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_masquerade_wortox
 msgctxt "STRINGS.SKIN_NAMES.pack_masquerade_wortox"
-msgid "Wortox Masquerade Chest"
+msgid "Wortox Masquerader Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_mighty_items
@@ -323670,7 +323670,7 @@ msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ENDLESS_MODE"
-msgid "When creating a new world, switch the Game Mode to Endless to allow you and your friends to revive themselves at the Florid Postern."
+msgid "When creating a new world, switch the Game Mode to Endless to allow you and your friends to revive at the Florid Postern."
 msgstr ""
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_ACTION
