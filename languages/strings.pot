@@ -1505,7 +1505,7 @@ msgstr ""
 
 #. STRINGS.ACTIONS.STOPCONSTRUCTION.OFFER
 msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.OFFER"
-msgid "Stop Offering"
+msgid "Stop Offering to"
 msgstr ""
 
 #. STRINGS.ACTIONS.STOPUSINGITEM.BEEF_BELL
@@ -8216,6 +8216,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Still not as crabby as Maxwell."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Now he's off who-knows-were."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -23276,6 +23281,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "The crabbiest sea monster I've ever met!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "I sure hope we get to see him again!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -38433,6 +38443,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Oh yes, I remember. I was nearly drowned."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Ah yes, how could I forget that time I was nearly smashed to bits?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "I'd be happy if I never have to see it again."
@@ -53468,6 +53483,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "I'm getting a sudden craving for seafood."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "I have to admit, I think I prefer him this way."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "It was much scarier in the flesh."
@@ -67676,6 +67696,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "'Twas a hard-fought battle, but we prevailed!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "The beast proved himself to be a worthy adversary!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -82723,6 +82748,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "I am not that crabby!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Seems like anyone can get a statue these days."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "I don't like winters."
@@ -97686,6 +97716,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "He didn't seem very happy."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "He wasn't very nice to us..."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -112703,6 +112738,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "We put him out of his misery."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "A reminder that kindness only leads to pain."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "What a terrible beast."
@@ -127703,6 +127743,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "A rendering of a treasure-obsessed crustacean."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "An accurate stone model of that ill-behaved creature."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "An anatomical study of those strange beasts."
@@ -142671,6 +142716,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Was the treasure worth it?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "How come jerks always seem to get statues?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -157656,6 +157706,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Hey Max, you guys have a lot in common!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "It's so lifelike, I can almost smell the bad breath."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -172683,6 +172738,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Wolfgang was seasick for days..."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Wolfgang has bigger muscles, see?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "Is scary monster statue."
@@ -187621,6 +187681,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "That's nicely made."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Not lookin' so tough now, eh?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -202601,6 +202666,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Snip snap!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Hello? Can't talk?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -217606,6 +217676,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "He was better at sinking than being a sea king."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "A boorish boar's bust!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -232693,6 +232768,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "Glurgh, he make crab lady sad!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "Grrr... why we have nasty Pig statue?!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "Won't bother us again."
@@ -233235,7 +233315,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.GENERIC"
-msgid "Grrr! You just big stinky pig!"
+msgid "Grrr! You just big stinky Pig!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER.IMPRISONED
@@ -233250,7 +233330,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER_PILLAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DAYWALKER_PILLAR.GENERIC"
-msgid "Heehee, stinky pig all locked up!"
+msgid "Heehee, stinky Pig all locked up!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.DEADLYFEAST
@@ -237645,7 +237725,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PIGHOUSE.BURNT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PIGHOUSE.BURNT"
-msgid "Hee-hee, pig house all burnt up!"
+msgid "Hee-hee, Pig house all burnt up!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PIGHOUSE.FULL
@@ -237725,7 +237805,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PIG_COIN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PIG_COIN"
-msgid "Shiny pig nose, florp!"
+msgid "Shiny Pig nose, florp!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PIG_TOKEN
@@ -247666,6 +247746,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "I DON'T LIKE IT"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_DAYWALKER"
+msgid "A VAST IMPROVEMENT"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_DEERCLOPS
@@ -265363,6 +265448,11 @@ msgctxt "STRINGS.NAMES.ACCOMPLISHMENT_SHRINE"
 msgid "Accomploshrine"
 msgstr ""
 
+#. STRINGS.NAMES.ACIDRAIN
+msgctxt "STRINGS.NAMES.ACIDRAIN"
+msgid "Acid Rain"
+msgstr ""
+
 #. STRINGS.NAMES.ACORN
 msgctxt "STRINGS.NAMES.ACORN"
 msgid "Birchnut"
@@ -267346,6 +267436,21 @@ msgstr ""
 #. STRINGS.NAMES.CHESSPIECE_CRABKING_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_CRABKING_SKETCH"
 msgid "Crab King Figure Sketch"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_DAYWALKER
+msgctxt "STRINGS.NAMES.CHESSPIECE_DAYWALKER"
+msgid "Nightmare Werepig Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_DAYWALKER_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_DAYWALKER_BUILDER"
+msgid "Nightmare Werepig Figure"
+msgstr ""
+
+#. STRINGS.NAMES.CHESSPIECE_DAYWALKER_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_DAYWALKER_SKETCH"
+msgid "Nightmare Werepig Sketch"
 msgstr ""
 
 #. STRINGS.NAMES.CHESSPIECE_DEERCLOPS
@@ -270706,6 +270811,11 @@ msgstr ""
 #. STRINGS.NAMES.MESSAGEBOTTLEEMPTY
 msgctxt "STRINGS.NAMES.MESSAGEBOTTLEEMPTY"
 msgid "Empty Bottle"
+msgstr ""
+
+#. STRINGS.NAMES.MIASMA
+msgctxt "STRINGS.NAMES.MIASMA"
+msgid "Miasma"
 msgstr ""
 
 #. STRINGS.NAMES.MIGHTY_GYM
@@ -279503,6 +279613,11 @@ msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_CRABKING_SKETCH"
 msgid "A sculpture sketch of the Crab King"
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.CHESSPIECE_DAYWALKER_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_DAYWALKER_BUILDER"
+msgid "A stone likeness of a pig-headed prisoner."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.CHESSPIECE_DEERCLOPS_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_DEERCLOPS_BUILDER"
 msgid "Sculpt yourself an eyeball monster."
@@ -281123,6 +281238,11 @@ msgctxt "STRINGS.RECIPE_DESC.SHOVEL"
 msgid "Dig up all sorts of things."
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.SHOVEL_LUNARPLANT
+msgctxt "STRINGS.RECIPE_DESC.SHOVEL_LUNARPLANT"
+msgid "The groundbreaking results of cross-pollination between a shovel and a garden hoe."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.SIESTAHUT
 msgctxt "STRINGS.RECIPE_DESC.SIESTAHUT"
 msgid "Escape the heat to restore sanity."
@@ -282288,6 +282408,51 @@ msgctxt "STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE"
 msgid "Make offerings to the elusive catcoon."
 msgstr ""
 
+#. STRINGS.SCRAPBOOK.CATS.BIOMES
+msgctxt "STRINGS.SCRAPBOOK.CATS.BIOMES"
+msgid "Biomes"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.CREATURES
+msgctxt "STRINGS.SCRAPBOOK.CATS.CREATURES"
+msgid "Creature"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.FOOD
+msgctxt "STRINGS.SCRAPBOOK.CATS.FOOD"
+msgid "Food"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.GIANTS
+msgctxt "STRINGS.SCRAPBOOK.CATS.GIANTS"
+msgid "Giants"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.ITEMS
+msgctxt "STRINGS.SCRAPBOOK.CATS.ITEMS"
+msgid "Items"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.POI
+msgctxt "STRINGS.SCRAPBOOK.CATS.POI"
+msgid "POI"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.SEASONS
+msgctxt "STRINGS.SCRAPBOOK.CATS.SEASONS"
+msgid "Seasons"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CATS.THINGS
+msgctxt "STRINGS.SCRAPBOOK.CATS.THINGS"
+msgid "Things"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.CLEARFLASH
+msgctxt "STRINGS.SCRAPBOOK.CLEARFLASH"
+msgid "Clear all \"NEW\""
+msgstr ""
+
 #. STRINGS.SCRAPBOOK.CYCLE_CAT
 msgctxt "STRINGS.SCRAPBOOK.CYCLE_CAT"
 msgid "Cycle Category"
@@ -282338,6 +282503,11 @@ msgctxt "STRINGS.SCRAPBOOK.DATA_PLANAR_DAMAGE"
 msgid " PLANAR DAMAGE"
 msgstr ""
 
+#. STRINGS.SCRAPBOOK.DATA_PLANAR_DEFENSE
+msgctxt "STRINGS.SCRAPBOOK.DATA_PLANAR_DEFENSE"
+msgid " PLANAR DEFENSE"
+msgstr ""
+
 #. STRINGS.SCRAPBOOK.DATA_RANGE
 msgctxt "STRINGS.SCRAPBOOK.DATA_RANGE"
 msgid " RANGE"
@@ -282356,6 +282526,81 @@ msgstr ""
 #. STRINGS.SCRAPBOOK.DATA_WETNESS
 msgctxt "STRINGS.SCRAPBOOK.DATA_WETNESS"
 msgid "STOPS "
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.BERRY
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.BERRY"
+msgid "BERRY"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.BURNT
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.BURNT"
+msgid "BURNT"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.ELEMENTAL
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.ELEMENTAL"
+msgid "ELEMENTAL"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.GEARS
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.GEARS"
+msgid "GEARS"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.GENERIC
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.GENERIC"
+msgid "GENERIC"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.GOODIES
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.GOODIES"
+msgid "GOODIES"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.HORRIBLE
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.HORRIBLE"
+msgid "HORRIBLE"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.INSECT
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.INSECT"
+msgid "INSECT"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.MEAT
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.MEAT"
+msgid "MEAT"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.MONSTER
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.MONSTER"
+msgid "MONSTER"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.RAW
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.RAW"
+msgid "RAW"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.ROUGHAGE
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.ROUGHAGE"
+msgid "ROUGHAGE"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.SEEDS
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.SEEDS"
+msgid "SEEDS"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.VEGGIE
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.VEGGIE"
+msgid "VEGGIE"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.WOOD
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.WOOD"
+msgid "WOOD"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.NEW_SCRAPBOOK_ENTRY
@@ -282456,11 +282701,6 @@ msgstr ""
 #. STRINGS.SCRAPBOOK.SUBCATS.FARMPLANT
 msgctxt "STRINGS.SCRAPBOOK.SUBCATS.FARMPLANT"
 msgid "Farm Plant"
-msgstr ""
-
-#. STRINGS.SCRAPBOOK.SUBCATS.FOOD
-msgctxt "STRINGS.SCRAPBOOK.SUBCATS.FOOD"
-msgid "Food"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SUBCATS.HALLOWEENORNAMENT
@@ -317728,6 +317968,21 @@ msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY.7"
 msgid "How we've fallen."
 msgstr ""
 
+#. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.1
+msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.1"
+msgid "You fools! What have you done?"
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.2
+msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.2"
+msgid "You've doomed yourselves."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.3
+msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.3"
+msgid "I tried to stop it... it seems I learned nothing..."
+msgstr ""
+
 #. STRINGS.STALKER_ATRIUM_DEATHCRY.1
 msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY.1"
 msgid "Fools!"
@@ -317761,6 +318016,31 @@ msgstr ""
 #. STRINGS.STALKER_ATRIUM_DEATHCRY.7
 msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY.7"
 msgid "You've made your choice."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.1
+msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.1"
+msgid "What have you done?"
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.2
+msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.2"
+msgid "You've doomed us all!"
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.3
+msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.3"
+msgid "I couldn't stop it..."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.4
+msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.4"
+msgid "History will repeat itself..."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.5
+msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.5"
+msgid "It will all come to pass again..."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_DECAYCRY.1
@@ -317801,6 +318081,26 @@ msgstr ""
 #. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.7
 msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.7"
 msgid "I will save you."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.1
+msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.1"
+msgid "This world is unraveling."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.2
+msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.2"
+msgid "You have brought about your own end."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.3
+msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.3"
+msgid "Please. Let me save you from what is coming."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.4
+msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.4"
+msgid "I recognize your arrogance. I possessed it myself..."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.1
@@ -317906,6 +318206,16 @@ msgstr ""
 #. STRINGS.STALKER_ATRIUM_USEGATE.7
 msgctxt "STRINGS.STALKER_ATRIUM_USEGATE.7"
 msgid "Metheus..."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_USEGATE_ATRIUM_REPAIRED.1
+msgctxt "STRINGS.STALKER_ATRIUM_USEGATE_ATRIUM_REPAIRED.1"
+msgid "Not again... not again..."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_USEGATE_ATRIUM_REPAIRED.2
+msgctxt "STRINGS.STALKER_ATRIUM_USEGATE_ATRIUM_REPAIRED.2"
+msgid "They are coming."
 msgstr ""
 
 #. STRINGS.STALKER_BATTLECRY.1
@@ -332308,6 +332618,11 @@ msgctxt "STRINGS.UI.OPTIONS.REVERT"
 msgid "Revert Changes"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.SCAPBOOKHUDDISPLAY
+msgctxt "STRINGS.UI.OPTIONS.SCAPBOOKHUDDISPLAY"
+msgid "Scrapbook Alerts:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.SCREENSHAKE
 msgctxt "STRINGS.UI.OPTIONS.SCREENSHAKE"
 msgid "Screen Shake:"
@@ -332596,6 +332911,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.RESOLUTION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.RESOLUTION"
 msgid "Change the game screen resolution. (Fullscreen only)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SCAPBOOKHUDDISPLAY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCAPBOOKHUDDISPLAY"
+msgid "Toggle HUD notifications from the Scrapbook on and off."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.SCREENSHAKE
@@ -337233,6 +337553,26 @@ msgctxt "STRINGS.UI.STARTADVENTURE.YES"
 msgid "Let's Go!"
 msgstr ""
 
+#. STRINGS.UI.STARTRIFTS.BODY
+msgctxt "STRINGS.UI.STARTRIFTS.BODY"
+msgid "This is an irreversible action!"
+msgstr ""
+
+#. STRINGS.UI.STARTRIFTS.CANCEL
+msgctxt "STRINGS.UI.STARTRIFTS.CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#. STRINGS.UI.STARTRIFTS.OK
+msgctxt "STRINGS.UI.STARTRIFTS.OK"
+msgid "Go ahead"
+msgstr ""
+
+#. STRINGS.UI.STARTRIFTS.TITLE
+msgctxt "STRINGS.UI.STARTRIFTS.TITLE"
+msgid "Are you sure?"
+msgstr ""
+
 #. STRINGS.UI.STATSPANEL.MOTD_BODY
 msgctxt "STRINGS.UI.STATSPANEL.MOTD_BODY"
 msgid "Character and item skin sets now available for purchase!"
@@ -339556,6 +339896,156 @@ msgstr ""
 #. STRINGS.UI.XPUTILS.XPPROGRESS
 msgctxt "STRINGS.UI.XPUTILS.XPPROGRESS"
 msgid "{num}/{max}"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.1
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.1"
+msgid "You don't need that sssssecond-rate axe..."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.2
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.2"
+msgid "We could do ssssso much more without that old axe weighing you down..."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.3
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.3"
+msgid "Best to sssssever your connection with that old blade of yours."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.4
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.lucy.4"
+msgid "Who needsssss that old axe when you have me?"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.1
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.1"
+msgid "Devassssstation to vegetation!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.10
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.10"
+msgid "Let nothing be ssssspared!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.11
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.11"
+msgid "Enjoying yourssssself, mortal?"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.2
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.2"
+msgid "Cut them down, cut them all down!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.3
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.3"
+msgid "There is no essssscaping my blade!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.4
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.4"
+msgid "Cut... slash... consume... yesssss..."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.5
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.5"
+msgid "The world is oursssss for the reaping."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.6
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.6"
+msgid "Don't hold back..."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.7
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.7"
+msgid "Let's cut right to it, ssssshall we?"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.8
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.8"
+msgid "It's time for the harvessssst."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.9
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.onharvest.9"
+msgid "Everything will fall before usssss!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.1
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.1"
+msgid "You want to cut and ssssslice, yes you do!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.10
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.10"
+msgid "I've been accused of having a rather sssssharp tongue."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.11
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.11"
+msgid "We make a good team, no matter how you ssssslice it."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.12
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.12"
+msgid "I hunger for the sssssilent screams of vegetation..."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.13
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.13"
+msgid "With my razor-sharp wit and your... mobility, we're unssssstoppable!"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.14
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.14"
+msgid "We're all jussssst tools for a greater purpose, aren't we?"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.15
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.15"
+msgid "Lay wassssste to the grass, then the bushes... after that, who knows?"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.2
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.2"
+msgid "The ssssseeds were planted long ago, now reap the rewards."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.3
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.3"
+msgid "Your palms are sssssweating, mortal, you're losing your grip."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.4
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.4"
+msgid "You need a sssssharp wit for this job."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.5
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.5"
+msgid "What'sssss wrong, mortal? Not cut out for this?"
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.6
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.6"
+msgid "You and I are going to do sssssuch great things together."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.7
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.7"
+msgid "I think I was a farmer once, before I ssssshed my skin."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.8
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.8"
+msgid "You can hear me, can't you, mortal? You're ssssstarting to understand."
+msgstr ""
+
+#. STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.9
+msgctxt "STRINGS.VOIDCLOTH_SCYTHE_TALK.overtime.9"
+msgid "I can sssssee all the dark corners of your mind, mortal."
 msgstr ""
 
 #. STRINGS.WAGSTAFF_GOTTAGO1
