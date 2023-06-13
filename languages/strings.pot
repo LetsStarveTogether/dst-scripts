@@ -83,11 +83,6 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.RANSACK"
 msgid "Ransack"
 msgstr ""
 
-#. STRINGS.ACTIONS.ACTIVATE.SCRAPBOOK
-msgctxt "STRINGS.ACTIONS.ACTIVATE.SCRAPBOOK"
-msgid "Add to Scrapbook"
-msgstr ""
-
 #. STRINGS.ACTIONS.ACTIVATE.SPELUNK
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
@@ -1601,6 +1596,11 @@ msgstr ""
 #. STRINGS.ACTIONS.TEACH.READ
 msgctxt "STRINGS.ACTIONS.TEACH.READ"
 msgid "Read"
+msgstr ""
+
+#. STRINGS.ACTIONS.TEACH.SCRAPBOOK
+msgctxt "STRINGS.ACTIONS.TEACH.SCRAPBOOK"
+msgid "Add to Scrapbook"
 msgstr ""
 
 #. STRINGS.ACTIONS.TELEPORT.GENERIC
@@ -317970,12 +317970,12 @@ msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.1
 msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.1"
-msgid "You fools! What have you done?"
+msgid "This world is unraveling."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.2
 msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.2"
-msgid "You've doomed yourselves."
+msgid "It's all happening again..."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.3
@@ -318020,12 +318020,12 @@ msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.1
 msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.1"
-msgid "What have you done?"
+msgid "They will not show mercy as I have."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.2
 msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.2"
-msgid "You've doomed us all!"
+msgid "You will understand. But it's already too late."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.3
@@ -318041,6 +318041,11 @@ msgstr ""
 #. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.5
 msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.5"
 msgid "It will all come to pass again..."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.6
+msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY_ATRIUM_REPAIRED.6"
+msgid "You've made your choice."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_DECAYCRY.1
@@ -318085,22 +318090,27 @@ msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.1
 msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.1"
-msgid "This world is unraveling."
+msgid "You fools! What have you done?"
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.2
 msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.2"
-msgid "You have brought about your own end."
+msgid "You've doomed yourselves."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.3
 msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.3"
-msgid "Please. Let me save you from what is coming."
+msgid "You have brought about your own end."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.4
 msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.4"
-msgid "I recognize your arrogance. I possessed it myself..."
+msgid "Please. Let me save you from what is coming."
+msgstr ""
+
+#. STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.5
+msgctxt "STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY_ATRIUM_REPAIRED.5"
+msgid "I recognize your arrogance. I possessed it myself."
 msgstr ""
 
 #. STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.1
@@ -326398,8 +326408,18 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED"
 msgid "Wild Rifts Enabled"
 msgstr ""
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED_CAVE"
+msgid "Wild Rifts Enabled"
+msgstr ""
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY"
+msgid "Wild Rift Frequency"
+msgstr ""
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY_CAVE"
 msgid "Wild Rift Frequency"
 msgstr ""
 
@@ -337553,24 +337573,44 @@ msgctxt "STRINGS.UI.STARTADVENTURE.YES"
 msgid "Let's Go!"
 msgstr ""
 
-#. STRINGS.UI.STARTRIFTS.BODY
-msgctxt "STRINGS.UI.STARTRIFTS.BODY"
-msgid "This is an irreversible action!"
+#. STRINGS.UI.START_LUNAR_RIFTS.BODY
+msgctxt "STRINGS.UI.START_LUNAR_RIFTS.BODY"
+msgid "Be warned, making this deal with the Cryptic Founder will forever change this world. Much will be lost and gained in the name of Progress.\n\nOnce this power is harnessed, these worms won't fit back in the can..."
 msgstr ""
 
-#. STRINGS.UI.STARTRIFTS.CANCEL
-msgctxt "STRINGS.UI.STARTRIFTS.CANCEL"
-msgid "Cancel"
+#. STRINGS.UI.START_LUNAR_RIFTS.CANCEL
+msgctxt "STRINGS.UI.START_LUNAR_RIFTS.CANCEL"
+msgid "Let me think about it."
 msgstr ""
 
-#. STRINGS.UI.STARTRIFTS.OK
-msgctxt "STRINGS.UI.STARTRIFTS.OK"
-msgid "Go ahead"
+#. STRINGS.UI.START_LUNAR_RIFTS.OK
+msgctxt "STRINGS.UI.START_LUNAR_RIFTS.OK"
+msgid "I'm ready!"
 msgstr ""
 
-#. STRINGS.UI.STARTRIFTS.TITLE
-msgctxt "STRINGS.UI.STARTRIFTS.TITLE"
-msgid "Are you sure?"
+#. STRINGS.UI.START_LUNAR_RIFTS.TITLE
+msgctxt "STRINGS.UI.START_LUNAR_RIFTS.TITLE"
+msgid "ASSIST WAGSTAFF?"
+msgstr ""
+
+#. STRINGS.UI.START_SHADOW_RIFTS.BODY
+msgctxt "STRINGS.UI.START_SHADOW_RIFTS.BODY"
+msgid "Be warned, making this deal with the Shadow Queen will forever change this world. Dark, terrible and beautiful things will emerge.\n\nOnce this energy is released, there's no putting the cork back in the bottle..."
+msgstr ""
+
+#. STRINGS.UI.START_SHADOW_RIFTS.CANCEL
+msgctxt "STRINGS.UI.START_SHADOW_RIFTS.CANCEL"
+msgid "Let me think about it."
+msgstr ""
+
+#. STRINGS.UI.START_SHADOW_RIFTS.OK
+msgctxt "STRINGS.UI.START_SHADOW_RIFTS.OK"
+msgid "I'm ready!"
+msgstr ""
+
+#. STRINGS.UI.START_SHADOW_RIFTS.TITLE
+msgctxt "STRINGS.UI.START_SHADOW_RIFTS.TITLE"
+msgid "ASSIST CHARLIE?"
 msgstr ""
 
 #. STRINGS.UI.STATSPANEL.MOTD_BODY
