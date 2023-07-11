@@ -1208,9 +1208,24 @@ msgctxt "STRINGS.ACTIONS.PLANTSOIL"
 msgid "Plant"
 msgstr ""
 
-#. STRINGS.ACTIONS.PLAY
-msgctxt "STRINGS.ACTIONS.PLAY"
+#. STRINGS.ACTIONS.PLAY.COACH_OFF
+msgctxt "STRINGS.ACTIONS.PLAY.COACH_OFF"
+msgid "End Coaching"
+msgstr ""
+
+#. STRINGS.ACTIONS.PLAY.COACH_ON
+msgctxt "STRINGS.ACTIONS.PLAY.COACH_ON"
+msgid "Begin Coaching"
+msgstr ""
+
+#. STRINGS.ACTIONS.PLAY.GENERIC
+msgctxt "STRINGS.ACTIONS.PLAY.GENERIC"
 msgid "Play"
+msgstr ""
+
+#. STRINGS.ACTIONS.PLAY.TWEET
+msgctxt "STRINGS.ACTIONS.PLAY.TWEET"
+msgid "Tweet"
 msgstr ""
 
 #. STRINGS.ACTIONS.POLLINATE
@@ -1778,24 +1793,9 @@ msgctxt "STRINGS.ACTIONS.USEDOOR.OPEN"
 msgid "Open"
 msgstr ""
 
-#. STRINGS.ACTIONS.USEITEM.COACH_OFF
-msgctxt "STRINGS.ACTIONS.USEITEM.COACH_OFF"
-msgid "End Coaching"
-msgstr ""
-
-#. STRINGS.ACTIONS.USEITEM.COACH_ON
-msgctxt "STRINGS.ACTIONS.USEITEM.COACH_ON"
-msgid "Begin Coaching"
-msgstr ""
-
-#. STRINGS.ACTIONS.USEITEM.GENERIC
-msgctxt "STRINGS.ACTIONS.USEITEM.GENERIC"
+#. STRINGS.ACTIONS.USEITEM
+msgctxt "STRINGS.ACTIONS.USEITEM"
 msgid "Use"
-msgstr ""
-
-#. STRINGS.ACTIONS.USEITEM.TWEET
-msgctxt "STRINGS.ACTIONS.USEITEM.TWEET"
-msgid "Tweet"
 msgstr ""
 
 #. STRINGS.ACTIONS.USEITEMON.BEEF_BELL
@@ -5858,8 +5858,8 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "The holiday goes by so fast..."
 msgstr ""
 
-#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -5870,6 +5870,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_MIGHTY_COACHING
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_MIGHTY_COACHING"
+msgid "only_used_by_wolfgang"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_NOTEAM
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WOLFGANG_NOTEAM"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -21113,8 +21118,8 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Well, that was fun!"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -36458,8 +36463,8 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "That was fun... maybe I'll go back and re-live it sometime."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -51683,8 +51688,8 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Ah non, is it over already?"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -66083,8 +66088,8 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "The blessing hath faded."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -81318,8 +81323,8 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Its power was short-lived."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -96473,8 +96478,8 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Aww, we were having fun!"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -111678,8 +111683,8 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Everything fades."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -126868,8 +126873,8 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "That was very illuminating."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -142028,8 +142033,8 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Aw man. Guess it's time to get some real sparks flying!"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -157203,8 +157208,8 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Hey, someone cut the power!"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfang"
 msgstr ""
 
@@ -172418,8 +172423,8 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Goodbye tiny sparks."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "Come, friends! Wolfgang will show you how it's done!"
 msgstr ""
 
@@ -172431,6 +172436,21 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_MIGHTY_COACHING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_MIGHTY_COACHING"
 msgid "Wolfgang's muscles are too impressive. Would not want to embarrass others."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_NOTEAM.1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_NOTEAM.1"
+msgid "Where is team?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_NOTEAM.2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_NOTEAM.2"
+msgid "Wolfgang needs team."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_NOTEAM.3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_NOTEAM.3"
+msgid "let's go... team?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WOLFGANG_WIMPY_COACHING
@@ -187548,8 +187568,8 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Eh, I was probably a walkin' fire hazard anyway."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -202718,8 +202738,8 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Gone"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfgang"
 msgstr ""
 
@@ -217913,8 +217933,8 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "I'll never lose the impish sparkle in my eye."
 msgstr ""
 
-#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfang"
 msgstr ""
 
@@ -223456,6 +223476,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUNARPLANT_HUSK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUNARPLANT_HUSK"
 msgid "Unoccupied."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUNARPLANT_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUNARPLANT_KIT"
+msgid "A stitch here and there for a quick repair."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LUNARRIFT_CRYSTAL
@@ -229138,6 +229163,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOIDCLOTHHAT"
 msgid "A hood of night, that blocks out all light."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOIDCLOTH_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOIDCLOTH_KIT"
+msgid "A stitch here and there for a quick repair."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOIDCLOTH_SCYTHE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOIDCLOTH_SCYTHE"
 msgid "Alas, it reaps no souls, just grass."
@@ -233178,8 +233208,8 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "Hey! Where sparkles go?"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WURT.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfang"
 msgstr ""
 
@@ -248373,8 +248403,8 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
 msgid "NEARLY EXPERIENCED AN EMOTION... NEED TO RECALIBRATE"
 msgstr ""
 
-#. STRINGS.CHARACTERS.WX78.ANNOUNCE_WOLFGANG_BEGING_COACHING
-msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WOLFGANG_BEGING_COACHING"
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_WOLFGANG_BEGIN_COACHING
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_WOLFGANG_BEGIN_COACHING"
 msgid "only_used_by_wolfang"
 msgstr ""
 
@@ -266433,6 +266463,36 @@ msgctxt "STRINGS.LUCY.beaver_up_waslow.8"
 msgid "It's back in the lodge. Phew!"
 msgstr ""
 
+#. STRINGS.LUCY.carve_walking_stick.1
+msgctxt "STRINGS.LUCY.carve_walking_stick.1"
+msgid "Only the best for you, buddy!"
+msgstr ""
+
+#. STRINGS.LUCY.carve_walking_stick.2
+msgctxt "STRINGS.LUCY.carve_walking_stick.2"
+msgid "Heh, this one's gonna be something special!"
+msgstr ""
+
+#. STRINGS.LUCY.carve_woodcarvedhat.1
+msgctxt "STRINGS.LUCY.carve_woodcarvedhat.1"
+msgid "Gotta protect that pretty head of yours!"
+msgstr ""
+
+#. STRINGS.LUCY.carve_woodcarvedhat.2
+msgctxt "STRINGS.LUCY.carve_woodcarvedhat.2"
+msgid "Watch me work my magic!"
+msgstr ""
+
+#. STRINGS.LUCY.carve_woodie_boards.1
+msgctxt "STRINGS.LUCY.carve_woodie_boards.1"
+msgid "Don't get a splinter!"
+msgstr ""
+
+#. STRINGS.LUCY.carve_woodie_boards.2
+msgctxt "STRINGS.LUCY.carve_woodie_boards.2"
+msgid "You want boards? I'll show you boards! Hee-YAH!"
+msgstr ""
+
 #. STRINGS.LUCY.equipped.1
 msgctxt "STRINGS.LUCY.equipped.1"
 msgid "Let's chop some trees!"
@@ -283183,6 +283243,11 @@ msgctxt "STRINGS.RECIPE_DESC.DUMBBELL_GOLDEN"
 msgid "The gold standard of weightlifting."
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.DUMBBELL_HEAT
+msgctxt "STRINGS.RECIPE_DESC.DUMBBELL_HEAT"
+msgid "Get the ultimate warm-up."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.DUMBBELL_MARBLE
 msgctxt "STRINGS.RECIPE_DESC.DUMBBELL_MARBLE"
 msgid "A quick way to a chiseled physique."
@@ -283191,11 +283256,6 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.DUMBBELL_REDGEM
 msgctxt "STRINGS.RECIPE_DESC.DUMBBELL_REDGEM"
 msgid "Feel the burn!"
-msgstr ""
-
-#. STRINGS.RECIPE_DESC.DUMBELL_HEAT
-msgctxt "STRINGS.RECIPE_DESC.DUMBELL_HEAT"
-msgid "Get the ultimate warm-up."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.EARMUFFSHAT
@@ -284713,8 +284773,8 @@ msgctxt "STRINGS.RECIPE_DESC.SUPERTACKLECONTAINER"
 msgid "More space for tackle? I'm hooked!"
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.SUPPORT_PILLAR
-msgctxt "STRINGS.RECIPE_DESC.SUPPORT_PILLAR"
+#. STRINGS.RECIPE_DESC.SUPPORT_PILLAR_SCAFFOLD
+msgctxt "STRINGS.RECIPE_DESC.SUPPORT_PILLAR_SCAFFOLD"
 msgid "We all need some support."
 msgstr ""
 
@@ -285468,6 +285528,11 @@ msgctxt "STRINGS.RECIPE_DESC.WINTER_TREESTAND"
 msgid "Plant and decorate a Winter's Feast tree!"
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.WOLFGANG_WHISTLE
+msgctxt "STRINGS.RECIPE_DESC.WOLFGANG_WHISTLE"
+msgid "Let out your inner coach!"
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.WOODCARVEDHAT
 msgctxt "STRINGS.RECIPE_DESC.WOODCARVEDHAT"
 msgid "Your head will stay nice and safe (knock on wood)."
@@ -285475,6 +285540,11 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH
 msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH"
+msgid "It's hand-made!"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH2
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH2"
 msgid "It's hand-made!"
 msgstr ""
 
@@ -286055,7 +286125,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ARMORLUNARPLANT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ARMORLUNARPLANT"
-msgid "Reflects damage back at Shadow Aligned enemy."
+msgid "Reflects damage back at Shadow Aligned enemies."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ARMORMARBLE
@@ -286070,7 +286140,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ARMORSLURPER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ARMORSLURPER"
-msgid "Restores sanity over time and slowes hunger drain by 40%"
+msgid "Restores sanity over time and slows hunger drain by 40%."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ARMORSNURTLESHELL
@@ -286080,12 +286150,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BALLOONVEST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BALLOONVEST"
-msgid "Wearer will not suffere any drowning damage when they wash up on shore."
+msgid "Wearer will not suffer any drowning damage when they wash up on shore."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATHBOMB
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BATHBOMB"
-msgid "Makes a hotspring all warm, steamy, and glassy when dropped in."
+msgid "Makes a hot spring all warm, steamy, and glassy when dropped in."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_DURABILITY
@@ -286130,7 +286200,17 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BEEFALO
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BEEFALO"
-msgid "Watch out for an aggrssive mating season.\n\nFeed and care for one of these beasts and maybe you can saddle them."
+msgid "Watch out for an aggressive mating season.\n\nFeed and care for one of these beasts, and maybe you can saddle them."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.BEEFALOFEED
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BEEFALOFEED"
+msgid "Snacks for Beefalo."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.BEEFALOTREAT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BEEFALOTREAT"
+msgid "Snacks for Beefalo."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BEEFBELL
@@ -286140,12 +286220,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BEEHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BEEHAT"
-msgid "The protection this hat offers only really works on Bees and Bee like creatures."
+msgid "The protection this hat offers only really works on Bees and Bee-like creatures."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BERNIE_ACTIVE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BERNIE_ACTIVE"
-msgid "A powerful friend when Willow's mind approaches insaity."
+msgid "A powerful friend when Willow's mind approaches insanity."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BLUEAMULET
@@ -286165,12 +286245,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BONEHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BONEHAT"
-msgid "Wearing this will drive you instantly insane, even the shadows will tolerate you."
+msgid "Wearing this will drive you instantly insane; even the shadows will tolerate you."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_BEES
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_BEES"
-msgid "Summons 2 Grumle Bee followers. Maximum 16 at a time."
+msgid "Summons 2 Grumble Bee followers. Maximum 16 at a time."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_BIRDS
@@ -286180,12 +286260,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_BRIMSTONE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_BRIMSTONE"
-msgid "Bring down over a dozen uncontrolled lightning strikes"
+msgid "Bring down over a dozen uncontrolled lightning strikes."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_FIRE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_FIRE"
-msgid "Extinguishes all burning and smouldering fires closeby and creates or charges a Firey Pen infused with that energy."
+msgid "Extinguishes all burning and smoldering fires nearby and creates or charges a Fiery Pen infused with that energy."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_FISH
@@ -286230,7 +286310,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_SILVICULTURE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_SILVICULTURE"
-msgid "Grow grass, saplings and trees nearby, but grass will need to be fertilized again sooner."
+msgid "Grow grass, saplings, and trees nearby, but grass will need to be fertilized again sooner."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_SLEEP
@@ -286240,7 +286320,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_TEMPERATURE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_TEMPERATURE"
-msgid "Dries Survivors nearby as well as setting their temperature to a nice 35 degrees."
+msgid "Dries survivors nearby as well as setting their temperature to a nice 35 degrees."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOK_TENTACLES
@@ -286260,7 +286340,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CANDYBAG
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CANDYBAG"
-msgid "A 14 slot container for holding Candies Trinkets and Decorations."
+msgid "A 14 slots container for holding Candies, Trinkets, and Decorations."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHESTER
@@ -286270,12 +286350,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.COMPOSTWRAP
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.COMPOSTWRAP"
-msgid ""
+msgid "Wormwood will heal 8 health plus 1 health/sec for 32 seconds. Wormwood will also bloom for 4 minutes.\nThis also works as good fertilizer for gardening."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.COOKBOOK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.COOKBOOK"
-msgid "A record of all the foods cooked and or eaten as well as the ingredients used to cook them."
+msgid "A record of all the foods cooked and/or eaten, as well as the ingredients used to cook them."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.COSTUME
@@ -286285,7 +286365,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CRATEREDMOONROCK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CRATEREDMOONROCK"
-msgid "Contains a gem shaped socket."
+msgid "Contains a gem-shaped socket."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CURSEDMONKEYTOKEN
@@ -286303,9 +286383,54 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.DREADSTONEHAT"
 msgid "This helm slowly repairs itself."
 msgstr ""
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.DUSTMERINGUE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.DUSTMERINGUE"
+msgid "It's not food fit for a person."
+msgstr ""
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.EYEMASKHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.EYEMASKHAT"
 msgid "Feed this beast to restore it."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.FARMPLOW
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.FARMPLOW"
+msgid "Digs up a tile and turns it into Farm Soil."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.FEATHERPENCIL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.FEATHERPENCIL"
+msgid "Draws the closest item nearby onto a Mini Sign."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERATTACK
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERATTACK"
+msgid "Abigail will deal her nighttime damage during the day and dusk. Lasts 1 day."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERHEALING
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERHEALING"
+msgid "Raises Abigail's health regeneration from 1 to 20 health per second. Lasts 30 seconds."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERREGENERATION
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERREGENERATION"
+msgid "Raises Abigail's health regeneration from 1 to 3 health per second. Lasts 1 day."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERRETALIATION
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERRETALIATION"
+msgid "Doubles Abigail's shield duration from 0.5 seconds to 1 second. Attacking creatures also take 20 damage. Lasts 1 day."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERSHIELD
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERSHIELD"
+msgid "Doubles Abigail's shield duration from 0.5 seconds to 1 second. Lasts 1 day."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERSPEED
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GHOSTLYELIXERSPEED"
+msgid "Abigail has a 75% speed boost for 1 day."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.GREENAMULET
@@ -286315,7 +286440,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.GREENSTAFF
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GREENSTAFF"
-msgid "Truns crafted items and structures into their ingredient parts based on their remaining durability. Gem ingredients are not returned."
+msgid "Turns crafted items and structures into their ingredient parts based on their remaining durability. Gem ingredients are not returned."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.GUNPOWDER
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.GUNPOWDER"
+msgid "Will explode for 200 damage when lit."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.HIVEHAT
@@ -286330,7 +286460,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ICEPACK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ICEPACK"
-msgid "An 8 slot container that halves the speed of food spoiling inside."
+msgid "An 8 slots container that halves the speed of food spoiling inside."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.LIFEINJECTOR
@@ -286343,6 +286473,16 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.LUNARPLANTHAT"
 msgid "Glows in the dark and augments the Brightshade Staff with more projectile bounces.\nGives lunar weapons with Planar Damage a boost."
 msgstr ""
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MEGAFLARE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MEGAFLARE"
+msgid "Creates a flash in the sky that can be seen by all survivors on the minimap. This large flash will also draw the attention of some hostile mobs."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MINIFLARE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MINIFLARE"
+msgid "Creates a flash in the sky that can be seen by all survivors on the minimap."
+msgstr ""
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MOLE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOLE"
 msgid "Ever played the game \"Whack-A-Mole\"? What a great game."
@@ -286350,12 +286490,17 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MOONEYE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOONEYE"
-msgid "Allways appears on the minimap, even in unexplored areas."
+msgid "Always appears on the minimap, even in unexplored areas."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MOONSTORMGOGGLESHAT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOONSTORMGOGGLESHAT"
+msgid "Improves vision in a storm. Will help locate mysterious holograms."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ONEMANBAND
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ONEMANBAND"
-msgid "Wearing the one man band is a sanity lowering experience but converts nearby pigmen and bunnymen will become followers."
+msgid "Wearing the One-Man Band is a sanity-lowering experience, but converts nearby pigmen and bunnymen to followers."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ORANGEAMULET
@@ -286365,7 +286510,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ORANGESTAFF
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ORANGESTAFF"
-msgid "When held it increases speed by 25% and can teleport the user to visible locations at the cost of some sanity."
+msgid "When held, it increases speed by 25% and can teleport the user to visible locations at the cost of some sanity."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PIGCOIN
@@ -286375,7 +286520,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PIGGYBACK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PIGGYBACK"
-msgid "A large 12 slot container that also slows the wearer by 20% when worn."
+msgid "A large 12 slots container that also slows the wearer by 20% when worn."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.PIGTOKEN
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PIGTOKEN"
+msgid "Given to the Pig King to initiate a Wrestling Match."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PLANTABLE_FERTILIZE
@@ -286385,7 +286535,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.POCKETWATCHDISMANTLER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.POCKETWATCHDISMANTLER"
-msgid "Break pocket watches down into their originial ingredients other than Nightmare Fuel."
+msgid "Break pocket watches down into their original ingredients other than Nightmare Fuel."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.POLLYROGERS
@@ -286400,12 +286550,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PURPLEAMULET
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PURPLEAMULET"
-msgid "Wearer will become insane."
+msgid "Wearer becomes insane."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PURPLESTAFF
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PURPLESTAFF"
-msgid "Teleports targets to a random location, or to a fueled Telelocator Foucus."
+msgid "Teleports targets to a random location or to a fueled Telelocator Focus."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.REDAMULET
@@ -286425,7 +286575,22 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.RUINSHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.RUINSHAT"
-msgid "Frequently, hits on this crown will cause it to create an impentrable barrier for a short time."
+msgid "Frequently, hits on this crown will cause it to create an impenetrable barrier for a short time."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.SADDLE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SADDLE"
+msgid "Can be put onto a Beefalo if it's willing."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.SADDLERACE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SADDLERACE"
+msgid "Can be put onto a Beefalo if it's willing. Increases speed over a regular saddle."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.SADDLEWAR
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SADDLEWAR"
+msgid "Can be put onto a Beefalo if it's willing. Slower than a regular saddle, it also adds 16 damage to attacks made while riding."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SCANDATA
@@ -286435,12 +286600,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SEEDPOUCH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SEEDPOUCH"
-msgid "A 14 slot container that will only hold seeds, nuts, and beans. Spoilage is slowed by 50%"
+msgid "A 14 slots container that will only hold seeds, nuts, and beans. Spoilage is slowed by 50%."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SPICEPACK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SPICEPACK"
-msgid "A 6 slot container that slows the spoiling of items inside."
+msgid "A 6 slots container that slows the spoiling of items inside."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SPIDER_HEALER
@@ -286460,7 +286625,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHHAT"
-msgid "Damage from Planar damage weapons will ramp up with consecutive hits if you can keep attacking.\nGetting hit will break this damage chain."
+msgid "Damage from Shadow Planar damage weapons will ramp up with consecutive hits if you can keep attacking.\nGetting hit will break this damage chain."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.WINTERSFEASTCOOKEDFOODS
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WINTERSFEASTCOOKEDFOODS"
+msgid "Captures the spirit of food when this is put on a Winter's Feast Table. The more, the merrier."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WOLFGANG_WHISTLE
@@ -286475,7 +286645,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER"
-msgid "Chirps when interesting bio targets are nearby. Will chase and scan intersting bio targets while WX78 is close. Drops Bio Data when finished."
+msgid "Chirps when interesting biological targets are nearby. Will chase and scan interesting biological targets while WX78 is close. Drops Bio Data when finished."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.YELLOWAMULET
@@ -286485,7 +286655,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.YELLOWSTAFF
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.YELLOWSTAFF"
-msgid "Spanws a Dwarf Star."
+msgid "Creates a Dwarf Star."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SUBCATS.ARMOR
@@ -288573,6 +288743,16 @@ msgctxt "STRINGS.SKILLTREE.WORMWOOD.IDENTIFY_PLANTS_TITLE"
 msgid "Seed Sleuth"
 msgstr ""
 
+#. STRINGS.SKILLTREE.WORMWOOD.JUICYBERRYBUSHCRAFTING_DESC
+msgctxt "STRINGS.SKILLTREE.WORMWOOD.JUICYBERRYBUSHCRAFTING_DESC"
+msgid "Sacrifice health to craft Juicy Berry Bushes."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WORMWOOD.JUICYBERRYBUSHCRAFTING_TITLE
+msgctxt "STRINGS.SKILLTREE.WORMWOOD.JUICYBERRYBUSHCRAFTING_TITLE"
+msgid "Juicy Berry Bush Crafting"
+msgstr ""
+
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_GEAR_1_DESC
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUNAR_GEAR_1_DESC"
 msgid "Seize foes and keep them rooted in place while wearing Brightshade Armor."
@@ -288585,7 +288765,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_GEAR_2_DESC
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUNAR_GEAR_2_DESC"
-msgid "Summon vines to join the fray while attacking with Brightshade weapons."
+msgid "Summon vines to join the fray while attacking with Brightshade melee weapons."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_GEAR_2_TITLE
@@ -288595,7 +288775,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_1_DESC
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_1_DESC"
-msgid "Tap into your lunar roots to transform Carrots into Carrats."
+msgid "Tap into your lunar roots to transform Carrots into Carrats.\nCarrats you've created will retrieve food they find on the ground."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_1_TITLE
@@ -288605,7 +288785,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_2_DESC
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_2_DESC"
-msgid "Tap into your lunar roots to transform Lightbulbs into Bulbous Lightbugs."
+msgid "Tap into your lunar roots to transform Lightbulbs into Bulbous Lightbugs.\nBulbous Lightbugs you've created will follow you around."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_2_TITLE
@@ -288615,12 +288795,22 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_3_DESC
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_3_DESC"
-msgid "Tap into your lunar roots to transform Dragon Fruit into Saladmanders."
+msgid "Tap into your lunar roots to transform Dragon Fruit into Saladmanders.\nSaladmanders you've created start out in their fully ripened form."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUNAR_MUTATIONS_3_TITLE"
 msgid "Lunar Cultivator III"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WORMWOOD.LUREPLANTCRAFTING_DESC
+msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUREPLANTCRAFTING_DESC"
+msgid "Sacrifice health to craft Lureplants."
+msgstr ""
+
+#. STRINGS.SKILLTREE.WORMWOOD.LUREPLANTCRAFTING_TITLE
+msgctxt "STRINGS.SKILLTREE.WORMWOOD.LUREPLANTCRAFTING_TITLE"
+msgid "Lureplant Crafting"
 msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.MOON_CAP_EATING_DESC
@@ -329163,6 +329353,11 @@ msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.COOK"
 msgid "Cook"
 msgstr ""
 
+#. STRINGS.UI.CRAFTING.RECIPEACTION.GROW
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.GROW"
+msgid "Grow"
+msgstr ""
+
 #. STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE"
 msgid "Mix"
@@ -329186,6 +329381,11 @@ msgstr ""
 #. STRINGS.UI.CRAFTING.RECIPEACTION.SOCKET
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.SOCKET"
 msgid "Socket"
+msgstr ""
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.TRANSFORM
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.TRANSFORM"
+msgid "Transform"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.RESEARCH
@@ -334700,7 +334900,7 @@ msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MAINBANNER_BETA_TITLE"
-msgid "Skilltree Spotlight:\nWormwood, Wolfgang, Woodie\nBeta Build"
+msgid "Skill Spotlight:\nWormwood, Wolfgang, Woodie\nBeta Build"
 msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
