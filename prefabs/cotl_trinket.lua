@@ -1,6 +1,6 @@
 local assets =
 {
-    Asset("ANIM", "anim/antliontrinket.zip"),
+    Asset("ANIM", "anim/cotl_trinket.zip"),
 }
 
 local function fn()
@@ -13,10 +13,9 @@ local function fn()
 
     MakeInventoryPhysics(inst)
 
-    inst.AnimState:SetBank("antliontrinket")
-    inst.AnimState:SetBuild("antliontrinket")
+    inst.AnimState:SetBank("cotl_trinket")
+    inst.AnimState:SetBuild("cotl_trinket")
     inst.AnimState:PlayAnimation("1")
-    inst.scrapbook_anim = "1"
 
     inst:AddTag("molebait")
 
@@ -32,8 +31,8 @@ local function fn()
     inst:AddComponent("inventoryitem")
 
     inst:AddComponent("tradable")
-    inst.components.tradable.goldvalue = TUNING.GOLD_VALUES.ANTLION
-    inst.components.tradable.rocktribute = 9
+    inst.components.tradable.goldvalue = TUNING.GOLD_VALUES.COTL_TRINKET
+    inst.components.tradable.rocktribute = 6
 
     inst:AddComponent("stackable")
     inst.components.stackable.maxsize = TUNING.STACK_SIZE_SMALLITEM
@@ -43,4 +42,4 @@ local function fn()
     return inst
 end
 
-return Prefab("antliontrinket", fn, assets)
+return Prefab("cotl_trinket", fn, assets)
