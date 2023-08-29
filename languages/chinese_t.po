@@ -340516,6 +340516,11 @@ msgctxt "STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY"
 msgid "Screen Flashes:"
 msgstr "螢幕閃爍："
 
+#. STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY_SWITCH
+msgctxt "STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY_SWITCH"
+msgid "Photosensitivity Mode:"
+msgstr "光敏模式"
+
 #. STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER
 msgctxt "STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER"
 msgid "Steam Chat Filtering:"
@@ -340810,6 +340815,11 @@ msgstr "讓視角保持靜態，或允許在高強度時刻搖動視角。"
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY"
 msgid "Control the intensity of screen flashes during explosions and lightning strikes."
 msgstr "控制爆炸和閃電發生時的遊戲螢幕閃光的強度。"
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY_SWITCH
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY_SWITCH"
+msgid "Control the intensity of flashing effects during explosions and lightning strikes."
+msgstr "控制爆炸和閃電時閃光效果強度。"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER"

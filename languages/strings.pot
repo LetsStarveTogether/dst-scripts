@@ -340513,6 +340513,11 @@ msgctxt "STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY"
 msgid "Screen Flashes:"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY_SWITCH
+msgctxt "STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY_SWITCH"
+msgid "Photosensitivity Mode:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER
 msgctxt "STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER"
 msgid "Steam Chat Filtering:"
@@ -340806,6 +340811,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY"
 msgid "Control the intensity of screen flashes during explosions and lightning strikes."
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY_SWITCH
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCREEN_FLASH_INTENSITY_SWITCH"
+msgid "Control the intensity of flashing effects during explosions and lightning strikes."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.SERVER_NAME_PROFANITY_CHAT_FILTER
