@@ -271568,19 +271568,49 @@ msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.MED.1"
 msgid "I'll never say no to free meat!"
 msgstr ""
 
+#. STRINGS.HERMITCRAB_INVESTIGATE.GIVE_CARPENTRY_BLUEPRINT.HIGH.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.GIVE_CARPENTRY_BLUEPRINT.HIGH.1"
+msgid "Here, let me give you a few pointers."
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.GIVE_CARPENTRY_BLUEPRINT.LOW.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.GIVE_CARPENTRY_BLUEPRINT.LOW.1"
+msgid "Here. Learn how to build a proper chair."
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.GIVE_CARPENTRY_BLUEPRINT.MED.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.GIVE_CARPENTRY_BLUEPRINT.MED.1"
+msgid "I give you credit for trying, but next time get it right."
+msgstr ""
+
 #. STRINGS.HERMITCRAB_INVESTIGATE.MAKE_CHAIR.HIGH.1
 msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.MAKE_CHAIR.HIGH.1"
-msgid "I apreciate the effort, dearie. Let me give you a few pointers."
+msgid "It's lovely, dearie! The perfect place to rest my aching shell."
 msgstr ""
 
 #. STRINGS.HERMITCRAB_INVESTIGATE.MAKE_CHAIR.LOW.1
 msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.MAKE_CHAIR.LOW.1"
-msgid "Here. Learn how to build a proper chair."
+msgid "Hmph. Well, at least it looks like it won't fall apart."
 msgstr ""
 
 #. STRINGS.HERMITCRAB_INVESTIGATE.MAKE_CHAIR.MED.1
 msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.MAKE_CHAIR.MED.1"
-msgid "I give you credit for trying, but next time get it right."
+msgid "I didn't take you for a carpenter, much less a half-competent one!"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.MAKE_UNCOMFORTABLE_CHAIR.HIGH.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.MAKE_UNCOMFORTABLE_CHAIR.HIGH.1"
+msgid "Oh. Well... I can tell you worked hard on it, dearie!"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.MAKE_UNCOMFORTABLE_CHAIR.LOW.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.MAKE_UNCOMFORTABLE_CHAIR.LOW.1"
+msgid "You expect me to sit on that rickety thing?"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.MAKE_UNCOMFORTABLE_CHAIR.MED.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.MAKE_UNCOMFORTABLE_CHAIR.MED.1"
+msgid "Is that a chair, or an art project gone wrong?"
 msgstr ""
 
 #. STRINGS.HERMITCRAB_INVESTIGATE.PLANT_BERRIES.HIGH.1
@@ -271995,17 +272025,17 @@ msgstr ""
 
 #. STRINGS.HERMITCRAB_REWARD.MAKE_CHAIR.HIGH.1
 msgctxt "STRINGS.HERMITCRAB_REWARD.MAKE_CHAIR.HIGH.1"
-msgid "Oh. Well... I can tell you worked hard on it, dearie!"
+msgid "It's lovely, dearie! The perfect place to rest my aching shell."
 msgstr ""
 
 #. STRINGS.HERMITCRAB_REWARD.MAKE_CHAIR.LOW.1
 msgctxt "STRINGS.HERMITCRAB_REWARD.MAKE_CHAIR.LOW.1"
-msgid "You expect me to sit on that rickety thing?"
+msgid "Hmph. Well, at least it looks like it won't fall apart."
 msgstr ""
 
 #. STRINGS.HERMITCRAB_REWARD.MAKE_CHAIR.MED.1
 msgctxt "STRINGS.HERMITCRAB_REWARD.MAKE_CHAIR.MED.1"
-msgid "Is that a chair, or an art project gone wrong?"
+msgid "I didn't take you for a carpenter, much less a half-competent one!"
 msgstr ""
 
 #. STRINGS.HERMITCRAB_REWARD.PLANT_BERRIES.HIGH.1.1
@@ -272100,7 +272130,7 @@ msgstr ""
 
 #. STRINGS.HERMITCRAB_STORE_UNLOCK_1.1.2
 msgctxt "STRINGS.HERMITCRAB_STORE_UNLOCK_1.1.2"
-msgid "or are you just wasting my time?"
+msgid "Or are you just wasting my time?"
 msgstr ""
 
 #. STRINGS.HERMITCRAB_STORE_UNLOCK_2.1.1
@@ -272125,7 +272155,7 @@ msgstr ""
 
 #. STRINGS.HERMITCRAB_STORE_UNLOCK_4.1.1
 msgctxt "STRINGS.HERMITCRAB_STORE_UNLOCK_4.1.1"
-msgid "I've got some new things to trade"
+msgid "I've got some new things to trade,"
 msgstr ""
 
 #. STRINGS.HERMITCRAB_STORE_UNLOCK_4.1.2
@@ -338520,7 +338550,7 @@ msgstr ""
 
 #. STRINGS.UI.CRAFTING_FILTERS.ARMOUR
 msgctxt "STRINGS.UI.CRAFTING_FILTERS.ARMOUR"
-msgid "Armour"
+msgid "Armor"
 msgstr ""
 
 #. STRINGS.UI.CRAFTING_FILTERS.CHARACTER
@@ -354463,6 +354493,21 @@ msgctxt "STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.1"
 msgid "Now, if you'll excuse me, I have much to do."
 msgstr ""
 
+#. STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.2
+msgctxt "STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.2"
+msgid "Farewell!"
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.3
+msgctxt "STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.3"
+msgid "Until next time."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.4
+msgctxt "STRINGS.WAGSTAFF_NPC_ANALYSIS_OVER.4"
+msgid "Best of luck to you! I must be off."
+msgstr ""
+
 #. STRINGS.WAGSTAFF_NPC_ATTEMPT_TRADE.1
 msgctxt "STRINGS.WAGSTAFF_NPC_ATTEMPT_TRADE.1"
 msgid "Is it important?"
@@ -354596,6 +354641,36 @@ msgstr ""
 #. STRINGS.WAGSTAFF_NPC_MUMBLE_1.4
 msgctxt "STRINGS.WAGSTAFF_NPC_MUMBLE_1.4"
 msgid "It's here... somewhere."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.1.1
+msgctxt "STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.1.1"
+msgid "I have all the data I require from this creature."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.1.2
+msgctxt "STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.1.2"
+msgid "However... I suppose I mustn't let your efforts go unrewarded."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.2.1
+msgctxt "STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.2.1"
+msgid "Still at it, are you? I must commend your zeal for research."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.2.2
+msgctxt "STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.2.2"
+msgid "Here, a contribution to your continued studies."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.3.1
+msgctxt "STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.3.1"
+msgid "I'm afraid we have nothing more to gain from analyzing this poor creature."
+msgstr ""
+
+#. STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.3.2
+msgctxt "STRINGS.WAGSTAFF_NPC_MUTATION_DEFEATED_AFTER_TASK_COMPLETED.3.2"
+msgid "Take this, as a token of my gratitude for your efforts."
 msgstr ""
 
 #. STRINGS.WAGSTAFF_NPC_NOTTHAT
