@@ -347803,6 +347803,11 @@ msgctxt "STRINGS.UI.OPTIONS.OPTIONS"
 msgid "Options"
 msgstr ""
 
+#. STRINGS.UI.OPTIONS.POIDISPLAY
+msgctxt "STRINGS.UI.OPTIONS.POIDISPLAY"
+msgid "Point of Interest Icons:"
+msgstr ""
+
 #. STRINGS.UI.OPTIONS.REDEEM
 msgctxt "STRINGS.UI.OPTIONS.REDEEM"
 msgid "Redeem a Code"
@@ -348126,6 +348131,11 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.NETBOOKMODE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.NETBOOKMODE"
 msgid "Reduces the game's update frequency. (Only recommended for min-spec computers)"
+msgstr ""
+
+#. STRINGS.UI.OPTIONS.TOOLTIPS.POIDISPLAY
+msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.POIDISPLAY"
+msgid "Hide all the Point of Interest Icons."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.REFRESHRATE
