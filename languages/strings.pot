@@ -17563,6 +17563,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC"
 msgid "As a fellow man of science, I'm compelled to help him!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Science never rests!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "I wonder where he's off to..."
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "That has to be the tool I'm looking for!"
@@ -33176,6 +33186,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC"
 msgid "Hey Mister, are you okay? You're uh... flickering...?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Maybe this is my chance to earn my Helping the Elderly badge!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Gee Mister, you move fast for a senior!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAGSTAFF_TOOL_1
@@ -48933,6 +48953,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_NPC"
 msgid "You, sir! There's a few things I'd like to discuss with you..."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Do you think I have all the time in the world for your schemes?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Off he goes."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "His tools are quite interesting."
@@ -63786,6 +63816,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC"
 msgid "Bonjour! Are you in need of assistance?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Monsieur, I aim to please."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "The gentleman is in a rush to get somewhere."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAGSTAFF_TOOL_1
@@ -79341,6 +79381,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC"
 msgid "Hail stranger! Are ye friend or foe?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "'Twas my pleasure dispatching that beast."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "The man doth make haste."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WAGSTAFF_TOOL_1
@@ -94973,6 +95023,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC"
 msgid "What is he up to now?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Oh I'm sorry, were you saying something? I was too busy fighting for my life."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "The old goat should watch his step."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "Hmph. So I'm to fetch his tools for him now?"
@@ -110530,7 +110590,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_MACHINERY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_MACHINERY"
-msgid "We're not supposed to play in scrap piles, no matter how much we want to.'"
+msgid "We're not supposed to play in scrap piles, no matter how much we want to."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_MUTATIONS_NOTE
@@ -110541,6 +110601,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC"
 msgid "Should we help him? I don't mind, but he's not so sure..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Hi Mister, do you have any games we can play instead?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Should we play follow the leader?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAGSTAFF_TOOL_1
@@ -111690,12 +111760,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.GENERIC"
-msgid "Mother said we could never sit still."
+msgid "Mother said I could never sit still."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.OCCUPIED"
-msgid "Mother said we could never sit still."
+msgid "Mother said I could never sit still."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_TABLE.BURNT
@@ -126143,6 +126213,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC"
 msgid "He flickers and fades... perhaps he's a spirit?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "This apparition always has some sort of task he wants help with."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Off to haunt someone else?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "Oh, I wish I knew if this is the tool he asked for..."
@@ -127305,12 +127385,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOOD_TABLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOOD_TABLE.GENERIC"
-msgid "Abigail's favorite hiding spot.'."
+msgid "Abigail's favorite hiding spot."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOOD_TABLE.HAS_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOOD_TABLE.HAS_ITEM"
-msgid "Abigail's favorite hiding spot'."
+msgid "Abigail's favorite hiding spot."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WORM.DIRT
@@ -141736,6 +141816,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC"
 msgid "He seems to be conducting research on the storm, I should assist him."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Rather convenient of him to show up now that the hard work is done."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Ah, the pursuit of knowledge."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_1
@@ -157301,6 +157391,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC"
 msgid "Uuuugh, old people always seem to need help with something or other."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Now what?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "That's right, old man. Move along."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAGSTAFF_TOOL_1
@@ -172908,6 +173008,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC"
 msgid "Mr. Wagstaff! Is that really you?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Er, will I be gettin' overtime for this?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Hey! Wait up!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "Found the Reticulating Buffer! Better get it back to the bossman."
@@ -188503,6 +188613,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC"
 msgid "Do not worry, Wolfgang is here to help flickery science man."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Flickery science man is back!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Wait for Wolfgang!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "Wolfgang found thing for funny old man!"
@@ -204048,6 +204168,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC"
 msgid "Looks like you're doing somthin' important. How aboot I lend you a hand, eh?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Sounds like he could use our help, eh?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Where's that old-timer running off to?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "I'd better run it back to that old-timer."
@@ -206205,7 +206335,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
-msgid "Need Shaggy Buddy."
+msgid "Need Shaggy Buddy"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
@@ -207320,7 +207450,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLARE_SEEN"
-msgid "See friend make pretty light."
+msgid "See friend make pretty light"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FOODMEMORY
@@ -211285,7 +211415,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEERCLOPSEYEBALL_SENTRYWARD_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEERCLOPSEYEBALL_SENTRYWARD_KIT"
-msgid "Not done yet."
+msgid "Not done yet"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEERCLOPS_EYEBALL
@@ -211380,7 +211510,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DOCK_WOODPOSTS_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DOCK_WOODPOSTS_ITEM"
-msgid "Plant friends on dock."
+msgid "Plant friends on dock"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DOLL_BLUEPRINT
@@ -212970,7 +213100,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOTSPRING.EMPTY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOTSPRING.EMPTY"
-msgid "Muddy."
+msgid "Muddy"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOTSPRING.GENERIC
@@ -214055,7 +214185,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAST_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAST_ITEM"
-msgid "Tall friend for Floater."
+msgid "Tall friend for Floater"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAST_MALBATROSS
@@ -215415,7 +215545,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEAN_TRAWLER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEAN_TRAWLER.GENERIC"
-msgid "Catch Glub Glubs."
+msgid "Catch Glub Glubs"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEAN_TRAWLER.LOWERED
@@ -219638,6 +219768,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC"
 msgid "Hello! Oh, goodbye... oh, hello!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Need help?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Follow?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "Thing?"
@@ -220620,7 +220760,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WOBSTER_SHELLER_DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WOBSTER_SHELLER_DEAD"
-msgid "Oh. Belly stuff now."
+msgid "Oh. Belly stuff now"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WOBSTER_SHELLER_DEAD_COOKED
@@ -220760,7 +220900,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WOODIE.MOOSE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WOODIE.MOOSE"
-msgid "Like Branch Head better than Friend Eater."
+msgid "Like Branch Head better than Friend Eater"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WOODIE.MOOSEGHOST
@@ -235226,6 +235366,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC"
 msgid "Hyuyuyu! He's not all there!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Shall I assist with his to-do list?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Perhaps he's late for an important date."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_TOOL_1
@@ -250923,6 +251073,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC"
 msgid "Is another scale-less? Can't smell him, florpt..."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "Weird scale-less is back!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "Where he going, florp?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "Hmm... it have no smell, like weird scale-less."
@@ -266498,6 +266658,16 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC"
 msgid "YOU"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
+msgid "I'M NOT YOUR ASSISTANT OLD MAN"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_NPC_WAGPUNK"
+msgid "WHERE IS HE GOING"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAGSTAFF_TOOL_1"
 msgid "ONE OF HIS TOOLS. I SHOULD JUST LEAVE IT"
@@ -271891,6 +272061,66 @@ msgstr ""
 #. STRINGS.HERMITCRAB_INTRODUCE.1.2
 msgctxt "STRINGS.HERMITCRAB_INTRODUCE.1.2"
 msgid "Please, call me Pearl."
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.HIGH.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.HIGH.1"
+msgid "You already know everything I can teach you, dearie."
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.LOW.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.LOW.1"
+msgid "I already gave you my blueprint, quit pestering me!"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.MED.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.MED.1"
+msgid "Didn't I already give you my blueprint?"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.MED.2
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.ALREADY_KNOWS_CARPENTRY.MED.2"
+msgid "Trying to take advantage of a sweet old lady, are you?"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.HIGH.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.HIGH.1"
+msgid "Have you had a chance to give that blueprint a read, dearie?"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.LOW.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.LOW.1"
+msgid "Leave me alone, I already gave away my blueprint!"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.MED.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.MED.1"
+msgid "Still haven't gotten around to reading that blueprint, hm?"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.HIGH.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.HIGH.1"
+msgid "Isn't that my blueprint over there?"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.LOW.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.LOW.1"
+msgid "Hmph. Leaving my blueprint lying around like that..."
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.LOW.2
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.LOW.2"
+msgid "Ungrateful whipper-snappers!"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.MED.1
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.MED.1"
+msgid "If I'd known it would get tossed on the ground,"
+msgstr ""
+
+#. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.MED.2
+msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ONGROUND.MED.2"
+msgid "I wouldn't have bothered giving up that blueprint!"
 msgstr ""
 
 #. STRINGS.HERMITCRAB_INVESTIGATE.FILL_MEATRACKS.HIGH.1
@@ -293198,6 +293428,11 @@ msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
 msgid "A rabbit statue with a real fire in its belly!"
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT"
+msgid "A ring to bring the brawlin' bunnies."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.YOTR_FOOD1
 msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
 msgid "No bunnies were harmed in the making of this cake."
@@ -293310,12 +293545,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_DAY
 msgctxt "STRINGS.SCRAPBOOK.DATA_DAY"
-msgid " DAY"
+msgid "DAY"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_DAYS
 msgctxt "STRINGS.SCRAPBOOK.DATA_DAYS"
-msgid " DAYS"
+msgid "DAYS"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_FISHABLE
@@ -293365,12 +293600,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_MINUTE
 msgctxt "STRINGS.SCRAPBOOK.DATA_MINUTE"
-msgid " MINUTE"
+msgid "MINUTE"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_MINUTES
 msgctxt "STRINGS.SCRAPBOOK.DATA_MINUTES"
-msgid " MINUTES"
+msgid "MINUTES"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_NEEDS_INVESTIGATION
@@ -293435,7 +293670,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_SECONDS
 msgctxt "STRINGS.SCRAPBOOK.DATA_SECONDS"
-msgid " SECONDS"
+msgid "SECONDS"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_SEWABLE
@@ -293456,6 +293691,11 @@ msgstr ""
 #. STRINGS.SCRAPBOOK.DATA_STEWER
 msgctxt "STRINGS.SCRAPBOOK.DATA_STEWER"
 msgid "CAN PREPARE FOOD"
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.DATA_TIME
+msgctxt "STRINGS.SCRAPBOOK.DATA_TIME"
+msgid "{time} {txt}"
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.DATA_USES
@@ -294495,7 +294735,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MAGICIANCHEST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MAGICIANCHEST"
-msgid "A 12 slot container that is actually a singular storage location that all \nmagic storage\n items access."
+msgid "A 12 slot container that is actually a singular storage location that all \"magic storage\" items access."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MAPSCROLL
@@ -297275,7 +297515,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_DESC"
-msgid "Bring out the full strength of planar weapons.\nAdd +5 Planar Damage to planar weapons when Mighty."
+msgid "Bring out the full strength of planar melee weapons.\nAdd +5 Planar Damage to planar melee weapons when Mighty."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_TITLE
@@ -297285,7 +297525,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_DESC"
-msgid "Bring out the full strength of planar weapons.\nAdd +10 Planar Damage to planar weapons when Mighty."
+msgid "Bring out the full strength of planar melee weapons.\nAdd +10 Planar Damage to planar melee weapons when Mighty."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_TITLE
@@ -297295,7 +297535,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_DESC"
-msgid "Bring out the full strength of planar weapons.\nAdd +15 Planar Damage to planar weapons when Mighty."
+msgid "Bring out the full strength of planar melee weapons.\nAdd +15 Planar Damage to planar melee weapons when Mighty."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_TITLE
@@ -297305,7 +297545,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_DESC"
-msgid "Bring out the full strength of planar weapons.\nAdd +20 Planar Damage to planar weapons when Mighty."
+msgid "Bring out the full strength of planar melee  weapons.\nAdd +20 Planar Damage to planar melee weapons when Mighty."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_TITLE
@@ -297315,7 +297555,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_DESC"
-msgid "Bring out the full strength of planar weapons.\nAdd +25 Planar Damage to planar weapons when Mighty."
+msgid "Bring out the full strength of planar melee weapons.\nAdd +25 Planar Damage to planar melee weapons when Mighty."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_TITLE
@@ -301088,6 +301328,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.chair_stool_fantasy"
 msgid "A toadstool you can sit on."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.chair_stool_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.chair_stool_hallowed"
+msgid "Why not lay your tired bones to rest on this spooky seat?"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.chair_stool_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.chair_stool_handmade"
 msgid "A comfy seat to rest your feet."
@@ -301168,6 +301413,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_fantasy"
 msgid "For when it's time to vine and dine your friends."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_hallowed"
+msgid "This piece is best placed at the headstone of the table."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_handmade"
 msgid "One look at this handcrafted trio and you'll know every little thing is gonna be alright."
@@ -301176,6 +301426,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_fantasy"
 msgid "An enchanting way to display your bouquet."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_hallowed"
+msgid "Add a spooky touch to your floral arrangement."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_handmade
@@ -301188,6 +301443,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_fantasy"
 msgid "Cast an enchanting glow."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_hallowed"
+msgid "Be a-fur-aid, be very a-fur-raid."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_handmade"
 msgid "Brush up on your reading next to this cozy lamp."
@@ -301196,6 +301456,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_fantasy"
 msgid "Get swept away by enchanting melodies."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_hallowed"
+msgid "Set a morbid mood with this spooky soundbox."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_handmade
@@ -301208,6 +301473,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_fantasy"
 msgid "Capture your magical moments."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_hallowed"
+msgid "Dare to display your dark side."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_handmade"
 msgid "Keep your fondest memories front and center."
@@ -301216,6 +301486,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_fantasy"
 msgid "The Beauty born of the swamp."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_hallowed"
+msgid "Is he squealing with delight... or de-fright?"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_handmade
@@ -305838,6 +306113,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_trickortreat_alt"
 msgid "This chest contains\na Hallowed Nights costume."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.mysterybox_trickortreat_furniture
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_trickortreat_furniture"
+msgid "This chest contains\nHallowed Nights curios."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_ugly_3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_ugly_3"
 msgid "This chest contains\nan assortment\nof festive apparel."
@@ -306161,6 +306441,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_formal1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_formal1"
 msgid "This Guest of Honor chest contains skins for: Warly, Wortox, and Wormwood."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_formal_all
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_formal_all"
+msgid "This Guest of Honor Chest contains every survivor's complete set of Guest of Honor skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
@@ -307506,6 +307791,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_fantasy"
 msgid "This Fantasmical Woodworking Chest contains the following belongings skin items: Enchanting Woodland Table, Four-Leg Clover Table, Four-Leg Clover Chair, Toadstool, Horn of Lushness, Blooming Vase, Pixie Cut Lamp, Blooming Border, The Birth of Mermus, and Flora Melodica."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_hallowed"
+msgid "This Hallowed Woodworking Chest contains the following belongings skin items: Cobwebby Wooden Table, Battered Wooden Table, Battered Wooden Chair, Cobwebby Stool, Rest in Centerpiece, Spooky Stump Vase, Hairrowing Lamp, Bewitched Border, The Squeal, and Ghoulish Groove Generator."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_handmade
@@ -310018,6 +310308,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.round_table_fantasy"
 msgid "A table straight from a fairy tale."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.round_table_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.round_table_hallowed"
+msgid "Draped in a tablecloth of the finest spider silk."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.round_table_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.round_table_handmade"
 msgid "Gather 'round to share some hearty food and laughs."
@@ -312368,6 +312663,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_chair_fantasy"
 msgid "Plant your lucky rear right here."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wood_chair_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_chair_hallowed"
+msgid "This chair's constant squeaks and creaks will drive you batty."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wood_chair_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_chair_handmade"
 msgid "This very chair was handcrafted for your derrière."
@@ -312376,6 +312676,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wood_table_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_table_fantasy"
 msgid "Good luck at the table!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wood_table_hallowed
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_table_hallowed"
+msgid "Something about this old table makes your heart flutter with fear."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wood_table_handmade
@@ -316063,6 +316368,11 @@ msgctxt "STRINGS.SKIN_NAMES.chair_stool_fantasy"
 msgid "Toadstool"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.chair_stool_hallowed
+msgctxt "STRINGS.SKIN_NAMES.chair_stool_hallowed"
+msgid "Cobwebby Stool"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.chair_stool_handmade
 msgctxt "STRINGS.SKIN_NAMES.chair_stool_handmade"
 msgid "Cozy Wooden Stool"
@@ -316143,6 +316453,11 @@ msgctxt "STRINGS.SKIN_NAMES.decor_centerpiece_fantasy"
 msgid "Horn of Lushness"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.decor_centerpiece_hallowed
+msgctxt "STRINGS.SKIN_NAMES.decor_centerpiece_hallowed"
+msgid "Rest in Centerpiece"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.decor_centerpiece_handmade
 msgctxt "STRINGS.SKIN_NAMES.decor_centerpiece_handmade"
 msgid "Tree's Company"
@@ -316151,6 +316466,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.decor_flowervase_fantasy
 msgctxt "STRINGS.SKIN_NAMES.decor_flowervase_fantasy"
 msgid "Blooming Vase"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.decor_flowervase_hallowed
+msgctxt "STRINGS.SKIN_NAMES.decor_flowervase_hallowed"
+msgid "Spooky Stump Vase"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.decor_flowervase_handmade
@@ -316163,6 +316483,11 @@ msgctxt "STRINGS.SKIN_NAMES.decor_lamp_fantasy"
 msgid "Pixie Cut Lamp"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.decor_lamp_hallowed
+msgctxt "STRINGS.SKIN_NAMES.decor_lamp_hallowed"
+msgid "Hairrowing Lamp"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.decor_lamp_handmade
 msgctxt "STRINGS.SKIN_NAMES.decor_lamp_handmade"
 msgid "Warm and Fuzzy Lamp"
@@ -316171,6 +316496,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.decor_phonograph_fantasy
 msgctxt "STRINGS.SKIN_NAMES.decor_phonograph_fantasy"
 msgid "Flora Melodica"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.decor_phonograph_hallowed
+msgctxt "STRINGS.SKIN_NAMES.decor_phonograph_hallowed"
+msgid "Ghoulish Groove Generator"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.decor_phonograph_handmade
@@ -316183,6 +316513,11 @@ msgctxt "STRINGS.SKIN_NAMES.decor_pictureframe_fantasy"
 msgid "Blooming Border"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.decor_pictureframe_hallowed
+msgctxt "STRINGS.SKIN_NAMES.decor_pictureframe_hallowed"
+msgid "Bewitched Border"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.decor_pictureframe_handmade
 msgctxt "STRINGS.SKIN_NAMES.decor_pictureframe_handmade"
 msgid "Cozy Frame"
@@ -316191,6 +316526,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.decor_portraitframe_fantasy
 msgctxt "STRINGS.SKIN_NAMES.decor_portraitframe_fantasy"
 msgid "The Birth of Mermus"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.decor_portraitframe_hallowed
+msgctxt "STRINGS.SKIN_NAMES.decor_portraitframe_hallowed"
+msgid "The Squeal"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.decor_portraitframe_handmade
@@ -320813,6 +321153,11 @@ msgctxt "STRINGS.SKIN_NAMES.mysterybox_trickortreat_alt"
 msgid "Trick or Treat Chest"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.mysterybox_trickortreat_furniture
+msgctxt "STRINGS.SKIN_NAMES.mysterybox_trickortreat_furniture"
+msgid "Trick or Treat Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.mysterybox_ugly_3
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_ugly_3"
 msgid "Moth-Eaten Chest"
@@ -321136,6 +321481,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_formal1
 msgctxt "STRINGS.SKIN_NAMES.pack_formal1"
 msgid "Guest of Honor Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_formal_all
+msgctxt "STRINGS.SKIN_NAMES.pack_formal_all"
+msgid "All Survivors Guest of Honor Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_all
@@ -322481,6 +322831,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_woodworking_fantasy
 msgctxt "STRINGS.SKIN_NAMES.pack_woodworking_fantasy"
 msgid "Fantasmical Woodworking Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_woodworking_hallowed
+msgctxt "STRINGS.SKIN_NAMES.pack_woodworking_hallowed"
+msgid "Hallowed Woodworking Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_woodworking_handmade
@@ -324993,6 +325348,11 @@ msgctxt "STRINGS.SKIN_NAMES.round_table_fantasy"
 msgid "Enchanting Woodland Table"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.round_table_hallowed
+msgctxt "STRINGS.SKIN_NAMES.round_table_hallowed"
+msgid "Cobwebby Wooden Table"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.round_table_handmade
 msgctxt "STRINGS.SKIN_NAMES.round_table_handmade"
 msgid "Cozy Round Table"
@@ -327343,6 +327703,11 @@ msgctxt "STRINGS.SKIN_NAMES.wood_chair_fantasy"
 msgid "Four-Leg Clover Chair"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wood_chair_hallowed
+msgctxt "STRINGS.SKIN_NAMES.wood_chair_hallowed"
+msgid "Battered Wooden Chair"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wood_chair_handmade
 msgctxt "STRINGS.SKIN_NAMES.wood_chair_handmade"
 msgid "Cozy Wooden Chair"
@@ -327351,6 +327716,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wood_table_fantasy
 msgctxt "STRINGS.SKIN_NAMES.wood_table_fantasy"
 msgid "Four-Leg Clover Table"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wood_table_hallowed
+msgctxt "STRINGS.SKIN_NAMES.wood_table_hallowed"
+msgid "Battered Wooden Table"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wood_table_handmade
