@@ -40540,7 +40540,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PICTUREFRAME.UNDRAWN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PICTUREFRAME.UNDRAWN"
-msgid "Is this a commentary on predestination?"
+msgid "A blank canvas, containing infinite possibilities."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PORTRAITFRAME
@@ -278623,6 +278623,11 @@ msgctxt "STRINGS.NAMES.DECOR_PICTUREFRAME"
 msgid "Empty Frame"
 msgstr ""
 
+#. STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWING
+msgctxt "STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWING"
+msgid "Framed Drawing"
+msgstr ""
+
 #. STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWN
 msgctxt "STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWN"
 msgid "{item} Drawing"
@@ -294123,16 +294128,6 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BLUESTAFF"
 msgid "Shoots freezing projectiles."
 msgstr ""
 
-#. STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERKELP
-msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERKELP"
-msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Kelp."
-msgstr ""
-
-#. STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERSHELL
-msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERSHELL"
-msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Broken Shells."
-msgstr ""
-
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOATCANNON
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATCANNON"
 msgid "Can be loaded with cannoballs.\n\nOnce loaded, it can be aimed to fire. The direction can be changed by standing next it from differnet sides before aiming."
@@ -294146,6 +294141,16 @@ msgstr ""
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOATPATCH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATPATCH"
 msgid "Plugs leaks on boats."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_KELP
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_KELP"
+msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Kelp."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_SHELL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_SHELL"
+msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Broken Shells."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOKSTATION
@@ -294945,7 +294950,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.NIGHTLIGHT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.NIGHTLIGHT"
-msgid "When fueled, it creates light and drains Sanity of survivors around it at a rate or 3 per minite in the day and 8 per minute at night."
+msgid "When fueled, it creates light and drains Sanity of survivors around it at a rate of 3 per minute in the day and 8 per minute at night."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.NIGHTMARELIGHT
@@ -295180,7 +295185,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PORTABLETENT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PORTABLETENT"
-msgid "Sleeping in the tent restores 1 Sanity and 2 health per second, but costs 1 Hunger per second.\n\nAs a Pinetree Pioneer, it costs Walter 1 Hunger every 2 seconds instead.\n\nAlso wetness is reduced 1 per second as well temperature is raised for 40 Degrees by 1 per second."
+msgid "Sleeping in the tent restores 1 Sanity and 2 health per second, but costs 1 Hunger per second.\n\nAs a Pinetree Pioneer, it costs Walter 1 Hunger every 2 seconds instead.\n\nAlso wetness is reduced 1 per second as well temperature is raised to 40 degrees, at 1 degree per second."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.POWDERMONKEY
@@ -295375,12 +295380,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SIESTAHUT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SIESTAHUT"
-msgid "Useable in the day.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees.\n\nWill cool the survivor's temperature to 40 degrees. "
+msgid "Useable in the day.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SISTURN
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SISTURN"
-msgid "A 4 slot container that can hold petals.\n\nWhen full of petals it raises nearby survivors Sanity by 25 per minute.\n\nAs well, Abigail's health regenerates 4x faster.\n\nWhent he petals rot, they will drop out of the container onto the ground as rot."
+msgid "A 4 slot container that can hold petals.\n\nWhen full of petals it raises nearby survivors Sanity by 25 per minute.\n\nAs well, Abigail's health regenerates 4x faster.\n\nWhen the petals rot, they will drop out of the container onto the ground as rot."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SKELETONHAT
@@ -295525,7 +295530,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.TENT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TENT"
-msgid "A survivor can use the tent at Dusk or Night.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees.\n\nWill cool the survivor's temperature to 15 degrees. "
+msgid "A survivor can use the tent at Dusk or Night.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.TENTACLEPILLARHOLE
@@ -295640,7 +295645,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHKIT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHKIT"
-msgid "Will restore durability of tools and weapons crafted with Void Cloth."
+msgid "Will restore durability of tools and weapons crafted with Dark Tatters."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHUMBRELLA
@@ -295700,7 +295705,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WATERINGCAN
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WATERINGCAN"
-msgid "Adds 25 points of moisture to Garden Soil per use.\n\nCan also put out fires and stop smouldering."
+msgid "Adds 25 points of wetness to Garden Soil per use.\n\nCan also put out fires and stop smouldering."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WATERMELONHAT
@@ -298085,7 +298090,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_1_TITLE"
-msgid "Mushroom Mastery"
+msgid "Mushroom Mastery I"
 msgstr ""
 
 #. STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_2_DESC
