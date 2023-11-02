@@ -40543,8 +40543,8 @@ msgstr "看起来它完成得很快。"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PICTUREFRAME.UNDRAWN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PICTUREFRAME.UNDRAWN"
-msgid "Is this a commentary on predestination?"
-msgstr "这是对宿命论的回应吗？"
+msgid "A blank canvas, containing infinite possibilities."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PORTRAITFRAME
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DECOR_PORTRAITFRAME"
@@ -154129,7 +154129,7 @@ msgstr "这只是一把种子。"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_GOATKID
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_GOATKID"
 msgid "He'll eat just about anything."
-msgstr "她简直什么都吃。"
+msgstr "他简直什么都吃。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_GOATMILK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_GOATMILK"
@@ -272094,7 +272094,7 @@ msgstr "亲爱的，你看过那张蓝图了没有？"
 #. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.LOW.1
 msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.LOW.1"
 msgid "Leave me alone, I already gave away my blueprint!"
-msgstr "走开，我已经把蓝图给人了！"
+msgstr "走开，我已经把蓝图给你了！"
 
 #. STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.MED.1
 msgctxt "STRINGS.HERMITCRAB_INVESTIGATE.CARPENTRY_BLUEPRINT_ININVENTORY.MED.1"
@@ -278625,6 +278625,11 @@ msgstr "餐桌灯"
 msgctxt "STRINGS.NAMES.DECOR_PICTUREFRAME"
 msgid "Empty Frame"
 msgstr "空画框"
+
+#. STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWING
+msgctxt "STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWING"
+msgid "Framed Drawing"
+msgstr "装裱的画"
 
 #. STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWN
 msgctxt "STRINGS.NAMES.DECOR_PICTUREFRAME_DRAWN"
@@ -293699,7 +293704,7 @@ msgstr "可以烹制食物"
 #. STRINGS.SCRAPBOOK.DATA_TIME
 msgctxt "STRINGS.SCRAPBOOK.DATA_TIME"
 msgid "{time} {txt}"
-msgstr ""
+msgstr "{time} {txt}"
 
 #. STRINGS.SCRAPBOOK.DATA_USES
 msgctxt "STRINGS.SCRAPBOOK.DATA_USES"
@@ -294104,7 +294109,7 @@ msgstr "这个巨大而又极易戳破的蜂窝里装满了甜美的蜂蜜和其
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BERNIE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BERNIE"
 msgid "A powerful friend when Willow's mind approaches insanity."
-msgstr "当薇洛精神的接近疯狂时出现的一位强大朋友。"
+msgstr "当薇洛的精神接近疯狂时出现的一位强大朋友。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BIRDCAGE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BIRDCAGE"
@@ -294126,16 +294131,6 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BLUESTAFF"
 msgid "Shoots freezing projectiles."
 msgstr "发射冷冻射弹。"
 
-#. STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERKELP
-msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERKELP"
-msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Kelp."
-msgstr "安装在船上后，可吸收的船只受到的碰撞伤害。可用海带修复。"
-
-#. STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERSHELL
-msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATBUMPERSHELL"
-msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Broken Shells."
-msgstr "安装在船上后，可吸收的船只受到的碰撞伤害。可用外壳碎片修复。"
-
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOATCANNON
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATCANNON"
 msgid "Can be loaded with cannoballs.\n\nOnce loaded, it can be aimed to fire. The direction can be changed by standing next it from differnet sides before aiming."
@@ -294150,6 +294145,16 @@ msgstr "该建筑必须首先与自动航行灯塔配对。\n\n配对成功后�
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOATPATCH"
 msgid "Plugs leaks on boats."
 msgstr "堵住船上的泄漏处。"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_KELP
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_KELP"
+msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Kelp."
+msgstr "安装在船上后，可吸收的船只受到的碰撞伤害。可用海带修复。"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_SHELL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOAT_BUMPER_SHELL"
+msgid "Absorbs collision damage of the boat it is mounted on. Can be repaired with Broken Shells."
+msgstr "安装在船上后，可吸收的船只受到的碰撞伤害。可用外壳碎片修复。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BOOKSTATION
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BOOKSTATION"
@@ -294948,7 +294953,7 @@ msgstr "如果移植就需要施肥。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.NIGHTLIGHT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.NIGHTLIGHT"
-msgid "When fueled, it creates light and drains Sanity of survivors around it at a rate or 3 per minite in the day and 8 per minute at night."
+msgid "When fueled, it creates light and drains Sanity of survivors around it at a rate of 3 per minute in the day and 8 per minute at night."
 msgstr "注入燃料后，它能产生光线，并以白天每分钟3、夜晚每分钟8的速度消耗附近冒险家的精神值。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.NIGHTMARELIGHT
@@ -295183,8 +295188,8 @@ msgstr "2栏位的容器。一个装烹制好的食品，另一个装调味品�
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PORTABLETENT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PORTABLETENT"
-msgid "Sleeping in the tent restores 1 Sanity and 2 health per second, but costs 1 Hunger per second.\n\nAs a Pinetree Pioneer, it costs Walter 1 Hunger every 2 seconds instead.\n\nAlso wetness is reduced 1 per second as well temperature is raised for 40 Degrees by 1 per second."
-msgstr "在帐篷里睡觉每秒恢复1点精神值和2点生命值，但每秒消耗1点饥饿值。\n\n作为松树先锋队员，沃尔特每2秒会消耗1点饥饿值。\n\n此外，潮湿度每秒降低1点，玩家体温低于40度时，温度每秒升高1度。"
+msgid "Sleeping in the tent restores 1 Sanity and 2 health per second, but costs 1 Hunger per second.\n\nAs a Pinetree Pioneer, it costs Walter 1 Hunger every 2 seconds instead.\n\nAlso wetness is reduced 1 per second as well temperature is raised to 40 degrees, at 1 degree per second."
+msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.POWDERMONKEY
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.POWDERMONKEY"
@@ -295378,12 +295383,12 @@ msgstr "可以通过喂食来修复。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SIESTAHUT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SIESTAHUT"
-msgid "Useable in the day.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees.\n\nWill cool the survivor's temperature to 40 degrees. "
-msgstr "可在白天使用。\n\n冒险家每秒恢复2点生命值和1点精神值，但每秒消耗0.33点饥饿值。它还能每秒降低1点潮湿度，每秒降低1度体温，直至40度。\n\n将冒险家的体温降至40度。"
+msgid "Useable in the day.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees."
+msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SISTURN
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SISTURN"
-msgid "A 4 slot container that can hold petals.\n\nWhen full of petals it raises nearby survivors Sanity by 25 per minute.\n\nAs well, Abigail's health regenerates 4x faster.\n\nWhent he petals rot, they will drop out of the container onto the ground as rot."
+msgid "A 4 slot container that can hold petals.\n\nWhen full of petals it raises nearby survivors Sanity by 25 per minute.\n\nAs well, Abigail's health regenerates 4x faster.\n\nWhen the petals rot, they will drop out of the container onto the ground as rot."
 msgstr "4栏位的容器，可以盛放花瓣。\n\n装满花瓣后，每分钟可将附近冒险家的精神值提高 25点。\n\n此外，阿比盖尔的健康再生速度也会提高4倍。\n\n当花瓣腐烂时，它们会从容器中掉落到地面上变成腐烂物。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SKELETONHAT
@@ -295528,8 +295533,8 @@ msgstr "该装置需要3颗紫宝石才能激活\n\n冒险家使用传送魔杖�
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.TENT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TENT"
-msgid "A survivor can use the tent at Dusk or Night.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees.\n\nWill cool the survivor's temperature to 15 degrees. "
-msgstr "冒险家可在黄昏和夜晚时使用此帐篷。\n\n冒险家每秒恢复2点生命值和1点精神值，但每秒消耗0.33点饥饿值。它还能每秒降低1点潮湿度，每秒降低1度体温，直至40度。\n\n将冒险家的体温降至15度。"
+msgid "A survivor can use the tent at Dusk or Night.\n\nSurvivor recovers 2 Health per second and 1 Sanity per second but consumes 0.33 Hunger per second. It also reduces 1 Wetness per second and lowers temperature 1 degree per second down to 40 degrees."
+msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.TENTACLEPILLARHOLE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TENTACLEPILLARHOLE"
@@ -295643,8 +295648,8 @@ msgstr "如果你能持续攻击，暗影位面伤害武器的伤害会随着连
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHKIT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHKIT"
-msgid "Will restore durability of tools and weapons crafted with Void Cloth."
-msgstr "会恢复用暗影碎布制作的工具和武器的耐久度。"
+msgid "Will restore durability of tools and weapons crafted with Dark Tatters."
+msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHUMBRELLA
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLOTHUMBRELLA"
@@ -295703,8 +295708,8 @@ msgstr "当投掷时，它会在其落地的小范围内灭火。\n\n它还将�
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WATERINGCAN
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WATERINGCAN"
-msgid "Adds 25 points of moisture to Garden Soil per use.\n\nCan also put out fires and stop smouldering."
-msgstr "每次使用可为花园土壤添加 25 点湿度。\n\n还可以扑灭火灾并阻止阴燃。"
+msgid "Adds 25 points of wetness to Garden Soil per use.\n\nCan also put out fires and stop smouldering."
+msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WATERMELONHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WATERMELONHAT"
@@ -297519,7 +297524,7 @@ msgstr "突破极限 V"
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_DESC"
 msgid "Bring out the full strength of planar melee weapons.\nAdd +5 Planar Damage to planar melee weapons when Mighty."
-msgstr ""
+msgstr "充分发挥位面近战武器的威力。\n在强大状态时，位面近战武器的位面伤害+5。"
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_1_TITLE"
@@ -297529,7 +297534,7 @@ msgstr "威力武器 I"
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_DESC"
 msgid "Bring out the full strength of planar melee weapons.\nAdd +10 Planar Damage to planar melee weapons when Mighty."
-msgstr ""
+msgstr "充分发挥位面近战武器的威力。\n在强大状态时，位面近战武器的位面伤害+10。"
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_2_TITLE"
@@ -297539,7 +297544,7 @@ msgstr "威力武器 II"
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_DESC"
 msgid "Bring out the full strength of planar melee weapons.\nAdd +15 Planar Damage to planar melee weapons when Mighty."
-msgstr ""
+msgstr "充分发挥位面近战武器的威力。\n在强大状态时，位面近战武器的位面伤害+15。"
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_3_TITLE"
@@ -297549,7 +297554,7 @@ msgstr "威力武器 III"
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_DESC"
 msgid "Bring out the full strength of planar melee  weapons.\nAdd +20 Planar Damage to planar melee weapons when Mighty."
-msgstr ""
+msgstr "充分发挥位面近战武器的威力。\n在强大状态时，位面近战武器的位面伤害+20。"
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_TITLE
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_4_TITLE"
@@ -297559,7 +297564,7 @@ msgstr "威力武器 IV"
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_DESC
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_DESC"
 msgid "Bring out the full strength of planar melee weapons.\nAdd +25 Planar Damage to planar melee weapons when Mighty."
-msgstr ""
+msgstr "充分发挥位面近战武器的威力。\n在强大状态时，位面近战武器的位面伤害+25。"
 
 #. STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_TITLE
 msgctxt "STRINGS.SKILLTREE.WOLFGANG.WOLFGANG_MIGHTY_PLANAR_DAMAGE_5_TITLE"
@@ -298088,7 +298093,7 @@ msgstr "种植在蘑菇农场中的蘑菇生长得稍快一些。"
 
 #. STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_1_TITLE"
-msgid "Mushroom Mastery"
+msgid "Mushroom Mastery I"
 msgstr "蘑菇精通"
 
 #. STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_2_DESC
