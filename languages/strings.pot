@@ -393,6 +393,21 @@ msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_LANCE"
 msgid "Sky Lunge"
 msgstr ""
 
+#. STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING
+msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING"
+msgid "Lightning Strike"
+msgstr ""
+
+#. STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING_CHARGED
+msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING_CHARGED"
+msgid "Lightning Strike"
+msgstr ""
+
+#. STRINGS.ACTIONS.CASTAOE.WATHGRITHR_SHIELD
+msgctxt "STRINGS.ACTIONS.CASTAOE.WATHGRITHR_SHIELD"
+msgid "Block"
+msgstr ""
+
 #. STRINGS.ACTIONS.CASTSPELL.GENERIC
 msgctxt "STRINGS.ACTIONS.CASTSPELL.GENERIC"
 msgid "Cast Spell"
@@ -3503,6 +3518,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I need to be quicker!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -3515,6 +3535,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr ""
 
@@ -9616,6 +9641,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.EGGPLANT_SEEDS"
 msgid "It's a seed."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.EMBERLIGHT"
+msgid "A fire without fuel? No matter."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ENDTABLE.BURNT
@@ -19838,6 +19868,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "That goes against everything we learned about fire safety."
@@ -25346,6 +25381,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.EGGPLANT_SEEDS"
 msgid "We should find a place to plant these."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.EMBERLIGHT"
+msgid "There's no wood in this campfire. Oh well."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.ENDTABLE.BURNT
@@ -35523,6 +35563,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CAST_POCKETWATCH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CAST_POCKETWATCH.GENERIC"
 msgid "It'd be too risky."
@@ -41161,6 +41206,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Why waste time growing them when I can just eat them now?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.EMBERLIGHT"
+msgid "Saves me the trouble of finding firewood."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ENDTABLE.BURNT
@@ -51348,6 +51398,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "It, oh, it appears to be on fire."
@@ -56876,6 +56931,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Future ingredients, just waiting to be grown!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EMBERLIGHT"
+msgid "Willow left this burner unattended."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ENDTABLE.BURNT
@@ -66278,6 +66338,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Gasp! My furs!"
@@ -71766,6 +71831,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Tiny nature bits."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EMBERLIGHT"
+msgid "My ally's flame burns bright as her fighting spirit."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ENDTABLE.BURNT
@@ -81923,6 +81993,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_MAX_SANITY"
 msgid "I fear my mind can't take the strain..."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT"
 msgid "I'll need a top hat for this trick to work."
@@ -87471,6 +87546,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Such labor is beneath me."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EMBERLIGHT"
+msgid "Neat trick."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ENDTABLE.BURNT
@@ -97648,6 +97728,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Woah! Hot fashions!"
@@ -103116,6 +103201,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT_SEEDS"
 msgid "We could grow something with these."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.EMBERLIGHT"
+msgid "We like it warm and toasty!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.BURNT
@@ -113268,6 +113358,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "I guess I won't be changing again anytime soon."
@@ -118791,6 +118886,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.EGGPLANT_SEEDS"
 msgid "It's a plant that's waiting to be."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.EMBERLIGHT"
+msgid "At least it warms my hands."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ENDTABLE.BURNT
@@ -128943,6 +129043,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "No more changes for me. It's gone up in flames."
@@ -134461,6 +134566,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EGGPLANT_SEEDS"
 msgid "It can't begin growing until it's been planted, dear."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EMBERLIGHT"
+msgid "Nothing like some unnatural fire to warm yourself with on a chilly day."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ENDTABLE.BURNT
@@ -144608,6 +144718,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I wasn't too slow, it was too fast."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "My beast is too flamable for that kind of fun."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "I need more embers! Heh. Better get back to burning."
@@ -144615,7 +144730,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.NO_TARGETS"
-msgid "There was nothing scary to burn nearby."
+msgid "There is nothing scary to burn nearby."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
+msgid "I need to give it a moment."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.BURNING
@@ -150106,6 +150226,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Some seeds."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.EMBERLIGHT"
+msgid "I made that. No big deal."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ENDTABLE.BURNT
@@ -160263,6 +160388,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Fire in textiles!"
@@ -165771,6 +165901,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.EGGPLANT_SEEDS"
 msgid "A handful of seeds."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.EMBERLIGHT"
+msgid "Nice and toasty."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ENDTABLE.BURNT
@@ -175938,6 +176073,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Wolfgang's weekday undergarments burning? Wolfgang is sad."
@@ -181456,6 +181596,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Is seeds for growing."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EMBERLIGHT"
+msgid "Tiny torchlady makes good fires."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ENDTABLE.BURNT
@@ -191608,6 +191753,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Better it than a tree."
@@ -197071,6 +197221,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Maybe I could plant them?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.EMBERLIGHT"
+msgid "Just keep it away from the trees, eh?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ENDTABLE.BURNT
@@ -207228,6 +207383,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Fire! Don't like fire!"
@@ -212726,6 +212886,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Grows the purple belly stuff"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EMBERLIGHT"
+msgid "Hot! Hot!!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ENDTABLE.BURNT
@@ -222893,6 +223058,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "I'm not big on clothes, anyway."
@@ -228406,6 +228576,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Let's give them some soil, before they spoil."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EMBERLIGHT"
+msgid "Aren't you a bit big for a will-o'-the-wisp?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ENDTABLE.BURNT
@@ -238563,6 +238738,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Nope!"
@@ -244156,6 +244336,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.EGGPLANT_SEEDS"
 msgid "Make more tasty snacks!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.EMBERLIGHT"
+msgid "Pretty..."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ENDTABLE.BURNT
@@ -254333,6 +254518,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NO_MAX_SANITY"
 msgid "only_used_by_waxwell"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NO_TARGETS
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CAST_SPELLBOOK.NO_TOPHAT"
 msgid "only_used_by_waxwell"
@@ -259826,6 +260016,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.EGGPLANT_SEEDS"
 msgid "IT'S SOURCE CODE FOR FOOD THAT COMES FROM THE DIRT"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.EMBERLIGHT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.EMBERLIGHT"
+msgid "EVERY ONCE IN A WHILE MY MINIONS MANAGE TO MAKE SOMETHING USEFUL"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ENDTABLE.BURNT
@@ -286410,12 +286605,12 @@ msgstr ""
 
 #. STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING
 msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING"
-msgid "Lightning Spear"
+msgid "Elding Spear"
 msgstr ""
 
 #. STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING_CHARGED
 msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING_CHARGED"
-msgid "Charged Lightning Spear"
+msgid "Charged Elding Spear"
 msgstr ""
 
 #. STRINGS.NAMES.SPICEPACK
@@ -295215,7 +295410,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ARCHIVERESONATOR
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ARCHIVERESONATOR"
-msgid "An mysterious device that burns arrows into the dirt."
+msgid "A mysterious device that burns arrows into the dirt."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ARCHIVERUNESTATUE
@@ -295350,7 +295545,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_INSTANT_REVIVE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_INSTANT_REVIVE"
-msgid "Revive nearby allied players.\n\nThis is a Battle Stinger as it completes in an instant."
+msgid "Revive up to 2 nearby allied players.\n\nThis is a Battle Stinger as it completes in an instant."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_INSTANT_TAUNT
@@ -295360,7 +295555,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_LUNARALIGNED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_LUNARALIGNED"
-msgid "Allies take 5% less damage from Lunar Aligned enemies and deal 5% bonus damage to Shadow Aligned enemies.\n\nThis is a Battle Song. Wigfrid must continue to sing for its benefit."
+msgid "Allies take 10% less damage from Lunar Aligned enemies and deal 5% bonus damage to Shadow Aligned enemies.\n\nThis is a Battle Song. Wigfrid must continue to sing for its benefit."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_SANITYAURA
@@ -295375,7 +295570,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_SHADOWALIGNED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.BATTLESONG_SHADOWALIGNED"
-msgid "Allies take 5% less damage from Shadow Aligned enemies and deal 5% bonus damage to Lunar Aligned enemies.\n\nThis is a Battle Song. Wigfrid must continue to sing for its benefit."
+msgid "Allies take 10% less damage from Shadow Aligned enemies and deal 5% bonus damage to Lunar Aligned enemies.\n\nThis is a Battle Song. Wigfrid must continue to sing for its benefit."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.BEARGERFUR_SACK
@@ -296765,7 +296960,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SPEAR_WATHGRITHR_LIGHTNING_CHARGED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SPEAR_WATHGRITHR_LIGHTNING_CHARGED"
-msgid "Does electrical damage which does more damage to wet targets.\n\nIncreases movement speed by 20% when held.\n\nIt can only be equipped by Wigfrids who have the \"Lightning Spear Enhancement II\" skill."
+msgid "Does electrical damage which does more damage to wet targets.\n\nIncreases movement speed by 20% when held.\n\nIt can only be equipped by Wigfrids who have the \"Elding Spear Enhancement II\" skill."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SPEEDYBALLOON
@@ -297085,7 +297280,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WATHGRITHR_SHIELD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WATHGRITHR_SHIELD"
-msgid "Can be used to block attacks.\n\nIt can only be equipped by Wigfrids who have the \"Battle Rönd\" skill."
+msgid "Can be used to block attacks. Successfully blocking an attack decreases the block cooldown.\n\nIt can only be equipped by Wigfrids who have the \"Battle Rönd\" skill."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WILLOWEMBER
@@ -297698,6 +297893,71 @@ msgctxt "STRINGS.SHARKBOINAMES.9"
 msgid "Meg"
 msgstr ""
 
+#. STRINGS.SHARKBOI_ACCEPT_BIG_OCEANFISH.1
+msgctxt "STRINGS.SHARKBOI_ACCEPT_BIG_OCEANFISH.1"
+msgid "HOLY MACKEREL, THAT'S A BIG ONE."
+msgstr ""
+
+#. STRINGS.SHARKBOI_ACCEPT_OCEANFISH.1
+msgctxt "STRINGS.SHARKBOI_ACCEPT_OCEANFISH.1"
+msgid "NOW, THAT IS A BEAUTIFUL FISH."
+msgstr ""
+
+#. STRINGS.SHARKBOI_REFUSE_EMPTY.1
+msgctxt "STRINGS.SHARKBOI_REFUSE_EMPTY.1"
+msgid "AIN'T GOT NO MORE. I'M CLEANED OUT."
+msgstr ""
+
+#. STRINGS.SHARKBOI_REFUSE_NOT_OCEANFISH.1
+msgctxt "STRINGS.SHARKBOI_REFUSE_NOT_OCEANFISH.1"
+msgid "IF IT AIN'T A FISH FROM THE OCEAN, I DON'T WANT IT."
+msgstr ""
+
+#. STRINGS.SHARKBOI_REFUSE_TOO_SMALL.1
+msgctxt "STRINGS.SHARKBOI_REFUSE_TOO_SMALL.1"
+msgid "DON'T INSULT ME WITH THIS PUNY THING. GIMME A BIG ONE."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.1
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.1"
+msgid "INTERESTIN', REEL INTERESTIN'."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.2
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.2"
+msgid "WHAT WE GOT HERE?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.3
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.3"
+msgid "LET'S SEA WHATCHA GOT."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.4
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.4"
+msgid "WHATCHA FISHIN' FOR?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.5
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.5"
+msgid "HOPE YOUSE AIN'T WASTIN' MY TIME."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.6
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.6"
+msgid "BETTER NOT BE NO RAW DEAL."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.7
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.7"
+msgid "I DON'T WANT NO BAIT N' SWITCH."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.8
+msgctxt "STRINGS.SHARKBOI_TALK_ATTEMPT_TRADE.8"
+msgid "OKAY, YOU REELED ME IN. WHATCHA GOT?"
+msgstr ""
+
 #. STRINGS.SHARKBOI_TALK_CHEER.1
 msgctxt "STRINGS.SHARKBOI_TALK_CHEER.1"
 msgid "PUT 'EM ON ICE!"
@@ -297898,6 +298158,56 @@ msgctxt "STRINGS.SHARKBOI_TALK_FOLLOWWILSON.9"
 msgid "WHY SO GLUM, CHUM?"
 msgstr ""
 
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.1
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.1"
+msgid "WOAH, WOAH! NO HARD FEELINGS, ALRIGHT?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.10
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.10"
+msgid "I'M ON A SEA FOOD DIET. I ONLY EATS IT IF IT'S FROM THE SEA."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.2
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.2"
+msgid "I CAN MAKE YOUSE AN OFFER... IF YOUSE GOT THE GOODS."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.3
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.3"
+msgid "LET'S COME TO AN ARRANGEMENT, IF YOU CATCH MY DRIFT."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.4
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.4"
+msgid "LISTEN, MAYBE YOUSE AND ME AIN'T SO DIFFERENT."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.5
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.5"
+msgid "I THINK WE COULD DO SOME BUSINESS, YOU AND ME."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.6
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.6"
+msgid "HOWSABOUT YOU SCRATCH MY FIN AND I SCRATCH YOURS?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.7
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.7"
+msgid "WHADAYA SAY TO A LIL' SQUID PRO QUO?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.8
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.8"
+msgid "I AIN'T ONE TO REFUSE A NICE JUICY FISH. BIGGER THE BETTER."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_FRIENDLY.9
+msgctxt "STRINGS.SHARKBOI_TALK_FRIENDLY.9"
+msgid "DON'T WANT NO STINKIN' POND SCUM."
+msgstr ""
+
 #. STRINGS.SHARKBOI_TALK_GIVEUP.1
 msgctxt "STRINGS.SHARKBOI_TALK_GIVEUP.1"
 msgid "I BIT OFF MORE THAN I CAN CHEW."
@@ -298071,6 +298381,46 @@ msgstr ""
 #. STRINGS.SHARKBOI_TALK_GLOAT.9
 msgctxt "STRINGS.SHARKBOI_TALK_GLOAT.9"
 msgid "HOOK, LINE AND SINKER."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.1
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.1"
+msgid "HUH? WHAT HAPPENED?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.2
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.2"
+msgid "HEY! WHATSA MATTER WITH YOU?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.3
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.3"
+msgid "I FEEL LIKE A FISH OUTTA WATER..."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.4
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.4"
+msgid "I WAS JUST LOOKIN' FOR A QUICK BITE."
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.5
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.5"
+msgid "WHADAYA LOOKIN' AT?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.6
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.6"
+msgid "YOU WANT A PIECE OF ME, TOUGH GUY?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.7
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.7"
+msgid "YOU CRUISIN' FOR A BRUISIN?"
+msgstr ""
+
+#. STRINGS.SHARKBOI_TALK_IDLE.8
+msgctxt "STRINGS.SHARKBOI_TALK_IDLE.8"
+msgid "WHY I OUGHTA..."
 msgstr ""
 
 #. STRINGS.SIGNS.ADDITIONS.1
@@ -299080,7 +299430,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SHIELD_3_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SHIELD_3_DESC"
-msgid "After blocking an attack with the Battle Rönd, your next attack within 5 seconds will deal +10 damage."
+msgid "After blocking an attack with the Battle Rönd, your next attack within 5 seconds will deal +15-30 damage based on the damage blocked."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SHIELD_3_TITLE
@@ -299110,32 +299460,32 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_3_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_3_DESC"
-msgid "Learn to craft the Lightning Spear: an electric weapon that does more damage to wet targets."
+msgid "Learn to craft the Elding Spear: an electric weapon that does more damage to wet targets."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_3_TITLE"
-msgid "Lightning Spear"
+msgid "Elding Spear"
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_4_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_4_DESC"
-msgid "The Lightning Spear can now perform a special attack.\nThis attack repairs Charged Lightning Spears if it hits a target."
+msgid "The Elding Spear can now perform a special attack.\nThis attack repairs Charged Elding Spears if it hits a target."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_4_TITLE
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_4_TITLE"
-msgid "Lightning Spear Enhancement I"
+msgid "Elding Spear Enhancement I"
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_5_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_5_DESC"
-msgid "Upgrade the Lightning Spear using Restrained Static to deal +20 Planar Damage."
+msgid "Upgrade the Elding Spear using Restrained Static to deal +20 Planar Damage."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_5_TITLE
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_SPEAR_5_TITLE"
-msgid "Lightning Spear Enhancement II"
+msgid "Elding Spear Enhancement II"
 msgstr ""
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_BEEFALO_1_DESC
@@ -299305,7 +299655,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ATTUNED_LIGHTER_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ATTUNED_LIGHTER_DESC"
-msgid "Absorb fires (even when they're only smoldering) with your lighter to refuel it."
+msgid "Stop things from burning by absorbing the flame (even when they're only smoldering) with your lighter."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ATTUNED_LIGHTER_TITLE
@@ -299435,7 +299785,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_2_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_2_DESC"
-msgid "Objects burn down faster, and creatures burn for longer."
+msgid "Creatures burn for a longer time."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_2_TITLE
@@ -299455,7 +299805,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_EMBERS_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_EMBERS_DESC"
-msgid "Collect and use Embers to perform Pyrokinetic effects.\nYou can collect Embers from burned creatures with your lighter."
+msgid "Collect and use Embers to perform Pyrokinetic effects.\nYou can collect Embers from burned creatures with your lighter.\nUse Embers to refuel the lighter."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_EMBERS_TITLE
@@ -312933,6 +313283,46 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_simple"
 msgid "A rudimentary weapon, sharp and ready for a quarrel."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_lunar"
+msgid "A shining spear weilded by only the most powerful of the moon's chosen warriors."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_northern"
+msgid "A weapon imbued with the ferocity of a storm."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_valkyrie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_valkyrie"
+msgid "Swoop in and strike your foes as quick as lightning."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_wrestle
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_wrestle"
+msgid "The weilder of this weapon is sure to recieve thunderous applause in the ring."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_lunar"
+msgid "A shining spear weilded by only the most powerful of the moon's chosen warriors."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_northern"
+msgid "A weapon imbued with the ferocity of a storm."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_valkyrie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_valkyrie"
+msgid "Swoop in and strike your foes as quick as lightning."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_wrestle
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_wrestle"
+msgid "The weilder of this weapon is sure to recieve thunderous applause in the ring."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lunar"
 msgid "The shining spear of the moon's chosen champion."
@@ -313766,6 +314156,21 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ice"
 msgid "This warrior is prepared to battle even the most brutal winters."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_improvedhat_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_improvedhat_lunar"
+msgid "An enlightened mind makes for an inspiring leader."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_improvedhat_valkyrie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_improvedhat_valkyrie"
+msgid "A commander should always keep their head held high."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_improvedhat_wrestle
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_improvedhat_wrestle"
+msgid "A touch of gold adds weight to its commanding appearance."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_lunar
@@ -327973,6 +328378,46 @@ msgctxt "STRINGS.SKIN_NAMES.spear_simple"
 msgid "Refined Spear"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_lunar
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_lunar"
+msgid "Moonlight Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_northern
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_northern"
+msgid "Nordic Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_valkyrie
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_valkyrie"
+msgid "Winged Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_wrestle
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_charged_wrestle"
+msgid "Ultimate Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_lunar
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_lunar"
+msgid "Moonlight Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_northern
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_northern"
+msgid "Nordic Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_valkyrie
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_valkyrie"
+msgid "Winged Elding Spear"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_wrestle
+msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lightning_wrestle"
+msgid "Ultimate Elding Spear"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.spear_wathgrithr_lunar
 msgctxt "STRINGS.SKIN_NAMES.spear_wathgrithr_lunar"
 msgid "Moonlight Spear"
@@ -328806,6 +329251,21 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wathgrithr_ice
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_ice"
 msgid "The Snowfallen"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wathgrithr_improvedhat_lunar
+msgctxt "STRINGS.SKIN_NAMES.wathgrithr_improvedhat_lunar"
+msgid "Moonlight Commander's Diadem"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wathgrithr_improvedhat_valkyrie
+msgctxt "STRINGS.SKIN_NAMES.wathgrithr_improvedhat_valkyrie"
+msgid "Winged Commander's Helm"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wathgrithr_improvedhat_wrestle
+msgctxt "STRINGS.SKIN_NAMES.wathgrithr_improvedhat_wrestle"
+msgid "Golden Commander's Helm"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wathgrithr_lunar
