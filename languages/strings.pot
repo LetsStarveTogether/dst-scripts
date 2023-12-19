@@ -28,6 +28,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.BUTTON"
 msgid "Press"
 msgstr ""
 
+#. STRINGS.ACTIONS.ACTIVATE.CALM
+msgctxt "STRINGS.ACTIONS.ACTIVATE.CALM"
+msgid "Calm"
+msgstr ""
+
 #. STRINGS.ACTIONS.ACTIVATE.CLIMB
 msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
@@ -3436,6 +3441,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "My stuffed toy isn't so scary."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
@@ -288435,7 +288445,7 @@ msgstr ""
 
 #. STRINGS.NAMES.WILLOW_EMBER
 msgctxt "STRINGS.NAMES.WILLOW_EMBER"
-msgid "Hot Embers"
+msgid "Ethereal Ember"
 msgstr ""
 
 #. STRINGS.NAMES.WILSON
@@ -299665,7 +299675,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_DESC"
-msgid "Bernie will take it upon himself to taunt and attack any nearby lunar-aligned or shadow-aligned creatures."
+msgid "Bernie will activate to fight hostile lunar and shadow aligned creatures regardless of Willow's sanity."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_TITLE
@@ -299835,7 +299845,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_FIRE_FRENZY_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_FIRE_FRENZY_DESC"
-msgid "For 30 seconds, add 25% weapon damage when attacking burning targets."
+msgid "For 60 seconds, add 25% weapon damage when attacking burning targets."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_FIRE_FRENZY_TITLE
@@ -302398,6 +302408,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_victorian"
 msgid "Perfect for rolling up your sleeves to sell rolls of newspapers."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_walter_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_yule"
+msgid "Look your festive best while scouting out the perfect Winter's Feast tree."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_bishop
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_bishop"
 msgid "This clockwork costume ticks all the boxes."
@@ -302818,6 +302833,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_wrestler"
 msgid "Six tiger arms are better than two."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_webber_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_webber_yule"
+msgid "Embody the sweetness of the holidays."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_cook"
 msgid "An outfit that says \"let's get cooking!\""
@@ -302911,6 +302931,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.body_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_victorian"
 msgid "No expense has been spared in these grimly beautiful mourning clothes."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_wendy_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wendy_yule"
+msgid "Fur-lined finery fit for fancy festivities."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wes_clown
@@ -304183,6 +304208,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.chester_walrus"
 msgid "Waddle along with your blubbery little buddy."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_an"
+msgid "What could be more avant-garde than keeping cool by a roaring fire?"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower"
 msgid "A frigid floral firepit."
@@ -305128,6 +305158,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_walter_ventriloquist"
 msgid "A storyteller must always stay two steps ahead of their audience."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_walter_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_walter_yule"
+msgid "Keep your feet warm and toasty."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_formal"
 msgid "They're incredibly clean... in fact, they somehow always look brand new."
@@ -305316,6 +305351,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_victorian"
 msgid "Heavy shoes to tread the path of sorrow."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wendy_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wendy_yule"
+msgid "Festive shoes trimmed with a soft puff of fur."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wes_clown
@@ -306443,6 +306483,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_victorian"
 msgid "Soft gloves to hold your heartbreak."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_yule"
+msgid "Warm your hands, and maybe even your heart."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wes_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_gladiator"
 msgid "A light gauntlet design for an expert duelist."
@@ -307546,6 +307591,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.legs_walter_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_victorian"
 msgid "You'll need a sturdy pair of shoes if you want to keep up with the news."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_walter_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_yule"
+msgid "Decorate your Winter's Feast tree in style."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wanda_nature
@@ -310018,6 +310068,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2023"
 msgid "This Chest contains the playable character, Wortox: The Soul Starved, Wilson's Magmatic skin set, Wendy's Guest of Honor skin set with Abigail's Ghost of Honor item skin, Wolfgang's Pirate skin set, WX-78's Shadow skin set, the Gothic Scientific Instrument, the Gothic Lantern, and the Sleepytime Ensemble."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2024
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2024"
+msgid "This Chest contains the playable character, Wurt: The Half-Pint, Wilson's Verdant skin set, Willow's Swashbuckler skin set, Wolfgang's Gladiator skin set, WX-78's Moonbound skin set, the Pastoral Chest, the Narwalrus Chester, and the Yawny Jammies Ensemble."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift"
 msgid "Don't Starve: Shipwrecked Gift"
@@ -310171,6 +310226,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_survivor"
 msgid "This chest contains Walter's complete set of Survivor skin items, as well as the Cap o' Flage."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_walter_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_yule"
+msgid "This chest contains Walter's complete set of Merrymaker skin items, as well as the Tree Topper Cap."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxe
@@ -310358,6 +310418,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_survivor"
 msgid "This Chest contains Webber's complete set of Survivor skin items."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_webber_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_yule"
+msgid "This Chest contains Webber's complete set of Merrymaker skin items."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_deluxe"
 msgid "This Deluxe Wardrobe contains Wendy's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Nostalgic skin items."
@@ -310386,6 +310451,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_survivor"
 msgid "This Chest contains Wendy's complete set of Survivor skin items."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_yule"
+msgid "This Chest contains Wendy's complete set of Merrymaker skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wes_deluxe
@@ -310818,6 +310888,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_all2"
 msgid "This Merrymaker Chest contains the second addition to the Merrymaker skin series. Contains skins for: Wilson, Willow, Wormwood, Wurt, Wanda, and Wickerbottom."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_yule_all3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_all3"
+msgid "This Merrymaker Chest contains the third addition to the Merrymaker skin series. Contains skins for: Walter, Wendy, and Webber."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle"
 msgid "This Merrymaker Chest contains the complete Merrymaker series of survivor and belonging skins."
@@ -310825,6 +310900,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle2"
+msgid "This Merrymaker Chest contains the complete Merrymaker series of survivor and belonging skins."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle3"
 msgid "This Merrymaker Chest contains the complete Merrymaker series of survivor and belonging skins."
 msgstr ""
 
@@ -311105,6 +311185,11 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_cardinals
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_cardinals"
+msgid "Equip this item to change your character's background portrait."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_coldfirepitan
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_coldfirepitan"
 msgid "Equip this item to change your character's background portrait."
 msgstr ""
 
@@ -311761,6 +311846,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_claywarg
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_claywarg"
 msgid "Set your profile icon to a celebratory Clay Varg.\nHappy Year of the Varg!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_coldfirepit_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_coldfirepit_an"
+msgid "Set your profile icon to a Nouveau Frigid Firepit."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_coldfirepit_teeth
@@ -313888,6 +313978,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_victorian"
 msgid "Walter is often so eager to talk about the news that people don't need to buy the papers."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.walter_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_yule"
+msgid "Walter considers himself a bit of an expert on picking the perfect pine tree."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_bee
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_bee"
 msgid "This hat will really help you get into a bee's head."
@@ -313941,6 +314036,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_victorian"
 msgid "Any other cap is simply old news."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.walterhat_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_yule"
+msgid "The finishing touch for the top of your head."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_bishop
@@ -314478,6 +314578,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_wrestler"
 msgid "Where does the silky fur end and the silky beard begin?"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.webber_beard_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_beard_yule"
+msgid "This delicious beard has a heavy sprinkling of holiday cheer."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.webber_boy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_boy"
 msgid "Webber's memories of his old appearance have gotten a little fuzzy over time."
@@ -314576,6 +314681,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.webber_wrestler
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_wrestler"
 msgid "Watch out for those luchadorable tiger claws."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.webber_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.webber_yule"
+msgid "Webber is the sweetest little spider you've ever seen!"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_combatant
@@ -314686,6 +314796,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_victorian"
 msgid "Wendy is the queen of socially mandated mourning practices."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wendy_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_yule"
+msgid "Despite her dour demeanor, Wendy has a soft spot for the holidays."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wes_clown
@@ -317503,6 +317618,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_walter_victorian"
 msgid "Paperboy Shirt"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_walter_yule
+msgctxt "STRINGS.SKIN_NAMES.body_walter_yule"
+msgid "O Tannenbaumer Jacket"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wanda_bishop
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_bishop"
 msgid "Clockwork Bishop Costume Top"
@@ -317923,6 +318043,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_webber_wrestler"
 msgid "El Tigre Cub Torso"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.body_webber_yule
+msgctxt "STRINGS.SKIN_NAMES.body_webber_yule"
+msgid "Gingerbread Body"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.body_wendy_cook
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_cook"
 msgid "Wendy's Gorge Garb"
@@ -318016,6 +318141,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.body_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.body_wendy_victorian"
 msgid "Mourning Weeds"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.body_wendy_yule
+msgctxt "STRINGS.SKIN_NAMES.body_wendy_yule"
+msgid "Festive Frock"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wes_clown
@@ -319288,6 +319418,11 @@ msgctxt "STRINGS.SKIN_NAMES.chester_walrus"
 msgid "Narwalrus Chester"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.coldfirepit_an
+msgctxt "STRINGS.SKIN_NAMES.coldfirepit_an"
+msgid "Nouveau Frigid Firepit"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.coldfirepit_flower
 msgctxt "STRINGS.SKIN_NAMES.coldfirepit_flower"
 msgid "Frostflower Firepit"
@@ -320233,6 +320368,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_walter_ventriloquist"
 msgid "Walk 'n' Talk Shoes"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.feet_walter_yule
+msgctxt "STRINGS.SKIN_NAMES.feet_walter_yule"
+msgid "Dressy Chestnut Loafers"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.feet_wanda_formal
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_formal"
 msgid "Polished Walking Shoes"
@@ -320421,6 +320561,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.feet_wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_wendy_victorian"
 msgid "Mourning Shoes"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.feet_wendy_yule
+msgctxt "STRINGS.SKIN_NAMES.feet_wendy_yule"
+msgid "Cranberry Booties"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.feet_wes_clown
@@ -321548,6 +321693,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wendy_victorian"
 msgid "Mourning Gloves"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.hand_wendy_yule
+msgctxt "STRINGS.SKIN_NAMES.hand_wendy_yule"
+msgid "Cranberry Gloves"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.hand_wes_gladiator
 msgctxt "STRINGS.SKIN_NAMES.hand_wes_gladiator"
 msgid "Duelist's Hand Covers"
@@ -322651,6 +322801,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.legs_walter_victorian
 msgctxt "STRINGS.SKIN_NAMES.legs_walter_victorian"
 msgid "Paperboy Trousers"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.legs_walter_yule
+msgctxt "STRINGS.SKIN_NAMES.legs_walter_yule"
+msgid "Tree Trimming Trousers"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.legs_wanda_nature
@@ -325123,6 +325278,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_starter_2023"
 msgid "Starter Pack 2023"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_starter_2024
+msgctxt "STRINGS.SKIN_NAMES.pack_starter_2024"
+msgid "Starter Pack 2024"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_sw_gift
 msgctxt "STRINGS.SKIN_NAMES.pack_sw_gift"
 msgid "Don't Starve: Shipwrecked Gift"
@@ -325276,6 +325436,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_walter_survivor
 msgctxt "STRINGS.SKIN_NAMES.pack_walter_survivor"
 msgid "Walter Survivor Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_walter_yule
+msgctxt "STRINGS.SKIN_NAMES.pack_walter_yule"
+msgid "Walter Merrymaker Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_wanda_deluxe
@@ -325463,6 +325628,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_webber_survivor"
 msgid "Webber Survivor Chest"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_webber_yule
+msgctxt "STRINGS.SKIN_NAMES.pack_webber_yule"
+msgid "Webber Merrymaker Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_wendy_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_wendy_deluxe"
 msgid "Wendy Deluxe Wardrobe"
@@ -325491,6 +325661,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pack_wendy_survivor
 msgctxt "STRINGS.SKIN_NAMES.pack_wendy_survivor"
 msgid "Wendy Survivor Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_wendy_yule
+msgctxt "STRINGS.SKIN_NAMES.pack_wendy_yule"
+msgid "Wendy Merrymaker Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_wes_deluxe
@@ -325923,6 +326098,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_yule_all2"
 msgid "Merrymaker Survivors Chest, Part II"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_yule_all3
+msgctxt "STRINGS.SKIN_NAMES.pack_yule_all3"
+msgid "Merrymaker Survivors Chest, Part III"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_yule_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_yule_bundle"
 msgid "Complete Merrymaker Chest"
@@ -325930,6 +326110,11 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.pack_yule_bundle2
 msgctxt "STRINGS.SKIN_NAMES.pack_yule_bundle2"
+msgid "Complete Merrymaker Chest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pack_yule_bundle3
+msgctxt "STRINGS.SKIN_NAMES.pack_yule_bundle3"
 msgid "Complete Merrymaker Chest"
 msgstr ""
 
@@ -326211,6 +326396,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.playerportrait_bg_cardinals
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_cardinals"
 msgid "Cardinal Portrait"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_coldfirepitan
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_coldfirepitan"
+msgid "Nouveau Frigid Firepit Portrait"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_coldfirepitteeth
@@ -326866,6 +327056,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_claywarg
 msgctxt "STRINGS.SKIN_NAMES.profileflair_claywarg"
 msgid "Clay Varg"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_coldfirepit_an
+msgctxt "STRINGS.SKIN_NAMES.profileflair_coldfirepit_an"
+msgid "Nouveau Frigid Firepit"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_coldfirepit_teeth
@@ -328993,6 +329188,11 @@ msgctxt "STRINGS.SKIN_NAMES.walter_victorian"
 msgid "The Victorian"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.walter_yule
+msgctxt "STRINGS.SKIN_NAMES.walter_yule"
+msgid "The Merrymaker"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.walterhat_bee
 msgctxt "STRINGS.SKIN_NAMES.walterhat_bee"
 msgid "Buzzy Boy Cap"
@@ -329046,6 +329246,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.walterhat_victorian
 msgctxt "STRINGS.SKIN_NAMES.walterhat_victorian"
 msgid "Paperboy Cap"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.walterhat_yule
+msgctxt "STRINGS.SKIN_NAMES.walterhat_yule"
+msgid "Tree Topper Cap"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wanda_bishop
@@ -329583,6 +329788,11 @@ msgctxt "STRINGS.SKIN_NAMES.webber_beard_wrestler"
 msgid "Silky El Tigre Cub Beard"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.webber_beard_yule
+msgctxt "STRINGS.SKIN_NAMES.webber_beard_yule"
+msgid "Silky Frosting Beard"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.webber_boy
 msgctxt "STRINGS.SKIN_NAMES.webber_boy"
 msgid "The Farmspider"
@@ -329681,6 +329891,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.webber_wrestler
 msgctxt "STRINGS.SKIN_NAMES.webber_wrestler"
 msgid "El Tigre Cub"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.webber_yule
+msgctxt "STRINGS.SKIN_NAMES.webber_yule"
+msgid "The Merrymaker"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wendy_combatant
@@ -329791,6 +330006,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wendy_victorian
 msgctxt "STRINGS.SKIN_NAMES.wendy_victorian"
 msgid "The Victorian"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wendy_yule
+msgctxt "STRINGS.SKIN_NAMES.wendy_yule"
+msgid "The Merrymaker"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wes_clown
@@ -331233,6 +331453,11 @@ msgctxt "STRINGS.SKIN_QUOTES.walter_victorian"
 msgid "\"Extra, extra! Read all about it!\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.walter_yule
+msgctxt "STRINGS.SKIN_QUOTES.walter_yule"
+msgid "\"Come on Woby, that Winter's Feast tree won't decorate itself!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wanda_bishop
 msgctxt "STRINGS.SKIN_QUOTES.wanda_bishop"
 msgid "\"This match will require a few more adjournments.\""
@@ -331693,6 +331918,11 @@ msgctxt "STRINGS.SKIN_QUOTES.webber_wrestler"
 msgid "\"Grrrr... We're scary!\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.webber_yule
+msgctxt "STRINGS.SKIN_QUOTES.webber_yule"
+msgid "\"We are what we eat... sweet!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wendy_combatant
 msgctxt "STRINGS.SKIN_QUOTES.wendy_combatant"
 msgid "\"Abigail and I never fight.\""
@@ -331796,6 +332026,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.wendy_victorian
 msgctxt "STRINGS.SKIN_QUOTES.wendy_victorian"
 msgid "\"I am in deepest mourning...\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wendy_yule
+msgctxt "STRINGS.SKIN_QUOTES.wendy_yule"
+msgid "\"I will try to summon up some holiday spirit... if I must.\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wickerbottom_combatant
