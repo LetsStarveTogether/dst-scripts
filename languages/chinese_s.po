@@ -31,6 +31,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.BUTTON"
 msgid "Press"
 msgstr "按"
 
+#. STRINGS.ACTIONS.ACTIVATE.CALM
+msgctxt "STRINGS.ACTIONS.ACTIVATE.CALM"
+msgid "Calm"
+msgstr ""
+
 #. STRINGS.ACTIONS.ACTIVATE.CLIMB
 msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
@@ -3440,6 +3445,11 @@ msgstr "他应该穿不上。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
 msgstr "鸟儿看起来都飞走了。"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "My stuffed toy isn't so scary."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
@@ -19811,6 +19821,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aw, looks like they all left..."
 msgstr "嗷，看来他们都走了……"
 
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "I guess I can't tell a stuffed bear what to do either."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "Wait, I'm not prepared yet!"
@@ -19866,6 +19881,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Darnit! I wasn't fast enough."
 msgstr "哎呀！我还是不够快。"
 
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -19873,6 +19893,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -29429,7 +29454,7 @@ msgstr "不要吃它，沃比！"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PIGHOUSE.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PIGHOUSE.BURNT"
 msgid "That's why you don't play with fire."
-msgstr "这就是为什么你应该玩火的原因。"
+msgstr "这就是为什么你不应该玩火的原因。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PIGHOUSE.FULL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PIGHOUSE.FULL"
@@ -35501,6 +35526,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Gone already? Time sure flies when you're having fun."
 msgstr "就没了吗？欢乐的时光总是那么短暂。"
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "I've no time for bears who don't listen."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "I can't just run in empty-handed!"
@@ -35561,6 +35591,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Oh come on, you want these worms don't you?"
 msgstr "来呀，你们不是最爱吃虫子吗？"
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -35568,6 +35603,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -51336,6 +51376,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The festivities seem to be over."
 msgstr "庆祝活动似乎已经结束。"
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Continue, monsieur Bernie!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "I think I am forgetting an important ingredient."
@@ -51396,6 +51441,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Zut! Too slow!"
 msgstr "啧！太慢了！"
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -51403,6 +51453,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -66276,6 +66331,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It seems the ravens hath returned to Odin."
 msgstr "渡鸦似乎回到了奥丁身边。"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "This beautiful beast only obeys its master."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "Thou wouldst send me into the fray unarmed?"
@@ -66336,6 +66396,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I must move with greater haste!"
 msgstr "我必须加快行动！"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -66343,6 +66408,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -81926,6 +81996,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Finally. It looks like the birds have dispersed."
 msgstr "看起来鸟儿们总算散去了。"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Willow, your abominable bear is running amok!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "If I'm going to humiliate myself, I can at least do it properly."
@@ -81986,6 +82061,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Those blasted things move too fast!"
 msgstr "那些该死的东西移动得太快了！"
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -81998,6 +82078,11 @@ msgstr "恐怕我的意志受不了那种重压……"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -97646,6 +97731,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, did all the birds leave?"
 msgstr "啊，所有的鸟都离开了吗？"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Bernie still wants to play!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "We need a pillow first!"
@@ -97726,6 +97816,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Aw, we weren't fast enough."
 msgstr "噢，我们不够快啊。"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -97733,6 +97828,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -112364,7 +112464,7 @@ msgstr "我们就说闻到了烧焦味。"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.GENERIC"
 msgid "Mother said I could never sit still."
-msgstr "妈妈说我们总是坐不住。"
+msgstr "妈妈说我总是坐不住。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOOD_CHAIR.OCCUPIED"
@@ -113296,6 +113396,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "The ravens have deserted this place... I think I'll miss them."
 msgstr "乌鸦们已经抛弃了这个地方……我想我会想念它们的。"
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "It's doing what it does best."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "I don't even have a pillow to fight with..."
@@ -113356,6 +113461,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I was too late..."
 msgstr "我也来晚了……"
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -113363,6 +113473,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -128413,7 +128528,7 @@ msgstr "它要供品。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC"
-msgid "The highest honor this beast of burden will likely ever recieve."
+msgid "The highest honor this beast of burden will likely ever receive."
 msgstr "这头驮重物的野兽能获得最高荣誉。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALO_DOLL_BEAST.GENERIC
@@ -128981,6 +129096,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "How disappointing, the corvids seem to have migrated elsewhere."
 msgstr "多么令人失望啊，这些鸟类似乎已经迁移到其他地方了。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "This monstrous animated teddy bear is loyal only to our dear Willow."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "I will require a pillow to participate."
@@ -129041,6 +129161,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Oh dear, I wasn't quite fast enough."
 msgstr "哦，亲爱的，我还不够快。"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -129048,6 +129173,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -144660,6 +144790,11 @@ msgstr "不要，还是穿在我身上好看。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Aww, looks like they all left."
 msgstr "嗷，看起来他们都离开了。"
+
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Sorry. Wrong Bernie. As you were."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
@@ -160326,6 +160461,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like the party's over. Back to work, everyone!"
 msgstr "看起来派对结束了。大家回去工作吧!"
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Whoa. Take it easy, big fella."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "Err, I think I'm missin' something."
@@ -160386,6 +160526,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Shoot! I've gotta be faster next time!"
 msgstr "没弄好！下一次我一定要更快！"
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -160393,6 +160538,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -176011,6 +176161,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Looks like birds move carnival somewhere else."
 msgstr "看来鸟儿们把嘉年华搬到了别的地方。"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Giant murder bear only follow to tiny torchlady."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "Wolfgang needs pillow for fighting!"
@@ -176071,6 +176226,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Little bird is too fast!"
 msgstr "小鸟太快了！"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -176078,6 +176238,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -180443,8 +180608,8 @@ msgstr "恐怖的野兽雕像！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER_MUTATED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER_MUTATED"
-msgid "Wolfgang stronger than bear. Just have off day."
-msgstr "沃尔夫冈比熊还强壮。只是有时候状态不好。"
+msgid "Wolfgang stronger than bear. Even weird bear."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEEFALO"
@@ -191691,6 +191856,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Whew, those birds finally skedaddled."
 msgstr "呼，那些鸟儿终于散了。"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Uh, Willow? Might wanna take control of your bear, eh?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "I should grab a pillow first, eh?"
@@ -191751,6 +191921,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Guess I wasn't quick enough."
 msgstr "看来我还不够快。"
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -191758,6 +191933,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -207321,6 +207501,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Tweeters? Aww..."
 msgstr "啾啾？嗷……"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Big Squishy Friend only hear Willow"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "Oh. Need head planter"
@@ -207381,6 +207566,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Too slow"
 msgstr "太慢了"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -207388,6 +207578,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -214553,7 +214748,7 @@ msgstr "坏掉了"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KOALEFANT_CARCASS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KOALEFANT_CARCASS"
-msgid "Braump...? Not anymore"
+msgid "Bruamp...? Not anymore"
 msgstr "咣当……？没了"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KOALEFANT_SUMMER
@@ -222996,6 +223191,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "They've come and gone, were they but a dream all along?"
 msgstr "它们来了又走了，会不会只是梦幻泡影？"
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Willow! What are you doin' while your bruin causes such ruin?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "A pillow must be promptly procured."
@@ -223056,6 +223256,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Oh ho, too slow!"
 msgstr "啊哈，太慢了！"
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -223063,6 +223268,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -238676,6 +238886,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Huh? Where the Birdfolk go?"
 msgstr "哈？鸟人去哪里了？"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "Where fire lady? Big bear not listen!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "WAIT!! Forgot pillow!"
@@ -238736,6 +238951,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "Slow down, birdies!"
 msgstr "慢点，鸟儿！"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -238743,6 +238963,11 @@ msgstr "only_used_by_willow"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -254451,6 +254676,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "THEY WILL NOT BE MISSED"
 msgstr "没人会想它们"
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
+msgid "OBEY ME, BEAR!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
 msgid "ERROR: PILLOW REQUIRED FOR COMBAT"
@@ -254511,6 +254741,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
 msgid "I MISSED THAT ON PURPOSE"
 msgstr "我故意错过的"
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NOT_ENOUGH_EMBERS"
 msgid "only_used_by_willow"
@@ -254523,6 +254758,11 @@ msgstr "only_used_by_waxwell"
 
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NO_TARGETS
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.NO_TARGETS"
+msgid "only_used_by_willow"
+msgstr "only_used_by_willow"
+
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN
+msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.CASTAOE.SPELL_ON_COOLDOWN"
 msgid "only_used_by_willow"
 msgstr "only_used_by_willow"
 
@@ -278939,17 +279179,17 @@ msgstr "种子包"
 #. STRINGS.NAMES.CARNIVAL_VEST_A
 msgctxt "STRINGS.NAMES.CARNIVAL_VEST_A"
 msgid "Chirpy Scarf"
-msgstr "叽啾啾喳围巾"
+msgstr "叽叽喳喳围巾"
 
 #. STRINGS.NAMES.CARNIVAL_VEST_B
 msgctxt "STRINGS.NAMES.CARNIVAL_VEST_B"
 msgid "Chirpy Cloak"
-msgstr "叽啾啾喳斗篷"
+msgstr "叽叽喳喳斗篷"
 
 #. STRINGS.NAMES.CARNIVAL_VEST_C
 msgctxt "STRINGS.NAMES.CARNIVAL_VEST_C"
 msgid "Chirpy Capelet"
-msgstr "叽啾啾喳小披肩"
+msgstr "叽叽喳喳小披肩"
 
 #. STRINGS.NAMES.CARPENTRY_STATION
 msgctxt "STRINGS.NAMES.CARPENTRY_STATION"
@@ -280419,7 +280659,7 @@ msgstr "漩涡种子"
 #. STRINGS.NAMES.EMBERLIGHT
 msgctxt "STRINGS.NAMES.EMBERLIGHT"
 msgid "Fire Ball"
-msgstr "火球术"
+msgstr "火球"
 
 #. STRINGS.NAMES.ENDTABLE
 msgctxt "STRINGS.NAMES.ENDTABLE"
@@ -290714,7 +290954,7 @@ msgstr "火球术（2余烬）"
 #. STRINGS.PYROMANCY.FIRE_BURST
 msgctxt "STRINGS.PYROMANCY.FIRE_BURST"
 msgid "Combustion (4 Embers)"
-msgstr "燃烧术(4余烬)"
+msgstr "燃烧术（4余烬）"
 
 #. STRINGS.PYROMANCY.FIRE_FRENZY
 msgctxt "STRINGS.PYROMANCY.FIRE_FRENZY"
@@ -291308,8 +291548,8 @@ msgstr "用言语扔一个番茄。"
 
 #. STRINGS.RECIPE_DESC.BATTLESONG_LUNARALIGNED
 msgctxt "STRINGS.RECIPE_DESC.BATTLESONG_LUNARALIGNED"
-msgid "Ward yourself and your allies against shadowy foes."
-msgstr "帮自己和盟友抵御暗影敌人。"
+msgid "Ward yourself and your allies against lunar attacks, and deal heavier blows to shadowy foes."
+msgstr ""
 
 #. STRINGS.RECIPE_DESC.BATTLESONG_SANITYAURA
 msgctxt "STRINGS.RECIPE_DESC.BATTLESONG_SANITYAURA"
@@ -291323,8 +291563,8 @@ msgstr "用歌声慰藉你的心灵。"
 
 #. STRINGS.RECIPE_DESC.BATTLESONG_SHADOWALIGNED
 msgctxt "STRINGS.RECIPE_DESC.BATTLESONG_SHADOWALIGNED"
-msgid "Ward yourself and your allies against lunar foes."
-msgstr "帮自己和盟友抵御月亮敌人。"
+msgid "Ward yourself and your allies against shadow attacks, and deal heavier blows to lunar foes."
+msgstr ""
 
 #. STRINGS.RECIPE_DESC.BEARGERFUR_SACK
 msgctxt "STRINGS.RECIPE_DESC.BEARGERFUR_SACK"
@@ -297224,7 +297464,7 @@ msgstr "好像有人在这里工作。不管他们在做什么，我猜他们已
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGSTAFF_MUTATIONS_NOTE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGSTAFF_MUTATIONS_NOTE"
 msgid "\n\"Day 56 - Lunar Mutations Study\"\n\n\"It seems as though these strange entities that emerged from the rifts are in search of living hosts... or perhaps once living.\"\n\n\"NOTE: The following creatures warrant immediate study as I suspect they may be the most viable as hosts:\"\n\n• Frog\n• Pengull\n• Varg\n• Koalefant\n• Deerclops\n\n\"Other possible Rift entity host candidates:\"\n\n• Grass Gekko\n• Hound\n• Bearger\n• Mosling\n"
-msgstr "\n“第56天——月球变异研究”\n\n“似乎这些从裂隙中出现的奇怪生物正在寻找活的宿主……或者曾经活过的宿主”\n\n“注意：务必立即开展以下生物的研究，因为我怀疑它们可能是最可行的宿主：”\n\n• 青蛙\n• 企鸥\n• 座狼\n• 考拉象\n• 独眼巨鹿\n\n“其他裂隙主体的候选宿主：”\n\n• 草壁虎\n• 猎犬\n• 熊獾\n• 麋鹿鹅"
+msgstr "\n“第56天——月球变异研究”\n\n“似乎这些从裂隙中出现的奇怪生物正在寻找活的宿主……或者曾经活过的宿主”\n\n“注意：务必立即开展以下生物的研究，因为我怀疑它们可能是最可行的宿主：”\n\n• 青蛙\n• 企鸥\n• 座狼\n• 考拉象\n• 独眼巨鹿\n\n“其他裂隙实体的候选宿主：”\n\n• 草壁虎\n• 猎犬\n• 熊獾\n• 麋鹿鹅"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGSTAFF_TOOL
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGSTAFF_TOOL"
@@ -309144,7 +309384,7 @@ msgstr "这个沃姆伍德箱子包含了游戏角色：孤独者——沃姆伍
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wortox
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wortox"
 msgid "This Wortox Chest contains the playable character, Wortox: The Soul Starved, as well as Wortox's complete set of Survivor skin items."
-msgstr "这个沃拓克斯箱子包含了游戏角色：噬魂者——沃拓克斯，还有沃拓克斯的全套幸存者皮肤物品。"
+msgstr "这个沃拓克斯箱子包含了游戏角色：噬魂者——沃拓克斯，还有沃拓克斯的全套冒险家皮肤物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wurt
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wurt"
@@ -310894,7 +311134,7 @@ msgstr "这个欢乐箱子里包含了完整的欢乐系列冒险家和财物皮
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle2"
 msgid "This Merrymaker Chest contains the complete Merrymaker series of survivor and belonging skins."
-msgstr "这个欢乐箱子里包含了完整的欢乐系列幸存者和财物皮肤。"
+msgstr "这个欢乐箱子里包含了完整的欢乐系列冒险家和财物皮肤。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_yule_bundle3"
@@ -313393,7 +313633,7 @@ msgstr "以闪电的速度向敌人发起突袭。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_wrestle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_charged_wrestle"
-msgid "The weilder of this weapon is sure to recieve thunderous applause in the ring."
+msgid "The weilder of this weapon is sure to receive thunderous applause in the ring."
 msgstr "使这武器的人一定会在擂台上赢得雷鸣般的掌声。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_lunar
@@ -313413,7 +313653,7 @@ msgstr "以闪电的速度向敌人发起突袭。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_wrestle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lightning_wrestle"
-msgid "The weilder of this weapon is sure to recieve thunderous applause in the ring."
+msgid "The weilder of this weapon is sure to receive thunderous applause in the ring."
 msgstr "使这武器的人一定会在擂台上赢得雷鸣般的掌声。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_lunar
@@ -314404,7 +314644,7 @@ msgstr "这位风险投资人的资产已经被完全冻结。"
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_krampus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_krampus"
 msgid "Krampwell Costume"
-msgstr "克朗普韦尔装束"
+msgstr "坎普威尔装束"
 
 #. STRINGS.SKIN_DESCRIPTIONS.waxwell_krampus_d
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waxwell_krampus_d"
@@ -314959,7 +315199,7 @@ msgstr "不跟冬季女王作对，才是明智之举。"
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_lightninggoat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_lightninggoat"
 msgid "Ms. Voltbottom Costume"
-msgstr "伏特博顿女士装束"
+msgstr "伏特巴顿女士装束"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_lightninggoat_d
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_lightninggoat_d"
@@ -325814,7 +326054,7 @@ msgstr "薇诺娜凯旋箱子"
 #. STRINGS.SKIN_NAMES.pack_winona_survivor
 msgctxt "STRINGS.SKIN_NAMES.pack_winona_survivor"
 msgid "Winona Survivor Chest"
-msgstr "薇诺娜幸存者箱子"
+msgstr "薇诺娜冒险家箱子"
 
 #. STRINGS.SKIN_NAMES.pack_wizard_items
 msgctxt "STRINGS.SKIN_NAMES.pack_wizard_items"
@@ -329444,12 +329684,12 @@ msgstr "独眼巨鹿的服饰"
 #. STRINGS.SKIN_NAMES.wathgrithr_deerclops_d
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_deerclops_d"
 msgid "Deerfrid Mask"
-msgstr "独眼巨鹿面罩"
+msgstr "巨鹿弗德面罩"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_deerclops_p
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_deerclops_p"
 msgid "Deerfrid Mask"
-msgstr "独眼巨鹿面罩"
+msgstr "巨鹿弗德面罩"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_formal
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_formal"
@@ -329619,12 +329859,12 @@ msgstr "坎普斯的服饰"
 #. STRINGS.SKIN_NAMES.waxwell_krampus_d
 msgctxt "STRINGS.SKIN_NAMES.waxwell_krampus_d"
 msgid "Krampwell Head"
-msgstr "克朗普韦尔之颅"
+msgstr "坎普威尔之颅"
 
 #. STRINGS.SKIN_NAMES.waxwell_krampus_p
 msgctxt "STRINGS.SKIN_NAMES.waxwell_krampus_p"
 msgid "Krampwell Head"
-msgstr "克朗普韦尔之颅"
+msgstr "坎普威尔之颅"
 
 #. STRINGS.SKIN_NAMES.waxwell_lunar
 msgctxt "STRINGS.SKIN_NAMES.waxwell_lunar"
@@ -330059,12 +330299,12 @@ msgstr "曼德拉草的服饰"
 #. STRINGS.SKIN_NAMES.wes_mandrake_d
 msgctxt "STRINGS.SKIN_NAMES.wes_mandrake_d"
 msgid "Wesdrake Makeup"
-msgstr "曼德拉维斯妆"
+msgstr "曼德拉韦斯妆"
 
 #. STRINGS.SKIN_NAMES.wes_mandrake_p
 msgctxt "STRINGS.SKIN_NAMES.wes_mandrake_p"
 msgid "Wesdrake Makeup"
-msgstr "曼德拉维斯妆"
+msgstr "曼德拉韦斯妆"
 
 #. STRINGS.SKIN_NAMES.wes_masquerade
 msgctxt "STRINGS.SKIN_NAMES.wes_masquerade"
@@ -330174,12 +330414,12 @@ msgstr "伏特羊的服饰"
 #. STRINGS.SKIN_NAMES.wickerbottom_lightninggoat_d
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_lightninggoat_d"
 msgid "Ms. Voltbottom Antlers"
-msgstr "伏特博顿女士的羊角"
+msgstr "伏特巴顿女士的羊角"
 
 #. STRINGS.SKIN_NAMES.wickerbottom_lightninggoat_p
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_lightninggoat_p"
 msgid "Ms. Voltbottom Antlers"
-msgstr "伏特博顿女士之羊角"
+msgstr "伏特巴顿女士之羊角"
 
 #. STRINGS.SKIN_NAMES.wickerbottom_lunar
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_lunar"
@@ -330819,7 +331059,7 @@ msgstr "冒险家"
 #. STRINGS.SKIN_NAMES.wolfgang_survivorp
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_survivorp"
 msgid "The Survivor"
-msgstr "幸存者"
+msgstr "冒险家"
 
 #. STRINGS.SKIN_NAMES.wolfgang_victorian
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_victorian"
@@ -336604,7 +336844,7 @@ msgstr "从此大家过上了幸福的生活，故事完。"
 #. STRINGS.STAGEACTOR.WX1.1
 msgctxt "STRINGS.STAGEACTOR.WX1.1"
 msgid "PERCEIVE ME, FLESHLINGS"
-msgstr "觉察到我吧，肉体生物们"
+msgstr "注意我，肉体生物们。"
 
 #. STRINGS.STAGEACTOR.WX1.10
 msgctxt "STRINGS.STAGEACTOR.WX1.10"
@@ -336614,12 +336854,12 @@ msgstr "我故意保持了低期望"
 #. STRINGS.STAGEACTOR.WX1.11
 msgctxt "STRINGS.STAGEACTOR.WX1.11"
 msgid "IS THE INSPIRATION WORKING YET?"
-msgstr "灵感奏效了吗？"
+msgstr "激励奏效了吗？"
 
 #. STRINGS.STAGEACTOR.WX1.2
 msgctxt "STRINGS.STAGEACTOR.WX1.2"
 msgid "YES. GOOD"
-msgstr "是的。好的"
+msgstr "没错。很好。"
 
 #. STRINGS.STAGEACTOR.WX1.3
 msgctxt "STRINGS.STAGEACTOR.WX1.3"
@@ -347489,7 +347729,7 @@ msgstr "按{inv_0}-{inv_9}可以快捷使用你主要物品栏中的物品。"
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS_NOT_CONSOLE.TIP_PLAYER_STATUS"
 msgid "Keep tabs on your fellow Survivors by pressing the {playerstatus} key."
-msgstr "按{playerstatus}键查看同行幸存者的状态。"
+msgstr "按{playerstatus}键查看同行冒险家的状态。"
 
 #. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE
 msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_DARKNESS_CHARLIE"
