@@ -67809,7 +67809,7 @@ msgstr "“拇指怦怦动，必有恶人来！”"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_REVIVE_BUFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_REVIVE_BUFF"
 msgid "\"Death, a necessary end, will come when it will come,\" but not today, my allies!"
-msgstr "死亡乃是必然的结局，要到来总是要到来的，但不是今天，我的盟友们！"
+msgstr "“死亡乃是必然的结局，要到 来总是要到来的，”但不是今天，我的盟友们！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_TAUNT_BUFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_TAUNT_BUFF"
@@ -301004,7 +301004,7 @@ msgstr "马鲛鱼神啊，这可是个大家伙。"
 #. STRINGS.SHARKBOI_ACCEPT_OCEANFISH.1
 msgctxt "STRINGS.SHARKBOI_ACCEPT_OCEANFISH.1"
 msgid "NOW, THAT IS A BEAUTIFUL FISH."
-msgstr "鱼，你太美。"
+msgstr "好俊的鱼啊！"
 
 #. STRINGS.SHARKBOI_REFUSE_EMPTY.1
 msgctxt "STRINGS.SHARKBOI_REFUSE_EMPTY.1"
@@ -316511,6 +316511,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_feathered"
 msgid "A shovel for the self-reliant adventurer."
 msgstr "为自力更生的冒险家准备的一把铲子。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.shovel_heart
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_heart"
+msgid "Just the thing to help bury those pesky feelings."
+msgstr "用来埋葬那些讨厌的情绪。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_invisible"
 msgid "Convey an incredibly convincing impression of a shovel."
@@ -331855,6 +331860,11 @@ msgstr "家纺种子袋"
 msgctxt "STRINGS.SKIN_NAMES.shovel_feathered"
 msgid "Hunters Shovel"
 msgstr "猎人铲子"
+
+#. STRINGS.SKIN_NAMES.shovel_heart
+msgctxt "STRINGS.SKIN_NAMES.shovel_heart"
+msgid "Heart Spade"
+msgstr "红桃铲子"
 
 #. STRINGS.SKIN_NAMES.shovel_invisible
 msgctxt "STRINGS.SKIN_NAMES.shovel_invisible"

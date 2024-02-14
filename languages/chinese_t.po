@@ -67809,7 +67809,7 @@ msgstr "“拇指怦怦動，必有惡人來！”"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_REVIVE_BUFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_REVIVE_BUFF"
 msgid "\"Death, a necessary end, will come when it will come,\" but not today, my allies!"
-msgstr "死亡乃是必然的結局，要到來總是要到來的，但不是今天，我的盟友們！"
+msgstr "“死亡乃是必然的結局，要到 來總是要到來的，”但不是今天，我的盟友們！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_TAUNT_BUFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BATTLESONG_INSTANT_TAUNT_BUFF"
@@ -135579,7 +135579,7 @@ msgstr "雖然確實很漂亮，但沒什麼實際作用。"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DECOR_FLOWERVASE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DECOR_FLOWERVASE.EMPTY"
 msgid "Ah, could use a doily, wouldn't you say?"
-msgstr "啊，可以用一張小墊補，你不是說這樣嗎？"
+msgstr "啊，可以加個小墊子，不是嗎？"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DECOR_FLOWERVASE.FRESHLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DECOR_FLOWERVASE.FRESHLIGHT"
@@ -301004,7 +301004,7 @@ msgstr "馬鮫魚神啊，這可是個大傢伙。"
 #. STRINGS.SHARKBOI_ACCEPT_OCEANFISH.1
 msgctxt "STRINGS.SHARKBOI_ACCEPT_OCEANFISH.1"
 msgid "NOW, THAT IS A BEAUTIFUL FISH."
-msgstr "魚，你太美。"
+msgstr "好俊的魚啊！"
 
 #. STRINGS.SHARKBOI_REFUSE_EMPTY.1
 msgctxt "STRINGS.SHARKBOI_REFUSE_EMPTY.1"
@@ -316511,6 +316511,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_feathered"
 msgid "A shovel for the self-reliant adventurer."
 msgstr "為自力更生的冒險家準備的一把鏟子。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.shovel_heart
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_heart"
+msgid "Just the thing to help bury those pesky feelings."
+msgstr "用來埋葬那些討厭的情緒。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_invisible"
 msgid "Convey an incredibly convincing impression of a shovel."
@@ -331855,6 +331860,11 @@ msgstr "家紡種子袋"
 msgctxt "STRINGS.SKIN_NAMES.shovel_feathered"
 msgid "Hunters Shovel"
 msgstr "獵人鏟子"
+
+#. STRINGS.SKIN_NAMES.shovel_heart
+msgctxt "STRINGS.SKIN_NAMES.shovel_heart"
+msgid "Heart Spade"
+msgstr "紅桃鏟子"
 
 #. STRINGS.SKIN_NAMES.shovel_invisible
 msgctxt "STRINGS.SKIN_NAMES.shovel_invisible"
