@@ -296640,7 +296640,7 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.ARMOR_LUNARPLANT_HUSK
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_LUNARPLANT_HUSK"
-msgid "Feel the wrath of a full plantkin"
+msgid "Become the prickliest of them all."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.ARMOR_SANITY
@@ -301500,7 +301500,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.DRAGONFLYFURNACE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.DRAGONFLYFURNACE"
-msgid "Provides a small amount of light and a large amount of heat like a campfire."
+msgid "Provides a small amount of light and a large amount of heat like a campfire. It may also be used to destroy items."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.DREADSTONEHAT
@@ -352846,6 +352846,11 @@ msgstr ""
 #. STRINGS.UI.HUD.DEPLOY
 msgctxt "STRINGS.UI.HUD.DEPLOY"
 msgid "Deploy"
+msgstr ""
+
+#. STRINGS.UI.HUD.DESTROY
+msgctxt "STRINGS.UI.HUD.DESTROY"
+msgid "Destroy"
 msgstr ""
 
 #. STRINGS.UI.HUD.DROP
