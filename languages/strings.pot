@@ -953,6 +953,11 @@ msgctxt "STRINGS.ACTIONS.HITCHUP"
 msgid "Hitch to"
 msgstr ""
 
+#. STRINGS.ACTIONS.INCINERATE
+msgctxt "STRINGS.ACTIONS.INCINERATE"
+msgid "Destroy"
+msgstr ""
+
 #. STRINGS.ACTIONS.INSTALL
 msgctxt "STRINGS.ACTIONS.INSTALL"
 msgid "Install"
@@ -353636,11 +353641,6 @@ msgstr ""
 #. STRINGS.UI.HUD.DEPLOY
 msgctxt "STRINGS.UI.HUD.DEPLOY"
 msgid "Deploy"
-msgstr ""
-
-#. STRINGS.UI.HUD.DESTROY
-msgctxt "STRINGS.UI.HUD.DESTROY"
-msgid "Destroy"
 msgstr ""
 
 #. STRINGS.UI.HUD.DROP
