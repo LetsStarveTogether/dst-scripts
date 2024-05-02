@@ -141419,7 +141419,7 @@ msgstr "豬王的饋贈。"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN"
 msgid "How did they manage to achieve such detail using pig hooves?"
-msgstr ""
+msgstr "他們是如何用豬蹄實現此等細節的？"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE"
@@ -223868,12 +223868,12 @@ msgstr "好疼！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN"
-msgid "Help! Grabby friend is hurt!"
+msgid "Help! Grabby Friend is hurt!"
 msgstr "救命啊！撿東西的朋友受傷了！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC"
-msgid "Go, grabby friend!"
+msgid "Go, Grabby Friend!"
 msgstr "加油，撿東西的朋友！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STRAWHAT
@@ -303499,7 +303499,7 @@ msgstr "地皮"
 #. STRINGS.SCRAPBOOK.SUBCATS.UPGRADEMODULE
 msgctxt "STRINGS.SCRAPBOOK.SUBCATS.UPGRADEMODULE"
 msgid "Upgrade Module"
-msgstr "更新模組"
+msgstr "升級模組"
 
 #. STRINGS.SCRAPBOOK.SUBCATS.WAGSTAFFTOOL
 msgctxt "STRINGS.SCRAPBOOK.SUBCATS.WAGSTAFFTOOL"
@@ -306985,6 +306985,11 @@ msgstr "時間和呵護能修補每一顆心。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye"
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
 msgstr "此重生護符由戰鬥大師普格納的熔爐鍛造。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.amulet_red_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_rose"
+msgid "Some roses rebloom while others wilt and die."
+msgstr "有玫開二度，就有玫謝花事了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an"
@@ -314266,6 +314271,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dragonfly_yule"
 msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
 msgstr "岩漿在寒冷的冬夜燃燒，\n盛宴龍蠅在熾熱的火焰中飛翔。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_drama
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_drama"
+msgid "Who is ready to step out into the spotlight?"
+msgstr "準備好走進聚光燈了嗎？"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_dst10_signed
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dst10_signed"
 msgid "Celebrate ten years of surviving the- oh how embarrassing, some hooligans have scribbled their names all over it!"
@@ -314456,6 +314466,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast"
 msgid "\"We're super excited to watch everyone open the presents we got them.\""
 msgstr "\"看到大家打開我們送的禮物，我們感到超級興奮。\""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_webber_sad
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_sad"
+msgid "Listen well children, and mind the warnings of your parents... naughtiness always comes back to bite you in the end."
+msgstr "小朋友，別把大人的告誡當耳邊風……淘氣胡鬧終究會從後面咬你一口。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer"
 msgid "Some things simply can't be undone."
@@ -314641,6 +314656,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood2_trailer"
 msgid "Every story has a beginning. Every sprout was once a small seed."
 msgstr "每個故事都有開始；每個萌芽都曾經是一顆小種子。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wormwood3_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood3_trailer"
+msgid "The jungle is home to many fascinating plant and animal species."
+msgstr "叢林是許多迷人的動物和植物物種的家園。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer"
 msgid "When Wormwood begins to feel too lonely, he knows he can always go back to his roots."
@@ -314680,6 +314700,11 @@ msgstr "WX-78強烈的想要燃燒。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_trailer"
 msgid "After being confronted with a rush of memories from their past life, WX-78 quickly took matters into their own hands..."
 msgstr "突然回想起前世的記憶後，WX-78很快就決定自己來改變自己的命運。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.magician_chest_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.magician_chest_shadow"
+msgid "This devious depository can only be the work of dark magic."
+msgstr "這個狡詐的儲藏器具只可能是黑魔法的傑作。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_crabking
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking"
@@ -315110,6 +315135,11 @@ msgstr "小心別感冒。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice_alt"
 msgid "Try not to catch a cold."
 msgstr "小心別感冒。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_nautical"
+msgid "With this rod at the ready, the world is your oyster."
+msgstr "這條釣竿在手，世界就是你的牡蠣。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient"
@@ -317211,6 +317241,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue"
 msgid "Equip this item to change your character's background portrait."
 msgstr "裝備此物品以更改你的角色背景畫像。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletredrose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletredrose"
+msgid "Equip this item to change your character's background portrait."
+msgstr "裝備此物品以更改你的角色背景畫像。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletyellowan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletyellowan"
 msgid "Equip this item to change your character's background portrait."
@@ -317870,6 +317905,11 @@ msgstr "你用澆水壺澆水能跟考拉象澆水相提並論嗎？"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
 msgstr "將你的頭像設為阿比蓋爾之花。\n\n阿比蓋爾之花是溫蒂那去世的孿生姐妹的唯一紀念品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_red_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_red_rose"
+msgid "Set your profile icon to a Rosy Red Amulet."
+msgstr "將你的角色圖示設為玫瑰紅護符。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_yellowan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_yellowan"
@@ -319145,6 +319185,11 @@ msgstr "適合憂鬱煉金術士的惆悵風格。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod"
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
 msgstr "這個打印艙使用太空時代的打印技術，進行非太空時代的煉金術。真時髦！"
+
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab2_science
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_science"
+msgid "Some might say that storing unstable chemicals next to a running engine is a \"bad idea\", but these people simply lack your vision."
+msgstr "也許有人會說，把不穩定化學品存放在運轉的發動機旁是個“餿主意”，但這些人顯然不具備你的遠見。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient"
@@ -322279,7 +322324,7 @@ msgstr "沃特開始不那麼抗拒擁有皮毛了。"
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_masquerade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_masquerade"
 msgid "Wurt is the swamplife of any party."
-msgstr ""
+msgstr "沃特在任何派對都是沼澤之星。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_nature"
@@ -322620,6 +322665,11 @@ msgstr "克萊門特生命護符"
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_occulteye"
 msgid "Clairvoyant Life Amulet"
 msgstr "洞悉生命護符"
+
+#. STRINGS.SKIN_NAMES.amulet_red_rose
+msgctxt "STRINGS.SKIN_NAMES.amulet_red_rose"
+msgid "Rosy Red Amulet"
+msgstr "玫瑰紅護符"
 
 #. STRINGS.SKIN_NAMES.amulet_yellow_an
 msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_an"
@@ -325653,7 +325703,7 @@ msgstr "青蛙捕蟲網"
 
 #. STRINGS.SKIN_NAMES.bugnet_lavaproof
 msgctxt "STRINGS.SKIN_NAMES.bugnet_lavaproof"
-msgid "Lavaproof Bugnet"
+msgid "Lavaproof Bug Net"
 msgstr "防熔岩蟲網"
 
 #. STRINGS.SKIN_NAMES.bugnet_spider
@@ -329901,6 +329951,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_dragonfly_yule"
 msgid "Winter's Feastfly"
 msgstr "冬季盛宴龍蠅"
 
+#. STRINGS.SKIN_NAMES.loading_drama
+msgctxt "STRINGS.SKIN_NAMES.loading_drama"
+msgid "A Little Drama"
+msgstr "一出小戲"
+
 #. STRINGS.SKIN_NAMES.loading_dst10_signed
 msgctxt "STRINGS.SKIN_NAMES.loading_dst10_signed"
 msgid "10th Anniversary (Signed)"
@@ -330091,6 +330146,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_webber_feast"
 msgid "Wrapping Webber"
 msgstr "包禮物的韋伯"
 
+#. STRINGS.SKIN_NAMES.loading_webber_sad
+msgctxt "STRINGS.SKIN_NAMES.loading_webber_sad"
+msgid "Along Came a Spider"
+msgstr "來了一隻蜘蛛"
+
 #. STRINGS.SKIN_NAMES.loading_webber_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_webber_trailer"
 msgid "No Way Back"
@@ -330276,6 +330336,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wormwood2_trailer"
 msgid "The Seed"
 msgstr "種子"
 
+#. STRINGS.SKIN_NAMES.loading_wormwood3_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wormwood3_trailer"
+msgid "Flora and Fauna"
+msgstr "植物群和獸群"
+
 #. STRINGS.SKIN_NAMES.loading_wormwood_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_wormwood_trailer"
 msgid "Lunar Roots"
@@ -330315,6 +330380,11 @@ msgstr "岩漿機器人"
 msgctxt "STRINGS.SKIN_NAMES.loading_wx_trailer"
 msgid "Disconnected"
 msgstr "已斷開連接"
+
+#. STRINGS.SKIN_NAMES.magician_chest_shadow
+msgctxt "STRINGS.SKIN_NAMES.magician_chest_shadow"
+msgid "Nightmarish Magician's Chest"
+msgstr "夢魘魔術師箱子"
 
 #. STRINGS.SKIN_NAMES.mast_crabking
 msgctxt "STRINGS.SKIN_NAMES.mast_crabking"
@@ -330745,6 +330815,11 @@ msgstr "寒冰釣竿"
 msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_ice_alt"
 msgid "Ice Fishing Rod"
 msgstr "寒冰釣竿"
+
+#. STRINGS.SKIN_NAMES.oceanfishingrod_nautical
+msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_nautical"
+msgid "Scalloped Fishing Rod"
+msgstr "扇貝釣竿"
 
 #. STRINGS.SKIN_NAMES.orangestaff_ancient
 msgctxt "STRINGS.SKIN_NAMES.orangestaff_ancient"
@@ -332846,6 +332921,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue"
 msgid "Beast of Hunger Portrait"
 msgstr "饑餓之獸背景"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_amuletredrose
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_amuletredrose"
+msgid "Rosy Red Amulet Portrait"
+msgstr "玫瑰紅護符背景"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_amuletyellowan
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_amuletyellowan"
 msgid "Nouveau Amulet Portrait"
@@ -333505,6 +333585,11 @@ msgstr "考拉象澆水壺"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
 msgstr "阿比蓋爾之花"
+
+#. STRINGS.SKIN_NAMES.profileflair_amulet_red_rose
+msgctxt "STRINGS.SKIN_NAMES.profileflair_amulet_red_rose"
+msgid "Rosy Red Amulet"
+msgstr "玫瑰紅護符"
 
 #. STRINGS.SKIN_NAMES.profileflair_amulet_yellowan
 msgctxt "STRINGS.SKIN_NAMES.profileflair_amulet_yellowan"
@@ -334780,6 +334865,11 @@ msgstr "哥特煉金窖"
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_pod"
 msgid "Alchemy Pod"
 msgstr "煉金列印艙"
+
+#. STRINGS.SKIN_NAMES.researchlab2_science
+msgctxt "STRINGS.SKIN_NAMES.researchlab2_science"
+msgid "All-Chemical Engine"
+msgstr "全化學引擎"
 
 #. STRINGS.SKIN_NAMES.researchlab3_ancient
 msgctxt "STRINGS.SKIN_NAMES.researchlab3_ancient"
@@ -339093,8 +339183,8 @@ msgstr "\"幽默感失衡是百病之源。\""
 
 #. STRINGS.SKIN_QUOTES.wilson_yule
 msgctxt "STRINGS.SKIN_QUOTES.wilson_yule"
-msgid "\"After some experimentation, I think I've discovered the perfect ratio between holly and jolly.\""
-msgstr "“經過一些實驗，我想我已經發現了冬青和歡樂之間的完美比例。”"
+msgid "\"After some experimentation, I've discovered the perfect ratio of holly and jolly.\""
+msgstr "“經過一些實驗，我已經發現了冬青和歡樂的完美比例。”"
 
 #. STRINGS.SKIN_QUOTES.winona_combatant
 msgctxt "STRINGS.SKIN_QUOTES.winona_combatant"
@@ -339213,7 +339303,7 @@ msgstr "\"來吧。亮亮你的本事。\""
 
 #. STRINGS.SKIN_QUOTES.winona_yule
 msgctxt "STRINGS.SKIN_QUOTES.winona_yule"
-msgid "\"Whaddya say we get the gang together fer some carols?\""
+msgid "\"Whaddya say we get the gang together for some carols?\""
 msgstr "\"我們把小夥伴都叫在一起唱聖歌怎麼樣?\""
 
 #. STRINGS.SKIN_QUOTES.wolfgang_ancient
@@ -340745,6 +340835,11 @@ msgstr "避雷針"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.LUREPLANT"
 msgid "Lureplant"
 msgstr "食人花"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAGICIAN_CHEST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAGICIAN_CHEST"
+msgid "Magician's Chest"
+msgstr "魔術師箱子"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR"
@@ -358964,7 +359059,7 @@ msgstr "弱"
 #. STRINGS.UI.OPTIONS.XB1_CONTROLLER_LAYOUT
 msgctxt "STRINGS.UI.OPTIONS.XB1_CONTROLLER_LAYOUT"
 msgid "Gamepad Layout:"
-msgstr ""
+msgstr "手柄佈局："
 
 #. STRINGS.UI.OPTIONS.YES
 msgctxt "STRINGS.UI.OPTIONS.YES"
@@ -363529,7 +363624,7 @@ msgstr "玩家 2"
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.XB1_PLAYER_2_CONTROLLER_DISCONNECTED
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.XB1_PLAYER_2_CONTROLLER_DISCONNECTED"
 msgid "GAMEPAD 2 DISCONNECTED"
-msgstr ""
+msgstr "手柄2已斷開"
 
 #. STRINGS.UI.STARTADVENTURE.BODY
 msgctxt "STRINGS.UI.STARTADVENTURE.BODY"
