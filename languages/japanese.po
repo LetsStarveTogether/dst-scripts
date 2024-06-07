@@ -154,7 +154,7 @@ msgstr "捧げる"
 #. STRINGS.ACTIONS.APPLYCONSTRUCTION.REBUILD
 msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.REBUILD"
 msgid "Rebuild"
-msgstr ""
+msgstr "再建設する"
 
 #. STRINGS.ACTIONS.APPLYCONSTRUCTION.REPAIR
 msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.REPAIR"
@@ -569,7 +569,7 @@ msgstr "捧げる"
 #. STRINGS.ACTIONS.CONSTRUCT.REBUILD
 msgctxt "STRINGS.ACTIONS.CONSTRUCT.REBUILD"
 msgid "Rebuild"
-msgstr ""
+msgstr "再建設する"
 
 #. STRINGS.ACTIONS.CONSTRUCT.REPAIR
 msgctxt "STRINGS.ACTIONS.CONSTRUCT.REPAIR"
@@ -1604,7 +1604,7 @@ msgstr "捧げるのをやめる"
 #. STRINGS.ACTIONS.STOPCONSTRUCTION.REBUILD
 msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.REBUILD"
 msgid "Stop Rebuilding"
-msgstr ""
+msgstr "再建設を中止する"
 
 #. STRINGS.ACTIONS.STOPCONSTRUCTION.REPAIR
 msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.REPAIR"
@@ -8924,7 +8924,7 @@ msgstr "少なくとも、最初からやり直せる。"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COLLAPSEDCHEST"
 msgid "The laws of physics have been bent and broken."
-msgstr ""
+msgstr "物理法則が捻じ曲がってしまった。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPASS.E"
@@ -23704,7 +23704,7 @@ msgstr "準備するに越したことはないよね！"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD"
 msgid "Neat! Are those real dragon teeth?"
-msgstr ""
+msgstr "かっけー！これ、本物のドラゴンの牙？"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD_KIT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD_KIT"
@@ -24974,7 +24974,7 @@ msgstr "たき火はもう作ったよ。あとは木が必要だね！"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COLLAPSEDCHEST"
 msgid "It looks pretty messed-up... but I think I could fix it!"
-msgstr ""
+msgstr "すっごくめちゃくちゃ…でも、直せると思う！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COMPASS.E"
@@ -41119,7 +41119,7 @@ msgstr "すぐにまた火をつけられるわね。"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COLLAPSEDCHEST"
 msgid "It's a waste of time to repair if someone's just going to destroy it again."
-msgstr ""
+msgstr "また誰かが壊すんだろう、直すなんて時間の無駄だわ。"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COMPASS.E"
@@ -57144,7 +57144,7 @@ msgstr "また火をおこさなきゃネ"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COLLAPSEDCHEST"
 msgid "I'm tired of the whole \"deconstructed\" trend."
-msgstr ""
+msgstr "「解体ショー」ブームはもうウンザリだヨ。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPASS.E"
@@ -64059,7 +64059,7 @@ msgstr "見てると、胸がチクチク痛むネ…"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.BROKEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.BROKEN"
 msgid "It has been scrambled."
-msgstr ""
+msgstr "グチャグチャになってしまったネ。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.GENERIC"
@@ -72354,7 +72354,7 @@ msgstr "そして火は徐々に弱まり、立ち消える。"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLLAPSEDCHEST"
 msgid "Who hath rendered a shambles of our booty?"
-msgstr ""
+msgstr "誰が我らの戦利品を台なしにしたのだ？"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.E"
@@ -88389,7 +88389,7 @@ msgstr "暖かくなった。"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COLLAPSEDCHEST"
 msgid "Do you really expect me to dig through that?"
-msgstr ""
+msgstr "本当に私があの中を探るとでも思っているのかね？"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPASS.E"
@@ -104344,7 +104344,7 @@ msgstr "さて、ここは終わった。でも永遠にというわけじゃな
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLLAPSEDCHEST"
 msgid "Can we dig for treasure?"
-msgstr ""
+msgstr "お宝を掘り出せるかな？"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.E"
@@ -120349,7 +120349,7 @@ msgstr "あれはいい兆候じゃない。"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COLLAPSEDCHEST"
 msgid "Is the emptyness all around us now?"
-msgstr ""
+msgstr "またあたしたち、空虚になってしまったの？"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPASS.E"
@@ -136339,7 +136339,7 @@ msgstr "消えてしまいましたね…"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COLLAPSEDCHEST"
 msgid "It would be prudent to rebuild the chest, rather than leave all this lying about."
-msgstr ""
+msgstr "こうして散らかったままにしておくよりは、もう一度組み立てたほうが賢明でしょう。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPASS.E"
@@ -141419,7 +141419,7 @@ msgstr "豚王からの寄贈ですね。"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN"
 msgid "How did they manage to achieve such detail using pig hooves?"
-msgstr ""
+msgstr "豚のひづめを使って、どのようにこれほどの細部まで再現したんでしょうか？"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE"
@@ -168274,7 +168274,7 @@ msgstr "消えてる。今は。"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COLLAPSEDCHEST"
 msgid "Yeesh, what a mess!"
-msgstr ""
+msgstr "うわーっ！こりゃごちゃごちゃだ！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COMPASS.E"
@@ -184289,7 +184289,7 @@ msgstr "まずい。電源きれた。"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COLLAPSEDCHEST"
 msgid "Poor trunk. Maybe ate too much."
-msgstr ""
+msgstr "宝箱、かあいそう。たぶん食べすぎた。"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPASS.E"
@@ -200219,7 +200219,7 @@ msgstr "もしいくらか木材を持っていれば。"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COLLAPSEDCHEST"
 msgid "Nobody's blamin' you, Luce."
-msgstr ""
+msgstr "ルーシー、誰もお前を責めたりしねえよ。"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.E"
@@ -216189,7 +216189,7 @@ msgstr "食べ物が必要だね"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLLAPSEDCHEST"
 msgid "Box ouchie?"
-msgstr ""
+msgstr "箱、イタイタ？"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.E"
@@ -223868,12 +223868,12 @@ msgstr "うわっ、イテテ！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN"
-msgid "Help! Grabby friend is hurt!"
+msgid "Help! Grabby Friend is hurt!"
 msgstr "助けて！ガシガシのお友だち傷ついてる！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC"
-msgid "Go, grabby friend!"
+msgid "Go, Grabby Friend!"
 msgstr "行け！ガシガシのお友だち！"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STRAWHAT
@@ -232189,7 +232189,7 @@ msgstr "あ～あ、なくなっちゃった。"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLLAPSEDCHEST"
 msgid "Infinite space, gone without a trace?"
-msgstr ""
+msgstr "無限の空間、跡形もなく雲散？"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.E"
@@ -264259,7 +264259,7 @@ msgstr "＊再起動の必要あり＊"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COLLAPSEDCHEST"
 msgid "FLESHSACKS CANNOT HAVE NICE THINGS"
-msgstr ""
+msgstr "＊有機生命体の作るものなどたかが知れています＊"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COMPASS.E"
@@ -285224,7 +285224,7 @@ msgstr "吸熱炉"
 #. STRINGS.NAMES.COLLAPSEDCHEST
 msgctxt "STRINGS.NAMES.COLLAPSEDCHEST"
 msgid "Broken-down Chest"
-msgstr ""
+msgstr "壊れた宝箱"
 
 #. STRINGS.NAMES.COMPASS
 msgctxt "STRINGS.NAMES.COMPASS"
@@ -306824,7 +306824,7 @@ msgstr "ダメな樹液"
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_creepy"
 msgid "Legend says this flower is haunted by the spirit of a young girl."
-msgstr ""
+msgstr "伝説によると、この花には若い女の子の魂が憑りついている。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_creepy"
@@ -306985,6 +306985,11 @@ msgstr "すべての心は時間と気遣いで治っていく。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye"
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
 msgstr "この命を与えるお守りは、バトルマスター・プグナのフォージで作られた。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.amulet_red_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_rose"
+msgid "Some roses rebloom while others wilt and die."
+msgstr "バラの中にはしおれて枯れるものもあれば、再び咲き誇るものもある。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an"
@@ -314266,6 +314271,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dragonfly_yule"
 msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
 msgstr "熱い溶岩がたぎる冷たい冬の夜\nフィーストフライが熱く飛び立つ。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_drama
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_drama"
+msgid "Who is ready to step out into the spotlight?"
+msgstr "スポットライトを浴びたい者は誰だ？"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_dst10_signed
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dst10_signed"
 msgid "Celebrate ten years of surviving the- oh how embarrassing, some hooligans have scribbled their names all over it!"
@@ -314456,6 +314466,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast"
 msgid "\"We're super excited to watch everyone open the presents we got them.\""
 msgstr "「用意したプレゼントをみんなが開く瞬間が楽しみだな」"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_webber_sad
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_sad"
+msgid "Listen well children, and mind the warnings of your parents... naughtiness always comes back to bite you in the end."
+msgstr "いいかい子どもたち、親の言うことは聞くんだよ…悪いことをして、最後に痛い目を見るのは自分なのだから…"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer"
 msgid "Some things simply can't be undone."
@@ -314641,6 +314656,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood2_trailer"
 msgid "Every story has a beginning. Every sprout was once a small seed."
 msgstr "どんな物語も始まりがあり、どんな植物も初めは小さな種だった。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wormwood3_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood3_trailer"
+msgid "The jungle is home to many fascinating plant and animal species."
+msgstr "ジャングルには魅力的な植物や動物が数多く生息している。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer"
 msgid "When Wormwood begins to feel too lonely, he knows he can always go back to his roots."
@@ -314680,6 +314700,11 @@ msgstr "メラメラきたWX-78に\n焼却させてくれ。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_trailer"
 msgid "After being confronted with a rush of memories from their past life, WX-78 quickly took matters into their own hands..."
 msgstr "押し寄せてくる過去の生活の記憶と対峙したとき、WX-78は即座に自分の手でそれらの解決に臨んだ..."
+
+#. STRINGS.SKIN_DESCRIPTIONS.magician_chest_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.magician_chest_shadow"
+msgid "This devious depository can only be the work of dark magic."
+msgstr "これほど邪悪な保管庫…闇の魔法の仕業に違いない。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_crabking
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking"
@@ -315110,6 +315135,11 @@ msgstr "風邪を引かないように気を付けよう。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice_alt"
 msgid "Try not to catch a cold."
 msgstr "風邪を引かないように気を付けよう。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_nautical"
+msgid "With this rod at the ready, the world is your oyster."
+msgstr "この竿の準備を整えて、自分の殻を破れば、世界はあなたの物だ。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient"
@@ -317211,6 +317241,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue"
 msgid "Equip this item to change your character's background portrait."
 msgstr "このアイテムを装備すると、キャラクターのプロフィール背景が変わる。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletredrose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletredrose"
+msgid "Equip this item to change your character's background portrait."
+msgstr "このアイテムを装備すると、キャラクターのプロフィール背景が変わる。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletyellowan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletyellowan"
 msgid "Equip this item to change your character's background portrait."
@@ -317870,6 +317905,11 @@ msgstr "コアラぞうと同じくらい水を上げることができるかな
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
 msgstr "プロフィールアイコンをアビゲイルの花にする。\n\nアビゲイルの花は、ウェンディの亡くなった姉妹の唯一の形見だ。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_red_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_red_rose"
+msgid "Set your profile icon to a Rosy Red Amulet."
+msgstr "プロフィールアイコンを赤いバラのお守りにする。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_yellowan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_yellowan"
@@ -319145,6 +319185,11 @@ msgstr "憂慮に耐えない錬金術師向けの憂鬱なデザイン。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod"
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
 msgstr "未来の印刷技術を用い、非未来的錬金術を実行する、極めて洗練された装置。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab2_science
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_science"
+msgid "Some might say that storing unstable chemicals next to a running engine is a \"bad idea\", but these people simply lack your vision."
+msgstr "不安定な化学物質を動いているエンジンの側に補完するのが「悪い考え」だと考える者もいるだろう。だが、そういった人たちは知見が狭いだけなのだ。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient"
@@ -322279,7 +322324,7 @@ msgstr "ワートは毛皮があることに好意的になり始めている。
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_masquerade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_masquerade"
 msgid "Wurt is the swamplife of any party."
-msgstr ""
+msgstr "ワートは沼地パーティの主役である。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_nature"
@@ -322620,6 +322665,11 @@ msgstr "穏やかな命のお守り"
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_occulteye"
 msgid "Clairvoyant Life Amulet"
 msgstr "透視の命のお守り"
+
+#. STRINGS.SKIN_NAMES.amulet_red_rose
+msgctxt "STRINGS.SKIN_NAMES.amulet_red_rose"
+msgid "Rosy Red Amulet"
+msgstr "赤いバラのお守り"
 
 #. STRINGS.SKIN_NAMES.amulet_yellow_an
 msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_an"
@@ -329901,6 +329951,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_dragonfly_yule"
 msgid "Winter's Feastfly"
 msgstr "冬の宴"
 
+#. STRINGS.SKIN_NAMES.loading_drama
+msgctxt "STRINGS.SKIN_NAMES.loading_drama"
+msgid "A Little Drama"
+msgstr "寸劇"
+
 #. STRINGS.SKIN_NAMES.loading_dst10_signed
 msgctxt "STRINGS.SKIN_NAMES.loading_dst10_signed"
 msgid "10th Anniversary (Signed)"
@@ -330091,6 +330146,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_webber_feast"
 msgid "Wrapping Webber"
 msgstr "包まれるウェバー"
 
+#. STRINGS.SKIN_NAMES.loading_webber_sad
+msgctxt "STRINGS.SKIN_NAMES.loading_webber_sad"
+msgid "Along Came a Spider"
+msgstr "スパイダー"
+
 #. STRINGS.SKIN_NAMES.loading_webber_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_webber_trailer"
 msgid "No Way Back"
@@ -330276,6 +330336,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wormwood2_trailer"
 msgid "The Seed"
 msgstr "種"
 
+#. STRINGS.SKIN_NAMES.loading_wormwood3_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wormwood3_trailer"
+msgid "Flora and Fauna"
+msgstr "動植物"
+
 #. STRINGS.SKIN_NAMES.loading_wormwood_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_wormwood_trailer"
 msgid "Lunar Roots"
@@ -330315,6 +330380,11 @@ msgstr "マグマのオートマン"
 msgctxt "STRINGS.SKIN_NAMES.loading_wx_trailer"
 msgid "Disconnected"
 msgstr "通信切断"
+
+#. STRINGS.SKIN_NAMES.magician_chest_shadow
+msgctxt "STRINGS.SKIN_NAMES.magician_chest_shadow"
+msgid "Nightmarish Magician's Chest"
+msgstr "悪夢のようなマジシャンの宝箱"
 
 #. STRINGS.SKIN_NAMES.mast_crabking
 msgctxt "STRINGS.SKIN_NAMES.mast_crabking"
@@ -330745,6 +330815,11 @@ msgstr "氷の釣り竿"
 msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_ice_alt"
 msgid "Ice Fishing Rod"
 msgstr "氷の釣り竿"
+
+#. STRINGS.SKIN_NAMES.oceanfishingrod_nautical
+msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_nautical"
+msgid "Scalloped Fishing Rod"
+msgstr "貝殻の釣り竿"
 
 #. STRINGS.SKIN_NAMES.orangestaff_ancient
 msgctxt "STRINGS.SKIN_NAMES.orangestaff_ancient"
@@ -332846,6 +332921,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue"
 msgid "Beast of Hunger Portrait"
 msgstr "飢えた獣の写真"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_amuletredrose
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_amuletredrose"
+msgid "Rosy Red Amulet Portrait"
+msgstr "赤いバラのお守りの写真"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_amuletyellowan
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_amuletyellowan"
 msgid "Nouveau Amulet Portrait"
@@ -333505,6 +333585,11 @@ msgstr "コアラぞうのジョウロ"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
 msgstr "アビゲイルの花"
+
+#. STRINGS.SKIN_NAMES.profileflair_amulet_red_rose
+msgctxt "STRINGS.SKIN_NAMES.profileflair_amulet_red_rose"
+msgid "Rosy Red Amulet"
+msgstr "赤いバラのお守り"
 
 #. STRINGS.SKIN_NAMES.profileflair_amulet_yellowan
 msgctxt "STRINGS.SKIN_NAMES.profileflair_amulet_yellowan"
@@ -334780,6 +334865,11 @@ msgstr "ゴシックな錬金炉"
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_pod"
 msgid "Alchemy Pod"
 msgstr "錬金マシン"
+
+#. STRINGS.SKIN_NAMES.researchlab2_science
+msgctxt "STRINGS.SKIN_NAMES.researchlab2_science"
+msgid "All-Chemical Engine"
+msgstr "科学術のエンジン"
 
 #. STRINGS.SKIN_NAMES.researchlab3_ancient
 msgctxt "STRINGS.SKIN_NAMES.researchlab3_ancient"
@@ -339093,8 +339183,8 @@ msgstr "\"すべての病気の根源はユーモアのバランスの崩れに�
 
 #. STRINGS.SKIN_QUOTES.wilson_yule
 msgctxt "STRINGS.SKIN_QUOTES.wilson_yule"
-msgid "\"After some experimentation, I think I've discovered the perfect ratio between holly and jolly.\""
-msgstr "『いくつかの実験の後、僕は「幸」と「福」の間の黄金比を見つけたんだ。』"
+msgid "\"After some experimentation, I've discovered the perfect ratio of holly and jolly.\""
+msgstr "『いくつかの実験の後、僕は「幸」と「福」の黄金比を見つけたんだ。』"
 
 #. STRINGS.SKIN_QUOTES.winona_combatant
 msgctxt "STRINGS.SKIN_QUOTES.winona_combatant"
@@ -339213,7 +339303,7 @@ msgstr "\"さあ。ベストを尽くしな。\""
 
 #. STRINGS.SKIN_QUOTES.winona_yule
 msgctxt "STRINGS.SKIN_QUOTES.winona_yule"
-msgid "\"Whaddya say we get the gang together fer some carols?\""
+msgid "\"Whaddya say we get the gang together for some carols?\""
 msgstr "\"みんなでキャロルを歌うかい？\""
 
 #. STRINGS.SKIN_QUOTES.wolfgang_ancient
@@ -340745,6 +340835,11 @@ msgstr "光る棒"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.LUREPLANT"
 msgid "Lureplant"
 msgstr "ルアプラント"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAGICIAN_CHEST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAGICIAN_CHEST"
+msgid "Magician's Chest"
+msgstr "マジシャンの宝箱"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR"
@@ -350534,7 +350629,7 @@ msgstr "ザッカリー・ロックウッド"
 #. STRINGS.UI.CREDITS.NAMES.66
 msgctxt "STRINGS.UI.CREDITS.NAMES.66"
 msgid "Andy Niles"
-msgstr "アマンダ・ナイルズ"
+msgstr "Andy Niles"
 
 #. STRINGS.UI.CREDITS.NAMES.67
 msgctxt "STRINGS.UI.CREDITS.NAMES.67"
@@ -358964,7 +359059,7 @@ msgstr "弱い"
 #. STRINGS.UI.OPTIONS.XB1_CONTROLLER_LAYOUT
 msgctxt "STRINGS.UI.OPTIONS.XB1_CONTROLLER_LAYOUT"
 msgid "Gamepad Layout:"
-msgstr ""
+msgstr "コントローラーのレイアウト："
 
 #. STRINGS.UI.OPTIONS.YES
 msgctxt "STRINGS.UI.OPTIONS.YES"
@@ -363529,7 +363624,7 @@ msgstr "プレイヤー2"
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.XB1_PLAYER_2_CONTROLLER_DISCONNECTED
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.XB1_PLAYER_2_CONTROLLER_DISCONNECTED"
 msgid "GAMEPAD 2 DISCONNECTED"
-msgstr ""
+msgstr "コントローラー2が切断されました"
 
 #. STRINGS.UI.STARTADVENTURE.BODY
 msgctxt "STRINGS.UI.STARTADVENTURE.BODY"

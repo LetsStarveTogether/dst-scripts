@@ -154,7 +154,7 @@ msgstr "Opfern"
 #. STRINGS.ACTIONS.APPLYCONSTRUCTION.REBUILD
 msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.REBUILD"
 msgid "Rebuild"
-msgstr ""
+msgstr "Neubauen"
 
 #. STRINGS.ACTIONS.APPLYCONSTRUCTION.REPAIR
 msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.REPAIR"
@@ -569,7 +569,7 @@ msgstr "Opfern an"
 #. STRINGS.ACTIONS.CONSTRUCT.REBUILD
 msgctxt "STRINGS.ACTIONS.CONSTRUCT.REBUILD"
 msgid "Rebuild"
-msgstr ""
+msgstr "Neubauen"
 
 #. STRINGS.ACTIONS.CONSTRUCT.REPAIR
 msgctxt "STRINGS.ACTIONS.CONSTRUCT.REPAIR"
@@ -1604,7 +1604,7 @@ msgstr "Opfern beenden"
 #. STRINGS.ACTIONS.STOPCONSTRUCTION.REBUILD
 msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.REBUILD"
 msgid "Stop Rebuilding"
-msgstr ""
+msgstr "Neubauen anhalten"
 
 #. STRINGS.ACTIONS.STOPCONSTRUCTION.REPAIR
 msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.REPAIR"
@@ -8924,7 +8924,7 @@ msgstr "Wenigstens kann ich es neu entfachen."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COLLAPSEDCHEST"
 msgid "The laws of physics have been bent and broken."
-msgstr ""
+msgstr "Die Gesetze der Physik wurden gekrümmt und gebrochen."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPASS.E"
@@ -23704,7 +23704,7 @@ msgstr "Gut vorbereitet sein, ist die halbe Miete!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD"
 msgid "Neat! Are those real dragon teeth?"
-msgstr ""
+msgstr "Nett! Sind das echte Libellenzähne?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD_KIT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOAT_BUMPER_YOTD_KIT"
@@ -24974,7 +24974,7 @@ msgstr "Die Feuerstelle ist schon fertig, wir brauchen nur noch Holz!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COLLAPSEDCHEST"
 msgid "It looks pretty messed-up... but I think I could fix it!"
-msgstr ""
+msgstr "Sieht ziemlich ramponiert aus ... aber ich glaube, ich kann das reparieren!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.COMPASS.E"
@@ -41119,7 +41119,7 @@ msgstr "Ich könnte das im Handumdrehen wieder zum Laufen bringen."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COLLAPSEDCHEST"
 msgid "It's a waste of time to repair if someone's just going to destroy it again."
-msgstr ""
+msgstr "Es ist Zeitverschwendung, etwas zu reparieren, das jemand anderes gleich wieder zerstören wird."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.COMPASS.E"
@@ -57144,7 +57144,7 @@ msgstr "Ich muss dich wieder anzünden."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COLLAPSEDCHEST"
 msgid "I'm tired of the whole \"deconstructed\" trend."
-msgstr ""
+msgstr "Ich bin diesen \"Dekonstruktion\"-Trend leid."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPASS.E"
@@ -64059,7 +64059,7 @@ msgstr "Wäre schade, wenn es dafür keinen Nutzen gäbe."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.BROKEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.BROKEN"
 msgid "It has been scrambled."
-msgstr ""
+msgstr "Der ist ganz kaputt."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.STORAGE_ROBOT.GENERIC"
@@ -72354,7 +72354,7 @@ msgstr "Und das Licht hat sich ausgeflackert."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLLAPSEDCHEST"
 msgid "Who hath rendered a shambles of our booty?"
-msgstr ""
+msgstr "Wer hat aus unserer Beute ein heilloses Durcheinander gemacht?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.E"
@@ -88389,7 +88389,7 @@ msgstr "Es ist warm geworden."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COLLAPSEDCHEST"
 msgid "Do you really expect me to dig through that?"
-msgstr ""
+msgstr "Erwartest du wirklich von mir, dass ich das durchwühle?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPASS.E"
@@ -104344,7 +104344,7 @@ msgstr "Nun, das war's. Aber nicht für immer!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLLAPSEDCHEST"
 msgid "Can we dig for treasure?"
-msgstr ""
+msgstr "Können wir nach einem Schatz graben?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.E"
@@ -120349,7 +120349,7 @@ msgstr "Das ist kein gutes Zeichen."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COLLAPSEDCHEST"
 msgid "Is the emptyness all around us now?"
-msgstr ""
+msgstr "Ist diese Leere jetzt um uns herum?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPASS.E"
@@ -136339,7 +136339,7 @@ msgstr "Das kann man wieder anzünden."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COLLAPSEDCHEST"
 msgid "It would be prudent to rebuild the chest, rather than leave all this lying about."
-msgstr ""
+msgstr "Es wäre klug, die Truhe wiederherzustellen, anstatt all dies hier herumliegen zu lassen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPASS.E"
@@ -141419,7 +141419,7 @@ msgstr "Eine Gabe des Schweinekönigs."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN"
 msgid "How did they manage to achieve such detail using pig hooves?"
-msgstr ""
+msgstr "Wie haben sie es geschafft, mit Schweinehufen solch detaillierte Arbeit zu vollbringen?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE"
@@ -168274,7 +168274,7 @@ msgstr "Jetzt ist es aus."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COLLAPSEDCHEST"
 msgid "Yeesh, what a mess!"
-msgstr ""
+msgstr "Meine Güte, was für ein Chaos!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.COMPASS.E"
@@ -184289,7 +184289,7 @@ msgstr "Oh. Es ist ausgegangen."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COLLAPSEDCHEST"
 msgid "Poor trunk. Maybe ate too much."
-msgstr ""
+msgstr "Armer Koffer. Hat vielleicht zu viel gegessen."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPASS.E"
@@ -200219,7 +200219,7 @@ msgstr "Wenn ich doch nur etwas Holz hätte."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COLLAPSEDCHEST"
 msgid "Nobody's blamin' you, Luce."
-msgstr ""
+msgstr "Niemand gibt dir die Schuld, Lucy."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.E"
@@ -216189,7 +216189,7 @@ msgstr "Braucht Nahrung."
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLLAPSEDCHEST"
 msgid "Box ouchie?"
-msgstr ""
+msgstr "Box hat Aua?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.E"
@@ -223868,12 +223868,12 @@ msgstr "Aua!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN"
-msgid "Help! Grabby friend is hurt!"
+msgid "Help! Grabby Friend is hurt!"
 msgstr "Hilfe! Sammelfreund verletzt!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC"
-msgid "Go, grabby friend!"
+msgid "Go, Grabby Friend!"
 msgstr "Los, Sammelfreund!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STRAWHAT
@@ -232189,7 +232189,7 @@ msgstr "Und jetzt erlischt es."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLLAPSEDCHEST"
 msgid "Infinite space, gone without a trace?"
-msgstr ""
+msgstr "Endloser Raum, nicht nur ein Traum?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPASS.E"
@@ -264259,7 +264259,7 @@ msgstr "ES MUSS NEUGESTARTET WERDEN."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.COLLAPSEDCHEST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COLLAPSEDCHEST"
 msgid "FLESHSACKS CANNOT HAVE NICE THINGS"
-msgstr ""
+msgstr "FLEISCHSÄCKE DÜRFEN KEINE SCHÖNEN DINGE HABEN"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.COMPASS.E
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COMPASS.E"
@@ -285224,7 +285224,7 @@ msgstr "Endotherme Feuergrube"
 #. STRINGS.NAMES.COLLAPSEDCHEST
 msgctxt "STRINGS.NAMES.COLLAPSEDCHEST"
 msgid "Broken-down Chest"
-msgstr ""
+msgstr "Kaputte Truhe"
 
 #. STRINGS.NAMES.COMPASS
 msgctxt "STRINGS.NAMES.COMPASS"
@@ -306824,7 +306824,7 @@ msgstr "Armer Tropf"
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_creepy"
 msgid "Legend says this flower is haunted by the spirit of a young girl."
-msgstr ""
+msgstr "Laut Legenden wird diese Blume vom Geist eines jungen Mädchens heimgesucht."
 
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_flower_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_flower_creepy"
@@ -306985,6 +306985,11 @@ msgstr "Alle Herzen können mit Zeit und Sorgfalt geflickt werden."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye"
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
 msgstr "Dieses lebensspendende Amulett wurde in der Schmiede von Kriegsherr Pugna gefertigt."
+
+#. STRINGS.SKIN_DESCRIPTIONS.amulet_red_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_rose"
+msgid "Some roses rebloom while others wilt and die."
+msgstr "Manche Rosen blühen erneut, während andere welken und sterben."
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an"
@@ -314266,6 +314271,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dragonfly_yule"
 msgid "Whilst lava burns hot in the cold winter night,\nThe Feastfly takes wing in a most fervid flight."
 msgstr "Während die Lava in der kalten Winternacht heiß brennt,\nmacht sich die Festfliege zu einen sehr heftigen Flug auf."
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_drama
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_drama"
+msgid "Who is ready to step out into the spotlight?"
+msgstr "Wer ist bereit, ins Rampenlicht zu treten?"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_dst10_signed
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_dst10_signed"
 msgid "Celebrate ten years of surviving the- oh how embarrassing, some hooligans have scribbled their names all over it!"
@@ -314456,6 +314466,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast"
 msgid "\"We're super excited to watch everyone open the presents we got them.\""
 msgstr "\"Wir sind so aufgeregt, wenn alle unsere Geschenke öffnen.\""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_webber_sad
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_sad"
+msgid "Listen well children, and mind the warnings of your parents... naughtiness always comes back to bite you in the end."
+msgstr "Hört gut zu, Kinder, und hört auch die Warnungen eurer Eltern ... ungezogenes Verhalten wird euch am Ende immer in den Hintern beißen."
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber_trailer"
 msgid "Some things simply can't be undone."
@@ -314641,6 +314656,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood2_trailer"
 msgid "Every story has a beginning. Every sprout was once a small seed."
 msgstr "Jede Geschichte hat ihren Anfang. Jeder Spross war mal ein Samen."
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wormwood3_trailer
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood3_trailer"
+msgid "The jungle is home to many fascinating plant and animal species."
+msgstr "Der Dschungel ist das Heim vieler faszinierender Pflanzen- und Tierspezies."
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wormwood_trailer"
 msgid "When Wormwood begins to feel too lonely, he knows he can always go back to his roots."
@@ -314680,6 +314700,11 @@ msgstr "WX-78 hat den Drang zum\nEINÄSCHERN."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wx_trailer"
 msgid "After being confronted with a rush of memories from their past life, WX-78 quickly took matters into their own hands..."
 msgstr "Nachdem er mit einem Schwall Erinnerungen aus seinem vorigen Leben konfrontiert wurde, nahm WX-78 die Dinge schnell selbst in die Hand ..."
+
+#. STRINGS.SKIN_DESCRIPTIONS.magician_chest_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.magician_chest_shadow"
+msgid "This devious depository can only be the work of dark magic."
+msgstr "Dieses hinterhältige Lager kann nur das Werk dunkler Magie sein."
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_crabking
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_crabking"
@@ -315110,6 +315135,11 @@ msgstr "Nicht erkälten!"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_ice_alt"
 msgid "Try not to catch a cold."
 msgstr "Nicht erkälten!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_nautical"
+msgid "With this rod at the ready, the world is your oyster."
+msgstr "Mit dieser Rute bei der Hand liegt dir das Meer zu Füßen."
 
 #. STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient"
@@ -317211,6 +317241,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue"
 msgid "Equip this item to change your character's background portrait."
 msgstr "Benutze diesen Gegenstand, um das Hintergrundbild deines Charakters zu ändern."
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletredrose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletredrose"
+msgid "Equip this item to change your character's background portrait."
+msgstr "Ändere mit diesem Gegenstand das Hintergrundbild deines Charakters."
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletyellowan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_amuletyellowan"
 msgid "Equip this item to change your character's background portrait."
@@ -317870,6 +317905,11 @@ msgstr "Kann deine Gießkanne so gut wässern, wie eine Koalefantengießkanne da
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower"
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
 msgstr "Ändere dein Profilsymbol auf Abigails Blume.\n\nAbigails Blume ist Wendys einziges Andenken an ihre verstorbene Schwester."
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_red_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_red_rose"
+msgid "Set your profile icon to a Rosy Red Amulet."
+msgstr "Ändere dein Profilsymbol auf einen Rosenrotes Amulet."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_yellowan
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_amulet_yellowan"
@@ -319145,6 +319185,11 @@ msgstr "Ein schwermütiges Design für grüblerische Alchemisten."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod"
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
 msgstr "Hier wird mit modernster Technologie altmodischste Alchemie betrieben. Wie elegant!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab2_science
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_science"
+msgid "Some might say that storing unstable chemicals next to a running engine is a \"bad idea\", but these people simply lack your vision."
+msgstr "Manch einer mag sagen, dass das Lagern instabiler Chemikalien neben einem laufenden Motor eine \"schlechte Idee\" sei, aber diesen Leuten fehlt einfach eine Vision."
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient"
@@ -322279,7 +322324,7 @@ msgstr "Wurt wird langsam warm mit der Idee, ein Fell zu haben."
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_masquerade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_masquerade"
 msgid "Wurt is the swamplife of any party."
-msgstr ""
+msgstr "Wie Wasser für das Leben ist, ist Wurt das Lebenselixier jeder Feier."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_nature"
@@ -322620,6 +322665,11 @@ msgstr "Amulett für ein mildes Leben"
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_occulteye"
 msgid "Clairvoyant Life Amulet"
 msgstr "Hellsichtiges Lebensamulett"
+
+#. STRINGS.SKIN_NAMES.amulet_red_rose
+msgctxt "STRINGS.SKIN_NAMES.amulet_red_rose"
+msgid "Rosy Red Amulet"
+msgstr "Rosenrotes Amulet"
 
 #. STRINGS.SKIN_NAMES.amulet_yellow_an
 msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_an"
@@ -329901,6 +329951,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_dragonfly_yule"
 msgid "Winter's Feastfly"
 msgstr "Winterfestfliege"
 
+#. STRINGS.SKIN_NAMES.loading_drama
+msgctxt "STRINGS.SKIN_NAMES.loading_drama"
+msgid "A Little Drama"
+msgstr "Ein kleines Drama"
+
 #. STRINGS.SKIN_NAMES.loading_dst10_signed
 msgctxt "STRINGS.SKIN_NAMES.loading_dst10_signed"
 msgid "10th Anniversary (Signed)"
@@ -330091,6 +330146,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_webber_feast"
 msgid "Wrapping Webber"
 msgstr "Einpack-Webber"
 
+#. STRINGS.SKIN_NAMES.loading_webber_sad
+msgctxt "STRINGS.SKIN_NAMES.loading_webber_sad"
+msgid "Along Came a Spider"
+msgstr "Spinnenbein kommt herein"
+
 #. STRINGS.SKIN_NAMES.loading_webber_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_webber_trailer"
 msgid "No Way Back"
@@ -330276,6 +330336,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_wormwood2_trailer"
 msgid "The Seed"
 msgstr "Der Samen"
 
+#. STRINGS.SKIN_NAMES.loading_wormwood3_trailer
+msgctxt "STRINGS.SKIN_NAMES.loading_wormwood3_trailer"
+msgid "Flora and Fauna"
+msgstr "Flora und Fauna"
+
 #. STRINGS.SKIN_NAMES.loading_wormwood_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_wormwood_trailer"
 msgid "Lunar Roots"
@@ -330315,6 +330380,11 @@ msgstr "Der magmatische Automat"
 msgctxt "STRINGS.SKIN_NAMES.loading_wx_trailer"
 msgid "Disconnected"
 msgstr "Verbindung getrennt"
+
+#. STRINGS.SKIN_NAMES.magician_chest_shadow
+msgctxt "STRINGS.SKIN_NAMES.magician_chest_shadow"
+msgid "Nightmarish Magician's Chest"
+msgstr "Albtraumhafte Magier-Truhe"
 
 #. STRINGS.SKIN_NAMES.mast_crabking
 msgctxt "STRINGS.SKIN_NAMES.mast_crabking"
@@ -330745,6 +330815,11 @@ msgstr "Eisangelrute"
 msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_ice_alt"
 msgid "Ice Fishing Rod"
 msgstr "Eisangelrute"
+
+#. STRINGS.SKIN_NAMES.oceanfishingrod_nautical
+msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_nautical"
+msgid "Scalloped Fishing Rod"
+msgstr "Muschel-Angelrute"
 
 #. STRINGS.SKIN_NAMES.orangestaff_ancient
 msgctxt "STRINGS.SKIN_NAMES.orangestaff_ancient"
@@ -332846,6 +332921,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue"
 msgid "Beast of Hunger Portrait"
 msgstr "Hungerbestien-Porträt"
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_amuletredrose
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_amuletredrose"
+msgid "Rosy Red Amulet Portrait"
+msgstr "Rosenrotes Amulet-Porträt"
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_amuletyellowan
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_amuletyellowan"
 msgid "Nouveau Amulet Portrait"
@@ -333505,6 +333585,11 @@ msgstr "Koalefantengießkanne"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_abigail_flower"
 msgid "Abby's Flower"
 msgstr "Abbys Blume"
+
+#. STRINGS.SKIN_NAMES.profileflair_amulet_red_rose
+msgctxt "STRINGS.SKIN_NAMES.profileflair_amulet_red_rose"
+msgid "Rosy Red Amulet"
+msgstr "Rosenrotes Amulet"
 
 #. STRINGS.SKIN_NAMES.profileflair_amulet_yellowan
 msgctxt "STRINGS.SKIN_NAMES.profileflair_amulet_yellowan"
@@ -334780,6 +334865,11 @@ msgstr "Gotischer Alchemie-Ofen"
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_pod"
 msgid "Alchemy Pod"
 msgstr "Alchemiekapsel"
+
+#. STRINGS.SKIN_NAMES.researchlab2_science
+msgctxt "STRINGS.SKIN_NAMES.researchlab2_science"
+msgid "All-Chemical Engine"
+msgstr "All-Chemische-Maschine"
 
 #. STRINGS.SKIN_NAMES.researchlab3_ancient
 msgctxt "STRINGS.SKIN_NAMES.researchlab3_ancient"
@@ -339093,8 +339183,8 @@ msgstr "\"Die Wurzel allen Übels liegt in einem Ungleichgewicht der Stimmung.\"
 
 #. STRINGS.SKIN_QUOTES.wilson_yule
 msgctxt "STRINGS.SKIN_QUOTES.wilson_yule"
-msgid "\"After some experimentation, I think I've discovered the perfect ratio between holly and jolly.\""
-msgstr "\"Nach einigen Experimenten bin ich zu der Erkenntnis gelangt, dass das Verhältnis zwischen Stechpalme und Fröhlichkeit perfekt ist.\""
+msgid "\"After some experimentation, I've discovered the perfect ratio of holly and jolly.\""
+msgstr "\"Nach einigen Experimenten habe ich das perfekte Verhältnis von Stechpalme zu Freude gefunden.\""
 
 #. STRINGS.SKIN_QUOTES.winona_combatant
 msgctxt "STRINGS.SKIN_QUOTES.winona_combatant"
@@ -339213,7 +339303,7 @@ msgstr "\"Komm schon, tu dein Bestes.\""
 
 #. STRINGS.SKIN_QUOTES.winona_yule
 msgctxt "STRINGS.SKIN_QUOTES.winona_yule"
-msgid "\"Whaddya say we get the gang together fer some carols?\""
+msgid "\"Whaddya say we get the gang together for some carols?\""
 msgstr "\"Wollen wir nicht ein paar Lieder singen?\""
 
 #. STRINGS.SKIN_QUOTES.wolfgang_ancient
@@ -340745,6 +340835,11 @@ msgstr "Blitzableiter"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.LUREPLANT"
 msgid "Lureplant"
 msgstr "Lockpflanze"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAGICIAN_CHEST
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MAGICIAN_CHEST"
+msgid "Magician's Chest"
+msgstr "Magier-Truhe"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.MANIPULATOR"
@@ -350534,7 +350629,7 @@ msgstr "Zachary Lockwood"
 #. STRINGS.UI.CREDITS.NAMES.66
 msgctxt "STRINGS.UI.CREDITS.NAMES.66"
 msgid "Andy Niles"
-msgstr "Amanda Niles"
+msgstr "Andy Niles"
 
 #. STRINGS.UI.CREDITS.NAMES.67
 msgctxt "STRINGS.UI.CREDITS.NAMES.67"
@@ -358964,7 +359059,7 @@ msgstr "Schwach"
 #. STRINGS.UI.OPTIONS.XB1_CONTROLLER_LAYOUT
 msgctxt "STRINGS.UI.OPTIONS.XB1_CONTROLLER_LAYOUT"
 msgid "Gamepad Layout:"
-msgstr ""
+msgstr "Controller-Tastenbelegung:"
 
 #. STRINGS.UI.OPTIONS.YES
 msgctxt "STRINGS.UI.OPTIONS.YES"
@@ -363529,7 +363624,7 @@ msgstr "Spieler 2"
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.XB1_PLAYER_2_CONTROLLER_DISCONNECTED
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.XB1_PLAYER_2_CONTROLLER_DISCONNECTED"
 msgid "GAMEPAD 2 DISCONNECTED"
-msgstr ""
+msgstr "CONTROLLER 2 VERBINDUNG GETRENNT"
 
 #. STRINGS.UI.STARTADVENTURE.BODY
 msgctxt "STRINGS.UI.STARTADVENTURE.BODY"
