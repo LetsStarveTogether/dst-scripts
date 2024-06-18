@@ -4083,6 +4083,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_COOLDOWN"
 msgid "only_used_by_winona"
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_DISMISS
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_DISMISS"
+msgid "only_used_by_winona"
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID"
 msgid "only_used_by_winona"
@@ -168888,6 +168893,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_COOLDOWN"
 msgid "Let's take a breather."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_DISMISS
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_DISMISS"
+msgid "Drat, I lost the trail!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID"
 msgid "No signs of Charlie."
@@ -290878,6 +290888,46 @@ msgctxt "STRINGS.MERM_TALK_HELP_MINE_ROCK.4.2"
 msgid "Glort blut, florp!"
 msgstr ""
 
+#. STRINGS.MERM_TALK_HELP_TILL.1.1
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.1.1"
+msgid "Will come with you."
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.1.2
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.1.2"
+msgid "Flort glut."
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.2.1
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.2.1"
+msgid "Make Mermfolk strong!"
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.2.2
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.2.2"
+msgid "Blut gloppy Glurtsu!"
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.3.1
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.3.1"
+msgid "Dig, diggy, dig!"
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.3.2
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.3.2"
+msgid "Grop, groppy, grop!"
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.4.1
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.4.1"
+msgid "Work hard, florp!"
+msgstr ""
+
+#. STRINGS.MERM_TALK_HELP_TILL.4.2
+msgctxt "STRINGS.MERM_TALK_HELP_TILL.4.2"
+msgid "Glort blut, florp!"
+msgstr ""
+
 #. STRINGS.MERM_TALK_NEED_HEAL.1.1
 msgctxt "STRINGS.MERM_TALK_NEED_HEAL.1.1"
 msgid "Help, florp!"
@@ -311195,12 +311245,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED"
-msgid "While stocked with twigs and rocks, regular Merm will grab a Shoddy Tool from it, reducing its stores.\n\nShoddy tools will increase the amount of work a merm does for a short time."
+msgid "While stocked with twigs and rocks, regular Merm will grab a Shoddy Tool from it, reducing its stores.\n\nShoddy tools will increase the amount of work a merm does for a short time.\n\nWith a shoddy tool, follower Merm will help chop trees, mine rocks, dig in a garden and Till soil."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED_UPGRADED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED_UPGRADED"
-msgid "While stocked with twigs and rocks, regular Merm will grab a Slightly Less Shoddy Tool from it, reducing its stores.\n\nSlightly Less Shoddy tools increase the amount of work a merm does a little more than their lesser sibling, the Shoddy Tool."
+msgid "While stocked with twigs and rocks, regular Merm will grab a Slightly Less Shoddy Tool from it, reducing its stores.\n\nSlightly Less Shoddy tools increase the amount of work a merm does a little more than their lesser sibling, the Shoddy Tool.\n\nWith a shoddy tool, follower Merm will help chop trees, mine rocks, dig in a garden and Till soil."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MESSAGEBOTTLE
