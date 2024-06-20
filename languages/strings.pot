@@ -4093,6 +4093,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID"
 msgid "only_used_by_winona"
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED"
+msgid "only_used_by_winona"
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOWER_SAIL_FAIL.1"
 msgid "Whoops!"
@@ -168903,6 +168908,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID"
 msgid "No signs of Charlie."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED"
+msgid "Hmm... I can't tell if Charlie's been here."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOWER_SAIL_FAIL.1"
 msgid "Pretty sure that ain't how that's supposed to go."
@@ -316240,7 +316250,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_DESC"
-msgid "Regenerate health when wet more effectively."
+msgid "Regenerate health when wet more effectively. It also make you slowly get wet as you step through the corrupted or mutated marsh turfs."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_TITLE
@@ -316270,7 +316280,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_DESC"
-msgid "Greatly reduce the effect of wetness on body temperature."
+msgid "Greatly reduce the effect of wetness on body temperature. It also fairly reduces wetness loss due to heat sources."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_TITLE
@@ -316290,7 +316300,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_DESC"
-msgid "Use wetness as protection more effectively."
+msgid "Use wetness as protection more effectively. It also make you slowly get wet as you step through the corrupted or mutated marsh turfs."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_TITLE
@@ -325085,7 +325095,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_formal1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_formal1"
-msgid "This Guest of Honor chest contains skins for: Warly, Wortox, and Wormwood."
+msgid "This Guest of Honor Chest contains skins for: Warly, Wortox, and Wormwood."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_formal_all
