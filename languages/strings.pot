@@ -53,6 +53,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.EQUIPMENTSWAP"
 msgid "Swap Clothes"
 msgstr ""
 
+#. STRINGS.ACTIONS.ACTIVATE.GATHER_MERM
+msgctxt "STRINGS.ACTIONS.ACTIVATE.GATHER_MERM"
+msgid "Gather Merm"
+msgstr ""
+
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
 msgid "Activate"
@@ -3538,6 +3543,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOKELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOKELP"
+msgid "It's empty."
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
 msgid "My stuffed toy isn't so scary."
@@ -5211,6 +5221,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FREEDOM"
 msgid "I'm free! I'm finally free!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GATHER_MERM
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GATHER_MERM"
+msgid "Must be a Merm thing."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTDRAIN
@@ -12730,12 +12745,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORHAT"
-msgid "It looks merm-made."
+msgid "It won’t fit me. It’s a merm helmet."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "It still looks merm-made."
+msgid "It won’t fit me. It’s a merm helmet."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD
@@ -29270,12 +29285,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORHAT"
-msgid "I wish they had one in my size..."
+msgid "Aww, merms get all the good stuff."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "I wish they had one in my size..."
+msgid "Aww, merms get all the good stuff."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMGUARD
@@ -45880,12 +45895,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORHAT"
-msgid "Everyone likes a good hat."
+msgid "It’s for a merm."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Everyone likes a good hat."
+msgid "It’s for a merm."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD
@@ -62320,12 +62335,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORHAT"
-msgid "Such an avant-garde chapeau!"
+msgid "It is not a fit for me."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Such an avant-garde chapeau!"
+msgid "It is not a fit for me."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMGUARD
@@ -78105,12 +78120,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORHAT"
-msgid "A rough-hewn helm, but a helm nonetheless."
+msgid "’Tis not for me"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "A rough-hewn helm, but a helm nonetheless."
+msgid "’Tis not for me"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMGUARD
@@ -94620,12 +94635,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORHAT"
-msgid "The poor fools must think they look very dapper."
+msgid "Does it look I have the bulbous head of a merm?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "The poor fools must think they look very dapper."
+msgid "Does it look I have the bulbous head of a merm?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMGUARD
@@ -111075,12 +111090,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORHAT"
-msgid "Wurt says it's armor, but it just looks like a funny hat to us."
+msgid "Merms only? No fair."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Wurt says it's armor, but it just looks like a funny hat to us."
+msgid "Merms only? No fair."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMGUARD
@@ -127560,12 +127575,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORHAT"
-msgid "A meager attempt at protection."
+msgid "I’m not a merm."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "A meager attempt at protection."
+msgid "I’m not a merm."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMGUARD
@@ -144040,12 +144055,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORHAT"
-msgid "Merms possess naturally thick craniums, but some extra padding won't hurt."
+msgid "This helmet was specifically made to fit the merm cranium."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Merms possess naturally thick craniums, but some extra padding won't hurt."
+msgid "This helmet was specifically made to fit the merm cranium."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMGUARD
@@ -160490,12 +160505,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORHAT"
-msgid "It doesn't look like it'd actually protect your head very well."
+msgid "Who wants to wear a stupid merm hat anyway?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "It doesn't look like it'd actually protect your head very well."
+msgid "Who wants to wear a stupid merm hat anyway?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMGUARD
@@ -177020,12 +177035,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORHAT"
-msgid "Safety first, I guess."
+msgid "Ain’t my style."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "I can tell a lot of effort went into this."
+msgid "Ain’t my style."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMGUARD
@@ -193500,12 +193515,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORHAT"
-msgid "Wolfgang look handsome in fish man hat?"
+msgid "Is helmet special for fish man"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Oh, nice hat, but smell fishy."
+msgid "Is helmet special for fish man"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMGUARD
@@ -209925,12 +209940,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORHAT"
-msgid "That's a swampy hat."
+msgid "Merm noggins only, eh?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Pretty good, but still swampy."
+msgid "Merm noggins only, eh?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMGUARD
@@ -242880,12 +242895,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORHAT"
-msgid "I confirm that is a Merm hat."
+msgid "It will find its home on a merm’s fishy dome."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Made-to-measure for militant Merms."
+msgid "It will find its home on a merm’s fishy dome."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD
@@ -252143,6 +252158,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FREEDOM"
 msgid "Buh-bye!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_GATHER_MERM
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GATHER_MERM"
+msgid "Come, hungry Mermfolk! Feast and follow me! Flort!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOSTDRAIN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOSTDRAIN"
 msgid "Gluurrr... glorph... GLORRPP..."
@@ -259455,12 +259475,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORHAT"
-msgid "Protect Mermfolk head."
+msgid "Only for big Mermfolk, glorp…"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Fight for glory of Mermfolk!"
+msgid "Only for big Mermfolk, glorp…"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERMGUARD
@@ -275920,12 +275940,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORHAT"
-msgid "WHAT DO THE FISHFACES HAVE IN THEIR HEADS TO PROTECT?"
+msgid "JUST FOR FISHBEASTS? GOOD. IT’S UGLY"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "THIS HELMET IS FORMALITY"
+msgid "JUST FOR FISHBEASTS? GOOD. IT’S UGLY"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMGUARD
@@ -311518,6 +311538,16 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLPORTAL"
 msgid "An ocean portal that allows boats to travel long distances."
 msgstr ""
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT"
+msgid "Speeds up the respawning of Merm in Craftsmerm Houses, Merm Flort-ifications and Leaky Shacks.\n\nCan be used to call nearby merm to come eat the kelp and follow the Merm who summoned them."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT_UPGRADED
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT_UPGRADED"
+msgid "Speeds up the respawning of Merm in Craftsmerm Houses, Merm Flort-ifications and Leaky Shacks.\n\nCan be used to call nearby merm to come eat the kelp and follow the Merm who summoned them."
+msgstr ""
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ONEMANBAND
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ONEMANBAND"
 msgid "Wearing the One-Man Band is a sanity-lowering experience, but converts nearby pigmen and bunnymen to followers."
@@ -316310,7 +316340,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_1_2_DESC"
-msgid "Learn to craft the Superior Communal Kelp Dish, it holds more kelp for even faster Merm growth."
+msgid "Learn to craft the Superior Communal Kelp Dish, it holds more kelp for even faster Merm growth and calling in Merm for action."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_2_TITLE
@@ -316320,7 +316350,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_1_DESC"
-msgid "Learn to craft the Communal Kelp Dish to entice faster Merm growth."
+msgid "Learn to craft the Communal Kelp Dish to entice faster Merm growth and to call in Merm for action."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_TITLE
@@ -358611,6 +358641,21 @@ msgstr ""
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.11
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.11"
 msgid "Steam Deck"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.12
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.12"
+msgid "DualSense"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.13
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.13"
+msgid "Switch Controller (left)"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.14
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.14"
+msgid "Switch Controller (right)"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2
