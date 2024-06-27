@@ -56,6 +56,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.EQUIPMENTSWAP"
 msgid "Swap Clothes"
 msgstr "互換衣服"
 
+#. STRINGS.ACTIONS.ACTIVATE.GATHER_MERM
+msgctxt "STRINGS.ACTIONS.ACTIVATE.GATHER_MERM"
+msgid "Gather Merm"
+msgstr ""
+
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
 msgid "Activate"
@@ -534,7 +539,7 @@ msgstr "撲滅"
 #. STRINGS.ACTIONS.CLOSESPELLBOOK.REMOTE
 msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK.REMOTE"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #. STRINGS.ACTIONS.COMBINESTACK
 msgctxt "STRINGS.ACTIONS.COMBINESTACK"
@@ -1039,12 +1044,12 @@ msgstr "點燃"
 #. STRINGS.ACTIONS.LOOKAT.CLOSEINSPECT
 msgctxt "STRINGS.ACTIONS.LOOKAT.CLOSEINSPECT"
 msgid "Closely Examine"
-msgstr "仔細查看"
+msgstr "仔細檢查"
 
 #. STRINGS.ACTIONS.LOOKAT.GENERIC
 msgctxt "STRINGS.ACTIONS.LOOKAT.GENERIC"
 msgid "Examine"
-msgstr "查看"
+msgstr "檢查"
 
 #. STRINGS.ACTIONS.LOWER_ANCHOR
 msgctxt "STRINGS.ACTIONS.LOWER_ANCHOR"
@@ -3506,6 +3511,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN"
 msgid "Drat, I thought for sure there'd be something good inside!"
 msgstr "糟糕，我還以為裡面肯定會有好東西呢！"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.HASMERMLEADER
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.HASMERMLEADER"
+msgid "only_used_by_wurt"
+msgstr "only_used_by_wurt"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.HOSTBUSY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.HOSTBUSY"
 msgid "He seems a bit preoccupied at the moment."
@@ -3540,6 +3550,16 @@ msgstr "他應該穿不上。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "It looks like those birds flew the coop."
 msgstr "鳥兒看起來都飛走了。"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOKELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOKELP"
+msgid "It's empty."
+msgstr "它是空的。"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMERM
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMERM"
+msgid "Must be a Merm thing."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
@@ -4093,6 +4113,11 @@ msgstr "only_used_by_winona"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID"
+msgid "only_used_by_winona"
+msgstr "only_used_by_winona"
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED"
 msgid "only_used_by_winona"
 msgstr "only_used_by_winona"
 
@@ -5210,6 +5235,11 @@ msgstr "only_used_by_warly"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FREEDOM"
 msgid "I'm free! I'm finally free!"
 msgstr "我自由了！我終於自由了！"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GATHER_MERM
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GATHER_MERM"
+msgid "Must be a Merm thing."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTDRAIN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTDRAIN"
@@ -12728,13 +12758,13 @@ msgstr "魚腥味十足！"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORHAT"
-msgid "It looks merm-made."
-msgstr "看起來像是魚人造的。"
+msgid "It won’t fit me. It’s a merm helmet."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "It still looks merm-made."
-msgstr "看起來還是像魚人造的。"
+msgid "It won’t fit me. It’s a merm helmet."
+msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD"
@@ -19239,7 +19269,7 @@ msgstr "科學每次都能戰勝魔法。"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "It's about to explode! ...Sorry, old habit from my lab days."
-msgstr ""
+msgstr "快要爆炸了！……抱歉，讓你看到我在實驗室時的舊習慣了。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -29268,13 +29298,13 @@ msgstr "沼澤怪物！我就知道他們是真的！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORHAT"
-msgid "I wish they had one in my size..."
-msgstr "真希望有我能戴的號……"
+msgid "Aww, merms get all the good stuff."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "I wish they had one in my size..."
-msgstr "真希望有我能戴的號……"
+msgid "Aww, merms get all the good stuff."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MERMGUARD"
@@ -35734,7 +35764,7 @@ msgstr "它的寶石能量耗盡了。"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "I think it's too hot, Woby."
-msgstr ""
+msgstr "我覺得它過熱了，沃比。"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -45878,13 +45908,13 @@ msgstr "你走吧，別理我。"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORHAT"
-msgid "Everyone likes a good hat."
-msgstr "好帽子人人都喜歡。"
+msgid "It’s for a merm."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Everyone likes a good hat."
-msgstr "好帽子人人都喜歡。"
+msgid "It’s for a merm."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD"
@@ -52369,7 +52399,7 @@ msgstr "它耗盡了魔法能量。"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Can't push these gems too hard."
-msgstr ""
+msgstr "不能把這些寶石壓榨得太極限。"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -62318,13 +62348,13 @@ msgstr "魚販子！"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORHAT"
-msgid "Such an avant-garde chapeau!"
-msgstr "好前衛的小蓋帽！"
+msgid "It is not a fit for me."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Such an avant-garde chapeau!"
-msgstr "好前衛的小蓋帽！"
+msgid "It is not a fit for me."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMGUARD"
@@ -78103,13 +78133,13 @@ msgstr "去死吧，濕膩膩的魚獸！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORHAT"
-msgid "A rough-hewn helm, but a helm nonetheless."
-msgstr "是粗糙了一些，但終歸還是個頭盔。"
+msgid "’Tis not for me"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "A rough-hewn helm, but a helm nonetheless."
-msgstr "是粗糙了一些，但終歸還是個頭盔。"
+msgid "’Tis not for me"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MERMGUARD"
@@ -84559,7 +84589,7 @@ msgstr "它已經失去了驚人的能量！"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "It must catch its breath."
-msgstr ""
+msgstr "得讓它喘口氣。"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -94618,13 +94648,13 @@ msgstr "我到這裡的時候他們已經在這了。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORHAT"
-msgid "The poor fools must think they look very dapper."
-msgstr "這些可憐的傻瓜沒准還認為自己看起來很瀟灑呢。"
+msgid "Does it look I have the bulbous head of a merm?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "The poor fools must think they look very dapper."
-msgstr "這些可憐的傻瓜沒准還認為自己看起來很瀟灑呢。"
+msgid "Does it look I have the bulbous head of a merm?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMGUARD"
@@ -101079,7 +101109,7 @@ msgstr "魔法沒這麼容易，對吧？"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Give it a rest."
-msgstr ""
+msgstr "讓它休息一下吧。"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -111073,13 +111103,13 @@ msgstr "我本以為它們更經常洗澡！"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORHAT"
-msgid "Wurt says it's armor, but it just looks like a funny hat to us."
-msgstr "沃特說這是盔甲，但在我們看來，這只是一頂滑稽的帽子。"
+msgid "Merms only? No fair."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Wurt says it's armor, but it just looks like a funny hat to us."
-msgstr "沃特說這是盔甲，但在我們看來，這只是一頂滑稽的帽子。"
+msgid "Merms only? No fair."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMGUARD"
@@ -127558,13 +127588,13 @@ msgstr "可怕的沼澤怪物！"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORHAT"
-msgid "A meager attempt at protection."
-msgstr "微不足道的保護措施。"
+msgid "I’m not a merm."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "A meager attempt at protection."
-msgstr "微不足道的保護措施。"
+msgid "I’m not a merm."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMGUARD"
@@ -134014,7 +134044,7 @@ msgstr "我看它需要寶石。"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "It takes a lot of breaks."
-msgstr ""
+msgstr "它真能休息啊。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -144038,13 +144068,13 @@ msgstr "一隻雙魚座的兩足動物！"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORHAT"
-msgid "Merms possess naturally thick craniums, but some extra padding won't hurt."
-msgstr "魚人的頭蓋骨天生很厚，但多加點墊子也無妨。"
+msgid "This helmet was specifically made to fit the merm cranium."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Merms possess naturally thick craniums, but some extra padding won't hurt."
-msgstr "魚人的頭蓋骨天生很厚，但多加點墊子也無妨。"
+msgid "This helmet was specifically made to fit the merm cranium."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMGUARD"
@@ -150494,7 +150524,7 @@ msgstr "它需要一個新的魔法焦點。"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Poor thing overworked itself."
-msgstr ""
+msgstr "可憐的小傢伙操勞過度了。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -160488,13 +160518,13 @@ msgstr "又軟又濕，真噁心。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORHAT"
-msgid "It doesn't look like it'd actually protect your head very well."
-msgstr "它看起來並不能很好地保護腦袋。"
+msgid "Who wants to wear a stupid merm hat anyway?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "It doesn't look like it'd actually protect your head very well."
-msgstr "它看起來並不能很好地保護腦袋。"
+msgid "Who wants to wear a stupid merm hat anyway?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMGUARD"
@@ -166949,7 +166979,7 @@ msgstr "哎呀，壞了。"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "I'll show you overheated..."
-msgstr ""
+msgstr "不如我給你展示展示什麼叫過熱……"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -168899,12 +168929,17 @@ msgstr "咱先喘口氣。"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_DISMISS
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_DISMISS"
 msgid "Drat, I lost the trail!"
-msgstr ""
+msgstr "倒楣，我失去了它的蹤跡！"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_INVALID"
 msgid "No signs of Charlie."
 msgstr "沒有查理的痕跡。"
+
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED
+msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_STUMPED"
+msgid "Hmm... I can't tell if Charlie's been here."
+msgstr "額……我看不出查理有沒有來過"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -177013,13 +177048,13 @@ msgstr "你可真醜！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORHAT"
-msgid "Safety first, I guess."
-msgstr "還是要安全第一。"
+msgid "Ain’t my style."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "I can tell a lot of effort went into this."
-msgstr "能看出來做了很多努力。"
+msgid "Ain’t my style."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERMGUARD"
@@ -183469,7 +183504,7 @@ msgstr "還要再來點寶石。"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Yikes! Better give it a minute to cool off!"
-msgstr ""
+msgstr "誒呀! 最好給它一分鐘冷卻一下！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -193493,13 +193528,13 @@ msgstr "魚人！"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORHAT"
-msgid "Wolfgang look handsome in fish man hat?"
-msgstr "沃爾夫岡戴魚人帽子帥嗎？"
+msgid "Is helmet special for fish man"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Oh, nice hat, but smell fishy."
-msgstr "哦，帽子不錯，但有股魚腥味。"
+msgid "Is helmet special for fish man"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMGUARD"
@@ -199949,7 +199984,7 @@ msgstr "維修女工，趕快來修啊！"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Is supposed to do that, yes?"
-msgstr ""
+msgstr "它這樣正常嗎？"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -209918,13 +209953,13 @@ msgstr "那東西是從多骯髒的大海裡面爬出來的啊？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORHAT"
-msgid "That's a swampy hat."
-msgstr "那是沼澤帽。"
+msgid "Merm noggins only, eh?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Pretty good, but still swampy."
-msgstr "好是好，但還是沼澤的東西。"
+msgid "Merm noggins only, eh?"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMGUARD"
@@ -216379,7 +216414,7 @@ msgstr "油盡燈枯了。"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Worked a little too hard, eh?"
-msgstr ""
+msgstr "有點過頭了，誒？"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -232854,7 +232889,7 @@ msgstr "噢，需要亮起來"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Oh. Machine not happy..."
-msgstr ""
+msgstr "喔。機器不高興……"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -242873,13 +242908,13 @@ msgstr "看到我碩大的角你不感到害怕嗎？"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORHAT"
-msgid "I confirm that is a Merm hat."
-msgstr "清楚明瞭，是魚人帽。"
+msgid "It will find its home on a merm’s fishy dome."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Made-to-measure for militant Merms."
-msgstr "為魚人民兵量身定做。"
+msgid "It will find its home on a merm’s fishy dome."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD"
@@ -249329,7 +249364,7 @@ msgstr "遊戲時間結束。"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "It fired up and fizzled out, hyuyu!"
-msgstr ""
+msgstr "先明後暗，晾在一邊，哼！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -250791,6 +250826,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN"
 msgid "Glargh... no stuff in there, where they hide it?!"
 msgstr "格辣格……裡面什麼都沒有，它們藏在哪了？"
 
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.HASMERMLEADER
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.HASMERMLEADER"
+msgid "Another Merm is using it right now."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.HOSTBUSY
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.HOSTBUSY"
 msgid "Hey! Trying to talk to you!"
@@ -250825,6 +250865,11 @@ msgstr "不應該把這個放在那裡。"
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOCARNIVAL"
 msgid "Huh? Where the Birdfolk go?"
 msgstr "哈？鳥人去哪裡了？"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOKELP
+msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOKELP"
+msgid "Needs more snacks."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
@@ -252135,6 +252180,11 @@ msgstr "only_used_by_warly"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FREEDOM"
 msgid "Buh-bye!"
 msgstr "再見咯！"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_GATHER_MERM
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GATHER_MERM"
+msgid "Come, hungry Mermfolk! Feast and follow me! Flort!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOSTDRAIN
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GHOSTDRAIN"
@@ -259448,13 +259498,13 @@ msgstr "你好，浮浪特!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORHAT"
-msgid "Protect Mermfolk head."
-msgstr "能保護魚人的頭。"
+msgid "Only for big Mermfolk, glorp…"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "Fight for glory of Mermfolk!"
-msgstr "為魚人的榮譽而戰！"
+msgid "Only for big Mermfolk, glorp…"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERMGUARD"
@@ -265909,7 +265959,7 @@ msgstr "它本應該做點什麼嗎？"
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "Glorp! Hot! Hot!"
-msgstr ""
+msgstr "格浪噗！燙! 燙!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -275913,13 +275963,13 @@ msgstr "生猛海鮮"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORHAT"
-msgid "WHAT DO THE FISHFACES HAVE IN THEIR HEADS TO PROTECT?"
-msgstr "魚臉的腦袋裡有什麼東西需要保護？"
+msgid "JUST FOR FISHBEASTS? GOOD. IT’S UGLY"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMARMORUPGRADEDHAT"
-msgid "THIS HELMET IS FORMALITY"
-msgstr "這個頭盔純粹是做樣子"
+msgid "JUST FOR FISHBEASTS? GOOD. IT’S UGLY"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMGUARD"
@@ -282369,7 +282419,7 @@ msgstr "為什麼..."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "OVERALLS IS OVERWORKING THE MACHINES IN HER CARE. ABOMINABLE"
-msgstr ""
+msgstr "工裝褲正在極力壓榨的手下的機器。可惡"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -285789,7 +285839,7 @@ msgstr "射擊靶"
 #. STRINGS.ENGINEER_REMOTE.WAKEUP
 msgctxt "STRINGS.ENGINEER_REMOTE.WAKEUP"
 msgid "Arm Catapult"
-msgstr "武裝投石車"
+msgstr "武裝投石機"
 
 #. STRINGS.EPITAPHS.1
 msgctxt "STRINGS.EPITAPHS.1"
@@ -290914,7 +290964,7 @@ msgstr "布魯特格浪皮格勒粗！"
 #. STRINGS.MERM_TALK_HELP_TILL.3.1
 msgctxt "STRINGS.MERM_TALK_HELP_TILL.3.1"
 msgid "Dig, diggy, dig!"
-msgstr ""
+msgstr "挖，挖，挖！"
 
 #. STRINGS.MERM_TALK_HELP_TILL.3.2
 msgctxt "STRINGS.MERM_TALK_HELP_TILL.3.2"
@@ -293334,7 +293384,7 @@ msgstr "查理"
 #. STRINGS.NAMES.CHARLIERESIDUE
 msgctxt "STRINGS.NAMES.CHARLIERESIDUE"
 msgid "Dark Vestige"
-msgstr "暗黑遺跡"
+msgstr "黑暗痕跡"
 
 #. STRINGS.NAMES.CHARLIEROSE
 msgctxt "STRINGS.NAMES.CHARLIEROSE"
@@ -296409,12 +296459,12 @@ msgstr "堅固的石質護甲"
 #. STRINGS.NAMES.LAVAARENA_ARMORHEAVY
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORHEAVY"
 msgid "Stone Splint Mail"
-msgstr "石頭板甲"
+msgstr "石頭板條甲"
 
 #. STRINGS.NAMES.LAVAARENA_ARMORLIGHT
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORLIGHT"
 msgid "Reed Tunic"
-msgstr "蘆葦束腰外衣"
+msgstr "蘆葦外衣"
 
 #. STRINGS.NAMES.LAVAARENA_ARMORLIGHTSPEED
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORLIGHTSPEED"
@@ -302509,7 +302559,7 @@ msgstr "W.A.R.B.I.S.頭戴齒輪"
 #. STRINGS.NAMES.WAGPUNK_BITS
 msgctxt "STRINGS.NAMES.WAGPUNK_BITS"
 msgid "Scrap"
-msgstr "廢鐵"
+msgstr "廢料"
 
 #. STRINGS.NAMES.WAGSTAFF_MACHINERY
 msgctxt "STRINGS.NAMES.WAGSTAFF_MACHINERY"
@@ -303069,7 +303119,7 @@ msgstr "薇諾娜的聚光燈"
 #. STRINGS.NAMES.WINONA_STORAGE_ROBOT
 msgctxt "STRINGS.NAMES.WINONA_STORAGE_ROBOT"
 msgid "W.I.N.bot"
-msgstr "W.I.N.機器人"
+msgstr "薇機人"
 
 #. STRINGS.NAMES.WINONA_TELEBRELLA
 msgctxt "STRINGS.NAMES.WINONA_TELEBRELLA"
@@ -311049,7 +311099,7 @@ msgstr "靠近熱的東西時會發熱，靠近冷的東西時會冷卻。\n\n�
 #. STRINGS.SCRAPBOOK.SPECIALINFO.HERMITCRAB
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.HERMITCRAB"
 msgid "This cantankerous crustacean isn't the easiest to get along with, but with a bit of time and care, you might just discover that there's more to her underneath that hard outer shell."
-msgstr "這種脾氣暴躁的甲殼類動物並不是最容易相處的，但只要花點時間和細心照料，你就會發現在它堅硬的外殼下還有更多的東西。"
+msgstr "這個脾氣暴躁的甲殼類動物並不是最容易相處的，但只要花點時間和細心照料，你就會發現在她堅硬的外殼下還有更多的東西。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.HERMITHOUSE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.HERMITHOUSE"
@@ -311249,12 +311299,12 @@ msgstr "放入采下的草和木頭後，魚人守衛會從中抓取一個沼澤
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED"
 msgid "While stocked with twigs and rocks, regular Merm will grab a Shoddy Tool from it, reducing its stores.\n\nShoddy tools will increase the amount of work a merm does for a short time.\n\nWith a shoddy tool, follower Merm will help chop trees, mine rocks, dig in a garden and Till soil."
-msgstr ""
+msgstr "放入樹枝和石頭後，普通魚人會從中抓取一件劣質工具，隨後它的儲存量會相應減少。\n\n劣質工具會在短時間內提升魚人的工作量。\n\n裝備劣質工具後的魚人追隨者會協助砍樹、開採石頭、開墾園地和翻土。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED_UPGRADED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MERM_TOOLSHED_UPGRADED"
 msgid "While stocked with twigs and rocks, regular Merm will grab a Slightly Less Shoddy Tool from it, reducing its stores.\n\nSlightly Less Shoddy tools increase the amount of work a merm does a little more than their lesser sibling, the Shoddy Tool.\n\nWith a shoddy tool, follower Merm will help chop trees, mine rocks, dig in a garden and Till soil."
-msgstr ""
+msgstr "放入樹枝和石頭後，普通魚人從中抓取一件不那麼劣質的工具，隨後它的儲存量會相應減少。\n\n不那麼劣質的工具比它的小兄弟劣質工具能提升略多一點的工作量。\n\n裝備不那麼劣質的工具後，魚人追隨者會協助砍樹、開採石頭、開墾園地和翻土。"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MESSAGEBOTTLE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MESSAGEBOTTLE"
@@ -311510,6 +311560,16 @@ msgstr "站在樹旁可以為冒險家提供35%的防雨保護和少量降溫。
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLPORTAL"
 msgid "An ocean portal that allows boats to travel long distances."
 msgstr "可讓船隻遠距離航行的海洋傳送門。"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT"
+msgid "Speeds up the respawning of Merm in Craftsmerm Houses, Merm Flort-ifications and Leaky Shacks.\n\nCan be used to call nearby merm to come eat the kelp and follow the Merm who summoned them."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT_UPGRADED
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OFFERING_POT_UPGRADED"
+msgid "Speeds up the respawning of Merm in Craftsmerm Houses, Merm Flort-ifications and Leaky Shacks.\n\nCan be used to call nearby merm to come eat the kelp and follow the Merm who summoned them."
+msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ONEMANBAND
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ONEMANBAND"
@@ -314259,7 +314319,7 @@ msgstr "生存"
 #. STRINGS.SKILLTREE.PANELS.SWAMPMASTER
 msgctxt "STRINGS.SKILLTREE.PANELS.SWAMPMASTER"
 msgid "MERMDOM"
-msgstr ""
+msgstr "魚人國度"
 
 #. STRINGS.SKILLTREE.PANELS.TORCH
 msgctxt "STRINGS.SKILLTREE.PANELS.TORCH"
@@ -315239,7 +315299,7 @@ msgstr "一級尋覓暗影"
 #. STRINGS.SKILLTREE.WINONA.WINONA_CHARLIE_2_DESC
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_CHARLIE_2_DESC"
 msgid "Become more adept at locating traces of shadow magic.\nThe Queen will watch over you."
-msgstr ""
+msgstr "更善於尋找暗影魔法的蹤跡。\n女王會守護著你。"
 
 #. STRINGS.SKILLTREE.WINONA.WINONA_CHARLIE_2_LOCK_DESC
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_CHARLIE_2_LOCK_DESC"
@@ -315299,7 +315359,7 @@ msgstr "需要便攜移動和輝煌寶石發電機技能才能解鎖。"
 #. STRINGS.SKILLTREE.WINONA.WINONA_LUNAR_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_LUNAR_3_TITLE"
 msgid "Enlightened Strike"
-msgstr "啟迪攻擊"
+msgstr "啟迪襲擊"
 
 #. STRINGS.SKILLTREE.WINONA.WINONA_MIDSHELF_LOCK_DESC
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_MIDSHELF_LOCK_DESC"
@@ -315334,7 +315394,7 @@ msgstr "噩夢發電機"
 #. STRINGS.SKILLTREE.WINONA.WINONA_SHADOW_2_DESC
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_SHADOW_2_DESC"
 msgid "Learn how to utilize Pure Horror as a fuel source for Generators."
-msgstr "瞭解如何利用噩夢燃料作為寶石發電機的燃料來源。"
+msgstr "瞭解如何利用純粹恐懼作為寶石發電機的燃料來源。"
 
 #. STRINGS.SKILLTREE.WINONA.WINONA_SHADOW_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_SHADOW_2_TITLE"
@@ -315354,12 +315414,12 @@ msgstr "需要便攜移動和純粹恐懼發電機技能才能解鎖。"
 #. STRINGS.SKILLTREE.WINONA.WINONA_SHADOW_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_SHADOW_3_TITLE"
 msgid "Shadow Strike"
-msgstr "暗影攻擊"
+msgstr "暗影襲擊"
 
 #. STRINGS.SKILLTREE.WINONA.WINONA_SPOTLIGHT_HEATED_DESC
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_SPOTLIGHT_HEATED_DESC"
 msgid "Upgrade your Spotlights to give off heat when it's cold out."
-msgstr ""
+msgstr "升級你的聚光燈，使其在溫度低時散發熱量。"
 
 #. STRINGS.SKILLTREE.WINONA.WINONA_SPOTLIGHT_HEATED_TITLE
 msgctxt "STRINGS.SKILLTREE.WINONA.WINONA_SPOTLIGHT_HEATED_TITLE"
@@ -316164,7 +316224,7 @@ msgstr "種植在蘑菇農場中的蘑菇生長得稍快一些。"
 #. STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_1_TITLE"
 msgid "Mushroom Mastery I"
-msgstr "蘑菇精通"
+msgstr "蘑菇精通 I"
 
 #. STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_2_DESC
 msgctxt "STRINGS.SKILLTREE.WORMWOOD.MUSHROOMPLANTER_RATEBONUS_2_DESC"
@@ -316243,8 +316303,8 @@ msgstr "一級水療"
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_DESC"
-msgid "Regenerate health when wet more effectively."
-msgstr "更有效地在潮濕時回復生命值。"
+msgid "Regenerate health when wet more effectively. It also make you slowly get wet as you step through the corrupted or mutated marsh turfs."
+msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_HEALING_2_TITLE"
@@ -316273,8 +316333,8 @@ msgstr "二級精神流淌"
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_DESC"
-msgid "Greatly reduce the effect of wetness on body temperature."
-msgstr "大大降低潮濕對體溫的影響。"
+msgid "Greatly reduce the effect of wetness on body temperature. It also fairly reduces wetness loss due to heat sources."
+msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_TEMPERATURE_TITLE"
@@ -316293,8 +316353,8 @@ msgstr "一級光滑表皮"
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_DESC"
-msgid "Use wetness as protection more effectively."
-msgstr "更有效地用潮濕作為保護。"
+msgid "Use wetness as protection more effectively. It also make you slowly get wet as you step through the corrupted or mutated marsh turfs."
+msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_AMPHIBIAN_THICKSKIN_2_TITLE"
@@ -316303,7 +316363,7 @@ msgstr "二級光滑表皮"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_1_2_DESC"
-msgid "Learn to craft the Superior Communal Kelp Dish, it holds more kelp for even faster Merm growth."
+msgid "Learn to craft the Superior Communal Kelp Dish, it holds more kelp for even faster Merm growth and calling in Merm for action."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_2_TITLE
@@ -316313,7 +316373,7 @@ msgstr "二級集體餵食"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_1_DESC"
-msgid "Learn to craft the Communal Kelp Dish to entice faster Merm growth."
+msgid "Learn to craft the Communal Kelp Dish to entice faster Merm growth and to call in Merm for action."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_1_TITLE
@@ -316324,7 +316384,7 @@ msgstr "一級集體餵食"
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_2_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_2_2_DESC"
 msgid "Learn to craft the Slightly Less Shoddy Tool shed, it provides Slightly Less Shoddy Tools."
-msgstr ""
+msgstr "學習製作一個不那麼劣質的工具棚，提供不那麼劣質的工具。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_2_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_2_2_TITLE"
@@ -316334,7 +316394,7 @@ msgstr "二級勤奮魚人"
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_2_DESC"
 msgid "Learn to craft the Shoddy Tool Shed to equip your Merm workers with Shoddy Tools."
-msgstr ""
+msgstr "學習製作一個劣質工具棚，為你的魚人工人配備劣質工具。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_2_TITLE"
@@ -316344,7 +316404,7 @@ msgstr "一級勤奮魚人"
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_3_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_3_2_DESC"
 msgid "Learn to craft the Superior Armermry, it provides Swamp Warrior Helmets."
-msgstr ""
+msgstr "學習製作一個高級魚人軍械庫，提供沼澤戰士頭盔。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_3_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_3_2_TITLE"
@@ -316354,7 +316414,7 @@ msgstr "二級硬腦袋"
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_3_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_3_DESC"
 msgid "Learn to craft the Armermry to equip your Loyal Merm Guards with Swamp Brawler Helmets."
-msgstr ""
+msgstr "學習製作一個魚人軍械庫，為你的忠誠魚人守衛配備沼澤鬥士頭盔。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_3_TITLE"
@@ -316364,7 +316424,7 @@ msgstr "一級硬腦袋"
 #. STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_DESC"
 msgid "Grant your loyal Merms the wondrous gift of Lunar mutation by feeding them Moon Shards.\nEmpower your mutant merm with Planar power using Pure Brilliance."
-msgstr ""
+msgstr "通過餵食月亮碎片，賜予你的魚人月亮變異的美妙禮物。\n使用純粹輝煌 賦予你的變異魚人位面力量。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_TITLE"
@@ -316394,7 +316454,7 @@ msgstr "國王的皇冠任務"
 #. STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_DESC"
 msgid "Add stony armor to the King's statuesque shoulders for greater stoutness in your Merm soldiers."
-msgstr ""
+msgstr "為國王的雕塑般的肩膀上添加石甲，讓你的魚人士兵更加強壯。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_TITLE"
@@ -316414,7 +316474,7 @@ msgstr "國王的三叉戟任務"
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_FLEE_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_FLEE_DESC"
 msgid "Merm Guards will retreat from combat when low on health, and wait to be healed."
-msgstr ""
+msgstr "魚人守衛會在生命值較低時退出戰鬥，等待治療。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_FLEE_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_FLEE_TITLE"
@@ -316424,32 +316484,32 @@ msgstr "理智的沼澤戰士"
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_1_DESC"
 msgid "Increase the Merm King's maximum hunger."
-msgstr ""
+msgstr "增加魚人王的最大饑餓值。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_1_TITLE"
 msgid "Sated Sovereign I"
-msgstr ""
+msgstr "一級飽君"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_2_DESC"
 msgid "Increase the Merm King's maximum hunger even more."
-msgstr ""
+msgstr "再增加魚人王的最大饑餓值。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_2_TITLE"
 msgid "Sated Sovereign II"
-msgstr ""
+msgstr "二級飽君"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_3_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_3_DESC"
 msgid "Slow the Merm King's digestion, so he takes longer to get hungry."
-msgstr ""
+msgstr "減緩魚人王的消化速度，這樣他就會更久之後才能感到饑餓。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERM_KING_HUNGER_3_TITLE"
 msgid "Sated Sovereign III"
-msgstr ""
+msgstr "三級飽君"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MOSQUITO_CRAFT_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MOSQUITO_CRAFT_1_DESC"
@@ -316474,7 +316534,7 @@ msgstr "一級癢術"
 #. STRINGS.SKILLTREE.WURT.WURT_MOSQUITO_CRAFT_3_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MOSQUITO_CRAFT_3_DESC"
 msgid "Master the use of the Mosquito based items.\n\nWith the help of Lil' Itchy, catch mosquitos right from the air."
-msgstr ""
+msgstr "精通基於蚊子類物品的使用方法。\n\n有了小癢癢的幫助，你就能從空氣裡抓蚊子。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MOSQUITO_CRAFT_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MOSQUITO_CRAFT_3_TITLE"
@@ -316494,7 +316554,7 @@ msgstr "沼澤探路人"
 #. STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_DESC"
 msgid "Your Merm followers will have one foot in the Shadow world.\nInfuse shadow merm with Planar power using Pure Horror."
-msgstr "你的魚人追隨者將會一隻腳踏進暗影世界。\\使用純粹恐懼為暗影魚人灌注位面力量。"
+msgstr "你的魚人追隨者將會一隻腳踏進暗影世界。\n使用純粹恐懼為暗影魚人灌注位面力量。"
 
 #. STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_TITLE"
@@ -316739,7 +316799,7 @@ msgstr "編制這件草制護甲需要大量的精力和高超工藝。"
 #. STRINGS.SKIN_DESCRIPTIONS.armor_marble_chainmail
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_marble_chainmail"
 msgid "This splint mail is crafted of many marble slabs chained together."
-msgstr "這件板甲由許多鏈條穿在一起的石板製成。"
+msgstr "這件板條甲由許多鏈條穿在一起的石板製成。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.armor_marble_rockabs
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_marble_rockabs"
@@ -317036,6 +317096,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_crystal"
 msgid "A dazzling amber dome where bees make liquid gold."
 msgstr "亮閃閃的琥珀色蜂巢穹頂，蜜蜂在裡面生產液體黃金。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.beebox_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_garden"
+msgid "The rustic design is all the bzzzzzz."
+msgstr "鄉村風格的設計酷得“滋滋”作響。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.beebox_house
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beebox_house"
 msgid "This charming little abode is sure to put your bees at ease."
@@ -317291,6 +317356,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking_alt"
 msgid "The lingering Pig King smell is actually quite pleasant."
 msgstr "散不去豬王的味道真是好聞。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.beehat_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.beehat_garden"
+msgid "Equal parts whimsy and protection."
+msgstr "奇思妙想與保護並存。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.beehat_mourning
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beehat_mourning"
 msgid "For the fashionably morose."
@@ -317336,6 +317406,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bernie_cat_shadow_build"
 msgid "Willow will be so happy to see Ashley again!"
 msgstr "薇洛再見到艾希莉一定很高興！"
 
+#. STRINGS.SKIN_DESCRIPTIONS.birdcage_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.birdcage_adventure"
+msgid "This cage's bold design will impress even the bird it imprisons."
+msgstr "這款籠子的大膽設計甚至會給它囚禁的鳥兒留下深刻印象。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.birdcage_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.birdcage_circus"
 msgid "Circus freak not included."
@@ -317371,6 +317446,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.birdcage_romantic"
 msgid "Perhaps the bird will enjoy its stay."
 msgstr "也許鳥兒會喜歡待在這兒。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.boat_grass_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_grass_pirate"
+msgid "A bare-bones design for the penny-pinchin' privateer."
+msgstr "專為吝嗇的私掠者定制的骨感設計。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.boat_grass_pirate_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_grass_pirate_item"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.boat_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_nautical"
 msgid "No one knows how long this boat has been lost at sea, or what became of its crew."
@@ -317378,6 +317463,16 @@ msgstr "沒有人知道這艘船在海上迷失了多久，也沒有人知道它
 
 #. STRINGS.SKIN_DESCRIPTIONS.boat_nautical_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_nautical_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.boat_pirate_skin
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_pirate_skin"
+msgid "Terrorize the high seas with swashbuckling style."
+msgstr "在公海上肆意馳騁，盡顯江洋大盜風範。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.boat_pirate_skin_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_pirate_skin_item"
 msgid "n/a"
 msgstr "n/a"
 
@@ -318156,6 +318251,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_warly_victorian"
 msgid "The correct term is \"Culinary Specialist\"."
 msgstr "準確的術語是“料理專家”。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_ancient"
+msgid "A look so old, it's back in style."
+msgstr "復古造型現在又流行了。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_cook"
 msgid "Starched and pressed, for the well-dressed chef."
@@ -318796,6 +318896,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_yule"
 msgid "A jacket to keep you sensibly and seasonally dressed."
 msgstr "這件外套讓你理性併入時地著裝。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_willow_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_ancient"
+msgid "The Sentrypede served as an ancient symbol of protection. It doesn't seem to have been very effective."
+msgstr "哨兵蜈蚣是遠古保護神的象徵。保護效果似乎並不佳。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_willow_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_willow_cook"
 msgid "Every kitchen needs a dishwasher."
@@ -319010,6 +319115,11 @@ msgstr "你有沒有試過切除導致你病痛的部位？"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wilson_yule"
 msgid "The berry-red scarf gives this overcoat a festive touch."
 msgstr "莓紅色的圍巾給這件大衣帶來了節日的氣息。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_winona_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_winona_ancient"
+msgid "A look so old, it's come back in style."
+msgstr "古老的造型，現在又流行起來了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_winona_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_winona_cook"
@@ -319476,6 +319586,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wortox_victorian"
 msgid "Stone wings aren't of much use flying, which is why gargoyles stick to the rafters."
 msgstr "石頭翅膀飛不起來，所以石像鬼才貼在椽子上。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.body_wurt_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_ancient"
+msgid "Polished stone jewelry was most likely used as a status symbol among ancient Merms."
+msgstr "拋光的石制珠寶很可能是遠古魚人地位的象徵。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.body_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wurt_cave"
 msgid "You'll fit right in with the creatures of the deep."
@@ -319711,6 +319826,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_frog"
 msgid "A closed mouth catches no flies."
 msgstr "嘴巴閉上就吃不到蒼蠅。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.bugnet_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_garden"
+msgid "For bugs with good taste."
+msgstr "專為有品味的蟲子準備。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.bugnet_lavaproof
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bugnet_lavaproof"
 msgid "For when things get too hot to handle."
@@ -319736,6 +319856,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_gothic"
 msgid "Somehow, even the bow can't make it cheery."
 msgstr "不知何故，即使是蝴蝶結也不能使它變得歡快。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.bundle_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_kitchen"
+msgid "Packed with love and care."
+msgstr "滿滿的愛與關懷的。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.bundle_vintage
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_vintage"
 msgid "This floral parchment wrap keeps goods as fresh as a daisy."
@@ -319750,6 +319875,11 @@ msgstr "讓記憶中長存鴉年華的美好，哪怕它已遠去。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_gothic"
 msgid "Somehow, even the bow can't make it cheery."
 msgstr "不知何故，即使是蝴蝶結也不能使它變得歡快。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_kitchen"
+msgid "Packed with love and care."
+msgstr "滿滿的愛與關懷的。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_vintage
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_vintage"
@@ -319910,6 +320040,11 @@ msgstr "篝火燒起來，泡泡冒上來！"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.cookpot_clay"
 msgid "The earthy colors add warmth to your decor, as the fire adds warmth to your food."
 msgstr "大地色調為你的裝飾增加溫暖，像火焰溫暖食物一樣。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.cookpot_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.cookpot_kitchen"
+msgid "This crockpot is a must-have for any cottage, as is the cottage."
+msgstr "這個燉鍋是所有村舍的必備品，當然還有村舍本身。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.cookpot_survival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.cookpot_survival"
@@ -320081,6 +320216,36 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_decorated_item"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen"
+msgid "A post decorated with delicately-carved floral patterns."
+msgstr "樁子上裝飾著精雕細琢的花卉圖案。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen2"
+msgid "Stout, sturdy, and well-made."
+msgstr "堅固、結實、製作精良。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen2_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen2_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen3"
+msgid "This post has been carved with utmost care."
+msgstr "這根樁子經過了精心的雕琢。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen3_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen3_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_kitchen_item"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.dragonflychest_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonflychest_fantasy"
 msgid "The only thing that will placate this fearsome chest is a belly full of treasure."
@@ -320100,6 +320265,11 @@ msgstr "只有寶藏才能安撫這個令人望而生畏的箱子。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonflychest_upgraded_kraken"
 msgid "This chest is guarded by the visage of a terrifying sea creature."
 msgstr "這個箱子由一個恐怖的海洋生物的容貌所守護。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.dragonflyfurnace_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonflyfurnace_adventure"
+msgid "Despite the heat it provides, you can't help but feel a chill run down your spine."
+msgstr "儘管它散發熱量，但你還是會不禁感到脊背發涼。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.dragonflyfurnace_antique
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dragonflyfurnace_antique"
@@ -320506,6 +320676,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.endtable_vintage"
 msgid "A quaint decorative table that would make your grandmother proud."
 msgstr "一張精巧的裝飾桌，會讓你的祖母為你感到自豪。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_adventure"
+msgid "Staying fashionable in the wilderness is a tall order, but luckily you have an eye for it."
+msgstr "在荒野中保持時尚是一項艱巨的任務，但幸好你有一隻慧眼。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_crystal"
 msgid "Somewhere in the Constant there's a Deerclops missing her contact lens."
@@ -320515,6 +320690,11 @@ msgstr "永恆領域的某處，有一隻丟了隱形眼鏡的獨眼巨鹿。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_fantasy"
 msgid "You can't shake the feeling that a terrifying creature has its eye on you."
 msgstr "你無法擺脫一種感覺：有可怕的生物正在目不轉睛地盯著你。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_rose"
+msgid "A bit of bad weather won't shake your rosy disposition."
+msgstr "一點壞天氣動搖不了你玫瑰色的好性格。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_victorian"
@@ -320911,6 +321091,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_victorian"
 msgid "They're shined so brightly you can see your own reflection in them."
 msgstr "擦的鋥亮，你能看到自己的倒影。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_ancient"
+msgid "What these sandals lack in comfort, they'll make up for in longevity."
+msgstr "別看這涼鞋不舒服，但它使用壽命長。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_gladiator"
 msgid "A pair of battlemaster's sandals to wear into the arena."
@@ -321120,6 +321305,11 @@ msgstr "身居社會高級階層的女性的時尚高跟鞋。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wickerbottom_yule"
 msgid "Comfortable heels for running seasonal errands."
 msgstr "舒適的鞋跟適合跑季節性差事。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.feet_willow_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_ancient"
+msgid "Follow in the footsteps of the Ancients."
+msgstr "跟隨古人的足跡。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_willow_dowdy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_willow_dowdy"
@@ -321626,6 +321816,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical"
 msgid "Fit for only the finest fish."
 msgstr "只適合最好的魚。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.fishbox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_pirate"
+msgid "The perfect hiding spot for fishy cargo."
+msgstr "可疑腥味貨物的完美藏身之處。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown"
 msgid "This feather hat is so luxurious to the touch!"
@@ -321650,6 +321845,11 @@ msgstr "用可愛的緞帶做一個花環戴在頭上，帶來季節性的氛圍
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_wreath"
 msgid "Laurels ought rest on you, not the other way around."
 msgstr "頭冠應該擱在你頭上，而不是其他方式。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_adventure"
+msgid "Charge a head into battle."
+msgstr "一頭紮進戰場。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm"
@@ -321720,6 +321920,11 @@ msgstr "老朋友有了新的靚麗外觀。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.glommerflower_fantasy"
 msgid "n/a"
 msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_garden"
+msgid "It would be a shame to get dirt on this beautifully crafted garden hoe."
+msgstr "如果讓這把做工精美的園藝鋤沾上泥土，那就太可惜了。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_invisible"
@@ -322261,6 +322466,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_victorian"
 msgid "You'll be the envy of all at the luncheon in this refined number."
 msgstr "如此精緻美物，會讓你在午餐時受到眾人豔羨。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_ancient"
+msgid "These bracelets may be old, but they've never lost their lustre."
+msgstr "手鐲雖然年代久遠，但從未失去光澤。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_willow_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_gladiator"
 msgid "A fine leather set of bracers to wear into battle."
@@ -322616,6 +322826,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_victorian"
 msgid "Hands of not-so-lifeless stone."
 msgstr "具有生命力的一雙石手。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_ancient"
+msgid "At some point in their evolution, Merms must have traded their fins for claws."
+msgstr "在進化的某個階段，魚人一定是把鰭換成了爪子。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_cave"
 msgid "These claws were made for poking around in the dark."
@@ -322796,6 +323011,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_crystal"
 msgid "As icy inside as it is outside."
 msgstr "裡面跟外面一樣冰冰涼。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_kitchen"
+msgid "It's pretty cool."
+msgstr "冷酷到底。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.icebox_porcelain
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_porcelain"
 msgid "Cold and pristine, like new-fallen snow."
@@ -322805,6 +323025,11 @@ msgstr "冰冷純淨，一如剛落的雪花。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_victorian"
 msgid "A sophisticated ice box, for the sophisticated wilderness dweller."
 msgstr "一個精緻的冰箱子，適合精緻的野外住宿者。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icepack_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icepack_kitchen"
+msgid "The perfect pick to pack your next picnic."
+msgstr "是您下次野餐的最佳選擇。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.icestaff_bee
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_bee"
@@ -322875,6 +323100,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_basket"
 msgid "Its heavy load pales in comparison to the weight on your conscience."
 msgstr "它身上的重擔跟你良心上的重量相比簡直微不足道。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_garden"
+msgid "The world is your garden, and it's ripe for the picking."
+msgstr "世界就是你的花園，已經成熟，任你採摘。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_voidbag
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_voidbag"
@@ -323801,6 +324031,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_victorian"
 msgid "The stonework is so lifelike, you could almost swear you saw them move..."
 msgstr "石雕技藝栩栩如生，你仿佛看到它們在動……"
 
+#. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_ancient"
+msgid "Perhaps ancient Merms lived in the ocean, propelled through the water by their powerful tails."
+msgstr "也許遠古魚人生活在海洋中，靠著有力的尾巴在水中前進。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wurt_cave"
 msgid "Just keep swimming!"
@@ -323880,6 +324115,11 @@ msgstr "節慶機器人的木制冬季腿。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lighter_haunteddoll"
 msgid "The fire from this lighter burns across all planes of existence simultaneously."
 msgstr "這個打火機迸發出的火焰會在各個世界同時燃燒。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_adventure"
+msgid "How does a regular eel become electric? The answer might shock you."
+msgstr "普通鰻魚要怎麼變成電鰻？答案可能會電到你。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.lightning_rod_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lightning_rod_gothic"
@@ -324141,6 +324381,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_waterlogged_trailer"
 msgid "Sailing beneath the comforting shade of the Drift Wood's Great Tree, it's all too easy to forget the danger that dangles above."
 msgstr "在浮木森林舒適的大樹蔭下航行時，很容易就會忘記懸在頭頂上的危險。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_waxwell
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_waxwell"
+msgid "Everyone take your seats, the Amazing Maxwell's next act is about to begin."
+msgstr "各位觀眾請入座，神奇的麥斯威爾的下個表演即將開始。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_webber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_webber"
 msgid "Webber could have easily seen his unique predicament as an affliction or a curse. Instead, he's chosen to view it as a second chance, and one that he fully intends not to waste."
@@ -324271,6 +324516,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_willowfire"
 msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all."
 msgstr "薇洛一直認為她被帶到永恆領域來是個新的開始。畢竟，她是這樣才拋下了一切。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wilson
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson"
+msgid "Wilson has never lost sight of his love for science."
+msgstr "威爾遜從未忘記他對科學的熱愛。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wilson_feast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson_feast"
 msgid "\"Science says I'll be nipping at your nose.\""
@@ -324280,6 +324530,11 @@ msgstr "\"根據科學的說法，我會讓你的鼻子冰凍結霜。\""
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience"
 msgid "Knowledge can consume the mind to feed the soul.\nAnd consume the soul to feed the mind."
 msgstr "知識可以消耗大腦來滋養靈魂。\n還可以消耗靈魂來滋養大腦。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_wilson_wagstaff
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wilson_wagstaff"
+msgid "When two great minds combine, anything could be possible."
+msgstr "當兩位智者結合在一起時，一切都變得皆有可能。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_winona2_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_winona2_trailer"
@@ -324433,6 +324688,16 @@ msgstr "像岩石大白鯊一樣，堅毅地航向大海吧。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_nautical_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_nautical_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_pirate"
+msgid "A mast made from the remnants of defeated ships (and possibly some of their crew)."
+msgstr "用戰敗船隻的殘骸（甚至是部分船員）製成的桅杆。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.mast_pirate_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_pirate_item"
 msgid "n/a"
 msgstr "n/a"
 
@@ -324811,6 +325076,16 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.oar_invisible"
 msgid "Convey an incredibly convincing impression of an oar."
 msgstr "惟妙惟肖地模仿了槳。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.ocean_trawler_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.ocean_trawler_pirate"
+msgid "Haul fish aplenty to feed your scurvy dogs and scallywags."
+msgstr "拖一網魚，來喂你的那些得了壞血病的狗和無賴海賊。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.ocean_trawler_pirate_kit
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.ocean_trawler_pirate_kit"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_hotline
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.oceanfishingrod_hotline"
 msgid "Give em' the ol' hook n' cook."
@@ -324866,6 +325141,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.orangestaff_victorian"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_adventure_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_adventure_1"
+msgid "This Intrepid Chest contains the following skin items: Gilded Birdcage, Tallbird Eyebrella, Barbarous Helmet, Dark Talisman, Electric Eel, and Foreboding Furnace."
+msgstr "這個無畏箱子包含了以下皮膚物品：鍍金鳥籠箱子、高腳鳥眼球傘、野蠻頭盔、暗黑護符、電鰻和不祥火爐。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ancient1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient1"
 msgid "This Archaic Attire Chest contains Wolfgang's Archaic skin set, Woodie's Archaic skin set, and Wormwood's Archaic skin set."
@@ -324875,6 +325155,21 @@ msgstr "這個古代服裝箱子包含沃爾夫岡的古代皮膚套裝、伍迪
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient1_items"
 msgid "This Archaic Artifacts Chest contains the following skin items: Archaic Meat Rack, Archaic Gym, Archaic Tent, Archaic Fencing, Archaic Gate, Overgrowth Husk and Archaic Chest."
 msgstr "這個古代器物箱子包含以下皮膚物品：古代晾肉架、古代健身房、古代帳篷、古代柵欄、古代大門、過度生長的外殼和古代箱子。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ancient2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient2"
+msgid "This Archaic Attire Chest contains Winona's Archaic skin set, Willow's Archaic skin set, Wurt's Archaic skin set, and Wigfrid's Archaic skin set."
+msgstr "這個古代服裝箱子包含薇諾娜的古代皮膚套裝、薇洛的古代皮膚套裝、沃特的古代皮膚套裝和薇格弗德的古代皮膚套裝。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ancient2_combo
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient2_combo"
+msgid "This Archaic Array Chest contains all the belongings skins from the Archaic Artifacts Chest, Part II and the Archaic Attire Chest, Part II."
+msgstr "這個古代陣列箱子包含了以下兩個箱子的所有財物皮膚：古代器物箱子，第二章；古代服裝箱子，第二章。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_ancient2_items
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient2_items"
+msgid "This Archaic Artifacts Chest contains all the belongings skins from the Intrepid Chest, the Cottage Cache Chest, Part II, the Gardener Chest, and the Swashbuckler Loot Chest."
+msgstr "這個古代器物箱子包含了以下箱子的所有財物皮膚：無畏箱子、鄉村收納箱子，第二章、園丁箱子和江洋大盜劫掠品箱子。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ancient_wolfgang
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient_wolfgang"
@@ -325088,13 +325383,18 @@ msgstr "這個箱子包含了全部7種熔爐系列武器皮膚物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_formal1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_formal1"
-msgid "This Guest of Honor chest contains skins for: Warly, Wortox, and Wormwood."
+msgid "This Guest of Honor Chest contains skins for: Warly, Wortox, and Wormwood."
 msgstr "這個貴賓寶箱包含以下人物的皮膚：沃利、 沃拓克斯和沃姆伍德。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_formal_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_formal_all"
 msgid "This Guest of Honor Chest contains every survivor's complete set of Guest of Honor skin items."
 msgstr "這個貴賓箱子包含了每位冒險家的貴賓皮膚。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_garden_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_garden_1"
+msgid "This Gardener Chest contains the following skin items: Beewitching Hat, Fetching Bug Net, Beespoke Garden Hoe, Vintage Apiary, Foraging Sack, and Quaint Seed Purse."
+msgstr "這個園丁箱子包含了以下皮膚物品：蜂女巫帽、抓人捕蟲網、訂制園藝鋤、復古蜂房、覓食袋和田園風種子包。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all"
@@ -325441,6 +325741,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ice_wx78"
 msgid "This Snowfallen Chest contains WX-78's complete set of Snowfallen skin items."
 msgstr "這個下雪箱子裡有WX-78的全套下雪皮膚物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_kitchen_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_kitchen_1"
+msgid "This Cottage Cache, Part II Chest contains the following skin items: Cottage Crock Pot, Robin Egg Ice Box, Charming Salt Tin, Cloth Wrap, Hand-Carved Post, Rustic Post, Artisan Post, and Charming Cooler Chest."
+msgstr "這個鄉村收納箱子，第二章包含了以下皮膚物品：村舍烹飪鍋、知更鳥蛋冰箱、魅力鹽罐、布包裹、手雕樁子、田園樁子、匠人樁子和魅力冷藏箱。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_lost_1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_lost_1"
 msgid "The chest contains Wilson's Verdant skin set, Wolfgang's Verdant skin set, Wurt's Roseate skin set, Wormwood's Triumphant skin set, and Warly's Head Chef set."
@@ -325770,6 +326075,11 @@ msgstr "《缺氧》禮物"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ornate_items"
 msgid "This Library Chest contains the following skin items: Mind's Eye Amulet, Walnut Bookstack, and Library Placard."
 msgstr "這個圖書館箱子包含以下皮膚物品：心靈之眼護身符、胡桃木書架和圖書館標牌。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_1
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_1"
+msgid "This Swashbuckler Loot Chest contains the following skin items: Piratin' Bin, Makeshift Mast, Pirate Sloop, Scallywag Raft, Crossbones Trawler, and Pilferin' Winch."
+msgstr "這個江洋大盜劫掠品箱子包含了以下皮膚物品：海盜桶、海寨桅杆、海盜單桅帆船、無賴海賊筏、白骨拖網漁船、和偷盜絞盤。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all"
@@ -326106,6 +326416,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_warly_victorian"
 msgid "This chest contains Warly's complete set of Victorian skin items."
 msgstr "這個箱子裡有沃利的全套維多利亞皮膚物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_ancient"
+msgid "This Archaic Chest contains Wigfrid's complete set of Archaic skin items."
+msgstr "這個古代箱子包含薇格弗德的全套古代皮膚物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_deluxe"
 msgid "This Deluxe Wardrobe contains Wigfrid's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Winged Victory skin items."
@@ -326336,6 +326651,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_survivor"
 msgid "This Chest contains Wickerbottom's complete set of Survivor skin items."
 msgstr "這個箱子包含了薇克巴頓的全套冒險家皮膚物品。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_willow_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_willow_ancient"
+msgid "This Archaic Chest contains Willow's complete set of Archaic skin items."
+msgstr "這個古代箱子包含薇洛的全套古代皮膚物品。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_willow_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_willow_deluxe"
 msgid "This Deluxe Wardrobe contains Willow's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Forlorn Doll skin items."
@@ -326405,6 +326725,11 @@ msgstr "這個箱子包含了威爾遜的全套凱旋皮膚物品。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_survivor"
 msgid "This Chest contains Wilson's complete set of Survivor skin items."
 msgstr "這個箱子包含了威爾遜的全套冒險家皮膚物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_winona_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_winona_ancient"
+msgid "This Archaic Chest contains Winona's complete set of Archaic skin items."
+msgstr "這個古代箱子包含薇諾娜的全套古代皮膚物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe"
@@ -326620,6 +326945,11 @@ msgstr "這個競技者箱子裡有沃爾夫岡的全套競技者皮膚物品，
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wx78"
 msgid "This Contenders Chest contains WX-78's complete set of Contenders skin items, as well as the Electrobolt Diffuser 300X and Fling-o-Tron 4000."
 msgstr "這個競技者箱子裡有WX-78的全套競技者皮膚物品，以及避雷針300X和投擲電器4000。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wurt_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wurt_ancient"
+msgid "This Archaic Chest contains Wurt's complete set of Archaic skin items."
+msgstr "這個古代箱子包含沃特的全套古代皮膚物品。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wurt_cave"
@@ -327058,6 +327388,11 @@ msgstr "裝備此物品以更改你的角色背景畫像。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_eyebrellahatcrystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_eyebrellahatcrystal"
+msgid "Equip this item to change your character's background portrait."
+msgstr "裝備此物品以更改你的角色背景畫像。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_eyebrellahatrose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_eyebrellahatrose"
 msgid "Equip this item to change your character's background portrait."
 msgstr "裝備此物品以更改你的角色背景畫像。"
 
@@ -327765,6 +328100,11 @@ msgstr "將你的頭像設為一顆壞掉的蛋。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_eyebrellahat_crystal"
 msgid "Set your profile icon to a Glass Eyebrella."
 msgstr "將你的頭像設為一個玻璃眼球傘。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_eyebrellahat_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_eyebrellahat_rose"
+msgid "Set your profile icon to a Rosy Eyebrella"
+msgstr "將你的頭像設為一把玫瑰眼球傘。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_factory
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_factory"
@@ -328881,6 +329221,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_science"
 msgid "Some might say that storing unstable chemicals next to a running engine is a \"bad idea\", but these people simply lack your vision."
 msgstr "也許有人會說，把不穩定化學品存放在運轉的發動機旁是個“餿主意”，但這些人顯然不具備你的遠見。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab3_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab3_adventure"
+msgid "Enjoy practicing the dark arts, in style."
+msgstr "時尚地練習黑魔法。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab3_ancient"
 msgid "You have the most unnerving feeling that you're being watched."
@@ -329136,6 +329481,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.saddle_basic_yotbalt"
 msgid "The best seat in the house for beefalo-related festivities."
 msgstr "觀看皮弗婁牛節慶活動的最佳位置。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.saltbox_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.saltbox_kitchen"
+msgid "A sweet design for salty storage."
+msgstr "鹹味儲存的甜美設計。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.saltbox_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.saltbox_nautical"
 msgid "This shell encrusted container utilizes sea salt as a natural preservative."
@@ -329170,6 +329520,11 @@ msgstr "隨心所欲地創作精巧的石雕吧。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.seafaring_prototyper_lighthouse"
 msgid "A beacon of nautical knowledge."
 msgstr "航海知識的燈塔。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.seedpouch_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.seedpouch_garden"
+msgid "A pretty purse for all your seed-carrying needs."
+msgstr "一個漂亮的小包，滿足您攜帶種子的所有需求。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.seedpouch_rustic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.seedpouch_rustic"
@@ -329766,8 +330121,18 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.umbrella_spider"
 msgid "This itsy bitsy spider has no fear of rain."
 msgstr "小小蜘蛛不怕雨露。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.walkingplank_grass_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_grass_pirate"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.walkingplank_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_nautical"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.walkingplank_pirate_skin
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walkingplank_pirate_skin"
 msgid "n/a"
 msgstr "n/a"
 
@@ -330191,10 +330556,20 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_banana"
 msgid "Headwear so a-peeling, it's bananas."
 msgstr "像香蕉一樣剝開的頭飾，真是瘋狂啊。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_cantaloupe
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_cantaloupe"
+msgid "A melon for your melon."
+msgstr "腦袋瓜上的瓜。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin"
 msgid "A fashionable accessory for those forced to wander this world on Halloween Night."
 msgstr "被迫在萬聖夜漫遊世界者的時髦配飾。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ancient"
+msgid "Wigfrid always did have a soft spot for historical fashion."
+msgstr "薇格弗德一直對歷史潮流情有獨鍾。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant"
@@ -331036,6 +331411,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_yule"
 msgid "You think organizing a Winter's Feast party is hard? Try working in a public library."
 msgstr "你認為組織冬季盛宴派對很難嗎？那是你沒在公共圖書館工作過。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.willow_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_ancient"
+msgid "Perhaps this outfit will spark an interest in history."
+msgstr "也許這套服裝會激發觀眾對歷史的興趣。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.willow_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.willow_combatant"
 msgid "Willow was never one to be pushed around."
@@ -331355,6 +331735,16 @@ msgstr "威爾遜大力提倡螞蟥有益健康。"
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_yule"
 msgid "Wilson is all dressed up for the holly days."
 msgstr "威爾遜為冬日慶典盛裝打扮。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.winch_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winch_pirate"
+msgid "Pilfer the sea for loot."
+msgstr "掠奪海上的戰利品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.winona_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.winona_ancient"
+msgid "Even forward-thinkers can find themselves dwelling on the past."
+msgstr "即使是思想超前的人也難免沉湎於過去。"
 
 #. STRINGS.SKIN_DESCRIPTIONS.winona_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winona_combatant"
@@ -331996,6 +332386,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_victorian"
 msgid "Traditionally, grotesques were made to ward off mischievous spirits... Wortox never got the memo."
 msgstr "傳統的石像鬼是用來驅趕愛惡作劇的鬼怪……沃拓克斯不知道這事。"
 
+#. STRINGS.SKIN_DESCRIPTIONS.wurt_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_ancient"
+msgid "Merms don't keep accurate records of their history, so much is left up to the imagination."
+msgstr "魚人沒有準確的歷史記錄，所以很多事情只能靠想像。"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wurt_cave
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wurt_cave"
 msgid "Wurt has nothing to fear in the dark ocean depths."
@@ -332354,7 +332749,7 @@ msgstr "克萊門特生命護符"
 #. STRINGS.SKIN_NAMES.amulet_red_occulteye
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_occulteye"
 msgid "Clairvoyant Life Amulet"
-msgstr "洞悉生命護符"
+msgstr "洞查生命護符"
 
 #. STRINGS.SKIN_NAMES.amulet_red_rose
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_rose"
@@ -332716,6 +333111,11 @@ msgctxt "STRINGS.SKIN_NAMES.beebox_crystal"
 msgid "Crystalline Honeydome"
 msgstr "水晶穹頂蜂巢"
 
+#. STRINGS.SKIN_NAMES.beebox_garden
+msgctxt "STRINGS.SKIN_NAMES.beebox_garden"
+msgid "Vintage Apiary"
+msgstr "復古蜂房"
+
 #. STRINGS.SKIN_NAMES.beebox_house
 msgctxt "STRINGS.SKIN_NAMES.beebox_house"
 msgid "Home Sweet Home"
@@ -332971,6 +333371,11 @@ msgctxt "STRINGS.SKIN_NAMES.beefalohat_pigking_alt"
 msgid "Pig King Hat"
 msgstr "豬王帽"
 
+#. STRINGS.SKIN_NAMES.beehat_garden
+msgctxt "STRINGS.SKIN_NAMES.beehat_garden"
+msgid "Beewitching Hat"
+msgstr "蜂女巫帽"
+
 #. STRINGS.SKIN_NAMES.beehat_mourning
 msgctxt "STRINGS.SKIN_NAMES.beehat_mourning"
 msgid "Mourning Veil"
@@ -333016,6 +333421,11 @@ msgctxt "STRINGS.SKIN_NAMES.bernie_cat_shadow_build"
 msgid "ASHLEY"
 msgstr "艾希莉"
 
+#. STRINGS.SKIN_NAMES.birdcage_adventure
+msgctxt "STRINGS.SKIN_NAMES.birdcage_adventure"
+msgid "Gilded Birdcage"
+msgstr "鍍金鳥籠箱子"
+
 #. STRINGS.SKIN_NAMES.birdcage_circus
 msgctxt "STRINGS.SKIN_NAMES.birdcage_circus"
 msgid "The Amazing Sideshow"
@@ -333051,6 +333461,16 @@ msgctxt "STRINGS.SKIN_NAMES.birdcage_romantic"
 msgid "Romantic Birdcage"
 msgstr "浪漫鳥籠"
 
+#. STRINGS.SKIN_NAMES.boat_grass_pirate
+msgctxt "STRINGS.SKIN_NAMES.boat_grass_pirate"
+msgid "Scallywag Raft"
+msgstr "無賴海賊筏"
+
+#. STRINGS.SKIN_NAMES.boat_grass_pirate_item
+msgctxt "STRINGS.SKIN_NAMES.boat_grass_pirate_item"
+msgid "Scallywag Raft"
+msgstr "無賴海賊筏"
+
 #. STRINGS.SKIN_NAMES.boat_nautical
 msgctxt "STRINGS.SKIN_NAMES.boat_nautical"
 msgid "Abandoned Ship"
@@ -333060,6 +333480,16 @@ msgstr "棄船"
 msgctxt "STRINGS.SKIN_NAMES.boat_nautical_item"
 msgid "Abandoned Ship"
 msgstr "棄船"
+
+#. STRINGS.SKIN_NAMES.boat_pirate_skin
+msgctxt "STRINGS.SKIN_NAMES.boat_pirate_skin"
+msgid "Pirate Sloop"
+msgstr "海盜單桅帆船"
+
+#. STRINGS.SKIN_NAMES.boat_pirate_skin_item
+msgctxt "STRINGS.SKIN_NAMES.boat_pirate_skin_item"
+msgid "Pirate Sloop"
+msgstr "海盜單桅帆船"
 
 #. STRINGS.SKIN_NAMES.boat_wagstaff
 msgctxt "STRINGS.SKIN_NAMES.boat_wagstaff"
@@ -333836,6 +334266,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_warly_victorian"
 msgid "Naval Uniform Shirt"
 msgstr "海軍制服襯衣"
 
+#. STRINGS.SKIN_NAMES.body_wathgrithr_ancient
+msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_ancient"
+msgid "Flowing Robes"
+msgstr "流動戰袍"
+
 #. STRINGS.SKIN_NAMES.body_wathgrithr_cook
 msgctxt "STRINGS.SKIN_NAMES.body_wathgrithr_cook"
 msgid "Wigfrid's Gorge Garb"
@@ -334476,6 +334911,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wickerbottom_yule"
 msgid "Cranberry Red Jacket"
 msgstr "蔓越莓紅夾克"
 
+#. STRINGS.SKIN_NAMES.body_willow_ancient
+msgctxt "STRINGS.SKIN_NAMES.body_willow_ancient"
+msgid "Sentrypede Robe"
+msgstr "哨兵蜈蚣袍"
+
 #. STRINGS.SKIN_NAMES.body_willow_cook
 msgctxt "STRINGS.SKIN_NAMES.body_willow_cook"
 msgid "Willow's Gorge Garb"
@@ -334690,6 +335130,11 @@ msgstr "醫生的大衣"
 msgctxt "STRINGS.SKIN_NAMES.body_wilson_yule"
 msgid "Hollygreen Overcoat"
 msgstr "冬青大衣"
+
+#. STRINGS.SKIN_NAMES.body_winona_ancient
+msgctxt "STRINGS.SKIN_NAMES.body_winona_ancient"
+msgid "Archaic Dress"
+msgstr "古代長裙"
 
 #. STRINGS.SKIN_NAMES.body_winona_cook
 msgctxt "STRINGS.SKIN_NAMES.body_winona_cook"
@@ -335156,6 +335601,11 @@ msgctxt "STRINGS.SKIN_NAMES.body_wortox_victorian"
 msgid "Grotesque Torso"
 msgstr "石像鬼軀幹"
 
+#. STRINGS.SKIN_NAMES.body_wurt_ancient
+msgctxt "STRINGS.SKIN_NAMES.body_wurt_ancient"
+msgid "Primordial Torso"
+msgstr "原始軀幹"
+
 #. STRINGS.SKIN_NAMES.body_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.body_wurt_cave"
 msgid "Deep Sea Chest"
@@ -335391,6 +335841,11 @@ msgctxt "STRINGS.SKIN_NAMES.bugnet_frog"
 msgid "Froggy Bug Net"
 msgstr "青蛙捕蟲網"
 
+#. STRINGS.SKIN_NAMES.bugnet_garden
+msgctxt "STRINGS.SKIN_NAMES.bugnet_garden"
+msgid "Fetching Bug Net"
+msgstr "抓人捕蟲網"
+
 #. STRINGS.SKIN_NAMES.bugnet_lavaproof
 msgctxt "STRINGS.SKIN_NAMES.bugnet_lavaproof"
 msgid "Lavaproof Bug Net"
@@ -335416,6 +335871,11 @@ msgctxt "STRINGS.SKIN_NAMES.bundle_gothic"
 msgid "Gloomy Wrapping"
 msgstr "憂鬱包裝紙"
 
+#. STRINGS.SKIN_NAMES.bundle_kitchen
+msgctxt "STRINGS.SKIN_NAMES.bundle_kitchen"
+msgid "Cloth Wrap"
+msgstr "布包裹"
+
 #. STRINGS.SKIN_NAMES.bundle_vintage
 msgctxt "STRINGS.SKIN_NAMES.bundle_vintage"
 msgid "Parchment Paper"
@@ -335430,6 +335890,11 @@ msgstr "鴉年華包裝紙"
 msgctxt "STRINGS.SKIN_NAMES.bundlewrap_gothic"
 msgid "Gloomy Wrapping"
 msgstr "憂鬱包裝紙"
+
+#. STRINGS.SKIN_NAMES.bundlewrap_kitchen
+msgctxt "STRINGS.SKIN_NAMES.bundlewrap_kitchen"
+msgid "Cloth Wrap"
+msgstr "布包裹"
 
 #. STRINGS.SKIN_NAMES.bundlewrap_vintage
 msgctxt "STRINGS.SKIN_NAMES.bundlewrap_vintage"
@@ -335590,6 +336055,11 @@ msgstr "恐怖大鍋"
 msgctxt "STRINGS.SKIN_NAMES.cookpot_clay"
 msgid "Terracotta Cooking Pot"
 msgstr "陶鍋"
+
+#. STRINGS.SKIN_NAMES.cookpot_kitchen
+msgctxt "STRINGS.SKIN_NAMES.cookpot_kitchen"
+msgid "Cottage Crock Pot"
+msgstr "村舍烹飪鍋"
 
 #. STRINGS.SKIN_NAMES.cookpot_survival
 msgctxt "STRINGS.SKIN_NAMES.cookpot_survival"
@@ -335761,6 +336231,36 @@ msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated_item"
 msgid "Tasselled Post"
 msgstr "流蘇柱"
 
+#. STRINGS.SKIN_NAMES.dock_woodposts_kitchen
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_kitchen"
+msgid "Hand-Carved Post"
+msgstr "手雕樁子"
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_kitchen2
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_kitchen2"
+msgid "Rustic Post"
+msgstr "田園樁子"
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_kitchen2_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_kitchen2_item"
+msgid "Rustic Post"
+msgstr "田園樁子"
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_kitchen3
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_kitchen3"
+msgid "Artisan Post"
+msgstr "匠人樁子"
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_kitchen3_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_kitchen3_item"
+msgid "Artisan Post"
+msgstr "匠人樁子"
+
+#. STRINGS.SKIN_NAMES.dock_woodposts_kitchen_item
+msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_kitchen_item"
+msgid "Hand-Carved Post"
+msgstr "手雕樁子"
+
 #. STRINGS.SKIN_NAMES.dragonflychest_fantasy
 msgctxt "STRINGS.SKIN_NAMES.dragonflychest_fantasy"
 msgid "Beastly Chest"
@@ -335780,6 +336280,11 @@ msgstr "大型猛獸箱子"
 msgctxt "STRINGS.SKIN_NAMES.dragonflychest_upgraded_kraken"
 msgid "Tall Leviathan Chest"
 msgstr "大型利維坦箱子"
+
+#. STRINGS.SKIN_NAMES.dragonflyfurnace_adventure
+msgctxt "STRINGS.SKIN_NAMES.dragonflyfurnace_adventure"
+msgid "Foreboding Furnace"
+msgstr "不祥火爐"
 
 #. STRINGS.SKIN_NAMES.dragonflyfurnace_antique
 msgctxt "STRINGS.SKIN_NAMES.dragonflyfurnace_antique"
@@ -336186,6 +336691,11 @@ msgctxt "STRINGS.SKIN_NAMES.endtable_vintage"
 msgid "Antique Endtable"
 msgstr "古董茶几"
 
+#. STRINGS.SKIN_NAMES.eyebrellahat_adventure
+msgctxt "STRINGS.SKIN_NAMES.eyebrellahat_adventure"
+msgid "Tallbird Eyebrella"
+msgstr "高腳鳥眼球傘"
+
 #. STRINGS.SKIN_NAMES.eyebrellahat_crystal
 msgctxt "STRINGS.SKIN_NAMES.eyebrellahat_crystal"
 msgid "Glass Eyebrella"
@@ -336195,6 +336705,11 @@ msgstr "玻璃眼球傘"
 msgctxt "STRINGS.SKIN_NAMES.eyebrellahat_fantasy"
 msgid "Beastly Eyebrella"
 msgstr "猛獸眼球傘"
+
+#. STRINGS.SKIN_NAMES.eyebrellahat_rose
+msgctxt "STRINGS.SKIN_NAMES.eyebrellahat_rose"
+msgid "Rosy Eyebrella"
+msgstr "玫瑰眼球傘"
 
 #. STRINGS.SKIN_NAMES.eyebrellahat_victorian
 msgctxt "STRINGS.SKIN_NAMES.eyebrellahat_victorian"
@@ -336591,6 +337106,11 @@ msgctxt "STRINGS.SKIN_NAMES.feet_warly_victorian"
 msgid "Naval Uniform Shoes"
 msgstr "海軍制服鞋"
 
+#. STRINGS.SKIN_NAMES.feet_wathgrithr_ancient
+msgctxt "STRINGS.SKIN_NAMES.feet_wathgrithr_ancient"
+msgid "Thulecite Sandals"
+msgstr "銩礦涼鞋"
+
 #. STRINGS.SKIN_NAMES.feet_wathgrithr_gladiator
 msgctxt "STRINGS.SKIN_NAMES.feet_wathgrithr_gladiator"
 msgid "Battlemaster's Sandals"
@@ -336800,6 +337320,11 @@ msgstr "貴族的傲慢高跟鞋"
 msgctxt "STRINGS.SKIN_NAMES.feet_wickerbottom_yule"
 msgid "Toastmistress Heels"
 msgstr "女司儀高跟鞋"
+
+#. STRINGS.SKIN_NAMES.feet_willow_ancient
+msgctxt "STRINGS.SKIN_NAMES.feet_willow_ancient"
+msgid "Ankle Bangles"
+msgstr "腳鐲"
 
 #. STRINGS.SKIN_NAMES.feet_willow_dowdy
 msgctxt "STRINGS.SKIN_NAMES.feet_willow_dowdy"
@@ -337306,6 +337831,11 @@ msgctxt "STRINGS.SKIN_NAMES.fishbox_nautical"
 msgid "Silver Tuna Tin"
 msgstr "銀金槍魚罐"
 
+#. STRINGS.SKIN_NAMES.fishbox_pirate
+msgctxt "STRINGS.SKIN_NAMES.fishbox_pirate"
+msgid "Piratin' Bin"
+msgstr "海盜桶"
+
 #. STRINGS.SKIN_NAMES.flowerhat_crown
 msgctxt "STRINGS.SKIN_NAMES.flowerhat_crown"
 msgid "Feathered Wreath"
@@ -337330,6 +337860,11 @@ msgstr "緞帶花環"
 msgctxt "STRINGS.SKIN_NAMES.flowerhat_wreath"
 msgid "Thorned Laurel"
 msgstr "帶刺桂冠"
+
+#. STRINGS.SKIN_NAMES.footballhat_adventure
+msgctxt "STRINGS.SKIN_NAMES.footballhat_adventure"
+msgid "Barbarous Helmet"
+msgstr "野蠻頭盔"
 
 #. STRINGS.SKIN_NAMES.footballhat_combathelm
 msgctxt "STRINGS.SKIN_NAMES.footballhat_combathelm"
@@ -337400,6 +337935,11 @@ msgstr "童話格羅姆"
 msgctxt "STRINGS.SKIN_NAMES.glommerflower_fantasy"
 msgid "Fairy Glomflower"
 msgstr "童話格羅姆花"
+
+#. STRINGS.SKIN_NAMES.golden_farmhoe_garden
+msgctxt "STRINGS.SKIN_NAMES.golden_farmhoe_garden"
+msgid "Beespoke Garden Hoe"
+msgstr "訂制園藝鋤"
 
 #. STRINGS.SKIN_NAMES.golden_farmhoe_invisible
 msgctxt "STRINGS.SKIN_NAMES.golden_farmhoe_invisible"
@@ -337941,6 +338481,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wickerbottom_victorian"
 msgid "Aristocrat's Haughty Sleeves"
 msgstr "貴族的傲慢袖子"
 
+#. STRINGS.SKIN_NAMES.hand_willow_ancient
+msgctxt "STRINGS.SKIN_NAMES.hand_willow_ancient"
+msgid "Bronze Bracelets"
+msgstr "黃銅手鏈"
+
 #. STRINGS.SKIN_NAMES.hand_willow_gladiator
 msgctxt "STRINGS.SKIN_NAMES.hand_willow_gladiator"
 msgid "Fighter's Bracers"
@@ -338296,6 +338841,11 @@ msgctxt "STRINGS.SKIN_NAMES.hand_wortox_victorian"
 msgid "Grotesque Claws"
 msgstr "石像鬼之爪"
 
+#. STRINGS.SKIN_NAMES.hand_wurt_ancient
+msgctxt "STRINGS.SKIN_NAMES.hand_wurt_ancient"
+msgid "Primordial Fins"
+msgstr "原始魚鰭"
+
 #. STRINGS.SKIN_NAMES.hand_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.hand_wurt_cave"
 msgid "Deep Sea Claws"
@@ -338476,6 +339026,11 @@ msgctxt "STRINGS.SKIN_NAMES.icebox_crystal"
 msgid "Crystalline Ice Box"
 msgstr "水晶冰箱"
 
+#. STRINGS.SKIN_NAMES.icebox_kitchen
+msgctxt "STRINGS.SKIN_NAMES.icebox_kitchen"
+msgid "Robin Egg Ice Box"
+msgstr "知更鳥蛋冰箱"
+
 #. STRINGS.SKIN_NAMES.icebox_porcelain
 msgctxt "STRINGS.SKIN_NAMES.icebox_porcelain"
 msgid "Porcelain Ice Box"
@@ -338485,6 +339040,11 @@ msgstr "陶瓷冰箱"
 msgctxt "STRINGS.SKIN_NAMES.icebox_victorian"
 msgid "Victorian Ice Box"
 msgstr "維多利亞冰箱"
+
+#. STRINGS.SKIN_NAMES.icepack_kitchen
+msgctxt "STRINGS.SKIN_NAMES.icepack_kitchen"
+msgid "Charming Cooler Chest"
+msgstr "魅力冷藏箱"
 
 #. STRINGS.SKIN_NAMES.icestaff_bee
 msgctxt "STRINGS.SKIN_NAMES.icestaff_bee"
@@ -338555,6 +339115,11 @@ msgstr "n/a"
 msgctxt "STRINGS.SKIN_NAMES.krampus_sack_basket"
 msgid "Hampered Basket"
 msgstr "鎖鏈籃子"
+
+#. STRINGS.SKIN_NAMES.krampus_sack_garden
+msgctxt "STRINGS.SKIN_NAMES.krampus_sack_garden"
+msgid "Foraging Sack"
+msgstr "覓食袋"
 
 #. STRINGS.SKIN_NAMES.krampus_sack_voidbag
 msgctxt "STRINGS.SKIN_NAMES.krampus_sack_voidbag"
@@ -339481,6 +340046,11 @@ msgctxt "STRINGS.SKIN_NAMES.legs_wortox_victorian"
 msgid "Grotesque Limbs"
 msgstr "石像鬼雙腿"
 
+#. STRINGS.SKIN_NAMES.legs_wurt_ancient
+msgctxt "STRINGS.SKIN_NAMES.legs_wurt_ancient"
+msgid "Primordial Tail"
+msgstr "原始尾巴"
+
 #. STRINGS.SKIN_NAMES.legs_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.legs_wurt_cave"
 msgid "Abyssal Flippers"
@@ -339560,6 +340130,11 @@ msgstr "木刻雙腿"
 msgctxt "STRINGS.SKIN_NAMES.lighter_haunteddoll"
 msgid "Cursed Sterling Lighter"
 msgstr "詛咒銀打火機"
+
+#. STRINGS.SKIN_NAMES.lightning_rod_adventure
+msgctxt "STRINGS.SKIN_NAMES.lightning_rod_adventure"
+msgid "Electric Eel"
+msgstr "電鰻"
 
 #. STRINGS.SKIN_NAMES.lightning_rod_gothic
 msgctxt "STRINGS.SKIN_NAMES.lightning_rod_gothic"
@@ -339821,6 +340396,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_waterlogged_trailer"
 msgid "Waterlogged"
 msgstr "水中木"
 
+#. STRINGS.SKIN_NAMES.loading_waxwell
+msgctxt "STRINGS.SKIN_NAMES.loading_waxwell"
+msgid "The Amazing Maxwell"
+msgstr "神奇的麥斯威爾"
+
 #. STRINGS.SKIN_NAMES.loading_webber
 msgctxt "STRINGS.SKIN_NAMES.loading_webber"
 msgid "Webber"
@@ -339951,6 +340531,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_willowfire"
 msgid "Willow"
 msgstr "薇洛"
 
+#. STRINGS.SKIN_NAMES.loading_wilson
+msgctxt "STRINGS.SKIN_NAMES.loading_wilson"
+msgid "Scientific Vision"
+msgstr "科學願景"
+
 #. STRINGS.SKIN_NAMES.loading_wilson_feast
 msgctxt "STRINGS.SKIN_NAMES.loading_wilson_feast"
 msgid "Snowfallen Wilson"
@@ -339960,6 +340545,11 @@ msgstr "下雪的威爾遜"
 msgctxt "STRINGS.SKIN_NAMES.loading_wilson_madscience"
 msgid "Mad Science Wilson"
 msgstr "瘋狂科學威爾遜"
+
+#. STRINGS.SKIN_NAMES.loading_wilson_wagstaff
+msgctxt "STRINGS.SKIN_NAMES.loading_wilson_wagstaff"
+msgid "Collaboration"
+msgstr "合作"
 
 #. STRINGS.SKIN_NAMES.loading_winona2_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_winona2_trailer"
@@ -340115,6 +340705,16 @@ msgstr "岩石大白鯊風帆"
 msgctxt "STRINGS.SKIN_NAMES.mast_nautical_item"
 msgid "Rockjaw Sail"
 msgstr "岩石大白鯊風帆"
+
+#. STRINGS.SKIN_NAMES.mast_pirate
+msgctxt "STRINGS.SKIN_NAMES.mast_pirate"
+msgid "Makeshift Mast"
+msgstr "海寨桅杆"
+
+#. STRINGS.SKIN_NAMES.mast_pirate_item
+msgctxt "STRINGS.SKIN_NAMES.mast_pirate_item"
+msgid "Makeshift Mast"
+msgstr "海寨桅杆"
 
 #. STRINGS.SKIN_NAMES.mast_rose
 msgctxt "STRINGS.SKIN_NAMES.mast_rose"
@@ -340491,6 +341091,16 @@ msgctxt "STRINGS.SKIN_NAMES.oar_invisible"
 msgid "Pantomimed Oar"
 msgstr "擬真槳"
 
+#. STRINGS.SKIN_NAMES.ocean_trawler_pirate
+msgctxt "STRINGS.SKIN_NAMES.ocean_trawler_pirate"
+msgid "Crossbones Trawler"
+msgstr "白骨拖網漁船"
+
+#. STRINGS.SKIN_NAMES.ocean_trawler_pirate_kit
+msgctxt "STRINGS.SKIN_NAMES.ocean_trawler_pirate_kit"
+msgid "Crossbones Trawler"
+msgstr "白骨拖網漁船"
+
 #. STRINGS.SKIN_NAMES.oceanfishingrod_hotline
 msgctxt "STRINGS.SKIN_NAMES.oceanfishingrod_hotline"
 msgid "Hotline Fishing Rod"
@@ -340546,6 +341156,11 @@ msgctxt "STRINGS.SKIN_NAMES.orangestaff_victorian"
 msgid "Fanciful Explorer"
 msgstr "華麗懶人魔杖"
 
+#. STRINGS.SKIN_NAMES.pack_adventure_1
+msgctxt "STRINGS.SKIN_NAMES.pack_adventure_1"
+msgid "Intrepid Chest"
+msgstr "無畏箱子"
+
 #. STRINGS.SKIN_NAMES.pack_ancient1
 msgctxt "STRINGS.SKIN_NAMES.pack_ancient1"
 msgid "Archaic Attire Chest"
@@ -340555,6 +341170,21 @@ msgstr "古代服裝箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_ancient1_items"
 msgid "Archaic Artifacts Chest"
 msgstr "古代器物箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ancient2
+msgctxt "STRINGS.SKIN_NAMES.pack_ancient2"
+msgid "Archaic Attire Chest, Part II"
+msgstr "古代服裝箱子，第二章"
+
+#. STRINGS.SKIN_NAMES.pack_ancient2_combo
+msgctxt "STRINGS.SKIN_NAMES.pack_ancient2_combo"
+msgid "Archaic Array Chest"
+msgstr "古代陣列箱子"
+
+#. STRINGS.SKIN_NAMES.pack_ancient2_items
+msgctxt "STRINGS.SKIN_NAMES.pack_ancient2_items"
+msgid "Archaic Artifacts Chest, Part II"
+msgstr "古代器物箱子，第二章"
 
 #. STRINGS.SKIN_NAMES.pack_ancient_wolfgang
 msgctxt "STRINGS.SKIN_NAMES.pack_ancient_wolfgang"
@@ -340775,6 +341405,11 @@ msgstr "貴賓箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_formal_all"
 msgid "All Survivors Guest of Honor Chest"
 msgstr "全陣容冒險家貴賓箱子"
+
+#. STRINGS.SKIN_NAMES.pack_garden_1
+msgctxt "STRINGS.SKIN_NAMES.pack_garden_1"
+msgid "Gardener Chest"
+msgstr "園丁箱子"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_all
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_all"
@@ -341121,6 +341756,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_ice_wx78"
 msgid "WX-78 Snowfallen Chest"
 msgstr "WX-78下雪箱子"
 
+#. STRINGS.SKIN_NAMES.pack_kitchen_1
+msgctxt "STRINGS.SKIN_NAMES.pack_kitchen_1"
+msgid "Cottage Cache Chest, Part II"
+msgstr "鄉村收納箱子，第二章"
+
 #. STRINGS.SKIN_NAMES.pack_lost_1
 msgctxt "STRINGS.SKIN_NAMES.pack_lost_1"
 msgid "Lost Adventurers Chest"
@@ -341450,6 +342090,11 @@ msgstr "《缺氧》禮物"
 msgctxt "STRINGS.SKIN_NAMES.pack_ornate_items"
 msgid "Library Chest"
 msgstr "圖書館箱子"
+
+#. STRINGS.SKIN_NAMES.pack_pirate_1
+msgctxt "STRINGS.SKIN_NAMES.pack_pirate_1"
+msgid "Swashbuckler Loot Chest"
+msgstr "江洋大盜劫掠品箱子。"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_all
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_all"
@@ -341786,6 +342431,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_warly_victorian"
 msgid "Warly Victorian Chest"
 msgstr "沃利維多利亞箱子"
 
+#. STRINGS.SKIN_NAMES.pack_wathgrithr_ancient
+msgctxt "STRINGS.SKIN_NAMES.pack_wathgrithr_ancient"
+msgid "Wigfrid Archaic Chest"
+msgstr "薇格弗德古代箱子"
+
 #. STRINGS.SKIN_NAMES.pack_wathgrithr_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_wathgrithr_deluxe"
 msgid "Wigfrid Deluxe Wardrobe"
@@ -342016,6 +342666,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_wickerbottom_survivor"
 msgid "Wickerbottom Survivor Chest"
 msgstr "薇克巴頓冒險家箱子"
 
+#. STRINGS.SKIN_NAMES.pack_willow_ancient
+msgctxt "STRINGS.SKIN_NAMES.pack_willow_ancient"
+msgid "Willow Archaic Chest"
+msgstr "薇洛古代箱子"
+
 #. STRINGS.SKIN_NAMES.pack_willow_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_willow_deluxe"
 msgid "Willow Deluxe Wardrobe"
@@ -342085,6 +342740,11 @@ msgstr "威爾遜凱旋箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_wilson_survivor"
 msgid "Wilson Survivor Chest"
 msgstr "威爾遜冒險家箱子"
+
+#. STRINGS.SKIN_NAMES.pack_winona_ancient
+msgctxt "STRINGS.SKIN_NAMES.pack_winona_ancient"
+msgid "Winona Archaic Chest"
+msgstr "薇諾娜古代箱子"
 
 #. STRINGS.SKIN_NAMES.pack_winona_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_winona_deluxe"
@@ -342300,6 +342960,11 @@ msgstr "巨人的箱子"
 msgctxt "STRINGS.SKIN_NAMES.pack_wrestler_wx78"
 msgid "Midori Roboto's Chest"
 msgstr "綠色機甲箱子"
+
+#. STRINGS.SKIN_NAMES.pack_wurt_ancient
+msgctxt "STRINGS.SKIN_NAMES.pack_wurt_ancient"
+msgid "Wurt Archaic Chest"
+msgstr "沃特古代箱子"
 
 #. STRINGS.SKIN_NAMES.pack_wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.pack_wurt_cave"
@@ -342740,6 +343405,11 @@ msgstr "岩漿傀儡背景"
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_eyebrellahatcrystal"
 msgid "Glass Eyebrella Portrait"
 msgstr "玻璃眼球傘背景"
+
+#. STRINGS.SKIN_NAMES.playerportrait_bg_eyebrellahatrose
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_eyebrellahatrose"
+msgid "Rosy Eyebrella Portrait"
+msgstr "玫瑰眼球傘背景"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_factory
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_factory"
@@ -343445,6 +344115,11 @@ msgstr "腐爛鳥蛋"
 msgctxt "STRINGS.SKIN_NAMES.profileflair_eyebrellahat_crystal"
 msgid "Glass Eyebrella"
 msgstr "玻璃眼球傘"
+
+#. STRINGS.SKIN_NAMES.profileflair_eyebrellahat_rose
+msgctxt "STRINGS.SKIN_NAMES.profileflair_eyebrellahat_rose"
+msgid "Rosy Eyebrella"
+msgstr "玫瑰眼球傘"
 
 #. STRINGS.SKIN_NAMES.profileflair_factory
 msgctxt "STRINGS.SKIN_NAMES.profileflair_factory"
@@ -344561,6 +345236,11 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab2_science"
 msgid "All-Chemical Engine"
 msgstr "全化學引擎"
 
+#. STRINGS.SKIN_NAMES.researchlab3_adventure
+msgctxt "STRINGS.SKIN_NAMES.researchlab3_adventure"
+msgid "Dark Talisman"
+msgstr "暗黑護符"
+
 #. STRINGS.SKIN_NAMES.researchlab3_ancient
 msgctxt "STRINGS.SKIN_NAMES.researchlab3_ancient"
 msgid "Ancient Sigil"
@@ -344816,6 +345496,11 @@ msgctxt "STRINGS.SKIN_NAMES.saddle_basic_yotbalt"
 msgid "Festive Saddle"
 msgstr "喜慶鞍具"
 
+#. STRINGS.SKIN_NAMES.saltbox_kitchen
+msgctxt "STRINGS.SKIN_NAMES.saltbox_kitchen"
+msgid "Charming Salt Tin"
+msgstr "魅力鹽罐"
+
 #. STRINGS.SKIN_NAMES.saltbox_nautical
 msgctxt "STRINGS.SKIN_NAMES.saltbox_nautical"
 msgid "Briny Salt Box"
@@ -344850,6 +345535,11 @@ msgstr "哥特工匠桌"
 msgctxt "STRINGS.SKIN_NAMES.seafaring_prototyper_lighthouse"
 msgid "Lighthouse Think Tank"
 msgstr "燈塔智囊團"
+
+#. STRINGS.SKIN_NAMES.seedpouch_garden
+msgctxt "STRINGS.SKIN_NAMES.seedpouch_garden"
+msgid "Quaint Seed Purse"
+msgstr "田園風種子包"
 
 #. STRINGS.SKIN_NAMES.seedpouch_rustic
 msgctxt "STRINGS.SKIN_NAMES.seedpouch_rustic"
@@ -345446,8 +346136,18 @@ msgctxt "STRINGS.SKIN_NAMES.umbrella_spider"
 msgid "Webrolly"
 msgstr "蜘蛛傘"
 
+#. STRINGS.SKIN_NAMES.walkingplank_grass_pirate
+msgctxt "STRINGS.SKIN_NAMES.walkingplank_grass_pirate"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_NAMES.walkingplank_nautical
 msgctxt "STRINGS.SKIN_NAMES.walkingplank_nautical"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_NAMES.walkingplank_pirate_skin
+msgctxt "STRINGS.SKIN_NAMES.walkingplank_pirate_skin"
 msgid "n/a"
 msgstr "n/a"
 
@@ -345871,10 +346571,20 @@ msgctxt "STRINGS.SKIN_NAMES.watermelonhat_banana"
 msgid "Banandana"
 msgstr "香蕉頭巾"
 
+#. STRINGS.SKIN_NAMES.watermelonhat_cantaloupe
+msgctxt "STRINGS.SKIN_NAMES.watermelonhat_cantaloupe"
+msgid "Melon Bowler"
+msgstr "哈密瓜帽"
+
 #. STRINGS.SKIN_NAMES.watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.watermelonhat_pumpkin"
 msgid "Fashion Pumpkin"
 msgstr "時髦南瓜"
+
+#. STRINGS.SKIN_NAMES.wathgrithr_ancient
+msgctxt "STRINGS.SKIN_NAMES.wathgrithr_ancient"
+msgid "The Archaic"
+msgstr "古代"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_combatant
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_combatant"
@@ -346716,6 +347426,11 @@ msgctxt "STRINGS.SKIN_NAMES.wickerbottom_yule"
 msgid "The Merrymaker"
 msgstr "歡樂"
 
+#. STRINGS.SKIN_NAMES.willow_ancient
+msgctxt "STRINGS.SKIN_NAMES.willow_ancient"
+msgid "The Archaic"
+msgstr "古代"
+
 #. STRINGS.SKIN_NAMES.willow_combatant
 msgctxt "STRINGS.SKIN_NAMES.willow_combatant"
 msgid "The Challenger"
@@ -347035,6 +347750,16 @@ msgstr "維多利亞"
 msgctxt "STRINGS.SKIN_NAMES.wilson_yule"
 msgid "The Merrymaker"
 msgstr "歡樂"
+
+#. STRINGS.SKIN_NAMES.winch_pirate
+msgctxt "STRINGS.SKIN_NAMES.winch_pirate"
+msgid "Pilferin' Winch"
+msgstr "偷盜絞盤"
+
+#. STRINGS.SKIN_NAMES.winona_ancient
+msgctxt "STRINGS.SKIN_NAMES.winona_ancient"
+msgid "The Archaic"
+msgstr "古代"
 
 #. STRINGS.SKIN_NAMES.winona_combatant
 msgctxt "STRINGS.SKIN_NAMES.winona_combatant"
@@ -347676,6 +348401,11 @@ msgctxt "STRINGS.SKIN_NAMES.wortox_victorian"
 msgid "The Victorian"
 msgstr "維多利亞"
 
+#. STRINGS.SKIN_NAMES.wurt_ancient
+msgctxt "STRINGS.SKIN_NAMES.wurt_ancient"
+msgid "The Archaic"
+msgstr "古代"
+
 #. STRINGS.SKIN_NAMES.wurt_cave
 msgctxt "STRINGS.SKIN_NAMES.wurt_cave"
 msgid "The Abyssal"
@@ -348065,6 +348795,11 @@ msgstr "“我做了些可怕的東西，都是為你準備的！”"
 msgctxt "STRINGS.SKIN_QUOTES.warly_victorian"
 msgid "\"I actually just work in the galley.\""
 msgstr "\"我其實只是船上的廚師。\""
+
+#. STRINGS.SKIN_QUOTES.wathgrithr_ancient
+msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_ancient"
+msgid "\"Let us remember the days öf öld!\""
+msgstr "“讓我們一起懷念過去！”"
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_combatant
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_combatant"
@@ -348641,6 +349376,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wickerbottom_yule"
 msgid "\"As usual, the responsibility of organizing the seasonal festivities falls to me.\""
 msgstr "“按照慣例，組織節慶祝活動的責任落在了我身上。”"
 
+#. STRINGS.SKIN_QUOTES.willow_ancient
+msgctxt "STRINGS.SKIN_QUOTES.willow_ancient"
+msgid "\"Sometimes the old ways need to crash and burn to make way for the new.\""
+msgstr "“有時候，舊的方式和方法必須崩潰和燒盡，這樣新的方式才有出路。”"
+
 #. STRINGS.SKIN_QUOTES.willow_combatant
 msgctxt "STRINGS.SKIN_QUOTES.willow_combatant"
 msgid "\"I can handle myself.\""
@@ -348875,6 +349615,11 @@ msgstr "\"幽默感失衡是百病之源。\""
 msgctxt "STRINGS.SKIN_QUOTES.wilson_yule"
 msgid "\"After some experimentation, I've discovered the perfect ratio of holly and jolly.\""
 msgstr "“經過一些實驗，我已經發現了冬青和歡樂的完美比例。”"
+
+#. STRINGS.SKIN_QUOTES.winona_ancient
+msgctxt "STRINGS.SKIN_QUOTES.winona_ancient"
+msgid "\"I ain't one to keep up with trends, but isn't this a bit old-fashioned?\""
+msgstr "“我雖然不趕時髦，但這是不是有點過時了？”"
 
 #. STRINGS.SKIN_QUOTES.winona_combatant
 msgctxt "STRINGS.SKIN_QUOTES.winona_combatant"
@@ -349381,6 +350126,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wortox_victorian"
 msgid "\"Ol'Kramps did always say; if I kept making a funny face it'd get stuck that way.\""
 msgstr "“坎普斯說過：要是我一直笑，臉就會僵住。”"
 
+#. STRINGS.SKIN_QUOTES.wurt_ancient
+msgctxt "STRINGS.SKIN_QUOTES.wurt_ancient"
+msgid "\"Mermfolk ancestors definitely look like this, florp!\""
+msgstr "“魚人祖先一定是這個樣子的，浮浪噗！”"
+
 #. STRINGS.SKIN_QUOTES.wurt_cave
 msgctxt "STRINGS.SKIN_QUOTES.wurt_cave"
 msgid "\"It called bye-oh-loomy...loominess...loomin-essence... GLOWY!\""
@@ -349700,6 +350450,11 @@ msgstr "手"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_LEGS"
 msgid "Legs"
 msgstr "腿"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ADVENTURE
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ADVENTURE"
+msgid "Adventurer's Collection"
+msgstr "冒險家系列"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ANCIENT"
@@ -350201,6 +350956,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOAT"
 msgid "Boat"
 msgstr "船"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOAT_GRASS
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOAT_GRASS"
+msgid "Grass Raft"
+msgstr "草筏"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE"
 msgid "The End is Nigh!"
@@ -350491,6 +351251,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ICEBOX"
 msgid "Ice Box"
 msgstr "冰箱"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ICEPACK
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ICEPACK"
+msgid "Insulated Pack"
+msgstr "保鮮背包"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ICESTAFF
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ICESTAFF"
 msgid "Ice Staff"
@@ -350630,6 +351395,11 @@ msgstr "浮木槳"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEANFISHINGROD"
 msgid "Sea Fishing Rod"
 msgstr "海釣竿"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEAN_TRAWLER
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.OCEAN_TRAWLER"
+msgid "Ocean Trawler"
+msgstr "海洋拖網捕魚器"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ORANGESTAFF
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ORANGESTAFF"
@@ -350861,6 +351631,11 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALKINGPLANK"
 msgid "Plank"
 msgstr "木板"
 
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALKINGPLANK_GRASS
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALKINGPLANK_GRASS"
+msgid "Plank"
+msgstr "木板"
+
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WALL_MOONROCK"
 msgid "Moon Rock Wall"
@@ -350925,6 +351700,11 @@ msgstr "三尾貓鞭"
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WILSON_BEARD"
 msgid "Wilson's Beard"
 msgstr "威爾遜的鬍鬚"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINCH
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINCH"
+msgid "Pinchin' Winch"
+msgstr "夾夾絞盤"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTERHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTERHAT"
@@ -358605,6 +359385,21 @@ msgstr "Switch手柄"
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.11"
 msgid "Steam Deck"
 msgstr "Steam Deck掌機"
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.12
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.12"
+msgid "DualSense"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.13
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.13"
+msgid "Switch Controller (left)"
+msgstr ""
+
+#. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.14
+msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.14"
+msgid "Switch Controller (right)"
+msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2"
@@ -370264,7 +371059,7 @@ msgstr "祖傳優雅"
 #. STRINGS.UI.RARITY.HeirloomSpiffy
 msgctxt "STRINGS.UI.RARITY.HeirloomSpiffy"
 msgid "Heirloom Spiffy"
-msgstr "祖傳酷炫"
+msgstr "祖傳炫酷"
 
 #. STRINGS.UI.RARITY.Inspired
 msgctxt "STRINGS.UI.RARITY.Inspired"
