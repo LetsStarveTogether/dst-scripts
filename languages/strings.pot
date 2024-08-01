@@ -66735,12 +66735,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_15
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_15"
-msgid "Aren't we all, mon ami."
+msgid "What is your angle, mon ami?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_16
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_16"
-msgid "Aren't we all, mon ami."
+msgid "What is your angle, mon ami?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_17
@@ -69680,7 +69680,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
-msgid "Where art though, raven? Do show yourself!"
+msgid "Where art thou, raven? Do show yourself!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.ACTIVATE.EMPTY_CATCOONDEN
@@ -317478,6 +317478,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.beargervest_yule"
 msgid "Snuggle up for a warm winter nap."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_catcoon
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_catcoon"
+msgid "When you're feline sleepy, there's nothing more purrfect than a cat nap."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_potato
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_potato"
 msgid "Sleeping on a potato sack usually leads to potato-filled dreams."
@@ -318670,7 +318675,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_ancient"
-msgid "A look so old, it's back in style."
+msgid "Make a statement with this timeless look."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_cook
@@ -324598,6 +324603,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_charlie2"
 msgid "Keep your torch held high and your eyes sharp, lest you too fall prey to the darkness."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_charlie3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_charlie3"
+msgid "Who, or what, will heed the call of the Shadow Queen?"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_critters
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_critters"
 msgid "It was once thought that the beasts of the Constant were too wild and ferocious to be tamed. As it turns out, all any critter needs to make friends is a bit of love."
@@ -324693,6 +324703,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_lunacy"
 msgid "Open your mind to terrifying new possibilities."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_lunar"
+msgid "Be on your guard, these unearthly visitors do not appear to come in peace."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_magma"
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
@@ -324753,9 +324768,24 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_roadmap2"
 msgid "Survivors that dared to make camp on the lunar island often claim to have been visited by strange apparitions."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.loading_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_shadow"
+msgid "What terrors lurk in the darkest depths of the Constant?"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_shadowrift
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_shadowrift"
+msgid "\"Freeing him might not have been my best idea.\""
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.loading_terraria_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_terraria_trailer"
 msgid "One teensy little mishap has plunged the world of Terraria into rather... constant danger, and is terrarizing the Constant like nothing before! Who knows what might slip through the cracks when two worlds collide?"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.loading_triplethreat
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_triplethreat"
+msgid "Bad luck comes in threes, and so do Ink Blights."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_walter_trailer
@@ -328073,6 +328103,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pottedferncotl"
 msgid "Equip this item to change your character's background portrait.\n\nMay the blood-red Camellia flower awaken your deepest desires."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pottedfernrose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pottedfernrose"
+msgid "Equip this item to change your character's background portrait.\n\nRoses are red. Violets are blue. These won't stop her from killing you."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern"
 msgid "Equip this item to change your character's background portrait.\n\nIf you stare long into the abyss of a Jack O' Lantern mouth, it will also stare into you."
@@ -328335,6 +328370,21 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pottedfern_cotl3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pottedfern_cotl3"
+msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pottedfern_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pottedfern_rose"
+msgid "Decorate with the Shadow Queen's favorite flower."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pottedfern_rose2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pottedfern_rose2"
+msgid "n/a"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.pottedfern_rose3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pottedfern_rose3"
 msgid "n/a"
 msgstr ""
 
@@ -328936,6 +328986,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_pottedfern_cotl
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_pottedfern_cotl"
 msgid "Set your profile icon to the Camellia Flowerbed."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.profileflair_pottedfern_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_pottedfern_rose"
+msgid "Set your profile icon to the Rose Bushel."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_pumpkinlantern
@@ -333501,6 +333556,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.beargervest_yule
 msgctxt "STRINGS.SKIN_NAMES.beargervest_yule"
 msgid "Winter Hibearnation Vest"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.bedroll_furry_catcoon
+msgctxt "STRINGS.SKIN_NAMES.bedroll_furry_catcoon"
+msgid "Catcoon Nap Sack"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.bedroll_furry_potato
@@ -340623,6 +340683,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_charlie2"
 msgid "Torchlight"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_charlie3
+msgctxt "STRINGS.SKIN_NAMES.loading_charlie3"
+msgid "Open the Gateway"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_critters
 msgctxt "STRINGS.SKIN_NAMES.loading_critters"
 msgid "Critters"
@@ -340718,6 +340783,11 @@ msgctxt "STRINGS.SKIN_NAMES.loading_lunacy"
 msgid "Enlight the Darkness"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_lunar
+msgctxt "STRINGS.SKIN_NAMES.loading_lunar"
+msgid "From Beyond"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_magma
 msgctxt "STRINGS.SKIN_NAMES.loading_magma"
 msgid "Magmatic Assembly"
@@ -340778,9 +340848,24 @@ msgctxt "STRINGS.SKIN_NAMES.loading_roadmap2"
 msgid "Lunar Island Nights"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.loading_shadow
+msgctxt "STRINGS.SKIN_NAMES.loading_shadow"
+msgid "Terrors Below"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_shadowrift
+msgctxt "STRINGS.SKIN_NAMES.loading_shadowrift"
+msgid "Nightmare Werepig"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.loading_terraria_trailer
 msgctxt "STRINGS.SKIN_NAMES.loading_terraria_trailer"
 msgid "An Eye for an Eye"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.loading_triplethreat
+msgctxt "STRINGS.SKIN_NAMES.loading_triplethreat"
+msgid "Triple Threat"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.loading_walter_trailer
@@ -344098,6 +344183,11 @@ msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_pottedferncotl"
 msgid "Camellia Flowerbed Portrait"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.playerportrait_bg_pottedfernrose
+msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_pottedfernrose"
+msgid "Rose Bushel Portrait"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern"
 msgid "Jack O' Portrait"
@@ -344361,6 +344451,21 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.pottedfern_cotl3
 msgctxt "STRINGS.SKIN_NAMES.pottedfern_cotl3"
 msgid "Camellia Flowerbed"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pottedfern_rose
+msgctxt "STRINGS.SKIN_NAMES.pottedfern_rose"
+msgid "Rose Bushel"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pottedfern_rose2
+msgctxt "STRINGS.SKIN_NAMES.pottedfern_rose2"
+msgid "Rose Bushel"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.pottedfern_rose3
+msgctxt "STRINGS.SKIN_NAMES.pottedfern_rose3"
+msgid "Rose Bushel"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.premiumwateringcan_koalefant
@@ -344961,6 +345066,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.profileflair_pottedfern_cotl
 msgctxt "STRINGS.SKIN_NAMES.profileflair_pottedfern_cotl"
 msgid "Camellia Flowerbed"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.profileflair_pottedfern_rose
+msgctxt "STRINGS.SKIN_NAMES.profileflair_pottedfern_rose"
+msgid "Rose Bushel"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.profileflair_pumpkinlantern
@@ -359830,17 +359940,17 @@ msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.12
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.12"
-msgid "DualSense"
+msgid "DualSense™ wireless controller"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.13
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.13"
-msgid "Switch Controller (left)"
+msgid "Joy-Con™ (L)"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.14
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.14"
-msgid "Switch Controller (right)"
+msgid "Joy-Con™ (R)"
 msgstr ""
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.2
@@ -361770,7 +361880,7 @@ msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG.BODY
 msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG.BODY"
-msgid "PlayStation®4 save data has been found. Do you want to import it?"
+msgid "PlayStation®4 system saved data has been found. Do you want to import it?"
 msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG.NO
@@ -361780,7 +361890,7 @@ msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG.TITLE
 msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG.TITLE"
-msgid "Import save data?"
+msgid "Import saved data?"
 msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG.YES
@@ -361790,7 +361900,7 @@ msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.BODY
 msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.BODY"
-msgid "Importing will overwrite any existing save data. Are you sure?"
+msgid "Importing will overwrite any existing saved data. Are you sure?"
 msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.NO
@@ -361800,7 +361910,7 @@ msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.TITLE
 msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.TITLE"
-msgid "Overwrite save data?"
+msgid "Overwrite saved data?"
 msgstr ""
 
 #. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.YES
@@ -366915,7 +367025,7 @@ msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.TESTINGDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGDETAIL"
-msgid "You may encounter bugs or broken features, and you may lose your save game when we update. Please report all problems in the forum."
+msgid "You may encounter bugs or broken features, and you may lose your saved game when we update. Please report all problems in the forum."
 msgstr ""
 
 #. STRINGS.UI.MAINSCREEN.TESTINGNO
@@ -369470,7 +369580,7 @@ msgstr ""
 
 #. STRINGS.UI.OPTIONS.PS4_SAVES
 msgctxt "STRINGS.UI.OPTIONS.PS4_SAVES"
-msgid "Use PlayStation®4 save data"
+msgid "Use PlayStation®4 system saved data"
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.REDEEM
@@ -370030,12 +370140,12 @@ msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION"
-msgid "Make your controller rumble at key gameplay moments."
+msgid "Make your controller vibrate at key gameplay moments."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION_WIRELESS
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION_WIRELESS"
-msgid "Make your wireless controller rumble at key gameplay moments."
+msgid "Make your wireless controller vibrate at key gameplay moments."
 msgstr ""
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.WALTERCAMERA
@@ -372500,17 +372610,17 @@ msgstr ""
 
 #. STRINGS.UI.SAVELOAD.DATA_DAMAGED
 msgctxt "STRINGS.UI.SAVELOAD.DATA_DAMAGED"
-msgid "Oh no! Your save data has become corrupt and cannot be used."
+msgid "Oh no! Your saved data has become corrupt and cannot be used."
 msgstr ""
 
 #. STRINGS.UI.SAVELOAD.DATA_DAMAGED_BODY
 msgctxt "STRINGS.UI.SAVELOAD.DATA_DAMAGED_BODY"
-msgid "Your save data is damaged and cannot be used."
+msgid "Your saved data is damaged and cannot be used."
 msgstr ""
 
 #. STRINGS.UI.SAVELOAD.DATA_DAMAGED_PS4
 msgctxt "STRINGS.UI.SAVELOAD.DATA_DAMAGED_PS4"
-msgid "Damaged save data"
+msgid "Damaged saved data"
 msgstr ""
 
 #. STRINGS.UI.SAVELOAD.DELETE_FAILED
@@ -372550,12 +372660,12 @@ msgstr ""
 
 #. STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY
 msgctxt "STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY"
-msgid "Are you sure you want to overwrite your save data? Your settings and worlds will be lost. This process can not be undone."
+msgid "Are you sure you want to overwrite your saved data? Your settings and worlds will be lost. This process can not be undone."
 msgstr ""
 
 #. STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE
 msgctxt "STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE"
-msgid "Overwrite save data"
+msgid "Overwrite saved data"
 msgstr ""
 
 #. STRINGS.UI.SAVELOAD.RESTOREBACKUP_FAILED
@@ -373165,7 +373275,7 @@ msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.NO_MATCHING_SERVERS"
-msgid "No save games match your search."
+msgid "No saved games match your search."
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.OFF
@@ -373300,7 +373410,7 @@ msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SAVEFROMNEWERVERSION
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SAVEFROMNEWERVERSION"
-msgid "Not playable - save data from newer game version"
+msgid "Not playable - saved data from newer game version"
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SAVE_TYPE
