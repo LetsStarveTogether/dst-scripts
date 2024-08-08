@@ -326775,27 +326775,27 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_detective
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_detective"
-msgid "This chest contains Walter's complete set of Boy Detective skin items, as well as the Deerstalker."
+msgid "This Chest contains Walter's complete set of Boy Detective skin items, as well as the Deerstalker."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_formal"
-msgid "This chest contains Walter's complete set of Guest of Honor skin items, as well as the Pine Leader Hat."
+msgid "This Chest contains Walter's complete set of Guest of Honor skin items, as well as the Pine Leader Hat."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_shadow"
-msgid "This chest contains Walter's complete set of Triumphant skin items, as well as the Crooked Cap."
+msgid "This Chest contains Walter's complete set of Triumphant skin items, as well as the Crooked Cap."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_survivor"
-msgid "This chest contains Walter's complete set of Survivor skin items, as well as the Cap o' Flage."
+msgid "This Chest contains Walter's complete set of Survivor skin items, as well as the Cap o' Flage."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_yule"
-msgid "This chest contains Walter's complete set of Merrymaker skin items, as well as the Tree Topper Cap."
+msgid "This Chest contains Walter's complete set of Merrymaker skin items, as well as the Tree Topper Cap."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxe
@@ -326825,7 +326825,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_warly_chef
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_warly_chef"
-msgid "This chest contains Warly's complete set of Head Chef skin items, as well as the Head Chef's Hat."
+msgid "This Chest contains Warly's complete set of Head Chef skin items, as well as the Head Chef's Hat."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_warly_deluxe
@@ -326835,7 +326835,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_warly_fisherman
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_warly_fisherman"
-msgid "This chest contains Warly's complete set of Trawler skin items."
+msgid "This Chest contains Warly's complete set of Trawler skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_warly_formal
@@ -326850,7 +326850,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_warly_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_warly_rose"
-msgid "This chest contains Warly's complete set of Roseate skin items."
+msgid "This Chest contains Warly's complete set of Roseate skin items."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_warly_shadow
@@ -335780,7 +335780,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wolfgang_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_wolfgang_pirate"
-msgid " Pirate's Chest"
+msgid "Pirate's Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.body_wolfgang_rose
@@ -373231,6 +373231,11 @@ msgstr ""
 #. STRINGS.UI.SERVERCREATIONSCREEN.NEWGAME_FMT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.NEWGAME_FMT"
 msgid "{name}'s World"
+msgstr ""
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.NEWGAME_GENERIC
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.NEWGAME_GENERIC"
+msgid "My World"
 msgstr ""
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.NEWGAME_SUFFIX
