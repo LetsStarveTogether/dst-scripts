@@ -1628,6 +1628,11 @@ msgctxt "STRINGS.ACTIONS.STEER_BOAT"
 msgid "Steer"
 msgstr ""
 
+#. STRINGS.ACTIONS.STOKEFIRE
+msgctxt "STRINGS.ACTIONS.STOKEFIRE"
+msgid "Stoke Fire"
+msgstr ""
+
 #. STRINGS.ACTIONS.STOPCHANNELING
 msgctxt "STRINGS.ACTIONS.STOPCHANNELING"
 msgid "Stop Channeling"
@@ -319740,7 +319745,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_1_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_1_DESC"
-msgid "Fires you set won't spread, and burnable loot will just smolder.\nItems like torches and Willow's lighter have a 100% chance to ignite targets."
+msgid "Controlled fires you set won't spread, and burnable loot will just smolder.\nItems like torches and Willow's lighter have a 100% chance to ignite targets."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_1_TITLE
@@ -329330,7 +329335,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lighter_ragged
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.lighter_ragged"
-msgid "Some things deserve to forgotten..."
+msgid "Some things deserve to be forgotten..."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.lighter_rose
@@ -332210,7 +332215,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_western"
-msgid "This Parlor Woodworking Chest contains the following skin items: Parlor Round Table, Parlor Square Table, Parlor Wooden Chair, Parlor Wooden Stool, Yoke 'n a Half, Parlor Vase, Parlor Lamp, Parlor Frame, The Fall, and Parlor Gramophone."
+msgid "This Parlor Woodworking Chest contains the following skin items: Parlor Round Table, Parlor Square Table, Parlor Wooden Chair, Parlor Wooden Stool, Yoke 'n a Half, Parlor Vase, Parlor Lamp, Parlor Border, The Fall, and Parlor Gramophone."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_cactus
@@ -341795,7 +341800,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.chair_stool_western
 msgctxt "STRINGS.SKIN_NAMES.chair_stool_western"
-msgid "Parlor Stool"
+msgid "Parlor Wooden Stool"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.chester_eyebone_horn
@@ -342590,7 +342595,7 @@ msgstr ""
 
 #. STRINGS.SKIN_NAMES.eyeturret_anitem
 msgctxt "STRINGS.SKIN_NAMES.eyeturret_anitem"
-msgid "n/a"
+msgid "Intricate Turret"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.farm_hoe_invisible
@@ -355040,7 +355045,7 @@ msgstr ""
 
 #. STRINGS.SKIN_QUOTES.walter_rose
 msgctxt "STRINGS.SKIN_QUOTES.walter_rose"
-msgid "I think I really rose to the occasion! Eh, Woby?"
+msgid "\"I think I really rose to the occasion! Eh, Woby?\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.walter_shadow
@@ -366715,7 +366720,7 @@ msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSSHADOWFORGING_TWO
 msgctxt "STRINGS.UI.CRAFTING.NEEDSSHADOWFORGING_TWO"
-msgid "Can only be crafted a Shadowcraft Plinth."
+msgid "Can only be crafted at a Shadowcraft Plinth."
 msgstr ""
 
 #. STRINGS.UI.CRAFTING.NEEDSSKILL
@@ -371291,6 +371296,11 @@ msgstr ""
 #. STRINGS.UI.ITEM_SCREEN.RECEIVED
 msgctxt "STRINGS.UI.ITEM_SCREEN.RECEIVED"
 msgid "You Received"
+msgstr ""
+
+#. STRINGS.UI.ITEM_SCREEN.SKIP_REST
+msgctxt "STRINGS.UI.ITEM_SCREEN.SKIP_REST"
+msgid "Stop"
 msgstr ""
 
 #. STRINGS.UI.ITEM_SCREEN.USE_LATER
