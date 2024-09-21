@@ -316175,12 +316175,12 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOW_BATTLEAXE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOW_BATTLEAXE"
-msgid "It can take down both creatures and trees. You can upgrade its stats, life steal and hunger, by defeating giants.\n\nThe weapon has 4 levels, and each level requires 3 giant kills to progress."
+msgid "It can take down both creatures and trees. You can upgrade its stats, life steal and hunger, by defeating giants.\n\nThe weapon has 3 levels, and each level requires 3 giant kills to progress."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOW_BEEF_BELL
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOW_BEEF_BELL"
-msgid "Bind a Beefalo to the bell. A bound Beefalo will follow the holder, even into the caves and offline.\n\nYou can also sacrifice this bell to revive a bound Beefalo."
+msgid "Bind a Beefalo to the bell. A bound Beefalo will follow the holder, even into the caves and offline.\n\nYou can also use this bell to revive a bound Beefalo."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHELLCLUSTER
@@ -364213,6 +364213,11 @@ msgctxt "STRINGS.UI.COLLECTIONSCREEN.BEARD"
 msgid "Beards"
 msgstr ""
 
+#. STRINGS.UI.COLLECTIONSCREEN.BEEFALO
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.BEEFALO"
+msgid "Beefalo"
+msgstr ""
+
 #. STRINGS.UI.COLLECTIONSCREEN.EMOJI
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.EMOJI"
 msgid "Emoticons"
@@ -364271,6 +364276,11 @@ msgstr ""
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEARD
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
 msgid "View your character beards"
+msgstr ""
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEEFALO
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEEFALO"
+msgid "View your beefalo skins"
 msgstr ""
 
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
