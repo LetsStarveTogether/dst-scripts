@@ -1748,6 +1748,11 @@ msgctxt "STRINGS.ACTIONS.TAKEITEM.ITEM"
 msgid "Take {item}"
 msgstr ""
 
+#. STRINGS.ACTIONS.TAKESINGLEITEM
+msgctxt "STRINGS.ACTIONS.TAKESINGLEITEM"
+msgid "Take Single Item"
+msgstr ""
+
 #. STRINGS.ACTIONS.TALKTO
 msgctxt "STRINGS.ACTIONS.TALKTO"
 msgid "Talk to"
@@ -316635,7 +316640,7 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WORTOX_SOUL
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WORTOX_SOUL"
-msgid "Wortox can eat these to restore 25 Hunger and lose 5 Sanity.\n\nThey can be released to heal all survivors nearby, max healing is 20 health which drops 2 points for each extra survivor to a minimum of 5 health.\n\nHe can also spend Souls to Soul Hop which teleports him.\n\nIf Wortox holds more than 20 Souls, he will release half and them and lose 20 Sanity."
+msgid "Wortox can eat these to restore 25 Hunger and lose 5 Sanity.\n\nThey can be released to heal all survivors nearby, max healing is 20 health which drops 2 points for each extra survivor to a minimum of 5 health.\n\nHe can also spend Souls to Soul Hop which teleports him.\n\nIf Wortox holds more than 20 Souls, he will release half of them and lose 20 Sanity."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULEREMOVER
