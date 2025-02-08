@@ -7,7 +7,6 @@ local SKIN_GIFT_TYPES =
 	anchor_nautical = "TWITCH_DROP",
 	armor_ruins_an = "TWITCH_DROP",
 	arrowsign_post_circus = "TWITCH_DROP",
-	backpack_heart = "CUPID",
 	beargerfursack_rose = "TWITCH_DROP",
 	beargervest_rose = "TWITCH_DROP",
 	beargervest_yule = "WINTER",
