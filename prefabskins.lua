@@ -171,7 +171,6 @@ PREFAB_SKINS = {
 		"backpack_glommer_resurrected",
 		"backpack_heart",
 		"backpack_hound",
-		"backpack_invisible",
 		"backpack_koalefant",
 		"backpack_labrat",
 		"backpack_mandrake",

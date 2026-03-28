@@ -48,7 +48,10 @@ function ContainerWidget:Open(container, doer)
     end
 
     if widget.pos ~= nil then
-        self:SetPosition(widget.pos)
+        self:SetPosition(FunctionOrValue(widget.pos, container, doer))
+    end
+    if widget.scale ~= nil then
+        self:SetScale(widget.scale, widget.scale, widget.scale)
     end
     if widget.buttoninfo ~= nil then
         if doer ~= nil and doer.components.playeractionpicker ~= nil then
@@ -172,6 +175,13 @@ function ContainerWidget:Open(container, doer)
     self.container = container
 
     self:Refresh()
+end
+
+function ContainerWidget:RefreshPosition()
+	local widget = self.container.replica.container:GetWidget()
+	if widget.pos then
+		self:SetPosition(FunctionOrValue(widget.pos, self.container, self.owner))
+	end
 end
 
 local READONLYCONTAINER_BRIGHTNESS_SCALE = 0.6
