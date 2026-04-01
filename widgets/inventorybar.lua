@@ -14,12 +14,10 @@ local TEMPLATES = require "widgets/templates"
 local HUD_ATLAS = "images/hud.xml"
 local HUD2_ATLAS = "images/hud2.xml"
 
-local HUD_CHARACTERS =
+local HUD_CHARACTERS = 
 {
     ["wanda"] = HUD2_ATLAS,
 }
-
-local SourceModifierList = require("util/sourcemodifierlist")
 
 local W = 68
 local SEP = 12
@@ -94,8 +92,6 @@ local Inv = Class(Widget, function(self, owner)
     self.actionstringbody:EnableWordWrap(true)
     self.actionstring:Hide()
 
-    self.hovertile_hide_sources = SourceModifierList(self.inst, false, SourceModifierList.boolean)
-    self.hover_tile_visibility = true
     --default equip slots
 	if TheNet:GetServerGameMode() == "quagmire" then
 		self:AddEquipSlot(EQUIPSLOTS.HANDS, HUD_ATLAS, "equip_slot.tex")
@@ -114,8 +110,6 @@ local Inv = Class(Widget, function(self, owner)
 	self.inst:ListenForEvent("refreshinventory", function() self:Refresh(true) end, self.owner)
     self.inst:ListenForEvent("onplacershown", function() self:OnPlacerChanged(true) end, self.owner)
     self.inst:ListenForEvent("onplacerhidden", function() self:OnPlacerChanged(false) end, self.owner)
-
-    self.inst:ListenForEvent("sethovertilehidemodifier", function(src, data) self:SetHoverTileHideModifier(data.source, data.hidden, data.key) end, self.owner)
 
     --NOTE: this is triggered on the swap SOURCE. we need to stop updates because
     --      playercontroller component is removed first, entity remove is delayed.
@@ -1112,7 +1106,7 @@ function Inv:UpdateCursorText()
                     local can_take_active_item = active_item ~= nil and (self.active_slot.container.CanTakeItemInSlot == nil or self.active_slot.container:CanTakeItemInSlot(active_item, self.active_slot.num))
 
                     if active_item ~= nil and active_item.replica.stackable ~= nil and
-                        ((inv_item ~= nil and active_item.replica.stackable:CanStackWith(inv_item)) or (inv_item == nil and can_take_active_item)) then
+                        ((inv_item ~= nil and inv_item.prefab == active_item.prefab and inv_item.skinname == active_item.skinname) or (inv_item == nil and can_take_active_item)) then
                         table.insert(str, TheInput:GetLocalizedControl(controller_id, CONTROL_PUTSTACK) .. " " .. STRINGS.UI.HUD.PUTONE)
                     end
 
@@ -1124,7 +1118,7 @@ function Inv:UpdateCursorText()
                         table.insert(str, TheInput:GetLocalizedControl(controller_id, CONTROL_ACCEPT) .. " " .. STRINGS.UI.HUD.SELECT)
 						table.insert(str, TheInput:GetLocalizedControl(controller_id, VIRTUAL_CONTROL_INV_ACTION_DOWN).." "..GetDropActionString(self.owner, inv_item))
                     elseif inv_item ~= nil and active_item ~= nil then
-                        if active_item.replica.stackable ~= nil and active_item.replica.stackable:CanStackWith(inv_item) then
+                        if inv_item.prefab == active_item.prefab and inv_item.skinname == active_item.skinname and active_item.replica.stackable ~= nil then
                             table.insert(str, TheInput:GetLocalizedControl(controller_id, CONTROL_ACCEPT) .. " " .. STRINGS.UI.HUD.PUT)
                         elseif can_take_active_item then
                             table.insert(str, TheInput:GetLocalizedControl(controller_id, CONTROL_ACCEPT) .. " " .. STRINGS.UI.HUD.SWAP)
@@ -1380,32 +1374,21 @@ function Inv:RefreshIntegratedContainer()
     end
 end
 
-function Inv:SetHoverTileHideModifier(source, hidden, key)
-    self.hovertile_hide_sources:SetModifier(source, hidden or false, key or source)
-    self:EnableHoverTileVisibility(not self.hovertile_hide_sources:Get())
-end
-
-local PLACER_SOURCE = "deployplacer_hide"
 function Inv:OnPlacerChanged(placer_shown)
-    self:SetHoverTileHideModifier(PLACER_SOURCE, placer_shown)
-end
-
-function Inv:EnableHoverTileVisibility(enable)
-    self.hover_tile_visibility = enable
-    if self.hovertile ~= nil then
-		if enable then
+	if self.hovertile ~= nil then 
+		if placer_shown then
 			if self.hovertile.image ~= nil then
-				self.hovertile.image:Show()
+				self.hovertile.image:Hide() 
 			end
 			if self.hovertile.imagebg ~= nil then
-				self.hovertile.imagebg:Show()
+				self.hovertile.imagebg:Hide() 
 			end
 		else
-            if self.hovertile.image ~= nil then
-				self.hovertile.image:Hide()
+			if self.hovertile.image ~= nil then
+				self.hovertile.image:Show() 
 			end
 			if self.hovertile.imagebg ~= nil then
-				self.hovertile.imagebg:Hide()
+				self.hovertile.imagebg:Show() 
 			end
 		end
 	end
@@ -1470,7 +1453,6 @@ function Inv:OnNewActiveItem(item)
         self.hovertile = self.owner.HUD.controls.mousefollow:AddChild(ItemTile(item))
         self.hovertile.isactivetile = true
         self.hovertile:StartDrag()
-        self:EnableHoverTileVisibility(self.hover_tile_visibility)
     end
 end
 

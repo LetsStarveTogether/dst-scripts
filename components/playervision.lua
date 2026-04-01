@@ -106,7 +106,6 @@ local PlayerVision = Class(function(self, inst)
     self.nightmarevision = false
     self.nightvision = false
     self.forcenightvision = false
-    self.nonightvisioncc = false
     self.gogglevision = false
     self.forcegogglevision = false
     self.nutrientsvision = false
@@ -173,7 +172,7 @@ function PlayerVision:UpdateCCTable()
     local cctable =
         (self.ghostvision and GHOSTVISION_COLOURCUBES)
         or self.overridecctable
-        or ((self.nightvision or self.forcenightvision) and not self.nonightvisioncc and NIGHTVISION_COLOURCUBES)
+        or ((self.nightvision or self.forcenightvision) and NIGHTVISION_COLOURCUBES)
         or (self.nightmarevision and NIGHTMARE_COLORCUBES)
         or nil
 
@@ -216,7 +215,7 @@ function PlayerVision:ForceNightVision(force)
     end
 end
 
-function PlayerVision:PushForcedNightVision(source, priority, customcctable, blend, customambienttable, nonightvisioncc)
+function PlayerVision:PushForcedNightVision(source, priority, customcctable, blend, customambienttable)
     priority = priority or 0
 
     -- Only one entry per source!
@@ -224,13 +223,12 @@ function PlayerVision:PushForcedNightVision(source, priority, customcctable, ble
 
     local current = self.forcednightvisionstack[1]
 
-	table.insert(self.forcednightvisionstack, { source=source, priority=priority, cctable=customcctable, blend=blend, ambienttable=customambienttable, nonightvisioncc = nonightvisioncc })
+	table.insert(self.forcednightvisionstack, { source=source, priority=priority, cctable=customcctable, blend=blend, ambienttable=customambienttable })
     table.sort(self.forcednightvisionstack, function(l, r) return l.priority > r.priority end)
 
     local new = self.forcednightvisionstack[1]
 
     if current == nil or current ~= new then
-        self.nonightvisioncc = new.nonightvisioncc
         self:ForceNightVision(true)
 		self:SetForcedNightVisionAmbientOverrides(new.ambienttable)
         self:SetCustomCCTable(new.cctable, new.blend)
@@ -245,7 +243,6 @@ function PlayerVision:PopForcedNightVision(source)
             table.remove(self.forcednightvisionstack, index)
 
             if #self.forcednightvisionstack == 0 then
-                self.nonightvisioncc = false
                 self:ForceNightVision(false)
 				self:SetForcedNightVisionAmbientOverrides(nil)
                 self:SetCustomCCTable(nil)
@@ -259,7 +256,7 @@ function PlayerVision:PopForcedNightVision(source)
                 self:SetCustomCCTable(new.cctable, new.blend)
             end
 
-            break
+            break 
         end
     end
 end

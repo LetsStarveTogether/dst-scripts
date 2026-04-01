@@ -1,7 +1,6 @@
 local UpgradeModule = Class(function(self, inst)
     self.inst = inst
     self.slots = 1
-    self.type = CIRCUIT_BARS.ALPHA
     self.activated = false
 
     --self.target = nil
@@ -14,20 +13,8 @@ function UpgradeModule:SetRequiredSlots(slots)
     self.slots = slots
 end
 
-function UpgradeModule:GetSlots()
-    return self.slots
-end
-
 function UpgradeModule:SetTarget(target)
     self.target = target
-end
-
-function UpgradeModule:SetType(bartype)
-    self.type = bartype
-end
-
-function UpgradeModule:GetType()
-    return self.type
 end
 
 --Should only be called by the upgrademoduleowner component
@@ -53,11 +40,10 @@ function UpgradeModule:TryDeactivate()
 end
 
 function UpgradeModule:RemoveFromOwner()
-    local owner = self.target
     self:SetTarget(nil)
 
     if self.onremovedfromownerfn ~= nil then
-        self.onremovedfromownerfn(self.inst, owner)
+        self.onremovedfromownerfn(self.inst)
     end
 end
 
