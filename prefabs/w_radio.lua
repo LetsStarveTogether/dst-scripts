@@ -260,6 +260,8 @@ local function fn()
 	--furnituredecor (from furnituredecor component) added to pristine state for optimization
 	inst:AddTag("furnituredecor")
 
+	inst:AddTag("groundonlymachine")
+
 	MakeInventoryFloatable(inst, "med", 0.45, { 1.25, 1.5, 1.25 })
 
 	inst.parts = net_ushortint(inst.GUID, "w_radio", "partsdirty")

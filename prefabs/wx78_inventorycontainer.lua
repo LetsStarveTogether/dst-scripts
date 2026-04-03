@@ -98,22 +98,21 @@ local function ValidateOnLoad(inst)
 	local owner = inst.components.inventoryitem.owner
 	if owner == nil then
 		return --valid!
-	elseif owner.components.inventory == nil then
-		if owner.components.container then
-			owner.components.container:DropItem(inst)
-		end
-		return --should not get here!
 	end
 
+	local inventory = owner.components.inventory or owner.components.container
+
 	local maxcount = owner._stacksize_modules or 0
-	local minslot = owner.components.inventory:GetNumSlots() - (maxcount - 1)
-	local slot = owner.components.inventory:GetItemSlot(inst)
+	local minslot = inventory:GetNumSlots() - (maxcount - 1)
+	local slot = inventory:GetItemSlot(inst)
 	if slot and slot >= minslot then
 		return --valid!
 	end
 
 	--invalid
-	owner.components.inventory:DropItem(inst, true, true)
+	inst.components.inventoryitem.islockedinslot = false
+	--wx78_inventorycontainer is not stackable so we don't need to branch for container:DroptItemBySlot()
+	inventory:DropItem(inst)
 end
 
 local function OnLoad(inst)--, data, ents)
@@ -168,7 +167,7 @@ local function fn()
 	inst.components.inventoryitem:SetOnPutInInventoryFn(OnPutInInventory)
     inst.components.inventoryitem:SetOnDroppedFn(OnDropped)
     inst.components.inventoryitem.canbepickedup = false
-	inst.components.inventoryitem.canonlygoinpocket = true
+	--inst.components.inventoryitem.canonlygoinpocket = true --needs to go in container for wx78_backupbody
 
     inst:AddComponent("container")
     inst.components.container:EnableInfiniteStackSize(true)

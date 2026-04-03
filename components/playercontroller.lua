@@ -1387,9 +1387,10 @@ function PlayerController:DoControllerUseItemOnSceneFromInvTile(item)
         item = self:GetCursorInventoryObject()
         if item == nil then self.actionrepeatfunction = nil return end
     end
-    if item.replica.inventoryitem ~= nil and not item.replica.inventoryitem:IsGrandOwner(self.inst) then
+	local inventoryitem = item.replica.inventoryitem
+	if inventoryitem and not inventoryitem:IsGrandOwner(self.inst) then
         local slot, container = self:GetCursorInventorySlotAndContainer()
-        if slot ~= nil and container ~= nil then
+		if slot and container and not inventoryitem:IsLockedInSlot() then
             container:MoveItemFromAllOfSlot(slot, self.inst)
         end
     else

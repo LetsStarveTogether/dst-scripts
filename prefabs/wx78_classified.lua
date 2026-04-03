@@ -257,19 +257,26 @@ end
 
 local function OnShieldDirty(inst)
     if inst._parent ~= nil then
+        local maxshield = inst.maxshield:value()
         local oldpercent = inst._oldshieldpercent
-        local percent = inst.currentshield:value() / inst.maxshield:value()
+        local percent = inst.currentshield:value() / maxshield
 
-        local data =
-        {
+        local data = {
             oldpercent = oldpercent,
             newpercent = percent,
+            maxshield = maxshield,
             penetrationthreshold = inst.shieldpenetrationthreshold:value(),
         }
         inst._oldshieldpercent = percent
         inst._parent:PushEvent("wxshielddelta", data)
     else
         inst._oldshieldpercent = 0
+    end
+end
+
+local function OnCanShieldChargeDirty(inst)
+    if inst._parent then
+        inst._parent:PushEvent("wx_canshieldcharge", inst.canshieldcharge:value())
     end
 end
 
@@ -339,6 +346,7 @@ local function RegisterNetListeners_local(inst)
     inst:ListenForEvent("numactivebodiesdirty", OnCraftingNetVarDirty)
     inst:ListenForEvent("numdronescoutsdirty", OnCraftingNetVarDirty)
     inst:ListenForEvent("shielddirty", OnShieldDirty)
+    inst:ListenForEvent("canshieldchargedirty", OnCanShieldChargeDirty)
 end
 local function RegisterNetListeners_common(inst)
 	inst:ListenForEvent("poweroffoverlaydirty", OnPowerOffOverlayDirty)
@@ -423,6 +431,7 @@ local function fn()
     --Shield variables
     inst._oldshieldpercent = 0
     inst.currentshield = net_ushortint(inst.GUID, "wx78.currentshield", "shielddirty")
+    inst.canshieldcharge = net_bool(inst.GUID, "wx78.canshieldcharge", "canshieldchargedirty")
     inst.maxshield = net_ushortint(inst.GUID, "wx78.maxshield", "shielddirty")
     inst.shieldpenetrationthreshold = net_ushortint(inst.GUID, "wx78.shieldpenetrationthreshold", "shielddirty")
     inst.currentshield:set(0)

@@ -6090,10 +6090,13 @@ return{
         WX78MODULE_DIGESTION = "Are you the brightest bulb of the bunch?",
         WX78MODULE_SCREECH = "Are you the brightest bulb of the bunch?",
         WX78MODULE_LIGHT2 = "Are you the brightest bulb of the bunch?",
+        WX78MODULE_SHIELDING = "Are you the brightest bulb of the bunch?",
+        WX78MODULE_SPIN = "Are you the brightest bulb of the bunch?",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "Once a case with endless space, dropped by ol' metal face!", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

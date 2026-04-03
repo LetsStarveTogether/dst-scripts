@@ -700,6 +700,8 @@ ACTIONS =
 	STARTMAPDELIVER = Action({ rmb = true }),
 	MAPDELIVER_MAP = Action({ map_only=true, closes_map=true, }),
     SWAPBODIES_MAP = Action({ customarrivecheck=ArriveAnywhere, rmb=true, map_only=true, map_works_on_unexplored=true, closes_map=true,}),
+    TOGGLEWXSCREECH = Action({ priority = 1, mount_valid = true, invalid_hold_action=true }),
+    TOGGLEWXSHIELDING = Action({ priority = 2, invalid_hold_action=true, }),
 }
 
 ACTIONS_BY_ACTION_CODE = {}
@@ -742,7 +744,9 @@ end
 
 ACTIONS.EAT.strfn = function(act)
     if act.invobject ~= nil then
-        return (act.doer ~= nil and act.doer:HasTag("spoiledprocessor") and act.invobject:HasTag("show_spoiled")) and "PROCESS"
+        return (act.doer ~= nil and
+                (act.doer:HasTag("spoiledprocessor") and act.invobject:HasTag("spoiledfood"))
+                or (act.doer:HasTag("allspoiledprocessor") and act.invobject:HasTag("spoiled"))) and "PROCESS"
             or act.invobject:HasTag("fooddrink") and "DRINK"
             or nil
     end
@@ -1870,7 +1874,17 @@ ACTIONS.PICK.fn = function(act)
 			if act.target.components.pickable:IsStuck() then
 				return false, "STUCK"
 			end
-            act.target.components.pickable:Pick(act.doer)
+			if act.doer and act.doer.sg and act.doer.sg:HasStateTag("chopping") then
+				--wx spin
+				local success, loot = act.target.components.pickable:Pick(TheWorld)
+				if loot then
+					for i, v in ipairs(loot) do
+						Launch(v, act.doer, 1.5)
+					end
+				end
+			else
+				act.target.components.pickable:Pick(act.doer)
+			end
             return true
         elseif act.target.components.searchable ~= nil then
             return act.target.components.searchable:Search(act.doer)
@@ -2388,6 +2402,10 @@ ACTIONS.CARNIVALGAME_FEED.fn = function(act)
 end
 
 ACTIONS.STORE.fn = function(act)
+	if act.invobject.components.inventoryitem and act.invobject.components.inventoryitem.islockedinslot then
+		return false
+	end
+
     local target = act.target
     --V2C: For dropping items onto the object rather than construction widget
     if target.components.container == nil and target.components.constructionsite ~= nil then
@@ -6781,4 +6799,22 @@ ACTIONS.SWAPBODIES_MAP.fn = function(act)
         success, msg = mapent._target.components.activatable:DoActivate(act.doer)
         return (success ~= false), msg -- note: for legacy reasons, nil will be true
     end
+end
+
+ACTIONS.TOGGLEWXSCREECH.strfn = function(act)
+    return (act.doer and act.doer:HasTag("wx_screeching")) and "TURNOFF"
+        or nil
+end
+
+ACTIONS.TOGGLEWXSCREECH.fn = function(act)
+	return true
+end
+
+ACTIONS.TOGGLEWXSHIELDING.strfn = function(act)
+    return (act.doer and act.doer:HasTag("wx_shielding")) and "TURNOFF"
+        or nil
+end
+
+ACTIONS.TOGGLEWXSHIELDING.fn = function(act)
+	return true
 end

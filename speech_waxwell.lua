@@ -6070,10 +6070,13 @@ return{
         WX78MODULE_DIGESTION = "That robot needs to pull themselves together.",
         WX78MODULE_SCREECH = "That robot needs to pull themselves together.",
         WX78MODULE_LIGHT2 = "That robot needs to pull themselves together.",
+        WX78MODULE_SHIELDING = "That robot needs to pull themselves together.",
+        WX78MODULE_SPIN = "That robot needs to pull themselves together.",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "What do you mean it held more than my hat?!", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

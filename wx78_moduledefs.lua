@@ -317,10 +317,8 @@ local function movespeed_updaterunspeed(wx)
         wx.components.playerspeedmult:SetSpeedMult("wx_movespeed_chip", mult)
     end
 
-    if IsSkillActivated(wx, "wx78_circuitry_betabuffs_1") then
-        if wx.components.locomotor then
-            wx.components.locomotor:SetSlowMultiplier(wx:ModifySpeedMultiplier(BASE_SLOW_MULTIPLIER))
-        end
+    if wx.components.locomotor then
+        wx.components.locomotor:SetSlowMultiplier(wx:ModifySpeedMultiplier(BASE_SLOW_MULTIPLIER))
     end
 end
 
@@ -328,15 +326,10 @@ local function movespeed_updateskill(inst, wx, isloading)
     movespeed_updaterunspeed(wx)
 end
 
-local SPEED_BUFF_SKILLS =
-{
-    ["wx78_circuitry_betabuffs_1"] = true,
-    ["wx78_circuitry_betabuffs_2"] = true,
-}
 local function movespeed_activate(inst, wx, isloading)
     wx._movespeed_chips = (wx._movespeed_chips or 0) + 1
     movespeed_updaterunspeed(wx)
-    Circuit_SetUpSkillCb(inst, wx, SPEED_BUFF_SKILLS, movespeed_updateskill, movespeed_updateskill, isloading)
+    Circuit_SetUpSkillCb(inst, wx, "wx78_circuitry_betabuffs_2", movespeed_updateskill, movespeed_updateskill, isloading)
 end
 
 local function movespeed_deactivate(inst, wx)
@@ -693,9 +686,10 @@ local LIGHT_BUFF_SKILLS =
 local LIGHT_R, LIGHT_G, LIGHT_B = 235 / 255, 121 / 255, 12 / 255
 local function light_change(inst, wx, light_rad)
     wx._lightmodule_radius = (wx._lightmodule_radius or 0) + light_rad
+    if wx._lightmodule_radius < 0.001 then -- Floating point precision epsilon with all of these adds and subtracts of floats.
+        wx._lightmodule_radius = 0
+    end
     if wx.Light then
-        wx.Light:SetRadius(wx._lightmodule_radius)
-
         if wx._lightmodule_radius == 0 then
             -- Reset properties to the electrocute light properties, since that's the player_common default.
             wx.Light:SetRadius(0.5)
@@ -705,7 +699,7 @@ local function light_change(inst, wx, light_rad)
 
             wx.Light:Enable(false)
         else
-            wx.Light:SetRadius(wx._lightmodule_radius)
+            wx.Light:SetRadius(math.pow(wx._lightmodule_radius, 0.8))
             -- If we had 0 before, set up the light properties.
             if wx._lightmodule_radius > 0 then
                 wx.Light:SetIntensity(0.90)
@@ -1025,45 +1019,23 @@ local function bee_getticktime(inst, wx)
 end
 
 local function bee_tick(wx, inst)
-    if wx._bee_modcount and wx._bee_modcount > 0 and wx.components.health ~= nil then
-        local mult = IsSkillActivated(wx, "wx78_circuitry_alphabuffs_1") and TUNING.SKILLS.WX78.BEE_HEALTHPERTICK_MULT_ALPHABUFF or 1
-        local health_tick = wx._bee_modcount * TUNING.WX78_BEE_HEALTHPERTICK * mult
+    if wx._bee_modcount and wx._bee_modcount > 0 and wx.components.health and wx.components.health:IsHurt() then
+        local health_tick = wx._bee_modcount * TUNING.WX78_BEE_HEALTHPERTICK
         wx.components.health:DoDelta(health_tick, false, inst, true)
     end
 end
 
-local SHIELD_TICK_TIME = FRAMES * 8
-local SHIELD_BREAK_DELAY = 5
-local function bee_skill_tick(wx, inst)
-    if wx.components.wx78_shield then
-        local time_since_last_break = wx.components.wx78_shield:TimeSinceLastShieldBreak()
-        if not time_since_last_break or time_since_last_break >= SHIELD_BREAK_DELAY then
-            local shield_tick = wx._bee_modcount * TUNING.SKILLS.WX78.BEE_SHIELDPERTICK * SHIELD_TICK_TIME
-            wx.components.wx78_shield:DoDelta(shield_tick)
-        end
-    end
-end
-
 local function bee_updateregen_task(inst, wx)
-    local regen_time_left
-    if wx._bee_regentask ~= nil then
-        regen_time_left = GetTaskRemaining(wx._bee_regentask) or nil
-        if regen_time_left == 0 then
-            regen_time_left = nil
+    if wx._bee_regentask == nil then
+        wx._bee_regentask = wx:DoPeriodicTask(bee_getticktime(inst, wx), bee_tick, nil, inst)
+    end
+
+    if wx.components.wx78_shield then
+        if IsSkillActivated(wx, "wx78_circuitry_alphabuffs_2") then
+            wx.components.wx78_shield:AddChargeSource(wx, wx._bee_modcount * TUNING.SKILLS.WX78.BEE_SHIELD_REGEN_PER_SECOND, "BEE_CIRCUIT")
+        else
+            wx.components.wx78_shield:RemoveChargeSource(wx, "BEE_CIRCUIT")
         end
-        wx._bee_regentask:Cancel()
-    end
-
-    if wx._bee_shield_regentask ~= nil then
-        wx._bee_shield_regentask:Cancel()
-    end
-
-    if IsSkillActivated(wx, "wx78_circuitry_alphabuffs_2") and wx.components.health and not wx.components.health:IsHurt() then
-        wx._bee_regentask = nil
-        wx._bee_shield_regentask = wx:DoPeriodicTask(SHIELD_TICK_TIME, bee_skill_tick, nil, inst)
-    else
-        wx._bee_shield_regentask = nil
-        wx._bee_regentask = wx:DoPeriodicTask(bee_getticktime(inst, wx), bee_tick, regen_time_left, inst)
     end
 end
 
@@ -1100,10 +1072,7 @@ local function bee_skill_deactivate(inst, wx, isloading)
     if wx._bee_modcount == 0 then
         if wx.components.wx78_shield then
             wx.components.wx78_shield:SetCurrent(0)
-        end
-        if wx._bee_shield_regentask ~= nil then
-            wx._bee_shield_regentask:Cancel()
-            wx._bee_shield_regentask = nil
+            wx.components.wx78_shield:RemoveChargeSource(wx, "BEE_CIRCUIT")
         end
     end
 
@@ -1113,11 +1082,6 @@ local function bee_skill_deactivate(inst, wx, isloading)
     end
 end
 
-local BEE_BUFF_SKILLS =
-{
-    ["wx78_circuitry_alphabuffs_1"] = true,
-    ["wx78_circuitry_alphabuffs_2"] = true,
-}
 local function bee_activate(inst, wx, isloading)
     wx._bee_modcount = (wx._bee_modcount or 0) + 1
 
@@ -1126,7 +1090,7 @@ local function bee_activate(inst, wx, isloading)
     end
 
     maxsanity_activate(inst, wx, isloading, true)
-    Circuit_SetUpSkillCb(inst, wx, BEE_BUFF_SKILLS, bee_skill_activate, bee_skill_deactivate, isloading)
+    Circuit_SetUpSkillCb(inst, wx, "wx78_circuitry_alphabuffs_2", bee_skill_activate, bee_skill_deactivate, isloading)
 end
 
 local function bee_deactivate(inst, wx)
@@ -1195,30 +1159,6 @@ AddCreatureScanDataDefinition("spider_healer", "maxhealth2", 4)
 
 ---------------------------------------------------------------
 
-local function waterprotect_activate(inst, wx, isloading)
-
-end
-
-local function waterprotect_deactivate(inst, wx)
-
-end
-
-local WATERPROTECT_MODULE_DATA =
-{
-    name = "waterprotect",
-    type = CIRCUIT_BARS.BETA,
-    slots = 1,
-    activatefn = waterprotect_activate,
-    deactivatefn = waterprotect_deactivate,
-}
--- table.insert(module_definitions, WATERPROTECT_MODULE_DATA)
-
--- AddCreatureScanDataDefinition("frog", "waterprotect", 2)
--- AddCreatureScanDataDefinition("merm", "waterprotect", 3)
--- AddCreatureScanDataDefinition("mermguard", "waterprotect", 3)
-
----------------------------------------------------------------
-
 local function radar_skill_update(inst, wx, isloading)
     wx:PushEvent("rangecircuitupdate") -- For drones
 end
@@ -1271,14 +1211,16 @@ AddSpecialCreatureScanDataDefinition("canary", GetIsBirdFn, "radar", 4)
 
 local function screech_activate(inst, wx, isloading)
     wx._screech_modules = (wx._screech_modules or 0) + 1
-
-
+    if wx.wx78_classified ~= nil and wx._screech_modules == 1 then
+        wx.wx78_classified:AddInherentAction(ACTIONS.TOGGLEWXSCREECH)
+    end
 end
 
 local function screech_deactivate(inst, wx)
     wx._screech_modules = (wx._screech_modules or 1) - 1
-
-
+    if wx.wx78_classified ~= nil and wx._screech_modules == 0 then
+        wx.wx78_classified:RemoveInherentAction(ACTIONS.TOGGLEWXSCREECH)
+    end
 end
 
 local SCREECH_MODULE_DATA =
@@ -1291,33 +1233,44 @@ local SCREECH_MODULE_DATA =
 }
 table.insert(module_definitions, SCREECH_MODULE_DATA)
 
--- AddCreatureScanDataDefinition("molebat", "screech", 4)
--- AddCreatureScanDataDefinition("mandrake", "screech", 2)
+AddCreatureScanDataDefinition("molebat", "screech", 4)
 
 ---------------------------------------------------------------
 
 local function stacksize_addedtoownerfn(inst, wx, isloading)
-    if wx.components.inventory then
+	local inventory = wx.components.inventory or wx.components.container
+	if inventory then
         wx._stacksize_modules = (wx._stacksize_modules or 0) + 1
 
         if not isloading then
-            local invslot = wx.components.inventory.maxslots - (wx._stacksize_modules - 1)
-            local itemtomove = wx.components.inventory:GetItemInSlot(invslot)
+			local invslot = inventory:GetNumSlots() - (wx._stacksize_modules - 1)
+			local itemtomove = inventory:GetItemInSlot(invslot)
 			if itemtomove and itemtomove.components.inventoryitem.islockedinslot then
 				--can't install slot, something locked in this slot already.
+				if itemtomove.prefab == "wx78_inventorycontainer" then
+					--V2C: -likely transferring to/from backupbody
+					--     -deactivate fails during transfer, since inventory is moved before circuits
+					--     -deactivate here instead
+					itemtomove:SetPowered(false)
+				end
 				return
 			end
 
 			local chargelevel = wx.components.upgrademoduleowner:GetChargeLevel()
 			if chargelevel < wx._stacksize_modules then
-				wx.components.inventory:DropItem(itemtomove, true, true)
+				if wx.components.inventory then
+					wx.components.inventory:DropItem(itemtomove, true, true)
+				else
+					--container's DropItem() does not drop wholestack
+					wx.components.container:DropItemBySlot(invslot)
+				end
 				itemtomove = nil
 			else
-				itemtomove = wx.components.inventory:RemoveItem(itemtomove, true)
+				itemtomove = inventory:RemoveItem(itemtomove, true)
 			end
 
 			local containerinst = SpawnPrefab("wx78_inventorycontainer")
-			wx.components.inventory:GiveItem(containerinst, invslot)
+			inventory:GiveItem(containerinst, invslot)
 			containerinst.components.inventoryitem.islockedinslot = true
 
 			if itemtomove then
@@ -1328,26 +1281,29 @@ local function stacksize_addedtoownerfn(inst, wx, isloading)
 end
 
 local function stacksize_removedfromownerfn(inst, wx)
-    if wx.components.inventory then
+	local inventory = wx.components.inventory or wx.components.container
+	if inventory then
         wx._stacksize_modules = (wx._stacksize_modules or 1) - 1
 
-        local invslot = wx.components.inventory.maxslots - wx._stacksize_modules
+		local invslot = inventory:GetNumSlots() - wx._stacksize_modules
 
-		local containerinst = wx.components.inventory:GetItemInSlot(invslot)
-		if containerinst and containerinst.prefab == "wx78_inventorycontainer" then
+		local containerinst = inventory:GetItemInSlot(invslot)
+		if containerinst and containerinst.prefab == "wx78_inventorycontainer" and not containerinst._backupbody_transferring then
 			containerinst.components.inventoryitem.islockedinslot = false
-			wx.components.inventory:DropItem(containerinst)
+			--wx78_inventorycontainer is not stackable so we don't need to branch for container:DroptItemBySlot()
+			inventory:DropItem(containerinst)
         end
     end
 end
 
 local function stacksize_activate(inst, wx, isloading)
-	if wx.components.inventory then
+	local inventory = wx.components.inventory or wx.components.container
+	if inventory then
 		wx._stacksize_active_modules = (wx._stacksize_active_modules or 0) + 1
 
-		local invslot = wx.components.inventory.maxslots - (wx._stacksize_active_modules - 1)
+		local invslot = inventory:GetNumSlots() - (wx._stacksize_active_modules - 1)
 
-		local containerinst = wx.components.inventory:GetItemInSlot(invslot)
+		local containerinst = inventory:GetItemInSlot(invslot)
 		if containerinst and containerinst.prefab == "wx78_inventorycontainer" then
 			containerinst:SetPowered(true)
 		end
@@ -1355,12 +1311,13 @@ local function stacksize_activate(inst, wx, isloading)
 end
 
 local function stacksize_deactivate(inst, wx)
-	if wx.components.inventory then
+	local inventory = wx.components.inventory or wx.components.container
+	if inventory then
 		wx._stacksize_active_modules = (wx._stacksize_active_modules or 1) - 1
 
-		local invslot = wx.components.inventory.maxslots - wx._stacksize_active_modules
+		local invslot = inventory:GetNumSlots() - wx._stacksize_active_modules
 
-		local containerinst = wx.components.inventory:GetItemInSlot(invslot)
+		local containerinst = inventory:GetItemInSlot(invslot)
 		if containerinst and containerinst.prefab == "wx78_inventorycontainer" then
 			containerinst:SetPowered(false)
 		end
@@ -1382,30 +1339,6 @@ local STACKSIZE_MODULE_DATA =
 table.insert(module_definitions, STACKSIZE_MODULE_DATA)
 
 AddCreatureScanDataDefinition("krampus", "stacksize", 6)
-
----------------------------------------------------------------
-
-local function rhythm_activate(inst, wx, isloading)
-
-end
-
-local function rhythm_deactivate(inst, wx)
-
-end
-
-local RHYTHM_MODULE_DATA =
-{
-    name = "rhythm",
-    type = CIRCUIT_BARS.GAMMA,
-    slots = 2,
-    activatefn = rhythm_activate,
-    deactivatefn = rhythm_deactivate,
-}
--- table.insert(module_definitions, RHYTHM_MODULE_DATA)
-
--- AddCreatureScanDataDefinition("knight", "rhythm", 4)
--- AddCreatureScanDataDefinition("knight_nightmare", "rhythm", 6)
--- AddCreatureScanDataDefinition("knight_yoth", "rhythm", 10)
 
 ---------------------------------------------------------------
 
@@ -1435,90 +1368,36 @@ AddCreatureScanDataDefinition("lightflier", "light2", 6)
 
 ---------------------------------------------------------------
 
--- -11.6666666667
-local TEST_LESS_SANITY_BOOST = -10
-local function lessmaxsanity1_activate(inst, wx, isloading)
-    if wx.components.sanity then
-        local current_sanity_percent = wx.components.sanity:GetPercent()
-
-        wx.components.sanity:SetMax(wx.components.sanity.max + TEST_LESS_SANITY_BOOST)
-
-        if not isloading then
-            wx.components.sanity:SetPercent(current_sanity_percent, false)
+local function digestion_OnEaten(wx, data)
+    if data ~= nil
+        and data.food ~= nil
+        and wx.components.eater:CanProcessSpoiledItem(data.food) then
+        wx._num_spoiledfood_eaten = (wx._num_spoiledfood_eaten or 0) + 1
+        if wx._num_spoiledfood_eaten >= (TUNING.WX78_DIGESTION_SPOILED_NEEDED - (wx._digestion_modules - 1)) then
+            wx._num_spoiledfood_eaten = 0
+            wx:PushEventImmediate("queue_post_eat_state", { post_eat_state = "wx_bake" })
         end
     end
 end
 
-local function lessmaxsanity1_deactivate(inst, wx)
-    if wx.components.sanity then
-        local current_sanity_percent = wx.components.sanity:GetPercent()
-        wx.components.sanity:SetMax(wx.components.sanity.max - TEST_LESS_SANITY_BOOST)
-        wx.components.sanity:SetPercent(current_sanity_percent, false)
+local function digestion_skill_activate(inst, wx, isloading)
+    if wx.components.eater ~= nil then
+        wx.components.eater:SetSpoiledProcessor(true, true)
     end
 end
 
-local LESSMAXSANITY1_MODULE_DATA =
-{
-    name = "lessmaxsanity1",
-    type = CIRCUIT_BARS.ALPHA,
-    slots = 1,
-    activatefn = lessmaxsanity1_activate,
-    deactivatefn = lessmaxsanity1_deactivate,
-}
--- table.insert(module_definitions, LESSMAXSANITY1_MODULE_DATA)
-
--- AddCreatureScanDataDefinition("butterfly", "lessmaxsanity1", 1)
-
----------------------------------------------------------------
-
-local TEST_LESS_SANITY2_BOOST = -50
-local function lessmaxsanity2_activate(inst, wx, isloading)
-    if wx.components.sanity then
-        local current_sanity_percent = wx.components.sanity:GetPercent()
-
-        -- wx.components.sanity.dapperness = wx.components.sanity.dapperness + TUNING.WX78_MAXSANITY_DAPPERNESS
-        wx.components.sanity:SetMax(wx.components.sanity.max + TEST_LESS_SANITY2_BOOST)
-
-        if not isloading then
-            wx.components.sanity:SetPercent(current_sanity_percent, false)
-        end
-    end
+local function digestion_skill_deactivate(inst, wx)
+    wx.components.eater:SetSpoiledProcessor(wx._digestion_modules > 0, false)
 end
-
-local function lessmaxsanity2_deactivate(inst, wx)
-    if wx.components.sanity then
-        local current_sanity_percent = wx.components.sanity:GetPercent()
-        -- wx.components.sanity.dapperness = wx.components.sanity.dapperness + TUNING.WX78_MAXSANITY_DAPPERNESS
-        wx.components.sanity:SetMax(wx.components.sanity.max - TEST_LESS_SANITY2_BOOST)
-        wx.components.sanity:SetPercent(current_sanity_percent, false)
-    end
-end
-
-local LESSMAXSANITY2_MODULE_DATA =
-{
-    name = "lessmaxsanity2",
-    type = CIRCUIT_BARS.ALPHA,
-    slots = 2,
-    activatefn = lessmaxsanity2_activate,
-    deactivatefn = lessmaxsanity2_deactivate,
-}
--- table.insert(module_definitions, LESSMAXSANITY2_MODULE_DATA)
-
--- AddCreatureScanDataDefinition("butterfly", "lessmaxsanity1", 1)
-
----------------------------------------------------------------
 
 local function digestion_activate(inst, wx, isloading)
     wx._digestion_modules = (wx._digestion_modules or 0) + 1
-    if wx.components.eater ~= nil then
+    if wx.components.eater ~= nil and wx._digestion_modules == 1 then
         wx.components.eater:SetSpoiledProcessor(true)
-        if inst._oneaten == nil then
-            inst._oneaten = function(wx)
-                -- wx.sg:GoToState("wx_bake")
-            end
-        end
-        inst:ListenForEvent("oneat", inst._oneaten, wx)
+        wx:ListenForEvent("oneat", digestion_OnEaten)
     end
+
+    Circuit_SetUpSkillCb(inst, wx, "wx78_circuitry_gammabuffs_1", digestion_skill_activate, digestion_skill_deactivate, isloading)
 end
 
 local function digestion_deactivate(inst, wx)
@@ -1526,10 +1405,11 @@ local function digestion_deactivate(inst, wx)
     if wx.components.eater ~= nil then
         if wx._digestion_modules == 0 then
             wx.components.eater:SetSpoiledProcessor(false)
+            wx:RemoveEventCallback("oneat", digestion_OnEaten)
         end
-        inst:RemoveEventCallback("oneat", inst._oneaten, wx)
-        inst._oneaten = nil
     end
+
+    Circuit_DestroySkillCb(inst, wx)
 end
 
 local DIGESTION_MODULE_DATA =
@@ -1548,33 +1428,65 @@ AddCreatureScanDataDefinition("catcoon", "digestion", 2)
 
 ---------------------------------------------------------------
 
-local function parasite_activate(inst, wx, isloading)
-
+local function spin_activate(inst, wx, isloading)
+	wx._spin_modules = (wx._spin_modules or 0) + 1
+	if wx._spin_modules > 1 and wx.components.efficientuser == nil then
+		wx:AddComponent("efficientuser")
+	end
 end
 
-local function parasite_deactivate(inst, wx)
-
+local function spin_deactivate(inst, wx)
+	wx._spin_modules = (wx._spin_modules or 1) - 1
+	if wx._spin_modules <= 1 then
+		wx:RemoveComponent("efficientuser")
+	end
 end
 
-local PARASITE_MODULE_DATA =
+local SPIN_MODULE_DATA =
 {
-    name = "parasite",
+    name = "spin",
     type = CIRCUIT_BARS.GAMMA,
     slots = 3,
-    activatefn = parasite_activate,
-    deactivatefn = parasite_deactivate,
+    activatefn = spin_activate,
+    deactivatefn = spin_deactivate,
 }
--- table.insert(module_definitions, PARASITE_MODULE_DATA)
+table.insert(module_definitions, SPIN_MODULE_DATA)
 
--- AddCreatureScanDataDefinition("shadowthrall_parasite", "parasite", 6)
+AddCreatureScanDataDefinition("mossling", "spin", 6)
 
-local PARASITE_SCAN_KEY = "SHADOWTHRALL_PARASITE_SCAN"
-local function GetIsParasitedFn(creature)
-    local inventory = creature.components.inventory
-    return (inventory and inventory:EquipHasTag("shadowthrall_parasite")) or nil
+---------------------------------------------------------------
+
+local function shielding_skill_update(inst, wx)
+    inst:PushEvent("refreshwxshielddefense") -- Not needed anymore, but left in case things change.
 end
 
--- AddSpecialCreatureScanDataDefinition(PARASITE_SCAN_KEY, GetIsParasitedFn, "parasite", 2)
+local function shielding_activate(inst, wx, isloading)
+    if wx.wx78_classified ~= nil then
+        wx.wx78_classified:AddInherentAction(ACTIONS.TOGGLEWXSHIELDING)
+    end
+    Circuit_SetUpSkillCb(inst, wx, "wx78_circuitry_gammabuffs_2", shielding_skill_update, shielding_skill_update, isloading)
+end
+
+local function shielding_deactivate(inst, wx)
+    if wx.wx78_classified ~= nil then
+        wx.wx78_classified:RemoveInherentAction(ACTIONS.TOGGLEWXSHIELDING)
+    end
+    Circuit_DestroySkillCb(inst, wx)
+end
+
+local SHIELDING_MODULE_DATA =
+{
+    name = "shielding",
+    type = CIRCUIT_BARS.GAMMA,
+    slots = 4,
+    activatefn = shielding_activate,
+    deactivatefn = shielding_deactivate,
+}
+table.insert(module_definitions, SHIELDING_MODULE_DATA)
+
+AddCreatureScanDataDefinition("rocky", "shielding", 4)
+AddCreatureScanDataDefinition("slurtle", "shielding", 4)
+AddCreatureScanDataDefinition("snurtle", "shielding", 6)
 
 ---------------------------------------------------------------
 local module_netid = 1

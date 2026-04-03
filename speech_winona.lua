@@ -6076,10 +6076,13 @@ return{
         WX78MODULE_DIGESTION = "WX, you gotta stop leavin' this stuff lying around!",
         WX78MODULE_SCREECH = "WX, you gotta stop leavin' this stuff lying around!",
         WX78MODULE_LIGHT2 = "WX, you gotta stop leavin' this stuff lying around!",
+        WX78MODULE_SHIELDING = "WX, you gotta stop leavin' this stuff lying around!",
+        WX78MODULE_SPIN = "WX, you gotta stop leavin' this stuff lying around!",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "Wonder what WX left behind.", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

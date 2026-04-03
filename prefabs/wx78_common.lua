@@ -1,4 +1,5 @@
--- Thse functions can also be used for wx78_backupbody so check everything.
+-- These functions can also be used for wx78_backupbody so check everything.
+-- Search string: WX78Common file definition.
 
 local DEPENDENCIES = {
 	assets =
@@ -124,6 +125,48 @@ local function UnplugModule(inst, moduletype, moduleindex)
     end
 end
 
+--
+local WX78_UPGRADE_MODULE_ACTIONS = ACTIONS and
+{
+    [ACTIONS.TOGGLEWXSCREECH] = {
+        validfn = function(inst)
+            if inst:HasTag("wx_screeching") then
+                return true
+            end
+
+            if inst.components.wx78_abilitycooldowns and inst.components.wx78_abilitycooldowns:IsInCooldown("wxscreech") then
+                return false
+            end
+
+            return not inst:HasAnyTag("wx_screeching", "busy")
+        end,
+    },
+    [ACTIONS.TOGGLEWXSHIELDING] = {
+        validfn = function(inst)
+            if inst:HasTag("wx_shielding") then
+                return true
+            end
+
+            if inst.components.wx78_abilitycooldowns and inst.components.wx78_abilitycooldowns:IsInCooldown("wxshielding") then
+                return false
+            end
+            return not inst:HasAnyTag("wx_shielding", "busy")
+        end,
+    },
+}
+
+local function CollectUpgradeModuleActions(inst, actions)
+    -- Piggyback off of entityscript.inherentactions functionality
+    if inst.wx78_classified ~= nil and inst.wx78_classified.inherentactions ~= nil then
+        for k, v in pairs(inst.wx78_classified.inherentactions) do
+            local actiondata = WX78_UPGRADE_MODULE_ACTIONS[k]
+            if actiondata ~= nil and actiondata.validfn(inst) then
+                table.insert(actions, k)
+            end
+        end
+    end
+end
+
 -- Didn't want to make upgrademoduleowner a networked component
 local function SetupUpgradeModuleOwnerInstanceFunctions(inst)
     inst.GetMaxEnergy = GetMaxEnergy
@@ -132,6 +175,7 @@ local function SetupUpgradeModuleOwnerInstanceFunctions(inst)
     inst.CanUpgradeWithModule = CanUpgradeWithModule
     inst.GetModuleTypeCount = GetModuleTypeCount
     inst.UnplugModule = UnplugModule
+    inst.CollectUpgradeModuleActions = CollectUpgradeModuleActions
 end
 
 --------------------------------------------------------------------------

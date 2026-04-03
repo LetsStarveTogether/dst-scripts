@@ -13,6 +13,8 @@ local assets = JoinArrays({
     Asset("ANIM", "anim/player_idles_wx.zip"),
     Asset("ANIM", "anim/wx_upgrade.zip"),
     Asset("ANIM", "anim/player_wx78_actions.zip"),
+    Asset("ANIM", "anim/player_mount_wx78_actions.zip"),
+    Asset("ANIM", "anim/player_wx78_defense.zip"),
     Asset("ANIM", "anim/player_mount_wx78_upgrade.zip"),
     Asset("ANIM", "anim/wx_fx.zip"),
 	Asset("ANIM", "anim/wx_chassis.zip"),
@@ -31,10 +33,9 @@ local prefabs = JoinArrays({
     "wx78_moduleremover",
     "wx78_scanner_item",
     -- Meta 6
+    "wx78_abilitycooldown",
     "wx78_backupbody",
-	"wx78_drone_delivery",
     "wx78_classified",
-    "wx78_foodbrick",
 }, WX78Common.DEPENDENCIES.prefabs)
 
 local WX78ModuleDefinitionFile = require("wx78_moduledefs")
@@ -85,14 +86,22 @@ local function COMMON_GetMaxShield(inst)
     end
 end
 
+local function COMMON_GetCanShieldCharge(inst)
+    if inst.components.wx78_shield ~= nil then
+        return inst.components.wx78_shield:GetCanShieldCharge()
+    elseif inst.wx78_classified ~= nil then
+        return inst.wx78_classified.canshieldcharge:value()
+    else
+        return false
+    end
+end
+
 -- Used for temp ground speed modifier, slow multiplier override, and equippable walk speed modifier
 local function COMMON_ModifySpeedMultiplier(inst, mult) --, item)
-    local IS_BETA2_ACTIVATED = inst.components.skilltreeupdater:IsActivated("wx78_circuitry_betabuffs_2")
-    if (inst.components.skilltreeupdater:IsActivated("wx78_circuitry_betabuffs_1") or IS_BETA2_ACTIVATED)
-        and mult < 1 then
-        -- 3 speed modules to fully counter a slowness debuff
+    if inst.components.skilltreeupdater:IsActivated("wx78_circuitry_betabuffs_2") and mult < 1 then
+        -- 3 speed modules reduces a slow debuff to 25% of its original value.
         local speed_mod_count = inst:GetModuleTypeCount("movespeed", "movespeed2")
-        local denominator = IS_BETA2_ACTIVATED and 3 or 6
+        local denominator = 4
         local reclaim_speed_penalty = (1 - mult) / denominator
         return math.min(mult + reclaim_speed_penalty * speed_mod_count, 1)
     end
@@ -131,6 +140,9 @@ end
 local CHARGEREGEN_TIMERNAME = "chargeregenupdate"
 local MOISTURETRACK_TIMERNAME = "moisturetrackingupdate"
 local HUNGERDRAIN_TIMERNAME = "hungerdraintick"
+
+local SCREECHCOOLDOWN_TIMERNAME = "wxscreechcooldown"
+local SHIELDINGCOOLDOWN_TIMERNAME = "wxshieldingcooldown"
 
 ----------------------------------------------------------------------------------------
 
@@ -243,8 +255,7 @@ end
 -- Wetness/Moisture/Rain ---------------------------------------------------------------
 
 local function COMMON_GetMinimumAcceptableMoisture(inst)
-    local add_threshold = inst:GetModuleTypeCount("waterprotect") * TUNING.WX78_WATER_THRESHOLD_ADD
-    return TUNING.WX78_MINACCEPTABLEMOISTURE + add_threshold
+    return TUNING.WX78_MINACCEPTABLEMOISTURE
 end
 
 local function initiate_moisture_update(inst)
@@ -621,16 +632,26 @@ end
 
 local function GetPointSpecialActions(inst, pos, useitem, right)
 	local actions = {}
+
     if right and useitem == nil then
-        if inst.checkingmapactions then
-            if inst.components.skilltreeupdater and inst.components.skilltreeupdater:IsActivated("wx78_remotebodyswap") then
-				table.insert(actions, ACTIONS.SWAPBODIES_MAP)
+        if inst.components.playercontroller ~= nil and inst.components.playercontroller.isclientcontrollerattached then
+            if inst.CollectUpgradeModuleActions then
+                inst:CollectUpgradeModuleActions(actions)
             end
-			if true then
-				table.insert(actions, ACTIONS.MAPSCOUTSELECT_MAP)
+        end
+
+        if inst.checkingmapactions then
+			if inst.components.skilltreeupdater then
+				if inst.components.skilltreeupdater:IsActivated("wx78_remotebodyswap") then
+					table.insert(actions, ACTIONS.SWAPBODIES_MAP)
+				end
+				if inst.components.skilltreeupdater:IsActivated("wx78_scoutdrone_1") then
+					table.insert(actions, ACTIONS.MAPSCOUTSELECT_MAP)
+				end
 			end
         end
     end
+
 	return actions
 end
 
@@ -701,13 +722,17 @@ local function common_postinit(inst)
 
     inst.foleysound = "dontstarve/movement/foley/wx78"
 
+    inst:AddComponent("wx78_abilitycooldowns")
+
 	WX78Common.AddHeatSteamFx_Common(inst)
 
     inst.GetMinimumAcceptableMoisture = COMMON_GetMinimumAcceptableMoisture
     inst.GetShieldPenetrationThreshold = COMMON_GetShieldPenetrationThreshold
     inst.GetCurrentShield = COMMON_GetCurrentShield
     inst.GetMaxShield = COMMON_GetMaxShield
+    inst.GetCanShieldCharge = COMMON_GetCanShieldCharge
     inst.ModifySpeedMultiplier = COMMON_ModifySpeedMultiplier -- Also used for locomotor:SetSlowMultiplier in wx78module_defs
+    inst.inventory_EquippableWalkSpeedMultModifier = COMMON_ModifySpeedMultiplier
     inst.ExtraConfigurePlayerLocomotor = COMMON_ExtraConfigurePlayerLocomotor
     WX78Common.SetupUpgradeModuleOwnerInstanceFunctions(inst)
 	inst.StopUsingDrone = COMMON_StopUsingDrone
@@ -733,8 +758,6 @@ local function master_postinit(inst)
     inst.components.health:SetMaxHealth(TUNING.WX78_HEALTH)
     inst.components.hunger:SetMax(TUNING.WX78_HUNGER)
     inst.components.sanity:SetMax(TUNING.WX78_SANITY)
-
-    inst.components.inventory:SetEquippableWalkSpeedMultModifier(inst.ModifySpeedMultiplier)
     ----------------------------------------------------------------
     inst._gears_eaten = 0
     inst._moisture_steps = 0

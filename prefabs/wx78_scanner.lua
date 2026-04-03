@@ -174,7 +174,7 @@ end
 
 local function UpdateScannerRadarBoosters(inst)
     local owner = inst:OwnerFn()
-    if owner ~= nil and owner.GetModuleTypeCount ~= nil 
+    if owner ~= nil and owner.GetModuleTypeCount ~= nil
         and owner.components.skilltreeupdater ~= nil and owner.components.skilltreeupdater:IsActivated("wx78_circuitry_betabuffs_1") then
         inst._radarboosters:set(owner:GetModuleTypeCount("radar"))
     else

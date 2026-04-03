@@ -764,9 +764,10 @@ Recipe2("wx78module_stacksize",				{Ingredient("scandata", 8), Ingredient("moong
 
 -- Gamma Circuits
 
--- Recipe2("wx78module_digestion",				{Ingredient("scandata", 3), Ingredient("coontail", 1)},														TECH.ROBOTMODULECRAFT_ONE,	{builder_tag="upgrademoduleowner"})
--- Recipe2("wx78module_screech",				{Ingredient("scandata", 4), Ingredient("batnose", 1)},														TECH.ROBOTMODULECRAFT_ONE,	{builder_tag="upgrademoduleowner"})
-
+Recipe2("wx78module_digestion",				{Ingredient("scandata", 2), Ingredient("coontail", 1)},														TECH.ROBOTMODULECRAFT_ONE,	{builder_tag="upgrademoduleowner"})
+Recipe2("wx78module_screech",				{Ingredient("scandata", 4), Ingredient("batnose", 1)},														TECH.ROBOTMODULECRAFT_ONE,	{builder_tag="upgrademoduleowner"})
+Recipe2("wx78module_shielding",				{Ingredient("scandata", 4), Ingredient("slurtlehat", 1)},													TECH.ROBOTMODULECRAFT_ONE,	{builder_tag="upgrademoduleowner"})
+Recipe2("wx78module_spin",					{Ingredient("scandata", 6), Ingredient("goose_feather", 1)},												TECH.ROBOTMODULECRAFT_ONE,	{builder_tag="upgrademoduleowner"})
 
 -- WX-78 skill tree items
 Recipe2("wx78_backupbody",					{Ingredient("gears", 1), Ingredient("redgem", 1)},															TECH.NONE,	{placer="wx78_backupbody_placer", min_spacing=1, builder_skill="wx78_extrabody_1", getlimitedrecipecount=function(recipe, builder) return builder.wx78_classified and builder.wx78_classified:GetNumFreeBackupBodies() or 0 end, recipedisplaynamefn=function(recipe, builder) return builder.wx78_classified and (builder.wx78_classified:GetNumFreeBackupBodies() > 0) and subfmt(STRINGS.NAMES.WX78_BACKUPBODY_FMT, { name = builder:GetDisplayName() }) or nil end})

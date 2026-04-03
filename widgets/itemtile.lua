@@ -420,7 +420,8 @@ end
 
 function ItemTile:GetDescriptionString()
     local str = ""
-    if self.item ~= nil and self.item:IsValid() and self.item.replica.inventoryitem ~= nil then
+	local inventoryitem = self.item and self.item:IsValid() and self.item.replica.inventoryitem or nil
+	if inventoryitem then
         local adjective = self.item:GetAdjective()
         if adjective ~= nil then
             str = adjective.." "
@@ -436,31 +437,40 @@ function ItemTile:GetDescriptionString()
                     --self.namedisp:SetHAlign(ANCHOR_LEFT)
                     if TheInput:IsControlPressed(CONTROL_FORCE_INSPECT) then
                         str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..STRINGS.INSPECTMOD
-                    elseif TheInput:IsControlPressed(CONTROL_FORCE_TRADE) then
-                        local showhint = false
-                        local containers = player.replica.inventory:GetOpenContainers()
-                        if containers then
-                            local canonlygoinpocketorpocketcontainers = self.item.replica.inventoryitem:CanOnlyGoInPocketOrPocketContainers()
-                            local cangoinpocket = not self.item.replica.inventoryitem:CanOnlyGoInPocket()
-                            for container, _ in pairs(containers) do
-                                if container.replica.container == nil or not container.replica.container:IsReadOnlyContainer() then
-                                    if canonlygoinpocketorpocketcontainers then
-                                        if container.replica.inventoryitem and container.replica.inventoryitem:CanOnlyGoInPocket() then
-                                            showhint = true
-                                            break
-                                        end
-                                    elseif cangoinpocket then
-                                        showhint = true
-                                        break
-                                    end
-                                end
-                            end
-                        end
-                        if showhint then
-                            str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..((TheInput:IsControlPressed(CONTROL_FORCE_STACK) and self.item.replica.stackable ~= nil) and (STRINGS.STACKMOD.." "..STRINGS.TRADEMOD) or STRINGS.TRADEMOD)
-                        end
-                    elseif TheInput:IsControlPressed(CONTROL_FORCE_STACK) and self.item.replica.stackable ~= nil then
-                        str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..STRINGS.STACKMOD
+                    else
+						local stack_mod = TheInput:IsControlPressed(CONTROL_FORCE_STACK)
+						if stack_mod then
+							local stackable = self.item.replica.stackable
+							stack_mod = stackable ~= nil and stackable:IsStack()
+						end
+						if TheInput:IsControlPressed(CONTROL_FORCE_TRADE) then
+							if stack_mod or not inventoryitem:IsLockedInSlot() then
+								local showhint = false
+								local containers = player.replica.inventory:GetOpenContainers()
+								if containers then
+									local canonlygoinpocketorpocketcontainers = inventoryitem:CanOnlyGoInPocketOrPocketContainers()
+									local cangoinpocket = not inventoryitem:CanOnlyGoInPocket()
+									for container, _ in pairs(containers) do
+										if container.replica.container == nil or not container.replica.container:IsReadOnlyContainer() then
+											if canonlygoinpocketorpocketcontainers then
+												if container.replica.inventoryitem and container.replica.inventoryitem:CanOnlyGoInPocket() then
+													showhint = true
+													break
+												end
+											elseif cangoinpocket then
+												showhint = true
+												break
+											end
+										end
+									end
+								end
+								if showhint then
+									str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..(stack_mod and (STRINGS.STACKMOD.." "..STRINGS.TRADEMOD) or STRINGS.TRADEMOD)
+								end
+							end
+						elseif stack_mod then
+							str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..STRINGS.STACKMOD
+						end
                     end
                 end
 
@@ -472,7 +482,7 @@ function ItemTile:GetDescriptionString()
                 if not (self.item.replica.equippable ~= nil and self.item.replica.equippable:IsEquipped()) then
                     if active_item.replica.stackable ~= nil and active_item.replica.stackable:CanStackWith(self.item) then
                         str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..STRINGS.UI.HUD.PUT
-                    else
+					elseif not inventoryitem:IsLockedInSlot() then
                         str = str.."\n"..TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY)..": "..STRINGS.UI.HUD.SWAP
                     end
                 end

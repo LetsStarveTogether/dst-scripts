@@ -142,8 +142,7 @@ local function fn()
     inst.components.edible.foodtype = FOODTYPE.RAW
 
     inst:AddComponent("perishable")
-    inst.components.perishable:SetPerishTime(TUNING.PERISH_FAST)
-    inst.components.perishable.onperishreplacement = "spoiled_food"
+    inst.components.perishable:SetPerishTime(TUNING.PERISH_ONE_DAY)
 
     MakeSmallBurnable(inst, TUNING.TINY_BURNTIME)
     MakeSmallPropagator(inst)

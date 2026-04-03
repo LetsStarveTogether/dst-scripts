@@ -389,13 +389,14 @@ local function OpenContainerWidget(self, container, side)
 		parent = self.controls.containerroot_side
 	else
 		local _container = container.replica.container
-		local _type = _container and _container.type or nil
+		local _type = _container and (_container.typefn and _container.typefn(container, self.owner) or _container.type)
 		parent =
 			(_type == "inv" and self.controls.inv.toprow_inv) or
 			(_type == "hand_inv" and self.controls.inv.hand_inv) or
 			(_type == "side_inv" and self.controls.secondary_status.side_inv) or
 			(_type == "side_inv_behind" and self.controls.containerroot_side_behind) or
 			(_type == "top_rack" and self.controls.containerroot_under) or
+			(_type == "chest_addon" and self.controls.containerroot_over) or
 			self.controls.containerroot
 	end
 

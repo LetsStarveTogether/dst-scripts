@@ -517,11 +517,10 @@ local COMPONENT_ACTIONS =
         end,
 
         machine = function(inst, doer, actions, right)
-            if right and not inst:HasTag("cooldown") and
-                not inst:HasTag("fueldepleted") and
-                not inst:HasTag("alwayson") and
-                not inst:HasTag("emergency") and
-                    inst:HasTag("enabled") then
+			if right and
+				not inst:HasAnyTag("cooldown", "fueldepleted", "alwayson", "emergency") and
+				inst:HasTag("enabled")
+			then
 				local inventoryitem = inst.replica.inventoryitem
 				local held = inventoryitem ~= nil and inventoryitem:IsHeld()
 				if inst:HasTag("groundonlymachine") and (held or (inst.components.floater ~= nil and inst.components.floater:IsFloating())) then
@@ -913,6 +912,18 @@ local COMPONENT_ACTIONS =
                 table.insert(actions, ACTIONS.UNWRAP)
             end
         end,
+
+		upgrademoduleowner = function(inst, doer, actions, right)
+			if right and
+				doer == inst and
+				inst.components.playercontroller and
+				not inst.components.playercontroller.isclientcontrollerattached
+			then
+                if doer.CollectUpgradeModuleActions then
+                    doer:CollectUpgradeModuleActions(actions)
+                end
+			end
+		end,
 
         walkingplank = function(inst, doer, actions, right)
             if right then
@@ -1340,7 +1351,7 @@ local COMPONENT_ACTIONS =
         inventoryitem = function(inst, doer, target, actions, right)
             local inventoryitem = inst.replica.inventoryitem
 
-            if inventoryitem ~= nil and inventoryitem:CanOnlyGoInPocket() then
+			if inventoryitem ~= nil and (inventoryitem:CanOnlyGoInPocket() or inventoryitem:IsLockedInSlot()) then
                 --not tradable
             elseif inventoryitem ~= nil
                 and (not inventoryitem:CanOnlyGoInPocketOrPocketContainers() or target.replica.inventoryitem ~= nil and target.replica.inventoryitem:CanOnlyGoInPocket())

@@ -2083,6 +2083,26 @@ msgctxt "STRINGS.ACTIONS.TILL"
 msgid "Till"
 msgstr ""
 
+#. STRINGS.ACTIONS.TOGGLEWXSCREECH.GENERIC
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSCREECH.GENERIC"
+msgid "Initiate Sonic Waves"
+msgstr ""
+
+#. STRINGS.ACTIONS.TOGGLEWXSCREECH.TURNOFF
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSCREECH.TURNOFF"
+msgid "Terminate Sonic Waves"
+msgstr ""
+
+#. STRINGS.ACTIONS.TOGGLEWXSHIELDING.GENERIC
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSHIELDING.GENERIC"
+msgid "Activate Block"
+msgstr ""
+
+#. STRINGS.ACTIONS.TOGGLEWXSHIELDING.TURNOFF
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSHIELDING.TURNOFF"
+msgid "Deactivate Block"
+msgstr ""
+
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY"
 msgid "Deploy"
@@ -22863,6 +22883,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_SCREECH"
 msgid "So much science packed into one tiny gizmo."
 msgstr ""
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "So much science packed into one tiny gizmo."
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_SPIN"
+msgid "So much science packed into one tiny gizmo."
+msgstr ""
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "So much science packed into one tiny gizmo."
@@ -41488,6 +41518,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_SCREECH"
 msgid "Robot guts! Neat!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Robot guts! Neat!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_SPIN"
+msgid "Robot guts! Neat!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "Robot guts! Neat!"
@@ -59978,6 +60018,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_SCREECH"
 msgid "Aha! I was wondering when they'd started making these."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_SPIN"
+msgid "Aha! I was wondering when they'd started making these."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "Aha! I was wondering when they'd started making these."
@@ -77563,6 +77613,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_SCREECH"
 msgid "They give our metal friend a little extra zest, non?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_SPIN"
+msgid "They give our metal friend a little extra zest, non?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "They give our metal friend a little extra zest, non?"
@@ -77595,12 +77655,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_FOODBRICK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_FOODBRICK.GENERIC"
-msgid "It is missing the secret ingredient. Water!"
+msgid "Adding water will not make it less horrible."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_FOODBRICK.WET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_FOODBRICK.WET"
-msgid "As a chef, I am appalled. However..."
+msgid "It is most appalling."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WX78_INVENTORYCONTAINER.GENERIC
@@ -95873,6 +95933,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_SCREECH"
 msgid "These boons shall empower our metal warrior."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "These boons shall empower our metal warrior."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_SPIN"
+msgid "These boons shall empower our metal warrior."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "These boons shall empower our metal warrior."
@@ -95905,12 +95975,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_FOODBRICK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_FOODBRICK.GENERIC"
-msgid "Even Mjolnir could not crack this loaf!"
+msgid "Even Mjolnir could not crack this foul brick!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_FOODBRICK.WET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_FOODBRICK.WET"
-msgid "A gift from the Iron Warrior!"
+msgid "A cursed loaf, born from the very innards of the metal warrior!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WX78_INVENTORYCONTAINER.GENERIC
@@ -114263,6 +114333,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_SCREECH"
 msgid "That robot needs to pull themselves together."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "That robot needs to pull themselves together."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_SPIN"
+msgid "That robot needs to pull themselves together."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "That robot needs to pull themselves together."
@@ -132570,6 +132650,16 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_SCREECH
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_SCREECH"
+msgid "Huh. Is that what robot insides look like?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Huh. Is that what robot insides look like?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78MODULE_SPIN"
 msgid "Huh. Is that what robot insides look like?"
 msgstr ""
 
@@ -150918,6 +151008,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_SCREECH"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_SPIN"
+msgid "It looks so fragile... hopefully no tragic accidents befall it."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "It looks so fragile... hopefully no tragic accidents befall it."
@@ -150960,7 +151060,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_INVENTORYCONTAINER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_INVENTORYCONTAINER.GENERIC"
-msgid "It was once a portable void."
+msgid "I wonder what remains."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78_INVENTORYCONTAINER.HELD
@@ -153340,7 +153440,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_AVOID_FORK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_AVOID_FORK"
-msgid "This trail will likely yeild less dangerous results."
+msgid "This trail will likely yield less dangerous results."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_BEAST_NEARBY
@@ -169265,6 +169365,16 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_SCREECH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_SCREECH"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78MODULE_SPIN"
 msgid "They dislike organics, but don't seem opposed to taking inspiration from them."
 msgstr ""
 
@@ -187583,6 +187693,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_SCREECH"
 msgid "Hey WX, when are you gonna install a flamethrower?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_SPIN"
+msgid "Hey WX, when are you gonna install a flamethrower?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "Hey WX, when are you gonna install a flamethrower?"
@@ -187605,7 +187725,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_DRONE_ZAP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_DRONE_ZAP"
-msgid "I got my eye on you, Zappy."
+msgid "I got my eye on you, zappy."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WX78_DRONE_ZAP_REMOTE.GENERIC
@@ -205978,6 +206098,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_SCREECH"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_SPIN"
+msgid "WX, you gotta stop leavin' this stuff lying around!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "WX, you gotta stop leavin' this stuff lying around!"
@@ -224318,6 +224448,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_SCREECH"
 msgid "Is robot snacks, yes?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Is robot snacks, yes?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_SPIN"
+msgid "Is robot snacks, yes?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "Is robot snacks, yes?"
@@ -242605,6 +242745,16 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_SCREECH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_SCREECH"
+msgid "Some fancy robot bits."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Some fancy robot bits."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WX78MODULE_SPIN"
 msgid "Some fancy robot bits."
 msgstr ""
 
@@ -260940,6 +261090,16 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_SCREECH
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_SCREECH"
+msgid "Beep boops"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Beep boops"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78MODULE_SPIN"
 msgid "Beep boops"
 msgstr ""
 
@@ -279413,6 +279573,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_SCREECH"
 msgid "Are you the brightest bulb of the bunch?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_SPIN"
+msgid "Are you the brightest bulb of the bunch?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "Are you the brightest bulb of the bunch?"
@@ -297838,6 +298008,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_SCREECH"
 msgid "Crunchy."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "Crunchy."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_SPIN"
+msgid "Crunchy."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.WX78MODULE_STACKSIZE"
 msgid "Crunchy."
@@ -316241,6 +316421,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_SCREECH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_SCREECH"
 msgid "SPECIAL BROADCAST SYSTEM"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_SHIELDING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_SHIELDING"
+msgid "MY BEST DEFENSE IS ME!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_SPIN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_SPIN"
+msgid "WELCOME TO MY DEATH CYCLONE, ORGANICS!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WX78MODULE_STACKSIZE
@@ -339033,6 +339223,16 @@ msgctxt "STRINGS.NAMES.WX78MODULE_SCREECH"
 msgid "Sonic-Invoker Circuit"
 msgstr ""
 
+#. STRINGS.NAMES.WX78MODULE_SHIELDING
+msgctxt "STRINGS.NAMES.WX78MODULE_SHIELDING"
+msgid "Blocking Circuit"
+msgstr ""
+
+#. STRINGS.NAMES.WX78MODULE_SPIN
+msgctxt "STRINGS.NAMES.WX78MODULE_SPIN"
+msgid "Spin-Cycle Circuit"
+msgstr ""
+
 #. STRINGS.NAMES.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.NAMES.WX78MODULE_STACKSIZE"
 msgid "Spatializer Circuit"
@@ -346188,6 +346388,16 @@ msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_SCREECH"
 msgid "Unleash the fearsome battlecry of the soulless automaton!"
 msgstr ""
 
+#. STRINGS.RECIPE_DESC.WX78MODULE_SHIELDING
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_SHIELDING"
+msgid "Defend yourself!"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_SPIN
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_SPIN"
+msgid "A fine attack, however you spin it."
+msgstr ""
+
 #. STRINGS.RECIPE_DESC.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_STACKSIZE"
 msgid "Infinite storage. Finite space. Don't overthink it."
@@ -349520,77 +349730,82 @@ msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_BEE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_BEE"
-msgid "Plugs into WX78's circuit board.\n\nRequires 3 sockets, heals 5 Health every 30 seconds, gains 2 Sanity every minute and increases Maximum Sanity by 100 points."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 3 sockets, heals 5 Health every 30 seconds, gains 2 Sanity every minute and increases Maximum Sanity by 100 points."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_COLD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_COLD"
-msgid "Plugs into WX78's circuit board.\n\nRequires 3 sockets and lowers body temperature 20 degrees and decreases spoil rate of inventory by 25%. Will also cool nearby survivors.\n\nIf WX78's wetness reaches 95%, it will drop to 0% and 2 Ice will be spawned."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets and lowers body temperature 20 degrees and decreases spoil rate of inventory by 25%. Will also cool nearby survivors.\n\nIf WX-78's wetness reaches 95%, it will drop to 0% and 2 Ice will be spawned."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_HEAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_HEAT"
-msgid "Plugs into WX78's circuit board.\n\nRequires 3 sockets and raises body temperature 20 degrees, increases spoil rate of inventory by 25% and increases drying rate by 10%. Will also warm nearby survivors."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets and raises body temperature 20 degrees, increases spoil rate of inventory by 25% and increases drying rate by 10%. Will also warm nearby survivors."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT"
-msgid "Plugs into WX78's circuit board.\n\nRequires 3 sockets and creates light."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets and creates light."
+msgstr ""
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT2
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT2"
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 1 socket and creates light."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH"
-msgid "Plugs into WX78's circuit board.\n\nRequires 1 socket and raises Maximum Health +50."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 1 socket and raises Maximum Health +40."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH2"
-msgid "Plugs into WX78's circuit board.\n\nRequires 2 sockets and increases Maximum Health by 150 points."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 2 sockets and increases Maximum Health by 100 points."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER"
-msgid "Plugs into WX78's circuit board.\n\nRequires 2 sockets, increases Maximum Hunger by 100 points and reduces Hunger drain by 20%."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 2 sockets, increases Maximum Hunger by 100 points and reduces Hunger drain by 10%."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER1"
-msgid "Plugs into WX78's circuit board.\n\nRequires 1 socket and increases Maximum Hunger by 40 points."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 1 socket and increases Maximum Hunger by 40 points."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY"
-msgid "Plugs into WX78's circuit board.\n\nRequires 2 sockets and raises Maximum Sanity +100."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 2 sockets and raises Maximum Sanity +100."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY1"
-msgid "Plugs into WX78's circuit board.\n\nRequires 1 socket and raises Maximum Sanity +40."
+msgid "Plugs into WX-78's Alpha circuit board.\n\nRequires 1 socket and raises Maximum Sanity +40."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED"
-msgid "Plugs into WX78's circuit board.\n\nRequires 6 sockets and raises movment speed by 25%."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 6 sockets and raises movment speed by 25%."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED2"
-msgid "Plugs into WX78's circuit board.\n\nRequires 2 sockets.\nThe first raises movement speed by 25%.\nThe second raises movement speed by 15%.\nThe third raises movement speed by 10%.\nSo the maxmimum speed boost can be 50%."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 2 sockets.\nThe first raises movement speed by 25%.\nThe second raises movement speed by 15%.\nThe third raises movement speed by 10%.\nSo the maxmimum speed boost can be 50%."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MUSIC
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MUSIC"
-msgid "Plugs into WX78's circuit board.\n\nRequires 3 sockets, raises Sanity of nearby survivors 5 points a minute and raises garden plant happiness one step."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets, raises Sanity of nearby survivors 5 points a minute and raises garden plant happiness one step."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_NIGHTVISION"
-msgid "Plugs into WX78's circuit board.\n\nRequires 4 sockets and lets the user see in the dark. Turns on at night and when entering the Caves."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 4 sockets and lets the user see in the dark. Turns on at night and when entering the Caves."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_TASER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_TASER"
-msgid "Plugs into WX78's circuit board.\n\nRequires 2 sockets and deals 20 electrical damage to WX78's attackers.\n\nThis module also makes WX78 immune to electrical damage."
+msgid "Plugs into WX-78's Beta circuit board.\n\nRequires 2 sockets and deals 10 electrical damage to WX78's attackers.\n\nThis module also makes WX-78 immune to electrical shock."
 msgstr ""
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER
@@ -355510,7 +355725,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_1_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_1_DESC"
-msgid "Some Alpha Circuits will grant a new effect in addition to their original effect."
+msgid "Processing Circuits gain a new effect in addition to their original effect. Gastrogain Circuits are boosted."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_1_TITLE
@@ -355520,7 +355735,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_2_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_2_DESC"
-msgid "Even more Alpha Circuits will grant a new effect in addition to their original effect."
+msgid "Hardy Circuits, Processing Circuits, and Beanbooster Circuit gain a new effect in addition to their original effect. Gastrogain Circuits are boosted."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_2_TITLE
@@ -355530,7 +355745,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_BETA_CIRCUIT_BUFFS_1_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_BETA_CIRCUIT_BUFFS_1_DESC"
-msgid "Some Beta Circuits will grant a new effect in addition to their original effect."
+msgid "Thermal Circuit, Refrigerant Circuit, Optoelectronic Circuit, Chorusbox Circuit, and Rangebooster Circuit gain a new effect in addition to their original effect."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_BETA_CIRCUIT_BUFFS_1_TITLE
@@ -355540,7 +355755,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_BETA_CIRCUIT_BUFFS_2_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_BETA_CIRCUIT_BUFFS_2_DESC"
-msgid "Even more Beta Circuits will grant a new effect in addition to their original effect."
+msgid "Acceleration Circuits, Electrification Circuit, and Illumination Circuits gain a new effect in addition to their original effect."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_BETA_CIRCUIT_BUFFS_2_TITLE
@@ -355630,7 +355845,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_GAMMA_CIRCUIT_BUFFS_1_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_GAMMA_CIRCUIT_BUFFS_1_DESC"
-msgid "Some Gamma Circuits will grant a new effect in addition to their original effect."
+msgid "Redigestion Circuit and Sonic-Invoker Circuit gain a new effect in addition to their original effect."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_GAMMA_CIRCUIT_BUFFS_1_TITLE
@@ -355640,7 +355855,7 @@ msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_GAMMA_CIRCUIT_BUFFS_2_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_GAMMA_CIRCUIT_BUFFS_2_DESC"
-msgid "Even more Gamma Circuits will grant a new effect in addition to their original effect."
+msgid "Blocking Circuit and Spin-Cycle Circuit gain a new effect in addition to their original effect."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_GAMMA_CIRCUIT_BUFFS_2_TITLE
@@ -355698,6 +355913,11 @@ msgctxt "STRINGS.SKILLTREE.WX78.WX78_LESS_CHARGE_LOSS_TITLE"
 msgid "Energy-Efficient"
 msgstr ""
 
+#. STRINGS.SKILLTREE.WX78.WX78_LUNAR_ALLEGIANCE_LOCK_1_DESC
+msgctxt "STRINGS.SKILLTREE.WX78.WX78_LUNAR_ALLEGIANCE_LOCK_1_DESC"
+msgid "Find and defeat the Celestial Champion.\nHave no Shadow Allegiance Skills."
+msgstr ""
+
 #. STRINGS.SKILLTREE.WX78.WX78_REMOTEBODYSWAP_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_REMOTEBODYSWAP_DESC"
 msgid "Remotely transfer consciousness to any Backup Chassis on the map."
@@ -355726,6 +355946,11 @@ msgstr ""
 #. STRINGS.SKILLTREE.WX78.WX78_SCOUTDRONE_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_SCOUTDRONE_2_TITLE"
 msgid "Field Survey II"
+msgstr ""
+
+#. STRINGS.SKILLTREE.WX78.WX78_SHADOW_ALLEGIANCE_LOCK_1_DESC
+msgctxt "STRINGS.SKILLTREE.WX78.WX78_SHADOW_ALLEGIANCE_LOCK_1_DESC"
+msgid "Find and defeat the Ancient Fuelweaver.\nHave no Lunar Allegiance Skills."
 msgstr ""
 
 #. STRINGS.SKILLTREE.WX78.WX78_UNPLUG_ANY_CIRCUIT_DESC
@@ -356346,6 +356571,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.backpack_hound
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_hound"
 msgid "Don't worry, it doesn't bite. Hard."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.backpack_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_invisible"
+msgid "Convey an incredibly convincing impression of a backpack."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.backpack_koalefant
@@ -375666,6 +375896,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.backpack_hound
 msgctxt "STRINGS.SKIN_NAMES.backpack_hound"
 msgid "Hound Haversack"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.backpack_invisible
+msgctxt "STRINGS.SKIN_NAMES.backpack_invisible"
+msgid "Pantomimed Backpack"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.backpack_koalefant

@@ -6070,10 +6070,13 @@ return{
         WX78MODULE_DIGESTION = "Huh. Is that what robot insides look like?",
         WX78MODULE_SCREECH = "Huh. Is that what robot insides look like?",
         WX78MODULE_LIGHT2 = "Huh. Is that what robot insides look like?",
+        WX78MODULE_SHIELDING = "Huh. Is that what robot insides look like?",
+        WX78MODULE_SPIN = "Huh. Is that what robot insides look like?",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "It was forever in there.", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

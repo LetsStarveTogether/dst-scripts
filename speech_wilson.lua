@@ -6080,6 +6080,8 @@ return {
         WX78MODULE_DIGESTION = "So much science packed into one tiny gizmo.",
         WX78MODULE_SCREECH = "So much science packed into one tiny gizmo.",
         WX78MODULE_LIGHT2 = "So much science packed into one tiny gizmo.",
+        WX78MODULE_SHIELDING = "So much science packed into one tiny gizmo.",
+        WX78MODULE_SPIN = "So much science packed into one tiny gizmo.",
 
         WX78_INVENTORYCONTAINER =
         {

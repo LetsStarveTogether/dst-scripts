@@ -348,19 +348,23 @@ CRAFTING_FILTERS.CHARACTER.recipes =
     "wx78module_maxsanity1",
 	"wx78module_maxsanity",
     "wx78module_bee",
+
     "wx78module_radar",
     "wx78module_music",
 	"wx78module_movespeed",
 	"wx78module_movespeed2",
-	"wx78module_digestion",
 	"wx78module_heat",
     "wx78module_cold",
     "wx78module_taser",
-    "wx78module_screech",
     "wx78module_light",
     "wx78module_light2",
     "wx78module_nightvision",
     "wx78module_stacksize",
+
+	"wx78module_digestion",
+	"wx78module_shielding",
+    "wx78module_screech",
+	"wx78module_spin",
 }
 
 CRAFTING_FILTERS.SPECIAL_EVENT.recipes =
@@ -832,6 +836,7 @@ CRAFTING_FILTERS.TOOLS.recipes =
 	"golden_farm_hoe",
 	"goldenpitchfork",
 	"moonglassaxe",
+    "wx78module_spin",
 	"trap",
 	"birdtrap",
 	"bugnet",
@@ -887,10 +892,10 @@ CRAFTING_FILTERS.LIGHT.recipes =
 	"pumpkin_lantern",
 	"minerhat",
 	"molehat",
-    "wx78module_nightvision",
 	"lantern",
     "wx78module_light",
     "wx78module_light2",
+    "wx78module_nightvision",
 	"nightstick",
 	"nightlight",
 	"winona_spotlight",
@@ -991,6 +996,8 @@ CRAFTING_FILTERS.WEAPONS.recipes =
 
 CRAFTING_FILTERS.ARMOUR.recipes =
 {
+	"wx78module_shielding",
+
 	"armorgrass",
 	"armorwood",
 	"armor_bramble",
@@ -1096,6 +1103,8 @@ CRAFTING_FILTERS.RESTORATION.recipes =
 CRAFTING_FILTERS.COOKING.recipes =
 {
 	"wintersfeastoven",
+
+	"wx78module_digestion",
 
 	"lighter",
 	"portablecookpot_item",

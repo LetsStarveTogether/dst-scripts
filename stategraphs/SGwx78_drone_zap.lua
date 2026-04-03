@@ -39,7 +39,7 @@ end
 local events =
 {
 	EventHandler("locomote", function(inst, data)
-		if inst.sg:HasStateTag("busy") then
+		if inst.sg:HasStateTag("busy") or inst.killed then
 			return
 		end
 
@@ -89,7 +89,7 @@ local events =
 		end
 	end),
 	EventHandler("doattack", function(inst)
-		if not inst.sg:HasStateTag("busy") then
+		if not (inst.sg:HasStateTag("busy") or inst.killed) then
 			inst.sg:GoToState("attack")
 		end
 	end),
@@ -249,6 +249,53 @@ local function UpdateAttackHover(inst, dt)
 	inst.sg.statemem.t = t
 end
 
+local function UpdateLanding(inst, dt)
+	if inst:IsAsleep() then
+		return
+	end
+
+	local len = 60 * FRAMES
+	local t = inst.sg.statemem.t
+	if t ~= math.huge then
+		local vy, g
+		if t == nil then
+			local _, y = inst.Transform:GetWorldPosition()
+			_, vy = inst.Physics:GetMotorVel()
+			--local vyf = -y * 2 / len - vy
+			--g = (vyf - vy) / len
+			g = -2 * (y / len + vy) / len
+			inst.sg.statemem.g = g
+			t = 0
+		else
+			vy = inst.sg.mem.vel.y
+			g = inst.sg.statemem.g
+		end
+
+		t = t + dt
+		if t < len then
+			local dir = inst.Transform:GetRotation()
+			local theta = dir * DEGREES
+			local costheta = math.cos(theta)
+			local sintheta = math.sin(theta)
+			local vx, vz = CalcDecelVelXZ(inst, 20 * dt, costheta, sintheta)
+
+			vy = vy + g * dt
+
+			inst.sg.mem.vel.x, inst.sg.mem.vel.y, inst.sg.mem.vel.z = vx, vy, vz
+			--now convert back to local space
+			vx, vz = costheta * vx - sintheta * vz, sintheta * vx + costheta * vz
+
+			inst.Physics:SetMotorVel(vx, vy, vz)
+			inst.sg.statemem.t = t
+		else
+			local x, y, z = inst.Transform:GetWorldPosition()
+			inst.Physics:Stop()
+			inst.Transform:SetPosition(x, 0, z)
+			inst.sg.statemem.t = math.huge --finished landing
+		end
+	end
+end
+
 --------------------------------------------------------------------------
 
 local PROPELLER_VOLUME = 0.5
@@ -308,6 +355,8 @@ local states =
 			inst.AnimState:PlayAnimation("collapse")
 			SetSoundLoop(inst, nil)
 		end,
+
+		onupdate = UpdateLanding,
 
 		timeline =
 		{

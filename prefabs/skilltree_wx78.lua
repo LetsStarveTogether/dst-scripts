@@ -73,16 +73,6 @@ local function BuildSkillsData(SkillTreeFns)
         -- FIXME(JBK): WX: Remove these temporary beta locks!
         wx78_beta_lock = {
             desc = "Coming soon.",
-            pos = {ORIGIN_CIRCUITRY_X + SPACER, ORIGIN_CIRCUITRY_Y - LOCK_SPACER * 0.25},
-            group = GROUPS.CIRCUITRY,
-            tags = {"lock"},
-            root = true,
-            lock_open = function(prefabname, activatedskills, readonly)
-                return false
-            end,
-        },
-        wx78_beta_lock_visual = {
-            desc = "Coming soon.",
             pos = {ORIGIN_ALLEGIANCE_X - LOCK_SPACER * 0.5, ORIGIN_ALLEGIANCE_Y - LOCK_SPACER * 0.5},
             group = GROUPS.ALLEGIANCE,
             tags = {"lock"},
@@ -210,8 +200,7 @@ local function BuildSkillsData(SkillTreeFns)
             pos = {ORIGIN_CIRCUITRY_X + SPACER, ORIGIN_CIRCUITRY_Y + SPACER * 0.5},
             group = GROUPS.CIRCUITRY,
             tags = {GROUPS.CIRCUITRY},
-            --root = true, -- FIXME(JBK): WX: Make this a root when locks is removed!
-            locks = {"wx78_beta_lock"}, -- FIXME(JBK): WX: Remove this temporary lock!
+            root = true,
             connects = {
                 "wx78_circuitry_gammabuffs_2",
             },
@@ -415,11 +404,27 @@ local function BuildSkillsData(SkillTreeFns)
         ------------------------------------------------------------------------------------------------------------------------
         -- ALLEGIANCE
         ------------------------------------------------------------------------------------------------------------------------
-        wx78_allegiance_lunar_lock_1 = SkillTreeFns.MakeNoShadowLock(
-            {
-                pos = {ORIGIN_ALLEGIANCE_X - 12, ORIGIN_ALLEGIANCE_Y + 9},
-            }
-        ),
+        wx78_allegiance_lunar_lock_1 = {
+            desc = STRINGS.SKILLTREE.WX78.WX78_LUNAR_ALLEGIANCE_LOCK_1_DESC,
+            pos = {ORIGIN_ALLEGIANCE_X - 12, ORIGIN_ALLEGIANCE_Y + 9},
+            group = "allegiance",
+            tags = {"allegiance", "lock"},
+            root = true,
+            lock_open = function(prefabname, activatedskills, readonly)
+                if true then return false end -- FIXME(JBK): WX: Remove this temporary lock!
+
+                local shadow_skills = SkillTreeFns.CountTags(prefabname, "shadow_favor", activatedskills)
+                if shadow_skills > 0 then
+                    return false
+                end
+
+                if readonly then
+                    return "question"
+                end
+
+                return TheGenericKV:GetKV("celestialchampion_killed") == "1"
+            end,
+        },
         wx78_allegiance_lunar = {
             title = STRINGS.SKILLTREE.WX78.WX78_ALLEGIANCE_LUNAR_TITLE,
             desc = STRINGS.SKILLTREE.WX78.WX78_ALLEGIANCE_LUNAR_DESC,
@@ -440,11 +445,27 @@ local function BuildSkillsData(SkillTreeFns)
             end,
         },
         ------------------------------------------------------------------------------------------------------------------------
-        wx78_allegiance_shadow_lock_1 = SkillTreeFns.MakeNoLunarLock(
-            {
-                pos = {ORIGIN_ALLEGIANCE_X + 7, ORIGIN_ALLEGIANCE_Y - 18},
-            }
-        ),
+        wx78_shadow_allegiance_lock_1 = {
+            desc = STRINGS.SKILLTREE.WX78.WX78_SHADOW_ALLEGIANCE_LOCK_1_DESC,
+            pos = {ORIGIN_ALLEGIANCE_X + 7, ORIGIN_ALLEGIANCE_Y - 18},
+            group = "allegiance",
+            tags = {"allegiance", "lock"},
+            root = true,
+            lock_open = function(prefabname, activatedskills, readonly)
+                if true then return false end -- FIXME(JBK): WX: Remove this temporary lock!
+
+                local lunar_skills = SkillTreeFns.CountTags(prefabname, "lunar_favor", activatedskills)
+                if lunar_skills > 0 then
+                    return false
+                end
+
+                if readonly then
+                    return "question"
+                end
+
+                return TheGenericKV:GetKV("fuelweaver_killed") == "1"
+            end,
+        },
         wx78_allegiance_shadow = {
             title = STRINGS.SKILLTREE.WX78.WX78_ALLEGIANCE_SHADOW_TITLE,
             desc = STRINGS.SKILLTREE.WX78.WX78_ALLEGIANCE_SHADOW_DESC,
@@ -452,7 +473,7 @@ local function BuildSkillsData(SkillTreeFns)
             pos = {ORIGIN_ALLEGIANCE_X + 50, ORIGIN_ALLEGIANCE_Y - 3},
             group = GROUPS.ALLEGIANCE,
             tags = {"shadow_favor", "allegiance"},
-            locks = {"wx78_allegiance_shadow_lock_1",
+            locks = {"wx78_shadow_allegiance_lock_1",
                 "wx78_beta_lock", -- FIXME(JBK): WX: Remove this temporary lock!
             },
             onactivate = function(inst)

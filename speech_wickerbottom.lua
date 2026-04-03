@@ -666,7 +666,7 @@ return{
     ANNOUNCE_HUNT_START_FORK = "I suspect whatever lies at the end of this trail will be formidable.",
     ANNOUNCE_HUNT_SUCCESSFUL_FORK = "It seems I've managed to track the creature without alerting it.",
     ANNOUNCE_HUNT_WRONG_FORK = "Oh dear... I have the most peculiar sensation that I'm being observed.",
-    ANNOUNCE_HUNT_AVOID_FORK = "This trail will likely yeild less dangerous results.",
+    ANNOUNCE_HUNT_AVOID_FORK = "This trail will likely yield less dangerous results.",
 	ANNOUNCE_INV_FULL = "I can't carry anything more.",
 	ANNOUNCE_KNOCKEDOUT = "Oof, that's one way to get some rest, I suppose.",
 	ANNOUNCE_LOWRESEARCH = "Not a great resource, but there were useful bits.",
@@ -6070,10 +6070,13 @@ return{
         WX78MODULE_DIGESTION = "They dislike organics, but don't seem opposed to taking inspiration from them.",
         WX78MODULE_SCREECH = "They dislike organics, but don't seem opposed to taking inspiration from them.",
         WX78MODULE_LIGHT2 = "They dislike organics, but don't seem opposed to taking inspiration from them.",
+        WX78MODULE_SHIELDING = "They dislike organics, but don't seem opposed to taking inspiration from them.",
+        WX78MODULE_SPIN = "They dislike organics, but don't seem opposed to taking inspiration from them.",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "Once a repository whose capacity challenged the very laws of physics.", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

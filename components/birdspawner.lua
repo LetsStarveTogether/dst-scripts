@@ -242,7 +242,7 @@ local function PickBird(spawnpoint)
 		end
 	end
 
-    if math.random() < GetMutatedBirdSpawnChance(spawnpoint) and bird ~= "puffin" then --FIXME (Omar): NO PUFFIN SUPPORT!!! For now?
+    if TUNING.SPAWN_MUTATED_BIRDS_GESTALT and math.random() < GetMutatedBirdSpawnChance(spawnpoint) and bird ~= "puffin" then --FIXME (Omar): NO PUFFIN SUPPORT!!! For now?
         bird = "mutatedbird"
     end
 

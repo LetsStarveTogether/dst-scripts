@@ -491,6 +491,13 @@ local function apply_panic_fx(target, fx_prefab)
 	return fx
 end
 
+local function DelayedGhostScare(target)
+    if target.components.sleeper then
+        target.components.sleeper:WakeUp()
+    end
+    apply_panic_fx(target, "battlesong_instant_panic_fx")
+end
+
 local SCARE_RADIUS = 10
 local SCARE_MUST_HAVE_TAGS = {"_combat", "_health"}
 local SCARE_CANT_HAVE_TAGS = { "balloon", "butterfly", "companion", "epic", "groundspike", "INLIMBO", "smashable", "structure", "wall"}
@@ -510,7 +517,7 @@ local function DoGhostScare(inst)
 			(not target:HasTag("prey") or target:HasTag("hostile"))
 		then
 			target.components.hauntable:Panic(7)
-			target:DoTaskInTime(0.25 * math.random(), apply_panic_fx, "battlesong_instant_panic_fx")
+			target:DoTaskInTime(0.25 * math.random(), DelayedGhostScare)
 		end
 	end
 end

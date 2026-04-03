@@ -1454,6 +1454,7 @@ PREFABFILES = {
   "wurt_tentacle_warning",
   "wurt_terraform_item",
   "wx78",
+  "wx78_abilitycooldown",
   "wx78_backupbody",
   "wx78_big_spark",
   "wx78_classified",

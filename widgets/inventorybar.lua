@@ -1066,7 +1066,8 @@ function Inv:UpdateCursorText()
 						table.insert(str, TheInput:GetLocalizedControl(controller_id, examine_ctrl).." "..STRINGS.UI.HUD.INSPECT)
 
 						if not is_equip_slot then
-							if not inv_item.replica.inventoryitem:IsGrandOwner(self.owner) then
+							local inventoryitem = inv_item.replica.inventoryitem
+							if not (inventoryitem:IsGrandOwner(self.owner) or inventoryitem:IsLockedInSlot()) then
 								table.insert(str, TheInput:GetLocalizedControl(controller_id, scene_act_ctrl).." "..STRINGS.UI.HUD.TAKE)
 							else
 								local scene_action = self.owner.components.playercontroller:GetItemUseAction(inv_item)
@@ -1078,7 +1079,7 @@ function Inv:UpdateCursorText()
 							if self_action then
 								table.insert(str, TheInput:GetLocalizedControl(controller_id, self_use_ctrl).." "..self_action:GetActionString())
 							end
-							if not inv_item.replica.inventoryitem:IsLockedInSlot() then
+							if not inventoryitem:IsLockedInSlot() then
 								table.insert(str, TheInput:GetLocalizedControl(controller_id, drop_ctrl).." "..GetDropActionString(self.owner, inv_item))
 							end
 						else

@@ -6071,10 +6071,13 @@ return{
         WX78MODULE_DIGESTION = "Is robot snacks, yes?",
         WX78MODULE_SCREECH = "Is robot snacks, yes?",
         WX78MODULE_LIGHT2 = "Is robot snacks, yes?",
+        WX78MODULE_SHIELDING = "Is robot snacks, yes?",
+        WX78MODULE_SPIN = "Is robot snacks, yes?",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "Any goodie for Wolfgang?", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

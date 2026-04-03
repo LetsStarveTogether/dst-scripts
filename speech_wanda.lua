@@ -6070,10 +6070,13 @@ return{
         WX78MODULE_DIGESTION = "Aha! I was wondering when they'd started making these.",
         WX78MODULE_SCREECH = "Aha! I was wondering when they'd started making these.",
         WX78MODULE_LIGHT2 = "Aha! I was wondering when they'd started making these.",
+        WX78MODULE_SHIELDING = "Aha! I was wondering when they'd started making these.",
+        WX78MODULE_SPIN = "Aha! I was wondering when they'd started making these.",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "I know better than to question the physics.", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

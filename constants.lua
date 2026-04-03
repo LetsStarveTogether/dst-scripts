@@ -1012,9 +1012,9 @@ FESTIVAL_EVENT_MUSIC =
 
 DEFAULT_FE_MUSIC =
 {
-	bank = "music_frontend_WX2.fsb",
-	--bank = "music_frontend.fsb",
-	sound = "dontstarve/music/music_FE_WX2",
+	--bank = "music_frontend_WX.fsb",
+	bank = "music_frontend.fsb",
+	sound = "dontstarve/music/music_FE_WX",
 	--sound = "dontstarve/music/music_FE_cavepuzzle",
 	--sound = "dontstarve/music/music_FE_wagboss",
 	--sound = "dontstarve/music/music_FE_balatro",

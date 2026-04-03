@@ -100,8 +100,12 @@ local UpgradeModulesDisplay = Class(Widget, function(self, owner, reversed)
             chip_object:GetAnimState():Hide("glow")
             chip_object._power_hidden = true
 
-            -- chip_object:MoveToBack()
             chip_object:Hide()
+
+            chip_object.cooldown = chip_object:AddChild(UIAnim())
+            chip_object.cooldown:GetAnimState():SetBank("status_wx")
+            chip_object.cooldown:GetAnimState():SetBuild("status_wx")
+            chip_object.cooldown:GetAnimState():SetMultColour(0.4, 0.4, 0.4, 0.4)
 
             table.insert(self.chip_objectpools[v], chip_object)
         end
@@ -119,6 +123,7 @@ local UpgradeModulesDisplay = Class(Widget, function(self, owner, reversed)
     self.focus_box.OnLoseFocus = FocusBox_OnLoseFocus
     --
 
+    self:StartUpdating()
     self:UpdateMaxEnergy(self.max_energy, self.max_energy)
     self.open = true
     self:Close()
@@ -323,6 +328,7 @@ function UpgradeModulesDisplay:OnModuleAdded(bartype, moduledefinition_index)
     new_chip:GetAnimState():PushAnimation("minichip_idle")
 
     new_chip:GetAnimState():OverrideSymbol("movespeed2_chip", "status_wx", modname.."_chip")
+    new_chip.cooldown:GetAnimState():OverrideSymbol("movespeed2_chip", "status_wx", modname.."_chip")
     new_chip.modulename = modname
 
     new_chip._used_modslots = modslots
@@ -331,6 +337,7 @@ function UpgradeModulesDisplay:OnModuleAdded(bartype, moduledefinition_index)
     local y_pos = (slot_distance_from_bottom * 20) - 51
     new_chip:SetPosition(self:GetChipXOffset(bartype), y_pos)
     new_chip.chip_pos = Vector3(self:GetChipXOffset(bartype), y_pos, 0)
+    new_chip.cooldown:SetPosition(0, (modslots - 2) * 11)
 
     if self.open then
         new_chip:Show()
@@ -578,6 +585,25 @@ function UpgradeModulesDisplay:ShowUpgradeModulesDisplay()
     self:Show()
     self:CancelMoveTo()
     self:MoveTo(self.original_pos + HIDDEN_OFFSET, self.original_pos, 0.3)
+end
+
+local CHIPS_TO_ABILITIES =
+{
+    ["screech"] = "wxscreech",
+    ["shielding"] = "wxshielding",
+}
+function UpgradeModulesDisplay:OnUpdate()
+    if self.owner.components.wx78_abilitycooldowns ~= nil and self.open then
+        for k, v in pairs(self.module_bars) do
+            for _, chip in ipairs(self.chip_objectpools[k]) do
+                if chip.chip_pos and CHIPS_TO_ABILITIES[chip.modulename] then
+                    local abilityname = CHIPS_TO_ABILITIES[chip.modulename]
+                    local ability_cooldown_percent = self.owner.components.wx78_abilitycooldowns:GetAbilityCooldownPercent(abilityname)
+                    chip.cooldown:GetAnimState():SetPercent("minichip_cooldown", ability_cooldown_percent or 0)
+                end
+            end
+        end
+    end
 end
 
 return UpgradeModulesDisplay

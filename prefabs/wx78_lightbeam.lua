@@ -5,7 +5,7 @@ local assets =
 
 local LIGHT_R, LIGHT_G, LIGHT_B = 235 / 255, 121 / 255, 12 / 255
 local function LightFx_SetLightRadius(inst, light_radius)
-    local radius = math.sqrt(light_radius * 0.2) * inst.i
+    local radius = math.sqrt(light_radius * 0.08) * inst.i
     inst.Light:SetRadius( radius )
 end
 
@@ -102,7 +102,7 @@ end
 local function LightBeam_UpdateLights(inst)
     local light_radius = inst.light_radius:value()
     local num_lights = math.ceil(math.sqrt(light_radius * 2 + 32))
-    local space_between = 0.5 * math.sqrt(light_radius * 4.7)
+    local space_between = 0.5 * math.pow(light_radius, 0.8)
 
     if num_lights > #inst.light_fx then
         for i = #inst.light_fx + 1, num_lights do

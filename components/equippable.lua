@@ -122,6 +122,7 @@ function Equippable:Unequip(owner)
     self.inst:PushEvent("unequipped", { owner = owner })
 end
 
+-- Keep logic in sync with inventoryitem_replica::GetWalkSpeedMult()
 function Equippable:GetWalkSpeedMult()
 
     local speed = self.walkspeedmult or 1.0
@@ -133,7 +134,7 @@ function Equippable:GetWalkSpeedMult()
             speed = math.min(1, speed + 0.25)
         end
 
-        local speedmodifierfn = owner.components.inventory:GetEquippableWalkSpeedMultModifier()
+        local speedmodifierfn = owner.inventory_EquippableWalkSpeedMultModifier
         if speedmodifierfn ~= nil then
             speed = speedmodifierfn(owner, speed, self.inst)
         end

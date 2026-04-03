@@ -6070,10 +6070,13 @@ return{
         WX78MODULE_DIGESTION = "Crunchy.",
         WX78MODULE_SCREECH = "Crunchy.",
         WX78MODULE_LIGHT2 = "Crunchy.",
+        WX78MODULE_SHIELDING = "Crunchy.",
+        WX78MODULE_SPIN = "Crunchy.",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "Stuff inside Ironfolk box?", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

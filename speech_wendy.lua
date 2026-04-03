@@ -6074,11 +6074,14 @@ return{
         WX78MODULE_DIGESTION = "It looks so fragile... hopefully no tragic accidents befall it.",
         WX78MODULE_SCREECH = "It looks so fragile... hopefully no tragic accidents befall it.",
         WX78MODULE_LIGHT2 = "It looks so fragile... hopefully no tragic accidents befall it.",
+        WX78MODULE_SHIELDING = "It looks so fragile... hopefully no tragic accidents befall it.",
+        WX78MODULE_SPIN = "It looks so fragile... hopefully no tragic accidents befall it.",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
-            GENERIC = "It was once a portable void.", -- It was dropped, treat it as if its broken down, and is rummagable
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
+            GENERIC = "I wonder what remains.", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 
         WX78_FOODBRICK =

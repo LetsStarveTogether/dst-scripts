@@ -109,9 +109,24 @@ local function UpdateDroneRange(inst, owner)
 end
 
 local function SetOwner(inst, owner)
-	inst.owner:set(owner)
-	UpdateDroneRange(inst, owner)
-	OnOwnerDirty(inst)
+	if not (inst.killed and owner) then
+		inst.owner:set(owner)
+		UpdateDroneRange(inst, owner)
+		OnOwnerDirty(inst)
+	end
+end
+
+local function Kill(inst)
+	if not inst.killed then
+		inst.killed = true
+		inst:AddTag("CLASSIFIED")
+		inst:AddTag("FX")
+		inst:AddTag("NOCLICK")
+		SetOwner(inst, nil)
+		inst.sg:GoToState("collapse")
+		inst:ListenForEvent("spawnfaderout", inst.Remove)
+		inst.components.spawnfader:FadeOut()
+	end
 end
 
 local function fn()
@@ -151,6 +166,8 @@ local function fn()
 
 	inst.owner = net_entity(inst.GUID, "wx78_drone_zap.owner", "ownerdirty")
 
+	inst:AddComponent("spawnfader")
+
 	inst.entity:SetPristine()
 
 	if not TheWorld.ismastersim then
@@ -172,6 +189,7 @@ local function fn()
 	inst:SetStateGraph("SGwx78_drone_zap")
 
 	inst.SetOwner = SetOwner
+	inst.Kill = Kill
 
 	inst.persists = false
 
@@ -249,7 +267,7 @@ local function OnStopUse(inst, doer)
 	--inst.components.inventoryitem:ChangeImageName(inst.components.equippable:IsEquipped() and "wx78_drone_zap_remote_held" or nil)
 
 	if inst.drone then
-		inst.drone:Remove()
+		inst.drone:Kill()
 		inst.drone = nil
 	end
 end
@@ -289,7 +307,7 @@ end
 
 local function OnRemoveEntity(inst)
 	if inst.drone then
-		inst.drone:Remove()
+		inst.drone:Kill()
 		inst.drone = nil
 	end
 end

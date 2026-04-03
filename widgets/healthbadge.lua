@@ -260,14 +260,22 @@ function HealthBadge:UpdateNums()
     end
 end
 
-function HealthBadge:SetWxShieldPercent(val, oldval, max, penetrationthreshold)
-    val = val or self.wxshieldpercent
-    oldval = oldval or self.wxshieldpercent
-    max = max or 100
-    self.wxshieldanim:GetAnimState():SetPercent("anim", 1 - val)
+function HealthBadge:SetWxCanShieldCharge(canshieldcharge)
+    if canshieldcharge or self.wxshieldpercent >= 1 then
+        self.wxshieldanimflicker:GetAnimState():ShowSymbol("hex_art")
+    else
+        self.wxshieldanimflicker:GetAnimState():HideSymbol("hex_art")
+    end
+end
 
-    local current = val * max
-    local oldcurrent = oldval * max
+function HealthBadge:SetWxShieldPercent(newpercent, oldpercent, maxshield, penetrationthreshold)
+    newpercent = newpercent or self.wxshieldpercent
+    oldpercent = oldpercent or self.wxshieldpercent
+    maxshield = maxshield or 100
+    self.wxshieldanim:GetAnimState():SetPercent("anim", 1 - newpercent)
+
+    local current = newpercent * maxshield
+    local oldcurrent = oldpercent * maxshield
     if oldcurrent ~= current then
         if current >= penetrationthreshold then
             self.wxshieldanimflicker:Show()
@@ -311,8 +319,8 @@ function HealthBadge:SetWxShieldPercent(val, oldval, max, penetrationthreshold)
         end
     end
 
-    self.wxshieldanimnum:SetString(tostring(math.ceil(val * max)))
-    self.wxshieldpercent = val
+    self.wxshieldanimnum:SetString(tostring(math.ceil(newpercent * maxshield)))
+    self.wxshieldpercent = newpercent
 
     self:UpdateNums()
 end

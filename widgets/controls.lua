@@ -93,6 +93,7 @@ local Controls = Class(Widget, function(self, owner)
 
 	self.containerroot_under = self:AddChild(Widget(""))
     self.containerroot = self:AddChild(Widget(""))
+	self.containerroot_over = self:AddChild(Widget(""))
     self.containerroot_side_behind = self:AddChild(Widget(""))
     self:MakeScalingNodes()
 
@@ -268,6 +269,12 @@ local Controls = Class(Widget, function(self, owner)
 	self.containerroot_under:SetScaleMode(SCALEMODE_PROPORTIONAL)
 	self.containerroot_under:SetMaxPropUpscale(MAX_HUD_SCALE)
 	self.containerroot_under = self.containerroot_under:AddChild(Widget("containerroot_under"))
+
+	self.containerroot_over:SetHAnchor(ANCHOR_MIDDLE)
+	self.containerroot_over:SetVAnchor(ANCHOR_MIDDLE)
+	self.containerroot_over:SetScaleMode(SCALEMODE_PROPORTIONAL)
+	self.containerroot_over:SetMaxPropUpscale(MAX_HUD_SCALE)
+	self.containerroot_over = self.containerroot_over:AddChild(Widget("containerroot_over"))
 
     self.containerroot_side_behind:SetHAnchor(ANCHOR_RIGHT)
     self.containerroot_side_behind:SetVAnchor(ANCHOR_MIDDLE)
@@ -556,6 +563,7 @@ function Controls:SetHUDSize()
     self.bottomright_root:SetScale(scale)
     self.containerroot:SetScale(scale)
 	self.containerroot_under:SetScale(scale)
+	self.containerroot_over:SetScale(scale)
     self.containerroot_side:SetScale(scale)
     self.containerroot_side_behind:SetScale(scale)
 

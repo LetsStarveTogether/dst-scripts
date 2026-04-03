@@ -154,6 +154,7 @@ local function fn()
     inst:AddTag("trader")
     inst:AddTag("recordplayer")
     inst:AddTag("furnituredecor")
+	inst:AddTag("groundonlymachine")
 
     MakeInventoryFloatable(inst, "med", 0.07, 0.72)
 

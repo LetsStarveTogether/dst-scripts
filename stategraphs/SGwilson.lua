@@ -839,6 +839,11 @@ local function GetWX78ScreechRange(inst)
 end
 local WX_SCARE_MUST_TAGS = { "_combat", "_health" }
 local WX_SCARE_CANT_TAGS = { "INLIMBO", "epic" }
+local function DelayedWX78ScreechWake(v)
+    if v.components.sleeper then
+        v.components.sleeper:WakeUp()
+    end
+end
 local function DoWX78Screech(inst)
     local x, y, z = inst.Transform:GetWorldPosition()
     local range = GetWX78ScreechRange(inst)
@@ -850,10 +855,66 @@ local function DoWX78Screech(inst)
             inst.components.combat:CanTarget(v) and
             not inst.components.combat:IsAlly(v)
         then
-
+            if v.components.sleeper then
+                v:DoTaskInTime(math.random(), DelayedWX78ScreechWake)
+            end
             v.components.hauntable:Panic(TUNING.WX78_SCREECH_PANIC_TIME)
         end
     end
+end
+
+local WX_SHIELDING_KEY = "wx_shielding"
+local function UpdateWX78ShieldingDefense(inst)
+    inst.components.combat.externaldamagetakenmultipliers:SetModifier(inst, TUNING.WX78_SHIELDING_ARMOR, WX_SHIELDING_KEY)
+end
+
+local function WX78ShieldOnAttacked(inst, data)
+	local damage = data and data.damage or TUNING.WX78_SHIELDING_TOTAL_DAMAGE * 0.5 -- Fallback in case of mods.
+
+	inst.sg.mem.wx78shieldingdamage = inst.sg.mem.wx78shieldingdamage + damage
+	if inst.sg.mem.wx78shieldingdamage >= TUNING.WX78_SHIELDING_TOTAL_DAMAGE then
+		inst.sg.mem.wx78shieldingdamage = 0
+        inst.sg:GoToState("wx_shield_pst")
+	end
+end
+
+local function ApplyWX78ShieldingDefense(inst)
+	if not inst.sg.mem.wx78shieldingtime then
+		inst.sg.mem.wx78shieldingtime = GetTime()
+        local mass = inst.Physics:GetMass()
+        if mass > 0 then
+            inst.sg.mem.wxshieldingrestoremass = mass
+            inst.Physics:SetMass(99999)
+        end
+
+        -- This event listener isn't really necessacary anymore. But left just in case.
+		inst:ListenForEvent("refreshwxshielddefense", UpdateWX78ShieldingDefense)
+		UpdateWX78ShieldingDefense(inst)
+
+        inst.sg.mem.wx78shieldingdamage = 0
+        inst:ListenForEvent("attacked", WX78ShieldOnAttacked)
+	end
+end
+
+local function ClearWX78ShieldingDefense(inst)
+	if inst.sg.mem.wx78shieldingtime then
+        local dt = GetTime() - inst.sg.mem.wx78shieldingtime
+		inst:RemoveEventCallback("refreshwxshielddefense", UpdateWX78ShieldingDefense)
+		inst.components.combat.externaldamagetakenmultipliers:RemoveModifier(inst, WX_SHIELDING_KEY)
+        inst:RemoveEventCallback("attacked", WX78ShieldOnAttacked)
+
+        if inst.components.wx78_abilitycooldowns
+            and (dt >= TUNING.WX78_SHIELDING_MIN_TIME_COOLDOWN or inst.sg.mem.wx78shieldhit) then
+            inst.components.wx78_abilitycooldowns:RestartAbilityCooldown("wxshielding", TUNING.WX78_SHIELDING_COOLDOWN)
+        end
+
+        if inst.sg.statemem.wxshieldingrestoremass ~= nil then
+            inst.Physics:SetMass(inst.sg.statemem.wxshieldingrestoremass)
+		end
+        inst.sg.mem.wx78shieldingdamage = nil
+        inst.sg.mem.wx78shieldingtime = nil
+        inst.sg.mem.wx78shieldhit = nil
+	end
 end
 
 --------------------------------------------------------------------------
@@ -1031,32 +1092,37 @@ local actionhandlers =
     ActionHandler(ACTIONS.OPEN_CRAFTING, "dostandingaction"),
     ActionHandler(ACTIONS.PICK,
         function(inst, action)
-            return
-				(action.target and action.target:HasTag("noquickpick") and "dolongaction") or
-                (inst:HasTag("farmplantfastpicker") and action.target ~= nil and action.target:HasTag("farm_plant") and "domediumaction") or
-				(inst.components.rider ~= nil and inst.components.rider:IsRiding() and (
-					(inst:HasTag("woodiequickpicker") and "dowoodiefastpick") or
-					"dolongaction"
-				)) or
-                (
-                    action.target ~= nil and
-                    (action.target.components.pickable ~= nil and
-                    (
-                        (action.target.components.pickable.jostlepick and "dojostleaction") or
-                        (action.target.components.pickable.quickpick and "doshortaction") or
-                        (inst:HasTag("fastpicker") and "doshortaction") or
-						(inst:HasTag("woodiequickpicker") and "dowoodiefastpick") or
-                        (inst:HasTag("quagmire_fasthands") and "domediumaction") or
-                        "dolongaction"
-                    )) or
-                    (action.target.components.searchable ~= nil and
-                    (
-                        (action.target.components.searchable.jostlesearch and "dojostleaction") or
-                        (action.target.components.searchable.quicksearch and "doshortaction") or
-                        "dolongaction"
-                    ))
-                )
-                or nil
+			if action.target:HasTag("noquickpick") then
+				return "dolongaction"
+			elseif inst:HasTag("farmplantfastpicker") and action.target:HasTag("farm_plant") then
+				--wormwood skill
+				return "domediumaction"
+			elseif inst.components.rider and inst.components.rider:IsRiding() then
+				return inst:HasTag("woodiequickpicker") and "dowoodiefastpick" or "dolongaction"
+			elseif action.target.components.pickable then
+				--[[if inst.GetModuleTypeCount and inst:GetModuleTypeCount("spin") > 0 then
+					--wx skill
+					local tool = inst.components.inventory:GetEquippedItem(EQUIPSLOTS.HANDS)
+					if tool and tool.components.tool and tool.components.tool:CanDoAction(ACTIONS.CHOP) then
+						return not inst.sg:HasStateTag("prechop")
+							and (inst.sg:HasStateTag("chopping") and
+								"chop" or
+								"chop_start")
+							or nil
+					end
+				end]]
+				return (action.target.components.pickable.jostlepick and "dojostleaction")
+					or (action.target.components.pickable.quickpick and "doshortaction")
+					or (inst:HasTag("fastpicker") and "doshortaction")
+					or (inst:HasTag("woodiequickpicker") and "dowoodiefastpick")
+					or (inst:HasTag("quagmire_fasthands") and "domediumaction")
+					or "dolongaction"
+			elseif action.target.components.searchable then
+				return (action.target.components.searchable.jostlesearch and "dojostleaction")
+					or (action.target.components.searchable.quicksearch and "doshortaction")
+					or "dolongaction"
+			end
+			--failed if reached here!
         end),
     ActionHandler(ACTIONS.CARNIVALGAME_FEED,
         function(inst, action)
@@ -1311,6 +1377,16 @@ local actionhandlers =
 				elseif weapon:HasTag("slingshot") then
 					inst.sg.mem.localchainattack = true
 					return "slingshot_shoot"
+				elseif inst.GetModuleTypeCount and
+					weapon.components.tool and
+					weapon.components.tool:CanDoAction(ACTIONS.CHOP) and
+					inst:GetModuleTypeCount("spin") > 0
+				then
+					return not inst.sg:HasStateTag("prechop")
+						and (inst.sg:HasStateTag("chopping") and
+							"chop" or
+							"chop_start")
+						or nil
 				end
 				return (weapon:HasOneOfTags({"blowdart", "blowpipe"}) and "blowdart")
                     or (weapon:HasTag("thrown") and "throw")
@@ -1665,6 +1741,14 @@ local actionhandlers =
 		return "finishcontinuousaction"
 	end),
     ActionHandler(ACTIONS.SWAPBODIES_MAP, "wx_poweroff"),
+
+    ActionHandler(ACTIONS.TOGGLEWXSCREECH, function(inst)
+        return inst:HasTag("wx_screeching") and "wx_screech_pst" or "wx_screech_pre"
+    end),
+
+    ActionHandler(ACTIONS.TOGGLEWXSHIELDING, function(inst)
+        return inst:HasTag("wx_shielding") and "wx_shield_pst" or "wx_shield_pre"
+    end),
 }
 
 local events =
@@ -1673,7 +1757,7 @@ local events =
 		--V2C: - "overridelocomote" indidcates state has custom handler.
 		--     - This check is not redundant, because events buffered from previous state
 		--       won't use current state's handlers, and can still reach here unwantedly.
-        if inst.sg:HasStateTag("busy") or inst.sg:HasStateTag("overridelocomote") then
+        if inst.sg:HasAnyStateTag("busy", "overridelocomote") then
             return
         end
 
@@ -1784,6 +1868,15 @@ local events =
 				return --Do nothing
 			elseif data.stimuli == "electric" and not (inst.components.inventory:IsInsulated() or inst.sg:HasStateTag("noelectrocute")) then
 				inst.sg:GoToState("electrocute", { attackdata = data })
+			elseif inst.sg:HasStateTag("electrocute") then
+				--Don't interrupt electrocute with a regular hit
+				inst.SoundEmitter:PlaySound("dontstarve/wilson/hit")
+				DoHurtSound(inst)
+			elseif inst.sg:HasStateTag("wxshielding") then
+				if not inst.sg:HasStateTag("wxshieldhit") or inst.sg:HasStateTag("caninterrupt") then
+					inst.sg.statemem.iswxshielding = true
+					inst.sg:GoToState("wx_shield_hit")
+				end
             else
                 local t = GetTime()
                 local stunlock =
@@ -1842,6 +1935,12 @@ local events =
 					inst.sg:GoToState("repelled", data)
 				else
 					inst.sg:GoToState("hit")
+				end
+            elseif inst.sg:HasStateTag("wxshielding")
+                and (inst.components.skilltreeupdater ~= nil and inst.components.skilltreeupdater:IsActivated("wx78_circuitry_gammabuffs_2")) then
+                if not inst.sg:HasStateTag("wxshieldhit") then
+					inst.sg.statemem.iswxshielding = true
+					inst.sg:GoToState("wx_shield_hit")
 				end
 			elseif inst.sg:HasStateTag("parrying") then
                 inst.sg.statemem.parrying = true
@@ -2433,10 +2532,6 @@ local events =
 			inst.Transform:SetPosition(x + vx * dt, 0, z + vz * dt)
 		end
 	end),
-
-    EventHandler("start_wx_screech", function(inst, data)
-        inst.sg:GoToState("wx_screech_pre", data)
-    end),
 
     CommonHandlers.OnHop(),
 	CommonHandlers.OnElectrocute(),
@@ -4800,6 +4895,14 @@ local states =
         onenter = function(inst)
             inst.components.locomotor:Stop()
             inst.AnimState:PlayAnimation(inst:HasTag("woodcutter") and "woodie_chop_pre" or "chop_pre")
+			--V2C: HACK so the first loop doesn't skip a frame
+			if inst.GetModuleTypeCount and inst:GetModuleTypeCount("spin") > 0 then
+				if inst.components.skilltreeupdater and inst.components.skilltreeupdater:IsActivated("wx78_circuitry_gammabuffs_2") then
+					inst.AnimState:PushAnimation("wx_spin_attack_loop")
+				else
+					inst.AnimState:PushAnimation("wx_spin_attack_loop_slow")
+				end
+			end
 			inst:AddTag("prechop")
         end,
 
@@ -4807,7 +4910,10 @@ local states =
         {
             EventHandler("unequip", function(inst) inst.sg:GoToState("idle") end),
             EventHandler("animover", function(inst)
-                if inst.AnimState:AnimDone() then
+				if inst.AnimState:AnimDone() or
+					inst.AnimState:IsCurrentAnimation("wx_spin_attack_loop") or
+					inst.AnimState:IsCurrentAnimation("wx_spin_attack_loop_slow")
+				then
 					inst.sg.statemem.chopping = true
                     inst.sg:GoToState("chop")
                 end
@@ -4827,8 +4933,24 @@ local states =
 
         onenter = function(inst)
             inst.sg.statemem.action = inst:GetBufferedAction()
-            inst.sg.statemem.iswoodcutter = inst:HasTag("woodcutter")
-            inst.AnimState:PlayAnimation(inst.sg.statemem.iswoodcutter and "woodie_chop_loop" or "chop_loop")
+			if inst:HasTag("woodcutter") then
+				inst.sg.statemem.iswoodcutter = true
+				inst.AnimState:PlayAnimation("woodie_chop_loop")
+			elseif inst.GetModuleTypeCount and inst:GetModuleTypeCount("spin") > 0 then
+				inst.sg.statemem.isspinchop = true
+				if inst.components.skilltreeupdater and inst.components.skilltreeupdater:IsActivated("wx78_circuitry_gammabuffs_2") then
+					inst.sg.statemem.isspinfast = true
+					if not inst.AnimState:IsCurrentAnimation("wx_spin_attack_loop") or inst.AnimState:GetCurrentAnimationFrame() ~= 0 then
+						inst.AnimState:PlayAnimation("wx_spin_attack_loop", true)
+					end
+				elseif not inst.AnimState:IsCurrentAnimation("wx_spin_attack_loop_slow") or inst.AnimState:GetCurrentAnimationFrame() ~= 0 then
+					inst.AnimState:PlayAnimation("wx_spin_attack_loop_slow", true)
+				end
+				inst.SoundEmitter:PlaySound("dontstarve/wilson/attack_weapon")
+			else
+				inst.sg.statemem.isnormal = true
+				inst.AnimState:PlayAnimation("chop_loop")
+			end
 			inst:AddTag("prechop")
         end,
 
@@ -4881,20 +5003,20 @@ local states =
             --Normal chop
 
             TimeEvent(2 * FRAMES, function(inst)
-                if not inst.sg.statemem.iswoodcutter then
+				if inst.sg.statemem.isnormal then
                     inst:PerformBufferedAction()
                 end
             end),
 
             TimeEvent(9 * FRAMES, function(inst)
-                if not inst.sg.statemem.iswoodcutter then
+				if inst.sg.statemem.isnormal then
                     inst.sg:RemoveStateTag("prechop")
 					inst:RemoveTag("prechop")
                 end
             end),
 
             TimeEvent(14 * FRAMES, function(inst)
-                if not inst.sg.statemem.iswoodcutter and
+				if inst.sg.statemem.isnormal and
                     inst.components.playercontroller ~= nil and
                     inst.components.playercontroller:IsAnyOfControlsPressed(
                         CONTROL_PRIMARY,
@@ -4915,10 +5037,122 @@ local states =
             end),
 
             TimeEvent(16 * FRAMES, function(inst)
-                if not inst.sg.statemem.iswoodcutter then
+				if inst.sg.statemem.isnormal then
                     inst.sg:RemoveStateTag("chopping")
                 end
             end),
+
+			----------------------------------------------
+			--Spin chop
+
+			FrameEvent(1, function(inst)
+				if inst.sg.statemem.isspinchop then
+					if inst.components.efficientuser and
+						inst.GetModuleTypeCount and
+						inst:GetModuleTypeCount("spin") > 1 and
+						inst.sg.statemem.action
+					then
+						local action = inst.sg.statemem.action.action
+						inst.components.efficientuser:AddMultiplier(action, TUNING.WX78_SPIN_TOOL_EFFICIENCY, inst)
+						inst:PerformBufferedAction()
+						inst.components.efficientuser:RemoveMultiplier(action, inst)
+					else
+						inst:PerformBufferedAction()
+					end
+				end
+			end),
+
+			--fast
+			FrameEvent(10, function(inst)
+				if inst.sg.statemem.isspinfast then
+					inst.sg:RemoveStateTag("prechop")
+					inst:RemoveTag("prechop")
+					local target = inst.sg.statemem.action and inst.sg.statemem.action:IsValid() and inst.sg.statemem.action.target or nil
+					if inst.components.playercontroller and target and CanEntitySeeTarget(inst, target) then
+						if inst.components.playercontroller:IsAnyOfControlsPressed(
+								CONTROL_PRIMARY,
+								CONTROL_ACTION,
+								CONTROL_CONTROLLER_ACTION) and
+							target.components.workable and
+							target.components.workable:CanBeWorked() and
+							target:IsActionValid(inst.sg.statemem.action.action)
+						then
+							--No fast-forward when repeat initiated on server
+							inst.sg.statemem.action.options.no_predict_fastforward = true
+							inst:ClearBufferedAction()
+							inst:PushBufferedAction(inst.sg.statemem.action)
+							return
+						elseif inst.components.playercontroller:IsAnyOfControlsPressed(
+								CONTROL_PRIMARY,
+								CONTROL_ATTACK,
+								CONTROL_CONTROLLER_ATTACK) and
+							inst.components.combat:CanTarget(target) and
+							inst:GetDistanceSqToInst(target) <= inst.components.combat:CalcAttackRangeSq(target)
+						then
+							--No fast-forward when repeat initiated on server
+							inst.sg.statemem.action.options.no_predict_fastforward = true
+							inst:ClearBufferedAction()
+							inst:PushBufferedAction(inst.sg.statemem.action)
+							return
+						end
+					end
+					inst.AnimState:PlayAnimation("wx_spin_attack_pst")
+					inst.sg:GoToState("idle", true)
+				end
+			end),
+			FrameEvent(10.1, function(inst)
+				if inst.sg.statemem.isspinfast then
+					--might reach here if action failed?
+					inst.AnimState:PlayAnimation("wx_spin_attack_pst")
+					inst.sg:GoToState("idle", true)
+				end
+			end),
+
+			--slow
+			FrameEvent(12, function(inst)
+				if inst.sg.statemem.isspinchop and not inst.sg.statemem.isspinfast then
+					inst.sg:RemoveStateTag("prechop")
+					inst:RemoveTag("prechop")
+					local target = inst.sg.statemem.action and inst.sg.statemem.action:IsValid() and inst.sg.statemem.action.target or nil
+					if inst.components.playercontroller and target and CanEntitySeeTarget(inst, target) then
+						if inst.components.playercontroller:IsAnyOfControlsPressed(
+								CONTROL_PRIMARY,
+								CONTROL_ACTION,
+								CONTROL_CONTROLLER_ACTION) and
+							target.components.workable and
+							target.components.workable:CanBeWorked() and
+							target:IsActionValid(inst.sg.statemem.action.action)
+						then
+							--No fast-forward when repeat initiated on server
+							inst.sg.statemem.action.options.no_predict_fastforward = true
+							inst:ClearBufferedAction()
+							inst:PushBufferedAction(inst.sg.statemem.action)
+							return
+						elseif inst.components.playercontroller:IsAnyOfControlsPressed(
+								CONTROL_PRIMARY,
+								CONTROL_ATTACK,
+								CONTROL_CONTROLLER_ATTACK) and
+							inst.components.combat:CanTarget(target) and
+							inst:GetDistanceSqToInst(target) <= inst.components.combat:CalcAttackRangeSq(target)
+						then
+							--No fast-forward when repeat initiated on server
+							inst.sg.statemem.action.options.no_predict_fastforward = true
+							inst:ClearBufferedAction()
+							inst:PushBufferedAction(inst.sg.statemem.action)
+							return
+						end
+					end
+					inst.AnimState:PlayAnimation("wx_spin_attack_pst")
+					inst.sg:GoToState("idle", true)
+				end
+			end),
+			FrameEvent(12.1, function(inst)
+				if inst.sg.statemem.isspinchop and not inst.sg.statemem.isspinfast then
+					--might reach here if action failed?
+					inst.AnimState:PlayAnimation("wx_spin_attack_pst")
+					inst.sg:GoToState("idle", true)
+				end
+			end),
         },
 
         events =
@@ -4926,8 +5160,10 @@ local states =
             EventHandler("unequip", function(inst) inst.sg:GoToState("idle") end),
             EventHandler("animover", function(inst)
                 if inst.AnimState:AnimDone() then
-                    --We don't have a chop_pst animation
-                    inst.sg:GoToState("idle")
+					if not inst.sg.statemem.isspinchop then
+						--We don't have a chop_pst animation
+						inst.sg:GoToState("idle")
+					end
                 end
             end),
         },
@@ -27132,10 +27368,10 @@ local states =
 
 		timeline =
 		{
-			FrameEvent(10, function(inst)
+			FrameEvent(1, function(inst)
 				inst.sg:AddStateTag("canrotate")
 			end),
-			FrameEvent(11, function(inst)
+			FrameEvent(2, function(inst)
 				inst.sg:RemoveStateTag("overridelocomote")
 			end),
 		},
@@ -27768,7 +28004,7 @@ local states =
 				inst.sg.statemem.item = nil
 				inst.sg:GoToState("wx_stop_using_drone")
 				return
-			elseif not (item.drone and item.drone:IsValid()) then
+			elseif not (item.drone and not item.drone.killed and item.drone:IsValid()) then
 				if item.components.useableequippeditem then
 					item.components.useableequippeditem:StopUsingItem(inst)
 				end
@@ -27801,7 +28037,7 @@ local states =
 				--direct movement only, no drag or point destination.
 				if not inst.components.locomotor:HasDestination() then
 					local drone = inst.sg.statemem.item and inst.sg.statemem.item.drone
-					if drone and drone:IsValid() then
+					if drone and not drone.killed and drone:IsValid() then
 						drone:PushEventImmediate("locomote", data)
 					end
 				end
@@ -27811,6 +28047,7 @@ local states =
 				local item = inst.sg.statemem.item
 				if item and
 					item.drone and
+					not item.drone.killed and
 					item.drone:IsValid() and
 					not (item.components.finiteuses and item.components.finiteuses:GetUses() <= 0)
 				then
@@ -27866,25 +28103,37 @@ local states =
 
     State{
         name = "wx_bake",
-        tags = { "doing", "busy" },
+        tags = { "busy", },
 
         onenter = function(inst)
             inst.components.locomotor:Stop()
             inst.AnimState:PlayAnimation("wx_bake")
-            -- inst.SoundEmitter:PlaySound("TEST/TEST") -- FIXME_META6_AUDIO
         end,
 
         timeline =
         {
+            --#SFX
+            FrameEvent(32, function(inst) inst.SoundEmitter:PlaySound("dontstarve/common/researchmachine_lvl1_ding", nil, 0.2) end),
+            FrameEvent(41, function(inst) inst.SoundEmitter:PlaySound("WX_rework/module_tray/open") end),
+            FrameEvent(47, function(inst) inst.SoundEmitter:PlaySound("moonstorm/characters/wagstaff/thumper/steam", nil, 0.4) end),
+            FrameEvent(68, function(inst) inst.SoundEmitter:PlaySound("WX_rework/module_tray/close") end),
+
+            FrameEvent(13, function(inst) inst.SoundEmitter:PlaySound("dontstarve/creatures/egg/egg_hot_steam_LP", "wx_baking") end),
+            FrameEvent(32, function(inst) inst.SoundEmitter:KillSound("wx_baking") end),
+
+            --
             FrameEvent(46, function(inst)
                 local x, y, z = inst.Transform:GetWorldPosition()
                 local rot = (inst.Transform:GetRotation() + math.random(-20, 20)) * DEGREES
                 local speed = 2 + math.random()
                 local brick = SpawnPrefab("wx78_foodbrick")
-                brick.Transform:SetPosition(x, y+.25, z)
+                y = y + ( inst.components.rider:IsRiding() and 2.5 or .25)
+                brick.Transform:SetPosition(x, y, z)
                 brick.Physics:SetVel(math.cos(rot) * speed, speed * 3, -math.sin(rot) * speed)
-                -- SpawnPrefab("wx78_foodbrick")
             end),
+            FrameEvent(70, function(inst)
+                inst.sg:RemoveStateTag("busy")
+            end)
         },
 
         events =
@@ -27895,48 +28144,62 @@ local states =
 				end
 			end),
         },
+
+        onexit = function(inst)
+            inst.SoundEmitter:KillSound("wx_baking")
+        end,
     },
 
     State{
         name = "wx_screech_pre",
         tags = { "doing", "busy" },
 
-        onenter = function(inst, data)
-            if data ~= nil then
-                if data.onetime then
-                    inst.sg.statemem.onetimescreech = true
-                end
-            end
+        onenter = function(inst)
+            local timeout = not (inst.components.skilltreeupdater
+                and inst.components.skilltreeupdater:IsActivated("wx78_circuitry_gammabuffs_1"))
+                and (TUNING.WX78_SCREECH_TIME + math.random() * TUNING.WX78_SCREECH_TIME_VAR)
+                or nil
+            inst.sg.statemem.timeout = timeout
             inst.components.locomotor:Stop()
             inst.AnimState:PlayAnimation("wx_screech_pre")
-            -- inst.SoundEmitter:PlaySound("TEST/TEST") -- FIXME_META6_AUDIO
-            -- add a mix FIXME_META6_AUDIO
+            inst.AnimState:PushAnimation("wx_screech_pre2", false)
+            inst:PerformBufferedAction()
+            inst:AddTag("wx_screeching")
         end,
-
-        timeline =
-        {
-
-        },
 
         events =
         {
-            EventHandler("animover", function(inst)
+            EventHandler("animqueueover", function(inst)
                 if inst.AnimState:AnimDone() then
-                    inst.sg:GoToState("wx_screech_loop", inst.sg.statemem.onetimescreech)
+                    inst.sg.statemem.screeching = true
+                    inst.sg:GoToState("wx_screech_loop", inst.sg.statemem.timeout)
                 end
             end)
         },
+
+        onexit = function(inst)
+            if not inst.sg.statemem.screeching then
+                inst:RemoveTag("wx_screeching")
+            end
+        end,
     },
 
     State{
         name = "wx_screech_loop",
-        tags = { "doing", "busy", },
+		tags = { "doing" },
 
-        onenter = function(inst, onetime)
-            inst.sg.statemem.onetimescreech = onetime or nil
+        onenter = function(inst, timeout)
+            inst:AddTag("wx_screeching")
+            inst.sg.statemem.timeout = timeout or nil
             inst.components.locomotor:Stop()
             inst.AnimState:PlayAnimation("wx_screech_loop", true)
+            inst.SoundEmitter:PlaySound("WX_rework/screech/loop", "wx_screech")
+            -- TheMixer:PushMix("wx_screech") -- TODO
             inst.sg.statemem.scarecd = FRAMES * 2
+
+            if timeout ~= nil then
+                inst.sg:SetTimeout(timeout)
+            end
         end,
 
         onupdate = function(inst, dt)
@@ -27944,36 +28207,178 @@ local states =
             if inst.sg.statemem.scarecd <= 0 then
                 DoWX78Screech(inst)
                 inst.sg.statemem.scarecd = 15 * FRAMES + math.random()
+				inst.sg.statemem.shouldcooldown = true
             end
         end,
 
-        events =
-        {
-            EventHandler("animover", function(inst)
-                if inst.sg.statemem.onetimescreech and inst.AnimState:AnimDone() then
-                    inst.sg:GoToState("wx_screech_pst")
-                end
-            end),
-        },
+        ontimeout = function(inst)
+			inst.sg:GoToState("wx_screech_pst", true)
+        end,
+
+        onexit = function(inst)
+            inst.SoundEmitter:KillSound("wx_screech")
+            inst:RemoveTag("wx_screeching")
+            -- TheMixer:PopMix("wx_screech") -- TODO 
+
+			if inst.sg.statemem.shouldcooldown and inst.components.wx78_abilitycooldowns then
+				inst.components.wx78_abilitycooldowns:RestartAbilityCooldown("wxscreech", TUNING.WX78_SCREECH_COOLDOWN)
+			end
+        end,
     },
 
     State{
         name = "wx_screech_pst",
-        tags = {},
+
+		onenter = function(inst, nonaction)
+			inst.components.locomotor:Stop()
+            inst.AnimState:PlayAnimation("wx_screech_pst")
+
+			if not nonaction then
+				inst:PerformBufferedAction() --does nothing
+			end
+			inst.sg:GoToState("idle", true)
+        end,
+    },
+
+    State{
+        name = "wx_shield_pre",
+		tags = { "busy" },
 
         onenter = function(inst)
-            inst.AnimState:PlayAnimation("wx_screech_pst")
+            inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_defense_on_pre")
+            inst:AddTag("wx_shielding")
+
+			inst:PerformBufferedAction() --does nothing
         end,
 
         events =
         {
             EventHandler("animover", function(inst)
                 if inst.AnimState:AnimDone() then
-                    inst.sg:GoToState("idle")
+                    inst.sg.statemem.iswxshielding = true
+					inst.sg:GoToState("wx_shield_on")
                 end
             end),
         },
+
+        onexit = function(inst)
+            if not inst.sg.statemem.iswxshielding then
+                inst:RemoveTag("wx_shielding")
+            end
+        end,
     },
+
+	State{
+		name = "wx_shield_on",
+		tags = { "busy", "wxshielding" },
+
+		onenter = function(inst)
+			inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_defense_on")
+
+			inst:AddTag("wx_shielding")
+			ApplyWX78ShieldingDefense(inst)
+		end,
+
+		timeline =
+		{
+			FrameEvent(2, PlayFootstep),
+			FrameEvent(4, function(inst)
+				inst.sg.statemem.iswxshielding = true
+				inst.sg:GoToState("wx_shield_idle", true)
+			end),
+		},
+
+		onexit = function(inst)
+			if not inst.sg.statemem.iswxshielding then
+				ClearWX78ShieldingDefense(inst)
+				inst:RemoveTag("wx_shielding")
+			end
+		end,
+	},
+
+    State{
+        name = "wx_shield_idle",
+		tags = { "idle", "wxshielding" },
+
+		onenter = function(inst, pushanim)
+            inst.components.locomotor:Stop()
+			if pushanim then
+				inst.AnimState:PushAnimation("wx_defense_idle", true)
+			else
+				inst.AnimState:PlayAnimation("wx_defense_idle", true)
+			end
+
+            inst:AddTag("wx_shielding")
+            ApplyWX78ShieldingDefense(inst)
+        end,
+
+        events =
+        {
+            EventHandler("ontalk", function(inst)
+                inst.AnimState:PlayAnimation("wx_defense_dial", true)
+				return OnTalk_Override(inst)
+            end),
+			EventHandler("donetalking", function(inst)
+                inst.AnimState:PlayAnimation("wx_defense_idle", true)
+                return OnDoneTalking_Override(inst)
+            end),
+        },
+
+        onexit = function(inst)
+            CancelTalk_Override(inst)
+            if not inst.sg.statemem.iswxshielding then
+                ClearWX78ShieldingDefense(inst)
+                inst:RemoveTag("wx_shielding")
+            end
+        end,
+    },
+
+    State{
+        name = "wx_shield_hit",
+		tags = { "busy", "pausepredict", "wxshielding", "wxshieldhit" },
+
+        onenter = function(inst)
+            inst.sg.mem.wx78shieldhit = true
+			inst.components.locomotor:Stop()
+			inst:ClearBufferedAction()
+
+			inst.AnimState:PlayAnimation("wx_defense_hit")
+
+			inst:AddTag("wx_shielding")
+			ApplyWX78ShieldingDefense(inst)
+
+			if inst.components.playercontroller then
+				inst.components.playercontroller:RemotePausePrediction(4)
+			end
+			inst.sg:SetTimeout(4 * FRAMES)
+        end,
+
+		ontimeout = function(inst)
+			inst.sg.statemem.iswxshielding = true
+			inst.sg:GoToState("wx_shield_idle", true)
+		end,
+
+        onexit = function(inst)
+            if not inst.sg.statemem.iswxshielding then
+                ClearWX78ShieldingDefense(inst)
+                inst:RemoveTag("wx_shielding")
+            end
+        end,
+    },
+
+    State{
+        name = "wx_shield_pst",
+
+        onenter = function(inst)
+			inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_defense_off")
+
+			inst:PerformBufferedAction() --does nothing
+			inst.sg:GoToState("idle", true)
+        end,
+	},
 }
 
 local hop_timelines =

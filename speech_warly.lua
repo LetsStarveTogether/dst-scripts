@@ -6070,17 +6070,20 @@ return{
         WX78MODULE_DIGESTION = "They give our metal friend a little extra zest, non?",
         WX78MODULE_SCREECH = "They give our metal friend a little extra zest, non?",
         WX78MODULE_LIGHT2 = "They give our metal friend a little extra zest, non?",
+        WX78MODULE_SHIELDING = "They give our metal friend a little extra zest, non?",
+        WX78MODULE_SPIN = "They give our metal friend a little extra zest, non?",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "What did our metal friend leave here?", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 
         WX78_FOODBRICK =
         {
-            WET = "As a chef, I am appalled. However...",
-            GENERIC = "It is missing the secret ingredient. Water!",
+            WET = "It is most appalling.",
+            GENERIC = "Adding water will not make it less horrible.",
         },
     },
 

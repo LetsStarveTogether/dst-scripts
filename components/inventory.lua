@@ -850,7 +850,11 @@ end
 
 --Check how many of an item we can accept from its stack
 function Inventory:CanAcceptCount(item, maxcount)
-    local stacksize = math.max(maxcount or 0, item.components.stackable ~= nil and item.components.stackable.stacksize or 1)
+	local stacksize = item.components.stackable and item.components.stackable:StackSize() or 1
+	if item.components.inventoryitem and item.components.inventoryitem.islockedinslot then
+		stacksize = stacksize - 1
+	end
+	stacksize = math.min(maxcount or math.huge, stacksize)
     if stacksize <= 0 then
         return 0
     end
@@ -2538,14 +2542,6 @@ function Inventory:GetOpenContainerProxyFor(master)
 			return k
 		end
 	end
-end
-
-function Inventory:SetEquippableWalkSpeedMultModifier(modifierfn)
-    self.equippable_walkspeed_mult_modifier = modifierfn
-end
-
-function Inventory:GetEquippableWalkSpeedMultModifier()
-    return self.equippable_walkspeed_mult_modifier
 end
 
 return Inventory

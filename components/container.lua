@@ -244,7 +244,7 @@ end
 function Container:DropItemAt(itemtodrop, x, y, z)
 	if itemtodrop == nil or itemtodrop.components.inventoryitem == nil then
 		return
-	elseif item.components.inventoryitem.islockedinslot then
+	elseif itemtodrop.components.inventoryitem.islockedinslot then
 		assert(BRANCH ~= "dev")
 		return
 	elseif Vector3.is_instance(x) then
@@ -367,8 +367,11 @@ function Container:CanAcceptCount(item, maxcount)
         return 0
     end
 
-    local stacksize = math.max(maxcount or 0, item.components.stackable ~= nil and item.components.stackable.stacksize or 1)
-
+	local stacksize = item.components.stackable and item.components.stackable:StackSize() or 1
+	if item.components.inventoryitem and item.components.inventoryitem.islockedinslot then
+		stacksize = stacksize - 1
+	end
+	stacksize = math.min(maxcount or math.huge, stacksize)
     if stacksize <= 0 then
         return 0
     end
@@ -1076,6 +1079,8 @@ function Container:TakeActiveItemFromCountOfSlot(slot, count, opener)
             countedstack.prevslot = slot
             countedstack.prevcontainer = self
             inventory:GiveActiveItem(countedstack)
+		elseif item.components.inventoryitem and item.components.inventoryitem.islockedinslot then
+			assert(BRANCH ~= "dev")
         else
             self:RemoveItemBySlot(slot)
             inventory:GiveActiveItem(item)
@@ -1094,6 +1099,11 @@ function Container:TakeActiveItemFromAllOfSlot(slot, opener)
     if item ~= nil and
         active_item == nil and
         inventory ~= nil then
+
+		if item.components.inventoryitem and item.components.inventoryitem.islockedinslot then
+			assert(BRANCH ~= "dev")
+			return
+		end
 
         self.currentuser = opener
 
@@ -1219,6 +1229,10 @@ function Container:MoveItemFromAllOfSlot(slot, container, opener)
     end
     local item = self:GetItemInSlot(slot)
     if item ~= nil and container ~= nil then
+		if item.components.inventoryitem and item.components.inventoryitem.islockedinslot then
+			assert(BRANCH ~= "dev")
+			return
+		end
         container = container.components.container or container.components.inventory
         if container ~= nil and container:IsOpenedBy(opener) then
 
@@ -1359,33 +1373,38 @@ function Container:MoveItemFromCountOfSlot(slot, container, count, opener)
                 local countedstack
                 if stackable and stackable:StackSize() > count then
                     countedstack = stackable:Get(count)
+				elseif item.components.inventoryitem and item.components.inventoryitem.islockedinslot then
+					assert(BRANCH ~= "dev")
                 else
                     countedstack = self:RemoveItemBySlot(slot)
                 end
-                countedstack.prevcontainer = nil
-                countedstack.prevslot = nil
 
-                --Hacks for altering normal inventory:GiveItem() behaviour
-                if container.ignoreoverflow ~= nil and container:GetOverflowContainer() == self then
-                    container.ignoreoverflow = true
-                end
-                if container.ignorefull ~= nil then
-                    container.ignorefull = true
-                end
+				if countedstack then
+					countedstack.prevcontainer = nil
+					countedstack.prevslot = nil
 
-                if not container:GiveItem(countedstack, targetslot) then
-                    self.ignoresound = true
-                    self:GiveItem(countedstack, slot, nil, true)
-                    self.ignoresound = false
-                end
+					--Hacks for altering normal inventory:GiveItem() behaviour
+					if container.ignoreoverflow ~= nil and container:GetOverflowContainer() == self then
+						container.ignoreoverflow = true
+					end
+					if container.ignorefull ~= nil then
+						container.ignorefull = true
+					end
 
-                --Hacks for altering normal inventory:GiveItem() behaviour
-                if container.ignoreoverflow then
-                    container.ignoreoverflow = false
-                end
-                if container.ignorefull then
-                    container.ignorefull = false
-                end
+					if not container:GiveItem(countedstack, targetslot) then
+						self.ignoresound = true
+						self:GiveItem(countedstack, slot, nil, true)
+						self.ignoresound = false
+					end
+
+					--Hacks for altering normal inventory:GiveItem() behaviour
+					if container.ignoreoverflow then
+						container.ignoreoverflow = false
+					end
+					if container.ignorefull then
+						container.ignorefull = false
+					end
+				end
             end
 
             self.currentuser = nil

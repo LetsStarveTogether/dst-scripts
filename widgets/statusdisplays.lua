@@ -138,9 +138,13 @@ local function OnSetPlayerMode(inst, self)
 	end
 
     if self.heart.wxshieldanim ~= nil and self.onwxshielddelta == nil then
-        self.onwxshielddelta = function(owner, data) self:WxShieldDelta(data) end
+        self.onwxshielddelta = function(owner, data) self:SetWxShieldPercent(data.newpercent, data.oldpercent, data.maxshield, data.penetrationthreshold) end
+        self.onwxcanshieldcharge = function(owner, canshieldcharge) self:SetWxCanShieldCharge(canshieldcharge) end
         self.inst:ListenForEvent("wxshielddelta", self.onwxshielddelta, self.owner)
-        self:SetWxShieldPercent(self.owner:GetCurrentShield() / self.owner:GetMaxShield(), 0, self.owner:GetShieldPenetrationThreshold())
+        self.inst:ListenForEvent("wx_canshieldcharge", self.onwxcanshieldcharge, self.owner)
+        local maxshield = self.owner:GetMaxShield()
+        self:SetWxShieldPercent(self.owner:GetCurrentShield() / maxshield, 0, maxshield, self.owner:GetShieldPenetrationThreshold())
+        self:SetWxCanShieldCharge(self.owner:GetCanShieldCharge())
     end
 end
 
@@ -238,7 +242,9 @@ local function OnSetGhostMode(inst, self)
 
     if self.onwxshielddelta ~= nil then
         self.inst:RemoveEventCallback("wxshielddelta", self.onwxshielddelta, self.owner)
+        self.inst:RemoveEventCallback("wx_canshieldcharge", self.onwxcanshieldcharge, self.owner)
         self.onwxshielddelta = nil
+        self.onwxcanshieldcharge = nil
     end
 end
 
@@ -940,15 +946,16 @@ function StatusDisplays:MightinessDelta(data)
     end
 end
 
-function StatusDisplays:SetWxShieldPercent(pct, oldpct, penetrationthreshold)
+function StatusDisplays:SetWxShieldPercent(newpercent, oldpercent, maxshield, penetrationthreshold)
     if self.heart ~= nil then
-        self.heart:SetWxShieldPercent(pct, oldpct, self.owner:GetMaxShield(), penetrationthreshold)
+        self.heart:SetWxShieldPercent(newpercent, oldpercent, maxshield, penetrationthreshold)
     end
 end
 
-function StatusDisplays:WxShieldDelta(data)
-    self:SetWxShieldPercent(data.newpercent, data.oldpercent, data.penetrationthreshold)
-    -- No pulse effects here.
+function StatusDisplays:SetWxCanShieldCharge(canshieldcharge)
+    if self.heart ~= nil then
+        self.heart:SetWxCanShieldCharge(canshieldcharge)
+    end
 end
 
 ----------------------------------------------------------------------------------------------------------

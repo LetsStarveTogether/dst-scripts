@@ -410,17 +410,17 @@ STRINGS =
         },
         GIVE =
         {
-            GENERIC  = "Give",
+            GENERIC = "Give",
             NOTREADY = "Place",
-            READY    = "Sacrifice",
-            SOCKET   = "Socket",
+            READY = "Sacrifice",
+            SOCKET = "Socket",
             CELESTIAL = "Offer",
             SHOW = "Show",
 			REPAIR = "Repair",
-			APPLY    = "Apply {item}",
-            DRINK    = "Drink {item}",
+			APPLY = "Apply {item}",
+            DRINK = "Drink {item}",
             QUAGMIRE_POT_HANGER = "Hang {item}",
-            QUAGMIRE_OVEN       = "Place {item}",
+            QUAGMIRE_OVEN = "Place {item}",
             QUAGMIRE_ALTAR =
             {
                 GENERIC = "Snackrifice {food}",
@@ -1140,7 +1140,7 @@ STRINGS =
 
 		-- Rifts 5
 		POUNCECAPTURE = "Encapsulate",
-        
+
         -- rifts5.1
         DIVEGRAB = "Restrain",
         STARTELECTRICLINK = "Toggle Linking",
@@ -1164,6 +1164,18 @@ STRINGS =
 		MAPDELIVER_MAP = "Send",
         MAPSCOUT_MAP_TOOFAR = "Out of Range",
         SWAPBODIES_MAP = "Transfer Consciousness",
+
+        TOGGLEWXSCREECH =
+        {
+            GENERIC = "Initiate Sonic Waves",
+            TURNOFF = "Terminate Sonic Waves",
+        },
+
+        TOGGLEWXSHIELDING =
+        {
+            GENERIC = "Activate Block",
+            TURNOFF = "Deactivate Block",
+        },
     },
 
 	WOBY_COMMANDS =
@@ -4558,6 +4570,8 @@ STRINGS =
         WX78MODULE_SCREECH = "Sonic-Invoker Circuit",
         WX78MODULE_LIGHT2 = "Super-Illumination Circuit",
         WX78MODULE_DIGESTION = "Redigestion Circuit",
+        WX78MODULE_SHIELDING = "Blocking Circuit",
+        WX78MODULE_SPIN = "Spin-Cycle Circuit",--todo
 
         WX78_INVENTORYCONTAINER_HELD = "Expansive Storage Unit",
         WX78_INVENTORYCONTAINER = "Collapsed Storage Unit",
@@ -5778,6 +5792,8 @@ STRINGS =
         WX78MODULE_SCREECH = "Unleash the fearsome battlecry of the soulless automaton!",
         WX78MODULE_LIGHT2 = "Let them see the light... you.",
         WX78MODULE_DIGESTION = "Give spoiled food a second chance!",
+        WX78MODULE_SHIELDING = "Defend yourself!",
+        WX78MODULE_SPIN = "A fine attack, however you spin it.",--todo
     },
 
     -- MAXWELL_TEST = {"Say pal, you don't look so good.", "You better find something to eat before night comes!"},
@@ -17628,7 +17644,8 @@ STRINGS.SKILLTREE = {
 
     WX78 = {
         -- LOCKS
-        --WX78_EXTRABODY_LOCK_DESC = "TODO",
+        WX78_LUNAR_ALLEGIANCE_LOCK_1_DESC = "Find and defeat the Celestial Champion.\nHave no Shadow Allegiance Skills.",
+        WX78_SHADOW_ALLEGIANCE_LOCK_1_DESC = "Find and defeat the Ancient Fuelweaver.\nHave no Lunar Allegiance Skills.",
 
         -- CIRCUITRY
         WX78_CIRCUITRY_SLOT_1_TITLE = "Off By One",
@@ -17647,19 +17664,19 @@ STRINGS.SKILLTREE = {
         WX78_LESS_CHARGE_LOSS_DESC = "Lose one less charge when unplugging a charged circuit with two or more slots.",
 
         WX78_ALPHA_CIRCUIT_BUFFS_1_TITLE = "Alpha Circuits Tinkering I",
-        WX78_ALPHA_CIRCUIT_BUFFS_1_DESC = "Some Alpha Circuits will grant a new effect in addition to their original effect.",
+        WX78_ALPHA_CIRCUIT_BUFFS_1_DESC = "Processing Circuits gain a new effect in addition to their original effect. Gastrogain Circuits are boosted.",
         WX78_ALPHA_CIRCUIT_BUFFS_2_TITLE = "Alpha Circuits Tinkering II",
-        WX78_ALPHA_CIRCUIT_BUFFS_2_DESC = "Even more Alpha Circuits will grant a new effect in addition to their original effect.",
+        WX78_ALPHA_CIRCUIT_BUFFS_2_DESC = "Hardy Circuits, Processing Circuits, and Beanbooster Circuit gain a new effect in addition to their original effect. Gastrogain Circuits are boosted.",
 
         WX78_BETA_CIRCUIT_BUFFS_1_TITLE = "Beta Circuits Tinkering I",
-        WX78_BETA_CIRCUIT_BUFFS_1_DESC = "Some Beta Circuits will grant a new effect in addition to their original effect.",
+        WX78_BETA_CIRCUIT_BUFFS_1_DESC = "Thermal Circuit, Refrigerant Circuit, Optoelectronic Circuit, Chorusbox Circuit, and Rangebooster Circuit gain a new effect in addition to their original effect.",
         WX78_BETA_CIRCUIT_BUFFS_2_TITLE = "Beta Circuits Tinkering II",
-        WX78_BETA_CIRCUIT_BUFFS_2_DESC = "Even more Beta Circuits will grant a new effect in addition to their original effect.",
+        WX78_BETA_CIRCUIT_BUFFS_2_DESC = "Acceleration Circuits, Electrification Circuit, and Illumination Circuits gain a new effect in addition to their original effect.",
 
         WX78_GAMMA_CIRCUIT_BUFFS_1_TITLE = "Gamma Circuits Tinkering I",
-        WX78_GAMMA_CIRCUIT_BUFFS_1_DESC = "Some Gamma Circuits will grant a new effect in addition to their original effect.",
+        WX78_GAMMA_CIRCUIT_BUFFS_1_DESC = "Redigestion Circuit and Sonic-Invoker Circuit gain a new effect in addition to their original effect.",
         WX78_GAMMA_CIRCUIT_BUFFS_2_TITLE = "Gamma Circuits Tinkering II",
-        WX78_GAMMA_CIRCUIT_BUFFS_2_DESC = "Even more Gamma Circuits will grant a new effect in addition to their original effect.",
+        WX78_GAMMA_CIRCUIT_BUFFS_2_DESC = "Blocking Circuit and Spin-Cycle Circuit gain a new effect in addition to their original effect.",
 
         -- CHASSIS
         WX78_EXTRABODY_1_TITLE = "Cold Standby I",
@@ -18056,21 +18073,22 @@ STRINGS.SCRAPBOOK = {
         SEWINGTAPE = "Used to add 5 days of durability on an item that can be sewn. Can also plug a leak on a boat.",
         TURF = "Can be placed on dirt ground to change the type of ground.",
         VOIDCLOTHUMBRELLA = "While on the ground, it can be activated to create a barrier that protects survivors from rain and rain like effects.",
-        WX78MODULE_MAXHEALTH = "Plugs into WX78's circuit board.\n\nRequires 1 socket and raises Maximum Health +50.",
-        WX78MODULE_MAXSANITY1 = "Plugs into WX78's circuit board.\n\nRequires 1 socket and raises Maximum Sanity +40.",
-        WX78MODULE_MAXSANITY = "Plugs into WX78's circuit board.\n\nRequires 2 sockets and raises Maximum Sanity +100.",
-        WX78MODULE_MOVESPEED = "Plugs into WX78's circuit board.\n\nRequires 6 sockets and raises movment speed by 25%.",
-        WX78MODULE_MOVESPEED2 = "Plugs into WX78's circuit board.\n\nRequires 2 sockets.\nThe first raises movement speed by 25%.\nThe second raises movement speed by 15%.\nThe third raises movement speed by 10%.\nSo the maxmimum speed boost can be 50%.",
-        WX78MODULE_HEAT = "Plugs into WX78's circuit board.\n\nRequires 3 sockets and raises body temperature 20 degrees, increases spoil rate of inventory by 25% and increases drying rate by 10%. Will also warm nearby survivors.",
-        WX78MODULE_NIGHTVISION = "Plugs into WX78's circuit board.\n\nRequires 4 sockets and lets the user see in the dark. Turns on at night and when entering the Caves.",
-        WX78MODULE_COLD = "Plugs into WX78's circuit board.\n\nRequires 3 sockets and lowers body temperature 20 degrees and decreases spoil rate of inventory by 25%. Will also cool nearby survivors.\n\nIf WX78's wetness reaches 95%, it will drop to 0% and 2 Ice will be spawned.",
-        WX78MODULE_TASER = "Plugs into WX78's circuit board.\n\nRequires 2 sockets and deals 20 electrical damage to WX78's attackers.\n\nThis module also makes WX78 immune to electrical damage.",
-        WX78MODULE_LIGHT = "Plugs into WX78's circuit board.\n\nRequires 3 sockets and creates light.",
-        WX78MODULE_MAXHUNGER = "Plugs into WX78's circuit board.\n\nRequires 2 sockets, increases Maximum Hunger by 100 points and reduces Hunger drain by 20%.",
-        WX78MODULE_MAXHUNGER1 = "Plugs into WX78's circuit board.\n\nRequires 1 socket and increases Maximum Hunger by 40 points.",
-        WX78MODULE_MUSIC = "Plugs into WX78's circuit board.\n\nRequires 3 sockets, raises Sanity of nearby survivors 5 points a minute and raises garden plant happiness one step.",
-        WX78MODULE_BEE = "Plugs into WX78's circuit board.\n\nRequires 3 sockets, heals 5 Health every 30 seconds, gains 2 Sanity every minute and increases Maximum Sanity by 100 points.",
-        WX78MODULE_MAXHEALTH2 = "Plugs into WX78's circuit board.\n\nRequires 2 sockets and increases Maximum Health by 150 points.",
+        WX78MODULE_MAXHEALTH = "Plugs into WX-78's Alpha circuit board.\n\nRequires 1 socket and raises Maximum Health +40.",
+        WX78MODULE_MAXSANITY1 = "Plugs into WX-78's Alpha circuit board.\n\nRequires 1 socket and raises Maximum Sanity +40.",
+        WX78MODULE_MAXSANITY = "Plugs into WX-78's Alpha circuit board.\n\nRequires 2 sockets and raises Maximum Sanity +100.",
+        WX78MODULE_MOVESPEED = "Plugs into WX-78's Beta circuit board.\n\nRequires 6 sockets and raises movment speed by 25%.",
+        WX78MODULE_MOVESPEED2 = "Plugs into WX-78's Beta circuit board.\n\nRequires 2 sockets.\nThe first raises movement speed by 25%.\nThe second raises movement speed by 15%.\nThe third raises movement speed by 10%.\nSo the maxmimum speed boost can be 50%.",
+        WX78MODULE_HEAT = "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets and raises body temperature 20 degrees, increases spoil rate of inventory by 25% and increases drying rate by 10%. Will also warm nearby survivors.",
+        WX78MODULE_NIGHTVISION = "Plugs into WX-78's Beta circuit board.\n\nRequires 4 sockets and lets the user see in the dark. Turns on at night and when entering the Caves.",
+        WX78MODULE_COLD = "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets and lowers body temperature 20 degrees and decreases spoil rate of inventory by 25%. Will also cool nearby survivors.\n\nIf WX-78's wetness reaches 95%, it will drop to 0% and 2 Ice will be spawned.",
+        WX78MODULE_TASER = "Plugs into WX-78's Beta circuit board.\n\nRequires 2 sockets and deals 10 electrical damage to WX78's attackers.\n\nThis module also makes WX-78 immune to electrical shock.",
+        WX78MODULE_LIGHT = "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets and creates light.",
+        WX78MODULE_LIGHT2 = "Plugs into WX-78's Beta circuit board.\n\nRequires 1 socket and creates light.",
+        WX78MODULE_MAXHUNGER = "Plugs into WX-78's Alpha circuit board.\n\nRequires 2 sockets, increases Maximum Hunger by 100 points and reduces Hunger drain by 10%.",
+        WX78MODULE_MAXHUNGER1 = "Plugs into WX-78's Alpha circuit board.\n\nRequires 1 socket and increases Maximum Hunger by 40 points.",
+        WX78MODULE_MUSIC = "Plugs into WX-78's Beta circuit board.\n\nRequires 3 sockets, raises Sanity of nearby survivors 5 points a minute and raises garden plant happiness one step.",
+        WX78MODULE_BEE = "Plugs into WX-78's Alpha circuit board.\n\nRequires 3 sockets, heals 5 Health every 30 seconds, gains 2 Sanity every minute and increases Maximum Sanity by 100 points.",
+        WX78MODULE_MAXHEALTH2 = "Plugs into WX-78's Alpha circuit board.\n\nRequires 2 sockets and increases Maximum Health by 100 points.",
         WAGSTAFF_TOOL = "An item used by a mysterious character to restrain static.",
         BATBAT = "Each attack drains 6.8 Health from living targets.\n\nIf the user is not at full health, it also drains 3.4 Sanity.",
         PADDLE = "Can Row in water to move a boat in a desired direction.",

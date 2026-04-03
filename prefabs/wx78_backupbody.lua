@@ -163,6 +163,8 @@ local function OnActivateFn(inst, doer)
 
     inst.wx78_backupbody_inventory.components.inventory:SwapEquipment(doer, nil, true)
 
+	local stacksize_circuit_containers = {}
+
     if doer.components.inventory then
         doer.components.inventory.ignoresound = true
         doer.components.inventory.silentfull = true
@@ -175,6 +177,10 @@ local function OnActivateFn(inst, doer)
                 item.prevcontainer = nil
                 item.prevslot = nil
                 itemsfromcontainer[slot] = item
+				if item.prefab == "wx78_inventorycontainer" then
+					item._backupbody_transferring = true
+					table.insert(stacksize_circuit_containers, item)
+				end
             end
         end
         local itemsfrominventory = {}
@@ -184,6 +190,10 @@ local function OnActivateFn(inst, doer)
                 item.prevcontainer = nil
                 item.prevslot = nil
                 itemsfrominventory[slot] = item
+				if item.prefab == "wx78_inventorycontainer" then
+					item._backupbody_transferring = true
+					table.insert(stacksize_circuit_containers, item)
+				end
             end
         end
         for slot = 1, maxslotstouse do
@@ -239,6 +249,10 @@ local function OnActivateFn(inst, doer)
         inst.components.upgrademoduleowner:SwapUpgradeModules(doer.components.upgrademoduleowner)
         inst:CheckBetaCircuitStatesFrom(doer)
     end
+
+	for _, v in ipairs(stacksize_circuit_containers) do
+		v._backupbody_transferring = nil
+	end
 
     local rot = inst.Transform:GetRotation()
     local rot2 = doer.Transform:GetRotation()

@@ -73,7 +73,7 @@ function Edible:GetSanity(eater)
     local sanityvalue = self.getsanityfn ~= nil and self.getsanityfn(self.inst, eater) or self.sanityvalue
     local ignore_spoilage = not self.degrades_with_spoilage or sanityvalue < 0 or (eater ~= nil and eater.components.eater ~= nil and eater.components.eater.ignoresspoilage)
 
-    if eater.components.eater:IsSpoiledProcessor() and self.inst:HasTag("show_spoiled") then
+    if eater ~= nil and eater.components.eater ~= nil and eater.components.eater:CanProcessSpoiledItem(self.inst) then
         return 0
     elseif not ignore_spoilage and self.inst.components.perishable ~= nil then
         if self.inst.components.perishable:IsStale() then
@@ -97,7 +97,7 @@ function Edible:GetHunger(eater)
     local multiplier = 1
     local ignore_spoilage = not self.degrades_with_spoilage or self.hungervalue < 0 or (eater ~= nil and eater.components.eater ~= nil and eater.components.eater.ignoresspoilage)
 
-    if eater.components.eater:IsSpoiledProcessor() and self:IsSpoiled() then
+    if eater ~= nil and eater.components.eater ~= nil and eater.components.eater:CanProcessSpoiledItem(self.inst) then
         return 0
     elseif not ignore_spoilage and self.inst.components.perishable ~= nil then
         if self.inst.components.perishable:IsStale() then
@@ -123,7 +123,7 @@ function Edible:GetHealth(eater)
     local spice_source = self.spice
     local ignore_spoilage = not self.degrades_with_spoilage or healthvalue < 0 or (eater ~= nil and eater.components.eater ~= nil and eater.components.eater.ignoresspoilage)
 
-    if eater.components.eater:IsSpoiledProcessor() and self:IsSpoiled() then
+    if eater ~= nil and eater.components.eater ~= nil and eater.components.eater:CanProcessSpoiledItem(self.inst) then
         return 0
     elseif not ignore_spoilage and self.inst.components.perishable ~= nil then
         if self.inst.components.perishable:IsStale() then
@@ -167,8 +167,8 @@ function Edible:SetForceSpoiledFood(spoiled)
     end
 end
 
-function Edible:IsSpoiled()
-    return self.spoiledfood or (self.inst.components.perishable and self.inst.components.perishable:IsSpoiled())
+function Edible:IsSpoiledFood()
+    return self.spoiledfood
 end
 
 function Edible:SetGetHealthFn(fn)

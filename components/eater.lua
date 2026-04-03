@@ -166,18 +166,33 @@ function Eater:SetRefusesSpoiledFood(refuses)
     end
 end
 
-function Eater:SetSpoiledProcessor(processor)
+function Eater:SetSpoiledProcessor(processor, allspoiled)
     if processor then
         self.inst:AddTag("spoiledprocessor")
         self.spoiledprocessor = true
+        if allspoiled then -- perishables in spoiled state, instead of just rot.
+            self.inst:AddTag("allspoiledprocessor")
+            self.allspoiledprocessor = true
+        else
+            self.inst:RemoveTag("allspoiledprocessor")
+            self.allspoiledprocessor = false
+        end
     elseif self.spoiledprocessor then
         self.inst:RemoveTag("spoiledprocessor")
         self.spoiledprocessor = false
+        self.inst:RemoveTag("allspoiledprocessor")
+        self.allspoiledprocessor = false
     end
 end
 
 function Eater:IsSpoiledProcessor()
     return self.spoiledprocessor
+end
+
+function Eater:CanProcessSpoiledItem(food)
+    return self:IsSpoiledProcessor() and
+        (food.components.edible:IsSpoiledFood() or
+        (self.allspoiledprocessor and food.components.perishable and food.components.perishable:IsSpoiled()))
 end
 
 function Eater:SetOnEatFn(fn)

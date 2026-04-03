@@ -377,18 +377,36 @@ local actionhandlers =
     ActionHandler(ACTIONS.OPEN_CRAFTING, "dostandingaction"),
     ActionHandler(ACTIONS.PICK,
         function(inst, action)
-			return (action.target:HasTag("noquickpick") and "dolongaction")
-				or (inst:HasTag("farmplantfastpicker") and action.target:HasTag("farm_plant") and "domediumaction")
-				or (inst.replica.rider ~= nil and inst.replica.rider:IsRiding() and (
-						(inst:HasTag("woodiequickpicker") and "dowoodiefastpick") or
-						"dolongaction"
-					))
-                or (action.target:HasAnyTag("jostlepick", "jostlerummage", "jostlesearch") and "dojostleaction")
-                or (action.target:HasAnyTag("quickpick", "quickrummage", "quicksearch") and "doshortaction")
-                or (inst:HasTag("fastpicker") and "doshortaction")
-				or (inst:HasTag("woodiequickpicker") and "dowoodiefastpick")
-                or (inst:HasTag("quagmire_fasthands") and "domediumaction")
-                or "dolongaction"
+			if action.target:HasTag("noquickpick") then
+				return "dolongaction"
+			elseif inst:HasTag("farmplantfastpicker") and action.target:HasTag("farm_plant") then
+				--wormwood skill
+				return "domediumaction"
+			end
+			local rider = inst.replica.rider
+			if rider and rider:IsRiding() then
+				return inst:HasTag("woodiequickpicker") and "dowoodiefastpick" or "dolongaction"
+			elseif action.target:HasTag("pickable") then
+				--[[if inst.GetModuleTypeCount and inst:GetModuleTypeCount("spin") > 0 then
+					--wx skill
+					local inventory = inst.replica.inventory
+					local tool = inventory and inventory:GetEquippedItem(EQUIPSLOTS.HANDS)
+					if tool and tool:HasTag("CHOP_tool") then
+						return not (inst.sg:HasStateTag("prechop") or inst:HasTag("prechop")) and "chop_start" or nil
+					end
+				end]]
+				return (action.target:HasAnyTag("jostlepick", "jostlerummage") and "dojostleaction")
+					or (action.target:HasAnyTag("quickpick", "quickrummage") and "doshortaction")
+					or (inst:HasTag("fastpicker") and "doshortaction")
+					or (inst:HasTag("woodiequickpicker") and "dowoodiefastpick")
+					or (inst:HasTag("quagmire_fasthands") and "domediumaction")
+					or "dolongaction"
+			elseif action.target:HasTag("searchable") then
+				return (action.target:HasTag("jostlesearch") and "dojostleaction")
+					or (action.target:HasTag("quicksearch") and "doshortaction")
+					or "dolongaction"
+			end
+			--failed if reached here!
         end),
     ActionHandler(ACTIONS.CARNIVALGAME_FEED,
         function(inst, action)
@@ -617,13 +635,21 @@ local actionhandlers =
             if not (inst.sg:HasStateTag("attack") and action.target == inst.sg.statemem.attacktarget or IsEntityDead(inst)) then
 				local combat = inst.replica.combat
 				local weapon = combat and combat:GetWeapon() or nil
-				return weapon and (
-					(weapon:HasTag("slingshot") and "slingshot_shoot") or
-					(weapon:HasOneOfTags({"blowdart", "blowpipe"}) and "blowdart") or
-					(weapon:HasTag("thrown") and "throw") or
-					(weapon:HasTag("pillow") and "attack_pillow_pre") or
-					(weapon:HasTag("propweapon") and "attack_prop_pre")
-				) or "attack"
+				if weapon == nil then
+					return "attack"
+				elseif weapon:HasTag("slingshot") then
+					return "slingshot_shoot"
+				elseif inst.GetModuleTypeCount and
+					weapon:HasTag("CHOP_tool") and
+					inst:GetModuleTypeCount("spin") > 0
+				then
+					return not (inst.sg:HasStateTag("prechop") or inst:HasTag("prechop")) and "chop_start" or nil
+				end
+				return (weapon:HasOneOfTags({"blowdart", "blowpipe"}) and "blowdart")
+					or (weapon:HasTag("thrown") and "throw")
+					or (weapon:HasTag("pillow") and "attack_pillow_pre")
+					or (weapon:HasTag("propweapon") and "attack_prop_pre")
+					or "attack"
             end
         end),
 	ActionHandler(ACTIONS.TOSS,
@@ -927,6 +953,14 @@ local actionhandlers =
 	ActionHandler(ACTIONS.STOPREMOVINGMODULE, "stop_removing_module"),
 	ActionHandler(ACTIONS.STARTMAPDELIVER, "startcontinuousaction"),
 	ActionHandler(ACTIONS.MAPDELIVER_MAP, "finishcontinuousaction"),
+
+    ActionHandler(ACTIONS.TOGGLEWXSCREECH, function(inst)
+        return inst:HasTag("wx_screeching") and "wx_screech_pst" or "wx_screech_pre"
+    end),
+
+    ActionHandler(ACTIONS.TOGGLEWXSHIELDING, function(inst)
+        return inst:HasTag("wx_shielding") and "wx_shield_pst" or "wx_shield_pre"
+    end),
 }
 
 local events =
@@ -7820,10 +7854,10 @@ local states =
 
 		timeline =
 		{
-			FrameEvent(10, function(inst)
+			FrameEvent(1, function(inst)
 				inst.sg:AddStateTag("canrotate")
 			end),
-			FrameEvent(11, function(inst)
+			FrameEvent(2, function(inst)
 				inst.sg:RemoveStateTag("overridelocomote")
 			end),
 		},
@@ -8073,6 +8107,130 @@ local states =
 			if not inst.sg.statemem.cancelled and inst.sg.statemem.lastdir then
 				inst.components.playercontroller:RemotePredictOverrideLocomote(nil, false)
 			end
+		end,
+	},
+
+	State{
+		name = "wx_screech_pre",
+		tags = { "doing", "busy" },
+		server_states = { "wx_screech_pre", "wx_screech_loop" },
+
+		onenter = function(inst)
+			inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_screech_pre")
+			inst.AnimState:PushAnimation("wx_screech_lag", false)
+
+			inst:PerformPreviewBufferedAction()
+			inst.sg:SetTimeout(TIMEOUT)
+		end,
+
+		onupdate = function(inst)
+			if inst.sg:ServerStateMatches() then
+				if inst.entity:FlattenMovementPrediction() then
+					inst.sg:GoToState("idle", "noanim")
+				end
+			elseif inst.bufferedaction == nil then
+				inst.sg:GoToState("idle")
+			end
+		end,
+
+		ontimeout = function(inst)
+			inst:ClearBufferedAction()
+			inst.sg:GoToState("idle")
+		end,
+	},
+
+	State{
+		name = "wx_screech_pst",
+		server_states = { "wx_screech_loop" },
+
+		onenter = function(inst)
+			inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_screech_pst")
+
+			inst:PerformPreviewBufferedAction()
+			inst.sg:SetTimeout(TIMEOUT)
+		end,
+
+		onupdate = function(inst)
+			--V2C: NOTE this is intentionally backwards!
+			--     pst succeeds when server state no longer matches!
+			if not inst.sg:ServerStateMatches() then
+				if inst.entity:FlattenMovementPrediction() then
+					inst.sg:GoToState("idle", "noanim")
+				end
+			elseif inst.bufferedaction == nil then
+				inst.sg:GoToState("idle")
+			end
+		end,
+
+		ontimeout = function(inst)
+			inst:ClearBufferedAction()
+			inst.sg:GoToState("idle")
+		end,
+	},
+
+	State{
+		name = "wx_shield_pre",
+		tags = { "busy" },
+		server_states = { "wx_shield_pre", "wx_shield_on", "wx_shield_idle", "wx_shield_hit" },
+
+		onenter = function(inst)
+			inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_defense_on_pre")
+			inst.AnimState:PushAnimation("wx_defense_on_lag", false)
+
+			inst:PerformPreviewBufferedAction()
+			inst.sg:SetTimeout(TIMEOUT)
+		end,
+
+		onupdate = function(inst)
+			if inst.sg:ServerStateMatches() then
+				if inst.entity:FlattenMovementPrediction() then
+					inst.sg:GoToState("idle", "noanim")
+				end
+			elseif inst.bufferedaction == nil then
+				inst.AnimState:PlayAnimation("wx_defense_off")
+				inst.AnimState:SetFrame(4)
+				inst.sg:GoToState("idle", true)
+			end
+		end,
+
+		ontimeout = function(inst)
+			inst:ClearBufferedAction()
+			inst.AnimState:PlayAnimation("wx_defense_off")
+			inst.AnimState:SetFrame(4)
+			inst.sg:GoToState("idle", true)
+		end,
+	},
+
+	State{
+		name = "wx_shield_pst",
+		server_states = { "wx_shield_idle", "wx_shield_hit" },
+
+		onenter = function(inst)
+			inst.components.locomotor:Stop()
+			inst.AnimState:PlayAnimation("wx_defense_off")
+
+			inst:PerformPreviewBufferedAction()
+			inst.sg:SetTimeout(TIMEOUT)
+		end,
+
+		onupdate = function(inst)
+			--V2C: NOTE this is intentionally backwards!
+			--     pst succeeds when server state no longer matches!
+			if not inst.sg:ServerStateMatches() then
+				if inst.entity:FlattenMovementPrediction() then
+					inst.sg:GoToState("idle", "noanim")
+				end
+			elseif inst.bufferedaction == nil then
+				inst.sg:GoToState("idle")
+			end
+		end,
+
+		ontimeout = function(inst)
+			inst:ClearBufferedAction()
+			inst.sg:GoToState("idle")
 		end,
 	},
 }

@@ -126,7 +126,6 @@ local UpgradeModulesDisplay_Inspecting = Class(Widget, function(self, owner, upg
             chip_object:GetAnimState():Hide("focus")
             chip_object._power_hidden = true
 
-            -- chip_object:MoveToBack()
             chip_object:Hide()
 
             chip_object.glow = self:AddChild(UIAnim())

@@ -12,7 +12,7 @@ function containers.widgetsetup(container, prefab, data)
         for k, v in pairs(t) do
             container[k] = v
         end
-        container:SetNumSlots(container.widget.slotpos ~= nil and #container.widget.slotpos or 0)
+		container:SetNumSlots(container.widget.numslots or (container.widget.slotpos and #container.widget.slotpos or 0))
     end
 end
 
@@ -2126,12 +2126,14 @@ end
 --[[ wx78_backupbody ]]
 --------------------------------------------------------------------------
 
+local WX78_BACKUPBODY_POS = Vector3(0, 280, 0)
+
 params.wx78_backupbody = {
     widget = {
         slotpos = {},
         animbank = "ui_wx78_backupbody_5x3",
         animbuild = "ui_wx78_backupbody_5x3",
-        pos = Vector3(0, 280, 0),
+		pos = WX78_BACKUPBODY_POS,
         side_align_tip = 160,
         opensound = "WX_rework/module_side/open",
         closesound = "WX_rework/module_side/close",
@@ -2189,34 +2191,87 @@ end
 --[[ wx78_inventorycontainer ]]
 --------------------------------------------------------------------------
 
+local WX78_INVENTORY_CONTAINER_OFFSET = Vector3(0, 100, 0)
+
+local WX78_INVENTORY_CONTAINER_SLOTPOS = {}
+for x = 0, 4, 1 do
+	table.insert(WX78_INVENTORY_CONTAINER_SLOTPOS, { Vector3(80 * x - 80 * 2, -340, 0) })
+end
+
+local function wx78_inventorycontainer_isinbackupbody(container, doer)
+	local inventoryitem = container.replica.inventoryitem
+	return not (inventoryitem and inventoryitem:IsHeldBy(doer))
+end
+
+local function wx78_inventorycontainer_getcolumn(container)
+	local parent = container.entity:GetParent()
+	local _container = parent and parent.replica.container
+	if _container then
+		for slot, v in pairs(_container:GetItems()) do
+			if v == container then
+				return ((slot - 1) % 5) + 1
+			end
+		end
+	end
+	return 5
+end
+
 params.wx78_inventorycontainer =
 {
     widget =
     {
-        slotpos = { Vector3(0, 0, 0), },
+		slotpos = { Vector3(0, 0, 0) },
+		slotposfn = function(container, doer)
+			return wx78_inventorycontainer_isinbackupbody(container, doer)
+				and WX78_INVENTORY_CONTAINER_SLOTPOS[wx78_inventorycontainer_getcolumn(container)]
+				or nil
+		end,
+		--numslots = 1, --required if we don't have slotpos table
+		slotscalefn = function(container, doer)
+			return wx78_inventorycontainer_isinbackupbody(container, doer) and 0.85 or nil
+		end,
+		slothighlightscalefn = function(container, doer)
+			return wx78_inventorycontainer_isinbackupbody(container, doer) and 1.08 or nil
+		end,
         animbank = "ui_wx78_inventorycontainer_1x1",
         animbuild = "ui_wx78_inventorycontainer_1x1",
-        scale = 0.9,
-        -- pos = Vector3(0, 60, 0),
+		animfn = function(container, doer, anim)
+			return wx78_inventorycontainer_isinbackupbody(container, doer)
+				and (anim..tostring(wx78_inventorycontainer_getcolumn(container)))
+				or nil
+		end,
+		--
+		pos = WX78_INVENTORY_CONTAINER_OFFSET,
+		posfn = function(container, doer)
+			if wx78_inventorycontainer_isinbackupbody(container, doer) then
+				return WX78_BACKUPBODY_POS
+			end
+
+			-- TODO is this the best way of doing this?
+			for k, v in pairs(doer.HUD.controls.inv.inv) do
+				if v.tile and v.tile.item == container then
+					return v:GetPosition() + WX78_INVENTORY_CONTAINER_OFFSET
+				end
+			end
+		end,
 		--Override the widget sound, which is heard only by the client
 		opensound = "balatro/balatro_cabinet/cards_flip_HUD",
 		closesound = "balatro/balatro_cabinet/cards_flip_HUD",
 		--
+		bottom_align_tip_fn = function(container, doer)
+			return wx78_inventorycontainer_isinbackupbody(container, doer) and -90 or nil
+		end,
+		top_align_tip_fn = function(container, doer)
+			return not wx78_inventorycontainer_isinbackupbody(container, doer) and 70 or nil
+		end,
+		top_align_tip = 70, --backward compatibility, fn versions would have higher priority now
     },
-    type = "inv",
+	type = "inv",
+	typefn = function(container, doer)
+		return wx78_inventorycontainer_isinbackupbody(container, doer) and "chest_addon" or nil
+	end,
     -- excludefromcrafting = true,
 }
-
-local WX78_INVENTORY_CONTAINER_OFFSET = Vector3(0, 100, 0)
-function params.wx78_inventorycontainer.widget.pos(container, doer)
-    -- TODO is this the best way of doing this?
-    for k, v in pairs(doer.HUD.controls.inv.inv) do
-        if v.tile and v.tile.item == container then
-            return v:GetPosition() + WX78_INVENTORY_CONTAINER_OFFSET
-        end
-    end
-    return WX78_INVENTORY_CONTAINER_OFFSET
-end
 
 --------------------------------------------------------------------------
 --[[ quagmire_pot ]]
@@ -2372,7 +2427,7 @@ end
 --------------------------------------------------------------------------
 
 for k, v in pairs(params) do
-    containers.MAXITEMSLOTS = math.max(containers.MAXITEMSLOTS, v.widget.slotpos ~= nil and #v.widget.slotpos or 0)
+	containers.MAXITEMSLOTS = math.max(containers.MAXITEMSLOTS, v.widget.numslots or (v.widget.slotpos and #v.widget.slotpos or 0))
 end
 
 --------------------------------------------------------------------------

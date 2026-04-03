@@ -6064,7 +6064,7 @@ return{
 
 		WX78_DRONE_SCOUT = "Get lost, Scott!",
 		WX78_DRONE_DELIVERY = "WX gets free delivery? No fair!",
-		WX78_DRONE_ZAP = "I got my eye on you, Zappy.",
+		WX78_DRONE_ZAP = "I got my eye on you, zappy.",
 		WX78_DRONE_ZAP_REMOTE =
 		{
 			GENERIC = "I don't trust WX with this thing.",
@@ -6077,10 +6077,13 @@ return{
         WX78MODULE_DIGESTION = "Hey WX, when are you gonna install a flamethrower?",
         WX78MODULE_SCREECH = "Hey WX, when are you gonna install a flamethrower?",
         WX78MODULE_LIGHT2 = "Hey WX, when are you gonna install a flamethrower?",
+        WX78MODULE_SHIELDING = "Hey WX, when are you gonna install a flamethrower?",
+        WX78MODULE_SPIN = "Hey WX, when are you gonna install a flamethrower?",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "What do I care about WX's old stuff?", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 

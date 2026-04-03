@@ -6070,17 +6070,20 @@ return{
         WX78MODULE_DIGESTION = "These boons shall empower our metal warrior.",
         WX78MODULE_SCREECH = "These boons shall empower our metal warrior.",
         WX78MODULE_LIGHT2 = "These boons shall empower our metal warrior.",
+        WX78MODULE_SHIELDING = "These boons shall empower our metal warrior.",
+        WX78MODULE_SPIN = "These boons shall empower our metal warrior.",
 
         WX78_INVENTORYCONTAINER =
         {
             HELD = "only_used_by_wx78", -- Held, and working as a container
+--fallback to speech_wilson.lua 			NOPOWER = "only_used_by_wx78", -- Held but can't open due to wx charge level too low
             GENERIC = "What spoils hath our metal warrior bestowed?", -- It was dropped, treat it as if its broken down, and is rummagable
         },
 
         WX78_FOODBRICK =
         {
-            WET = "A gift from the Iron Warrior!",
-            GENERIC = "Even Mjolnir could not crack this loaf!",
+            WET = "A cursed loaf, born from the very innards of the metal warrior!",
+            GENERIC = "Even Mjolnir could not crack this foul brick!",
         },
     },
 
