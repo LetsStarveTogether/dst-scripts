@@ -1,0 +1,247 @@
+name: Update
+
+on:
+  schedule:
+    # Avoid top-of-hour load.
+    - cron: '9-59/15 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: update-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  APP_ID: '343050'
+  STEAMCMD_ARGS: '+@ShutdownOnFailedCommand 1 +@NoPromptForPassword 1'
+  BUILDS_URL: https://s3.amazonaws.com/dstbuilds/builds.json
+  SCRIPTS_PATH: data/databundles/scripts.zip
+  VERSION_PATH: version.txt
+
+jobs:
+  detect:
+    name: Detect versions
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      versions: ${{ steps.detect.outputs.versions || '[]' }}
+    steps:
+      - name: Detect versions
+        id: detect
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const fs = require('node:fs/promises');
+
+            const { data: commit } = await github.rest.repos.getCommit({
+              ...context.repo,
+              ref: context.sha,
+            });
+            const subject = commit.commit.message.split('\n')[0];
+            const currentVersion = Number(subject.match(/\d+/)?.[0]);
+            if (!Number.isSafeInteger(currentVersion)) {
+              throw new Error(`No numeric version found in commit message: ${subject}`);
+            }
+
+            const response = await fetch(process.env.BUILDS_URL);
+            if (!response.ok) {
+              throw new Error(`Failed to fetch builds.json: ${response.status} ${response.statusText}`);
+            }
+
+            const builds = await response.json();
+            const versions = [
+              ...(Array.isArray(builds.release) ? builds.release : []),
+              ...(Array.isArray(builds.updatebeta) ? builds.updatebeta : []),
+            ]
+              .filter((value) => /^\d+$/.test(String(value)))
+              .map(Number)
+              .filter((value) => Number.isSafeInteger(value) && value > currentVersion)
+              .sort((left, right) => left - right)
+              .filter((value, index, list) => index === 0 || value !== list[index - 1]);
+
+            core.setOutput('versions', JSON.stringify(versions));
+            await fs.appendFile(
+              process.env.GITHUB_STEP_SUMMARY,
+              versions.length ? `Need Update ${currentVersion} -> ${versions.join(', ')}\n` : `Skip Update ${currentVersion}\n`,
+            );
+
+  collect:
+    name: Collect scripts
+    needs: detect
+    if: needs.detect.outputs.versions != '[]'
+    runs-on: ubuntu-latest
+    outputs:
+      versions: ${{ steps.scripts.outputs.versions || '[]' }}
+    steps:
+      - name: Set up SteamCMD
+        uses: buildalon/setup-steamcmd@v1
+
+      - name: Collect matching scripts
+        id: scripts
+        env:
+          CANDIDATE_VERSIONS: ${{ join(fromJSON(needs.detect.outputs.versions), ' ') }}
+          HOME: ${{ runner.temp }}/steam-home
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+
+          artifacts_dir="${RUNNER_TEMP}/dst-scripts-artifacts"
+          install_root="${RUNNER_TEMP}/dst-steam-install"
+
+          rm -rf -- "${artifacts_dir}" "${install_root}"
+          mkdir -p -- "${artifacts_dir}" "${HOME}"
+
+          read -r -a candidate_versions <<< "${CANDIDATE_VERSIONS}"
+          read -r -a steamcmd_args <<< "${STEAMCMD_ARGS}"
+
+          is_candidate() {
+            local target="$1"
+            local candidate
+
+            for candidate in "${candidate_versions[@]}"; do
+              [[ "${candidate}" == "${target}" ]] && return 0
+            done
+
+            return 1
+          }
+
+          collect_branch() {
+            local branch="$1"
+            local install_dir="${install_root}/${branch}"
+            local version_file="${install_dir}/${VERSION_PATH}"
+            local scripts_zip="${install_dir}/${SCRIPTS_PATH}"
+            local version_text
+            local version
+            local destination
+            local update_args=("${steamcmd_args[@]}" +force_install_dir "${install_dir}" +login anonymous +app_update "${APP_ID}")
+
+            rm -rf -- "${install_dir}"
+            mkdir -p -- "${install_dir}"
+
+            if [[ "${branch}" != "public" ]]; then
+              update_args+=(-beta "${branch}")
+            fi
+            update_args+=(validate +quit)
+            steamcmd "${update_args[@]}"
+
+            [[ -f "${version_file}" ]] || { echo "Missing ${VERSION_PATH} for ${branch}" >&2; exit 1; }
+            [[ -f "${scripts_zip}" ]] || { echo "Missing ${SCRIPTS_PATH} for ${branch}" >&2; exit 1; }
+
+            version_text="$(<"${version_file}")"
+            version_text="${version_text//[^0-9]/ }"
+            read -r version _ <<< "${version_text}"
+            [[ -n "${version:-}" ]] || { echo "No numeric version was found for ${branch}" >&2; exit 1; }
+
+            if ! is_candidate "${version}"; then
+              echo "${branch} resolved to ${version}, which is not a candidate"
+              return
+            fi
+
+            destination="${artifacts_dir}/scripts-${version}.zip"
+            if [[ -e "${destination}" ]]; then
+              echo "${version} was already collected"
+              return
+            fi
+
+            cp -- "${scripts_zip}" "${destination}"
+            echo "Collected scripts-${version}.zip from ${branch}"
+          }
+
+          collect_branch public
+          collect_branch updatebeta
+
+          versions=()
+          for artifact in "${artifacts_dir}"/scripts-*.zip; do
+            version="${artifact##*/scripts-}"
+            versions+=("${version%.zip}")
+          done
+
+          if [[ "${#versions[@]}" -eq 0 ]]; then
+            echo 'versions=[]' >> "${GITHUB_OUTPUT}"
+            echo 'Skip Collect: no matching scripts' >> "${GITHUB_STEP_SUMMARY}"
+            exit 0
+          fi
+
+          json='['
+          separator=''
+          while IFS= read -r version; do
+            json+="${separator}${version}"
+            separator=','
+          done < <(printf '%s\n' "${versions[@]}" | sort -n -u)
+          json+=']'
+
+          echo "versions=${json}" >> "${GITHUB_OUTPUT}"
+          echo "Collected Scripts ${json}" >> "${GITHUB_STEP_SUMMARY}"
+
+      - name: Upload scripts
+        if: steps.scripts.outputs.versions != '[]'
+        uses: actions/upload-artifact@v7
+        with:
+          name: dst-scripts-zips
+          path: ${{ runner.temp }}/dst-scripts-artifacts/scripts-*.zip
+          if-no-files-found: error
+
+  commit:
+    name: Commit scripts
+    needs: collect
+    if: needs.collect.result == 'success' && needs.collect.outputs.versions != '[]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Download scripts
+        uses: actions/download-artifact@v8
+        with:
+          name: dst-scripts-zips
+          path: ${{ runner.temp }}/dst-scripts-zips
+
+      - name: Commit scripts
+        env:
+          VERSIONS: ${{ join(fromJSON(needs.collect.outputs.versions), ' ') }}
+        run: |
+          set -euo pipefail
+          shopt -s dotglob nullglob
+
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+
+          committed_versions=()
+          read -r -a versions <<< "${VERSIONS}"
+          for version in "${versions[@]}"; do
+            zip_file="${RUNNER_TEMP}/dst-scripts-zips/scripts-${version}.zip"
+            extract_dir="${RUNNER_TEMP}/extracted-scripts"
+            source_root="${extract_dir}/scripts"
+
+            rm -rf -- "${extract_dir}"
+            mkdir -p -- "${extract_dir}"
+            unzip -q "${zip_file}" -d "${extract_dir}"
+
+            rsync -a --delete --exclude='/.git/' --exclude='/.github/' "${source_root}/" "${GITHUB_WORKSPACE}/"
+
+            git add -A
+            if git diff --cached --quiet; then
+              echo "No changes for ${version}"
+              continue
+            fi
+
+            git commit --author='WH-2099 <wh2099@pm.me>' -m "${version}"
+            committed_versions+=("${version}")
+          done
+
+          if [[ "${#committed_versions[@]}" -eq 0 ]]; then
+            echo "Skip Commit ${VERSIONS}: no changes" >> "${GITHUB_STEP_SUMMARY}"
+          else
+            echo "Commit Scripts ${committed_versions[*]}" >> "${GITHUB_STEP_SUMMARY}"
+          fi
+
+          git push origin "HEAD:${GITHUB_REF_NAME}"
