@@ -229,7 +229,6 @@ jobs:
                 ref: 'main',
                 inputs: {
                   build_target: buildTarget,
-                  game_version: gameVersion,
                 },
               });
               triggered.push(update);
