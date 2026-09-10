@@ -67,6 +67,7 @@ jobs:
     needs: detect
     if: needs.detect.outputs.versions != '[]'
     runs-on: ubuntu-latest
+    timeout-minutes: 150
     outputs:
       updates: ${{ steps.scripts.outputs.updates }}
       versions: ${{ steps.scripts.outputs.versions }}
@@ -74,11 +75,40 @@ jobs:
       - name: Set up SteamCMD
         uses: buildalon/setup-steamcmd@v1
 
+      - name: Download public scripts
+        uses: nick-fields/retry@v4
+        with:
+          max_attempts: 10 # Initial attempt plus nine retries.
+          retry_wait_seconds: 60
+          timeout_minutes: 6
+          command: |
+            set -euo pipefail
+            install_dir="${RUNNER_TEMP}/dst-steam-install/public"
+            mkdir -p -- "${install_dir}"
+            timeout --kill-after=10s 5m steamcmd \
+              +@ShutdownOnFailedCommand 1 +@NoPromptForPassword 1 \
+              +force_install_dir "${install_dir}" +login anonymous \
+              +app_update 343050 validate +quit || exit "$?"
+
+      - name: Download beta scripts
+        uses: nick-fields/retry@v4
+        with:
+          max_attempts: 10 # Initial attempt plus nine retries.
+          retry_wait_seconds: 60
+          timeout_minutes: 6
+          command: |
+            set -euo pipefail
+            install_dir="${RUNNER_TEMP}/dst-steam-install/updatebeta"
+            mkdir -p -- "${install_dir}"
+            timeout --kill-after=10s 5m steamcmd \
+              +@ShutdownOnFailedCommand 1 +@NoPromptForPassword 1 \
+              +force_install_dir "${install_dir}" +login anonymous \
+              +app_update 343050 -beta updatebeta validate +quit || exit "$?"
+
       - name: Collect matching scripts
         id: scripts
         env:
           CANDIDATE_VERSIONS: ${{ join(fromJSON(needs.detect.outputs.versions), ' ') }}
-          HOME: ${{ runner.temp }}/steam-home
         shell: bash
         run: |
           set -euo pipefail
@@ -87,7 +117,7 @@ jobs:
           install_root="${RUNNER_TEMP}/dst-steam-install"
           collected_updates=()
 
-          mkdir -p -- "${artifacts_dir}" "${HOME}"
+          mkdir -p -- "${artifacts_dir}"
 
           collect_branch() {
             local branch="$1"
@@ -97,16 +127,6 @@ jobs:
             local scripts_zip="${install_dir}/data/databundles/scripts.zip"
             local version
             local destination
-            local update_args=(+@ShutdownOnFailedCommand 1 +@NoPromptForPassword 1 +force_install_dir "${install_dir}" +login anonymous +app_update 343050)
-
-            mkdir -p -- "${install_dir}"
-
-            if [[ "${branch}" != "public" ]]; then
-              update_args+=(-beta "${branch}")
-            fi
-            update_args+=(validate +quit)
-            steamcmd "${update_args[@]}"
-
             version="$(tr -cd '0-9' < "${version_file}")"
             [[ -n "${version}" ]] || { echo "No numeric version was found for ${branch}" >&2; exit 1; }
 
